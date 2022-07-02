@@ -37,8 +37,8 @@
     <div class="card-body">
         <form>
             <div class="row">
-                <div class="col-12 col-md-4">
-                    <label for="words">Words</label>
+                <div class="col-12 col-md-12">
+                    <label for="words">Words/2 Word Phrases (Seperate by ,)</label>
                     <input class="form-control" type="text" id="words" name="words" value="Jesus Jehovah Apostate Obedience" placeholder="" />
                 </div>
                 <div class="col-12 col-md-4">
@@ -59,10 +59,10 @@
                     </select>
                 </div>
                 <div class="col-12 col-md-4">
-                    <button type="submit" class="btn btn-primary mt-3">Load Data</button>
+                    <button type="submit" class="btn btn-primary mt-4">Load Data</button>
                 </div>
                 <div class="col-12 col-md-4 d-none" id="btnDownload">
-                    <button type="button" class="btn btn-primary mt-3" onclick="chart.downloadCSV()">Export CSV</button>
+                    <button type="button" class="btn btn-primary mt-4" onclick="chart.downloadCSV()">Export CSV</button>
                 </div>
             </div>
         </form>
@@ -82,12 +82,13 @@
     const urlParams = new URLSearchParams(window.location.search);
     let publication = urlParams.get('publication') ?? 'All';
     let words = urlParams.get('words') ?? 'Obey';
+    words = words.replace(/(\w+\s*\w+)\s*/ig, '$1,').replace(/,+/g, ',');
     let wordsRaw = words;
     let normal = urlParams.get('normal');
     $('#publication').val(publication);
     $('#words').val(words);
 
-    words = words.split(/[\s,]+/);
+    words = words.split(/[,]+/);
     words = words.filter(n => n);
 
     let dir = 'Data/WordsByYear/';
@@ -124,7 +125,7 @@
             });
             $.when(...ajaxRequests).done(() => {
                 let seriesData = [];
-                let seriesY = words.map(element => {return element.toLowerCase(); });
+                let seriesY = words.map(element => {return element.toLowerCase().trim(); });
                 let seriesX = [];
                 range(1950, 2022).forEach(function (year) {
                     seriesX.push(year);
@@ -135,8 +136,12 @@
                     let verseData = [];
                     let y = 0;
                     seriesY.forEach(function (word) {
-                        let data = jsonForLetters[word[0].toUpperCase()][word][year] ?? 0;
-                        if(normals) data = (data / normals[year]);
+                        let data = 0;
+                        let category = jsonForLetters[word[0].toUpperCase()];
+                        if(category && category[word]) {
+                            data = category[word][year] ?? 0;
+                            if (normals) data = (data / normals[year]);
+                        }
                         seriesData.push([x, y++, data]);
                     });
                     x++;

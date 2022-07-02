@@ -36,10 +36,19 @@ foreach ($dirs as $dir) {
             $wordsOnLine = count($matches);
             Data::$normals['Words In Year'][$year] = (Data::$normals['Words In Year'][$year] ?? 0) + $wordsOnLine;
 
+            $lastWord = null;
             for($i = 0; $i < $wordsOnLine; $i++){
                 $word = strtolower($matches[$i]);
                 Data::$byBook->{$publication}->{$word[0]}[$word][$year] = (Data::$byBook->{$publication}->{$word[0]}[$word][$year] ?? 0) + 1;
                 Data::$byBook->{'All'}->{$word[0]}[$word][$year] = (Data::$byBook->{'All'}->{$word[0]}[$word][$year] ?? 0) + 1;
+
+                if($lastWord != null){
+                    $lastWord .= " ".$word;
+                    Data::$byBook->{$publication}->{$lastWord[0]}[$lastWord][$year] = (Data::$byBook->{$publication}->{$lastWord[0]}[$lastWord][$year] ?? 0) + 1;
+                    Data::$byBook->{'All'}->{$lastWord[0]}[$lastWord][$year] = (Data::$byBook->{'All'}->{$lastWord[0]}[$lastWord][$year] ?? 0) + 1;
+                }
+
+                $lastWord = $word;
             }
             unset($matches);
         });
@@ -64,8 +73,13 @@ foreach (array_values(PublicationCodes::$codeToName) as $publication) {
         if (empty($words)) break;
         recursive_key_sort($words);
 
-        foreach ($words as $word => &$values)
-            $allSavedWords[$publication][$word] = array_sum(array_values($values));
+        foreach ($words as $word => &$values) {
+            $wordCount = array_sum(array_values($values));
+            if($wordCount > 100)
+                $allSavedWords[$publication][$word] = $wordCount;
+            else
+                unset($words[$word]);
+        }
         $dir = $baseFolder.$publication.'/';
         if(!is_dir($dir)) mkdir($dir, 0755, true);
         file_put_contents($dir. strtoupper($letter) . '.json', json_encode($words, JSON_NUMERIC_CHECK));
