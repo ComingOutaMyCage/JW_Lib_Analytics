@@ -83,6 +83,8 @@ const bibleBooks = ["Genesis",
 
 function InsertNav(){
     $('body').prepend(`
+<script async src="//static.getclicky.com/101371960.js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101371960ns.gif" /></p></noscript>
 <nav class="navbar navbar-expand-lg navbar-dark bg-light mb-1 d-print-none">
     <div class="container-fluid">
         <a class="navbar-brand" href="index.html">JW Lib Analytics</a>
