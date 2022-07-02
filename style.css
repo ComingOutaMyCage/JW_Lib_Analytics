@@ -1,0 +1,60 @@
+#normals-display {
+    display: block;
+}
+#normals-display span {
+    display: inline;
+    background: aliceblue;
+    border-radius: 3px;
+    font-size: 10px;
+    margin:1px;
+    padding:2px;
+    white-space: nowrap;
+}
+body {
+    max-width: 1500px;
+    margin: auto auto;
+}
+.card {
+    margin: auto auto;
+}
+.navbar-nav {
+    flex-wrap: wrap;
+}
+.nav-item {
+    min-width: 100px;
+}
+a.nav-link img {
+    max-height: 1.2em;
+}
+.navbar {
+    background-color: #581697 !important;
+}
+
+#bookSelector {
+}
+#bookSelector .section {
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(150px, 1fr) );
+    gap: 5px;
+    font-weight: bold;
+}
+@media only screen and (max-width: 600px) {
+    #bookSelector .section {
+        grid-template-columns: repeat( auto-fit, minmax(80px, 1fr) );
+        gap: 1px;
+        padding:5px;
+        font-size: 90%;
+        text-overflow: ellipsis;
+        font-weight: normal;
+    }
+}
+#bookSelector .book {
+    background-color: #4d375a;
+    padding:10px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.flex-break {
+    flex-basis: 100%;
+}

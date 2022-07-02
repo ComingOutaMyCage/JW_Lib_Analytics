@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/heatmap.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/data.js"></script>
+<!--    <script src="https://code.highcharts.com/modules/boost-canvas.js"></script>-->
+<!--    <script src="https://code.highcharts.com/modules/boost.src.js"></script>-->
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
+    <script src="js/highcharts.boost-canvas.fix.js"></script>
+    <script src="js/highcharts.boost.fix.js"></script>
+
+    <script src="js/functions.js"></script>
+    <link href="style.css" rel="stylesheet" >
+</head>
+<body>
+<script>InsertNav();</script>
+<div class="card d-print-none" style="max-width: 600px;">
+    <div class="card-body">
+        <form>
+            <div class="row">
+                <div class="col-12 col-md-4">
+                    <label for="book">Book</label>
+                    <select name="book" id="book" class="form-control">
+                    </select>
+                    <script>
+                        let selectBooks = $('#book');
+                        bibleBooks.forEach((book)=>{
+                            selectBooks.append(`<option value="${book}">${book}</option>`)
+                        });
+                    </script>
+                </div>
+                <div class="col-12 col-md-4">
+                    <label>Publication</label>
+                    <select name="publication" id="publication" class="form-control">
+                    </select>
+                    <script>
+                        let selectPublications = $('#publication');
+                        publications.forEach((pub)=>{
+                            selectPublications.append(`<option value="${pub}">${pub}</option>`)
+                        });
+                    </script>
+                </div>
+                <div class="col-12 col-md-4">
+                    <label>Normalize By</label>
+                    <select name="normal" id="normal" class="form-control">
+                        <option value="1">Exact Numbers</option>
+                    </select>
+                </div>
+                <div class="col-12 col-md-4">
+                    <button type="submit" class="btn btn-primary mt-3">Load Data</button>
+                </div>
+                <div class="col-12 col-md-4 d-none" id="btnDownload">
+                    <button type="button" class="btn btn-primary mt-3" onclick="chart.downloadCSV()">Export CSV</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="card d-none" id="normals-display">
+</div>
+<div class="highcharts-container">
+    <figure class="highcharts-figure">
+        <div id="container"></div>
+    </figure>
+</div>
+
+<script>
+
+    const urlParams = new URLSearchParams(window.location.search);
+    let publication = urlParams.get('publication') ?? 'All';
+    let book = urlParams.get('book') ?? 'Genesis';
+    let normal = urlParams.get('normal') ?? 1;
+    $('#publication').val(publication);
+    $('#book').val(book);
+
+    let dir = 'Data/ScripturesByYear/';
+    $.getJSON(dir + `normals.json`, function(normalsJson) {
+        $.each(Object.keys(normalsJson), function (key, value) {
+            $('#normal').append(`<option value="${value}">${value}</option>`);
+        });
+
+        $('#normal').val(normal ?? 1);
+
+        let normals = normalsJson[normal] ?? null;
+        if(normals) {
+            let normalsDisplay = $("#normals-display");
+            normalsDisplay.addClass('p-1').removeClass('d-none');
+            normalsDisplay.append(`<b>${normal}</b><br/>`);
+            Object.keys(normals).forEach((key) => {
+                normalsDisplay.append(`<span><b>${key}</b> ${normals[key]}</span>`);
+            });
+        }
+
+        if (publication && book)
+            $.getJSON(dir + `${publication}/${book}.json`, function (json) {
+
+                //console.log(json);
+
+                let seriesData = [];
+                let seriesY = Object.keys(json).slice(0, 1000);
+                let seriesX = [];
+                range(1950, 2022).forEach(function (year) {
+                    seriesX.push(year);
+                });
+
+                let x = 0;
+                seriesX.forEach(function (year) {
+                    let verseData = [];
+                    let y = 0;
+                    seriesY.forEach(function (verse) {
+                        let data = json[verse][year] ?? 0;
+                        if(normals) data = (data / normals[year]) * 100.0;
+                        seriesData.push([x, y++, data]);
+                    });
+                    x++;
+                    //seriesData.push(verseData);
+                });
+                // console.log(seriesX);
+                // console.log(seriesY);
+                // console.log(seriesData);
+
+                $("#btnDownload").removeClass('d-none');
+                chart = Highcharts.chart('container', {
+
+                    chart: {
+                        type: 'heatmap',
+                        marginTop: 160,
+                        marginBottom: 80,
+                        marginRight: 20,
+                        plotBorderWidth: 1,
+                        height: (seriesY.length * 15) + 200,
+                        // width: (seriesX.length * 10) + 100,
+                        scrollablePlotArea: {
+                            minWidth: (seriesX.length * 10) + 100,
+                            //minHeight: (seriesY.length * 10) + 200,
+                            scrollPositionX: 1,
+                        }
+                    },
+
+                    boost: {
+                        useGPUTranslations: true,
+                    },
+
+                    title: {
+                        text: `<h1>Usage of ${book} in ${publication} Publications from ${seriesX[0]} to ${seriesX[seriesX.length - 1]}</h1>`
+                    },
+
+                    xAxis: {
+                        categories: seriesX,
+                        opposite: true,
+                        // labels: {
+                        //     rotation: -65,
+                        //     //step: 1,
+                        // }
+                    },
+
+                    yAxis: {
+                        categories: seriesY,
+                        title: null,
+                        reversed: true,
+                        labels: {
+                            //rotation: -25,
+                            step: 1,
+                        }
+                    },
+
+                    // accessibility: {
+                    //     point: {
+                    //         descriptionFormatter: function (point) {
+                    //             var ix = point.index + 1,
+                    //                 xName = getPointCategoryName(point, 'x'),
+                    //                 yName = getPointCategoryName(point, 'y'),
+                    //                 val = point.value;
+                    //             return ix + '. ' + xName + ' sales ' + yName + ', ' + val + '.';
+                    //         }
+                    //     }
+                    // },
+
+                    legend: {
+                        align: 'center',
+                        layout: 'horizontal',
+                        margin: 0,
+                        verticalAlign: 'top',
+                        y: -20,
+                        symbolHeight: 20
+                    },
+
+                    tooltip: {
+                        formatter: function () {
+                            let year = seriesX[this.point.x];
+                            let name = seriesY[this.point.y];
+                            let value = this.point.value;
+                            let result = '<b>' + year + " - " + name + '</b><br>';
+                            if(normals){
+                                if(value > 1) value = Round2Places(value);
+                                result += Round4Places(value) + " in each " + normal;
+                                let n = normals[year];
+                                result += `<br/><b>Raw Count</b>: ` + Round2Places(n * this.point.value);
+                                result += `<br/><b>${normal}</b>: ${n}`;
+                            }else result += value;
+                            return result;
+                        }
+                    },
+
+                    series: [{
+                        name: 'Verse',
+                        data: seriesData,
+
+                        cropThreshold: 10000000,
+                        boostThreshold: 100000,
+                        borderWidth: 1,
+                        nullColor: '#EFEFEF',
+                        //colsize: 24 * 36e5, // one day
+                        tooltip: {
+                            headerFormat: 'Mentions<br/>',
+                            pointFormat: '{point.x} <b>{point.value}</b>'
+                        },
+                        //turboThreshold: Number.MAX_VALUE, // #3404, remove after 4.0.5 release
+                        // colsize: 32,
+                        turboThreshold: 0 //larger threshold or set to 0 to disable
+                    }],
+
+                    colorAxis: {
+                        min: 0,
+                        stops: [
+                            [0, '#f1f4ff'],
+                            [0.001, '#d0e0ff'],
+                            [0.33, '#0000ff'],
+                            [0.66, '#ff0000'],
+                            [1, '#000000'],
+                        ],
+                    },
+
+                    // responsive: {
+                    //     rules: [{
+                    //         condition: {
+                    //             minWidth: 400,
+                    //             maxWidth: 500,
+                    //         },
+                    //         chartOptions: {
+                    //             yAxis: {
+                    //                 labels: {
+                    //                     formatter: function () {
+                    //                         return this.value.charAt(0);
+                    //                     }
+                    //                 }
+                    //             }
+                    //         }
+                    //     }]
+                    // }
+
+                });
+
+            });
+    });
+
+</script>

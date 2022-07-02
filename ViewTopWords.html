@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/heatmap.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/data.js"></script>
+    <!--    <script src="https://code.highcharts.com/modules/boost-canvas.js"></script>-->
+    <!--    <script src="https://code.highcharts.com/modules/boost.src.js"></script>-->
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
+    <script src="js/highcharts.boost-canvas.fix.js"></script>
+    <script src="js/highcharts.boost.fix.js"></script>
+
+    <script src="js/functions.js"></script>
+    <script src="js/most-common-words.js"></script>
+    <link href="style.css" rel="stylesheet" >
+</head>
+<body>
+<script>InsertNav();</script>
+<div class="card d-print-none" style="max-width: 600px;">
+    <div class="card-body">
+        <form>
+            <div class="row">
+                <div class="col-12 col-md-4">
+                    <label>Publication</label>
+                    <select name="publication" id="publication" class="form-control">
+                    </select>
+                    <script>
+                        let selectPublications = $('#publication');
+                        publications.forEach((pub)=>{
+                            selectPublications.append(`<option value="${pub}">${pub}</option>`)
+                        });
+                    </script>
+                </div>
+                <div class="col-12 col-md-4">
+                    <label>&nbsp;</label>
+                    <div class="form-check form-switch">
+                        <input class="form-check-input" type="checkbox" id="showCommonWords" name="showCommonWords" value="true" />
+                        <label class="form-check-label" for="showCommonWords">Show Common</label>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4">
+                    <button type="submit" class="btn btn-primary mt-3">Load Data</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="highcharts-container">
+    <figure class="highcharts-figure">
+        <div id="container"></div>
+    </figure>
+</div>
+<table class="table table-dark table-bordered table-striped table-hover mb-5" style="margin: auto auto; width: auto;">
+    <thead><tr><th>Rank</th><th>Count</th><th>Word</th></tr></thead>
+    <tbody id="table-body"></tbody>
+</table>
+<script>
+
+    const urlParams = new URLSearchParams(window.location.search);
+    let publication = urlParams.get('publication') ?? 'All';
+    let showCommonWords = (urlParams.get('showCommonWords') ?? false);
+    $('#publication').val(publication);
+    $('#showCommonWords').prop('checked', showCommonWords);
+
+    let dir = 'Data/WordsByYear/';
+
+    if (publication) {
+        $.getJSON(dir + `${publication}.json`, function (json) {
+            //console.log(json);
+
+            let data = [];
+            Object.keys(json).forEach((key)=>{
+                let count = json[key];
+                if(count < 500) return;
+                else if(!showCommonWords && IsCommonWord(key)) return;
+                data.push([key, count]);
+            });
+            data.sort(function(a, b) {
+                a = a[1];
+                b = b[1];
+                return a < b ? 1 : (a > b ? -1 : 0);
+            });
+            data = data.slice(0, 1000);
+
+
+            let table = $("#table-body");
+            let html = "";
+            for (let i = 0; i < data.length; i++){
+                html += "<tr><td>" + (i + 1) + "</td><td>" + data[i][1] + "</td><td>" + data[i][0] + "</td></tr>";
+                if((i % 100) === 0){
+                    //table.append(html);
+                    //html = "";
+                }
+            }
+            table.append(html);
+
+        });
+    }
+
+</script>

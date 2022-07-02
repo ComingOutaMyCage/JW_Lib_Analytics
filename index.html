@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    <script src="js/functions.js"></script>
+    <link href="style.css" rel="stylesheet" >
+</head>
+<body>
+<script>InsertNav();</script>
+
+<!--<h2>Click one of the above menus to see the spreadsheets</h2>-->
+<!--<h3>Examples</h3>-->
+<!--<div class="examples">-->
+<!--    <a href="HeatmapBibleVerses.html?book=Genesis"><img src="images/examples/Heatmap%20Genesis.png"/></a>-->
+<!--    <a href="HeatmapBibleVerses.html?book=Galatians"><img src="images/examples/Heatmap%20Galations.png"/></a>-->
+<!--    <a href="HeatmapBibleVerses.html?book=Matthew"><img src="images/examples/Heatmap%20Matthew.png"/></a>-->
+<!--    <a href="HeatmapBibleVerses.html?book=Revelation"><img src="images/examples/Heatmap%20Revelation.png"/></a>-->
+<!--    <a href="HeatmapBibleVerses.html?book=Romans"><img src="images/examples/Heatmap%20Romans.png"/></a>-->
+<!--</div>-->
+<style>
+    .examples img {
+        max-width: 30%;
+    }
+</style>
+<div id="bookSelector" class="row">
+    <a class='book' href="HeatmapBibleBooks.html">View Heatmap of Entire Bible</a>
+</div>
+<script>
+    let bookSelector = $("#bookSelector");
+    html = "<div class='col-12 col-md-6'><b>Hebrew-Aramaic Scriptures</b><div class='section'>"
+    bibleBooks.forEach((book)=>{
+        if(book === "Matthew") {
+            html += "</div></div><div class='col-12 col-md-6'><b>Christian Greek Scriptures</b><div class='section'>";
+            html += ``;
+        }
+        html += `<a class='book' href="HeatmapBibleVerses.html?book=${book}">${book}</a>`;
+    });
+    html += "</div></div>"
+    bookSelector.append(html);
+</script>
