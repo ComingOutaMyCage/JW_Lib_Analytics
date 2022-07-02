@@ -31,6 +31,7 @@ a.nav-link img {
 }
 
 #bookSelector {
+
 }
 #bookSelector .section {
     display: grid;
@@ -48,7 +49,7 @@ a.nav-link img {
         font-weight: normal;
     }
 }
-#bookSelector .book {
+.book {
     background-color: #4d375a;
     padding:10px;
     color: white;
