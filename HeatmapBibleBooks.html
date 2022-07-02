@@ -48,7 +48,7 @@
                     </script>
                 </div>
                 <div class="col-12 col-md-6">
-                    <label>Normalise By</label>
+                    <label>Normalize By</label>
                     <select name="normal" id="normal" class="form-control">
                         <option value="1">Exact Numbers</option>
                     </select>
@@ -124,11 +124,11 @@
                     let verseData = [];
                     let y = 0;
                     seriesY.forEach(function (verse) {
-                        let bookData = json[verse] ?? null;
-                        if(!bookData){
-                            console.log("No data for " + verse);
-                            return;
-                        }
+                        let bookData = json[verse] ?? 0;
+                        // if(!bookData){
+                        //     console.log("No data for " + verse);
+                        //     return;
+                        // }
                         let data = bookData[year] ?? 0;
                         if(normals) data = (data / normals[year]);
                         seriesData.push([x, y++, data]);
