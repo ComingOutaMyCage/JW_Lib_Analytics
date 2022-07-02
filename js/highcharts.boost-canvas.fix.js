@@ -110,7 +110,7 @@
                                         ctx.fillRect(yAxis.len - y + xAxis.left, xAxis.len - x + yAxis.top, -height, -width);
                                     }
                                     else {
-                                        ctx.fillRect(x + xAxis.left, y + yAxis.top, width, height);
+                                        ctx.fillRect(x + xAxis.left, y + yAxis.top, width - 1, height - 1);
                                     }
                                 }
                             });

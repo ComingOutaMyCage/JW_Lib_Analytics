@@ -119,7 +119,7 @@
                     let y = 0;
                     seriesY.forEach(function (verse) {
                         let data = json[verse][year] ?? 0;
-                        if(normals) data = (data / normals[year]) * 100.0;
+                        if(normals) data = (data / normals[year]);
                         seriesData.push([x, y++, data]);
                     });
                     x++;
@@ -216,9 +216,10 @@
                         name: 'Verse',
                         data: seriesData,
 
-                        cropThreshold: 10000000,
-                        boostThreshold: 100000,
                         borderWidth: 1,
+                        borderColor: 'white',
+
+                        boostThreshold: 100,
                         nullColor: '#EFEFEF',
                         //colsize: 24 * 36e5, // one day
                         tooltip: {

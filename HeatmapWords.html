@@ -127,7 +127,7 @@
                     let y = 0;
                     seriesY.forEach(function (word) {
                         let data = jsonForLetters[word[0].toUpperCase()][word][year] ?? 0;
-                        if(normals) data = (data / normals[year]) * 100.0;
+                        if(normals) data = (data / normals[year]);
                         seriesData.push([x, y++, data]);
                     });
                     x++;
