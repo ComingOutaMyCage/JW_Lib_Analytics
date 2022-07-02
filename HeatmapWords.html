@@ -82,7 +82,7 @@
     const urlParams = new URLSearchParams(window.location.search);
     let publication = urlParams.get('publication') ?? 'All';
     let words = urlParams.get('words') ?? 'Obey';
-    words = words.replace(/(\w+\s*\w+)\s*/ig, '$1,').replace(/,+/g, ',');
+    words = words.replace(/(\w+\s*\w+)\s+/ig, '$1,').replace(/,+/g, ',');
     let wordsRaw = words;
     let normal = urlParams.get('normal');
     $('#publication').val(publication);
