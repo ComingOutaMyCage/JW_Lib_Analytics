@@ -19,17 +19,9 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src="https://code.highcharts.com/highcharts.js"></script>
-    <script src="https://code.highcharts.com/modules/heatmap.js"></script>
-    <script src="https://code.highcharts.com/modules/exporting.js"></script>
-    <script src="https://code.highcharts.com/modules/export-data.js"></script>
-    <script src="https://code.highcharts.com/modules/data.js"></script>
-    <!--    <script src="https://code.highcharts.com/modules/boost-canvas.js"></script>-->
-    <!--    <script src="https://code.highcharts.com/modules/boost.src.js"></script>-->
-    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
 
-    <script src="js/highcharts.boost-canvas.fix.js"></script>
-    <script src="js/highcharts.boost.fix.js"></script>
+    <script src="https://unpkg.com/chart.js@3"></script>
+    <script src="https://unpkg.com/chartjs-chart-wordcloud@3"></script>
 
     <script src="js/functions.js"></script>
     <script src="js/most-common-words.js"></script>
@@ -66,15 +58,13 @@
         </form>
     </div>
 </div>
-<div class="highcharts-container">
-    <figure class="highcharts-figure">
-        <div id="container"></div>
-    </figure>
+<div>
+    <div style="width: 100vw; height:60vh;"><canvas id="wordCloud"></canvas></div>
+    <table class="table table-dark table-bordered table-striped table-hover mb-5" style="margin: auto auto; width: auto;">
+        <thead><tr><th>Rank</th><th>Count</th><th>Word</th></tr></thead>
+        <tbody id="table-body"></tbody>
+    </table>
 </div>
-<table class="table table-dark table-bordered table-striped table-hover mb-5" style="margin: auto auto; width: auto;">
-    <thead><tr><th>Rank</th><th>Count</th><th>Word</th></tr></thead>
-    <tbody id="table-body"></tbody>
-</table>
 <script>
 
     const urlParams = new URLSearchParams(window.location.search);
@@ -94,7 +84,7 @@
                 let count = json[key];
                 if(count < 500) return;
                 else if(!showCommonWords && IsCommonWord(key) || key.match(/\s/)) return;
-                else if(key > 1 && key < 100) return;
+                else if(key == 0 || key > 1 && key < 100) return;
                 data.push([key, count]);
             });
             data.sort(function(a, b) {
@@ -115,6 +105,35 @@
                 }
             }
             table.append(html);
+
+            const subset = data.slice(0, 100);
+            let max = data[0][1];
+            let min = data[data.length - 1][1];
+            let range = max - min;
+            const chart = new Chart(document.getElementById("wordCloud").getContext("2d"), {
+                type: "wordCloud",
+                data: {
+                    labels: subset.map((d) => d[0]),
+                    datasets: [
+                        {
+                            label: "",
+                            data: subset.map((d) => 5 + (((d[1] - min) / range)  * 100))
+                        }
+                    ]
+                },
+                options: {
+                    title: {
+                        display: false,
+                        text: "Chart.js Word Cloud"
+                    },
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    }
+                }
+            });
+
 
         });
     }
