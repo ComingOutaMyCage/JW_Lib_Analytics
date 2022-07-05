@@ -106,7 +106,8 @@
             }
             table.append(html);
 
-            const subset = data.slice(0, 100);
+            let wordCloudCount = ((window.innerHeight * 0.6) + window.innerWidth) * 0.2;
+            const subset = data.slice(0, wordCloudCount);
             let max = data[0][1];
             let min = data[data.length - 1][1];
             let range = max - min;
