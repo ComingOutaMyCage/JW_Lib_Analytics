@@ -7,20 +7,23 @@ class Data {
     public static $regex = "/((([123]|first|second|third)\s*)?[a-zA-Z]+\.?)\s(\d+):(\d+)(-(\d+))?/i";
     public static $byPubAndYear = [];
     public static $byPubYearBook = [];
-    public static $normals = [ "Publications In Year" => [], "Scriptures In Year" => [], ];
+    public static $normals = [];// [ "Publications In Year" => [], "Scriptures In Year" => [], ];
 }
 
 $percent = new PercentReporter(count($dirs));
 
 foreach ($dirs as $dir) {
+    $percent->Step($dir);
+
     $info = json_decode(file_get_contents($dir . "/info.json"));
-    $info->Category = PublicationCodes::GetCategory($info);
+    $publication = $info->Category = PublicationCodes::GetCategory($info);
     if(empty($info->Category)) continue;
     $info->Year = intval($info->Year);
 
     $files = glob($dir.'\\*.txt');
 
-    Data::$normals['Publications In Year'][$info->Year] = (Data::$normals['Publications In Year'][$info->Year] ?? 0) + 1;
+    Data::$normals[$publication]['Publications In Year'][$info->Year] = (Data::$normals[$publication]['Publications In Year'][$info->Year] ?? 0) + 1;
+    Data::$normals['All']['Publications In Year'][$info->Year] = (Data::$normals['All']['Publications In Year'][$info->Year] ?? 0) + 1;
     foreach ($files as $file){
         //writeLine ($file);
 
@@ -41,7 +44,6 @@ foreach ($dirs as $dir) {
         });
 
     }
-    $percent->Step($dir);
 }
 echo("<pre>");
 echo("Done");
@@ -50,6 +52,7 @@ $baseFolder = "Data/ScripturesByYear/";
 if(!is_dir($baseFolder)) mkdir($baseFolder);
 
 $percent->Step('Saving Normals');
+recursive_key_sort(Data::$normals);
 file_put_contents($baseFolder . 'normals.json', json_encode(Data::$normals, JSON_NUMERIC_CHECK));
 
 recursive_key_sort(Data::$byPubAndYear);
@@ -79,7 +82,8 @@ function AddScripture($info, $raw_book, $chapter, $startVerse, $endVerse){
 
     if($endVerse < $startVerse || empty($endVerse)) $endVerse = $startVerse;
 
-    Data::$normals['Scriptures In Year'][$year] = (Data::$normals['Scriptures In Year'][$year] ?? 0) + 1;
+    Data::$normals[$publication]['Scriptures In Year'][$year] = (Data::$normals[$publication]['Scriptures In Year'][$year] ?? 0) + 1;
+    Data::$normals['All']['Scriptures In Year'][$year] = (Data::$normals['All']['Scriptures In Year'][$year] ?? 0) + 1;
 
     for ($v = $startVerse; $v <= $endVerse; $v++) {
 

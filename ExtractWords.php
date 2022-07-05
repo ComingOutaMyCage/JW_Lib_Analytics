@@ -6,7 +6,7 @@ $dirs =  glob('C:\temp\WT\*', GLOB_ONLYDIR);
 class Data {
     public static $regex = "/([a-z][a-zÀ-ÖØ-öø-ÿ'\-]*|\d+|[\.!?\(\)\[\]])/i";
     public static $byBook;
-    public static $normals = [ "Publications In Year" => [], "Words In Year" => [], ];
+    public static $normals = [];//[ "Publications In Year" => [], "Words In Year" => [], ];
     public static $letters = [];
 }
 Data::$letters = array_fill_keys(array_merge(range('a', 'z'), range('0', '9')),0);
@@ -18,24 +18,28 @@ foreach (array_values(PublicationCodes::$codeToName) as $publication) {
 
 $percent = new PercentReporter(count($dirs));
 foreach ($dirs as $dir) {
+    $percent->Step($dir);
+
     $files = glob($dir.'\\*.txt');
     $info = json_decode(file_get_contents($dir . "/info.json"));
     $publication = PublicationCodes::GetCategory($info);
     if(empty($publication)) continue;
     $year = intval($info->Year);
 
-    Data::$normals['Publications In Year'][$year] = (Data::$normals['Publications In Year'][$year] ?? 0) + 1;
+    Data::$normals['All']['Publications In Year'][$year] = (Data::$normals['All']['Publications In Year'][$year] ?? 0) + 1;
+    Data::$normals[$publication]['Publications In Year'][$year] = (Data::$normals[$publication]['Publications In Year'][$year] ?? 0) + 1;
     foreach ($files as $file){
         //writeLine ($file);
-
-        ForeachLine($file, function($line) use ($year, $publication){
+        $line = file_get_contents($file);
+        //ForeachLine($file, function($line) use ($year, $publication){
             //$line = "1914 is the year in which 1975 failed";
             preg_match_all(Data::$regex, $line, $matches);
-            if(empty($matches[0])) return;
+            if(empty($matches[0])) continue;
 
             $matches = $matches[0];
             $wordsOnLine = count($matches);
-            Data::$normals['Words In Year'][$year] = (Data::$normals['Words In Year'][$year] ?? 0) + $wordsOnLine;
+            Data::$normals['All']['Words In Year'][$year] = (Data::$normals['All']['Words In Year'][$year] ?? 0) + $wordsOnLine;
+            Data::$normals[$publication]['Words In Year'][$year] = (Data::$normals[$publication]['Words In Year'][$year] ?? 0) + $wordsOnLine;
 
             $lastWord = null;
             for($i = 0; $i < $wordsOnLine; $i++){
@@ -54,14 +58,13 @@ foreach ($dirs as $dir) {
 
                 $lastWord = $word;
             }
-            unset($matches);
-        });
+            //unset($matches);
+        //});
     }
 
-    $percent->Step($dir);
     //echo(json_encode(Data::$byBook, JSON_NUMERIC_CHECK));
-//    var_dump(Data::$letters);
-    //break;
+//    var_dump(Data::$normals);
+//    break;
     //die();
 
     unset($info);
@@ -106,5 +109,6 @@ foreach ($allSavedWords as $publication=>$wordCounts) {
 //file_put_contents('Watchtower - Words By Year.json', json_encode(ExtractWords::$byYear));
 
 echo("<pre>");
-print_r($allSavedWords);
+echo("Done");
+//print_r($allSavedWords);
 

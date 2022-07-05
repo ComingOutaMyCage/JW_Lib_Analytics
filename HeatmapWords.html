@@ -38,7 +38,7 @@
         <form>
             <div class="row">
                 <div class="col-12 col-md-12">
-                    <label for="words">Words/2 Word Phrases (Seperate by ,)</label>
+                    <label for="words">Words(Seperate by ,) or 2 Word Phrases</label>
                     <input class="form-control" type="text" id="words" name="words" value="Jesus Jehovah Apostate Obedience" placeholder="" />
                 </div>
                 <div class="col-12 col-md-4">
@@ -81,18 +81,24 @@
 
     const urlParams = new URLSearchParams(window.location.search);
     let publication = urlParams.get('publication') ?? 'All';
-    let words = urlParams.get('words') ?? 'Obey';
+    let words = urlParams.get('words') ?? 'Obey,Governing Body';
+    words = words.replace(/['"]/, "");
     words = words.replace(/(\w+\s+\w+)\s+/ig, '$1,').replace(/,+/g, ',');
     let wordsRaw = words;
     let normal = urlParams.get('normal');
     $('#publication').val(publication);
     $('#words').val(words);
+    $('#words').change(function(){
+       if($('#words').val().match(/["']/))
+           $('#words').val($('#words').val().replace(/['"]/, ""));
+    });
 
     words = words.split(',');
     words = words.filter(n => n);
 
     let dir = 'Data/WordsByYear/';
     $.getJSON(dir + `normals.json`, function(normalsJson) {
+        normalsJson = normalsJson[publication];
         $.each(Object.keys(normalsJson), function (key, value) {
             $('#normal').append(`<option value="${value}">${value}</option>`);
         });
