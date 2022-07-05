@@ -13,14 +13,13 @@ class Data {
 $percent = new PercentReporter(count($dirs));
 
 foreach ($dirs as $dir) {
-    $files = glob($dir.'\\*.txt');
     $info = json_decode(file_get_contents($dir . "/info.json"));
-    $info->Category = PublicationCodes::$codeToName[$info->Category] ?? null;
-    if($info->Category == null) continue;
+    $info->Category = PublicationCodes::GetCategory($info);
+    if(empty($info->Category)) continue;
     $info->Year = intval($info->Year);
-    if($info->UndatedReferenceTitle == 'Aid'){
-        continue;
-    }
+
+    $files = glob($dir.'\\*.txt');
+
     Data::$normals['Publications In Year'][$info->Year] = (Data::$normals['Publications In Year'][$info->Year] ?? 0) + 1;
     foreach ($files as $file){
         //writeLine ($file);

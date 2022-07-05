@@ -305,6 +305,14 @@ class PublicationCodes {
         'gloss' => null,
         'it' => null,
     ];
+    public static function GetCategory($info){
+        $category = PublicationCodes::$codeToName[$info->Category] ?? null;
+        if(empty($info->Category)) return null;
+        if($info->UndatedReferenceTitle == 'Aid' || preg_match('/ws\d+/', $info->Symbol)){//Watchtower simplified
+            return null;
+        }
+        return $category;
+    }
 }
 
 function writeLine($text){
@@ -342,10 +350,10 @@ class PercentReporter
         echo("<div id='percent'>0%</div>");
     }
 
-    public function Step($status){
+    public function Step($status, $force = false){
         $this->step++;
         $percent = intval(($this->step / $this->steps) * 100);
-        if($percent > $this->lastPercent){
+        if($percent > $this->lastPercent || $force){
             $status = json_encode($status);
             echo("<script>document.getElementById('percent').innerHTML = '{$percent}% - {$status}';</script>");
             $this->lastPercent = $percent;

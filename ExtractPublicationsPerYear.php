@@ -12,12 +12,10 @@ $percent = new PercentReporter(count($dirs));
 foreach ($dirs as $dir) {
     $files = glob($dir.'\\*.txt');
     $info = json_decode(file_get_contents($dir . "/info.json"));
-    $publication = PublicationCodes::$codeToName[$info->Category] ?? null;
+    $publication = PublicationCodes::GetCategory($info);
     if(empty($publication)) continue;
     $year = intval($info->Year);
-    if($info->UndatedReferenceTitle == 'Aid'){
-        continue;
-    }
+
     if($publication == "Books")
         $publication = $info->UndatedReferenceTitle ?? $info->Title;
 

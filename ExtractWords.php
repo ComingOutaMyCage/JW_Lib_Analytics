@@ -4,10 +4,12 @@ include (__DIR__.'/functions.php');
 $dirs =  glob('C:\temp\WT\*', GLOB_ONLYDIR);
 
 class Data {
-    public static $regex = "/([a-z][\w'-]*|\d+|[\.!?\(\)\[\]])/i";
+    public static $regex = "/([a-z][a-zÀ-ÖØ-öø-ÿ'\-]*|\d+|[\.!?\(\)\[\]])/i";
     public static $byBook;
     public static $normals = [ "Publications In Year" => [], "Words In Year" => [], ];
+    public static $letters = [];
 }
+Data::$letters = array_fill_keys(array_merge(range('a', 'z'), range('0', '9')),0);
 class BlankClass {}
 Data::$byBook = new BlankClass();
 foreach (array_values(PublicationCodes::$codeToName) as $publication) {
@@ -18,17 +20,16 @@ $percent = new PercentReporter(count($dirs));
 foreach ($dirs as $dir) {
     $files = glob($dir.'\\*.txt');
     $info = json_decode(file_get_contents($dir . "/info.json"));
-    $publication = PublicationCodes::$codeToName[$info->Category] ?? null;
+    $publication = PublicationCodes::GetCategory($info);
     if(empty($publication)) continue;
     $year = intval($info->Year);
-    if($info->UndatedReferenceTitle == 'Aid'){
-        continue;
-    }
+
     Data::$normals['Publications In Year'][$year] = (Data::$normals['Publications In Year'][$year] ?? 0) + 1;
     foreach ($files as $file){
         //writeLine ($file);
 
         ForeachLine($file, function($line) use ($year, $publication){
+            //$line = "1914 is the year in which 1975 failed";
             preg_match_all(Data::$regex, $line, $matches);
             if(empty($matches[0])) return;
 
@@ -39,9 +40,11 @@ foreach ($dirs as $dir) {
             $lastWord = null;
             for($i = 0; $i < $wordsOnLine; $i++){
                 $word = strtolower($matches[$i]);
-                if(strlen($word) == 1) { $lastWord = null; continue; }
-                Data::$byBook->{$publication}->{$word[0]}[$word][$year] = (Data::$byBook->{$publication}->{$word[0]}[$word][$year] ?? 0) + 1;
-                Data::$byBook->{'All'}->{$word[0]}[$word][$year] = (Data::$byBook->{'All'}->{$word[0]}[$word][$year] ?? 0) + 1;
+                if(strlen($word) <= 1) { $lastWord = null; continue; }
+                $letter = $word[0];
+                Data::$letters[$letter] = true;
+                Data::$byBook->{$publication}->{$letter}[$word][$year] = (Data::$byBook->{$publication}->{$letter}[$word][$year] ?? 0) + 1;
+                Data::$byBook->{'All'}->{$letter}[$word][$year] = (Data::$byBook->{'All'}->{$letter}[$word][$year] ?? 0) + 1;
 
                 if($lastWord != null && !is_numeric($lastWord)){
                     $lastWord .= " ".$word;
@@ -56,25 +59,29 @@ foreach ($dirs as $dir) {
     }
 
     $percent->Step($dir);
-//    echo(json_encode(Data::$byBook, JSON_NUMERIC_CHECK));
-//    var_dump(Data::$byBook);
+    //echo(json_encode(Data::$byBook, JSON_NUMERIC_CHECK));
+//    var_dump(Data::$letters);
     //break;
     //die();
 
     unset($info);
 }
+//die();
 
-$percent->Step('Saving Normals');
+$percent->Step('Saving Normals', true);
 
 $baseFolder = "Data/WordsByYear/";
+recursive_key_sort(Data::$normals);
 file_put_contents($baseFolder . 'normals.json', json_encode(Data::$normals, JSON_NUMERIC_CHECK));
 
-$az = range('a', 'z');
+$letters = array_keys(Data::$letters);
+//var_dump($letters);
+
 $allSavedWords = [];
 foreach (array_unique(array_values(PublicationCodes::$codeToName)) as $publication) {
-    foreach ($az as $letter){
+    foreach ($letters as $letter){
         writeLine($publication.' - '.$letter);
-        $percent->Step('Saving '.$publication.' - '.$letter);
+        $percent->Step('Saving '.$publication.' - '.$letter, true);
         $words = &Data::$byBook->{$publication}->{$letter};
         if (empty($words)) continue;
         recursive_key_sort($words);
@@ -93,7 +100,7 @@ foreach (array_unique(array_values(PublicationCodes::$codeToName)) as $publicati
 }
 
 foreach ($allSavedWords as $publication=>$wordCounts) {
-    $percent->Step('Saving '.$publication.' - Counts');
+    $percent->Step('Saving '.$publication.' - Counts',true);
     file_put_contents($baseFolder . $publication . '.json', json_encode($wordCounts, JSON_NUMERIC_CHECK));
 }
 //file_put_contents('Watchtower - Words By Year.json', json_encode(ExtractWords::$byYear));
