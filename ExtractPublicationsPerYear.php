@@ -13,7 +13,7 @@ foreach ($dirs as $dir) {
     $files = glob($dir.'\\*.txt');
     $info = json_decode(file_get_contents($dir . "/info.json"));
     $publication = PublicationCodes::$codeToName[$info->Category] ?? null;
-    if($publication == null) continue;
+    if(empty($publication)) continue;
     $year = intval($info->Year);
     if($info->UndatedReferenceTitle == 'Aid'){
         continue;

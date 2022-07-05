@@ -288,7 +288,8 @@ BibleBooks::Init();
 class PublicationCodes {
     public static $codeToName = [
         'All' => 'All',
-        'ws' => 'Watchtower',
+        //'ws' => 'Watchtower',
+        'ws' => null, //Watchtower Simplified
         'w' => 'Watchtower',
         'wp' => 'Watchtower',
         'km' => 'Kingdom Ministry',
