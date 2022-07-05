@@ -93,7 +93,8 @@
             Object.keys(json).forEach((key)=>{
                 let count = json[key];
                 if(count < 500) return;
-                else if(!showCommonWords && IsCommonWord(key)) return;
+                else if(!showCommonWords && IsCommonWord(key) || key.match(/\s/)) return;
+                else if(key > 1 && key < 100) return;
                 data.push([key, count]);
             });
             data.sort(function(a, b) {
