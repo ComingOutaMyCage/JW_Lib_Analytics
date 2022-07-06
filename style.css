@@ -1,6 +1,7 @@
 #normals-display {
-    display: block;
-    max-width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
 #normals-display span {
     display: inline;
