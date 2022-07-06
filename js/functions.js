@@ -156,6 +156,9 @@ function OnResize(){
     $('#container').css('transform', 'scale(' + scale + ")").css('transform-origin', 'top left').css('overflow', '');
     // $("#container").css('overflow', '');
 }
+function HidePace() {
+    $('.pace').hide();
+}
 const isTouchDevice = () => {
     return window.matchMedia("(pointer: coarse)").matches
 }
