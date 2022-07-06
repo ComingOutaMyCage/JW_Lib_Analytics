@@ -80,7 +80,7 @@
     let dir = 'Data/WordsByYear/';
 
     if (publication) {
-        $.getJSON(dir + `${publication}.json.gz`, function (json) {
+        $.getJSON(dir + `${publication}.json`, function (json) {
             //console.log(json);
 
             let data = [];

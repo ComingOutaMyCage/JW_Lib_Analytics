@@ -80,7 +80,7 @@
     $('#publication').val(publication);
 
     let dir = 'Data/WordsByYear/';
-    $.getJSON(dir + `normals.json.gz`, function(normalsJson) {
+    $.getJSON(dir + `normals.json`, function(normalsJson) {
         console.log(normalsJson);
         normalsJson = normalsJson[publication];
         $.each(Object.keys(normalsJson), function (key, value) {
@@ -99,7 +99,7 @@
             });
         }
         if (publication) {
-            $.getJSON(dir + `${publication}/TotalsPerYear.json.gz`, function (json) {
+            $.getJSON(dir + `${publication}/TotalsPerYear.json`, function (json) {
                 //console.log(json);
 
                 let seriesData = [];

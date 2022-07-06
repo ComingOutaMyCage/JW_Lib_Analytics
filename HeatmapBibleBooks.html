@@ -83,7 +83,7 @@
     $('#publication').val(publication);
 
     let dir = 'Data/ScripturesByYear/';
-    $.getJSON(dir + `normals.json.gz`, function(normalsJson) {
+    $.getJSON(dir + `normals.json`, function(normalsJson) {
         normalsJson = normalsJson[publication];
         $.each(Object.keys(normalsJson), function (key, value) {
             $('#normal').append(`<option value="${value}">${value}</option>`);
@@ -102,7 +102,7 @@
         }
 
         if (publication )
-            $.getJSON(dir + `${publication}.json.gz`, function (json) {
+            $.getJSON(dir + `${publication}.json`, function (json) {
 
                 //console.log(json);
 
