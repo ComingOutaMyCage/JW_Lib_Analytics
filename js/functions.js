@@ -159,6 +159,7 @@ function OnResize(){
 }
 function HidePace() {
     Pace.stop();
+    $('.pace').hide();
 }
 const isTouchDevice = () => {
     return window.matchMedia("(pointer: coarse)").matches
