@@ -130,12 +130,12 @@ function redimChartAfterPrint(chart) {
 
 window.onbeforeprint = function() {
     // redimChartBeforePrint($('#container').highcharts(), 850, undefined);
-    //$(".highcharts-container").css('transform-origin', 'top center').css('transform', 'scale(0.8)');
+    //$(".highcharts-div").css('transform-origin', 'top center').css('transform', 'scale(0.8)');
     // redimChartBeforePrint($('#container').highcharts(), 800, 600);
 };
 window.onafterprint = function() {
     // redimChartAfterPrint($('#container').highcharts());
-    //$(".highcharts-container").css('transform-origin', '').css('transform', '');
+    //$(".highcharts-div").css('transform-origin', '').css('transform', '');
     // redimChartAfterPrint($('#chart2').highcharts());
 };
 
@@ -145,3 +145,16 @@ $(document).ready(function(){
    });
 });
 
+var chart = null;
+$( window ).resize(OnResize);
+function OnResize(){
+    if(!isTouchDevice()) return;
+    if(!chart) return;
+    let scale = ($(".navbar").width() / chart.chartWidth);
+    if(scale > 1) scale = 1;
+    $('#container').css('transform', 'scale(' + scale + ")").css('transform-origin', 'top left').css('overflow', '');
+    // $("#container").css('overflow', '');
+}
+const isTouchDevice = () => {
+    return window.matchMedia("(pointer: coarse)").matches
+}

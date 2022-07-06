@@ -66,7 +66,7 @@
     </div>
 </div>
 <div class="card d-none" id="normals-display"></div>
-<div class="highcharts-container">
+<div class="highcharts-div">
     <figure class="highcharts-figure">
         <div id="container"></div>
     </figure>
@@ -122,7 +122,7 @@
                         marginRight: 20,
                         plotBorderWidth: 1,
                         height: window.innerHeight * 0.8,
-                        // width: (seriesX.length * 10) + 100,
+                        width: !isTouchDevice() ? undefined : Math.min(1500, Math.max(window.innerWidth, (seriesX.length * 10) + 150)),
                         scrollablePlotArea: {
                             minWidth: (seriesX.length * 10) + 100,
                             //minHeight: (seriesY.length * 10) + 200,
@@ -227,6 +227,7 @@
 
 
                 });
+                OnResize();
 
             });
         }

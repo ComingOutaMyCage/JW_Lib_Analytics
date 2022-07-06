@@ -73,15 +73,13 @@
 </div>
 <div class="card d-none" id="normals-display">
 </div>
-<div class="highcharts-container">
+<div class="highcharts-div">
     <figure class="highcharts-figure">
         <div id="container"></div>
     </figure>
 </div>
 
 <script>
-    var chart = null;
-
     const urlParams = new URLSearchParams(window.location.search);
     let publication = urlParams.get('publication') ?? 'All';
     let words = urlParams.get('words') ?? 'Obey,Governing Body';
@@ -170,7 +168,7 @@
                         marginRight: 20,
                         plotBorderWidth: 1,
                         height: (seriesY.length * 15) + 250,
-                        // width: (seriesX.length * 10) + 100,
+                        width: !isTouchDevice() ? undefined : Math.min(1500, Math.max(window.innerWidth, (seriesX.length * 10) + 150)),
                         scrollablePlotArea: {
                             minWidth: (seriesX.length * 10) + 100,
                             //minHeight: (seriesY.length * 10) + 200,
@@ -279,6 +277,7 @@
                     // }
 
                 });
+                OnResize();
 
             });
 
