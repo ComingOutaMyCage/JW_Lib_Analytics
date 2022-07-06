@@ -151,13 +151,14 @@ $( window ).resize(OnResize);
 function OnResize(){
     if(!isTouchDevice()) return;
     if(!chart) return;
+    HidePace();
     let scale = ($(".navbar").width() / chart.chartWidth);
     if(scale > 1) scale = 1;
     $('#container').css('transform', 'scale(' + scale + ")").css('transform-origin', 'top left').css('overflow', '');
     // $("#container").css('overflow', '');
 }
 function HidePace() {
-    $('.pace').hide();
+    Pace.stop();
 }
 const isTouchDevice = () => {
     return window.matchMedia("(pointer: coarse)").matches
