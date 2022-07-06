@@ -158,8 +158,8 @@ function OnResize(){
     // $("#container").css('overflow', '');
 }
 function HidePace() {
+    Pace.stop();
     setInterval(function(){
-        Pace.stop();
         $('.pace').hide();
     }, 1000);
 }
