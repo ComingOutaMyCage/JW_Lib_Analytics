@@ -158,8 +158,10 @@ function OnResize(){
     // $("#container").css('overflow', '');
 }
 function HidePace() {
-    Pace.stop();
-    $('.pace').hide();
+    setInterval(function(){
+        Pace.stop();
+        $('.pace').hide();
+    }, 1000);
 }
 const isTouchDevice = () => {
     return window.matchMedia("(pointer: coarse)").matches
