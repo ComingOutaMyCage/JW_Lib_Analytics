@@ -16,8 +16,8 @@ foreach ($dirs as $dir){
             }
         }
     }
-    $data = json_encode($wordCount);
-    file_put_contents($dir . "/TotalsPerYear.json", $data);
+
+    $data = WriteJSON($dir . "/TotalsPerYear.json", $wordCount);
     echo($data);
 }
 

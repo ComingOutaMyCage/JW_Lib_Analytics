@@ -4,7 +4,7 @@ include (__DIR__.'/functions.php');
 $dirs =  glob('C:\temp\WT\*', GLOB_ONLYDIR);
 
 class Data {
-    public static $regex = "/([a-z][a-zÀ-ÖØ-öø-ÿ'\-]*|\d+|[\.!?\(\)\[\]])/i";
+    public static $regex = "/([a-z][a-zÀ-ÖØ-öø-ÿ'\-]*|\d+|[\.!?\(\)\[\]])/i";//2+ letter Words beginning with a-z then any accented characters allowed. Also punctuation marks to interrupt double words.
     public static $byBook;
     public static $normals = [];//[ "Publications In Year" => [], "Words In Year" => [], ];
     public static $letters = [];
@@ -37,7 +37,8 @@ foreach ($dirs as $dir) {
             if(empty($matches[0])) continue;
 
             $matches = $matches[0];
-            $wordsOnLine = count($matches);
+            $wordsOnLine = 0;
+            foreach ($matches as &$match) if(strlen($match) > 1) $wordsOnLine++;
             Data::$normals['All']['Words In Year'][$year] = (Data::$normals['All']['Words In Year'][$year] ?? 0) + $wordsOnLine;
             Data::$normals[$publication]['Words In Year'][$year] = (Data::$normals[$publication]['Words In Year'][$year] ?? 0) + $wordsOnLine;
 
@@ -75,7 +76,7 @@ $percent->Step('Saving Normals', true);
 
 $baseFolder = "Data/WordsByYear/";
 recursive_key_sort(Data::$normals);
-file_put_contents($baseFolder . 'normals.json', json_encode(Data::$normals, JSON_NUMERIC_CHECK));
+WriteJSON($baseFolder . 'normals.json', Data::$normals);
 
 $letters = array_keys(Data::$letters);
 //var_dump($letters);
@@ -98,13 +99,13 @@ foreach (array_unique(array_values(PublicationCodes::$codeToName)) as $publicati
         }
         $dir = $baseFolder.$publication.'/';
         if(!is_dir($dir)) mkdir($dir, 0755, true);
-        file_put_contents($dir. strtoupper($letter) . '.json', json_encode($words, JSON_NUMERIC_CHECK));
+        WriteJSON($dir. strtoupper($letter) . '.json', $words);
     }
 }
 
 foreach ($allSavedWords as $publication=>$wordCounts) {
     $percent->Step('Saving '.$publication.' - Counts',true);
-    file_put_contents($baseFolder . $publication . '.json', json_encode($wordCounts, JSON_NUMERIC_CHECK));
+    WriteJSON($baseFolder . $publication . '.json', $wordCounts);
 }
 //file_put_contents('Watchtower - Words By Year.json', json_encode(ExtractWords::$byYear));
 

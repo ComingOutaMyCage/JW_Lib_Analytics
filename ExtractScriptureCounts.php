@@ -53,12 +53,12 @@ if(!is_dir($baseFolder)) mkdir($baseFolder);
 
 $percent->Step('Saving Normals');
 recursive_key_sort(Data::$normals);
-file_put_contents($baseFolder . 'normals.json', json_encode(Data::$normals, JSON_NUMERIC_CHECK));
+WriteJSON($baseFolder . 'normals.json', Data::$normals);
 
 recursive_key_sort(Data::$byPubAndYear);
 foreach (Data::$byPubAndYear as $publication => &$byYear) {
     $percent->Step('Saving Stage 1 - '.$publication);
-    file_put_contents($baseFolder.$publication.'.json', json_encode($byYear, JSON_NUMERIC_CHECK));
+    WriteJSON($baseFolder.$publication.'.json', $byYear);
 }
 Data::$byPubAndYear = null;
 
@@ -68,7 +68,7 @@ foreach (Data::$byPubYearBook as $publication => &$byBook) {
         $percent->Step('Saving Stage 2 - '.$book);
         $dir = $baseFolder.$publication."/";
         if(!is_dir($dir)) mkdir($dir);
-        file_put_contents($dir."{$book}.json", json_encode($byYear, JSON_NUMERIC_CHECK));
+        WriteJSON($dir."{$book}.json", $byYear);
     }
 }
 

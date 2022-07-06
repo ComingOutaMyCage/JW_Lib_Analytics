@@ -98,7 +98,7 @@
     words = words.filter(n => n);
 
     let dir = 'Data/WordsByYear/';
-    $.getJSON(dir + `normals.json`, function(normalsJson) {
+    $.getJSON(dir + `normals.json.gz`, function(normalsJson) {
         normalsJson = normalsJson[publication];
         $.each(Object.keys(normalsJson), function (key, value) {
             $('#normal').append(`<option value="${value}">${value}</option>`);
@@ -126,7 +126,7 @@
             let jsonForLetters = [];
             let ajaxRequests = [];
             initialLetters.forEach((letter) => {
-                ajaxRequests.push($.getJSON(dir +`${publication}/${letter}.json`, function (json) {
+                ajaxRequests.push($.getJSON(dir +`${publication}/${letter}.json.gz`, function (json) {
                     jsonForLetters[letter] = json;
                 }));
             });

@@ -30,7 +30,7 @@ foreach ($dirs as $dir) {
 recursive_key_sort(Data::$byYear);
 
 $baseFolder = "Data/PublicationsByYear/";
-file_put_contents($baseFolder . 'All.json', json_encode(Data::$byYear, JSON_NUMERIC_CHECK));
+WriteJSON($baseFolder . 'All.json', Data::$byYear);
 
 echo("<pre>");
 echo("Done");
