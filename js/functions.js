@@ -93,6 +93,7 @@ function InsertNav(){
                 <li class="nav-item"><a class="nav-link" href="HeatmapBibleVerses.html"><img src="images/heatmap.png"> By Verses</a></li>
                 <li class="nav-item"><a class="nav-link" href="HeatmapBibleBooks.html"><img src="images/heatmap.png"> By Bible Books</a></li>
                 <li class="nav-item"><a class="nav-link" href="ViewTopWords.html"><img src="images/sort.png"> Most Common Words</a></li>
+                <li class="nav-item"><a class="nav-link" href="ViewTopScriptures.html"><img src="images/sort.png"> Most Common Scriptures</a></li>
                 <li class="nav-item"><a class="nav-link" href="ViewWordsPerYear.html"><img src="images/sort.png"> Words Per Year</a></li>
                 <li class="nav-item"><a class="nav-link" href="ViewReleaseDates.html"><img src="images/sort.png"> Publications Released</a></li>
             </ul>

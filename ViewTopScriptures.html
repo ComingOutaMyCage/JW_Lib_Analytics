@@ -35,6 +35,7 @@
         }
     </style>
 </head>
+<body>
 <script>InsertNav();</script>
 <div class="card d-print-none" style="max-width: 600px;">
     <div class="card-body">
@@ -58,13 +59,15 @@
         </form>
     </div>
 </div>
-<div style="width: 100vw; position: absolute; left:0">
+<div>
     <div style="height:60vh;"><canvas id="wordCloud"></canvas></div>
-    <div id="tables" class="d-flex">
-        <table class="table table-dark table-bordered table-striped table-hover mb-5" style="margin: auto auto; width: auto;">
-            <thead><tr><th>Rank</th><th>Count</th><th>Word</th></tr></thead>
-            <tbody></tbody>
-        </table>
+    <div style="width: 100vw; position: absolute; left:0">
+        <div id="tables" class="d-flex">
+            <table class="table table-dark table-bordered table-striped table-hover mb-5" style="margin: auto auto; width: auto;">
+                <thead><tr><th>Rank</th><th>Count</th><th>Word</th></tr></thead>
+                <tbody></tbody>
+            </table>
+        </div>
     </div>
 </div>
 <script>
@@ -91,7 +94,7 @@
                 b = b[1];
                 return a < b ? 1 : (a > b ? -1 : 0);
             });
-            data = data.slice(0, 1000);
+            data = data.slice(0, 500);
 
 
             let tablehtml = $("#tables .table")[0].outerHTML;
@@ -124,7 +127,7 @@
                     datasets: [
                         {
                             label: "",
-                            data: subset.map((d) => 5 + (((d[1] - min) / range)  * 100))
+                            data: subset.map((d) => 5 + (((d[1] - min) / range)  * 50))
                         }
                     ]
                 },

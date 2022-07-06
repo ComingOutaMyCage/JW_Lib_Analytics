@@ -60,10 +60,14 @@
 </div>
 <div>
     <div style="height:60vh;"><canvas id="wordCloud"></canvas></div>
-    <table class="table table-dark table-bordered table-striped table-hover mb-5" style="margin: auto auto; width: auto;">
-        <thead><tr><th>Rank</th><th>Count</th><th>Word</th></tr></thead>
-        <tbody id="table-body"></tbody>
-    </table>
+    <div style="width: 100vw; position: absolute; left:0">
+        <div id="tables" class="d-flex">
+            <table class="table table-dark table-bordered table-striped table-hover mb-5" style="margin: auto auto; width: auto;">
+                <thead><tr><th>Rank</th><th>Count</th><th>Word</th></tr></thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
 </div>
 <script>
 
@@ -95,16 +99,23 @@
             data = data.slice(0, 1000);
 
 
-            let table = $("#table-body");
-            let html = "";
-            for (let i = 0; i < data.length; i++){
-                html += "<tr><td>" + (i + 1) + "</td><td>" + data[i][1] + "</td><td>" + data[i][0] + "</td></tr>";
-                if((i % 100) === 0){
-                    //table.append(html);
-                    //html = "";
+            let tablehtml = $("#tables .table")[0].outerHTML;
+            let columns = Math.floor(window.innerWidth / 300) ;
+            let splitAt = Math.floor(data.length / columns);
+            let tableBody = $("#tables tbody");
+            for(let c = 0; c < columns; c++) {
+                let html = "";
+                for (let j = 0; j < splitAt; j++) {
+                    let i = (c * splitAt) + j;
+                    html += "<tr><td>" + (i + 1) + "</td><td>" + data[i][1] + "</td><td>" + data[i][0] + "</td></tr>";
+                }
+                tableBody.append(html);
+                if(c + 1 < columns) {
+                    let newTable = $(tablehtml);
+                    $("#tables").append(newTable);
+                    tableBody = newTable.find('tbody');
                 }
             }
-            table.append(html);
 
             let wordCloudCount = ((window.innerHeight * 0.6) + window.innerWidth) * 0.2;
             const subset = data.slice(0, wordCloudCount);
