@@ -8,7 +8,10 @@ foreach(new RecursiveIteratorIterator($it) as $file) {
     if ($file->getExtension() == 'json') {
         $json = file_get_contents($file);
         echo($file."<br/>");
-        file_put_contents($file.'.gz', gzencode($json, 9));
+        file_put_contents($file.'.gz', utf8_encode(gzencode($json, 9)));
+//        $gz = gzopen($file.".gz",'w9');
+//        gzwrite($gz, $json);
+//        gzclose($gz);
 
     }
 }

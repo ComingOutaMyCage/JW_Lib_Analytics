@@ -371,6 +371,6 @@ function WriteJSON($filename, $data){
 //    gzwrite($gz, $json);
 //    gzclose($gz);
 
-    file_put_contents($filename.".gz", gzencode($json, 9));
+    file_put_contents($filename.".gz", utf8_encode(gzencode($json, 9)));
     return $json;
 }

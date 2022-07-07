@@ -152,19 +152,37 @@ function AjaxJsonGzip(path, callback){
         url: path,
         type: 'GET',
         cache: true,
-        contentType: "application/x-gzip",
+        contentType: "application/x-gzip;charset=utf-8",
+        //  contentType: "application/octet-stream;charset=ISO-8859-15",
+        // contentType: "application/x-www-form-urlencoded;charset=ISO-8859-15",
         success: function(result) {
+            if(isGzip(result)){
+                let charData    = result.split('').map(function(x){return x.charCodeAt(0);});
+                let binData     = new Uint8Array(charData);
+                let data        = pako.inflate(binData);
+                result = _arrayBufferToString(data);
+                //  result = String.fromCharCode.apply(null, new Uint8Array(data));
+            }
             callback(JSON.parse(result));
         },
         error: function() { }
     });
 }
 
+function _arrayBufferToString( bytes ) {
+    let binary = '';
+    let newBytes = bytes;//new Uint16Array(bytes)
+    let len = newBytes.byteLength;
+    for (let i = 0; i < len; i++) {
+        binary += String.fromCharCode( newBytes[ i ] );
+    }
+    return binary;
+}
 function isGzip(buf){
     if (!buf || buf.length < 3) {
         return false;
     }
-    return buf[0] === 0x1F && buf[1] === 0x8B && buf[2] === 0x08;
+    return buf[0] === '\x1F' && buf[1] === '\x8B' && buf[2] === '\x08';
 }
 
 var chart = null;
