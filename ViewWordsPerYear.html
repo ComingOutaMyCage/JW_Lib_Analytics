@@ -31,6 +31,7 @@
     <script src="js/highcharts.boost-canvas.fix.js"></script>
     <script src="js/highcharts.boost.fix.js"></script>
 
+
     <script src="js/functions.js"></script>
     <script src="js/most-common-words.js"></script>
     <link href="style.css" rel="stylesheet" >
@@ -80,7 +81,7 @@
     $('#publication').val(publication);
 
     let dir = 'Data/WordsByYear/';
-    $.getJSON(dir + `normals.json`, function(normalsJson) {
+    AjaxJsonGzip(dir + `normals.json`, function(normalsJson) {
         console.log(normalsJson);
         normalsJson = normalsJson[publication];
         $.each(Object.keys(normalsJson), function (key, value) {
@@ -99,7 +100,7 @@
             });
         }
         if (publication) {
-            $.getJSON(dir + `${publication}/TotalsPerYear.json`, function (json) {
+            AjaxJsonGzip(dir + `${publication}/TotalsPerYear.json`, function (json) {
                 //console.log(json);
 
                 let seriesData = [];

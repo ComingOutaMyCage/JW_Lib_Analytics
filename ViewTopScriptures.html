@@ -23,6 +23,7 @@
     <script src="https://unpkg.com/chart.js@3"></script>
     <script src="https://unpkg.com/chartjs-chart-wordcloud@3"></script>
 
+
     <script src="js/functions.js"></script>
     <link href="style.css" rel="stylesheet" />
 
@@ -90,7 +91,7 @@
     let dir = 'Data/ScripturesByYear/';
 
     if (publication) {
-        $.getJSON(dir + `${publication}.json`, function (json) {
+        AjaxJsonGzip(dir + `${publication}.json`, function (json) {
             //console.log(json);
 
             let data = [];

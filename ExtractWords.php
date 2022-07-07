@@ -92,7 +92,7 @@ foreach (array_unique(array_values(PublicationCodes::$codeToName)) as $publicati
 
         foreach ($words as $word => &$values) {
             $wordCount = array_sum(array_values($values));
-            if($wordCount > 100 || strpos($word,' ') == false)
+            if($wordCount > 20 || strpos($word,' ') == false)
                 $allSavedWords[$publication][$word] = $wordCount;
             else
                 unset($words[$word]);

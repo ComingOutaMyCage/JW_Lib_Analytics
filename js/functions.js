@@ -146,6 +146,27 @@ $(document).ready(function(){
    });
 });
 
+function AjaxJsonGzip(path, callback){
+    path += ".gz";
+    return $.ajax({
+        url: path,
+        type: 'GET',
+        cache: true,
+        contentType: "application/x-gzip",
+        success: function(result) {
+            callback(JSON.parse(result));
+        },
+        error: function() { }
+    });
+}
+
+function isGzip(buf){
+    if (!buf || buf.length < 3) {
+        return false;
+    }
+    return buf[0] === 0x1F && buf[1] === 0x8B && buf[2] === 0x08;
+}
+
 var chart = null;
 $( window ).resize(OnResize);
 function OnResize(){

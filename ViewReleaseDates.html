@@ -31,6 +31,7 @@
     <script src="js/highcharts.boost-canvas.fix.js"></script>
     <script src="js/highcharts.boost.fix.js"></script>
 
+
     <script src="js/functions.js"></script>
     <script src="js/most-common-words.js"></script>
     <link href="style.css" rel="stylesheet" >
@@ -53,7 +54,7 @@
     let dir = 'Data/PublicationsByYear/';
 
     if (publication) {
-        $.getJSON(dir + `All.json`, function (json) {
+        AjaxJsonGzip(dir + `All.json`, function (json) {
 
             let html = '';
 

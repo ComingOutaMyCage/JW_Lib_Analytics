@@ -31,6 +31,7 @@
     <script src="js/highcharts.boost-canvas.fix.js"></script>
     <script src="js/highcharts.boost.fix.js"></script>
 
+
     <script src="js/functions.js"></script>
     <link href="style.css" rel="stylesheet" >
 </head>
@@ -98,7 +99,7 @@
     words = words.filter(n => n);
 
     let dir = 'Data/WordsByYear/';
-    $.getJSON(dir + `normals.json`, function(normalsJson) {
+    AjaxJsonGzip(dir + `normals.json`, function(normalsJson) {
         normalsJson = normalsJson[publication];
         $.each(Object.keys(normalsJson), function (key, value) {
             $('#normal').append(`<option value="${value}">${value}</option>`);
@@ -126,7 +127,7 @@
             let jsonForLetters = [];
             let ajaxRequests = [];
             initialLetters.forEach((letter) => {
-                ajaxRequests.push($.getJSON(dir +`${publication}/${letter}.json`, function (json) {
+                ajaxRequests.push(AjaxJsonGzip(dir +`${publication}/${letter}.json`, function (json) {
                     jsonForLetters[letter] = json;
                 }));
             });
