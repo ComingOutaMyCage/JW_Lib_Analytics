@@ -121,7 +121,7 @@
                 //console.log(json);
 
                 let seriesData = [];
-                let seriesY = Object.keys(json).slice(0, 1000);
+                let seriesY = Object.keys(json);//.slice(0, 1000);
                 let seriesX = [];
                 range(1950, 2022).forEach(function (year) {
                     seriesX.push(year);
