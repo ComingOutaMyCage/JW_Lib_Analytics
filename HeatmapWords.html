@@ -85,7 +85,7 @@
     let publication = urlParams.get('publication') ?? 'All';
     let words = urlParams.get('words') ?? 'Obey,Governing Body';
     words = words.replace(/['"]/, "");
-    words = words.replace(/(\w+\s+\w+)\s+/ig, '$1,').replace(/,+/g, ',');
+    words = words.replace(/(\w+\s+\w+)\s+/ig, '$1,').replace(/,+/g, ',').replace(/,\s+/g, ',');
     let wordsRaw = words;
     let normal = urlParams.get('normal');
     $('#publication').val(publication);
@@ -120,7 +120,7 @@
         if (publication && words.length) {
             let initialLetters = new Set();
             words.forEach((word) => {
-                initialLetters.add(word[0].toUpperCase());
+                initialLetters.add(word[0].trim().toUpperCase());
             });
             let wordsFormatted = words.join(', ');
 
