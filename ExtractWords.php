@@ -1,10 +1,16 @@
 <?php
 include (__DIR__.'/functions.php');
 
-$dirs =  glob('C:\temp\WT\*', GLOB_ONLYDIR);
+$yearDirs =  glob('C:\temp\WT\*', GLOB_ONLYDIR);
+$dirs = [];
+foreach ($yearDirs as $dir){
+    if(!is_numeric(basename($dir))) continue;
+    $pubDirs =  glob($dir.'\*', GLOB_ONLYDIR);
+    $dirs = array_merge($dirs, $pubDirs);
+}
 
 class Data {
-    public static $regex = "/([a-z][a-zÀ-ÖØ-öø-ÿ'\-]*|\d+|[\.!?\(\)\[\]])/i";//2+ letter Words beginning with a-z then any accented characters allowed. Also punctuation marks to interrupt double words.
+    public static $regex = "/([a-z][a-zÀ-ÖØ-öø-ÿ'\-\']*|\d+|[\.!?\(\)\[\]])/i";//2+ letter Words beginning with a-z then any accented characters allowed. Also punctuation marks to interrupt double words.
     public static $byBook;
     public static $normals = [];//[ "Publications In Year" => [], "Words In Year" => [], ];
     public static $letters = [];
@@ -29,40 +35,8 @@ foreach ($dirs as $dir) {
     Data::$normals['All']['Publications In Year'][$year] = (Data::$normals['All']['Publications In Year'][$year] ?? 0) + 1;
     Data::$normals[$publication]['Publications In Year'][$year] = (Data::$normals[$publication]['Publications In Year'][$year] ?? 0) + 1;
     foreach ($files as $file){
-        //writeLine ($file);
-        $line = file_get_contents($file);
-        //ForeachLine($file, function($line) use ($year, $publication){
-            //$line = "1914 is the year in which 1975 failed";
-            preg_match_all(Data::$regex, $line, $matches);
-            if(empty($matches[0])) continue;
-
-            $matches = $matches[0];
-            $wordsOnLine = 0;
-            foreach ($matches as &$match) if(strlen($match) > 1) $wordsOnLine++;
-            Data::$normals['All']['Words In Year'][$year] = (Data::$normals['All']['Words In Year'][$year] ?? 0) + $wordsOnLine;
-            Data::$normals[$publication]['Words In Year'][$year] = (Data::$normals[$publication]['Words In Year'][$year] ?? 0) + $wordsOnLine;
-
-            $lastWord = null;
-            for($i = 0; $i < $wordsOnLine; $i++){
-                $word = strtolower($matches[$i]);
-                if(strlen($word) <= 1) { $lastWord = null; continue; }
-                $letter = $word[0];
-                Data::$letters[$letter] = true;
-                Data::$byBook->{$publication}->{$letter}[$word][$year] = (Data::$byBook->{$publication}->{$letter}[$word][$year] ?? 0) + 1;
-                Data::$byBook->{'All'}->{$letter}[$word][$year] = (Data::$byBook->{'All'}->{$letter}[$word][$year] ?? 0) + 1;
-
-                if($lastWord != null && !is_numeric($lastWord)){
-                    $lastWord .= " ".$word;
-                    Data::$byBook->{$publication}->{$lastWord[0]}[$lastWord][$year] = (Data::$byBook->{$publication}->{$lastWord[0]}[$lastWord][$year] ?? 0) + 1;
-                    Data::$byBook->{'All'}->{$lastWord[0]}[$lastWord][$year] = (Data::$byBook->{'All'}->{$lastWord[0]}[$lastWord][$year] ?? 0) + 1;
-                }
-
-                $lastWord = $word;
-            }
-            //unset($matches);
-        //});
+        ParseFile($file, $publication, $year);
     }
-
     //echo(json_encode(Data::$byBook, JSON_NUMERIC_CHECK));
 //    var_dump(Data::$normals);
 //    break;
@@ -70,7 +44,58 @@ foreach ($dirs as $dir) {
 
     unset($info);
 }
-//die();
+
+function ParseFile($file, $publication, $year){
+    //writeLine ($file);
+    $line = file_get_contents($file);
+    $totalWords = 0;
+    $wordCounts = [];
+    ForeachLine($file, function($line) use ($year, $publication, $totalWords, $wordCounts){
+        //$line = "1914 is the year in which 1975 failed";
+        $line = str_replace('’', "'", $line);
+        preg_match_all(Data::$regex, $line, $matches);
+        if(empty($matches[0])) return;
+
+        $matches = $matches[0];
+        $wordsOnLine = 0;
+        foreach ($matches as &$match) {
+            if(IsText($match)) $wordsOnLine++;
+        }
+        $totalWords += $wordsOnLine;
+
+        $matchesCount = count($matches);
+        $lastWord = null;
+        for($i = 0; $i < $matchesCount; $i++){
+            $word = strtolower($matches[$i]);
+            if(!IsText($word)) { $lastWord = null; continue; }
+            $letter = $word[0];
+            Data::$letters[$letter] = true;
+            $wordCounts[$word] = ($wordCounts[$word] ?? 0) + 1;
+
+            if($lastWord != null && !is_numeric($lastWord)){
+                $lastWord .= " ".$word;
+                $wordCounts[$lastWord] = ($wordCounts[$lastWord] ?? 0) + 1;
+            }
+
+            $lastWord = $word;
+        }
+        //unset($matches);
+    });
+    Data::$normals['All']['Words In Year'][$year] = (Data::$normals['All']['Words In Year'][$year] ?? 0) + $totalWords;
+    Data::$normals[$publication]['Words In Year'][$year] = (Data::$normals[$publication]['Words In Year'][$year] ?? 0) + $totalWords;
+
+    foreach($wordCounts as $word=>$count){
+        $letter = $word[0];
+        Data::$byBook->{$publication}->{$letter}[$word][$year] = (Data::$byBook->{$publication}->{$letter}[$word][$year] ?? 0) + $count;
+        Data::$byBook->{'All'}->{$letter}[$word][$year] = (Data::$byBook->{'All'}->{$letter}[$word][$year] ?? 0) + $count;
+    }
+}
+
+function IsText(&$text){
+    if(strlen($text) > 1) return true;
+    else if ($text[0] >= 'a' && $text[0] <= 'z') return true;
+    else if ($text[0] >= 'A' && $text[0] <= 'Z') return true;
+}
 
 $percent->Step('Saving Normals', true);
 
@@ -92,10 +117,14 @@ foreach (array_unique(array_values(PublicationCodes::$codeToName)) as $publicati
 
         foreach ($words as $word => &$values) {
             $wordCount = array_sum(array_values($values));
-            if($wordCount > 20 || strpos($word,' ') == false)
-                $allSavedWords[$publication][$word] = $wordCount;
-            else
+            $latestYear = max(array_keys($values));
+            if($wordCount < 2 && $latestYear < 1950)
                 unset($words[$word]);
+            else if($wordCount < 20 && strpos($word,' ') !== false)
+                unset($words[$word]);
+            else
+                $allSavedWords[$publication][$word] = $wordCount;
+
         }
         $dir = $baseFolder.$publication.'/';
         if(!is_dir($dir)) mkdir($dir, 0755, true);

@@ -41,7 +41,7 @@
     <div class="card-body">
         <form>
             <div class="row">
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-4">
                     <label>Publication</label>
                     <select name="publication" id="publication" class="form-control">
                     </select>
@@ -52,10 +52,18 @@
                         });
                     </script>
                 </div>
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-4">
                     <label>Normalize By</label>
                     <select name="normal" id="normal" class="form-control">
                         <option value="1">Exact Numbers</option>
+                    </select>
+                </div>
+                <div class="col-12 col-md-4">
+                    <label>Min Year</label>
+                    <select name="minYear" id="minYear" class="form-control">
+                        <option value="1880">1880</option>
+                        <option value="1950">1950 (WT only pre-1950)</option>
+                        <option value="1970">1970</option>
                     </select>
                 </div>
                 <div class="col-12 col-md-3">
@@ -72,7 +80,7 @@
 </div>
 <div class="highcharts-div">
     <figure class="highcharts-figure">
-        <div id="container"></div>
+        <div class="highcharts-container" id="container"></div>
     </figure>
 </div>
 
@@ -81,7 +89,9 @@
     const urlParams = new URLSearchParams(window.location.search);
     let publication = urlParams.get('publication') ?? 'All';
     let normal = urlParams.get('normal');
+    let minYear = parseInt(urlParams.get('minYear') ?? 1950);
     $('#publication').val(publication);
+    $('#minYear').val(minYear);
 
     let dir = 'Data/ScripturesByYear/';
     AjaxJsonGzip(dir + `normals.json`, function(normalsJson) {
@@ -105,11 +115,11 @@
         if (publication )
             AjaxJsonGzip(dir + `${publication}.json`, function (json) {
 
-                //console.log(json);
+                console.log(minYear);
 
                 let seriesData = [];
                 let seriesX = [];
-                range(1950, 2022).forEach(function (year) {
+                range(minYear, 2022).forEach(function (year) {
                     seriesX.push(year);
                 });
                 let bookRegex = /^((\d?\s*)?\w+)/;
@@ -158,7 +168,7 @@
                         plotBorderWidth: 1,
                         height: (seriesY.length * 15) + 250,
                         width: !isTouchDevice() ? undefined : Math.min(1500, Math.max(window.innerWidth, (seriesX.length * 10) + 150)),
-                        scrollablePlotArea: {
+                        scrollablePlotArea: isTouchDevice() ? {} : {
                             minWidth: (seriesX.length * 10) + 100,
                             //minHeight: (seriesY.length * 10) + 200,
                             scrollPositionX: 1,

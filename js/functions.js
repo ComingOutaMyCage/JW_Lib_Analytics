@@ -147,7 +147,7 @@ $(document).ready(function(){
 });
 
 function AjaxJsonGzip(path, callback){
-    path += ".gz";
+    //path += ".gz";
     return $.ajax({
         url: path,
         type: 'GET',
@@ -163,7 +163,10 @@ function AjaxJsonGzip(path, callback){
                 result = _arrayBufferToString(data);
                 //  result = String.fromCharCode.apply(null, new Uint8Array(data));
             }
-            callback(JSON.parse(result));
+            if(result instanceof String)
+                callback(JSON.parse(result));
+            else
+                callback(result);
         },
         error: function() { }
     });
@@ -193,7 +196,9 @@ function OnResize(){
     HidePace();
     let scale = ($(".navbar").width() / chart.chartWidth);
     if(scale > 1) scale = 1;
-    $('#container').css('transform', 'scale(' + scale + ")").css('transform-origin', 'top left').css('overflow', '');
+    $('.highcharts-div').css('transform', 'scale(' + scale + ")").css('transform-origin', 'top left').css('overflow', '');
+    $('.highcharts-container').css('overflow', '');
+    // $('.highcharts-figure').css('position', 'relative').css('display', 'inline-block');
     // $("#container").css('overflow', '');
 }
 function HidePace() {

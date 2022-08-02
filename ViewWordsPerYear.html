@@ -69,7 +69,7 @@
 <div class="card d-none" id="normals-display"></div>
 <div class="highcharts-div">
     <figure class="highcharts-figure">
-        <div id="container"></div>
+        <div class="highcharts-container" id="container"></div>
     </figure>
 </div>
 
@@ -124,7 +124,7 @@
                         plotBorderWidth: 1,
                         height: window.innerHeight * 0.8,
                         width: !isTouchDevice() ? undefined : Math.min(1500, Math.max(window.innerWidth, (seriesX.length * 10) + 150)),
-                        scrollablePlotArea: {
+                        scrollablePlotArea: isTouchDevice() ? {} : {
                             minWidth: (seriesX.length * 10) + 100,
                             //minHeight: (seriesY.length * 10) + 200,
                             scrollPositionX: 1,

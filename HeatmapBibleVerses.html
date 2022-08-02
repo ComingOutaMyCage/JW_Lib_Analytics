@@ -70,6 +70,14 @@
                     </select>
                 </div>
                 <div class="col-12 col-md-4">
+                    <label>Min Year</label>
+                    <select name="minYear" id="minYear" class="form-control">
+                        <option value="1880">1880</option>
+                        <option value="1950">1950 (WT only pre-1950)</option>
+                        <option value="1970">1970</option>
+                    </select>
+                </div>
+                <div class="col-12 col-md-4">
                     <button type="submit" class="btn btn-primary mt-3">Load Data</button>
                 </div>
                 <div class="col-12 col-md-4 d-none" id="btnDownload">
@@ -83,7 +91,13 @@
 </div>
 <div class="highcharts-div">
     <figure class="highcharts-figure">
-        <div id="container"></div>
+        <div class="highcharts-container" id="container1"></div>
+    </figure>
+    <figure class="highcharts-figure">
+        <div class="highcharts-container" id="container2"></div>
+    </figure>
+    <figure class="highcharts-figure">
+        <div class="highcharts-container" id="container3"></div>
     </figure>
 </div>
 
@@ -93,8 +107,10 @@
     let publication = urlParams.get('publication') ?? 'All';
     let book = urlParams.get('book') ?? 'Genesis';
     let normal = urlParams.get('normal') ?? 1;
+    let minYear = urlParams.get('minYear') ?? 1950;
     $('#publication').val(publication);
     $('#book').val(book);
+    $('#minYear').val(minYear);
 
     let dir = 'Data/ScripturesByYear/';
     AjaxJsonGzip(dir + `normals.json`, function(normalsJson) {
@@ -119,162 +135,168 @@
             AjaxJsonGzip(dir + `${publication}/${book}.json`, function (json) {
 
                 //console.log(json);
+                let seriesYRaw = Object.keys(json);
+                let sliceSize = 1000;
 
-                let seriesData = [];
-                let seriesY = Object.keys(json);//.slice(0, 1000);
-                let seriesX = [];
-                range(1950, 2022).forEach(function (year) {
-                    seriesX.push(year);
-                });
-
-                let x = 0;
-                seriesX.forEach(function (year) {
-                    let verseData = [];
-                    let y = 0;
-                    seriesY.forEach(function (verse) {
-                        let data = json[verse][year] ?? 0;
-                        if(normals) data = (data / normals[year]);
-                        seriesData.push([x, y++, data]);
+                let chartIndex = 0;
+                for (let sliceStart = 0; sliceStart < seriesYRaw.length; sliceStart += sliceSize) {
+                    chartIndex++;
+                    let seriesData = [];
+                    let seriesY = seriesYRaw.slice(sliceStart, sliceStart + sliceSize);
+                    let seriesX = [];
+                    range(parseInt(minYear), 2022).forEach(function (year) {
+                        seriesX.push(year);
                     });
-                    x++;
-                    //seriesData.push(verseData);
-                });
-                // console.log(seriesX);
-                // console.log(seriesY);
-                // console.log(seriesData);
 
-                $("#btnDownload").removeClass('d-none');
-                chart = Highcharts.chart('container', {
+                    let x = 0;
+                    seriesX.forEach(function (year) {
+                        let verseData = [];
+                        let y = 0;
+                        seriesY.forEach(function (verse) {
+                            let data = json[verse][year] ?? 0;
+                            if (normals) data = (data / normals[year]);
+                            seriesData.push([x, y++, data]);
+                        });
+                        x++;
+                        //seriesData.push(verseData);
+                    });
+                    // console.log(seriesX);
+                    // console.log(seriesY);
+                    // console.log(seriesData);
 
-                    chart: {
-                        type: 'heatmap',
-                        marginTop: 160,
-                        marginBottom: 80,
-                        marginRight: 20,
-                        plotBorderWidth: 1,
-                        height: (seriesY.length * 15) + 200,
-                        width: !isTouchDevice() ? undefined : Math.min(1500, Math.max(window.innerWidth, (seriesX.length * 10) + 150)),
-                        scrollablePlotArea: {
-                            minWidth: (seriesX.length * 10) + 100,
-                            //minHeight: (seriesY.length * 10) + 200,
-                            scrollPositionX: 1,
-                        }
-                    },
+                    $("#btnDownload").removeClass('d-none');
+                    chart = Highcharts.chart('container' + chartIndex, {
 
-                    boost: {
-                        useGPUTranslations: true,
-                    },
-
-                    title: {
-                        text: `<h1>Usage of ${book} in ${publication} Publications from ${seriesX[0]} to ${seriesX[seriesX.length - 1]}</h1>`
-                    },
-
-                    xAxis: {
-                        categories: seriesX,
-                        opposite: true,
-                        // labels: {
-                        //     rotation: -65,
-                        //     //step: 1,
-                        // }
-                    },
-
-                    yAxis: {
-                        categories: seriesY,
-                        title: null,
-                        reversed: true,
-                        labels: {
-                            //rotation: -25,
-                            step: 1,
-                        }
-                    },
-
-                    // accessibility: {
-                    //     point: {
-                    //         descriptionFormatter: function (point) {
-                    //             var ix = point.index + 1,
-                    //                 xName = getPointCategoryName(point, 'x'),
-                    //                 yName = getPointCategoryName(point, 'y'),
-                    //                 val = point.value;
-                    //             return ix + '. ' + xName + ' sales ' + yName + ', ' + val + '.';
-                    //         }
-                    //     }
-                    // },
-
-                    legend: {
-                        align: 'center',
-                        layout: 'horizontal',
-                        margin: 0,
-                        verticalAlign: 'top',
-                        y: -20,
-                        symbolHeight: 20
-                    },
-
-                    tooltip: {
-                        formatter: function () {
-                            let year = seriesX[this.point.x];
-                            let name = seriesY[this.point.y];
-                            let value = this.point.value;
-                            let result = '<b>' + year + " - " + name + '</b><br>';
-                            if(normals){
-                                if(value > 1) value = Round2Places(value);
-                                result += Round4Places(value) + " in each " + normal;
-                                let n = normals[year];
-                                result += `<br/><b>Raw Count</b>: ` + Round2Places(n * this.point.value);
-                                result += `<br/><b>${normal}</b>: ${n}`;
-                            }else result += value;
-                            return result;
-                        }
-                    },
-
-                    series: [{
-                        name: 'Verse',
-                        data: seriesData,
-
-                        borderWidth: 1,
-                        borderColor: 'white',
-
-                        boostThreshold: 100,
-                        nullColor: '#EFEFEF',
-                        //colsize: 24 * 36e5, // one day
-                        tooltip: {
-                            headerFormat: 'Mentions<br/>',
-                            pointFormat: '{point.x} <b>{point.value}</b>'
+                        chart: {
+                            type: 'heatmap',
+                            marginTop: 160,
+                            marginBottom: 80,
+                            marginRight: 20,
+                            plotBorderWidth: 1,
+                            height: (seriesY.length * 15) + 200,
+                            width: !isTouchDevice() ? undefined : Math.min(1500, Math.max(window.innerWidth, (seriesX.length * 10) + 150)),
+                            scrollablePlotArea: isTouchDevice() ? {} : {
+                                 minWidth: (seriesX.length * 15) + 100,
+                                 //minHeight: (seriesY.length * 10) + 200,
+                                 scrollPositionX: 1,
+                            }
                         },
-                        //turboThreshold: Number.MAX_VALUE, // #3404, remove after 4.0.5 release
-                        // colsize: 32,
-                        turboThreshold: 0 //larger threshold or set to 0 to disable
-                    }],
 
-                    colorAxis: {
-                        min: 0,
-                        stops: [
-                            [0, '#f1f4ff'],
-                            [0.001, '#d0e0ff'],
-                            [0.33, '#0000ff'],
-                            [0.66, '#ff0000'],
-                            [1, '#000000'],
-                        ],
-                    },
+                        boost: {
+                            useGPUTranslations: true,
+                        },
 
-                    // responsive: {
-                    //     rules: [{
-                    //         condition: {
-                    //             minWidth: 400,
-                    //             maxWidth: 500,
-                    //         },
-                    //         chartOptions: {
-                    //             yAxis: {
-                    //                 labels: {
-                    //                     formatter: function () {
-                    //                         return this.value.charAt(0);
-                    //                     }
-                    //                 }
-                    //             }
-                    //         }
-                    //     }]
-                    // }
+                        title: {
+                            text: `<h1>Usage of ${book} in ${publication} Publications from ${seriesX[0]} to ${seriesX[seriesX.length - 1]}</h1>`
+                        },
 
-                });
+                        xAxis: {
+                            categories: seriesX,
+                            opposite: true,
+                            // labels: {
+                            //     rotation: -65,
+                            //     //step: 1,
+                            // }
+                        },
+
+                        yAxis: {
+                            categories: seriesY,
+                            title: null,
+                            reversed: true,
+                            labels: {
+                                //rotation: -25,
+                                step: 1,
+                            }
+                        },
+
+                        // accessibility: {
+                        //     point: {
+                        //         descriptionFormatter: function (point) {
+                        //             var ix = point.index + 1,
+                        //                 xName = getPointCategoryName(point, 'x'),
+                        //                 yName = getPointCategoryName(point, 'y'),
+                        //                 val = point.value;
+                        //             return ix + '. ' + xName + ' sales ' + yName + ', ' + val + '.';
+                        //         }
+                        //     }
+                        // },
+
+                        legend: {
+                            align: 'center',
+                            layout: 'horizontal',
+                            margin: 0,
+                            verticalAlign: 'top',
+                            y: -20,
+                            symbolHeight: 20
+                        },
+
+                        tooltip: {
+                            formatter: function () {
+                                let year = seriesX[this.point.x];
+                                let name = seriesY[this.point.y];
+                                let value = this.point.value;
+                                let result = '<b>' + year + " - " + name + '</b><br>';
+                                if (normals) {
+                                    if (value > 1) value = Round2Places(value);
+                                    result += Round4Places(value) + " in each " + normal;
+                                    let n = normals[year];
+                                    result += `<br/><b>Raw Count</b>: ` + Round2Places(n * this.point.value);
+                                    result += `<br/><b>${normal}</b>: ${n}`;
+                                } else result += value;
+                                return result;
+                            }
+                        },
+
+                        series: [{
+                            name: 'Verse',
+                            data: seriesData,
+
+                            borderWidth: 1,
+                            borderColor: 'white',
+
+                            boostThreshold: 100,
+                            nullColor: '#EFEFEF',
+                            //colsize: 24 * 36e5, // one day
+                            tooltip: {
+                                headerFormat: 'Mentions<br/>',
+                                pointFormat: '{point.x} <b>{point.value}</b>'
+                            },
+                            //turboThreshold: Number.MAX_VALUE, // #3404, remove after 4.0.5 release
+                            // colsize: 32,
+                            turboThreshold: Number.MAX_VALUE //larger threshold or set to 0 to disable
+                        }],
+
+                        colorAxis: {
+                            min: 0,
+                            stops: [
+                                [0, '#f1f4ff'],
+                                [0.001, '#d0e0ff'],
+                                [0.33, '#0000ff'],
+                                [0.66, '#ff0000'],
+                                [1, '#000000'],
+                            ],
+                        },
+
+                        // responsive: {
+                        //     rules: [{
+                        //         condition: {
+                        //             minWidth: 400,
+                        //             maxWidth: 500,
+                        //         },
+                        //         chartOptions: {
+                        //             yAxis: {
+                        //                 labels: {
+                        //                     formatter: function () {
+                        //                         return this.value.charAt(0);
+                        //                     }
+                        //                 }
+                        //             }
+                        //         }
+                        //     }]
+                        // }
+
+                    });
+                }
                 OnResize();
 
             });

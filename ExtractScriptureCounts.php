@@ -1,7 +1,13 @@
 <?php
 include (__DIR__.'/functions.php');
 
-$dirs =  glob('C:\temp\WT\*', GLOB_ONLYDIR);
+$yearDirs =  glob('C:\temp\WT\*', GLOB_ONLYDIR);
+$dirs = [];
+foreach ($yearDirs as $dir){
+    if(!is_numeric(basename($dir))) continue;
+    $pubDirs =  glob($dir.'\*', GLOB_ONLYDIR);
+    $dirs = array_merge($dirs, $pubDirs);
+}
 
 class Data {
     public static $regex = "/((([123]|first|second|third)\s*)?[a-zA-Z]+\.?)\s(\d+):(\d+)(-(\d+))?/i";

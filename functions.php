@@ -343,7 +343,7 @@ class PercentReporter
 {
     public $steps;
     public $step;
-    public $lastPercent;
+    public $lastPercent = -1;
     public function __construct($steps)
     {
         $this->steps = $steps;
@@ -352,7 +352,7 @@ class PercentReporter
 
     public function Step($status, $force = false){
         $this->step++;
-        $percent = intval(($this->step / $this->steps) * 100);
+        $percent = intval(($this->step / $this->steps) * 1000) / 10;
         if($percent > $this->lastPercent || $force){
             $status = json_encode($status);
             echo("<script>document.getElementById('percent').innerHTML = '{$percent}% - {$status}';</script>");

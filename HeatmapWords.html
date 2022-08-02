@@ -76,7 +76,7 @@
 </div>
 <div class="highcharts-div">
     <figure class="highcharts-figure">
-        <div id="container"></div>
+        <div class="highcharts-container" id="container"></div>
     </figure>
 </div>
 
@@ -117,10 +117,17 @@
             });
         }
 
+        function getFirstLetterOfWord(word){
+            let result = word[0].trim().toUpperCase();
+            if(word.indexOf(' ') > 0)
+                result += "_pair";
+            return result;
+        }
+
         if (publication && words.length) {
             let initialLetters = new Set();
             words.forEach((word) => {
-                initialLetters.add(word[0].trim().toUpperCase());
+                initialLetters.add(getFirstLetterOfWord(word));
             });
             let wordsFormatted = words.join(', ');
 
@@ -135,7 +142,7 @@
                 let seriesData = [];
                 let seriesY = words.map(element => {return element.toLowerCase().trim(); });
                 let seriesX = [];
-                range(1950, 2022).forEach(function (year) {
+                range(1880, 2022).forEach(function (year) {
                     seriesX.push(year);
                 });
 
@@ -145,7 +152,7 @@
                     let y = 0;
                     seriesY.forEach(function (word) {
                         let data = 0;
-                        let category = jsonForLetters[word[0].toUpperCase()];
+                        let category = jsonForLetters[getFirstLetterOfWord(word)];
                         if(category && category[word]) {
                             data = category[word][year] ?? 0;
                             if (normals) data = (data / normals[year]);
@@ -170,8 +177,8 @@
                         plotBorderWidth: 1,
                         height: (seriesY.length * 15) + 250,
                         width: !isTouchDevice() ? undefined : Math.min(1500, Math.max(window.innerWidth, (seriesX.length * 10) + 150)),
-                        scrollablePlotArea: {
-                            minWidth: (seriesX.length * 10) + 100,
+                        scrollablePlotArea: isTouchDevice() ? {} : {
+                            minWidth: (seriesX.length * 12) + 100,
                             //minHeight: (seriesY.length * 10) + 200,
                             scrollPositionX: 1,
                         }
