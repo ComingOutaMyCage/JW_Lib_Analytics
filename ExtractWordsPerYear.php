@@ -1,4 +1,5 @@
 <?php
+include (__DIR__.'/functions.php');
 $dirs = glob('./Data/WordsByYear/*', GLOB_ONLYDIR);
 
 echo("<pre>");
