@@ -196,8 +196,10 @@ function OnResize(){
     HidePace();
     let scale = ($(".navbar").width() / chart.chartWidth);
     if(scale > 1) scale = 1;
-    $('.highcharts-container').css('transform', 'scale(' + scale + ")").css('transform-origin', 'top left').css('overflow', '');
-    //$('.highcharts-container').css('overflow', '');
+    $('#container,#container1,#container2,#container3').css('transform', 'scale(' + scale + ")").css('transform-origin', 'top left').css('overflow', '');
+
+    // $('.highcharts-div').css('transform', 'scale(' + scale + ")").css('transform-origin', 'top left').css('overflow', '');
+    // $('.highcharts-container').css('overflow', '');
     // $('.highcharts-figure').css('position', 'relative').css('display', 'inline-block');
     // $("#container").css('overflow', '');
 }
