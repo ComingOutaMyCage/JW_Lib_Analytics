@@ -164,6 +164,10 @@
                     // console.log(seriesY);
                     // console.log(seriesData);
 
+                    let publicationDisplay = publication + " Publications";
+                    if(publication === "Watchtower")
+                        publicationDisplay = "The Watchtower";
+
                     $("#btnDownload").removeClass('d-none');
                     chart = Highcharts.chart('container' + chartIndex, {
 
@@ -187,7 +191,7 @@
                         },
 
                         title: {
-                            text: `<h1>Usage of ${book} in ${publication} Publications from ${seriesX[0]} to ${seriesX[seriesX.length - 1]}</h1>`
+                            text: `<h1>Usage of ${book} in ${publicationDisplay} from ${seriesX[0]} to ${seriesX[seriesX.length - 1]}</h1>`
                         },
 
                         xAxis: {
