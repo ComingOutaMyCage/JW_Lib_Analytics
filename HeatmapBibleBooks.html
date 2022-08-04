@@ -89,7 +89,7 @@
     const urlParams = new URLSearchParams(window.location.search);
     let publication = urlParams.get('publication') ?? 'All';
     let normal = urlParams.get('normal');
-    let minYear = parseInt(urlParams.get('minYear') ?? 1880);
+    let minYear = parseInt(urlParams.get('minYear') ?? 1950);
     $('#publication').val(publication);
     $('#minYear').val(minYear);
 
