@@ -97,6 +97,7 @@ function InsertNav(){
                 <li class="nav-item"><a class="nav-link" href="ViewTopScriptures.html"><img src="images/sort.png"> Most Common Scriptures</a></li>
                 <li class="nav-item"><a class="nav-link" href="ViewWordsPerYear.html"><img src="images/sort.png"> Words Per Year</a></li>
                 <li class="nav-item"><a class="nav-link" href="ViewReleaseDates.html"><img src="images/sort.png"> Publications Released</a></li>
+                <li class="nav-item"><a class="nav-link" href="VODSearch.html"><img src="images/cc.png"> Search Video Subtitles</a></li>
             </ul>
             <div class="d-flex">
                 <a href="https://s.reddit.com/c/198w7ck0xmo8u" target="_blank" style="height: 36px; padding:1px 9px 2px 0; border-radius: 30px; white-space: nowrap" class="btn btn-dark"><img src="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-60x60.png" style="height: 32px;"/> Chat</a>

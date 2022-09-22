@@ -3,6 +3,10 @@
   "name": "jw_lib_analytics",
   "version": "1.0.0",
   "dependencies": {
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "jquery-throttle-debounce": "^1.0.0",
+    "jstree": "^3.3.12",
+    "jszip": "^3.10.1",
+    "jszip-utils": "^0.1.0"
   }
 }

@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>JW Lib Analytics - Publication Release Dates</title>
+    <meta property='og:title' content='JW Lib Analytics - Publication Release Dates'/>
+    <meta property='og:image' content='https://comingoutamycage.github.io/JW_Lib_Analytics/examples/SiteExample.png'/>
+    <meta property='og:description' content='Examine the scriptures and their usage within JW publications from 1950-2022'/>
+    <meta property='og:url' content='https://comingoutamycage.github.io/JW_Lib_Analytics'/>
+    <meta property='og:image:width' content='1215' />
+    <meta property='og:image:height' content='1148' />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="js/pace.min.js"></script>
+    <link rel="stylesheet" href="js/pace.css">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    <script src="node_modules/jszip/dist/jszip.min.js"></script>
+    <script src="node_modules/jszip-utils/dist/jszip-utils.min.js"></script>
+    <script src="node_modules/jstree/dist/jstree.min.js"></script>
+
+    <script src="node_modules/jquery-throttle-debounce/jquery.ba-throttle-debounce.min.js"></script>
+
+    <script src="js/functions.js"></script>
+    <link href="style.css" rel="stylesheet" >
+    <link href="node_modules/jstree/dist/themes/default/style.css" rel="stylesheet" >
+
+    <style>
+        .searchResult {
+            max-height: 20em;
+            margin: 15px;
+            overflow-y: scroll;
+            white-space: pre-wrap;
+        }
+        .searchResult .link, .pre .link {
+            display: block;
+            background: #581697;
+            border-radius: 1em;
+            color: white;
+            font-weight: bold;
+            padding: 0.5em;
+            padding-left: 0.5em;
+        }
+        .pre {
+            white-space: pre-wrap;
+        }
+        .ts {
+            color: #999999;
+            font-style: italic;
+        }
+        @media only screen and (max-width: 770px) {
+            #js-tree {
+                max-height: 50vh !important;
+            }
+        }
+    </style>
+</head>
+<body>
+<script>InsertNav();</script>
+
+<div id="search-form">
+    <input type="search" placeholder="search" class="form-control" />
+</form>
+<ol></ol>
+<div class="row">
+    <div class="col-12 col-md-4" id="js-tree" style="max-height: 100vh; overflow:scroll"></div>
+    <div class="col-12 col-md-8"><div id="contents">Click a file to open</div></div>
+</div>
+
+<script>
+
+var treeData = [];
+var idx;
+var files = {};
+var hashToFilename = {};
+
+new JSZip.external.Promise(function (resolve, reject) {
+    JSZipUtils.getBinaryContent('Data/VOD-Subtitles.zip', function(err, data) {
+        if (err) {
+            reject(err);
+        } else {
+            resolve(data);
+        }
+    });
+}).then(function (data) {
+    return JSZip.loadAsync(data);
+})
+.then(function(data){
+    console.log(data)
+
+    for (const [key, file] of Object.entries(data.files)){
+        if(file.dir) continue;
+        file.hash = file.name.hashCode();
+        files[file.name] = file;
+        hashToFilename[file.hash] = file.name;
+        let rowData = getDataRow(file.name);
+        rowData.push({ id:file.hash, text: basename(file.name), icon: 'jstree-file', file: file });
+        //file.name = file.name.replace('VOD-Subtitles/', '');
+        //if(file.name == '') continue;
+        //if(file.dir){
+        //    let pathNoSlash = file.name.slice(0,-1);
+        //    let parent = getPath(pathNoSlash);
+        //    if(parent == '') parent = '#';
+        //    treeData.push({ id:pathNoSlash, parent: parent, text: basename(pathNoSlash) });
+        //}else{
+        //    let dir = getPath(file.name);
+        //    treeData.push({ id:file.name, parent: dir, text: basename(file.name) });
+        //}
+    }
+    function basename(path) {
+        return path.split('/').reverse()[0];
+    }
+    function getPath(path) {
+        return path.substring(0, path.lastIndexOf("/"));
+    }
+    function getDataRow(path){
+        let split = path.split('/');
+        let result = treeData;
+        for(let i = 0; i < split.length - 1; i++){
+            let dir = split[i];
+            if(dir == '') continue;
+            let child = result.find(e => e.text == dir);
+            if(child === undefined){
+                child = { text: dir, children: [ ] };
+                result.push(child);
+            }
+            result = child.children;
+        }
+        return result;
+    }
+    
+    console.log(treeData);
+
+    $('#js-tree')
+    .jstree({
+        'plugins' : [ 'search' ],
+        'core' : { 'data': treeData },
+        "search" : {
+            "show_only_matches" : true,
+            "fuzzy" : false,
+            "search_leaves_only" : true,
+            search_callback: function(searchString, node) {
+                //console.log(node.original.file.matches);
+                if(node.original.file.matches === undefined) return true;
+                return node.original.file.matches;
+            },
+        }
+    })
+    .on('select_node.jstree', function (e, data) {
+        data.instance.toggle_node(data.node);
+    }).on('changed.jstree', function (e, data) {
+        var i, j, r = [];
+        for(i = 0, j = data.selected.length; i < j; i++) {
+            let file = data.instance.get_node(data.selected[i]).original.file;
+            if(!file) continue;
+            file.async("string").then(contents => {
+                contents = highlightTimes(contents);
+                $("#contents").html($(`<div class='pre'><a class='link' hash='${file.hash}' href='#openresult'>${file.name}</a>\r\n${contents}<div>`));
+            });
+        }
+    });
+
+    function highlightTimes(contents){
+        let words = $("input[type=search]").val().trim().replace(/\s{2,5}/g, ' ');
+        if(words.length > 0){
+            let regex2 = new RegExp("((" + words.split(' ').join('|') + ")\w*)", 'gi');
+            contents = contents.replace(regex2, "<mark>$1</mark>");
+        }
+        return contents.replace(/^((\d+:)?\d+:\d+)/gm, "<span class='ts'>$1</span>");
+    }
+
+
+    $("input[type=search]").on('input', $.debounce(600, function(){
+        const input = $(this);
+        const searchStart = input.val();
+        let words = input.val().trim().replace(/\s{2,5}/g, ' ').split(' ');
+        let regex = new RegExp("(" + words.join('|') + ")", 'gi');
+        let regexes = words.map((word) => new RegExp(word, 'gi'));
+        let regex2 = new RegExp("((" + words.join('|') + ")\w*)", 'gi');
+        let div = $("#contents");
+        div.text('');
+        let jstree = $("#js-tree");
+        let results = 0;
+
+        Promise.all(Object.values(files).map(async (file) => {
+            if(input.val() != searchStart) return;
+            //if (file.name.endsWith('.json')) return;
+            let contents = await file.async("string")
+            if (regexes.every(r => { return r.test(file.name) }) || regexes.every(r => { return r.test(contents) })){
+                results++;
+                if(results < 100){
+                //contents = contents.replace(regex2, "<mark>$1</mark>");
+                //contents = highlightTimes(contents);
+                //div.append($(`<div class='searchResult'><a class='link' hash='${file.hash}' href='#openresult'>${file.name}</a>\r\n${contents}<div>`));
+                }
+                file.matches = true;
+                //jstree.jstree(true).show_node(file.hash);
+            }else{
+                file.matches = false;
+                //jstree.jstree(true).hide_node(file.hash);
+            }
+        })).then(()=>{
+            jstree.jstree(false).search(searchStart);
+        })
+
+        
+    }));
+
+  });
+
+String.prototype.hashCode = function() {
+  var hash = 0,
+    i, chr;
+  if (this.length === 0) return hash;
+  for (i = 0; i < this.length; i++) {
+    chr = this.charCodeAt(i);
+    hash = ((hash << 5) - hash) + chr;
+    hash |= 0; // Convert to 32bit integer
+  }
+  return hash;
+}
+
+$(document).on('click', '.searchResult a', function(){
+    let hash = $(this).attr('hash');
+    let file = $('#js-tree').jstree('select_node', hash);
+    $('input[type=search]').val('');
+});
+
+
+</script>
+
+<script async src="//static.getclicky.com/101371960.js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101371960ns.gif" /></p></noscript>
