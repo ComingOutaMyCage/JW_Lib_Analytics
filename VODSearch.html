@@ -20,6 +20,8 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
+    <script src="node_modules/encoding-japanese/encoding.js"></script>
+
     <script src="node_modules/jszip/dist/jszip.min.js"></script>
     <script src="node_modules/jszip-utils/dist/jszip-utils.min.js"></script>
     <script src="node_modules/jstree/dist/jstree.min.js"></script>
@@ -88,7 +90,12 @@ new JSZip.external.Promise(function (resolve, reject) {
         }
     });
 }).then(function (data) {
-    return JSZip.loadAsync(data);
+    return JSZip.loadAsync(data, {
+        decodeFileName: function (bytes) {
+            return Encoding.codeToString(Encoding.convert(bytes, { to: 'ASCII', from: 'UTF8' }));
+            //return iconv.decode(bytes, 'cp866');
+        }
+    });
 })
 .then(function(data){
     console.log(data)
