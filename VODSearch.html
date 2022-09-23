@@ -175,7 +175,7 @@ new JSZip.external.Promise(function (resolve, reject) {
     function highlightTimes(contents){
         let words = $("input[type=search]").val().trim().replace(/\s{2,5}/g, ' ');
         if(words.length > 0){
-            let regex2 = new RegExp("((" + words.split(' ').join('|') + ")\w*)", 'gi');
+            let regex2 = new RegExp("(\\b(" + words.split(' ').join('|') + ")\w*)", 'gi');
             contents = contents.replace(regex2, "<mark>$1</mark>");
         }
         return contents.replace(/^((\d+:)?\d+:\d+)/gm, "<span class='ts'>$1</span>");
@@ -187,8 +187,9 @@ new JSZip.external.Promise(function (resolve, reject) {
         const searchStart = input.val();
         let words = input.val().trim().replace(/\s{2,5}/g, ' ').split(' ');
         let regex = new RegExp("(" + words.join('|') + ")", 'gi');
-        let regexes = words.map((word) => new RegExp(word, 'gi'));
-        let regex2 = new RegExp("((" + words.join('|') + ")\w*)", 'gi');
+        const regexes = words.map((word) => new RegExp('\\b' + word, 'gi'));
+        console.log(regexes);
+        let regex2 = new RegExp("(\\b(" + words.join('|') + ")\w*)", 'gi');
         let div = $("#contents");
         div.text('');
         let jstree = $("#js-tree");
@@ -197,9 +198,12 @@ new JSZip.external.Promise(function (resolve, reject) {
         let numMatches = 0;
         Promise.all(Object.values(files).map(async (file) => {
             if(input.val() != searchStart) return;
+            file.matches = true;
             //if (file.name.endsWith('.json')) return;
-            let contents = await file.async("string")
-            if (regexes.every(r => { return r.test(file.name) }) || regexes.every(r => { return r.test(contents) })){
+            const contents = await file.async("string");
+            const filename = file.name;
+            if (regexes.every(r => { return filename.match(r); }) || regexes.every(r => { return r.test(contents); })){
+                console.log(contents);
                 results++;
                 if(results < 100){
                 //contents = contents.replace(regex2, "<mark>$1</mark>");
