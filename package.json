@@ -5,9 +5,12 @@
   "dependencies": {
     "encoding-japanese": "^2.0.0",
     "fs": "0.0.1-security",
+    "fs-extra": "^10.1.0",
     "jquery-throttle-debounce": "^1.0.0",
     "jstree": "^3.3.12",
     "jszip": "^3.10.1",
-    "jszip-utils": "^0.1.0"
+    "jszip-utils": "^0.1.0",
+    "node-fetch": "^3.2.10",
+    "vtt-to-text": "^1.0.1"
   }
 }
