@@ -75,6 +75,14 @@
                     </script>
                 </div>
                 <div class="col-12 col-md-4">
+                    <label>Min Year</label>
+                    <input type="number" class="form-control" id="minYear" name="minYear" />
+                </div>
+                <div class="col-12 col-md-4">
+                    <label>Max Year</label>
+                    <input type="number" class="form-control" id="maxYear" name="maxYear" />
+                </div>
+                <div class="col-12 col-md-4">
                     <button type="submit" class="btn btn-primary mt-3">Load Data</button>
                 </div>
             </div>
@@ -98,6 +106,11 @@
     let publication = urlParams.get('publication') ?? 'All';
     $('#publication').val(publication);
 
+    let minYear = urlParams.get('minYear') ?? '1880';
+    $('#minYear').val(minYear);
+    let maxYear = urlParams.get('maxYear') ?? new Date().getFullYear();
+    $('#maxYear').val(maxYear);
+
     let dir = 'Data/ScripturesByYear/';
 
     if (publication) {
@@ -108,7 +121,14 @@
             Object.keys(json).forEach((key) => {
                 let years = json[key];
                 let count = 0;
-                Object.values(years).forEach((yearCount) => count += yearCount);
+                if(minYear) {
+                    for (const [year, yearCount] of Object.entries(years)) {
+                        if(year >= minYear && year <= maxYear)
+                            count += yearCount;
+                    }
+                }else {
+                    Object.values(years).forEach((yearCount) => count += yearCount);
+                }
                 data.push([key, count]);
             });
             data.sort(function (a, b) {
