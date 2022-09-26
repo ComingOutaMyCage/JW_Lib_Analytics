@@ -13,6 +13,7 @@ var publications = [
     "Books",
     "Brochures",
     "Year Book",
+    "Videos",
 ];
 const bibleBooks = ["Genesis",
     "Exodus",

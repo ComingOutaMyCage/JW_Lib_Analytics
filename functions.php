@@ -300,6 +300,7 @@ class PublicationCodes {
         'brch' => 'Brochures',
         'bklt' => 'Brochures',
         'bk' => 'Books',
+        'vod' => 'Videos',
 
         'bi' => null,
         'gloss' => null,
