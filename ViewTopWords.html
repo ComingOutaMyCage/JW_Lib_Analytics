@@ -24,7 +24,7 @@
     <script src="https://unpkg.com/chartjs-chart-wordcloud@3"></script>
 
     <script src="js/pako_deflate.js"></script><script src="js/pako_inflate.js"></script>
-    <script src="js/functions.js"></script>
+    <script src="js/bible_niv2.js"></script><script src="js/functions.js"></script>
     <script src="js/most-common-words.js"></script>
     <link href="style.css" rel="stylesheet" >
 </head>
@@ -90,6 +90,7 @@
                 if(count < 500) return;
                 else if(!showCommonWords && IsCommonWord(key) || key.match(/\s/)) return;
                 else if(key == 0 || key > 1 && key < 100) return;
+                if (key > 0 && key < 10) return;
                 data.push([key, count]);
             });
             data.sort(function(a, b) {

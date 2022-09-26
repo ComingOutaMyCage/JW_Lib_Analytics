@@ -24,7 +24,7 @@
     <script src="https://unpkg.com/chartjs-chart-wordcloud@3"></script>
 
     <script src="js/pako_deflate.js"></script><script src="js/pako_inflate.js"></script>
-    <script src="js/functions.js"></script>
+    <script src="js/bible_niv2.js"></script><script src="js/functions.js"></script>
     <link href="style.css" rel="stylesheet" />
 
     <style>
@@ -44,6 +44,16 @@
         table td {
             white-space: nowrap;
             color: white !important;
+        }
+        .preview {
+            cursor: pointer;
+            white-space: unset;
+            max-width: 20em;
+            max-height: 2em;
+            overflow: hidden;
+            display: block;
+            background: none;
+            border: none;
         }
     </style>
 </head>
@@ -75,8 +85,8 @@
     <div style="height:60vh;"><canvas id="wordCloud"></canvas></div>
     <div style="width: 100vw; position: absolute; left:0">
         <div id="tables" class="d-flex">
-            <table class="table table-hover table-bordered table-striped mb-5" style="margin: auto auto; width: auto;">
-                <thead><tr><th>Rank</th><th>Count</th><th>Word</th></tr></thead>
+            <table class="table table-hover table-bordered table-striped mb-5" style="margin: 0 auto; width: auto;">
+                <thead><tr><th>Rank</th><th>Count</th><th>Word</th><th>Preview</th></tr></thead>
                 <tbody></tbody>
             </table>
         </div>
@@ -111,13 +121,16 @@
 
             let tablehtml = $("#tables .table")[0].outerHTML;
             let columns = Math.floor(window.innerWidth / 300) ;
-            let splitAt = Math.floor(data.length / columns);
+            let splitAt = 20;//Math.floor(data.length / columns);
             let tableBody = $("#tables tbody");
             for(let c = 0; c < columns; c++) {
                 let html = "";
                 for (let j = 0; j < splitAt; j++) {
                     let i = (c * splitAt) + j;
-                    html += "<tr><td>" + (i + 1) + "</td><td>" + data[i][1] + "</td><td>" + data[i][0] + "</td></tr>";
+                    let scripture = GetScripture(data[i][0]);
+                    html += "<tr><td>" + (i + 1) + "</td><td>" + data[i][1] + "</td>" + 
+                        "<td class='scripture'>" + data[i][0] + "</td>" + 
+                        `<td class='preview'>${scripture}</td></tr>`;
                 }
                 tableBody.append(html);
                 if(c + 1 < columns) {
@@ -162,6 +175,13 @@
         });
     }
 
+    $(document).on('click', '.preview', function(){
+        let display = $(this).css('display');
+        if(display != 'table-cell')
+            $(this).css('display', 'table-cell');
+        else
+        $(this).css('display', 'block');
+    })
 </script>
 
 <script async src="//static.getclicky.com/101371960.js"></script>

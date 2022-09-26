@@ -32,7 +32,7 @@
     <script src="js/highcharts.boost.fix.js"></script>
 
     <script src="js/pako_deflate.js"></script><script src="js/pako_inflate.js"></script>
-    <script src="js/functions.js"></script>
+    <script src="js/bible_niv2.js"></script><script src="js/functions.js"></script>
     <link href="style.css" rel="stylesheet" >
 </head>
 <body>
@@ -247,6 +247,11 @@
                                     result += `<br/><b>Raw Count</b>: ` + Round2Places(n * this.point.value);
                                     result += `<br/><b>${normal}</b>: ${n}`;
                                 } else result += value;
+
+                                let scripture = book + " " + name; 
+                                scripture = GetScripture(scripture);
+                                scripture = wrap(scripture, 30).replaceAll("\n", "<br/>");
+                                result = "<span style='font-size:80%; line-height:80%;'>" + scripture + "</span><br/><br/>" + result;
                                 return result;
                             }
                         },

@@ -117,6 +117,24 @@ function InsertNav(){
     });
 }
 
+function GetScripture(verse){
+    const regex = /^(.*) (\d+):(\d+)/;
+    let match = verse.match(regex);
+    let book = bible[match[1]];
+    if(!book){
+        if (match[1] == "Acts") book = bible["Acts of the Apostles"];
+        else return "COULD NOT FIND " + verse;
+    }
+    console.log(match);
+    var chapter = book[match[2] - 1];
+    return chapter[match[3] - 1];
+}
+function wrap(s, w) {
+    return s.replace(
+    new RegExp(`(?![^\\n]{1,${w}}$)([^\\n]{1,${w}})\\s`, 'g'), '$1\n'
+    )
+}
+
 function redimChartBeforePrint(chart, width, height) {
     if (typeof(width) == 'undefined')
         width  = chart.chartWidth;
