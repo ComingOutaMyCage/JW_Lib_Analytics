@@ -125,7 +125,7 @@ function GetScripture(verse){
         if (match[1] == "Acts") book = bible["Acts of the Apostles"];
         else return "COULD NOT FIND " + verse;
     }
-    console.log(match);
+    //console.log(match);
     var chapter = book[match[2] - 1];
     return chapter[match[3] - 1];
 }
