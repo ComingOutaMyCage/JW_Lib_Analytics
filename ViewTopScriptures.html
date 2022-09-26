@@ -141,7 +141,7 @@
 
             let tablehtml = $("#tables .table")[0].outerHTML;
             let columns = Math.floor(window.innerWidth / 300) ;
-            let splitAt = 20;//Math.floor(data.length / columns);
+            let splitAt = Math.floor(data.length / columns);
             let tableBody = $("#tables tbody");
             for(let c = 0; c < columns; c++) {
                 let html = "";
