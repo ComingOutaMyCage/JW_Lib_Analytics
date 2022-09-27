@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>JW Lib Analytics - Publication Release Dates</title>
+    <title>JW Lib Analytics - Video Subtitle Search</title>
     <meta property='og:title' content='JW Lib Analytics - Video On Demand Search'/>
     <meta property='og:image' content='https://comingoutamycage.github.io/JW_Lib_Analytics/examples/SiteExample.png'/>
     <meta property='og:description' content='Examine the scriptures and their usage within JW publications from 1950-2022'/>
@@ -67,7 +67,7 @@
 
 <div id="search-form">
     <div class="input-group"><input type="search" placeholder="search" class="form-control" /><a class="btn btn-primary" class="float-right" href="Data/VOD-Subtitles.zip">Download Zip</a></div>
-</form>
+</div>
 <ol></ol>
 <div class="row">
     <div class="col-12 col-md-4" id="js-tree" style="max-height: 100vh; overflow:scroll"></div>
@@ -75,6 +75,9 @@
 </div>
 
 <script>
+
+let words = getPageState('words') ?? '';
+$("input[type=search]").val(words);
 
 var treeData = [];
 var idx;
@@ -141,7 +144,7 @@ new JSZip.external.Promise(function (resolve, reject) {
         return result;
     }
     
-    console.log(treeData);
+    //console.log(treeData);
 
     $('#js-tree')
     .jstree({
@@ -172,10 +175,15 @@ new JSZip.external.Promise(function (resolve, reject) {
         }
     });
 
-    function highlightTimes(contents){
+    function getSearchWords(){
         let words = $("input[type=search]").val().trim().replace(/\s{2,5}/g, ' ');
+        words = words.match(/\w+|"[^"]+"/g).map(s => s.replaceAll('"', ''));
+        return words;
+    }
+    function highlightTimes(contents){
+        let words = getSearchWords();
         if(words.length > 0){
-            let regex2 = new RegExp("(\\b(" + words.split(' ').join('|') + ")\w*)", 'gi');
+            let regex2 = new RegExp("(\\b(" + words.join('|') + ")\w*)", 'gi');
             contents = contents.replace(regex2, "<mark>$1</mark>");
         }
         return contents.replace(/^((\d+:)?\d+:\d+)/gm, "<span class='ts'>$1</span>");
@@ -185,15 +193,17 @@ new JSZip.external.Promise(function (resolve, reject) {
     $("input[type=search]").on('input', $.debounce(600, function(){
         const input = $(this);
         const searchStart = input.val();
-        let words = input.val().trim().replace(/\s{2,5}/g, ' ').split(' ');
+        let words = getSearchWords();
         let regex = new RegExp("(" + words.join('|') + ")", 'gi');
         const regexes = words.map((word) => new RegExp('\\b' + word, 'gi'));
         console.log(regexes);
-        let regex2 = new RegExp("(\\b(" + words.join('|') + ")\w*)", 'gi');
+        //let regex2 = new RegExp("(\\b(" + words.join('|') + ")\w*)", 'gi');
         let div = $("#contents");
         div.text('');
         let jstree = $("#js-tree");
         let results = 0;
+
+        setPageState("words", searchStart);
 
         let numMatches = 0;
         Promise.all(Object.values(files).map(async (file) => {
@@ -203,7 +213,7 @@ new JSZip.external.Promise(function (resolve, reject) {
             const contents = await file.async("string");
             const filename = file.name;
             if (regexes.every(r => { return filename.match(r); }) || regexes.every(r => { return r.test(contents); })){
-                console.log(contents);
+                //console.log(contents);
                 results++;
                 if(results < 100){
                 //contents = contents.replace(regex2, "<mark>$1</mark>");
@@ -223,8 +233,11 @@ new JSZip.external.Promise(function (resolve, reject) {
             jstree.jstree(false).search(searchStart);
         })
 
-        
+
     }));
+
+    if($("input[type=search]").val())
+        $("input[type=search]").trigger('input');
 
   });
 

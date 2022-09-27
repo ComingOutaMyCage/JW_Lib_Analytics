@@ -239,3 +239,20 @@ function HtmlEncode(s) {
     s = el.innerHTML;
     return s;
 }
+
+function setPageState(param, value) {
+    //console.log(param + " = " + value);
+    let newURL = new URL(location.href);
+    if (value == null || value === '' || value === '[""]' || value === '[]')
+        newURL.searchParams.delete(param);
+    else
+        newURL.searchParams.set(param, value);
+    window.history.replaceState(param + ":" + value, null, newURL.toString());
+}
+function getPageState(param) {
+    return getUrlParam(location.href, param);
+}
+function getUrlParam(href, param) {
+    let url = new URL(href);
+    return url.searchParams.get(param);
+}
