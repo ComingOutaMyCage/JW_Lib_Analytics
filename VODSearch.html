@@ -197,13 +197,14 @@ new JSZip.external.Promise(function (resolve, reject) {
 function pageStateChanged(){
     let search = getPageState('search');
     let filename = getPageState('file');
-    let fileID = filename.hashCode() & 0xfffffff;
     if(search) {
         $("input[type=search]").val(search);
         DoSearch();
     }
-    if(fileID)
+    if(filename) {
+        let fileID = filename.hashCode() & 0xfffffff;
         $('#js-tree').jstree('select_node', fileID);
+    }
 }
 
 function highlightTimes(contents){
