@@ -105,7 +105,7 @@ new JSZip.external.Promise(function (resolve, reject) {
 
     for (const [key, file] of Object.entries(data.files)){
         if(file.dir) continue;
-        file.hash = file.name.hashCode();
+        file.hash = file.name.hashCode() & 0xfffffff;
         files[file.name] = file;
         hashToFilename[file.hash] = file.name;
         let rowData = getDataRow(file.name);
@@ -168,6 +168,7 @@ new JSZip.external.Promise(function (resolve, reject) {
         for(i = 0, j = data.selected.length; i < j; i++) {
             let file = data.instance.get_node(data.selected[i]).original.file;
             if(!file) continue;
+            setPageState('file', file.name);
             file.async("string").then(contents => {
                 contents = highlightTimes(contents);
                 let title = basename(getPath(file.name));
@@ -180,14 +181,23 @@ new JSZip.external.Promise(function (resolve, reject) {
 
 
     $("input[type=search]").on('input', $.debounce(600, DoSearch));
-    if($("input[type=search]").val()) { DoSearch(); }
+    pageStateChanged();
     window.addEventListener('popstate', function(){
-        $("input[type=search]").val(getPageState('words'));
-        DoSearch();
     });
 
   });
 
+function pageStateChanged(){
+    let search = getPageState('search');
+    let filename = getPageState('file');
+    let fileID = filename.hashCode() & 0xfffffff;
+    if(search) {
+        $("input[type=search]").val(search);
+        DoSearch();
+    }
+    if(fileID)
+        $('#js-tree').jstree('select_node', fileID);
+}
 
 function highlightTimes(contents){
     let words = getSearchWords();
@@ -211,13 +221,15 @@ function DoSearch(){
     const regexes = words.map((word) => new RegExp('\\b' + word, 'gi'));
     console.log(regexes);
     //let regex2 = new RegExp("(\\b(" + words.join('|') + ")\w*)", 'gi');
-    let div = $("#contents");
-    div.text('');
+
     let jstree = $("#js-tree");
     let results = 0;
 
-    if(getPageState('words') !== searchStart)
-        setPageState("words", searchStart);
+    if(getPageState('search') !== searchStart){
+        setPageState("search", searchStart);
+        let div = $("#contents");
+        div.text('');
+    }
 
     let numMatches = 0;
     Promise.all(Object.values(files).map(async (file) => {
