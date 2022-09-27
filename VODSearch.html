@@ -176,72 +176,77 @@ new JSZip.external.Promise(function (resolve, reject) {
         }
     });
 
-    function getSearchWords(){
-        let words = $("input[type=search]").val().trim().replace(/\s{2,5}/g, ' ');
-        if (!words) return [];
-        words = words.match(/\w+|"[^"]+"/g).map(s => s.replaceAll('"', ''));
-        return words;
+
+
+
+    $("input[type=search]").on('input', $.debounce(600, DoSearch));
+    if($("input[type=search]").val()) { DoSearch(); }
+    window.addEventListener('popstate', function(){
+        $("input[type=search]").val(getPageState('words'));
+        DoSearch();
+    });
+
+  });
+
+
+function highlightTimes(contents){
+    let words = getSearchWords();
+    if(words.length > 0){
+        let regex2 = new RegExp("(\\b(" + words.join('|') + ")\w*)", 'gi');
+        contents = contents.replace(regex2, "<mark>$1</mark>");
     }
-    function highlightTimes(contents){
-        let words = getSearchWords();
-        if(words.length > 0){
-            let regex2 = new RegExp("(\\b(" + words.join('|') + ")\w*)", 'gi');
-            contents = contents.replace(regex2, "<mark>$1</mark>");
-        }
-        return contents.replace(/^((\d+:)?\d+:\d+)/gm, "<span class='ts'>$1</span>");
-    }
+    return contents.replace(/^((\d+:)?\d+:\d+)/gm, "<span class='ts'>$1</span>");
+}
+function getSearchWords(){
+    let words = $("input[type=search]").val().trim().replace(/\s{2,5}/g, ' ');
+    if (!words) return [];
+    words = words.match(/\w+|"[^"]+"/g).map(s => s.replaceAll('"', ''));
+    return words;
+}
+function DoSearch(){
+    const input = $("input[type=search]");
+    const searchStart = input.val();
+    let words = getSearchWords();
+    let regex = new RegExp("(" + words.join('|') + ")", 'gi');
+    const regexes = words.map((word) => new RegExp('\\b' + word, 'gi'));
+    console.log(regexes);
+    //let regex2 = new RegExp("(\\b(" + words.join('|') + ")\w*)", 'gi');
+    let div = $("#contents");
+    div.text('');
+    let jstree = $("#js-tree");
+    let results = 0;
 
-
-    $("input[type=search]").on('input', $.debounce(600, function(){
-        const input = $(this);
-        const searchStart = input.val();
-        let words = getSearchWords();
-        let regex = new RegExp("(" + words.join('|') + ")", 'gi');
-        const regexes = words.map((word) => new RegExp('\\b' + word, 'gi'));
-        console.log(regexes);
-        //let regex2 = new RegExp("(\\b(" + words.join('|') + ")\w*)", 'gi');
-        let div = $("#contents");
-        div.text('');
-        let jstree = $("#js-tree");
-        let results = 0;
-
+    if(getPageState('words') !== searchStart)
         setPageState("words", searchStart);
 
-        let numMatches = 0;
-        Promise.all(Object.values(files).map(async (file) => {
-            if(input.val() != searchStart) return;
-            file.matches = true;
-            //if (file.name.endsWith('.json')) return;
-            const contents = await file.async("string");
-            const filename = file.name;
-            if (regexes.every(r => { return filename.match(r); }) || regexes.every(r => { return r.test(contents); })){
-                //console.log(contents);
-                results++;
-                if(results < 100){
+    let numMatches = 0;
+    Promise.all(Object.values(files).map(async (file) => {
+        if(input.val() !== searchStart) return;
+        file.matches = true;
+        //if (file.name.endsWith('.json')) return;
+        const contents = await file.async("string");
+        const filename = file.name;
+        if (regexes.every(r => { return filename.match(r); }) || regexes.every(r => { return r.test(contents); })){
+            //console.log(contents);
+            results++;
+            if(results < 100){
                 //contents = contents.replace(regex2, "<mark>$1</mark>");
                 //contents = highlightTimes(contents);
                 //div.append($(`<div class='searchResult'><a class='link' hash='${file.hash}' href='#openresult'>${file.name}</a>\r\n${contents}<div>`));
-                }
-                numMatches++;
-                file.matches = true;
-                //jstree.jstree(true).show_node(file.hash);
-            }else{
-                file.matches = false;
-                //jstree.jstree(true).hide_node(file.hash);
             }
-        })).then(()=>{
-            if(numMatches == 0)
-                alert('No Matches');
-            jstree.jstree(false).search(searchStart);
-        })
-
-
-    }));
-
-    if($("input[type=search]").val())
-        $("input[type=search]").trigger('input');
-
-  });
+            numMatches++;
+            file.matches = true;
+            //jstree.jstree(true).show_node(file.hash);
+        }else{
+            file.matches = false;
+            //jstree.jstree(true).hide_node(file.hash);
+        }
+    })).then(()=>{
+        if(numMatches === 0)
+            alert('No Matches');
+        jstree.jstree(false).search(searchStart);
+    })
+}
 
 String.prototype.hashCode = function() {
   var hash = 0,
