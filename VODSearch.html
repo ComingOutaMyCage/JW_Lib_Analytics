@@ -170,7 +170,8 @@ new JSZip.external.Promise(function (resolve, reject) {
             if(!file) continue;
             file.async("string").then(contents => {
                 contents = highlightTimes(contents);
-                $("#contents").html($(`<div class='pre'><a class='link' hash='${file.hash}' href='#openresult'>${file.name}</a>\r\n${contents}<div>`));
+                let title = basename(getPath(file.name));
+                $("#contents").html($(`<div class='pre'><a class='link' hash='${file.hash}' href='#openresult'>${title}</a>\r\n${contents}<div>`));
             });
         }
     });
