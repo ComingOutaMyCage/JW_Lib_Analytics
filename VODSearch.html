@@ -262,7 +262,7 @@ function DoSearch(){
         }
     })).then(()=>{
         if(numMatches === 0)
-            alert('No Matches');
+            $("#contents").html("<h3>No Matches</h3>");
         jstree.jstree(false).search(searchStart);
     })
 }
