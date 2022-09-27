@@ -178,6 +178,7 @@ new JSZip.external.Promise(function (resolve, reject) {
 
     function getSearchWords(){
         let words = $("input[type=search]").val().trim().replace(/\s{2,5}/g, ' ');
+        if (!words) return [];
         words = words.match(/\w+|"[^"]+"/g).map(s => s.replaceAll('"', ''));
         return words;
     }
