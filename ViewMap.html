@@ -101,7 +101,7 @@
     $.getJSON('./Meetings/init_data.json', (data) => {
         init_data = data;
         available_grids = init_data.grids;
-        $("#total").text(init_data.totalActive);
+        $("#total").text(init_data.totalActive + init_data.totalInactive);
         $("#stats").append(`<h3>Congregations: ${init_data.typeTotals.CONG}</h3> <h3>Groups: ${init_data.typeTotals.GROUP}</h3>`);
         load();
     });
