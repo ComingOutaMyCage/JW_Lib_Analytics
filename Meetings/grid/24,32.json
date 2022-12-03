@@ -1,838 +1,839 @@
 [
-    {
-        "geoId": "F38CCE47-A603-4261-8C08-046D8D245A35",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 29.556963,
-            "longitude": 34.954098
-        },
-        "properties": {
-            "orgGuid": "F38CCE47-A603-4261-8C08-046D8D245A35",
-            "orgName": "אילת רוסית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Eilat Russian",
-            "address": "אילת\r\n",
-            "languageCode": "U",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 5,
-                        "time": "19:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "052 685 0467   Евгений",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+  {
+    "geoId": "F38CCE47-A603-4261-8C08-046D8D245A35",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 29.556963,
+      "longitude": 34.954098
     },
-    {
-        "geoId": "8A421C15-38CA-44F0-8C24-7FDACA1D8E0E",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.259091,
-            "longitude": 34.795863
-        },
-        "properties": {
-            "orgGuid": "8A421C15-38CA-44F0-8C24-7FDACA1D8E0E",
-            "orgName": "באר שבע עברית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Be'er Sheva Hebrew",
-            "address": "מצדה 6-35\r\nבאר שבע84357\r\n",
-            "transliteratedAddress": "6-35 Derech Metsada 1st floor\r\nBeer Sheva84357\r\n",
-            "languageCode": "Q",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "18:30"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "F38CCE47-A603-4261-8C08-046D8D245A35",
+      "orgName": "אילת רוסית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Eilat Russian",
+      "address": "אילת\r\n",
+      "languageCode": "U",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 5,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "052 685 0467   Евгений",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "04D1BE36-A5C4-411A-AFC0-28774F969F1B",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.259091,
-            "longitude": 34.795863
-        },
-        "properties": {
-            "orgGuid": "04D1BE36-A5C4-411A-AFC0-28774F969F1B",
-            "orgName": "באר שבע מזרח רוסית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Beer Sheva East Russian",
-            "address": "מצדה 6-35\r\nבאר שבע84357\r\n",
-            "transliteratedAddress": "6-35 Derech Metsada 1st floor\r\nBeer Sheva84357\r\n",
-            "languageCode": "U",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 4,
-                        "time": "18:30"
-                    },
-                    "midweek": {
-                        "weekday": 1,
-                        "time": "18:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "054-8032810",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "8A421C15-38CA-44F0-8C24-7FDACA1D8E0E",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.259091,
+      "longitude": 34.795863
     },
-    {
-        "geoId": "5783340C-A30D-4A0A-A10C-C2B2C863E33C",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.259091,
-            "longitude": 34.795863
-        },
-        "properties": {
-            "orgGuid": "5783340C-A30D-4A0A-A10C-C2B2C863E33C",
-            "orgName": "באר שבע מערב רוסית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Beer Sheva West Russian",
-            "address": "מצדה 6-35\r\nבאר שבע84357\r\n",
-            "transliteratedAddress": "6-35 Derech Metsada 1st floor\r\nBeer Sheva84357\r\n",
-            "languageCode": "U",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "18:45"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "18:45"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0545336639",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "8A421C15-38CA-44F0-8C24-7FDACA1D8E0E",
+      "orgName": "באר שבע עברית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Be'er Sheva Hebrew",
+      "address": "מצדה 6-35\r\nבאר שבע84357\r\n",
+      "transliteratedAddress": "6-35 Derech Metsada 1st floor\r\nBeer Sheva84357\r\n",
+      "languageCode": "Q",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "18:30"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "5A4AC63F-9293-4FD6-822D-48E52DC56C88",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.259091,
-            "longitude": 34.795863
-        },
-        "properties": {
-            "orgGuid": "5A4AC63F-9293-4FD6-822D-48E52DC56C88",
-            "orgName": "ערד - באר שבע מזרח רוסית",
-            "orgType": "GROUP",
-            "orgTransliteratedName": "Beer Sheva East Russian",
-            "address": "מצדה 6-35\r\nבאר שבע84357\r\n",
-            "transliteratedAddress": "6-35 Derech Metsada 1st floor\r\nBeer Sheva84357\r\n",
-            "languageCode": "U",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 4,
-                        "time": "18:45"
-                    },
-                    "midweek": {
-                        "weekday": null,
-                        "time": null
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "054-8032810",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "04D1BE36-A5C4-411A-AFC0-28774F969F1B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.259091,
+      "longitude": 34.795863
     },
-    {
-        "geoId": "FAABBF34-69B4-42AE-B733-31D1788E8B4D",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.661721,
-            "longitude": 34.587581
-        },
-        "properties": {
-            "orgGuid": "FAABBF34-69B4-42AE-B733-31D1788E8B4D",
-            "orgName": "אשקלון רוסית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Ashkelon Russian",
-            "address": "כצנלסון 13\r\nבית ימין\r\nאשקלון7862313\r\n",
-            "transliteratedAddress": "13 Berl Katsnelson St\r\nBeit Yamin\r\nAshkelon7862313\r\n",
-            "languageCode": "U",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "19:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "055-9799569",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "04D1BE36-A5C4-411A-AFC0-28774F969F1B",
+      "orgName": "באר שבע מזרח רוסית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Beer Sheva East Russian",
+      "address": "מצדה 6-35\r\nבאר שבע84357\r\n",
+      "transliteratedAddress": "6-35 Derech Metsada 1st floor\r\nBeer Sheva84357\r\n",
+      "languageCode": "U",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 4,
+            "time": "18:30"
+          },
+          "midweek": {
+            "weekday": 1,
+            "time": "18:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "054-8032810",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "4D3DEB94-0812-4A94-856F-293AB3BD4EFE",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.812503,
-            "longitude": 34.658443
-        },
-        "properties": {
-            "orgGuid": "4D3DEB94-0812-4A94-856F-293AB3BD4EFE",
-            "orgName": "אשדוד רוסית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Ashdod Russian",
-            "address": "הבנאים 2\r\nHaBanaim Street 2\r\nSecond Floor\r\nאשדוד77609\r\n",
-            "transliteratedAddress": "2 HaBanaim St\r\n\r\nAshdod 77609\r\n\r\nAshdod\r\nAshdod77609\r\n",
-            "languageCode": "U",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "11:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+972 54-469-2046",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "5783340C-A30D-4A0A-A10C-C2B2C863E33C",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.259091,
+      "longitude": 34.795863
     },
-    {
-        "geoId": "AA3B7A63-4C50-4ED4-A513-B621244C0D2B",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.812503,
-            "longitude": 34.658443
-        },
-        "properties": {
-            "orgGuid": "AA3B7A63-4C50-4ED4-A513-B621244C0D2B",
-            "orgName": "אשדוד עברית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Ashdod Hebrew",
-            "address": "הבנאים 2\r\nHaBanaim Street 2\r\nSecond Floor\r\nאשדוד77609\r\n",
-            "transliteratedAddress": "2 HaBanaim St\r\n\r\nAshdod 77609\r\n\r\nAshdod\r\nAshdod77609\r\n",
-            "languageCode": "Q",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 5,
-                        "time": "17:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "055-3054049",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "5783340C-A30D-4A0A-A10C-C2B2C863E33C",
+      "orgName": "באר שבע מערב רוסית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Beer Sheva West Russian",
+      "address": "מצדה 6-35\r\nבאר שבע84357\r\n",
+      "transliteratedAddress": "6-35 Derech Metsada 1st floor\r\nBeer Sheva84357\r\n",
+      "languageCode": "U",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:45"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "18:45"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0545336639",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "AC8DBC17-4C21-45C8-8C73-53FD8368F634",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.99012,
-            "longitude": 34.76706
-        },
-        "properties": {
-            "orgGuid": "AC8DBC17-4C21-45C8-8C73-53FD8368F634",
-            "orgName": "ראשון לציון עברית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Rishon LeZion Hebrew",
-            "address": "הכשרת הישוב 7/5\r\nקומה 1\r\nראשון לציון75652\r\n",
-            "transliteratedAddress": "7/5 Hakhsharat ha-Yishuv St\r\nFirst Floor\r\nRishon LeZion75652\r\n",
-            "languageCode": "Q",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0547168855",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "5A4AC63F-9293-4FD6-822D-48E52DC56C88",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.259091,
+      "longitude": 34.795863
     },
-    {
-        "geoId": "BA5FEF04-6CE2-4746-A7BF-EE9BD158881A",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.99012,
-            "longitude": 34.76706
-        },
-        "properties": {
-            "orgGuid": "BA5FEF04-6CE2-4746-A7BF-EE9BD158881A",
-            "orgName": "בת ים רוסית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Bat Yam Russian",
-            "address": "הכשרת הישוב 7/5\r\nקומה 1\r\nראשון לציון75652\r\n",
-            "transliteratedAddress": "7/5 Hakhsharat ha-Yishuv St\r\nFirst Floor\r\nRishon LeZion75652\r\n",
-            "languageCode": "U",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "19:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "054-8766174",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "5A4AC63F-9293-4FD6-822D-48E52DC56C88",
+      "orgName": "ערד - באר שבע מזרח רוסית",
+      "orgType": "GROUP",
+      "orgTransliteratedName": "Beer Sheva East Russian",
+      "address": "מצדה 6-35\r\nבאר שבע84357\r\n",
+      "transliteratedAddress": "6-35 Derech Metsada 1st floor\r\nBeer Sheva84357\r\n",
+      "languageCode": "U",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 4,
+            "time": "18:45"
+          },
+          "midweek": {
+            "weekday": null,
+            "time": null
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "054-8032810",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "6FB1FBC4-4FF7-40A3-B580-7EC774176EC7",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.99012,
-            "longitude": 34.76706
-        },
-        "properties": {
-            "orgGuid": "6FB1FBC4-4FF7-40A3-B580-7EC774176EC7",
-            "orgName": "ראשון לציון רוסית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Rishon LeZion Russian",
-            "address": "הכשרת הישוב 7/5\r\nקומה 1\r\nראשון לציון75652\r\n",
-            "transliteratedAddress": "7/5 Hakhsharat ha-Yishuv St\r\nFirst Floor\r\nRishon LeZion75652\r\n",
-            "languageCode": "U",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 4,
-                        "time": "19:00"
-                    },
-                    "midweek": {
-                        "weekday": 1,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "050-953-7823",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "FAABBF34-69B4-42AE-B733-31D1788E8B4D",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.661721,
+      "longitude": 34.587581
     },
-    {
-        "geoId": "A49928EB-5E24-44DF-A2AA-3E5A80747135",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.99012,
-            "longitude": 34.76706
-        },
-        "properties": {
-            "orgGuid": "A49928EB-5E24-44DF-A2AA-3E5A80747135",
-            "orgName": "תל אביב־יפו ערבית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Tel Aviv-Yafo Arabic",
-            "address": "הכשרת הישוב 7/5\r\nקומה 1\r\nראשון לציון75652\r\n",
-            "transliteratedAddress": "7/5 Hakhsharat ha-Yishuv St\r\nFirst Floor\r\nRishon LeZion75652\r\n",
-            "languageCode": "A",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 5,
-                        "time": "18:00"
-                    },
-                    "midweek": {
-                        "weekday": 1,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+972585066606",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "FAABBF34-69B4-42AE-B733-31D1788E8B4D",
+      "orgName": "אשקלון רוסית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Ashkelon Russian",
+      "address": "כצנלסון 13\r\nבית ימין\r\nאשקלון7862313\r\n",
+      "transliteratedAddress": "13 Berl Katsnelson St\r\nBeit Yamin\r\nAshkelon7862313\r\n",
+      "languageCode": "U",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "055-9799569",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "D51BDCF7-1E69-4450-A927-F8F707D68A81",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.99012,
-            "longitude": 34.76706
-        },
-        "properties": {
-            "orgGuid": "D51BDCF7-1E69-4450-A927-F8F707D68A81",
-            "orgName": "חולון רוסית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Holon Russian",
-            "address": "הכשרת הישוב 7/5\r\nקומה 1\r\nראשון לציון75652\r\n",
-            "transliteratedAddress": "7/5 Hakhsharat ha-Yishuv St\r\nFirst Floor\r\nRishon LeZion75652\r\n",
-            "languageCode": "U",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "19:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+972545389101",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "4D3DEB94-0812-4A94-856F-293AB3BD4EFE",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.812503,
+      "longitude": 34.658443
     },
-    {
-        "geoId": "9E9E6035-F947-4644-A917-0DCC10BA791F",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.922123,
-            "longitude": 34.878959
-        },
-        "properties": {
-            "orgGuid": "9E9E6035-F947-4644-A917-0DCC10BA791F",
-            "orgName": "רמלה עברית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Ramleh Hebrew",
-            "address": "משה מונטפיורי 3\r\nReh. Moshe Montifiory 3/18\r\nרמלה72434\r\n",
-            "transliteratedAddress": "3/18 Moshe Montefiore St\r\nRamleh72434\r\n",
-            "languageCode": "Q",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 5,
-                        "time": "16:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+972-53-383-3803",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "4D3DEB94-0812-4A94-856F-293AB3BD4EFE",
+      "orgName": "אשדוד רוסית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Ashdod Russian",
+      "address": "הבנאים 2\r\nHaBanaim Street 2\r\nSecond Floor\r\nאשדוד77609\r\n",
+      "transliteratedAddress": "2 HaBanaim St\r\n\r\nAshdod 77609\r\n\r\nAshdod\r\nAshdod77609\r\n",
+      "languageCode": "U",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "11:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+972 54-469-2046",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "1408060A-853B-4E9A-B712-2E5C6751DCC4",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.922123,
-            "longitude": 34.878959
-        },
-        "properties": {
-            "orgGuid": "1408060A-853B-4E9A-B712-2E5C6751DCC4",
-            "orgName": "רמלה רוסית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Ramleh Russian",
-            "address": "משה מונטפיורי 3\r\nReh. Moshe Montifiory 3/18\r\nרמלה72434\r\n",
-            "transliteratedAddress": "3/18 Moshe Montefiore St\r\nRamleh72434\r\n",
-            "languageCode": "U",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "19:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0506788939",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "AA3B7A63-4C50-4ED4-A513-B621244C0D2B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.812503,
+      "longitude": 34.658443
     },
-    {
-        "geoId": "FA87959B-4278-4CAB-8BC5-2201E984649A",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.710617,
-            "longitude": 35.203821
-        },
-        "properties": {
-            "orgGuid": "FA87959B-4278-4CAB-8BC5-2201E984649A",
-            "orgName": "بيت لحم",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Bethlehem",
-            "address": "شارع الجديد\r\nعمارة متري ط ٣\r\nBethlehem\r\n",
-            "transliteratedAddress": "Manger St\nHanna Mitri Building 3rd floor\nBethlehem\n",
-            "languageCode": "A",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 5,
-                        "time": "18:30"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "18:30"
-                    }
-                }
-            },
-            "relatedLanguageCodes": [
-                "SLP"
-            ],
-            "phones": [
-                {
-                    "phone": "0599034381",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "AA3B7A63-4C50-4ED4-A513-B621244C0D2B",
+      "orgName": "אשדוד עברית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Ashdod Hebrew",
+      "address": "הבנאים 2\r\nHaBanaim Street 2\r\nSecond Floor\r\nאשדוד77609\r\n",
+      "transliteratedAddress": "2 HaBanaim St\r\n\r\nAshdod 77609\r\n\r\nAshdod\r\nAshdod77609\r\n",
+      "languageCode": "Q",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 5,
+            "time": "17:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "055-3054049",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "724C10E8-E333-4760-9C51-3316B5745C09",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.749287,
-            "longitude": 35.206238
-        },
-        "properties": {
-            "orgGuid": "724C10E8-E333-4760-9C51-3316B5745C09",
-            "orgName": "ירושלים עברית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Jerusalem Hebrew",
-            "address": "האומן 27\r\nירושלים\r\n",
-            "transliteratedAddress": "27 HaUman St\n\nJerusalem\nJerusalem\n",
-            "languageCode": "Q",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "18:30"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0546604267",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "AC8DBC17-4C21-45C8-8C73-53FD8368F634",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.99012,
+      "longitude": 34.76706
     },
-    {
-        "geoId": "4F0A91F5-B39D-40B6-9773-E85BD67EDFA8",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.749287,
-            "longitude": 35.206238
-        },
-        "properties": {
-            "orgGuid": "4F0A91F5-B39D-40B6-9773-E85BD67EDFA8",
-            "orgName": "ירושלים רוסית - ראשון לציון רוסית",
-            "orgType": "GROUP",
-            "orgTransliteratedName": "Rishon LeZion Russian",
-            "address": "האומן 27\r\nירושלים\r\n",
-            "transliteratedAddress": "27 HaUman St\n\nJerusalem\nJerusalem\n",
-            "languageCode": "U",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 4,
-                        "time": "19:00"
-                    },
-                    "midweek": {
-                        "weekday": 1,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "050-953-7823",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "AC8DBC17-4C21-45C8-8C73-53FD8368F634",
+      "orgName": "ראשון לציון עברית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Rishon LeZion Hebrew",
+      "address": "הכשרת הישוב 7/5\r\nקומה 1\r\nראשון לציון75652\r\n",
+      "transliteratedAddress": "7/5 Hakhsharat ha-Yishuv St\r\nFirst Floor\r\nRishon LeZion75652\r\n",
+      "languageCode": "Q",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0547168855",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "5B078946-EC6C-4481-9FF3-6AC33FD5AE16",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.749287,
-            "longitude": 35.206238
-        },
-        "properties": {
-            "orgGuid": "5B078946-EC6C-4481-9FF3-6AC33FD5AE16",
-            "orgName": "ירושלים אנגלית",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Jerusalem English",
-            "address": "האומן 27\r\nירושלים\r\n",
-            "transliteratedAddress": "27 HaUman St\n\nJerusalem\nJerusalem\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "12:25"
-                    },
-                    "midweek": {
-                        "weekday": 6,
-                        "time": "14:25"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+972 54 204 8022",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "BA5FEF04-6CE2-4746-A7BF-EE9BD158881A",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.99012,
+      "longitude": 34.76706
     },
-    {
-        "geoId": "085D65A5-7AD1-4B52-8BF1-5A71FF488E5E",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.749287,
-            "longitude": 35.206238
-        },
-        "properties": {
-            "orgGuid": "085D65A5-7AD1-4B52-8BF1-5A71FF488E5E",
-            "orgName": "ירושלים ערבית - بيت لحم",
-            "orgType": "GROUP",
-            "orgTransliteratedName": "Bethlehem",
-            "address": "האומן 27\r\nירושלים\r\n",
-            "transliteratedAddress": "27 HaUman St\n\nJerusalem\nJerusalem\n",
-            "languageCode": "A",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 5,
-                        "time": "18:30"
-                    },
-                    "midweek": {
-                        "weekday": null,
-                        "time": null
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0599034381",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "BA5FEF04-6CE2-4746-A7BF-EE9BD158881A",
+      "orgName": "בת ים רוסית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Bat Yam Russian",
+      "address": "הכשרת הישוב 7/5\r\nקומה 1\r\nראשון לציון75652\r\n",
+      "transliteratedAddress": "7/5 Hakhsharat ha-Yishuv St\r\nFirst Floor\r\nRishon LeZion75652\r\n",
+      "languageCode": "U",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "054-8766174",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "364229F7-6FC0-4DF3-B04C-D4C3312DCDEE",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 31.897672,
-            "longitude": 35.204601
-        },
-        "properties": {
-            "orgGuid": "364229F7-6FC0-4DF3-B04C-D4C3312DCDEE",
-            "orgName": "رام الله",
-            "orgType": "CONG",
-            "orgTransliteratedName": "Ramallah",
-            "address": "Peace Street 8\nRamallah\n",
-            "transliteratedAddress": "8 Peace St\nRamallah\n",
-            "languageCode": "A",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 5,
-                        "time": "18:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "18:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0597357414",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
-    }
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "6FB1FBC4-4FF7-40A3-B580-7EC774176EC7",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.99012,
+      "longitude": 34.76706
+    },
+    "properties": {
+      "orgGuid": "6FB1FBC4-4FF7-40A3-B580-7EC774176EC7",
+      "orgName": "ראשון לציון רוסית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Rishon LeZion Russian",
+      "address": "הכשרת הישוב 7/5\r\nקומה 1\r\nראשון לציון75652\r\n",
+      "transliteratedAddress": "7/5 Hakhsharat ha-Yishuv St\r\nFirst Floor\r\nRishon LeZion75652\r\n",
+      "languageCode": "U",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 4,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 1,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "050-953-7823",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "A49928EB-5E24-44DF-A2AA-3E5A80747135",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.99012,
+      "longitude": 34.76706
+    },
+    "properties": {
+      "orgGuid": "A49928EB-5E24-44DF-A2AA-3E5A80747135",
+      "orgName": "תל אביב־יפו ערבית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Tel Aviv-Yafo Arabic",
+      "address": "הכשרת הישוב 7/5\r\nקומה 1\r\nראשון לציון75652\r\n",
+      "transliteratedAddress": "7/5 Hakhsharat ha-Yishuv St\r\nFirst Floor\r\nRishon LeZion75652\r\n",
+      "languageCode": "A",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 5,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 1,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+972585066606",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "D51BDCF7-1E69-4450-A927-F8F707D68A81",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.99012,
+      "longitude": 34.76706
+    },
+    "properties": {
+      "orgGuid": "D51BDCF7-1E69-4450-A927-F8F707D68A81",
+      "orgName": "חולון רוסית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Holon Russian",
+      "address": "הכשרת הישוב 7/5\r\nקומה 1\r\nראשון לציון75652\r\n",
+      "transliteratedAddress": "7/5 Hakhsharat ha-Yishuv St\r\nFirst Floor\r\nRishon LeZion75652\r\n",
+      "languageCode": "U",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+972545389101",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "9E9E6035-F947-4644-A917-0DCC10BA791F",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.922123,
+      "longitude": 34.878959
+    },
+    "properties": {
+      "orgGuid": "9E9E6035-F947-4644-A917-0DCC10BA791F",
+      "orgName": "רמלה עברית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Ramleh Hebrew",
+      "address": "משה מונטפיורי 3\r\nReh. Moshe Montifiory 3/18\r\nרמלה72434\r\n",
+      "transliteratedAddress": "3/18 Moshe Montefiore St\r\nRamleh72434\r\n",
+      "languageCode": "Q",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 5,
+            "time": "16:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+972-53-383-3803",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "1408060A-853B-4E9A-B712-2E5C6751DCC4",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.922123,
+      "longitude": 34.878959
+    },
+    "properties": {
+      "orgGuid": "1408060A-853B-4E9A-B712-2E5C6751DCC4",
+      "orgName": "רמלה רוסית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Ramleh Russian",
+      "address": "משה מונטפיורי 3\r\nReh. Moshe Montifiory 3/18\r\nרמלה72434\r\n",
+      "transliteratedAddress": "3/18 Moshe Montefiore St\r\nRamleh72434\r\n",
+      "languageCode": "U",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0506788939",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "FA87959B-4278-4CAB-8BC5-2201E984649A",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.710617,
+      "longitude": 35.203821
+    },
+    "properties": {
+      "orgGuid": "FA87959B-4278-4CAB-8BC5-2201E984649A",
+      "orgName": "بيت لحم",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Bethlehem",
+      "address": "شارع الجديد\r\nعمارة متري ط ٣\r\nBethlehem\r\n",
+      "transliteratedAddress": "Manger St\nHanna Mitri Building 3rd floor\nBethlehem\n",
+      "languageCode": "A",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 5,
+            "time": "18:30"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "18:30"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "SLP"
+      ],
+      "phones": [
+        {
+          "phone": "0599034381",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "724C10E8-E333-4760-9C51-3316B5745C09",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.749287,
+      "longitude": 35.206238
+    },
+    "properties": {
+      "orgGuid": "724C10E8-E333-4760-9C51-3316B5745C09",
+      "orgName": "ירושלים עברית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Jerusalem Hebrew",
+      "address": "האומן 27\r\nירושלים\r\n",
+      "transliteratedAddress": "27 HaUman St\n\nJerusalem\nJerusalem\n",
+      "languageCode": "Q",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0546604267",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "4F0A91F5-B39D-40B6-9773-E85BD67EDFA8",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.749287,
+      "longitude": 35.206238
+    },
+    "properties": {
+      "orgGuid": "4F0A91F5-B39D-40B6-9773-E85BD67EDFA8",
+      "orgName": "ירושלים רוסית - ראשון לציון רוסית",
+      "orgType": "GROUP",
+      "orgTransliteratedName": "Rishon LeZion Russian",
+      "address": "האומן 27\r\nירושלים\r\n",
+      "transliteratedAddress": "27 HaUman St\n\nJerusalem\nJerusalem\n",
+      "languageCode": "U",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 4,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 1,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "050-953-7823",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "5B078946-EC6C-4481-9FF3-6AC33FD5AE16",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.749287,
+      "longitude": 35.206238
+    },
+    "properties": {
+      "orgGuid": "5B078946-EC6C-4481-9FF3-6AC33FD5AE16",
+      "orgName": "ירושלים אנגלית",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Jerusalem English",
+      "address": "האומן 27\r\nירושלים\r\n",
+      "transliteratedAddress": "27 HaUman St\n\nJerusalem\nJerusalem\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "12:25"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "14:25"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+972 54 204 8022",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "085D65A5-7AD1-4B52-8BF1-5A71FF488E5E",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.749287,
+      "longitude": 35.206238
+    },
+    "properties": {
+      "orgGuid": "085D65A5-7AD1-4B52-8BF1-5A71FF488E5E",
+      "orgName": "ירושלים ערבית - بيت لحم",
+      "orgType": "GROUP",
+      "orgTransliteratedName": "Bethlehem",
+      "address": "האומן 27\r\nירושלים\r\n",
+      "transliteratedAddress": "27 HaUman St\n\nJerusalem\nJerusalem\n",
+      "languageCode": "A",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 5,
+            "time": "18:30"
+          },
+          "midweek": {
+            "weekday": null,
+            "time": null
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0599034381",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "364229F7-6FC0-4DF3-B04C-D4C3312DCDEE",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 31.897672,
+      "longitude": 35.204601
+    },
+    "properties": {
+      "orgGuid": "364229F7-6FC0-4DF3-B04C-D4C3312DCDEE",
+      "orgName": "رام الله",
+      "orgType": "CONG",
+      "orgTransliteratedName": "Ramallah",
+      "address": "Peace Street 8\nRamallah\n",
+      "transliteratedAddress": "8 Peace St\nRamallah\n",
+      "languageCode": "A",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 5,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "18:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0597357414",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  }
 ]

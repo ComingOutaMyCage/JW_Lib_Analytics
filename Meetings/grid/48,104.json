@@ -1,78 +1,78 @@
 [
-    {
-        "geoId": "BAB6D89E-74DD-4F35-A9FE-91C1272B3C09",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 49.025242,
-            "longitude": 104.026299
-        },
-        "properties": {
-            "orgGuid": "BAB6D89E-74DD-4F35-A9FE-91C1272B3C09",
-            "orgName": "Erdenet",
-            "orgType": "CONG",
-            "address": "TSAGAANCHULUUT BAG 48-18,\r\nBAYAN-UNDUR SUM,\r\nERDENET ORKHON\r\n\r\n",
-            "languageCode": "KHA",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "18:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "99356149",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+  {
+    "geoId": "BAB6D89E-74DD-4F35-A9FE-91C1272B3C09",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 49.025242,
+      "longitude": 104.026299
     },
-    {
-        "geoId": "2F1B0051-A71F-48A7-A7E7-D849FD3434F3",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 49.483623,
-            "longitude": 105.947261
-        },
-        "properties": {
-            "orgGuid": "2F1B0051-A71F-48A7-A7E7-D849FD3434F3",
-            "orgName": "Darkhan",
-            "orgType": "CONG",
-            "address": "DARKHAN UUL AIMAG DARKHAN\nSUM NARANTOLGOI 3-3a\n\n",
-            "languageCode": "KHA",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "18:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "(+976) 86085522",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+    "properties": {
+      "orgGuid": "BAB6D89E-74DD-4F35-A9FE-91C1272B3C09",
+      "orgName": "Erdenet",
+      "orgType": "CONG",
+      "address": "TSAGAANCHULUUT BAG 48-18,\r\nBAYAN-UNDUR SUM,\r\nERDENET ORKHON\r\n\r\n",
+      "languageCode": "KHA",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "18:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "99356149",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "2F1B0051-A71F-48A7-A7E7-D849FD3434F3",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 49.483623,
+      "longitude": 105.947261
+    },
+    "properties": {
+      "orgGuid": "2F1B0051-A71F-48A7-A7E7-D849FD3434F3",
+      "orgName": "Darkhan",
+      "orgType": "CONG",
+      "address": "DARKHAN UUL AIMAG DARKHAN\nSUM NARANTOLGOI 3-3a\n\n",
+      "languageCode": "KHA",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "18:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(+976) 86085522",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]

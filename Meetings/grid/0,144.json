@@ -1,40 +1,40 @@
 [
-    {
-        "geoId": "75D5283E-FA95-4513-AF26-1E111332773F",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 7.389222,
-            "longitude": 151.8673
-        },
-        "properties": {
-            "orgGuid": "75D5283E-FA95-4513-AF26-1E111332773F",
-            "orgName": "Tonoas Congregation",
-            "orgType": "CONG",
-            "address": "NUKUNANGET, TONOAS\r\nCHUUK FM 96942\r\n",
-            "languageCode": "TE",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "14:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+691&nbsp;933-5269",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+  {
+    "geoId": "75D5283E-FA95-4513-AF26-1E111332773F",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 7.389222,
+      "longitude": 151.8673
+    },
+    "properties": {
+      "orgGuid": "75D5283E-FA95-4513-AF26-1E111332773F",
+      "orgName": "Tonoas Congregation",
+      "orgType": "CONG",
+      "address": "NUKUNANGET, TONOAS\r\nCHUUK FM 96942\r\n",
+      "languageCode": "TE",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "14:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+691&nbsp;933-5269",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]

@@ -1,40 +1,40 @@
 [
-    {
-        "geoId": "58DA8167-2668-428F-8A9E-4643D428C4C1",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -23.71812,
-            "longitude": 133.873436
-        },
-        "properties": {
-            "orgGuid": "58DA8167-2668-428F-8A9E-4643D428C4C1",
-            "orgName": "Alice Springs - NT",
-            "orgType": "CONG",
-            "address": "10 Kempe Street\nALICE SPRINGS  NT  0870\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "14:30"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "08 89535462",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+  {
+    "geoId": "58DA8167-2668-428F-8A9E-4643D428C4C1",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -23.71812,
+      "longitude": 133.873436
+    },
+    "properties": {
+      "orgGuid": "58DA8167-2668-428F-8A9E-4643D428C4C1",
+      "orgName": "Alice Springs - NT",
+      "orgType": "CONG",
+      "address": "10 Kempe Street\nALICE SPRINGS  NT  0870\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "14:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "08 89535462",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]

@@ -1,2017 +1,2037 @@
 [
-    {
-        "geoId": "8B5BA66C-B92A-47BC-9CB3-2F4E7277A1A6",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -7.411154,
-            "longitude": 144.24279
-        },
-        "properties": {
-            "orgGuid": "8B5BA66C-B92A-47BC-9CB3-2F4E7277A1A6",
-            "orgName": "Kikori Hiri Motu Congregation",
-            "orgType": "CONG",
-            "address": "Portion 15 Section 9\r\nKikori\r\nKEREMA  GP\r\n",
-            "transliteratedAddress": "Kikori\r\nKEREMA  GP\r\n",
-            "languageCode": "MO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "04:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "John Paikari- 73097981",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+  {
+    "geoId": "8B5BA66C-B92A-47BC-9CB3-2F4E7277A1A6",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -7.411154,
+      "longitude": 144.24279
     },
-    {
-        "geoId": "5F76B0E1-BFE4-405C-83F1-4824736D3BEB",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -7.228777,
-            "longitude": 144.229048
-        },
-        "properties": {
-            "orgGuid": "5F76B0E1-BFE4-405C-83F1-4824736D3BEB",
-            "orgName": "Kaparau Hiri Motu Congregation",
-            "orgType": "CONG",
-            "address": "Kaparau Village\r\nKikori\r\nKaparau\r\nKEREMA  GP\r\n",
-            "transliteratedAddress": "Kaparau\r\nKEREMA  GP\r\n",
-            "languageCode": "MO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "09:00"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "properties": {
+      "orgGuid": "8B5BA66C-B92A-47BC-9CB3-2F4E7277A1A6",
+      "orgName": "Kikori Hiri Motu Congregation",
+      "orgType": "CONG",
+      "address": "Portion 15 Section 9\r\nKikori\r\nKEREMA  GP\r\n",
+      "transliteratedAddress": "Kikori\r\nKEREMA  GP\r\n",
+      "languageCode": "MO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "04:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "John Paikari- 73097981",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "21713BA0-A03A-4891-A1B2-2C450C99ED6D",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.976355,
-            "longitude": 144.304427
-        },
-        "properties": {
-            "orgGuid": "21713BA0-A03A-4891-A1B2-2C450C99ED6D",
-            "orgName": "Omo Hiri Motu Isolated Group",
-            "orgType": "CONG",
-            "address": "Omo Village\r\nOmo\r\nKEREMA  GP\r\n",
-            "transliteratedAddress": "Omo\r\nKEREMA  GP\r\n",
-            "languageCode": "MO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "09:00"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "5F76B0E1-BFE4-405C-83F1-4824736D3BEB",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -7.228777,
+      "longitude": 144.229048
     },
-    {
-        "geoId": "C53E424A-C5FB-4FD7-8B63-AD3773EFDEF6",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -7.964779,
-            "longitude": 145.776607
-        },
-        "properties": {
-            "orgGuid": "C53E424A-C5FB-4FD7-8B63-AD3773EFDEF6",
-            "orgName": "Kerema Congregation",
-            "orgType": "CONG",
-            "address": "Portion 19& 20 Section 13\r\nVivian Hwy\r\nKerema\r\nKEREMA  GP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:15"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "73316569",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "properties": {
+      "orgGuid": "5F76B0E1-BFE4-405C-83F1-4824736D3BEB",
+      "orgName": "Kaparau Hiri Motu Congregation",
+      "orgType": "CONG",
+      "address": "Kaparau Village\r\nKikori\r\nKaparau\r\nKEREMA  GP\r\n",
+      "transliteratedAddress": "Kaparau\r\nKEREMA  GP\r\n",
+      "languageCode": "MO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "09:00"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "2E4EFDEB-BC2A-44D4-80AE-D556F2951723",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -7.920235,
-            "longitude": 145.7966
-        },
-        "properties": {
-            "orgGuid": "2E4EFDEB-BC2A-44D4-80AE-D556F2951723",
-            "orgName": "Murua Tok Pisin Isolated Group",
-            "orgType": "CONG",
-            "address": "Murua Isolated Group\r\nKEREMA  GP\r\n",
-            "transliteratedAddress": "Murua\r\nKEREMA  GP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "15:00"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "21713BA0-A03A-4891-A1B2-2C450C99ED6D",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.976355,
+      "longitude": 144.304427
     },
-    {
-        "geoId": "14FC9375-7D92-4DB6-A339-0D907D78A60A",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.8558,
-            "longitude": 144.242
-        },
-        "properties": {
-            "orgGuid": "14FC9375-7D92-4DB6-A339-0D907D78A60A",
-            "orgName": "Mt. Hagen Congregation",
-            "orgType": "CONG",
-            "address": "Lot 29 Section 39\nMunga St\nMT HAGEN  WHP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:30"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "16:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "74284715",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "properties": {
+      "orgGuid": "21713BA0-A03A-4891-A1B2-2C450C99ED6D",
+      "orgName": "Omo Hiri Motu Isolated Group",
+      "orgType": "CONG",
+      "address": "Omo Village\r\nOmo\r\nKEREMA  GP\r\n",
+      "transliteratedAddress": "Omo\r\nKEREMA  GP\r\n",
+      "languageCode": "MO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "09:00"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "523BB4C7-3FB2-427D-AD14-134B9B1567EE",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.808725,
-            "longitude": 144.301762
-        },
-        "properties": {
-            "orgGuid": "523BB4C7-3FB2-427D-AD14-134B9B1567EE",
-            "orgName": "Kagamuga Congregation",
-            "orgType": "CONG",
-            "address": "Kagamuga Airport Village\nKagamuga\nMT HAGEN  WHP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:15"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "James Mange",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "C53E424A-C5FB-4FD7-8B63-AD3773EFDEF6",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -7.964779,
+      "longitude": 145.776607
     },
-    {
-        "geoId": "B744999F-5E82-44E6-A4FC-B74BBCEC0DDC",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.805062,
-            "longitude": 144.621671
-        },
-        "properties": {
-            "orgGuid": "B744999F-5E82-44E6-A4FC-B74BBCEC0DDC",
-            "orgName": "Banz Congregation",
-            "orgType": "CONG",
-            "address": "Portion 1165C Minj Ramu\nBANZ  Jwk P  283\n",
-            "languageCode": "JWK",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "16:00"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "C53E424A-C5FB-4FD7-8B63-AD3773EFDEF6",
+      "orgName": "Kerema Congregation",
+      "orgType": "CONG",
+      "address": "Portion 19& 20 Section 13\r\nVivian Hwy\r\nKerema\r\nKEREMA  GP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:15"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "73316569",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "D92DC572-0294-48F9-B875-7564D28F5088",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.813423,
-            "longitude": 144.658973
-        },
-        "properties": {
-            "orgGuid": "D92DC572-0294-48F9-B875-7564D28F5088",
-            "orgName": "Kongambil Jiwaka Congregation",
-            "orgType": "CONG",
-            "address": "Kongambil\r\nBANZ  Jwk P\r\n",
-            "transliteratedAddress": "Kongambil\r\nBANZ  Jwk P\r\n",
-            "languageCode": "JWK",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "01:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "04:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Joseph Selt -72178984",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "2E4EFDEB-BC2A-44D4-80AE-D556F2951723",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -7.920235,
+      "longitude": 145.7966
     },
-    {
-        "geoId": "76B0B58C-BAD9-4BAA-98BA-74E427021296",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.822035,
-            "longitude": 144.670732
-        },
-        "properties": {
-            "orgGuid": "76B0B58C-BAD9-4BAA-98BA-74E427021296",
-            "orgName": "Tolu Jiwaka Congregation",
-            "orgType": "CONG",
-            "address": "Tolu Village\nBANZ  Jwk P\n",
-            "languageCode": "JWK",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:30"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "12:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Kolip James 70381136 or 75771922",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "2E4EFDEB-BC2A-44D4-80AE-D556F2951723",
+      "orgName": "Murua Tok Pisin Isolated Group",
+      "orgType": "CONG",
+      "address": "Murua Isolated Group\r\nKEREMA  GP\r\n",
+      "transliteratedAddress": "Murua\r\nKEREMA  GP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "15:00"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "7BAA5453-72B9-4C79-8739-28AB5D424BF8",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.849895,
-            "longitude": 144.701154
-        },
-        "properties": {
-            "orgGuid": "7BAA5453-72B9-4C79-8739-28AB5D424BF8",
-            "orgName": "Koraku Jiwaka Congregation",
-            "orgType": "CONG",
-            "address": "Koraku Village\nKoraku\nBANZ  Jwk P\n",
-            "languageCode": "JWK",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:30"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "17:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Samgar Mange -73977622",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "14FC9375-7D92-4DB6-A339-0D907D78A60A",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.8558,
+      "longitude": 144.242
     },
-    {
-        "geoId": "F8F5ED91-52DC-4F5E-81CE-9EC61346981C",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.924015,
-            "longitude": 144.784773
-        },
-        "properties": {
-            "orgGuid": "F8F5ED91-52DC-4F5E-81CE-9EC61346981C",
-            "orgName": "Kumbal Congregation",
-            "orgType": "CONG",
-            "address": "Kumbal\r\nBANZ  Jwk P\r\n",
-            "transliteratedAddress": "Kumbal\r\nBANZ  Jwk P\r\n",
-            "languageCode": "JWK",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:45"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "14FC9375-7D92-4DB6-A339-0D907D78A60A",
+      "orgName": "Mt. Hagen Congregation",
+      "orgType": "CONG",
+      "address": "Lot 29 Section 39\nMunga St\nMT HAGEN  WHP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "16:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "74284715",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "941A1DB4-4E9A-49AF-A90D-B26CB35F01E0",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.088745,
-            "longitude": 144.996992
-        },
-        "properties": {
-            "orgGuid": "941A1DB4-4E9A-49AF-A90D-B26CB35F01E0",
-            "orgName": "Emai Isolated Group",
-            "orgType": "CONG",
-            "address": "Emai Village\nKUNDIAWA  Cmb P\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Kuike Kaupa - 74205608",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "523BB4C7-3FB2-427D-AD14-134B9B1567EE",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.808725,
+      "longitude": 144.301762
     },
-    {
-        "geoId": "27C9A7A7-C8C1-4B5D-B71A-FBA6C0AAE6B5",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -7.06257,
-            "longitude": 145.971757
-        },
-        "properties": {
-            "orgGuid": "27C9A7A7-C8C1-4B5D-B71A-FBA6C0AAE6B5",
-            "orgName": "Sinjanapa Isolated Group",
-            "orgType": "CONG",
-            "address": "Sinjanapa\r\nSinjanapa\r\nLAE  MP\r\n",
-            "transliteratedAddress": "Sinjanapa\r\nLAE  MP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 6,
-                        "time": "15:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Darren - 73441146",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "523BB4C7-3FB2-427D-AD14-134B9B1567EE",
+      "orgName": "Kagamuga Congregation",
+      "orgType": "CONG",
+      "address": "Kagamuga Airport Village\nKagamuga\nMT HAGEN  WHP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:15"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "James Mange",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "E387B12F-C409-424F-A7BF-C4BC85E5AB44",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.017579,
-            "longitude": 144.972909
-        },
-        "properties": {
-            "orgGuid": "E387B12F-C409-424F-A7BF-C4BC85E5AB44",
-            "orgName": "Kundiawa Congregation",
-            "orgType": "CONG",
-            "address": "Gombo\r\nSec 8, Lot 12&13 (formerly 6&7)\r\nKUNDIAWA  Cmb P\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:30"
-                    },
-                    "midweek": {
-                        "weekday": 6,
-                        "time": "09:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+675&nbsp;7277 4982",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "B744999F-5E82-44E6-A4FC-B74BBCEC0DDC",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.805062,
+      "longitude": 144.621671
     },
-    {
-        "geoId": "78A281B3-310F-4907-B88B-C835E28E93AB",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.668295,
-            "longitude": 144.687663
-        },
-        "properties": {
-            "orgGuid": "78A281B3-310F-4907-B88B-C835E28E93AB",
-            "orgName": "Karap Jiwaka Congregation",
-            "orgType": "CONG",
-            "address": "Karap\r\nBANZ  Jwk P\r\n",
-            "transliteratedAddress": "Karap\r\nBANZ  Jwk P\r\n",
-            "languageCode": "JWK",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:30"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "12:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Daniel Kolip - 70701227",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "properties": {
+      "orgGuid": "B744999F-5E82-44E6-A4FC-B74BBCEC0DDC",
+      "orgName": "Banz Congregation",
+      "orgType": "CONG",
+      "address": "Portion 1165C Minj Ramu\nBANZ  Jwk P  283\n",
+      "languageCode": "JWK",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "16:00"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "5E633C8A-B598-40FA-9EC8-14BE5CF4A6B3",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.01476,
-            "longitude": 145.30763
-        },
-        "properties": {
-            "orgGuid": "5E633C8A-B598-40FA-9EC8-14BE5CF4A6B3",
-            "orgName": "Asaro Congregation",
-            "orgType": "CONG",
-            "address": "Asaro\r\nAsaro\r\nGOROKA  EHP\r\n",
-            "transliteratedAddress": "Asaro\r\nGOROKA  EHP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:30"
-                    },
-                    "midweek": {
-                        "weekday": 6,
-                        "time": "09:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Enock Adenave -71995971 or 77012664",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "D92DC572-0294-48F9-B875-7564D28F5088",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.813423,
+      "longitude": 144.658973
     },
-    {
-        "geoId": "F6FD7C76-5859-42E1-983A-ADE74F8A2B21",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.082116,
-            "longitude": 145.386865
-        },
-        "properties": {
-            "orgGuid": "F6FD7C76-5859-42E1-983A-ADE74F8A2B21",
-            "orgName": "Goroka West Congregation",
-            "orgType": "CONG",
-            "address": "Goripa St, Sec 17, Lot 2\r\nGOROKA  EHP  441\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 6,
-                        "time": "09:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Ambane, Niklas - 71483533",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "D92DC572-0294-48F9-B875-7564D28F5088",
+      "orgName": "Kongambil Jiwaka Congregation",
+      "orgType": "CONG",
+      "address": "Kongambil\r\nBANZ  Jwk P\r\n",
+      "transliteratedAddress": "Kongambil\r\nBANZ  Jwk P\r\n",
+      "languageCode": "JWK",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "01:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "04:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Joseph Selt -72178984",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "6C8A46B0-B11F-4599-A789-FBC51B0BE530",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.082116,
-            "longitude": 145.386865
-        },
-        "properties": {
-            "orgGuid": "6C8A46B0-B11F-4599-A789-FBC51B0BE530",
-            "orgName": "Goroka East Congregation",
-            "orgType": "CONG",
-            "address": "Goripa St, Sec 17, Lot 2\r\nGOROKA  EHP  441\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "14:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "17:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Garcia, Don Collera -73932772",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "76B0B58C-BAD9-4BAA-98BA-74E427021296",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.822035,
+      "longitude": 144.670732
     },
-    {
-        "geoId": "BA19C5DA-F5C3-4CBE-8AEC-00630645657E",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -7.189,
-            "longitude": 146.6411
-        },
-        "properties": {
-            "orgGuid": "BA19C5DA-F5C3-4CBE-8AEC-00630645657E",
-            "orgName": "Bulolo Congregation",
-            "orgType": "CONG",
-            "address": "Portion 346\nBULOLO  MP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:30"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "18:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "474 5024",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "properties": {
+      "orgGuid": "76B0B58C-BAD9-4BAA-98BA-74E427021296",
+      "orgName": "Tolu Jiwaka Congregation",
+      "orgType": "CONG",
+      "address": "Tolu Village\nBANZ  Jwk P\n",
+      "languageCode": "JWK",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:30"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "12:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Kolip James 70381136 or 75771922",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "D8A95A88-D552-4B5B-862C-02127A1D8076",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.288473,
-            "longitude": 145.857741
-        },
-        "properties": {
-            "orgGuid": "D8A95A88-D552-4B5B-862C-02127A1D8076",
-            "orgName": "Kainantu Congregation",
-            "orgType": "CONG",
-            "address": "Lot 7 Section 22\nBasfona St\nKAINANTU  EHP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "12:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Akuna, Peter - 79331325 or 76043101",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "7BAA5453-72B9-4C79-8739-28AB5D424BF8",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.849895,
+      "longitude": 144.701154
     },
-    {
-        "geoId": "943D961F-8875-42FD-84AF-4E2955A481FD",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.514116,
-            "longitude": 145.251528
-        },
-        "properties": {
-            "orgGuid": "943D961F-8875-42FD-84AF-4E2955A481FD",
-            "orgName": "Mundip Congregation",
-            "orgType": "CONG",
-            "address": "Mundip Village\nRamu\nRAMU  MP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "15:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "79195091",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "7BAA5453-72B9-4C79-8739-28AB5D424BF8",
+      "orgName": "Koraku Jiwaka Congregation",
+      "orgType": "CONG",
+      "address": "Koraku Village\nKoraku\nBANZ  Jwk P\n",
+      "languageCode": "JWK",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:30"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "17:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Samgar Mange -73977622",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "901B2B40-70C7-47A6-90C3-FC32E5F5DA27",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -7.060408,
-            "longitude": 146.917272
-        },
-        "properties": {
-            "orgGuid": "901B2B40-70C7-47A6-90C3-FC32E5F5DA27",
-            "orgName": "Hote Congregation",
-            "orgType": "CONG",
-            "address": "Hote\r\nLAE  MP\r\n",
-            "transliteratedAddress": "Hote\r\nLAE  MP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "10:45"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "F8F5ED91-52DC-4F5E-81CE-9EC61346981C",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.924015,
+      "longitude": 144.784773
     },
-    {
-        "geoId": "AC7C7109-2093-4F36-8A2F-B06AD5DC98CD",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -4.281722,
-            "longitude": 144.144943
-        },
-        "properties": {
-            "orgGuid": "AC7C7109-2093-4F36-8A2F-B06AD5DC98CD",
-            "orgName": "Kambot Isolated Group",
-            "orgType": "CONG",
-            "address": "Kambot Village\nWEWAK  ESP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:00"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "properties": {
+      "orgGuid": "F8F5ED91-52DC-4F5E-81CE-9EC61346981C",
+      "orgName": "Kumbal Congregation",
+      "orgType": "CONG",
+      "address": "Kumbal\r\nBANZ  Jwk P\r\n",
+      "transliteratedAddress": "Kumbal\r\nBANZ  Jwk P\r\n",
+      "languageCode": "JWK",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:45"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "3DC62AC1-7B64-435E-B8D9-ECEB0DACB0FD",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.516816,
-            "longitude": 146.708754
-        },
-        "properties": {
-            "orgGuid": "3DC62AC1-7B64-435E-B8D9-ECEB0DACB0FD",
-            "orgName": "Erap Congregation",
-            "orgType": "CONG",
-            "address": "Erap Village\nMakaham Velley\nLAE  MP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:30"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:15"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "941A1DB4-4E9A-49AF-A90D-B26CB35F01E0",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.088745,
+      "longitude": 144.996992
     },
-    {
-        "geoId": "7BFC2900-8232-46DB-A516-5CCA40A3F6E0",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.586329,
-            "longitude": 146.851654
-        },
-        "properties": {
-            "orgGuid": "7BFC2900-8232-46DB-A516-5CCA40A3F6E0",
-            "orgName": "Munum Congregation",
-            "orgType": "CONG",
-            "address": "Aomampo\r\nMunum Village\r\nMunum\r\nLAE  MP\r\n",
-            "transliteratedAddress": "Munum\r\nLAE  MP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "70572597",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "941A1DB4-4E9A-49AF-A90D-B26CB35F01E0",
+      "orgName": "Emai Isolated Group",
+      "orgType": "CONG",
+      "address": "Emai Village\nKUNDIAWA  Cmb P\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Kuike Kaupa - 74205608",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "82DE59F1-8478-462A-9404-214D7E6A18E7",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.716454,
-            "longitude": 146.982807
-        },
-        "properties": {
-            "orgGuid": "82DE59F1-8478-462A-9404-214D7E6A18E7",
-            "orgName": "Lae East Congregation",
-            "orgType": "CONG",
-            "address": "Lot 6 Section 92\nLAE  MP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "18:30"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "27C9A7A7-C8C1-4B5D-B71A-FBA6C0AAE6B5",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -7.06257,
+      "longitude": 145.971757
     },
-    {
-        "geoId": "77C52DDB-272A-4390-9BBB-EB584356C53B",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.716454,
-            "longitude": 146.982807
-        },
-        "properties": {
-            "orgGuid": "77C52DDB-272A-4390-9BBB-EB584356C53B",
-            "orgName": "Lae West Congregation",
-            "orgType": "CONG",
-            "address": "Lot 6 Section 92\nLAE  MP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "18:00"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "properties": {
+      "orgGuid": "27C9A7A7-C8C1-4B5D-B71A-FBA6C0AAE6B5",
+      "orgName": "Sinjanapa Isolated Group",
+      "orgType": "CONG",
+      "address": "Sinjanapa\r\nSinjanapa\r\nLAE  MP\r\n",
+      "transliteratedAddress": "Sinjanapa\r\nLAE  MP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "15:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Darren - 73441146",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "162BDCF6-626A-4BB1-A4D7-D61E30835BFA",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.682291,
-            "longitude": 146.988657
-        },
-        "properties": {
-            "orgGuid": "162BDCF6-626A-4BB1-A4D7-D61E30835BFA",
-            "orgName": "Taraka Congregation",
-            "orgType": "CONG",
-            "address": "Portion 557C & 556C\r\nIndependence Drive\r\nLAE  MP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 6,
-                        "time": "18:00"
-                    }
-                }
-            },
-            "relatedLanguageCodes": [
-                "E"
-            ],
-            "phones": [
-                {
-                    "phone": "+675 75994651 / +675 74764263",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "E387B12F-C409-424F-A7BF-C4BC85E5AB44",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.017579,
+      "longitude": 144.972909
     },
-    {
-        "geoId": "445078E7-1564-41C3-A268-6D31E6A6F1D0",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.682291,
-            "longitude": 146.988657
-        },
-        "properties": {
-            "orgGuid": "445078E7-1564-41C3-A268-6D31E6A6F1D0",
-            "orgName": "Taraka English Group - Taraka Congregation",
-            "orgType": "GROUP",
-            "address": "Portion 557C & 556C\r\nIndependence Drive\r\nLAE  MP\r\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "14:00"
-                    },
-                    "midweek": {
-                        "weekday": null,
-                        "time": null
-                    }
-                }
-            },
-            "relatedLanguageCodes": [
-                "MP"
-            ],
-            "phones": [
-                {
-                    "phone": "+675 75994651 / +675 74764263",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "properties": {
+      "orgGuid": "E387B12F-C409-424F-A7BF-C4BC85E5AB44",
+      "orgName": "Kundiawa Congregation",
+      "orgType": "CONG",
+      "address": "Gombo\r\nSec 8, Lot 12&13 (formerly 6&7)\r\nKUNDIAWA  Cmb P\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:30"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "09:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+675&nbsp;7277 4982",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "95F3F34D-5282-4A14-B3D5-D4915740BB63",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.638792,
-            "longitude": 147.009181
-        },
-        "properties": {
-            "orgGuid": "95F3F34D-5282-4A14-B3D5-D4915740BB63",
-            "orgName": "Bumayong Congregation",
-            "orgType": "CONG",
-            "address": "Bumayong\r\nLAE  MP\r\n",
-            "transliteratedAddress": "Bumayong\r\nLAE  MP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:30"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "78A281B3-310F-4907-B88B-C835E28E93AB",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.668295,
+      "longitude": 144.687663
     },
-    {
-        "geoId": "45E46317-BB97-4C2D-8DCA-2D92076E51FE",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -4.429977,
-            "longitude": 144.824171
-        },
-        "properties": {
-            "orgGuid": "45E46317-BB97-4C2D-8DCA-2D92076E51FE",
-            "orgName": "Amber Congregation",
-            "orgType": "CONG",
-            "address": "Amber Village\r\nIkoukes\r\nMADANG  Mdg P\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 6,
-                        "time": "09:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "71572620",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "properties": {
+      "orgGuid": "78A281B3-310F-4907-B88B-C835E28E93AB",
+      "orgName": "Karap Jiwaka Congregation",
+      "orgType": "CONG",
+      "address": "Karap\r\nBANZ  Jwk P\r\n",
+      "transliteratedAddress": "Karap\r\nBANZ  Jwk P\r\n",
+      "languageCode": "JWK",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:30"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "12:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Daniel Kolip - 70701227",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "750B1DF9-D438-4180-8910-E245A220F2A6",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.2272,
-            "longitude": 145.7962
-        },
-        "properties": {
-            "orgGuid": "750B1DF9-D438-4180-8910-E245A220F2A6",
-            "orgName": "Madang Congregation",
-            "orgType": "CONG",
-            "address": "Lot 15 Section 45\nNabasa Rd\nMADANG  Mdg P\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "18:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "70616714",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "5E633C8A-B598-40FA-9EC8-14BE5CF4A6B3",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.01476,
+      "longitude": 145.30763
     },
-    {
-        "geoId": "FA59A2F3-525C-4A20-B7EA-E639F9232D90",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -4.974775,
-            "longitude": 145.654547
-        },
-        "properties": {
-            "orgGuid": "FA59A2F3-525C-4A20-B7EA-E639F9232D90",
-            "orgName": "Anahbag Congregation",
-            "orgType": "CONG",
-            "address": "Dimdig\nMADANG  Mdg P  511\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 6,
-                        "time": "15:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "72790380",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "5E633C8A-B598-40FA-9EC8-14BE5CF4A6B3",
+      "orgName": "Asaro Congregation",
+      "orgType": "CONG",
+      "address": "Asaro\r\nAsaro\r\nGOROKA  EHP\r\n",
+      "transliteratedAddress": "Asaro\r\nGOROKA  EHP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:30"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "09:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Enock Adenave -71995971 or 77012664",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "797D7266-47A6-40FB-B35A-DC4ABCD218EE",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -4.8139,
-            "longitude": 145.6417
-        },
-        "properties": {
-            "orgGuid": "797D7266-47A6-40FB-B35A-DC4ABCD218EE",
-            "orgName": "Basken Congregation",
-            "orgType": "CONG",
-            "address": "Basken Village\nBasken\nBASKEN  Mdg P\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:30"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "15:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "712666999",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "F6FD7C76-5859-42E1-983A-ADE74F8A2B21",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.082116,
+      "longitude": 145.386865
     },
-    {
-        "geoId": "4AA82D29-491B-45AC-9BF7-CCFD5F1C94B9",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -4.946363,
-            "longitude": 145.777874
-        },
-        "properties": {
-            "orgGuid": "4AA82D29-491B-45AC-9BF7-CCFD5F1C94B9",
-            "orgName": "Bagildig Congregation",
-            "orgType": "CONG",
-            "address": "Portion 215 Malas Kar Kar\r\nNth Coast Rd\r\nBagildig\r\nMADANG  Mdg P  528\r\n",
-            "transliteratedAddress": "Bagildig\r\nMADANG  Mdg P  528\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "16:15"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "727 44737",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "F6FD7C76-5859-42E1-983A-ADE74F8A2B21",
+      "orgName": "Goroka West Congregation",
+      "orgType": "CONG",
+      "address": "Goripa St, Sec 17, Lot 2\r\nGOROKA  EHP  441\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "09:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Ambane, Niklas - 71483533",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "B9A1401B-75A9-4AC7-8F0A-429E59F7DE62",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -4.390219,
-            "longitude": 145.271302
-        },
-        "properties": {
-            "orgGuid": "B9A1401B-75A9-4AC7-8F0A-429E59F7DE62",
-            "orgName": "Busip Congregation",
-            "orgType": "CONG",
-            "address": "Busip\r\nMADANG  Mdg P\r\n",
-            "transliteratedAddress": "Busip\r\nMADANG  Mdg P\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 6,
-                        "time": "16:00"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "6C8A46B0-B11F-4599-A789-FBC51B0BE530",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.082116,
+      "longitude": 145.386865
     },
-    {
-        "geoId": "64E556F6-AC8E-4BB2-B3A2-8C19840605BD",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -4.844597,
-            "longitude": 145.770615
-        },
-        "properties": {
-            "orgGuid": "64E556F6-AC8E-4BB2-B3A2-8C19840605BD",
-            "orgName": "Bedas Congregation",
-            "orgType": "CONG",
-            "address": "Gared\r\nKudas\r\nMADANG  Mdg P\r\n",
-            "transliteratedAddress": "Kudas\r\nMADANG  Mdg P\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "21:30"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "18:00"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "6C8A46B0-B11F-4599-A789-FBC51B0BE530",
+      "orgName": "Goroka East Congregation",
+      "orgType": "CONG",
+      "address": "Goripa St, Sec 17, Lot 2\r\nGOROKA  EHP  441\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "14:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "17:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Garcia, Don Collera -73932772",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "56F6A839-4D83-44A8-92C9-41AE71ECE650",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.514247,
-            "longitude": 147.471657
-        },
-        "properties": {
-            "orgGuid": "56F6A839-4D83-44A8-92C9-41AE71ECE650",
-            "orgName": "Ebabang Isolated Group",
-            "orgType": "CONG",
-            "address": "Ebabang\r\nLAE  MP\r\n",
-            "transliteratedAddress": "Ebabang\r\nLAE  MP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "10:45"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "BA19C5DA-F5C3-4CBE-8AEC-00630645657E",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -7.189,
+      "longitude": 146.6411
     },
-    {
-        "geoId": "88DA6110-FC8C-4849-821A-0C6E0054D3B0",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.383858,
-            "longitude": 147.368775
-        },
-        "properties": {
-            "orgGuid": "88DA6110-FC8C-4849-821A-0C6E0054D3B0",
-            "orgName": "Lengbati Congregation",
-            "orgType": "CONG",
-            "address": "Lengbati Village\r\nLengbati\r\nLAE  MP\r\n",
-            "transliteratedAddress": "Lengbati\r\nLAE  MP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:45"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Sondik Viang -73154789 or 70695433",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true
+    "properties": {
+      "orgGuid": "BA19C5DA-F5C3-4CBE-8AEC-00630645657E",
+      "orgName": "Bulolo Congregation",
+      "orgType": "CONG",
+      "address": "Portion 346\nBULOLO  MP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "18:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "474 5024",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "93E83CE9-B077-483A-9C9C-F731D542366E",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.136922,
-            "longitude": 147.279123
-        },
-        "properties": {
-            "orgGuid": "93E83CE9-B077-483A-9C9C-F731D542366E",
-            "orgName": "Satwag Isolated Group",
-            "orgType": "CONG",
-            "address": "Satwag Village\nFinchaphan District\nLAE  MP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:45"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Agustin Mosoke -79019556",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "D8A95A88-D552-4B5B-862C-02127A1D8076",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.288473,
+      "longitude": 145.857741
     },
-    {
-        "geoId": "2E7AC4F3-EEF9-4AC2-A1FA-443CDBA61547",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.953881,
-            "longitude": 147.37066
-        },
-        "properties": {
-            "orgGuid": "2E7AC4F3-EEF9-4AC2-A1FA-443CDBA61547",
-            "orgName": "Sio Isolated Group",
-            "orgType": "CONG",
-            "address": "Sio Village\nLAE  MP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Kaipoi Lautu -7032 7263",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "D8A95A88-D552-4B5B-862C-02127A1D8076",
+      "orgName": "Kainantu Congregation",
+      "orgType": "CONG",
+      "address": "Lot 7 Section 22\nBasfona St\nKAINANTU  EHP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "12:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Akuna, Peter - 79331325 or 76043101",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "7E6D51E7-49B6-4503-B2E2-2A9F530EC0BE",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.010695,
-            "longitude": 147.49869
-        },
-        "properties": {
-            "orgGuid": "7E6D51E7-49B6-4503-B2E2-2A9F530EC0BE",
-            "orgName": "Kelanoa Isolated Group",
-            "orgType": "CONG",
-            "address": "Gituwa\r\nKelanoa\r\nLAE  MP\r\n",
-            "transliteratedAddress": "Kelanoa\r\nLAE  MP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "10:45"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Yuna Quisi -70185558",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "943D961F-8875-42FD-84AF-4E2955A481FD",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.514116,
+      "longitude": 145.251528
     },
-    {
-        "geoId": "CEC94A0B-91F8-49C4-BC23-EC1847F21EF7",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.14,
-            "longitude": 149.031944
-        },
-        "properties": {
-            "orgGuid": "CEC94A0B-91F8-49C4-BC23-EC1847F21EF7",
-            "orgName": "Kaplauro Isolated Group",
-            "orgType": "CONG",
-            "address": "Kaplauro Village\nJandrian District\nPililo Island\nKIMBE  WNBP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Dickson Gule - 70008486",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "943D961F-8875-42FD-84AF-4E2955A481FD",
+      "orgName": "Mundip Congregation",
+      "orgType": "CONG",
+      "address": "Mundip Village\nRamu\nRAMU  MP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "15:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "79195091",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "5C3AD4C6-3B1A-4D21-AA2A-255070DA25C1",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.054722,
-            "longitude": 149.3175
-        },
-        "properties": {
-            "orgGuid": "5C3AD4C6-3B1A-4D21-AA2A-255070DA25C1",
-            "orgName": "Pallie Isolated Group",
-            "orgType": "CONG",
-            "address": "Pallie Village\nKandrian District\nKIMBE  WNBP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": null,
-                        "time": null
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Dickson Gule -70008486",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "901B2B40-70C7-47A6-90C3-FC32E5F5DA27",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -7.060408,
+      "longitude": 146.917272
     },
-    {
-        "geoId": "C3BB7076-FB82-43C1-B656-34E4A7230B7B",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -4.890427,
-            "longitude": 149.115541
-        },
-        "properties": {
-            "orgGuid": "C3BB7076-FB82-43C1-B656-34E4A7230B7B",
-            "orgName": "Penopo Isolated Group",
-            "orgType": "CONG",
-            "address": "Penopo Village\nBali Island\nKIMBE  WNBP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:15"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Hilary Buo -79398749",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "901B2B40-70C7-47A6-90C3-FC32E5F5DA27",
+      "orgName": "Hote Congregation",
+      "orgType": "CONG",
+      "address": "Hote\r\nLAE  MP\r\n",
+      "transliteratedAddress": "Hote\r\nLAE  MP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "10:45"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "CA6F3A1F-B39A-4BAE-B15B-E8422D2C47AF",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.147777,
-            "longitude": 150.59
-        },
-        "properties": {
-            "orgGuid": "CA6F3A1F-B39A-4BAE-B15B-E8422D2C47AF",
-            "orgName": "Umisa Congregation",
-            "orgType": "CONG",
-            "address": "Umisa\r\nKIMBE  WNBP\r\n",
-            "transliteratedAddress": "Umisa\r\nKIMBE  WNBP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:30"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Jack Wais -74717679",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "AC7C7109-2093-4F36-8A2F-B06AD5DC98CD",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -4.281722,
+      "longitude": 144.144943
     },
-    {
-        "geoId": "13DC4ABF-5CE8-40F9-85AF-D3051E5B50C1",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -6.127804,
-            "longitude": 150.617458
-        },
-        "properties": {
-            "orgGuid": "13DC4ABF-5CE8-40F9-85AF-D3051E5B50C1",
-            "orgName": "Wirwir Congregation",
-            "orgType": "CONG",
-            "address": "Wirwir Village\r\nEast Gasmata, Kandrian District\r\nWest New Britain Province\r\nWirwir\r\nKIMBE  WNBP\r\n",
-            "transliteratedAddress": "Wirwir\r\nKIMBE  WNBP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "00:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "AC7C7109-2093-4F36-8A2F-B06AD5DC98CD",
+      "orgName": "Kambot Isolated Group",
+      "orgType": "CONG",
+      "address": "Kambot Village\nWEWAK  ESP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:00"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "BB3EFC55-6E7A-4DC2-BA9C-C0836FBB5DB4",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.558415,
-            "longitude": 150.156854
-        },
-        "properties": {
-            "orgGuid": "BB3EFC55-6E7A-4DC2-BA9C-C0836FBB5DB4",
-            "orgName": "Kimbe Congregation",
-            "orgType": "CONG",
-            "address": "Lot 6 Section 22\nKIMBE  WNBP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 6,
-                        "time": "10:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+67570342521",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "3DC62AC1-7B64-435E-B8D9-ECEB0DACB0FD",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.516816,
+      "longitude": 146.708754
     },
-    {
-        "geoId": "76751794-E667-43C1-B7C4-CC1601DC8AE9",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.851111,
-            "longitude": 150.567222
-        },
-        "properties": {
-            "orgGuid": "76751794-E667-43C1-B7C4-CC1601DC8AE9",
-            "orgName": "Melnge Congregation",
-            "orgType": "CONG",
-            "address": "Melnge Village\nKIMBE  WNBP\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Molokme, Noel -73471479",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "3DC62AC1-7B64-435E-B8D9-ECEB0DACB0FD",
+      "orgName": "Erap Congregation",
+      "orgType": "CONG",
+      "address": "Erap Village\nMakaham Velley\nLAE  MP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:30"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:15"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "4A22ACFA-B44A-4872-A005-AEEC57F87B9B",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.570764,
-            "longitude": 150.291083
-        },
-        "properties": {
-            "orgGuid": "4A22ACFA-B44A-4872-A005-AEEC57F87B9B",
-            "orgName": "Klinwara Congregation",
-            "orgType": "CONG",
-            "address": "Barabolo\nKIMBE  WNBP  621\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "08:30"
-                    },
-                    "midweek": {
-                        "weekday": 6,
-                        "time": "15:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "675 71043494",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "7BFC2900-8232-46DB-A516-5CCA40A3F6E0",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.586329,
+      "longitude": 146.851654
     },
-    {
-        "geoId": "6060DB45-66B0-4A51-8CE2-0270146C9E49",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.508333,
-            "longitude": 150.579999
-        },
-        "properties": {
-            "orgGuid": "6060DB45-66B0-4A51-8CE2-0270146C9E49",
-            "orgName": "Vavua Isolated Group",
-            "orgType": "CONG",
-            "address": "Vavua\r\nKIMBE  WNBP\r\n",
-            "transliteratedAddress": "Vavua\r\nKIMBE  WNBP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:30"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "10:05"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "7BFC2900-8232-46DB-A516-5CCA40A3F6E0",
+      "orgName": "Munum Congregation",
+      "orgType": "CONG",
+      "address": "Aomampo\r\nMunum Village\r\nMunum\r\nLAE  MP\r\n",
+      "transliteratedAddress": "Munum\r\nLAE  MP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "70572597",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "5E24DD6D-BF39-483E-84F6-B8C4DDB5E164",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.683601,
-            "longitude": 151.482777
-        },
-        "properties": {
-            "orgGuid": "5E24DD6D-BF39-483E-84F6-B8C4DDB5E164",
-            "orgName": "Totongpal Congregation",
-            "orgType": "CONG",
-            "address": "Totongpal Village\r\nPomio District\r\nTotongpal\r\nKOKOPO  ENBP\r\n",
-            "transliteratedAddress": "Totongpal\r\nKOKOPO  ENBP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 6,
-                        "time": "15:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Joel -  7308 9593",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "82DE59F1-8478-462A-9404-214D7E6A18E7",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.716454,
+      "longitude": 146.982807
     },
-    {
-        "geoId": "2E29A4E2-7921-4EAD-B9DE-F7335083B094",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -5.548812,
-            "longitude": 151.634487
-        },
-        "properties": {
-            "orgGuid": "2E29A4E2-7921-4EAD-B9DE-F7335083B094",
-            "orgName": "Ragelo Congregation",
-            "orgType": "CONG",
-            "address": "Ragelo Village\r\nPomio District\r\nRagelo\r\nKOKOPO  ENBP\r\n",
-            "transliteratedAddress": "Ragelo\r\nKOKOPO  ENBP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:30"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "11:00"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "82DE59F1-8478-462A-9404-214D7E6A18E7",
+      "orgName": "Lae East Congregation",
+      "orgType": "CONG",
+      "address": "Lot 6 Section 92\nLAE  MP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "18:30"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "52D57E08-EF5C-41A8-9139-57BECD2D0EAE",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -4.269958,
-            "longitude": 151.822876
-        },
-        "properties": {
-            "orgGuid": "52D57E08-EF5C-41A8-9139-57BECD2D0EAE",
-            "orgName": "Baining Isolated Group",
-            "orgType": "CONG",
-            "address": "Baining ENB Kokopo\r\nBaining\r\nKOKOPO  ENBP\r\n",
-            "transliteratedAddress": "Baining\r\nKOKOPO  ENBP\r\n",
-            "languageCode": "MP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 7,
-                        "time": "09:40"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "Michael Lamlam -79571287",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "77C52DDB-272A-4390-9BBB-EB584356C53B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.716454,
+      "longitude": 146.982807
+    },
+    "properties": {
+      "orgGuid": "77C52DDB-272A-4390-9BBB-EB584356C53B",
+      "orgName": "Lae West Congregation",
+      "orgType": "CONG",
+      "address": "Lot 6 Section 92\nLAE  MP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "18:00"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "162BDCF6-626A-4BB1-A4D7-D61E30835BFA",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.682291,
+      "longitude": 146.988657
+    },
+    "properties": {
+      "orgGuid": "162BDCF6-626A-4BB1-A4D7-D61E30835BFA",
+      "orgName": "Taraka Congregation",
+      "orgType": "CONG",
+      "address": "Portion 557C & 556C\r\nIndependence Drive\r\nLAE  MP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "18:00"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "E"
+      ],
+      "phones": [
+        {
+          "phone": "+675 75994651 / +675 74764263",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "445078E7-1564-41C3-A268-6D31E6A6F1D0",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.682291,
+      "longitude": 146.988657
+    },
+    "properties": {
+      "orgGuid": "445078E7-1564-41C3-A268-6D31E6A6F1D0",
+      "orgName": "Taraka English Group - Taraka Congregation",
+      "orgType": "GROUP",
+      "address": "Portion 557C & 556C\r\nIndependence Drive\r\nLAE  MP\r\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "14:00"
+          },
+          "midweek": {
+            "weekday": null,
+            "time": null
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "MP"
+      ],
+      "phones": [
+        {
+          "phone": "+675 75994651 / +675 74764263",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "95F3F34D-5282-4A14-B3D5-D4915740BB63",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.638792,
+      "longitude": 147.009181
+    },
+    "properties": {
+      "orgGuid": "95F3F34D-5282-4A14-B3D5-D4915740BB63",
+      "orgName": "Bumayong Congregation",
+      "orgType": "CONG",
+      "address": "Bumayong\r\nLAE  MP\r\n",
+      "transliteratedAddress": "Bumayong\r\nLAE  MP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:30"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "45E46317-BB97-4C2D-8DCA-2D92076E51FE",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -4.429977,
+      "longitude": 144.824171
+    },
+    "properties": {
+      "orgGuid": "45E46317-BB97-4C2D-8DCA-2D92076E51FE",
+      "orgName": "Amber Congregation",
+      "orgType": "CONG",
+      "address": "Amber Village\r\nIkoukes\r\nMADANG  Mdg P\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "09:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "71572620",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "750B1DF9-D438-4180-8910-E245A220F2A6",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.2272,
+      "longitude": 145.7962
+    },
+    "properties": {
+      "orgGuid": "750B1DF9-D438-4180-8910-E245A220F2A6",
+      "orgName": "Madang Congregation",
+      "orgType": "CONG",
+      "address": "Lot 15 Section 45\nNabasa Rd\nMADANG  Mdg P\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "18:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "70616714",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "FA59A2F3-525C-4A20-B7EA-E639F9232D90",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -4.974775,
+      "longitude": 145.654547
+    },
+    "properties": {
+      "orgGuid": "FA59A2F3-525C-4A20-B7EA-E639F9232D90",
+      "orgName": "Anahbag Congregation",
+      "orgType": "CONG",
+      "address": "Dimdig\nMADANG  Mdg P  511\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "15:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "72790380",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "797D7266-47A6-40FB-B35A-DC4ABCD218EE",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -4.8139,
+      "longitude": 145.6417
+    },
+    "properties": {
+      "orgGuid": "797D7266-47A6-40FB-B35A-DC4ABCD218EE",
+      "orgName": "Basken Congregation",
+      "orgType": "CONG",
+      "address": "Basken Village\nBasken\nBASKEN  Mdg P\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "15:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "712666999",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "4AA82D29-491B-45AC-9BF7-CCFD5F1C94B9",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -4.946363,
+      "longitude": 145.777874
+    },
+    "properties": {
+      "orgGuid": "4AA82D29-491B-45AC-9BF7-CCFD5F1C94B9",
+      "orgName": "Bagildig Congregation",
+      "orgType": "CONG",
+      "address": "Portion 215 Malas Kar Kar\r\nNth Coast Rd\r\nBagildig\r\nMADANG  Mdg P  528\r\n",
+      "transliteratedAddress": "Bagildig\r\nMADANG  Mdg P  528\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "16:15"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "727 44737",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "B9A1401B-75A9-4AC7-8F0A-429E59F7DE62",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -4.390219,
+      "longitude": 145.271302
+    },
+    "properties": {
+      "orgGuid": "B9A1401B-75A9-4AC7-8F0A-429E59F7DE62",
+      "orgName": "Busip Congregation",
+      "orgType": "CONG",
+      "address": "Busip\r\nMADANG  Mdg P\r\n",
+      "transliteratedAddress": "Busip\r\nMADANG  Mdg P\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "16:00"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "64E556F6-AC8E-4BB2-B3A2-8C19840605BD",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -4.844597,
+      "longitude": 145.770615
+    },
+    "properties": {
+      "orgGuid": "64E556F6-AC8E-4BB2-B3A2-8C19840605BD",
+      "orgName": "Bedas Congregation",
+      "orgType": "CONG",
+      "address": "Gared\r\nKudas\r\nMADANG  Mdg P\r\n",
+      "transliteratedAddress": "Kudas\r\nMADANG  Mdg P\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "21:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "18:00"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "56F6A839-4D83-44A8-92C9-41AE71ECE650",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.514247,
+      "longitude": 147.471657
+    },
+    "properties": {
+      "orgGuid": "56F6A839-4D83-44A8-92C9-41AE71ECE650",
+      "orgName": "Ebabang Isolated Group",
+      "orgType": "CONG",
+      "address": "Ebabang\r\nLAE  MP\r\n",
+      "transliteratedAddress": "Ebabang\r\nLAE  MP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "10:45"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "88DA6110-FC8C-4849-821A-0C6E0054D3B0",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.383858,
+      "longitude": 147.368775
+    },
+    "properties": {
+      "orgGuid": "88DA6110-FC8C-4849-821A-0C6E0054D3B0",
+      "orgName": "Lengbati Congregation",
+      "orgType": "CONG",
+      "address": "Lengbati Village\r\nLengbati\r\nLAE  MP\r\n",
+      "transliteratedAddress": "Lengbati\r\nLAE  MP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:45"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Sondik Viang -73154789 or 70695433",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-03T17:23:33.692Z"
+  },
+  {
+    "geoId": "93E83CE9-B077-483A-9C9C-F731D542366E",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.136922,
+      "longitude": 147.279123
+    },
+    "properties": {
+      "orgGuid": "93E83CE9-B077-483A-9C9C-F731D542366E",
+      "orgName": "Satwag Isolated Group",
+      "orgType": "CONG",
+      "address": "Satwag Village\nFinchaphan District\nLAE  MP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:45"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Agustin Mosoke -79019556",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "2E7AC4F3-EEF9-4AC2-A1FA-443CDBA61547",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.953881,
+      "longitude": 147.37066
+    },
+    "properties": {
+      "orgGuid": "2E7AC4F3-EEF9-4AC2-A1FA-443CDBA61547",
+      "orgName": "Sio Isolated Group",
+      "orgType": "CONG",
+      "address": "Sio Village\nLAE  MP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Kaipoi Lautu -7032 7263",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "7E6D51E7-49B6-4503-B2E2-2A9F530EC0BE",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.010695,
+      "longitude": 147.49869
+    },
+    "properties": {
+      "orgGuid": "7E6D51E7-49B6-4503-B2E2-2A9F530EC0BE",
+      "orgName": "Kelanoa Isolated Group",
+      "orgType": "CONG",
+      "address": "Gituwa\r\nKelanoa\r\nLAE  MP\r\n",
+      "transliteratedAddress": "Kelanoa\r\nLAE  MP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "10:45"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Yuna Quisi -70185558",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "CEC94A0B-91F8-49C4-BC23-EC1847F21EF7",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.14,
+      "longitude": 149.031944
+    },
+    "properties": {
+      "orgGuid": "CEC94A0B-91F8-49C4-BC23-EC1847F21EF7",
+      "orgName": "Kaplauro Isolated Group",
+      "orgType": "CONG",
+      "address": "Kaplauro Village\nJandrian District\nPililo Island\nKIMBE  WNBP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Dickson Gule - 70008486",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "5C3AD4C6-3B1A-4D21-AA2A-255070DA25C1",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.054722,
+      "longitude": 149.3175
+    },
+    "properties": {
+      "orgGuid": "5C3AD4C6-3B1A-4D21-AA2A-255070DA25C1",
+      "orgName": "Pallie Isolated Group",
+      "orgType": "CONG",
+      "address": "Pallie Village\nKandrian District\nKIMBE  WNBP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": null,
+            "time": null
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Dickson Gule -70008486",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "C3BB7076-FB82-43C1-B656-34E4A7230B7B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -4.890427,
+      "longitude": 149.115541
+    },
+    "properties": {
+      "orgGuid": "C3BB7076-FB82-43C1-B656-34E4A7230B7B",
+      "orgName": "Penopo Isolated Group",
+      "orgType": "CONG",
+      "address": "Penopo Village\nBali Island\nKIMBE  WNBP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:15"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Hilary Buo -79398749",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "CA6F3A1F-B39A-4BAE-B15B-E8422D2C47AF",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.147777,
+      "longitude": 150.59
+    },
+    "properties": {
+      "orgGuid": "CA6F3A1F-B39A-4BAE-B15B-E8422D2C47AF",
+      "orgName": "Umisa Congregation",
+      "orgType": "CONG",
+      "address": "Umisa\r\nKIMBE  WNBP\r\n",
+      "transliteratedAddress": "Umisa\r\nKIMBE  WNBP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:30"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Jack Wais -74717679",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "13DC4ABF-5CE8-40F9-85AF-D3051E5B50C1",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -6.127804,
+      "longitude": 150.617458
+    },
+    "properties": {
+      "orgGuid": "13DC4ABF-5CE8-40F9-85AF-D3051E5B50C1",
+      "orgName": "Wirwir Congregation",
+      "orgType": "CONG",
+      "address": "Wirwir Village\r\nEast Gasmata, Kandrian District\r\nWest New Britain Province\r\nWirwir\r\nKIMBE  WNBP\r\n",
+      "transliteratedAddress": "Wirwir\r\nKIMBE  WNBP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "00:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "09:00"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "BB3EFC55-6E7A-4DC2-BA9C-C0836FBB5DB4",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.558415,
+      "longitude": 150.156854
+    },
+    "properties": {
+      "orgGuid": "BB3EFC55-6E7A-4DC2-BA9C-C0836FBB5DB4",
+      "orgName": "Kimbe Congregation",
+      "orgType": "CONG",
+      "address": "Lot 6 Section 22\nKIMBE  WNBP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "10:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+67570342521",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "76751794-E667-43C1-B7C4-CC1601DC8AE9",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.851111,
+      "longitude": 150.567222
+    },
+    "properties": {
+      "orgGuid": "76751794-E667-43C1-B7C4-CC1601DC8AE9",
+      "orgName": "Melnge Congregation",
+      "orgType": "CONG",
+      "address": "Melnge Village\nKIMBE  WNBP\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Molokme, Noel -73471479",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "4A22ACFA-B44A-4872-A005-AEEC57F87B9B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.570764,
+      "longitude": 150.291083
+    },
+    "properties": {
+      "orgGuid": "4A22ACFA-B44A-4872-A005-AEEC57F87B9B",
+      "orgName": "Klinwara Congregation",
+      "orgType": "CONG",
+      "address": "Barabolo\nKIMBE  WNBP  621\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "08:30"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "15:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "675 71043494",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "6060DB45-66B0-4A51-8CE2-0270146C9E49",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.508333,
+      "longitude": 150.579999
+    },
+    "properties": {
+      "orgGuid": "6060DB45-66B0-4A51-8CE2-0270146C9E49",
+      "orgName": "Vavua Isolated Group",
+      "orgType": "CONG",
+      "address": "Vavua\r\nKIMBE  WNBP\r\n",
+      "transliteratedAddress": "Vavua\r\nKIMBE  WNBP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:30"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "10:05"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "5E24DD6D-BF39-483E-84F6-B8C4DDB5E164",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.683601,
+      "longitude": 151.482777
+    },
+    "properties": {
+      "orgGuid": "5E24DD6D-BF39-483E-84F6-B8C4DDB5E164",
+      "orgName": "Totongpal Congregation",
+      "orgType": "CONG",
+      "address": "Totongpal Village\r\nPomio District\r\nTotongpal\r\nKOKOPO  ENBP\r\n",
+      "transliteratedAddress": "Totongpal\r\nKOKOPO  ENBP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "15:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Joel -  7308 9593",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "2E29A4E2-7921-4EAD-B9DE-F7335083B094",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -5.548812,
+      "longitude": 151.634487
+    },
+    "properties": {
+      "orgGuid": "2E29A4E2-7921-4EAD-B9DE-F7335083B094",
+      "orgName": "Ragelo Congregation",
+      "orgType": "CONG",
+      "address": "Ragelo Village\r\nPomio District\r\nRagelo\r\nKOKOPO  ENBP\r\n",
+      "transliteratedAddress": "Ragelo\r\nKOKOPO  ENBP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:30"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "11:00"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "52D57E08-EF5C-41A8-9139-57BECD2D0EAE",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -4.269958,
+      "longitude": 151.822876
+    },
+    "properties": {
+      "orgGuid": "52D57E08-EF5C-41A8-9139-57BECD2D0EAE",
+      "orgName": "Baining Isolated Group",
+      "orgType": "CONG",
+      "address": "Baining ENB Kokopo\r\nBaining\r\nKOKOPO  ENBP\r\n",
+      "transliteratedAddress": "Baining\r\nKOKOPO  ENBP\r\n",
+      "languageCode": "MP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 7,
+            "time": "09:40"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Michael Lamlam -79571287",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]

@@ -1,724 +1,724 @@
 [
-    {
-        "geoId": "63CCF25E-08AB-439F-91E8-2B7F212CA8AC",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.713759,
-            "longitude": -17.143865
-        },
-        "properties": {
-            "orgGuid": "63CCF25E-08AB-439F-91E8-2B7F212CA8AC",
-            "orgName": "Calheta, Madeira",
-            "orgType": "CONG",
-            "address": "Estrada Regional 225, N.º 119\r\nArco da Calheta\r\n9370 - 034 CALHETA\r\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "17:30"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "20:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "291 148 155",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+  {
+    "geoId": "63CCF25E-08AB-439F-91E8-2B7F212CA8AC",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.713759,
+      "longitude": -17.143865
     },
-    {
-        "geoId": "BEA4ADCF-4966-4710-AD74-1BE64B772F3F",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.676135,
-            "longitude": -17.060913
-        },
-        "properties": {
-            "orgGuid": "BEA4ADCF-4966-4710-AD74-1BE64B772F3F",
-            "orgName": "Ribeira Brava",
-            "orgType": "CONG",
-            "address": "Rua dos Dragoeiros 21 A\r\nSítio dos Moinhos\r\n9350 - 215 RIBEIRA BRAVA\r\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "20:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "291627072",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "63CCF25E-08AB-439F-91E8-2B7F212CA8AC",
+      "orgName": "Calheta, Madeira",
+      "orgType": "CONG",
+      "address": "Estrada Regional 225, N.º 119\r\nArco da Calheta\r\n9370 - 034 CALHETA\r\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "17:30"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "291 148 155",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "3CE6A496-7E84-4555-8A88-8269AB3E99A3",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.651168,
-            "longitude": -16.927762
-        },
-        "properties": {
-            "orgGuid": "3CE6A496-7E84-4555-8A88-8269AB3E99A3",
-            "orgName": "Água de Mel",
-            "orgType": "CONG",
-            "address": "Rua da Levada dos Barreiros, 8\r\n9000 - 161 FUNCHAL\r\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "16:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "20:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+351-291-765-615",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "BEA4ADCF-4966-4710-AD74-1BE64B772F3F",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.676135,
+      "longitude": -17.060913
     },
-    {
-        "geoId": "190CF0D4-4C52-4CC7-B39B-301FD03E47BA",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.651168,
-            "longitude": -16.927762
-        },
-        "properties": {
-            "orgGuid": "190CF0D4-4C52-4CC7-B39B-301FD03E47BA",
-            "orgName": "Funchal Madalena",
-            "orgType": "CONG",
-            "address": "Rua da Levada dos Barreiros, 8\r\n9000 - 161 FUNCHAL\r\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:45"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+351-962-943-863",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "BEA4ADCF-4966-4710-AD74-1BE64B772F3F",
+      "orgName": "Ribeira Brava",
+      "orgType": "CONG",
+      "address": "Rua dos Dragoeiros 21 A\r\nSítio dos Moinhos\r\n9350 - 215 RIBEIRA BRAVA\r\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "291627072",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "3C9B79B6-5F35-462B-9204-7121716AEFB4",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.651168,
-            "longitude": -16.927762
-        },
-        "properties": {
-            "orgGuid": "3C9B79B6-5F35-462B-9204-7121716AEFB4",
-            "orgName": "Funchal Barreiros",
-            "orgType": "CONG",
-            "address": "Rua da Levada dos Barreiros, 8\r\n9000 - 161 FUNCHAL\r\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "19:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "19:45"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+351-291-765-615",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "3CE6A496-7E84-4555-8A88-8269AB3E99A3",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.651168,
+      "longitude": -16.927762
     },
-    {
-        "geoId": "345BB106-1796-4D4A-8AE0-437D15E6A4B8",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.651168,
-            "longitude": -16.927762
-        },
-        "properties": {
-            "orgGuid": "345BB106-1796-4D4A-8AE0-437D15E6A4B8",
-            "orgName": "Funchal Inglesa",
-            "orgType": "CONG",
-            "address": "Rua da Levada dos Barreiros, 8\r\n9000 - 161 FUNCHAL\r\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "15:00"
-                    },
-                    "midweek": {
-                        "weekday": 1,
-                        "time": "19:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+351-291-765-615",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "3CE6A496-7E84-4555-8A88-8269AB3E99A3",
+      "orgName": "Água de Mel",
+      "orgType": "CONG",
+      "address": "Rua da Levada dos Barreiros, 8\r\n9000 - 161 FUNCHAL\r\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "16:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+351-291-765-615",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "51092CD6-F9F2-413D-B805-F7B9B047F3FB",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.651751,
-            "longitude": -16.906915
-        },
-        "properties": {
-            "orgGuid": "51092CD6-F9F2-413D-B805-F7B9B047F3FB",
-            "orgName": "Funchal Central",
-            "orgType": "CONG",
-            "address": "Travessa do Nogueira 13 A\n9050 - 028 FUNCHAL\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "19:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "19:45"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+351-291-222-421",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "190CF0D4-4C52-4CC7-B39B-301FD03E47BA",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.651168,
+      "longitude": -16.927762
     },
-    {
-        "geoId": "15B715A2-1BC0-48E1-A56D-5949F9569C4D",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.651751,
-            "longitude": -16.906915
-        },
-        "properties": {
-            "orgGuid": "15B715A2-1BC0-48E1-A56D-5949F9569C4D",
-            "orgName": "Funchal Livramento",
-            "orgType": "CONG",
-            "address": "Travessa do Nogueira 13 A\n9050 - 028 FUNCHAL\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "16:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "20:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+351&nbsp;291 148016",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "190CF0D4-4C52-4CC7-B39B-301FD03E47BA",
+      "orgName": "Funchal Madalena",
+      "orgType": "CONG",
+      "address": "Rua da Levada dos Barreiros, 8\r\n9000 - 161 FUNCHAL\r\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:45"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+351-962-943-863",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "86D55FA7-3129-439C-BBCE-E278714C8716",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.651751,
-            "longitude": -16.906915
-        },
-        "properties": {
-            "orgGuid": "86D55FA7-3129-439C-BBCE-E278714C8716",
-            "orgName": "Funchal LGP",
-            "orgType": "CONG",
-            "address": "Travessa do Nogueira 13 A\n9050 - 028 FUNCHAL\n",
-            "languageCode": "LGP",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "15:00"
-                    },
-                    "midweek": {
-                        "weekday": 1,
-                        "time": "19:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "969797400",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "3C9B79B6-5F35-462B-9204-7121716AEFB4",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.651168,
+      "longitude": -16.927762
     },
-    {
-        "geoId": "28395B75-F203-43AD-87C3-581EB8D5F777",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.651751,
-            "longitude": -16.906915
-        },
-        "properties": {
-            "orgGuid": "28395B75-F203-43AD-87C3-581EB8D5F777",
-            "orgName": "Funchal Espanhola",
-            "orgType": "CONG",
-            "address": "Travessa do Nogueira 13 A\n9050 - 028 FUNCHAL\n",
-            "languageCode": "S",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "19:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "20:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+351 916 436 666",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "3C9B79B6-5F35-462B-9204-7121716AEFB4",
+      "orgName": "Funchal Barreiros",
+      "orgType": "CONG",
+      "address": "Rua da Levada dos Barreiros, 8\r\n9000 - 161 FUNCHAL\r\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:45"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+351-291-765-615",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "D6FE050E-2156-4328-B1A8-91FD9E9A459C",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.80603,
-            "longitude": -17.05033
-        },
-        "properties": {
-            "orgGuid": "D6FE050E-2156-4328-B1A8-91FD9E9A459C",
-            "orgName": "São Vicente",
-            "orgType": "CONG",
-            "address": "Estrada Cónego Ernesto Fernandes de Freitas, n 44\r\n9240 - 223 SÃO VICENTE\r\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "18:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "20:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "964775435",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "345BB106-1796-4D4A-8AE0-437D15E6A4B8",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.651168,
+      "longitude": -16.927762
     },
-    {
-        "geoId": "CA1EFC41-9456-431E-829A-472B4A52929A",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.645261,
-            "longitude": -16.849966
-        },
-        "properties": {
-            "orgGuid": "CA1EFC41-9456-431E-829A-472B4A52929A",
-            "orgName": "Funchal Lazareto",
-            "orgType": "CONG",
-            "address": "Rua da Olaria, 45\r\n9125 - 043 CANIÇO\r\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "16:00"
-                    },
-                    "midweek": {
-                        "weekday": 1,
-                        "time": "19:45"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+351-965362386",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "345BB106-1796-4D4A-8AE0-437D15E6A4B8",
+      "orgName": "Funchal Inglesa",
+      "orgType": "CONG",
+      "address": "Rua da Levada dos Barreiros, 8\r\n9000 - 161 FUNCHAL\r\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "15:00"
+          },
+          "midweek": {
+            "weekday": 1,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+351-291-765-615",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "DB2131B5-1A87-4897-8DC9-965F4D1098A1",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.645261,
-            "longitude": -16.849966
-        },
-        "properties": {
-            "orgGuid": "DB2131B5-1A87-4897-8DC9-965F4D1098A1",
-            "orgName": "Caniço",
-            "orgType": "CONG",
-            "address": "Rua da Olaria, 45\r\n9125 - 043 CANIÇO\r\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "19:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:45"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "291148186",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "51092CD6-F9F2-413D-B805-F7B9B047F3FB",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.651751,
+      "longitude": -16.906915
     },
-    {
-        "geoId": "8316C03B-976D-4527-96EE-8BBFFFDE457E",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.645261,
-            "longitude": -16.849966
-        },
-        "properties": {
-            "orgGuid": "8316C03B-976D-4527-96EE-8BBFFFDE457E",
-            "orgName": "Gaula",
-            "orgType": "CONG",
-            "address": "Rua da Olaria, 45\r\n9125 - 043 CANIÇO\r\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "20:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "962803261",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "51092CD6-F9F2-413D-B805-F7B9B047F3FB",
+      "orgName": "Funchal Central",
+      "orgType": "CONG",
+      "address": "Travessa do Nogueira 13 A\n9050 - 028 FUNCHAL\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:45"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+351-291-222-421",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "A34AE244-651F-4B56-A58B-CC8A4979FBF5",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.645261,
-            "longitude": -16.849966
-        },
-        "properties": {
-            "orgGuid": "A34AE244-651F-4B56-A58B-CC8A4979FBF5",
-            "orgName": "Camacha",
-            "orgType": "CONG",
-            "address": "Rua da Olaria, 45\r\n9125 - 043 CANIÇO\r\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "16:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "20:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "961942232",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "15B715A2-1BC0-48E1-A56D-5949F9569C4D",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.651751,
+      "longitude": -16.906915
     },
-    {
-        "geoId": "D4715227-9C6C-422A-9022-8AE82ED122F9",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.805345,
-            "longitude": -16.877849
-        },
-        "properties": {
-            "orgGuid": "D4715227-9C6C-422A-9022-8AE82ED122F9",
-            "orgName": "Santana, Madeira",
-            "orgType": "CONG",
-            "address": "Caminho Simão Alves, N.º 4,\r\n9230 - 081 SANTANA\r\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "20:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+351&nbsp;291 148 844",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "15B715A2-1BC0-48E1-A56D-5949F9569C4D",
+      "orgName": "Funchal Livramento",
+      "orgType": "CONG",
+      "address": "Travessa do Nogueira 13 A\n9050 - 028 FUNCHAL\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "16:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+351&nbsp;291 148016",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "F7F5BC56-CDC9-485B-BEEA-58F67B82469A",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.723965,
-            "longitude": -16.767685
-        },
-        "properties": {
-            "orgGuid": "F7F5BC56-CDC9-485B-BEEA-58F67B82469A",
-            "orgName": "Machico Oeste",
-            "orgType": "CONG",
-            "address": "Caminho  Novo da Graça, N.º 4\r\nSítio da Graça\r\n9200 - 909 MACHICO\r\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "20:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+351&nbsp;967215584",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "86D55FA7-3129-439C-BBCE-E278714C8716",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.651751,
+      "longitude": -16.906915
     },
-    {
-        "geoId": "754F2DDC-4847-436A-B0FB-F5EDB4FD5EA6",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.723965,
-            "longitude": -16.767685
-        },
-        "properties": {
-            "orgGuid": "754F2DDC-4847-436A-B0FB-F5EDB4FD5EA6",
-            "orgName": "Machico Leste",
-            "orgType": "CONG",
-            "address": "Caminho  Novo da Graça, N.º 4\r\nSítio da Graça\r\n9200 - 909 MACHICO\r\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "19:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "20:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "916118896",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "86D55FA7-3129-439C-BBCE-E278714C8716",
+      "orgName": "Funchal LGP",
+      "orgType": "CONG",
+      "address": "Travessa do Nogueira 13 A\n9050 - 028 FUNCHAL\n",
+      "languageCode": "LGP",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "15:00"
+          },
+          "midweek": {
+            "weekday": 1,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "969797400",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "C1B58AEE-759D-476E-A0CA-50B96832AB74",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 33.06645,
-            "longitude": -16.333038
-        },
-        "properties": {
-            "orgGuid": "C1B58AEE-759D-476E-A0CA-50B96832AB74",
-            "orgName": "Porto Santo",
-            "orgType": "CONG",
-            "address": "Beco da Est. Prof. Marina Soares, N.º 3\r\nSitio dos Salões\r\n9400 - 095 PORTO SANTO\r\n",
-            "languageCode": "TPO",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "19:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "20:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+351&nbsp;291-148-173",
-                    "ext": "291107"
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "28395B75-F203-43AD-87C3-581EB8D5F777",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.651751,
+      "longitude": -16.906915
+    },
+    "properties": {
+      "orgGuid": "28395B75-F203-43AD-87C3-581EB8D5F777",
+      "orgName": "Funchal Espanhola",
+      "orgType": "CONG",
+      "address": "Travessa do Nogueira 13 A\n9050 - 028 FUNCHAL\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+351 916 436 666",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "D6FE050E-2156-4328-B1A8-91FD9E9A459C",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.80603,
+      "longitude": -17.05033
+    },
+    "properties": {
+      "orgGuid": "D6FE050E-2156-4328-B1A8-91FD9E9A459C",
+      "orgName": "São Vicente",
+      "orgType": "CONG",
+      "address": "Estrada Cónego Ernesto Fernandes de Freitas, n 44\r\n9240 - 223 SÃO VICENTE\r\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "964775435",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "CA1EFC41-9456-431E-829A-472B4A52929A",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.645261,
+      "longitude": -16.849966
+    },
+    "properties": {
+      "orgGuid": "CA1EFC41-9456-431E-829A-472B4A52929A",
+      "orgName": "Funchal Lazareto",
+      "orgType": "CONG",
+      "address": "Rua da Olaria, 45\r\n9125 - 043 CANIÇO\r\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "16:00"
+          },
+          "midweek": {
+            "weekday": 1,
+            "time": "19:45"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+351-965362386",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "DB2131B5-1A87-4897-8DC9-965F4D1098A1",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.645261,
+      "longitude": -16.849966
+    },
+    "properties": {
+      "orgGuid": "DB2131B5-1A87-4897-8DC9-965F4D1098A1",
+      "orgName": "Caniço",
+      "orgType": "CONG",
+      "address": "Rua da Olaria, 45\r\n9125 - 043 CANIÇO\r\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:45"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "291148186",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "8316C03B-976D-4527-96EE-8BBFFFDE457E",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.645261,
+      "longitude": -16.849966
+    },
+    "properties": {
+      "orgGuid": "8316C03B-976D-4527-96EE-8BBFFFDE457E",
+      "orgName": "Gaula",
+      "orgType": "CONG",
+      "address": "Rua da Olaria, 45\r\n9125 - 043 CANIÇO\r\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "962803261",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "A34AE244-651F-4B56-A58B-CC8A4979FBF5",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.645261,
+      "longitude": -16.849966
+    },
+    "properties": {
+      "orgGuid": "A34AE244-651F-4B56-A58B-CC8A4979FBF5",
+      "orgName": "Camacha",
+      "orgType": "CONG",
+      "address": "Rua da Olaria, 45\r\n9125 - 043 CANIÇO\r\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "16:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "961942232",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "D4715227-9C6C-422A-9022-8AE82ED122F9",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.805345,
+      "longitude": -16.877849
+    },
+    "properties": {
+      "orgGuid": "D4715227-9C6C-422A-9022-8AE82ED122F9",
+      "orgName": "Santana, Madeira",
+      "orgType": "CONG",
+      "address": "Caminho Simão Alves, N.º 4,\r\n9230 - 081 SANTANA\r\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+351&nbsp;291 148 844",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "F7F5BC56-CDC9-485B-BEEA-58F67B82469A",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.723965,
+      "longitude": -16.767685
+    },
+    "properties": {
+      "orgGuid": "F7F5BC56-CDC9-485B-BEEA-58F67B82469A",
+      "orgName": "Machico Oeste",
+      "orgType": "CONG",
+      "address": "Caminho  Novo da Graça, N.º 4\r\nSítio da Graça\r\n9200 - 909 MACHICO\r\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+351&nbsp;967215584",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "754F2DDC-4847-436A-B0FB-F5EDB4FD5EA6",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.723965,
+      "longitude": -16.767685
+    },
+    "properties": {
+      "orgGuid": "754F2DDC-4847-436A-B0FB-F5EDB4FD5EA6",
+      "orgName": "Machico Leste",
+      "orgType": "CONG",
+      "address": "Caminho  Novo da Graça, N.º 4\r\nSítio da Graça\r\n9200 - 909 MACHICO\r\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "916118896",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "C1B58AEE-759D-476E-A0CA-50B96832AB74",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 33.06645,
+      "longitude": -16.333038
+    },
+    "properties": {
+      "orgGuid": "C1B58AEE-759D-476E-A0CA-50B96832AB74",
+      "orgName": "Porto Santo",
+      "orgType": "CONG",
+      "address": "Beco da Est. Prof. Marina Soares, N.º 3\r\nSitio dos Salões\r\n9400 - 095 PORTO SANTO\r\n",
+      "languageCode": "TPO",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+351&nbsp;291-148-173",
+          "ext": "291107"
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]

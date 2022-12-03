@@ -1,196 +1,196 @@
 [
-    {
-        "geoId": "26DAAB81-9D46-45E7-8E7A-4041715485E1",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 9.306468,
-            "longitude": 42.121967
-        },
-        "properties": {
-            "orgGuid": "26DAAB81-9D46-45E7-8E7A-4041715485E1",
-            "orgName": "Harar",
-            "orgType": "CONG",
-            "address": "HararKebele 17, House # 1064\r\nHarar\r\n",
-            "languageCode": "AM",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "18:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0913417648",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+  {
+    "geoId": "26DAAB81-9D46-45E7-8E7A-4041715485E1",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 9.306468,
+      "longitude": 42.121967
     },
-    {
-        "geoId": "59CDB9B5-91D0-4C0D-8C79-9C33FDAEE8B8",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 9.584404,
-            "longitude": 41.85566
-        },
-        "properties": {
-            "orgGuid": "59CDB9B5-91D0-4C0D-8C79-9C33FDAEE8B8",
-            "orgName": "Dire Dawa East",
-            "orgType": "CONG",
-            "address": "Dire Dawa, Wereda - 2House # - 2276\r\nDire Dawa\r\n",
-            "languageCode": "AM",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "16:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "18:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0913282201",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "26DAAB81-9D46-45E7-8E7A-4041715485E1",
+      "orgName": "Harar",
+      "orgType": "CONG",
+      "address": "HararKebele 17, House # 1064\r\nHarar\r\n",
+      "languageCode": "AM",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "18:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0913417648",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "9BA037AD-F9DA-4AB2-A131-AB672EFE8850",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 9.603504,
-            "longitude": 41.847004
-        },
-        "properties": {
-            "orgGuid": "9BA037AD-F9DA-4AB2-A131-AB672EFE8850",
-            "orgName": "Dire Dawa West",
-            "orgType": "CONG",
-            "address": "Dire DawaKebele 1-02\nDire Dawa\n",
-            "languageCode": "AM",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "23:00"
-                    },
-                    "midweek": {
-                        "weekday": 5,
-                        "time": "12:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0935985474",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "59CDB9B5-91D0-4C0D-8C79-9C33FDAEE8B8",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 9.584404,
+      "longitude": 41.85566
     },
-    {
-        "geoId": "9161042F-A7AC-4D82-BF27-5AEF7E386BD6",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 9.603504,
-            "longitude": 41.847004
-        },
-        "properties": {
-            "orgGuid": "9161042F-A7AC-4D82-BF27-5AEF7E386BD6",
-            "orgName": "Dire Dawa Kezira",
-            "orgType": "CONG",
-            "address": "Dire DawaKebele 1-02\nDire Dawa\n",
-            "languageCode": "AM",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "18:15"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+251&nbsp;936089316",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "59CDB9B5-91D0-4C0D-8C79-9C33FDAEE8B8",
+      "orgName": "Dire Dawa East",
+      "orgType": "CONG",
+      "address": "Dire Dawa, Wereda - 2House # - 2276\r\nDire Dawa\r\n",
+      "languageCode": "AM",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "16:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "18:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0913282201",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "898418C1-0FF0-46A9-94A4-083BFAA4A884",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 9.358881,
-            "longitude": 42.797973
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "9BA037AD-F9DA-4AB2-A131-AB672EFE8850",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 9.603504,
+      "longitude": 41.847004
+    },
+    "properties": {
+      "orgGuid": "9BA037AD-F9DA-4AB2-A131-AB672EFE8850",
+      "orgName": "Dire Dawa West",
+      "orgType": "CONG",
+      "address": "Dire DawaKebele 1-02\nDire Dawa\n",
+      "languageCode": "AM",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "23:00"
+          },
+          "midweek": {
+            "weekday": 5,
+            "time": "12:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0935985474",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "9161042F-A7AC-4D82-BF27-5AEF7E386BD6",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 9.603504,
+      "longitude": 41.847004
+    },
+    "properties": {
+      "orgGuid": "9161042F-A7AC-4D82-BF27-5AEF7E386BD6",
+      "orgName": "Dire Dawa Kezira",
+      "orgType": "CONG",
+      "address": "Dire DawaKebele 1-02\nDire Dawa\n",
+      "languageCode": "AM",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "18:15"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+251&nbsp;936089316",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "898418C1-0FF0-46A9-94A4-083BFAA4A884",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 9.358881,
+      "longitude": 42.797973
+    },
+    "properties": {
+      "orgGuid": "898418C1-0FF0-46A9-94A4-083BFAA4A884",
+      "orgName": "Jigjiga",
+      "orgType": "CONG",
+      "address": "Somalia regionKebele 06, House No.0228\r\nJigjiga\r\n",
+      "languageCode": "AM",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "04:30"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "18:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+251 254410020",
+          "ext": ""
         },
-        "properties": {
-            "orgGuid": "898418C1-0FF0-46A9-94A4-083BFAA4A884",
-            "orgName": "Jigjiga",
-            "orgType": "CONG",
-            "address": "Somalia regionKebele 06, House No.0228\r\nJigjiga\r\n",
-            "languageCode": "AM",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "04:30"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "18:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+251 254410020",
-                    "ext": ""
-                },
-                {
-                    "phone": "+251 913767260",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+        {
+          "phone": "+251 913767260",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]

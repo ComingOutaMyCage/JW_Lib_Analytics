@@ -1,182 +1,182 @@
 [
-    {
-        "geoId": "A6BEFEC6-EBEB-4C1C-9275-79349B3C700E",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.16677,
-            "longitude": 74.217667
-        },
-        "properties": {
-            "orgGuid": "A6BEFEC6-EBEB-4C1C-9275-79349B3C700E",
-            "orgName": "Gujranwala Punjabi",
-            "orgType": "CONG",
-            "address": "Saleem Colony\nGUJRANWALA\nPAKISTAN\n",
-            "languageCode": "PJN",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 5,
-                        "time": "18:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "03446038864",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+  {
+    "geoId": "A6BEFEC6-EBEB-4C1C-9275-79349B3C700E",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.16677,
+      "longitude": 74.217667
     },
-    {
-        "geoId": "BE64A778-1331-49D8-B607-CD0BFAD75498",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 33.602917,
-            "longitude": 73.05896
-        },
-        "properties": {
-            "orgGuid": "BE64A778-1331-49D8-B607-CD0BFAD75498",
-            "orgName": "Rawalpindi",
-            "orgType": "CONG",
-            "address": "Chamanzar Colony\nRAWALPINDI\nPAKISTAN\n",
-            "languageCode": "UD",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "18:00"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "A6BEFEC6-EBEB-4C1C-9275-79349B3C700E",
+      "orgName": "Gujranwala Punjabi",
+      "orgType": "CONG",
+      "address": "Saleem Colony\nGUJRANWALA\nPAKISTAN\n",
+      "languageCode": "PJN",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 5,
+            "time": "18:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "03446038864",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "0329FF0E-1ADC-4F17-B7EC-514CDB1FFFEC",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.393131,
-            "longitude": 74.43824
-        },
-        "properties": {
-            "orgGuid": "0329FF0E-1ADC-4F17-B7EC-514CDB1FFFEC",
-            "orgName": "Moutra Punjabi Isolated Group",
-            "orgType": "CONG",
-            "address": "Moutra Adda\nNear Ali Town\nSialkot Road\nDASKA\nPAKISTAN\n",
-            "languageCode": "PJN",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "18:00"
-                    }
-                }
-            },
-            "phones": [],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "BE64A778-1331-49D8-B607-CD0BFAD75498",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 33.602917,
+      "longitude": 73.05896
     },
-    {
-        "geoId": "24AE4A96-F9CB-4A4D-802B-D054F8CE93BA",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.0245,
-            "longitude": 75.4024
-        },
-        "properties": {
-            "orgGuid": "24AE4A96-F9CB-4A4D-802B-D054F8CE93BA",
-            "orgName": "Gurdaspur",
-            "orgType": "CONG",
-            "address": "Opposite Mahavir International school,\r\nNear Railway Crossing, Kahnuwan Road\r\nGurdaspur  143521\r\nPB\r\nINDIA\r\n",
-            "languageCode": "PJ",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "17:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+91&nbsp;9988465408, 9646904011",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "BE64A778-1331-49D8-B607-CD0BFAD75498",
+      "orgName": "Rawalpindi",
+      "orgType": "CONG",
+      "address": "Chamanzar Colony\nRAWALPINDI\nPAKISTAN\n",
+      "languageCode": "UD",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "18:00"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "3BAF0F4C-1655-45E4-A0CC-3783E2C3FD81",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 32.72162,
-            "longitude": 74.87473
-        },
-        "properties": {
-            "orgGuid": "3BAF0F4C-1655-45E4-A0CC-3783E2C3FD81",
-            "orgName": "Jammu",
-            "orgType": "CONG",
-            "address": "Kalka Colony, Near Little Star Academy School\r\nWard No: 48, Gorakhnagar\r\nJammu  180 001\r\nJK\r\nINDIA\r\n",
-            "languageCode": "HI",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "17:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "18:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "09682103794",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "0329FF0E-1ADC-4F17-B7EC-514CDB1FFFEC",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.393131,
+      "longitude": 74.43824
+    },
+    "properties": {
+      "orgGuid": "0329FF0E-1ADC-4F17-B7EC-514CDB1FFFEC",
+      "orgName": "Moutra Punjabi Isolated Group",
+      "orgType": "CONG",
+      "address": "Moutra Adda\nNear Ali Town\nSialkot Road\nDASKA\nPAKISTAN\n",
+      "languageCode": "PJN",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "18:00"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "24AE4A96-F9CB-4A4D-802B-D054F8CE93BA",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.0245,
+      "longitude": 75.4024
+    },
+    "properties": {
+      "orgGuid": "24AE4A96-F9CB-4A4D-802B-D054F8CE93BA",
+      "orgName": "Gurdaspur",
+      "orgType": "CONG",
+      "address": "Opposite Mahavir International school,\r\nNear Railway Crossing, Kahnuwan Road\r\nGurdaspur  143521\r\nPB\r\nINDIA\r\n",
+      "languageCode": "PJ",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "17:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+91&nbsp;9988465408, 9646904011",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "3BAF0F4C-1655-45E4-A0CC-3783E2C3FD81",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 32.72162,
+      "longitude": 74.87473
+    },
+    "properties": {
+      "orgGuid": "3BAF0F4C-1655-45E4-A0CC-3783E2C3FD81",
+      "orgName": "Jammu",
+      "orgType": "CONG",
+      "address": "Kalka Colony, Near Little Star Academy School\r\nWard No: 48, Gorakhnagar\r\nJammu  180 001\r\nJK\r\nINDIA\r\n",
+      "languageCode": "HI",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "17:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "18:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "09682103794",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]

@@ -1,275 +1,275 @@
 [
-    {
-        "geoId": "B2042DDC-777B-4BE9-9744-18ABE7488E21",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -15.757967,
-            "longitude": 128.746861
-        },
-        "properties": {
-            "orgGuid": "B2042DDC-777B-4BE9-9744-18ABE7488E21",
-            "orgName": "Kununurra Isolated Group - Kununurra WA",
-            "orgType": "CONG",
-            "address": "5 Kentia Way\nKUNUNURRA  WA  6743\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "08:30"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "18:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0427152288",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+  {
+    "geoId": "B2042DDC-777B-4BE9-9744-18ABE7488E21",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -15.757967,
+      "longitude": 128.746861
     },
-    {
-        "geoId": "C290CAA2-99B2-4C35-AF3C-715E844EE601",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -14.48208,
-            "longitude": 132.25704
-        },
-        "properties": {
-            "orgGuid": "C290CAA2-99B2-4C35-AF3C-715E844EE601",
-            "orgName": "Katherine - NT",
-            "orgType": "CONG",
-            "address": "72 Victoria Highway\r\nKATHERINE  NT  0850\r\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "19:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0416086916",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "B2042DDC-777B-4BE9-9744-18ABE7488E21",
+      "orgName": "Kununurra Isolated Group - Kununurra WA",
+      "orgType": "CONG",
+      "address": "5 Kentia Way\nKUNUNURRA  WA  6743\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "08:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "18:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0427152288",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "B22FBBC2-204B-4FC9-9508-A2E3C1CA86D3",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -12.41834,
-            "longitude": 130.92267
-        },
-        "properties": {
-            "orgGuid": "B22FBBC2-204B-4FC9-9508-A2E3C1CA86D3",
-            "orgName": "Darwin City - Darwin NT",
-            "orgType": "CONG",
-            "address": "648 Vanderlin Drive\nBERRIMAH  NT  0828\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "16:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "relatedLanguageCodes": [
-                "CHM"
-            ],
-            "phones": [
-                {
-                    "phone": "+61&nbsp;0407 700260",
-                    "ext": ""
-                },
-                {
-                    "phone": "+61&nbsp;0407 700260",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "C290CAA2-99B2-4C35-AF3C-715E844EE601",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -14.48208,
+      "longitude": 132.25704
     },
-    {
-        "geoId": "95404251-AE3B-4ECC-9D2E-11F556D9F6D2",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -12.41834,
-            "longitude": 130.92267
-        },
-        "properties": {
-            "orgGuid": "95404251-AE3B-4ECC-9D2E-11F556D9F6D2",
-            "orgName": "Darwin North - Darwin NT",
-            "orgType": "CONG",
-            "address": "648 Vanderlin Drive\nBERRIMAH  NT  0828\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:30"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0416436607",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "C290CAA2-99B2-4C35-AF3C-715E844EE601",
+      "orgName": "Katherine - NT",
+      "orgType": "CONG",
+      "address": "72 Victoria Highway\r\nKATHERINE  NT  0850\r\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0416086916",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "C1B73D30-C72B-4984-8FE3-A0711DAF61FE",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -12.41834,
-            "longitude": 130.92267
-        },
-        "properties": {
-            "orgGuid": "C1B73D30-C72B-4984-8FE3-A0711DAF61FE",
-            "orgName": "Darwin Central Filipino - Darwin NT",
-            "orgType": "CONG",
-            "address": "648 Vanderlin Drive\nBERRIMAH  NT  0828\n",
-            "languageCode": "TG",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "16:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0404263089",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "B22FBBC2-204B-4FC9-9508-A2E3C1CA86D3",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -12.41834,
+      "longitude": 130.92267
     },
-    {
-        "geoId": "8F175389-2013-4B76-829A-FEF32D29D4DF",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -12.49155,
-            "longitude": 130.99821
+    "properties": {
+      "orgGuid": "B22FBBC2-204B-4FC9-9508-A2E3C1CA86D3",
+      "orgName": "Darwin City - Darwin NT",
+      "orgType": "CONG",
+      "address": "648 Vanderlin Drive\nBERRIMAH  NT  0828\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "16:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "CHM"
+      ],
+      "phones": [
+        {
+          "phone": "+61&nbsp;0407 700260",
+          "ext": ""
         },
-        "properties": {
-            "orgGuid": "8F175389-2013-4B76-829A-FEF32D29D4DF",
-            "orgName": "Palmerston South - Darwin NT",
-            "orgType": "CONG",
-            "address": "3 Sonder Crescent\nBAKEWELL  NT  0832\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "15:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0400092739",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+        {
+          "phone": "+61&nbsp;0407 700260",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "DEB5370A-CA36-486A-9520-AE0974F175A0",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -12.49155,
-            "longitude": 130.99821
-        },
-        "properties": {
-            "orgGuid": "DEB5370A-CA36-486A-9520-AE0974F175A0",
-            "orgName": "Palmerston North - Darwin NT",
-            "orgType": "CONG",
-            "address": "3 Sonder Crescent\nBAKEWELL  NT  0832\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0428352488",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "95404251-AE3B-4ECC-9D2E-11F556D9F6D2",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -12.41834,
+      "longitude": 130.92267
+    },
+    "properties": {
+      "orgGuid": "95404251-AE3B-4ECC-9D2E-11F556D9F6D2",
+      "orgName": "Darwin North - Darwin NT",
+      "orgType": "CONG",
+      "address": "648 Vanderlin Drive\nBERRIMAH  NT  0828\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0416436607",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "C1B73D30-C72B-4984-8FE3-A0711DAF61FE",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -12.41834,
+      "longitude": 130.92267
+    },
+    "properties": {
+      "orgGuid": "C1B73D30-C72B-4984-8FE3-A0711DAF61FE",
+      "orgName": "Darwin Central Filipino - Darwin NT",
+      "orgType": "CONG",
+      "address": "648 Vanderlin Drive\nBERRIMAH  NT  0828\n",
+      "languageCode": "TG",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "16:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0404263089",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "8F175389-2013-4B76-829A-FEF32D29D4DF",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -12.49155,
+      "longitude": 130.99821
+    },
+    "properties": {
+      "orgGuid": "8F175389-2013-4B76-829A-FEF32D29D4DF",
+      "orgName": "Palmerston South - Darwin NT",
+      "orgType": "CONG",
+      "address": "3 Sonder Crescent\nBAKEWELL  NT  0832\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "15:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0400092739",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "DEB5370A-CA36-486A-9520-AE0974F175A0",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -12.49155,
+      "longitude": 130.99821
+    },
+    "properties": {
+      "orgGuid": "DEB5370A-CA36-486A-9520-AE0974F175A0",
+      "orgName": "Palmerston North - Darwin NT",
+      "orgType": "CONG",
+      "address": "3 Sonder Crescent\nBAKEWELL  NT  0832\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0428352488",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]
