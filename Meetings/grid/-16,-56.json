@@ -1,5 +1,153 @@
 [
     {
+        "geoId": "C44AFE3A-F322-41E0-8971-8D533C7C2032",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.642434,
+            "longitude": -55.975404
+        },
+        "properties": {
+            "orgGuid": "C44AFE3A-F322-41E0-8971-8D533C7C2032",
+            "orgName": "Nova Esperança - Cuiabá MT",
+            "orgType": "CONG",
+            "address": "R. Aparecida Camelo de Castro, 211\r\n(Lt. 24, Qd. 8)\r\nNova Esperança I\r\nCuiabá, MT\r\n78098-594\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "65 99207-1750",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "FAA65355-A568-4A2D-9C91-337EE76AB156",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.613771,
+            "longitude": -55.996653
+        },
+        "properties": {
+            "orgGuid": "FAA65355-A568-4A2D-9C91-337EE76AB156",
+            "orgName": "Osmar Cabral - Cuiabá MT",
+            "orgType": "CONG",
+            "address": "R. Oito, 107, Quadra 15\r\nOsmar Cabral\r\nCuiabá, MT\r\n78005-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(65) 9 9946-2422",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "0C7A5C6A-5FD7-4A9E-AF7B-F962609E8914",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.469835,
+            "longitude": -55.735046
+        },
+        "properties": {
+            "orgGuid": "0C7A5C6A-5FD7-4A9E-AF7B-F962609E8914",
+            "orgName": "Chapada dos Guimarães - MT",
+            "orgType": "CONG",
+            "address": "R. Paraíso, 614\r\nSão Sebastião\r\nChapada dos Guimarães, MT\r\n78195-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(65)99203-4417",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "847231CD-8431-4CD1-B2EE-F89C3919381C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.971963,
+            "longitude": -54.964214
+        },
+        "properties": {
+            "orgGuid": "847231CD-8431-4CD1-B2EE-F89C3919381C",
+            "orgName": "Jaciara - MT",
+            "orgType": "CONG",
+            "address": "R. Jurucê, 494\r\nSão Sebastião\r\nJaciara, MT\r\n78820-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "08:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "66.984055017",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
         "geoId": "C6208C1E-F53B-4D46-98DE-D302FF2E11A5",
         "type": "weekly",
         "isPrimary": true,
@@ -33,7 +181,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -71,7 +219,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -109,7 +257,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -147,7 +295,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -185,7 +333,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -226,7 +374,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -267,7 +415,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -308,7 +456,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -349,7 +497,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -387,7 +535,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -425,9 +573,163 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "3D932CFF-32C3-4E0F-A50B-A9883FDB16BF",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -13.079004,
+            "longitude": -55.912377
+        },
+        "properties": {
+            "orgGuid": "3D932CFF-32C3-4E0F-A50B-A9883FDB16BF",
+            "orgName": "Central - Lucas do Rio Verde MT",
+            "orgType": "CONG",
+            "address": "R. Palmeiras das Missões, 1822\r\nJardim das Palmeiras\r\nLucas do Rio Verde, MT\r\n78455-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "LSB"
+            ],
+            "phones": [
+                {
+                    "phone": "(065) 999353527",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "8688BB6F-B382-428E-8061-44D2923F712C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -13.079004,
+            "longitude": -55.912377
+        },
+        "properties": {
+            "orgGuid": "8688BB6F-B382-428E-8061-44D2923F712C",
+            "orgName": "Libras - Lucas do Rio Verde, MT (Central) - Central - Lucas do Rio Verde MT",
+            "orgType": "GROUP",
+            "address": "R. Palmeiras das Missões, 1822\r\nJardim das Palmeiras\r\nLucas do Rio Verde, MT\r\n78455-000\r\n\r\n",
+            "languageCode": "LSB",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "T"
+            ],
+            "phones": [
+                {
+                    "phone": "(065) 999353527",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "258D4EBB-51E4-4CDA-A362-4200BFF4770C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -13.079004,
+            "longitude": -55.912377
+        },
+        "properties": {
+            "orgGuid": "258D4EBB-51E4-4CDA-A362-4200BFF4770C",
+            "orgName": "Sul - Lucas do Rio Verde MT",
+            "orgType": "CONG",
+            "address": "R. Palmeiras das Missões, 1822\r\nJardim das Palmeiras\r\nLucas do Rio Verde, MT\r\n78455-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "65 999880582",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "2C025AE0-A900-4158-B66A-424F3A2FC8ED",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -13.079004,
+            "longitude": -55.912377
+        },
+        "properties": {
+            "orgGuid": "2C025AE0-A900-4158-B66A-424F3A2FC8ED",
+            "orgName": "Leste - Lucas do Rio Verde MT",
+            "orgType": "CONG",
+            "address": "R. Palmeiras das Missões, 1822\r\nJardim das Palmeiras\r\nLucas do Rio Verde, MT\r\n78455-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(65)99982-3856",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "823C6A28-FD9A-4DD2-B409-89486A50A772",
@@ -463,7 +765,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -501,9 +803,503 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "52D453A5-EACE-4E70-B543-314890AAE37C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -12.547977,
+            "longitude": -55.72594
+        },
+        "properties": {
+            "orgGuid": "52D453A5-EACE-4E70-B543-314890AAE37C",
+            "orgName": "Central - Sorriso MT",
+            "orgType": "CONG",
+            "address": "Av. Curitiba, 2380\r\nJardim Alvorada\r\nSorriso, MT\r\n78890-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "LSB"
+            ],
+            "phones": [
+                {
+                    "phone": "66 9974-5161",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "6F3EC977-4531-4E7D-AF39-A5B2EC096FFB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -12.547977,
+            "longitude": -55.72594
+        },
+        "properties": {
+            "orgGuid": "6F3EC977-4531-4E7D-AF39-A5B2EC096FFB",
+            "orgName": "Bela Vista - Sorriso MT",
+            "orgType": "CONG",
+            "address": "Av. Curitiba, 2380\r\nJardim Alvorada\r\nSorriso, MT\r\n78890-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "66 992291434",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "FB2BC95A-1205-4ADD-874F-090D177C943B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -12.547977,
+            "longitude": -55.72594
+        },
+        "properties": {
+            "orgGuid": "FB2BC95A-1205-4ADD-874F-090D177C943B",
+            "orgName": "Libras - Sorriso, MT (Central) - Central - Sorriso MT",
+            "orgType": "GROUP",
+            "address": "Av. Curitiba, 2380\r\nJardim Alvorada\r\nSorriso, MT\r\n78890-000\r\n\r\n",
+            "languageCode": "LSB",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "T"
+            ],
+            "phones": [
+                {
+                    "phone": "66 9974-5161",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "174137E7-98AB-43C9-A7D3-15F54AE1796D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -12.547977,
+            "longitude": -55.72594
+        },
+        "properties": {
+            "orgGuid": "174137E7-98AB-43C9-A7D3-15F54AE1796D",
+            "orgName": "Leste - Sorriso MT",
+            "orgType": "CONG",
+            "address": "Av. Curitiba, 2380\r\nJardim Alvorada\r\nSorriso, MT\r\n78890-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "426B8BC6-6979-4FCF-85D2-B6DAFA16BEC9",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.880543,
+            "longitude": -52.319985
+        },
+        "properties": {
+            "orgGuid": "426B8BC6-6979-4FCF-85D2-B6DAFA16BEC9",
+            "orgName": "Oeste - Barra do Garças MT",
+            "orgType": "CONG",
+            "address": "R. Universitária,  Lote 19, Quadra 136\r\nSão José\r\nBarra do Garças, MT\r\n78600-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(66) 992169558",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "A169D9B6-7AFB-40DB-AFAE-8BA976DE09FE",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.880543,
+            "longitude": -52.319985
+        },
+        "properties": {
+            "orgGuid": "A169D9B6-7AFB-40DB-AFAE-8BA976DE09FE",
+            "orgName": "Sul - Barra do Garças MT",
+            "orgType": "CONG",
+            "address": "R. Universitária,  Lote 19, Quadra 136\r\nSão José\r\nBarra do Garças, MT\r\n78600-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "08:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(66)99253-0124",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "6AFA95EB-DBD5-43D3-B689-E1DF58C987F3",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.892673,
+            "longitude": -52.26817
+        },
+        "properties": {
+            "orgGuid": "6AFA95EB-DBD5-43D3-B689-E1DF58C987F3",
+            "orgName": "Central - Barra do Garças MT",
+            "orgType": "CONG",
+            "address": "R. Antônio da Silva Rios, 5\r\nQuadra 04, Lt 05\r\nJardim São João\r\nBarra do Garças, MT\r\n78600-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "LSB"
+            ],
+            "phones": [
+                {
+                    "phone": "66-98150-0122",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "D6606964-3A29-4362-9779-BB281691DDA3",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.892673,
+            "longitude": -52.26817
+        },
+        "properties": {
+            "orgGuid": "D6606964-3A29-4362-9779-BB281691DDA3",
+            "orgName": "Libras - Barra do Garças MT, (Central) - Central - Barra do Garças MT",
+            "orgType": "GROUP",
+            "address": "R. Antônio da Silva Rios, 5\r\nQuadra 04, Lt 05\r\nJardim São João\r\nBarra do Garças, MT\r\n78600-000\r\n\r\n",
+            "languageCode": "LSB",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "T"
+            ],
+            "phones": [
+                {
+                    "phone": "66-98150-0122",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "76863F08-0E9E-4EDB-92D3-1B2E80195E07",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.892673,
+            "longitude": -52.26817
+        },
+        "properties": {
+            "orgGuid": "76863F08-0E9E-4EDB-92D3-1B2E80195E07",
+            "orgName": "Centro-Oeste - Barra do Garças MT",
+            "orgType": "CONG",
+            "address": "R. Antônio da Silva Rios, 5\r\nQuadra 04, Lt 05\r\nJardim São João\r\nBarra do Garças, MT\r\n78600-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "66992245647/66999635445/66999532630",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "52423BCB-DD47-441A-A058-5B5816BDFE86",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.905018,
+            "longitude": -52.242117
+        },
+        "properties": {
+            "orgGuid": "52423BCB-DD47-441A-A058-5B5816BDFE86",
+            "orgName": "Aragarças - GO",
+            "orgType": "CONG",
+            "address": "R. Sebastião Rodrigues da Silva, 308\r\nConjunto B.\r\nQuadra 09, Lt 19\r\nSetor Nova Esperança\r\nAragarças, GO\r\n76240-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(66)984238942",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "96A89D25-4577-4B77-BF47-02BF46839673",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.878141,
+            "longitude": -52.263668
+        },
+        "properties": {
+            "orgGuid": "96A89D25-4577-4B77-BF47-02BF46839673",
+            "orgName": "União - Barra do Garças MT",
+            "orgType": "CONG",
+            "address": "R. Robertony de Oliveira Silva, 315\r\n(antiga Rua 25 - Torixoréu)\r\nQuadra 136, Lt 08\r\nSanto Antônio\r\nBarra do Garças, MT\r\n78600-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "XV"
+            ],
+            "phones": [
+                {
+                    "phone": "66-99292-5271",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "6B74DAEA-670A-44C8-BDE9-7E915AF8012B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.878141,
+            "longitude": -52.263668
+        },
+        "properties": {
+            "orgGuid": "6B74DAEA-670A-44C8-BDE9-7E915AF8012B",
+            "orgName": "Xavante - Barra do Garças, MT (União) - União - Barra do Garças MT",
+            "orgType": "GROUP",
+            "address": "R. Robertony de Oliveira Silva, 315\r\n(antiga Rua 25 - Torixoréu)\r\nQuadra 136, Lt 08\r\nSanto Antônio\r\nBarra do Garças, MT\r\n78600-000\r\n\r\n",
+            "languageCode": "XV",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": null,
+                        "time": null
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "T"
+            ],
+            "phones": [
+                {
+                    "phone": "66-99292-5271",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "CD8DC068-6440-4285-9F72-1CE4B96287C7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.879201,
+            "longitude": -52.230618
+        },
+        "properties": {
+            "orgGuid": "CD8DC068-6440-4285-9F72-1CE4B96287C7",
+            "orgName": "Anchieta - Barra do Garças MT",
+            "orgType": "CONG",
+            "address": "R. Seis, Lote 7, Quadra 16\r\nAnchieta\r\nBarra do Garças, MT\r\n78600-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(66) 99202-3473",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "90ED5057-46C7-4684-B596-A948DF696439",
@@ -539,9 +1335,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "211F01FF-0152-4B0C-BC89-B2F5DA15E0BB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -12.292729,
+            "longitude": -55.296577
+        },
+        "properties": {
+            "orgGuid": "211F01FF-0152-4B0C-BC89-B2F5DA15E0BB",
+            "orgName": "Vera - MT",
+            "orgType": "CONG",
+            "address": "R. Chile, 1479\r\nEsperança\r\nVera, MT\r\n78880-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "66 99694-5690",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "03B84A7B-3582-45CF-8AF3-0EB39F6FC8D9",
@@ -577,7 +1410,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -615,7 +1448,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -653,7 +1486,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -691,7 +1524,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -729,7 +1562,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -767,7 +1600,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -805,7 +1638,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -846,7 +1679,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -887,7 +1720,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -925,7 +1758,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -963,9 +1796,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "B536AC4B-BEBC-4465-915B-5C141E5430DB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -11.981748,
+            "longitude": -55.278707
+        },
+        "properties": {
+            "orgGuid": "B536AC4B-BEBC-4465-915B-5C141E5430DB",
+            "orgName": "Santa Carmem - MT",
+            "orgType": "CONG",
+            "address": "AV. do Comércio,515\r\nCentro\r\nSanta Carmem, MT\r\n78545-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "66992324641",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "467032E0-7AAD-448F-90C6-5148AA6BB4AC",
@@ -1005,7 +1875,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1047,7 +1917,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1085,7 +1955,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1123,7 +1993,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1161,7 +2031,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1199,7 +2069,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1237,7 +2107,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1275,7 +2145,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1313,7 +2183,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1354,7 +2224,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1392,7 +2262,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1430,7 +2300,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1468,7 +2338,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1506,7 +2376,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1544,7 +2414,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1582,7 +2452,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1620,7 +2490,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1658,7 +2528,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1696,7 +2566,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1734,9 +2604,83 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "7B868D40-5000-470C-98A8-72EEC2427403",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.929521,
+            "longitude": -49.607807
+        },
+        "properties": {
+            "orgGuid": "7B868D40-5000-470C-98A8-72EEC2427403",
+            "orgName": "Itaguari - GO",
+            "orgType": "CONG",
+            "address": "R. João da Silva Moreira, s/n\r\nQuadra 04, Lote 01\r\nSala 02\r\nBela Vista\r\nItaguari, GO\r\n76650-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "18:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "19 9 8929 4752",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "74591E89-9D62-4EB7-8605-27F949C10200",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.564844,
+            "longitude": -49.939374
+        },
+        "properties": {
+            "orgGuid": "74591E89-9D62-4EB7-8605-27F949C10200",
+            "orgName": "Itapuranga - GO",
+            "orgType": "CONG",
+            "address": "R. Presidente Vargas (50-A), lote 14, Qd. 08\r\nCanastra\r\nItapuranga, GO\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "62-98409-3666",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "65AE9875-4093-471E-A40D-79F5E4059875",
@@ -1772,9 +2716,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "3958B661-B253-4F7B-A123-5FCD27673AF2",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.758529,
+            "longitude": -49.634458
+        },
+        "properties": {
+            "orgGuid": "3958B661-B253-4F7B-A123-5FCD27673AF2",
+            "orgName": "Itaguaru - GO",
+            "orgType": "CONG",
+            "address": "Av. Manoel Abadia de Lima, s/n\r\nQd. 13, Lt. 02\r\nSetor Central\r\nItaguaru, GO\r\n76660-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "62-99460-5611",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "80B99179-0456-467C-9769-27D0E6FE3FCB",
@@ -1810,7 +2791,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1848,7 +2829,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1886,7 +2867,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1924,7 +2905,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1962,7 +2943,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2000,7 +2981,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2038,7 +3019,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2076,7 +3057,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2114,7 +3095,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2152,7 +3133,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2190,7 +3171,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2223,7 +3204,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2261,7 +3242,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2299,7 +3280,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2337,9 +3318,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "21108A9F-C50F-4054-AF57-473A5C9FD552",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -12.592633,
+            "longitude": -52.214675
+        },
+        "properties": {
+            "orgGuid": "21108A9F-C50F-4054-AF57-473A5C9FD552",
+            "orgName": "Querência - MT",
+            "orgType": "CONG",
+            "address": "Setor F\r\nQuerência, MT\r\n78643-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "66984138150",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "EE8CAA77-6AFE-4415-A191-77A0F0476FF4",
@@ -2375,7 +3393,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2408,7 +3426,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2446,7 +3464,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2484,9 +3502,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "1AC1B4BC-BB3D-4231-9F2D-6FAD0C9B55C6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -14.542468,
+            "longitude": -49.971592
+        },
+        "properties": {
+            "orgGuid": "1AC1B4BC-BB3D-4231-9F2D-6FAD0C9B55C6",
+            "orgName": "Crixás - GO",
+            "orgType": "CONG",
+            "address": "R. Goiás, Quadra 11-A, Lote 12\r\nVila São João\r\nCrixás, GO\r\n76510-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "64 9 8429-4244",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "74AFD6CB-5115-4E90-974E-736A5D4FD338",
@@ -2522,7 +3577,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2560,7 +3615,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2598,7 +3653,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2636,9 +3691,163 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "29732BD7-128E-4233-A6BB-B976DABEBC0D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.948433,
+            "longitude": -48.260837
+        },
+        "properties": {
+            "orgGuid": "29732BD7-128E-4233-A6BB-B976DABEBC0D",
+            "orgName": "Central - Santo Antônio do Descoberto GO",
+            "orgType": "CONG",
+            "address": "Av. São Jorge, Qd 43 Lt13\r\nCentro\r\nSanto Antônio do Descoberto, GO\r\n72900-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "LSB"
+            ],
+            "phones": [
+                {
+                    "phone": "61-98199-2703 ou 61-98513-6462 ou 61-99461-9368",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "373D78FA-01AF-433C-8FE9-09ED88F864EF",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.948433,
+            "longitude": -48.260837
+        },
+        "properties": {
+            "orgGuid": "373D78FA-01AF-433C-8FE9-09ED88F864EF",
+            "orgName": "Libras - Santo Antonio do Descoberto, GO (Central) - Central - Santo Antônio do Descoberto GO",
+            "orgType": "GROUP",
+            "address": "Av. São Jorge, Qd 43 Lt13\r\nCentro\r\nSanto Antônio do Descoberto, GO\r\n72900-000\r\n\r\n",
+            "languageCode": "LSB",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "T"
+            ],
+            "phones": [
+                {
+                    "phone": "61-98199-2703 ou 61-98513-6462 ou 61-99461-9368",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "676AF367-BCBA-4FA4-8761-65ED5ADD872A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.941084,
+            "longitude": -48.229598
+        },
+        "properties": {
+            "orgGuid": "676AF367-BCBA-4FA4-8761-65ED5ADD872A",
+            "orgName": "Residencial São Francisco - Recanto das Emas DF",
+            "orgType": "CONG",
+            "address": "Quadra 3, Conjunto A-1, lote 5\r\nCondomínio São Francisco\r\nResidencial São Francisco\r\nRecanto das Emas, DF\r\n72669-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98497-2561",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "892052C9-E2F6-438B-80C3-754EBA9DBF65",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.736835,
+            "longitude": -48.408876
+        },
+        "properties": {
+            "orgGuid": "892052C9-E2F6-438B-80C3-754EBA9DBF65",
+            "orgName": "Girassol - Cocalzinho de Goiás GO",
+            "orgType": "CONG",
+            "address": "3.ª Avenida, Quadra 83, Lote 12\r\nGirassol\r\nCentro\r\nCocalzinho de Goiás, GO\r\n72915-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:50"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99670-6675",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "2649B45B-6BA8-4D90-B8ED-14E595B350E3",
@@ -2674,9 +3883,83 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "C277C6E1-653B-472E-BA51-1F766382BD6A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.756519,
+            "longitude": -48.328702
+        },
+        "properties": {
+            "orgGuid": "C277C6E1-653B-472E-BA51-1F766382BD6A",
+            "orgName": "Águas Bonitas - Águas Lindas de Goiás GO",
+            "orgType": "CONG",
+            "address": "R. Rondônia, Quadra 4, Lote 24\r\nJardim América III\r\nÁguas Lindas de Goiás, GO\r\n72910-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98356-9400 ou 61-98234-7964",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "0963E5DB-3CFC-4889-86A8-933BCD2C1D5A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.790608,
+            "longitude": -48.288219
+        },
+        "properties": {
+            "orgGuid": "0963E5DB-3CFC-4889-86A8-933BCD2C1D5A",
+            "orgName": "Jardim Águas Lindas de Goiás II - Águas Lindas de Goiás GO",
+            "orgType": "CONG",
+            "address": "Quadra 2, lote 2\r\nRecanto Barragem\r\nÁguas Lindas de Goiás, GO\r\n72910-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99395-8211",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "B120EE84-3ADD-4F00-9E47-AFF2B9A8D712",
@@ -2712,9 +3995,2210 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "508447EB-38D0-4E41-A697-453FAC225822",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.894015,
+            "longitude": -48.139014
+        },
+        "properties": {
+            "orgGuid": "508447EB-38D0-4E41-A697-453FAC225822",
+            "orgName": "Oeste - Samambaia DF",
+            "orgType": "CONG",
+            "address": "QS 429, Conjunto A, lote 5\r\nSamambaia Norte\r\nSamambaia, DF\r\n72329-520\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61 98443-2111",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "10368EE7-BCB1-4ED0-9233-1D37FD2BE864",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.894015,
+            "longitude": -48.139014
+        },
+        "properties": {
+            "orgGuid": "10368EE7-BCB1-4ED0-9233-1D37FD2BE864",
+            "orgName": "Expansão - Samambaia DF",
+            "orgType": "CONG",
+            "address": "QS 429, Conjunto A, lote 5\r\nSamambaia Norte\r\nSamambaia, DF\r\n72329-520\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98607-7287",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "2986272C-27C8-4DD9-AFB3-D2D9B60F1A2B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.927243,
+            "longitude": -48.103102
+        },
+        "properties": {
+            "orgGuid": "2986272C-27C8-4DD9-AFB3-D2D9B60F1A2B",
+            "orgName": "Central - Recanto das Emas DF",
+            "orgType": "CONG",
+            "address": "Av. Monjolo\r\nQuadra 310, Lotes 1 e 2\r\nCentro\r\nRecanto das Emas, DF\r\n72639-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98142-6204",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "11CC5F8A-18AC-482A-950D-567AE585E36A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.927243,
+            "longitude": -48.103102
+        },
+        "properties": {
+            "orgGuid": "11CC5F8A-18AC-482A-950D-567AE585E36A",
+            "orgName": "Oeste - Recanto das Emas DF",
+            "orgType": "CONG",
+            "address": "Av. Monjolo\r\nQuadra 310, Lotes 1 e 2\r\nCentro\r\nRecanto das Emas, DF\r\n72639-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99942-2471",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "6FEC7ADE-9C43-4C09-B8FD-E04C2096705A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.72765,
+            "longitude": -48.288149
+        },
+        "properties": {
+            "orgGuid": "6FEC7ADE-9C43-4C09-B8FD-E04C2096705A",
+            "orgName": "Jardim da Barragem - Águas Lindas de Goiás GO",
+            "orgType": "CONG",
+            "address": "AV. Porto Velho,S/N\r\nQuadra 26, Lotes 1-2, Loja 1\r\nJardim da Barragem 1\r\nÁguas Lindas de Goiás, GO\r\n72910-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99153-9529",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "C3885DCE-476F-488A-8723-65F3055EF172",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.72765,
+            "longitude": -48.288149
+        },
+        "properties": {
+            "orgGuid": "C3885DCE-476F-488A-8723-65F3055EF172",
+            "orgName": "Norte - Águas Lindas de Goiás GO",
+            "orgType": "CONG",
+            "address": "AV. Porto Velho,S/N\r\nQuadra 26, Lotes 1-2, Loja 1\r\nJardim da Barragem 1\r\nÁguas Lindas de Goiás, GO\r\n72910-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99270-2704",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "98462246-7FE4-4FCC-BB5E-EFFF53EE2EAA",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.72765,
+            "longitude": -48.288149
+        },
+        "properties": {
+            "orgGuid": "98462246-7FE4-4FCC-BB5E-EFFF53EE2EAA",
+            "orgName": "LS - Águas Lindas de Goiás GO",
+            "orgType": "CONG",
+            "address": "AV. Porto Velho,S/N\r\nQuadra 26, Lotes 1-2, Loja 1\r\nJardim da Barragem 1\r\nÁguas Lindas de Goiás, GO\r\n72910-000\r\n\r\n",
+            "languageCode": "LSB",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:15"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61 98235-1854",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "D3AA5B0D-499C-4C7A-BDB5-B9428A1F03CC",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.763621,
+            "longitude": -48.246028
+        },
+        "properties": {
+            "orgGuid": "D3AA5B0D-499C-4C7A-BDB5-B9428A1F03CC",
+            "orgName": "Jardim Guaíra - Águas Lindas de Goiás GO",
+            "orgType": "CONG",
+            "address": "R. Ceará, S/N\r\nQuadra 3, Lote 11\r\nJardim Guaíra 1\r\nÁguas Lindas de Goiás, GO\r\n72912-663\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99191-5236",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "103B3B74-D432-4C77-B32D-6857E00FA806",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.746233,
+            "longitude": -48.260791
+        },
+        "properties": {
+            "orgGuid": "103B3B74-D432-4C77-B32D-6857E00FA806",
+            "orgName": "Central - Águas Lindas de Goiás GO",
+            "orgType": "CONG",
+            "address": "Quadra 52, Conjunto A, Lote 12\r\nSetor Um\r\nÁguas Lindas de Goiás, GO\r\n72910-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99232-7871",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "1EC36709-7B16-400A-871B-901423B78033",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.746233,
+            "longitude": -48.260791
+        },
+        "properties": {
+            "orgGuid": "1EC36709-7B16-400A-871B-901423B78033",
+            "orgName": "Park Águas Lindas - Águas Lindas de Goiás GO",
+            "orgType": "CONG",
+            "address": "Quadra 52, Conjunto A, Lote 12\r\nSetor Um\r\nÁguas Lindas de Goiás, GO\r\n72910-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99142-9123 ou 61-99217-6336",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "85B640C7-926F-4CB7-B515-B513DAD5D7EC",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.894665,
+            "longitude": -48.112015
+        },
+        "properties": {
+            "orgGuid": "85B640C7-926F-4CB7-B515-B513DAD5D7EC",
+            "orgName": "Sul - Samambaia DF",
+            "orgType": "CONG",
+            "address": "QN 517, Conjunto A, Lote 1\r\nSamambaia Sul\r\nSamambaia, DF\r\n72315-541\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98542-3574",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "A91A6F67-926D-4062-9325-A6E6B5AC0654",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.894665,
+            "longitude": -48.112015
+        },
+        "properties": {
+            "orgGuid": "A91A6F67-926D-4062-9325-A6E6B5AC0654",
+            "orgName": "Sudoeste - Samambaia DF",
+            "orgType": "CONG",
+            "address": "QN 517, Conjunto A, Lote 1\r\nSamambaia Sul\r\nSamambaia, DF\r\n72315-541\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98542-3574",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "E27C2851-4CEB-4049-ABCB-19FA2A50E842",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.717387,
+            "longitude": -48.28731
+        },
+        "properties": {
+            "orgGuid": "E27C2851-4CEB-4049-ABCB-19FA2A50E842",
+            "orgName": "Leste - Águas Lindas de Goiás GO",
+            "orgType": "CONG",
+            "address": "Av. JK, Quadra 50, Lote 11\r\nJardim Brasilia\r\nÁguas Lindas de Goiás, GO\r\n72910-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98270-8173",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B8112440-BF64-48DF-A7B9-B92D5A5055D1",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.882647,
+            "longitude": -48.117953
+        },
+        "properties": {
+            "orgGuid": "B8112440-BF64-48DF-A7B9-B92D5A5055D1",
+            "orgName": "Norte - Samambaia DF",
+            "orgType": "CONG",
+            "address": "QS 417, Lote 2, Conjunto C\r\nSamambaia Norte\r\nSamambaia, DF\r\n72323-563\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99294-4948",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "0AD55C1C-9013-45BF-9F3A-B9374A0A12BC",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.882647,
+            "longitude": -48.117953
+        },
+        "properties": {
+            "orgGuid": "0AD55C1C-9013-45BF-9F3A-B9374A0A12BC",
+            "orgName": "Jardim Samambaia - Samambaia DF",
+            "orgType": "CONG",
+            "address": "QS 417, Lote 2, Conjunto C\r\nSamambaia Norte\r\nSamambaia, DF\r\n72323-563\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98125-0395",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "A79E7DFB-CD77-4C0A-BD54-D748C12BB2F6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.906943,
+            "longitude": -48.080435
+        },
+        "properties": {
+            "orgGuid": "A79E7DFB-CD77-4C0A-BD54-D748C12BB2F6",
+            "orgName": "Norte - Recanto das Emas DF",
+            "orgType": "CONG",
+            "address": "Av. Recando das Emas, Quadra 300, Lote 31\r\nRecanto das Emas\r\nRecanto das Emas, DF\r\n72620-100\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                },
+                "futureDate": "2023-01-02",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99247-0834",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "C25EB565-FE1A-4B9C-A36B-3294E52363A4",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.906943,
+            "longitude": -48.080435
+        },
+        "properties": {
+            "orgGuid": "C25EB565-FE1A-4B9C-A36B-3294E52363A4",
+            "orgName": "Buriti - Recanto das Emas DF",
+            "orgType": "CONG",
+            "address": "Av. Recando das Emas, Quadra 300, Lote 31\r\nRecanto das Emas\r\nRecanto das Emas, DF\r\n72620-100\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                },
+                "futureDate": "2023-01-02",
+                "future": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61992731491",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "1843564B-6261-4274-9843-ADEA69DFDBC5",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.916162,
+            "longitude": -48.056842
+        },
+        "properties": {
+            "orgGuid": "1843564B-6261-4274-9843-ADEA69DFDBC5",
+            "orgName": "Leste - Recanto das Emas DF",
+            "orgType": "CONG",
+            "address": "Av. Buriti, Quadra 603, lote 11\r\nConjunto 3\r\nRecanto das Emas, DF\r\n72630-106\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98497-5325",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "94AE682E-698A-4720-8846-168FEA68F140",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.916162,
+            "longitude": -48.056842
+        },
+        "properties": {
+            "orgGuid": "94AE682E-698A-4720-8846-168FEA68F140",
+            "orgName": "Sul - Recanto das Emas DF",
+            "orgType": "CONG",
+            "address": "Av. Buriti, Quadra 603, lote 11\r\nConjunto 3\r\nRecanto das Emas, DF\r\n72630-106\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98193-1019 ou 61-99169-3730",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "750AA110-DD3B-4AAF-AC51-E5195819F0A7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.849859,
+            "longitude": -48.118011
+        },
+        "properties": {
+            "orgGuid": "750AA110-DD3B-4AAF-AC51-E5195819F0A7",
+            "orgName": "Setor P Sul - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "EQNP 30/34, Área Especial H\r\nSetor P Sul\r\nCeilândia, DF\r\n72236-518\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99337-2949",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "9D693ECF-E23F-4C53-B16A-D5815F220F26",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.849859,
+            "longitude": -48.118011
+        },
+        "properties": {
+            "orgGuid": "9D693ECF-E23F-4C53-B16A-D5815F220F26",
+            "orgName": "Pôr do Sol - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "EQNP 30/34, Área Especial H\r\nSetor P Sul\r\nCeilândia, DF\r\n72236-518\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98434-3484",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "6EB68630-1B6E-456D-8FC0-F653690A509A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.838238,
+            "longitude": -48.121637
+        },
+        "properties": {
+            "orgGuid": "6EB68630-1B6E-456D-8FC0-F653690A509A",
+            "orgName": "Paraíso - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "EQNP 8/12 - Área Especial \"G\"\r\nCeilândia Sul\r\nCeilândia, DF\r\n72230-520\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99663-8648",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "D54E4891-1DFA-4652-AA53-F61D96E4DF67",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.838238,
+            "longitude": -48.121637
+        },
+        "properties": {
+            "orgGuid": "D54E4891-1DFA-4652-AA53-F61D96E4DF67",
+            "orgName": "Sol Nascente - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "EQNP 8/12 - Área Especial \"G\"\r\nCeilândia Sul\r\nCeilândia, DF\r\n72230-520\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99937-4171",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "F05828E9-9130-4297-879C-CDAECF259500",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.80395,
+            "longitude": -48.149637
+        },
+        "properties": {
+            "orgGuid": "F05828E9-9130-4297-879C-CDAECF259500",
+            "orgName": "Setor Q - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "Via 1, Quadra 3, Lotes 55 e 57\r\nSetor Industrial I\r\nCeilândia, DF\r\n72265-030\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99931-2555",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "F8DEBABC-CA28-477B-B9F3-3D666C58FEF4",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.814149,
+            "longitude": -48.133687
+        },
+        "properties": {
+            "orgGuid": "F8DEBABC-CA28-477B-B9F3-3D666C58FEF4",
+            "orgName": "P Norte - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "EQNP 15/11 Área Especial Módulo E\r\nSetor P Norte\r\nCeilândia, DF\r\n72241-520\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "19:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99590-3689",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "9F745CC0-9B0C-4904-A9C3-6BCDA6C1ED38",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.814149,
+            "longitude": -48.133687
+        },
+        "properties": {
+            "orgGuid": "9F745CC0-9B0C-4904-A9C3-6BCDA6C1ED38",
+            "orgName": "Nova Esperança - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "EQNP 15/11 Área Especial Módulo E\r\nSetor P Norte\r\nCeilândia, DF\r\n72241-520\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98406-5909",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "BEA51529-DCA4-4520-AB83-BC891FA46CA6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.814092,
+            "longitude": -48.133515
+        },
+        "properties": {
+            "orgGuid": "BEA51529-DCA4-4520-AB83-BC891FA46CA6",
+            "orgName": "Setor P - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "EQNP 15/11 Área Especial Módulo E\r\nSetor P Norte\r\nCeilândia, DF\r\n72241-520\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98594-9117",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "95F9F294-3F00-4F72-8C1A-BB7D9B37D69F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.814092,
+            "longitude": -48.133515
+        },
+        "properties": {
+            "orgGuid": "95F9F294-3F00-4F72-8C1A-BB7D9B37D69F",
+            "orgName": "QNP Norte - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "EQNP 15/11 Área Especial Módulo E\r\nSetor P Norte\r\nCeilândia, DF\r\n72241-520\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "17:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98100-2289",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "4BE3A0EF-8FC4-4C84-86EE-F9B04557BA84",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.893693,
+            "longitude": -48.049178
+        },
+        "properties": {
+            "orgGuid": "4BE3A0EF-8FC4-4C84-86EE-F9B04557BA84",
+            "orgName": "Norte - Riacho Fundo II DF",
+            "orgType": "CONG",
+            "address": "QN 14 D, Conjunto 7, lote 7\r\nRiacho Fundo II\r\nRiacho Fundo II, DF\r\n71881-137\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98654-7269",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "88367FF3-FBE7-4D32-A334-1E7A108AF19B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.893693,
+            "longitude": -48.049178
+        },
+        "properties": {
+            "orgGuid": "88367FF3-FBE7-4D32-A334-1E7A108AF19B",
+            "orgName": "Sul - Riacho Fundo II DF",
+            "orgType": "CONG",
+            "address": "QN 14 D, Conjunto 7, lote 7\r\nRiacho Fundo II\r\nRiacho Fundo II, DF\r\n71881-137\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99273-6022",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "D57F58E9-E652-4ABF-8394-488BB24F64EA",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.893693,
+            "longitude": -48.049178
+        },
+        "properties": {
+            "orgGuid": "D57F58E9-E652-4ABF-8394-488BB24F64EA",
+            "orgName": "Park Riacho - Riacho Fundo II DF",
+            "orgType": "CONG",
+            "address": "QN 14 D, Conjunto 7, lote 7\r\nRiacho Fundo II\r\nRiacho Fundo II, DF\r\n71881-137\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98212-3193",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B5D540C9-0F2F-40FF-A657-B5EF64F1D01E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.87626,
+            "longitude": -48.065533
+        },
+        "properties": {
+            "orgGuid": "B5D540C9-0F2F-40FF-A657-B5EF64F1D01E",
+            "orgName": "Leste - Samambaia DF",
+            "orgType": "CONG",
+            "address": "QS 316, Conjunto 3, Lote 1\r\nCentro\r\nSamambaia, DF\r\n72308-523\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61- 99609-5660 ou  61-98605-5244",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "AC4EF41F-12FE-4996-89B2-FD5C4CB26AD9",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.87626,
+            "longitude": -48.065533
+        },
+        "properties": {
+            "orgGuid": "AC4EF41F-12FE-4996-89B2-FD5C4CB26AD9",
+            "orgName": "Primavera - Samambaia DF",
+            "orgType": "CONG",
+            "address": "QS 316, Conjunto 3, Lote 1\r\nCentro\r\nSamambaia, DF\r\n72308-523\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99245-2908 ou 61-98136-2363",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "81452D29-CB72-4BD2-9A36-26DCB533E5EC",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.87626,
+            "longitude": -48.065533
+        },
+        "properties": {
+            "orgGuid": "81452D29-CB72-4BD2-9A36-26DCB533E5EC",
+            "orgName": "LS - Samambaia DF",
+            "orgType": "CONG",
+            "address": "QS 316, Conjunto 3, Lote 1\r\nCentro\r\nSamambaia, DF\r\n72308-523\r\n\r\n",
+            "languageCode": "LSB",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "17:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(61) 99555-4433",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "83F16915-7949-47F0-841F-06486818F03B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.830678,
+            "longitude": -48.109779
+        },
+        "properties": {
+            "orgGuid": "83F16915-7949-47F0-841F-06486818F03B",
+            "orgName": "Shis Nova - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "QNN 22, Conjunto A, Lotes 54/56\r\nGuariroba\r\nCeilândia, DF\r\n72233-007\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99278-5802",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "01D310E6-8A0F-4B80-9839-FF5983DAA1A8",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.830678,
+            "longitude": -48.109779
+        },
+        "properties": {
+            "orgGuid": "01D310E6-8A0F-4B80-9839-FF5983DAA1A8",
+            "orgName": "Guariroba - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "QNN 22, Conjunto A, Lotes 54/56\r\nGuariroba\r\nCeilândia, DF\r\n72233-007\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98109-5668",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B4D60DE8-E031-4C57-A524-161B4CD0CC2E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.860588,
+            "longitude": -48.07478
+        },
+        "properties": {
+            "orgGuid": "B4D60DE8-E031-4C57-A524-161B4CD0CC2E",
+            "orgName": "Central - Samambaia DF",
+            "orgType": "CONG",
+            "address": "QS 412, Lote 1, Conjunto C\r\nSamambaia Norte\r\nSamambaia, DF\r\n72320-553\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:15"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98435-1988",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "068FAB10-9363-4D65-BD0A-1A7419431731",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.860588,
+            "longitude": -48.07478
+        },
+        "properties": {
+            "orgGuid": "068FAB10-9363-4D65-BD0A-1A7419431731",
+            "orgName": "Parque Samambaia - Samambaia DF",
+            "orgType": "CONG",
+            "address": "QS 412, Lote 1, Conjunto C\r\nSamambaia Norte\r\nSamambaia, DF\r\n72320-553\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99697-9810",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "D9FCA4A9-B79B-48F3-92AC-CA43787BC96E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.799148,
+            "longitude": -48.135175
+        },
+        "properties": {
+            "orgGuid": "D9FCA4A9-B79B-48F3-92AC-CA43787BC96E",
+            "orgName": "Expansão - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "QNO 17, Conjunto I, Lote 5\r\nCeilândia Norte\r\nCeilândia, DF\r\n72260-701\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98257-9534",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "DD1A7D3C-C691-4B74-8ACB-4319683E4F61",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.799148,
+            "longitude": -48.135175
+        },
+        "properties": {
+            "orgGuid": "DD1A7D3C-C691-4B74-8ACB-4319683E4F61",
+            "orgName": "LS - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "QNO 17, Conjunto I, Lote 5\r\nCeilândia Norte\r\nCeilândia, DF\r\n72260-701\r\n\r\n",
+            "languageCode": "LSB",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "6199808-1623",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "1BA2D699-11DA-46FB-9CEF-0C71BF341F45",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.813343,
+            "longitude": -48.116549
+        },
+        "properties": {
+            "orgGuid": "1BA2D699-11DA-46FB-9CEF-0C71BF341F45",
+            "orgName": "Central - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "QNN 5, Conjunto O, Casa 45\r\nCeilândia Norte\r\nCeilândia, DF\r\n72225-591\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99322-1555",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "7963B1F6-CA7F-410B-A598-784B4DAA0BE4",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.813343,
+            "longitude": -48.116549
+        },
+        "properties": {
+            "orgGuid": "7963B1F6-CA7F-410B-A598-784B4DAA0BE4",
+            "orgName": "Metropolitana - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "QNN 5, Conjunto O, Casa 45\r\nCeilândia Norte\r\nCeilândia, DF\r\n72225-591\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99179-5780",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "58715A0A-3B0A-4E68-906C-B4732E7567E6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.804893,
+            "longitude": -48.123787
+        },
+        "properties": {
+            "orgGuid": "58715A0A-3B0A-4E68-906C-B4732E7567E6",
+            "orgName": "Norte - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "EQNN 23/25, Lote A\r\nÁrea Especial\r\nCeilândia, DF\r\n72225-590\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99123-8145",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "5178B5B7-4C86-4BAB-8F43-C2987C6224BE",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.804893,
+            "longitude": -48.123787
+        },
+        "properties": {
+            "orgGuid": "5178B5B7-4C86-4BAB-8F43-C2987C6224BE",
+            "orgName": "Esmeralda - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "EQNN 23/25, Lote A\r\nÁrea Especial\r\nCeilândia, DF\r\n72225-590\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(61) 99280-9407",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "005A3625-E917-4116-9E9D-DFD14974A676",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -14.270768,
+            "longitude": -49.656812
+        },
+        "properties": {
+            "orgGuid": "005A3625-E917-4116-9E9D-DFD14974A676",
+            "orgName": "Campos Verdes - GO",
+            "orgType": "CONG",
+            "address": "R. Aeroporto, 74\r\nCentro\r\nCampos Verdes, GO\r\n76515-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(62) 98199-4673",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "8DF574A6-DF0A-4E0D-B625-2650CB5A5B1C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.780231,
+            "longitude": -48.142159
+        },
+        "properties": {
+            "orgGuid": "8DF574A6-DF0A-4E0D-B625-2650CB5A5B1C",
+            "orgName": "Novo Horizonte - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "R. Doze, Lote 17, Módulo 6\r\nCondomínio Agrícola Privê Lucena Roriz\r\nCeilândia, DF\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "20:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61998025815",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "DC308D3E-4940-40EE-90CA-26F3462A6662",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.826439,
+            "longitude": -48.08613
+        },
+        "properties": {
+            "orgGuid": "DC308D3E-4940-40EE-90CA-26F3462A6662",
+            "orgName": "Planalto - Taguatinga DF",
+            "orgType": "CONG",
+            "address": "QNL 13, Conjunto B, Casa 1\r\nTaguatinga Norte\r\nTaguatinga, DF\r\n72151-301\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61 98187-7074",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "C308668D-19C9-4C75-940B-2950D77963FF",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.826439,
+            "longitude": -48.08613
+        },
+        "properties": {
+            "orgGuid": "C308668D-19C9-4C75-940B-2950D77963FF",
+            "orgName": "Setor L - Taguatinga DF",
+            "orgType": "CONG",
+            "address": "QNL 13, Conjunto B, Casa 1\r\nTaguatinga Norte\r\nTaguatinga, DF\r\n72151-301\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98118-1987",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "AA7173DA-95AD-4879-A6E3-3226B49439D8",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.787049,
+            "longitude": -48.124552
+        },
+        "properties": {
+            "orgGuid": "AA7173DA-95AD-4879-A6E3-3226B49439D8",
+            "orgName": "Setor O - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "QNO 5, Conjunto O, Casa 44\r\nSetor O\r\nCeilândia, DF\r\n72250-050\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:45"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61981701911",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "2476528D-3A60-49B5-83AB-D202EEE1B043",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.787049,
+            "longitude": -48.124552
+        },
+        "properties": {
+            "orgGuid": "2476528D-3A60-49B5-83AB-D202EEE1B043",
+            "orgName": "Alvorada - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "QNO 5, Conjunto O, Casa 44\r\nSetor O\r\nCeilândia, DF\r\n72250-050\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(61) 98478-8661",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "E0E56276-8B2C-4699-8286-E85CBF7A158F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.787049,
+            "longitude": -48.124552
+        },
+        "properties": {
+            "orgGuid": "E0E56276-8B2C-4699-8286-E85CBF7A158F",
+            "orgName": "Leste - Ceilândia DF",
+            "orgType": "CONG",
+            "address": "QNO 5, Conjunto O, Casa 44\r\nSetor O\r\nCeilândia, DF\r\n72250-050\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99915-4331",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "C67D46C9-A86B-4013-9091-3338D4745598",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.81538,
+            "longitude": -48.092904
+        },
+        "properties": {
+            "orgGuid": "C67D46C9-A86B-4013-9091-3338D4745598",
+            "orgName": "Norte - Taguatinga DF",
+            "orgType": "CONG",
+            "address": "Via LN-29, QNL 28\r\nLotes 67, 69 e 71\r\nTaguatinga Norte\r\nTaguatinga, DF\r\n72161-829\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99828-4979",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "405EF688-5601-43ED-9572-B7695FAB4477",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.81538,
+            "longitude": -48.092904
+        },
+        "properties": {
+            "orgGuid": "405EF688-5601-43ED-9572-B7695FAB4477",
+            "orgName": "Noroeste - Taguatinga DF",
+            "orgType": "CONG",
+            "address": "Via LN-29, QNL 28\r\nLotes 67, 69 e 71\r\nTaguatinga Norte\r\nTaguatinga, DF\r\n72161-829\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "20:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "20:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99164-5132",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "814251D1-063B-47A6-BB99-794AEB8CCF74",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.885858,
+            "longitude": -48.019052
+        },
+        "properties": {
+            "orgGuid": "814251D1-063B-47A6-BB99-794AEB8CCF74",
+            "orgName": "Central - Riacho Fundo DF",
+            "orgType": "CONG",
+            "address": "QS Seis, Conjunto Dez, Lote 1\r\nRiacho Fundo I\r\nRiacho Fundo, DF\r\n71701-970\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99107-7883",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "DDF86065-B193-4450-AC86-EFA54527FB1E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.885858,
+            "longitude": -48.019052
+        },
+        "properties": {
+            "orgGuid": "DDF86065-B193-4450-AC86-EFA54527FB1E",
+            "orgName": "Norte - Riacho Fundo DF",
+            "orgType": "CONG",
+            "address": "QS Seis, Conjunto Dez, Lote 1\r\nRiacho Fundo I\r\nRiacho Fundo, DF\r\n71701-970\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99221-5562",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B1263E45-6FD7-4F66-AAE7-57B5BCC5ADB3",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.885858,
+            "longitude": -48.019052
+        },
+        "properties": {
+            "orgGuid": "B1263E45-6FD7-4F66-AAE7-57B5BCC5ADB3",
+            "orgName": "Sucupira - Riacho Fundo DF",
+            "orgType": "CONG",
+            "address": "QS Seis, Conjunto Dez, Lote 1\r\nRiacho Fundo I\r\nRiacho Fundo, DF\r\n71701-970\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98134-5748",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "DC635D9C-1238-4058-9B7E-6C0643AF55C0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.799634,
+            "longitude": -48.096122
+        },
+        "properties": {
+            "orgGuid": "DC635D9C-1238-4058-9B7E-6C0643AF55C0",
+            "orgName": "M Norte - Taguatinga DF",
+            "orgType": "CONG",
+            "address": "QNM 36, Conjunto Y, Lote 44\r\nTaguatinga Norte\r\nTaguatinga, DF\r\n72145-970\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-98416-3442",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "22F82C79-EA44-4338-A451-8D5E439716FD",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.799634,
+            "longitude": -48.096122
+        },
+        "properties": {
+            "orgGuid": "22F82C79-EA44-4338-A451-8D5E439716FD",
+            "orgName": "Oeste - Taguatinga DF",
+            "orgType": "CONG",
+            "address": "QNM 36, Conjunto Y, Lote 44\r\nTaguatinga Norte\r\nTaguatinga, DF\r\n72145-970\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99337-6726",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "3B4803DD-5722-4119-BE5B-0848679FC610",
@@ -2750,9 +6234,120 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "69E5AFD7-662B-46BE-AE93-03CC3646CFCB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.81397,
+            "longitude": -48.068957
+        },
+        "properties": {
+            "orgGuid": "69E5AFD7-662B-46BE-AE93-03CC3646CFCB",
+            "orgName": "Taguacenter - Taguatinga DF",
+            "orgType": "CONG",
+            "address": "CNF 1, Lote 5/8\r\nlj 02\r\nTaguatinga Norte\r\nTaguatinga, DF\r\n72125-515\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99196-9493",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "7E12E3FA-64AB-4D4C-B07D-E5C8B1427195",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.802946,
+            "longitude": -48.030499
+        },
+        "properties": {
+            "orgGuid": "7E12E3FA-64AB-4D4C-B07D-E5C8B1427195",
+            "orgName": "Central - Vicente Pires DF",
+            "orgType": "CONG",
+            "address": "R. Oito, Chácara 194, Lote 1\r\nColônia Agrícola Vicente Pires\r\nVicente Pires, DF\r\n72006-805\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-3264-0960",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "DA89D919-7CCE-4719-AA39-1DA9ED748A53",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.802946,
+            "longitude": -48.030499
+        },
+        "properties": {
+            "orgGuid": "DA89D919-7CCE-4719-AA39-1DA9ED748A53",
+            "orgName": "Estrada Parque - Vicente Pires DF",
+            "orgType": "CONG",
+            "address": "R. Oito, Chácara 194, Lote 1\r\nColônia Agrícola Vicente Pires\r\nVicente Pires, DF\r\n72006-805\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-3264-0960",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "7815C0F4-7808-4F35-AC39-EF01890B547C",
@@ -2788,9 +6383,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "2044F547-6BC4-48CE-814E-1C1D9805CDC0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.771828,
+            "longitude": -48.028767
+        },
+        "properties": {
+            "orgGuid": "2044F547-6BC4-48CE-814E-1C1D9805CDC0",
+            "orgName": "26 de Setembro - Vicente Pires DF",
+            "orgType": "CONG",
+            "address": "R. Quatro esq. com R. Cinco\r\nAssentamento 26 de Setembro\r\nVicente Pires, DF\r\n72127-991\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99524-2272",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "F2EE024E-B785-4F4B-BBF1-5D65B642B41E",
@@ -2826,7 +6458,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2864,7 +6496,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2902,7 +6534,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2940,7 +6572,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2978,7 +6610,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3016,7 +6648,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3054,7 +6686,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3092,7 +6724,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3130,7 +6762,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3168,9 +6800,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "0FD8846F-FF9A-41FC-92D4-1EEA1EAC8BDD",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -15.304827,
+            "longitude": -48.099538
+        },
+        "properties": {
+            "orgGuid": "0FD8846F-FF9A-41FC-92D4-1EEA1EAC8BDD",
+            "orgName": "Rio do Sal - Padre Bernardo GO",
+            "orgType": "CONG",
+            "address": "Sitio Novo Mundo\r\nPadre Bernardo, GO\r\n73700-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "61-99991-5106",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "E013B48F-7398-4AD5-A93C-1B91C7473030",
@@ -3206,7 +6875,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3244,7 +6913,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3282,7 +6951,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3320,9 +6989,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "E52DE655-4E24-4FF9-9F50-018755DF0836",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -14.472364,
+            "longitude": -48.456905
+        },
+        "properties": {
+            "orgGuid": "E52DE655-4E24-4FF9-9F50-018755DF0836",
+            "orgName": "Niquelândia - GO",
+            "orgType": "CONG",
+            "address": "Av. Almirante Tamandaré, 81\r\nSanta Efigenia\r\nNiquelândia, GO\r\n76420-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "62-98150-7678",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "808C7DC3-3D54-4F58-956D-D74F12C9A54C",
@@ -3358,7 +7064,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3396,7 +7102,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3434,7 +7140,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3472,7 +7178,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3513,7 +7219,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3554,7 +7260,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3592,7 +7298,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3630,7 +7336,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3668,7 +7374,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3709,7 +7415,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3747,7 +7453,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3785,7 +7491,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3823,7 +7529,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3861,7 +7567,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3899,7 +7605,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3937,7 +7643,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3970,7 +7676,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4008,7 +7714,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4046,7 +7752,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4084,7 +7790,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4122,7 +7828,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4163,7 +7869,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4204,7 +7910,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4242,7 +7948,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4280,7 +7986,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4318,7 +8024,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4359,7 +8065,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4397,7 +8103,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4438,7 +8144,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4476,7 +8182,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4514,7 +8220,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4552,7 +8258,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4590,7 +8296,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4628,7 +8334,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4666,7 +8372,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4704,7 +8410,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4742,7 +8448,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4780,7 +8486,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4818,7 +8524,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4856,7 +8562,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4894,7 +8600,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4932,7 +8638,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4970,7 +8676,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5008,7 +8714,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5049,7 +8755,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5090,7 +8796,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5128,7 +8834,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5166,7 +8872,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5204,9 +8910,268 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "58BDBECF-974F-4C5B-A9FB-3F9B7B1CC9F9",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -10.193691,
+            "longitude": -48.468569
+        },
+        "properties": {
+            "orgGuid": "58BDBECF-974F-4C5B-A9FB-3F9B7B1CC9F9",
+            "orgName": "Portal do Lago - Porto Nacional TO",
+            "orgType": "CONG",
+            "address": "Quadra Q-01 Lote 18\r\nLoteamento Portal do Lago (Porteira)\r\nLuzimangues\r\nPorto Nacional, TO\r\n77502-000\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(63) 999933264",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "99DFAC39-B701-4E32-8188-389FD5C34CB1",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -10.343199,
+            "longitude": -48.292217
+        },
+        "properties": {
+            "orgGuid": "99DFAC39-B701-4E32-8188-389FD5C34CB1",
+            "orgName": "Taquaralto - Palmas TO",
+            "orgType": "CONG",
+            "address": "Av. Tocantins, Quadra 47, lote 10\r\nTaquaralto\r\nPalmas, TO\r\n77270-580\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(63) 99214-7153 - também ZAP",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "ECDC56C0-45A9-44BA-8044-00BA79EC6D75",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -10.343199,
+            "longitude": -48.292217
+        },
+        "properties": {
+            "orgGuid": "ECDC56C0-45A9-44BA-8044-00BA79EC6D75",
+            "orgName": "Bela Vista - Palmas TO",
+            "orgType": "CONG",
+            "address": "Av. Tocantins, Quadra 47, lote 10\r\nTaquaralto\r\nPalmas, TO\r\n77270-580\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "63)985130728",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "9EBBD1EB-F9C0-45D5-BF43-33B58E7220D2",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -10.314129,
+            "longitude": -48.304043
+        },
+        "properties": {
+            "orgGuid": "9EBBD1EB-F9C0-45D5-BF43-33B58E7220D2",
+            "orgName": "Aureny - Palmas TO",
+            "orgType": "CONG",
+            "address": "R. Belo Horizonte, S/N\r\n(Quadra NW 6, Lote 10)\r\nJardim Aureny 1\r\nPalmas, TO\r\n77060-126\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "63984208022",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "13DDCB21-2AE1-431A-B8C3-1AFDF93FAA3E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -10.314129,
+            "longitude": -48.304043
+        },
+        "properties": {
+            "orgGuid": "13DDCB21-2AE1-431A-B8C3-1AFDF93FAA3E",
+            "orgName": "Novo Horizonte - Palmas TO",
+            "orgType": "CONG",
+            "address": "R. Belo Horizonte, S/N\r\n(Quadra NW 6, Lote 10)\r\nJardim Aureny 1\r\nPalmas, TO\r\n77060-126\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(63) 99961-0744 ou (63) 99256-6121",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "FC5F6FD6-963D-47AD-8101-4DDACA55D262",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -10.256144,
+            "longitude": -48.322741
+        },
+        "properties": {
+            "orgGuid": "FC5F6FD6-963D-47AD-8101-4DDACA55D262",
+            "orgName": "Sudeste - Palmas TO",
+            "orgType": "CONG",
+            "address": "1206 Sul (ARSE 122)\r\nAlameda 06 Lote 09\r\nPlano Diretor Sul\r\nPalmas, TO\r\n77024-467\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "63 992044358",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "32D3E61A-5164-4B3B-B3D7-7E059F4B49B9",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -10.256144,
+            "longitude": -48.322741
+        },
+        "properties": {
+            "orgGuid": "32D3E61A-5164-4B3B-B3D7-7E059F4B49B9",
+            "orgName": "Sul - Palmas TO",
+            "orgType": "CONG",
+            "address": "1206 Sul (ARSE 122)\r\nAlameda 06 Lote 09\r\nPlano Diretor Sul\r\nPalmas, TO\r\n77024-467\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "63 991051969",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "80CE8043-4270-48DA-956F-A57BDE566338",
@@ -5242,9 +9207,279 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "D010FD8F-239A-48AD-AECF-CA2D3BD1392D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -10.208269,
+            "longitude": -48.346547
+        },
+        "properties": {
+            "orgGuid": "D010FD8F-239A-48AD-AECF-CA2D3BD1392D",
+            "orgName": "LS - Palmas TO",
+            "orgType": "CONG",
+            "address": "ARSO 42 QI 16 Alameda 01 Lote 03\r\n(Quadra 405 Sul, Alameda 01)\r\nPlano Diretor Sul\r\nPalmas, TO\r\n77024-467\r\n\r\n",
+            "languageCode": "LSB",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(063)9 99192020",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "83F1F010-375D-404B-9A7E-94E289F6F153",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -10.208269,
+            "longitude": -48.346547
+        },
+        "properties": {
+            "orgGuid": "83F1F010-375D-404B-9A7E-94E289F6F153",
+            "orgName": "Oeste - Palmas TO",
+            "orgType": "CONG",
+            "address": "ARSO 42 QI 16 Alameda 01 Lote 03\r\n(Quadra 405 Sul, Alameda 01)\r\nPlano Diretor Sul\r\nPalmas, TO\r\n77024-467\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "63 984048982",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "F0A25A62-4FF6-453F-94DE-4B63BBCE62EA",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -10.159432,
+            "longitude": -48.342845
+        },
+        "properties": {
+            "orgGuid": "F0A25A62-4FF6-453F-94DE-4B63BBCE62EA",
+            "orgName": "Norte - Palmas TO",
+            "orgType": "CONG",
+            "address": "Qd Arno 42 (405 Norte)\r\nAlameda 09, QC 04, Lote 05\r\nPalmas, TO\r\n77002-017\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "63 991162915",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "E8260D0F-71B0-40BA-A6C9-1BBF15808C61",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -10.159432,
+            "longitude": -48.342845
+        },
+        "properties": {
+            "orgGuid": "E8260D0F-71B0-40BA-A6C9-1BBF15808C61",
+            "orgName": "Noroeste - Palmas TO",
+            "orgType": "CONG",
+            "address": "Qd Arno 42 (405 Norte)\r\nAlameda 09, QC 04, Lote 05\r\nPalmas, TO\r\n77002-017\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(63) 98404-8001",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "494D9A28-D74E-44BC-BB37-5AA3BE8DB221",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -10.179523,
+            "longitude": -48.309903
+        },
+        "properties": {
+            "orgGuid": "494D9A28-D74E-44BC-BB37-5AA3BE8DB221",
+            "orgName": "Central - Palmas TO",
+            "orgType": "CONG",
+            "address": "Quadra ARNE 14, Alameda 7, Lote 10, Loteam. Palmas\r\n(Antiga - 110 Norte, Alameda 7, Lote 38)\r\nCentro\r\nPalmas, TO\r\n77166-330\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "63 98402-8033",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "846B006B-F16B-404E-9CC6-32601600DABF",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -10.179523,
+            "longitude": -48.309903
+        },
+        "properties": {
+            "orgGuid": "846B006B-F16B-404E-9CC6-32601600DABF",
+            "orgName": "Nordeste - Palmas TO",
+            "orgType": "CONG",
+            "address": "Quadra ARNE 14, Alameda 7, Lote 10, Loteam. Palmas\r\n(Antiga - 110 Norte, Alameda 7, Lote 38)\r\nCentro\r\nPalmas, TO\r\n77166-330\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "63984070636",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "96A1253F-3B88-4696-BD32-3E3B67807952",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -10.313113,
+            "longitude": -48.15311
+        },
+        "properties": {
+            "orgGuid": "96A1253F-3B88-4696-BD32-3E3B67807952",
+            "orgName": "Taquaruçu - Palmas TO",
+            "orgType": "CONG",
+            "address": "R. 05\r\nQUADRA 6A,  LOTE 09,\r\nLoteamento Taquaruçu\r\nPalmas, TO\r\n77080-052\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(63) 98400-1480",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "2C3DB136-4885-4F28-9DF4-DFC5F183A44F",
@@ -5280,7 +9515,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5318,7 +9553,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5356,7 +9591,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5394,7 +9629,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5432,7 +9667,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5473,7 +9708,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5514,7 +9749,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5555,7 +9790,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5596,7 +9831,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5634,7 +9869,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5672,7 +9907,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5710,7 +9945,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5748,7 +9983,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5786,7 +10021,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5824,7 +10059,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5862,7 +10097,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5900,7 +10135,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -5938,7 +10173,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     }

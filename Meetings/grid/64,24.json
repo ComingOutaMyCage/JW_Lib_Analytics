@@ -1,5 +1,190 @@
 [
     {
+        "geoId": "0691FB0B-9D49-4D5E-8247-D57883AB4202",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 64.20575,
+            "longitude": 24.06081
+        },
+        "properties": {
+            "orgGuid": "0691FB0B-9D49-4D5E-8247-D57883AB4202",
+            "orgName": "Kalajoki",
+            "orgType": "CONG",
+            "address": "Rautiontie 10\r\n85140 TYNKÄ\r\n",
+            "languageCode": "FI",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "11:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "040 0513002",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "7450BC23-A416-412A-B4B5-91DF1C489911",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 64.06901,
+            "longitude": 24.50457
+        },
+        "properties": {
+            "orgGuid": "7450BC23-A416-412A-B4B5-91DF1C489911",
+            "orgName": "Ylivieska",
+            "orgType": "CONG",
+            "address": "Kanatie 4\n84100 YLIVIESKA\n",
+            "languageCode": "FI",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "11:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "+358&nbsp;449481154",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "D7A8AA7E-151C-496A-B625-47592A4BB4D6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 64.47237,
+            "longitude": 24.2658
+        },
+        "properties": {
+            "orgGuid": "D7A8AA7E-151C-496A-B625-47592A4BB4D6",
+            "orgName": "Pyhäjoki",
+            "orgType": "CONG",
+            "address": "Vanhatie 2\r\n86100 PYHÄJOKI\r\n",
+            "languageCode": "FI",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "11:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "044 046 2603",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "CAE41D03-56E8-4677-B951-F77CFE4C9D2B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 64.26958,
+            "longitude": 24.84192
+        },
+        "properties": {
+            "orgGuid": "CAE41D03-56E8-4677-B951-F77CFE4C9D2B",
+            "orgName": "Oulainen",
+            "orgType": "CONG",
+            "address": "Hakakatu 2\n86300 OULAINEN\n",
+            "languageCode": "FI",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "11:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "044 043 1435",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "8F893AF3-1397-46B9-9A12-02F46441C26F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 64.67292,
+            "longitude": 24.49881
+        },
+        "properties": {
+            "orgGuid": "8F893AF3-1397-46B9-9A12-02F46441C26F",
+            "orgName": "Raahe",
+            "orgType": "CONG",
+            "address": "Mettalanmäki, Vanha Valtatie 3\r\n92150 RAAHE\r\n",
+            "languageCode": "FI",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "11:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "+358 50 368 8378",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
         "geoId": "489F57CA-6324-4DA0-88B8-9BFA01B7E455",
         "type": "weekly",
         "isPrimary": true,
@@ -33,7 +218,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -71,7 +256,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -109,7 +294,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -147,7 +332,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -185,7 +370,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -223,7 +408,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -261,7 +446,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -310,7 +495,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -348,7 +533,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -400,7 +585,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -441,7 +626,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -493,7 +678,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -531,7 +716,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -569,9 +754,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "CB361567-A111-4DC8-B61F-7A5D9502AEC8",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 66.82575,
+            "longitude": 24.00261
+        },
+        "properties": {
+            "orgGuid": "CB361567-A111-4DC8-B61F-7A5D9502AEC8",
+            "orgName": "Pello",
+            "orgType": "CONG",
+            "address": "Kolarintie 30\n95700 PELLO\n",
+            "languageCode": "FI",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "11:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0407090654",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "E0EF7738-A7B4-4334-B515-CEB309972B8E",
@@ -607,9 +829,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "2078DA18-8FBF-42BC-9A15-A1EAB6092B75",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 67.067132,
+            "longitude": 24.023237
+        },
+        "properties": {
+            "orgGuid": "2078DA18-8FBF-42BC-9A15-A1EAB6092B75",
+            "orgName": "Kolari",
+            "orgType": "CONG",
+            "address": "Pellontie 323 C, Sammalvaara\r\n95900 KOLARI\r\n",
+            "languageCode": "FI",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "12:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "044 534 5647",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "22D0A272-8BD9-468F-8364-F64249D2E85E",
@@ -645,9 +904,83 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "598A3C5C-E3D1-4837-BE7F-C2EEA009C21D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 64.22433,
+            "longitude": 27.69572
+        },
+        "properties": {
+            "orgGuid": "598A3C5C-E3D1-4837-BE7F-C2EEA009C21D",
+            "orgName": "Kajaani",
+            "orgType": "CONG",
+            "address": "Niittykatu 13\n87150 KAJAANI\n",
+            "languageCode": "FI",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "11:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "050 511 8195",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "11CFA299-DBCB-42D6-9E5E-47B423724758",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 64.40406,
+            "longitude": 27.82311
+        },
+        "properties": {
+            "orgGuid": "11CFA299-DBCB-42D6-9E5E-47B423724758",
+            "orgName": "Paltamo",
+            "orgType": "CONG",
+            "address": "Oravapolku 1\n88300 PALTAMO\n",
+            "languageCode": "FI",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "11:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0400383195",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "FBDF1FBC-8F44-4229-B9C0-0366B8F5FA4C",
@@ -686,7 +1019,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -724,7 +1057,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -765,7 +1098,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -803,7 +1136,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -841,7 +1174,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -879,7 +1212,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -917,7 +1250,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -955,7 +1288,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -993,7 +1326,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1034,7 +1367,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1072,7 +1405,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1114,7 +1447,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1152,7 +1485,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1190,7 +1523,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1228,7 +1561,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1266,7 +1599,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1304,7 +1637,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1342,7 +1675,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     }

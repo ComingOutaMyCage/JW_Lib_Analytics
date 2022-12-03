@@ -1,5 +1,253 @@
 [
     {
+        "geoId": "8B5BA66C-B92A-47BC-9CB3-2F4E7277A1A6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.411154,
+            "longitude": 144.24279
+        },
+        "properties": {
+            "orgGuid": "8B5BA66C-B92A-47BC-9CB3-2F4E7277A1A6",
+            "orgName": "Kikori Hiri Motu Congregation",
+            "orgType": "CONG",
+            "address": "Portion 15 Section 9\r\nKikori\r\nKEREMA  GP\r\n",
+            "transliteratedAddress": "Kikori\r\nKEREMA  GP\r\n",
+            "languageCode": "MO",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "04:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "John Paikari- 73097981",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "5F76B0E1-BFE4-405C-83F1-4824736D3BEB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.228777,
+            "longitude": 144.229048
+        },
+        "properties": {
+            "orgGuid": "5F76B0E1-BFE4-405C-83F1-4824736D3BEB",
+            "orgName": "Kaparau Hiri Motu Congregation",
+            "orgType": "CONG",
+            "address": "Kaparau Village\r\nKikori\r\nKaparau\r\nKEREMA  GP\r\n",
+            "transliteratedAddress": "Kaparau\r\nKEREMA  GP\r\n",
+            "languageCode": "MO",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "09:00"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "21713BA0-A03A-4891-A1B2-2C450C99ED6D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -6.976355,
+            "longitude": 144.304427
+        },
+        "properties": {
+            "orgGuid": "21713BA0-A03A-4891-A1B2-2C450C99ED6D",
+            "orgName": "Omo Hiri Motu Isolated Group",
+            "orgType": "CONG",
+            "address": "Omo Village\r\nOmo\r\nKEREMA  GP\r\n",
+            "transliteratedAddress": "Omo\r\nKEREMA  GP\r\n",
+            "languageCode": "MO",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "09:00"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "C53E424A-C5FB-4FD7-8B63-AD3773EFDEF6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.964779,
+            "longitude": 145.776607
+        },
+        "properties": {
+            "orgGuid": "C53E424A-C5FB-4FD7-8B63-AD3773EFDEF6",
+            "orgName": "Kerema Congregation",
+            "orgType": "CONG",
+            "address": "Portion 19& 20 Section 13\r\nVivian Hwy\r\nKerema\r\nKEREMA  GP\r\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 7,
+                        "time": "11:15"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "73316569",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "2E4EFDEB-BC2A-44D4-80AE-D556F2951723",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.920235,
+            "longitude": 145.7966
+        },
+        "properties": {
+            "orgGuid": "2E4EFDEB-BC2A-44D4-80AE-D556F2951723",
+            "orgName": "Murua Tok Pisin Isolated Group",
+            "orgType": "CONG",
+            "address": "Murua Isolated Group\r\nKEREMA  GP\r\n",
+            "transliteratedAddress": "Murua\r\nKEREMA  GP\r\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "15:00"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "14FC9375-7D92-4DB6-A339-0D907D78A60A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -5.8558,
+            "longitude": 144.242
+        },
+        "properties": {
+            "orgGuid": "14FC9375-7D92-4DB6-A339-0D907D78A60A",
+            "orgName": "Mt. Hagen Congregation",
+            "orgType": "CONG",
+            "address": "Lot 29 Section 39\nMunga St\nMT HAGEN  WHP\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "16:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "74284715",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "523BB4C7-3FB2-427D-AD14-134B9B1567EE",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -5.808725,
+            "longitude": 144.301762
+        },
+        "properties": {
+            "orgGuid": "523BB4C7-3FB2-427D-AD14-134B9B1567EE",
+            "orgName": "Kagamuga Congregation",
+            "orgType": "CONG",
+            "address": "Kagamuga Airport Village\nKagamuga\nMT HAGEN  WHP\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 7,
+                        "time": "11:15"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "James Mange",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
         "geoId": "B744999F-5E82-44E6-A4FC-B74BBCEC0DDC",
         "type": "weekly",
         "isPrimary": true,
@@ -28,7 +276,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -67,7 +315,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -105,7 +353,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -143,7 +391,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -177,7 +425,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -215,7 +463,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -254,7 +502,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -292,9 +540,47 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "78A281B3-310F-4907-B88B-C835E28E93AB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -5.668295,
+            "longitude": 144.687663
+        },
+        "properties": {
+            "orgGuid": "78A281B3-310F-4907-B88B-C835E28E93AB",
+            "orgName": "Karap Jiwaka Congregation",
+            "orgType": "CONG",
+            "address": "Karap\r\nBANZ  Jwk P\r\n",
+            "transliteratedAddress": "Karap\r\nBANZ  Jwk P\r\n",
+            "languageCode": "JWK",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 7,
+                        "time": "12:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "Daniel Kolip - 70701227",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "5E633C8A-B598-40FA-9EC8-14BE5CF4A6B3",
@@ -331,7 +617,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -369,7 +655,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -407,9 +693,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "BA19C5DA-F5C3-4CBE-8AEC-00630645657E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.189,
+            "longitude": 146.6411
+        },
+        "properties": {
+            "orgGuid": "BA19C5DA-F5C3-4CBE-8AEC-00630645657E",
+            "orgName": "Bulolo Congregation",
+            "orgType": "CONG",
+            "address": "Portion 346\nBULOLO  MP\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "474 5024",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "D8A95A88-D552-4B5B-862C-02127A1D8076",
@@ -445,7 +768,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -483,9 +806,74 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "901B2B40-70C7-47A6-90C3-FC32E5F5DA27",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.060408,
+            "longitude": 146.917272
+        },
+        "properties": {
+            "orgGuid": "901B2B40-70C7-47A6-90C3-FC32E5F5DA27",
+            "orgName": "Hote Congregation",
+            "orgType": "CONG",
+            "address": "Hote\r\nLAE  MP\r\n",
+            "transliteratedAddress": "Hote\r\nLAE  MP\r\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 7,
+                        "time": "10:45"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "AC7C7109-2093-4F36-8A2F-B06AD5DC98CD",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -4.281722,
+            "longitude": 144.144943
+        },
+        "properties": {
+            "orgGuid": "AC7C7109-2093-4F36-8A2F-B06AD5DC98CD",
+            "orgName": "Kambot Isolated Group",
+            "orgType": "CONG",
+            "address": "Kambot Village\nWEWAK  ESP\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 7,
+                        "time": "11:00"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "3DC62AC1-7B64-435E-B8D9-ECEB0DACB0FD",
@@ -516,7 +904,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -555,9 +943,223 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "82DE59F1-8478-462A-9404-214D7E6A18E7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -6.716454,
+            "longitude": 146.982807
+        },
+        "properties": {
+            "orgGuid": "82DE59F1-8478-462A-9404-214D7E6A18E7",
+            "orgName": "Lae East Congregation",
+            "orgType": "CONG",
+            "address": "Lot 6 Section 92\nLAE  MP\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "77C52DDB-272A-4390-9BBB-EB584356C53B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -6.716454,
+            "longitude": 146.982807
+        },
+        "properties": {
+            "orgGuid": "77C52DDB-272A-4390-9BBB-EB584356C53B",
+            "orgName": "Lae West Congregation",
+            "orgType": "CONG",
+            "address": "Lot 6 Section 92\nLAE  MP\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "162BDCF6-626A-4BB1-A4D7-D61E30835BFA",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -6.682291,
+            "longitude": 146.988657
+        },
+        "properties": {
+            "orgGuid": "162BDCF6-626A-4BB1-A4D7-D61E30835BFA",
+            "orgName": "Taraka Congregation",
+            "orgType": "CONG",
+            "address": "Portion 557C & 556C\r\nIndependence Drive\r\nLAE  MP\r\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 6,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "+675 75994651 / +675 74764263",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "445078E7-1564-41C3-A268-6D31E6A6F1D0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -6.682291,
+            "longitude": 146.988657
+        },
+        "properties": {
+            "orgGuid": "445078E7-1564-41C3-A268-6D31E6A6F1D0",
+            "orgName": "Taraka English Group - Taraka Congregation",
+            "orgType": "GROUP",
+            "address": "Portion 557C & 556C\r\nIndependence Drive\r\nLAE  MP\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "14:00"
+                    },
+                    "midweek": {
+                        "weekday": null,
+                        "time": null
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "MP"
+            ],
+            "phones": [
+                {
+                    "phone": "+675 75994651 / +675 74764263",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "95F3F34D-5282-4A14-B3D5-D4915740BB63",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -6.638792,
+            "longitude": 147.009181
+        },
+        "properties": {
+            "orgGuid": "95F3F34D-5282-4A14-B3D5-D4915740BB63",
+            "orgName": "Bumayong Congregation",
+            "orgType": "CONG",
+            "address": "Bumayong\r\nLAE  MP\r\n",
+            "transliteratedAddress": "Bumayong\r\nLAE  MP\r\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 7,
+                        "time": "11:30"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "45E46317-BB97-4C2D-8DCA-2D92076E51FE",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -4.429977,
+            "longitude": 144.824171
+        },
+        "properties": {
+            "orgGuid": "45E46317-BB97-4C2D-8DCA-2D92076E51FE",
+            "orgName": "Amber Congregation",
+            "orgType": "CONG",
+            "address": "Amber Village\r\nIkoukes\r\nMADANG  Mdg P\r\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 6,
+                        "time": "09:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "71572620",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "750B1DF9-D438-4180-8910-E245A220F2A6",
@@ -593,7 +1195,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -631,7 +1233,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -669,7 +1271,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -708,9 +1310,42 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "B9A1401B-75A9-4AC7-8F0A-429E59F7DE62",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -4.390219,
+            "longitude": 145.271302
+        },
+        "properties": {
+            "orgGuid": "B9A1401B-75A9-4AC7-8F0A-429E59F7DE62",
+            "orgName": "Busip Congregation",
+            "orgType": "CONG",
+            "address": "Busip\r\nMADANG  Mdg P\r\n",
+            "transliteratedAddress": "Busip\r\nMADANG  Mdg P\r\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 6,
+                        "time": "16:00"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "64E556F6-AC8E-4BB2-B3A2-8C19840605BD",
@@ -742,9 +1377,80 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "56F6A839-4D83-44A8-92C9-41AE71ECE650",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -6.514247,
+            "longitude": 147.471657
+        },
+        "properties": {
+            "orgGuid": "56F6A839-4D83-44A8-92C9-41AE71ECE650",
+            "orgName": "Ebabang Isolated Group",
+            "orgType": "CONG",
+            "address": "Ebabang\r\nLAE  MP\r\n",
+            "transliteratedAddress": "Ebabang\r\nLAE  MP\r\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 7,
+                        "time": "10:45"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "88DA6110-FC8C-4849-821A-0C6E0054D3B0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -6.383858,
+            "longitude": 147.368775
+        },
+        "properties": {
+            "orgGuid": "88DA6110-FC8C-4849-821A-0C6E0054D3B0",
+            "orgName": "Lengbati Congregation",
+            "orgType": "CONG",
+            "address": "Lengbati Village\r\nLengbati\r\nLAE  MP\r\n",
+            "transliteratedAddress": "Lengbati\r\nLAE  MP\r\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 7,
+                        "time": "11:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "Sondik Viang -73154789 or 70695433",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "93E83CE9-B077-483A-9C9C-F731D542366E",
@@ -780,7 +1486,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -818,7 +1524,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -857,7 +1563,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -895,7 +1601,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -933,7 +1639,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -971,7 +1677,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1010,7 +1716,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1044,7 +1750,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1082,7 +1788,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1120,7 +1826,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1158,7 +1864,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1192,7 +1898,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1231,7 +1937,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1265,7 +1971,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1304,7 +2010,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     }

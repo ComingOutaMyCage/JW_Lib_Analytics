@@ -33,7 +33,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -71,7 +71,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -109,9 +109,211 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "621E00BE-CD43-42ED-A916-461FFB668344",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.078208,
+            "longitude": -9.53874
+        },
+        "properties": {
+            "orgGuid": "621E00BE-CD43-42ED-A916-461FFB668344",
+            "orgName": "Killarney",
+            "orgType": "CONG",
+            "address": "Kingdom Hall of Jehovah's Witnesses\r\nCahir\r\nAghadoe\r\nKILLARNEY\r\nV93 YC52\r\nREPUBLIC OF IRELAND\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "P",
+                "U"
+            ],
+            "phones": [
+                {
+                    "phone": "0876242914",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "2DD722AF-0A5B-4457-9A37-E42032209C8C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.078208,
+            "longitude": -9.53874
+        },
+        "properties": {
+            "orgGuid": "2DD722AF-0A5B-4457-9A37-E42032209C8C",
+            "orgName": "Macroom",
+            "orgType": "CONG",
+            "address": "Kingdom Hall of Jehovah's Witnesses\r\nCahir\r\nAghadoe\r\nKILLARNEY\r\nV93 YC52\r\nREPUBLIC OF IRELAND\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "14:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "GC"
+            ],
+            "phones": [
+                {
+                    "phone": "+353&nbsp;85 128 7770",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "02D840B6-3878-4F81-B41F-053B849155C6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.078208,
+            "longitude": -9.53874
+        },
+        "properties": {
+            "orgGuid": "02D840B6-3878-4F81-B41F-053B849155C6",
+            "orgName": "Macroom Irish Group - Macroom",
+            "orgType": "GROUP",
+            "address": "Kingdom Hall of Jehovah's Witnesses\r\nCahir\r\nAghadoe\r\nKILLARNEY\r\nV93 YC52\r\nREPUBLIC OF IRELAND\r\n",
+            "languageCode": "GC",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": null,
+                        "time": null
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "+353&nbsp;85 128 7770",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "9C5D8AF8-7722-4AA6-B5F9-034C65E09867",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.078208,
+            "longitude": -9.53874
+        },
+        "properties": {
+            "orgGuid": "9C5D8AF8-7722-4AA6-B5F9-034C65E09867",
+            "orgName": "Killarney Russian Group - Killarney",
+            "orgType": "GROUP",
+            "address": "Kingdom Hall of Jehovah's Witnesses\r\nCahir\r\nAghadoe\r\nKILLARNEY\r\nV93 YC52\r\nREPUBLIC OF IRELAND\r\n",
+            "languageCode": "U",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "0876242914",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "4BE8D473-1421-4E55-8E16-20A24FABAE64",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.28281,
+            "longitude": -9.666933
+        },
+        "properties": {
+            "orgGuid": "4BE8D473-1421-4E55-8E16-20A24FABAE64",
+            "orgName": "Tralee",
+            "orgType": "CONG",
+            "address": "Kingdom Hall of Jehovah's Witnesses\r\nBallybeggan\r\nTRALEE\r\nV92 YX01\r\nREPUBLIC OF IRELAND\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "GC",
+                "U"
+            ],
+            "phones": [
+                {
+                    "phone": "087 3295942",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "D28A121F-72A1-4DC8-B2D2-3528A03468F1",
@@ -147,7 +349,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -185,7 +387,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -223,7 +425,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -261,7 +463,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -299,7 +501,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -348,7 +550,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -386,7 +588,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -424,9 +626,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "B7FA5448-7173-4519-AAAC-5D1DDD428163",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.48821,
+            "longitude": -9.999721
+        },
+        "properties": {
+            "orgGuid": "B7FA5448-7173-4519-AAAC-5D1DDD428163",
+            "orgName": "Clifden",
+            "orgType": "CONG",
+            "address": "Mal Dua\r\nGalway Road\r\nCLIFDEN\r\nH71 ER24\r\nREPUBLIC OF IRELAND\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0876400519",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "D56695D5-F3FD-4646-B5AF-A1C87704C71A",
@@ -462,7 +701,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -500,9 +739,89 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "48CA6D4B-95F2-4119-9646-A4E349E69649",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.109456,
+            "longitude": -8.279041
+        },
+        "properties": {
+            "orgGuid": "48CA6D4B-95F2-4119-9646-A4E349E69649",
+            "orgName": "Fermoy",
+            "orgType": "CONG",
+            "address": "Kingdom Hall of Jehovah's Witnesses\r\nCorrin Hill\r\n(near Golf Club)\r\nFERMOY\r\nP61 C971\r\nREPUBLIC OF IRELAND\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "PTG"
+            ],
+            "phones": [
+                {
+                    "phone": "0892531309",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "25EB3BB5-9235-427E-8D4C-F9EB906CB57E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.109456,
+            "longitude": -8.279041
+        },
+        "properties": {
+            "orgGuid": "25EB3BB5-9235-427E-8D4C-F9EB906CB57E",
+            "orgName": "Fermoy Portuguese Group - Fermoy",
+            "orgType": "GROUP",
+            "address": "Kingdom Hall of Jehovah's Witnesses\r\nCorrin Hill\r\n(near Golf Club)\r\nFERMOY\r\nP61 C971\r\nREPUBLIC OF IRELAND\r\n",
+            "languageCode": "PTG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "0892531309",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "13F1E85B-90C7-4051-8756-876DD9412BC0",
@@ -541,7 +860,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -582,7 +901,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -623,7 +942,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -664,7 +983,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -702,7 +1021,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -740,7 +1059,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -781,7 +1100,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -822,7 +1141,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -863,7 +1182,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -901,7 +1220,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -942,7 +1261,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -980,7 +1299,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1018,7 +1337,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1059,7 +1378,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1097,7 +1416,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1135,7 +1454,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1173,7 +1492,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1211,7 +1530,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1249,7 +1568,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1287,9 +1606,83 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "D86C9204-24FE-4419-945E-E124453257DF",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.631057,
+            "longitude": -8.197251
+        },
+        "properties": {
+            "orgGuid": "D86C9204-24FE-4419-945E-E124453257DF",
+            "orgName": "Roscommon",
+            "orgType": "CONG",
+            "address": "Kingdom Hall of Jehovah's Witnesses\r\nLough Road\r\nROSCOMMON\r\nF42 HX23\r\nREPUBLIC OF IRELAND\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0872291931",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "8812063B-E122-476B-8369-331E2F60AFD7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.973497,
+            "longitude": -8.303897
+        },
+        "properties": {
+            "orgGuid": "8812063B-E122-476B-8369-331E2F60AFD7",
+            "orgName": "Boyle",
+            "orgType": "CONG",
+            "address": "Kingdom Hall of Jehovah's Witnesses\r\nGreen Street\r\nBOYLE\r\nF52 C528\r\nREPUBLIC OF IRELAND\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "+353 85 855 1551",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "EE66FD22-F2A8-4B16-9578-4671911B6558",
@@ -1329,7 +1722,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1370,7 +1763,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1411,7 +1804,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1449,7 +1842,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     }

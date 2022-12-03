@@ -36,7 +36,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -74,7 +74,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -112,7 +112,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -150,7 +150,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -188,7 +188,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -226,7 +226,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -267,7 +267,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -308,7 +308,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -346,7 +346,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -384,7 +384,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -422,9 +422,120 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "31663D58-6549-4664-98BC-540B7444AA7F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 6.959527,
+            "longitude": -71.870954
+        },
+        "properties": {
+            "orgGuid": "31663D58-6549-4664-98BC-540B7444AA7F",
+            "orgName": "VILLAS DE SAN LUIS - SARAVENA ARC",
+            "orgType": "CONG",
+            "address": "Cr. 9 # 26-55\r\nBrr. San Luis\r\nSARAVENA, ARAUCA\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "18:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "3104285652",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "A65F009E-6527-45D6-A28F-F912DC7FEF45",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 6.959527,
+            "longitude": -71.870954
+        },
+        "properties": {
+            "orgGuid": "A65F009E-6527-45D6-A28F-F912DC7FEF45",
+            "orgName": "CUBARÁ - SARAVENA ARC - VILLAS DE SAN LUIS - SARAVENA ARC",
+            "orgType": "GROUP",
+            "address": "Cr. 9 # 26-55\r\nBrr. San Luis\r\nSARAVENA, ARAUCA\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "06:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "3104285652",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "E7E024D2-5B27-491B-B2E2-0E51E6FF5523",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 6.959527,
+            "longitude": -71.870954
+        },
+        "properties": {
+            "orgGuid": "E7E024D2-5B27-491B-B2E2-0E51E6FF5523",
+            "orgName": "BRISAS DEL LLANO - SARAVENA ARC",
+            "orgType": "CONG",
+            "address": "Cr. 9 # 26-55\r\nBrr. San Luis\r\nSARAVENA, ARAUCA\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "3133091657",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "31A3E027-58E7-4D0E-8027-9D36A53BEAA7",
@@ -460,7 +571,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -498,9 +609,122 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "CC406A1A-7BEF-4FF6-AC12-E7F8BCEBDA45",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.275279,
+            "longitude": -71.920757
+        },
+        "properties": {
+            "orgGuid": "CC406A1A-7BEF-4FF6-AC12-E7F8BCEBDA45",
+            "orgName": "El Nula, Apu.",
+            "orgType": "CONG",
+            "address": "Calle ppal. del barrio las palmas\r\nDos cuadras despues de la escuela especial\r\nSubiendo hacia el CDI\r\nEl Nula\r\nAPU\r\n",
+            "transliteratedAddress": "Calle ppal. del barrio las palmas\r\nDos cuadras despues de la escuela especial\r\nSubiendo hacia el CDI\r\nEl Nula\r\nAPU\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "08:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "17:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "04247279231",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "3A9DC2F9-6DBC-4D5B-83B6-BC7E81268191",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.53247,
+            "longitude": -71.95789
+        },
+        "properties": {
+            "orgGuid": "3A9DC2F9-6DBC-4D5B-83B6-BC7E81268191",
+            "orgName": "Central, El Piñal, Tác.",
+            "orgType": "CONG",
+            "address": "Carrera 9, Calle 1\r\nUrb. Guadalupe\r\nEl Piñal\r\nTAC\r\n",
+            "transliteratedAddress": "Carrera 9, Calle 1\r\nUrb. Guadalupe\r\nEl Piñal\r\nTAC\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "16:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "04127751924",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B92C3815-95EA-4FF5-9AD5-4CF55C063B9E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.031408,
+            "longitude": -71.436979
+        },
+        "properties": {
+            "orgGuid": "B92C3815-95EA-4FF5-9AD5-4CF55C063B9E",
+            "orgName": "La Victoria, Apu.",
+            "orgType": "CONG",
+            "address": "Calle 4 Diagonal a La plaza Bolívar\r\nBarrio 5 de Julio\r\nLa Victoria\r\nAPU\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "O4126583666",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": true
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "47DF569E-0242-44AF-AA6F-B754D02294C7",
@@ -536,9 +760,79 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "F493D2BE-BF46-4D6F-8E72-50475F3B12B0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.634955,
+            "longitude": -71.979979
+        },
+        "properties": {
+            "orgGuid": "F493D2BE-BF46-4D6F-8E72-50475F3B12B0",
+            "orgName": "El Pabellón, Tác.",
+            "orgType": "CONG",
+            "address": "Calle 3, Gamez\r\nSector Santa María, Km. 8\r\nEl Pabellón\r\nTAC\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": true
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "ADB4F324-86F0-4A19-8207-DB1612372C82",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.553945,
+            "longitude": -71.696077
+        },
+        "properties": {
+            "orgGuid": "ADB4F324-86F0-4A19-8207-DB1612372C82",
+            "orgName": "El Milagro, Tác.",
+            "orgType": "CONG",
+            "address": "Troncal 05, El Milagro, Sector Calle el Lago\r\nEl Milagro\r\nTAC\r\n",
+            "transliteratedAddress": "7.553970 -71.696110\r\nEl Milagro\r\nTAC\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "08:30"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "04247433067",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "822AFD2B-1586-4774-9BC5-54F3572A9B7D",
@@ -574,7 +868,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -612,7 +906,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -650,9 +944,47 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "9BACA494-D394-4C41-8BD2-C5FF9B8740A6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.622427,
+            "longitude": -71.506879
+        },
+        "properties": {
+            "orgGuid": "9BACA494-D394-4C41-8BD2-C5FF9B8740A6",
+            "orgName": "Abejales, Tác.",
+            "orgType": "CONG",
+            "address": "Carrera 5, entre Calles 1 y 2,\r\nBarrio Bella Vista.\r\nAbejales\r\nTAC\r\n",
+            "transliteratedAddress": "Carrera 5, entre Calles 1 y 2,\r\nBarrio Bella Vista.\r\nAbejales\r\nTAC\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "04168774124",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "EB2A366F-932D-4F3D-B1B7-4BC5F7A0D883",
@@ -689,7 +1021,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -727,7 +1059,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -765,7 +1097,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -803,9 +1135,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "1E6B1CDD-F38C-4975-A00D-1889A4FF78D6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 4.02529,
+            "longitude": -67.68591
+        },
+        "properties": {
+            "orgGuid": "1E6B1CDD-F38C-4975-A00D-1889A4FF78D6",
+            "orgName": "San Fernando de Atabapo, Ama.",
+            "orgType": "CONG",
+            "address": "San Fernando de Atabapo\nAMA\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "16:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "04160149039",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": true
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "D6F2B87E-EC62-40CE-90B8-8280174B94AD",
@@ -842,7 +1211,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -881,7 +1250,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -920,9 +1289,84 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "9D374FF7-2110-49A5-973A-BE3F4157CDA8",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.81203,
+            "longitude": -71.177041
+        },
+        "properties": {
+            "orgGuid": "9D374FF7-2110-49A5-973A-BE3F4157CDA8",
+            "orgName": "Santa Bárbara de Barinas, Bar.",
+            "orgType": "CONG",
+            "address": "Calle 13, entre Carrera 6 y 8,\r\ndetrás del Liceo, Carlos del Pozo y Sucre\r\nSanta Bárbara de Barinas\r\nBAR\r\n",
+            "transliteratedAddress": "Calle 13, entre Carrera 6 y 8,\r\ndetrás del Liceo, Carlos del Pozo y Sucre\r\nSanta Bárbara de Barinas\r\nBAR\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "04247351731",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "48678045-4F79-4E44-A29C-CDE19B7EC1A7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 5.068067,
+            "longitude": -67.813236
+        },
+        "properties": {
+            "orgGuid": "48678045-4F79-4E44-A29C-CDE19B7EC1A7",
+            "orgName": "Isla Ratón, Ama.",
+            "orgType": "CONG",
+            "address": "Comunidad El Carmen de Ratón\r\nEsquina polideportivo.\r\nIsla Ratón\r\nAMA\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "05:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "05:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "NA",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "1512FC5D-BEC7-49E9-B507-FB4F4EABF378",
@@ -959,7 +1403,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -998,7 +1442,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1036,7 +1480,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1075,7 +1519,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1114,7 +1558,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1153,7 +1597,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1192,7 +1636,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1231,7 +1675,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1264,7 +1708,7 @@
             "phones": [],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1303,7 +1747,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1340,7 +1784,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1378,7 +1822,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1411,9 +1855,47 @@
             "phones": [],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "B436DCA1-B025-4B83-9AB5-EF79A48622B6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.564128,
+            "longitude": -69.154361
+        },
+        "properties": {
+            "orgGuid": "B436DCA1-B025-4B83-9AB5-EF79A48622B6",
+            "orgName": "Mantecal, Apu.",
+            "orgType": "CONG",
+            "address": "Barrio El Mamón, Calle el Mamón c/c\r\nPalma.\r\nMantecal\r\nAPU\r\n",
+            "transliteratedAddress": "Barrio El Mamón, Calle el Mamón c/c\r\nPalma.\r\nMantecal\r\nAPU\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "17:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:15"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "04243696045",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "567DE3AB-0E6E-4B7E-B8F4-0CA352F4B96C",
@@ -1449,7 +1931,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1482,7 +1964,7 @@
             "phones": [],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1520,9 +2002,84 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "AA1A1B1C-F144-453E-9530-0C00818B6D97",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.914325,
+            "longitude": -68.698483
+        },
+        "properties": {
+            "orgGuid": "AA1A1B1C-F144-453E-9530-0C00818B6D97",
+            "orgName": "El Samán de Apure, Apu. - Achaguas, Apu.",
+            "orgType": "GROUP",
+            "address": "Calle La Manga\r\nUrb. José Antonio Salazar\r\nEl Samán de Apure\r\nAPU\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "08:45"
+                    },
+                    "midweek": {
+                        "weekday": 7,
+                        "time": "10:45"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0412-1136182",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": true
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "9FE8887C-5641-4939-9E6E-AE05AC0E6D05",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.792038,
+            "longitude": -68.224162
+        },
+        "properties": {
+            "orgGuid": "9FE8887C-5641-4939-9E6E-AE05AC0E6D05",
+            "orgName": "Achaguas, Apu.",
+            "orgType": "CONG",
+            "address": "Calle Principal,\r\nBarrio Zapaterito.\r\nAchaguas\r\nAPU\r\n",
+            "transliteratedAddress": "Calle Principal,\r\nBarrio Zapaterito.\r\nAchaguas\r\nAPU\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "17:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0412-1136182",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "9B5B292B-2F7A-4F38-8F45-02A1DF3C0C59",
@@ -1563,7 +2120,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1605,9 +2162,84 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "8EDDBBE3-C3D4-479D-97FE-754868320BD5",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.3691,
+            "longitude": -67.41085
+        },
+        "properties": {
+            "orgGuid": "8EDDBBE3-C3D4-479D-97FE-754868320BD5",
+            "orgName": "Cunaviche, Apu.",
+            "orgType": "CONG",
+            "address": "Av. Sucre c/c Negro Primero\r\nCunaviche\r\nAPU\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "16:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "04264304516",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": true
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "2725426F-4C67-4BB2-BB57-52B607B8AE4F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.648989,
+            "longitude": -67.603447
+        },
+        "properties": {
+            "orgGuid": "2725426F-4C67-4BB2-BB57-52B607B8AE4F",
+            "orgName": "Payara, Apu.",
+            "orgType": "CONG",
+            "address": "Calle Melquiades Caraballo c/c\r\nCalle Pablo Loggiodice\r\nPayara\r\nAPU\r\n",
+            "transliteratedAddress": "Calle Melquiades Caraballo c/c\r\nCalle Pablo Loggiodice\r\nPayara\r\nAPU\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0247-5590258",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": true
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "C7BB9A93-AA11-467D-9715-D0A9C80CAAF5",
@@ -1643,9 +2275,200 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "B37594EE-7041-4014-9571-D46B889C8F1E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.845523,
+            "longitude": -67.517336
+        },
+        "properties": {
+            "orgGuid": "B37594EE-7041-4014-9571-D46B889C8F1E",
+            "orgName": "Biruaca, Apu.",
+            "orgType": "CONG",
+            "address": "2da. Calle, entre 6ta.\r\ny 7ma. Transversal.\r\nBiruaca\r\nAPU\r\n",
+            "transliteratedAddress": "2da. Calle, entre 6ta.\r\ny 7ma. Transversal.\r\nBiruaca\r\nAPU\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "08:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "04163418956",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "EFD8E44A-B01A-421D-B974-9FC2AA8F890B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.861337,
+            "longitude": -67.479056
+        },
+        "properties": {
+            "orgGuid": "EFD8E44A-B01A-421D-B974-9FC2AA8F890B",
+            "orgName": "Polideportivo, San Fernando de Apure, Apu.",
+            "orgType": "CONG",
+            "address": "Barrio Santa Teresa con Andrea Santa María\r\nMunicipio San Fernando de Apure\r\nSan Fernando de Apure\r\nAPU\r\n",
+            "transliteratedAddress": "Barrio Santa Teresa con Andrea Santa María\r\nMunicipio San Fernando de Apure\r\nSan Fernando de Apure\r\nAPU\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "08:45"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "16:30"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "30FDB8A3-927C-4681-A19B-7E9BEA1EA334",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.861337,
+            "longitude": -67.479056
+        },
+        "properties": {
+            "orgGuid": "30FDB8A3-927C-4681-A19B-7E9BEA1EA334",
+            "orgName": "Los Cedros, San Fernando de Apure, Apu.",
+            "orgType": "CONG",
+            "address": "Barrio Santa Teresa con Andrea Santa María\r\nMunicipio San Fernando de Apure\r\nSan Fernando de Apure\r\nAPU\r\n",
+            "transliteratedAddress": "Barrio Santa Teresa con Andrea Santa María\r\nMunicipio San Fernando de Apure\r\nSan Fernando de Apure\r\nAPU\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "08:45"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "LSV"
+            ],
+            "phones": [
+                {
+                    "phone": "04261492168",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B23195FA-58EB-467A-94DA-CF97E7F455D2",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.861337,
+            "longitude": -67.479056
+        },
+        "properties": {
+            "orgGuid": "B23195FA-58EB-467A-94DA-CF97E7F455D2",
+            "orgName": "LS, San Fernando de Apure, Apu. - Los Cedros, San Fernando de Apure, Apu.",
+            "orgType": "GROUP",
+            "address": "Barrio Santa Teresa con Andrea Santa María\r\nMunicipio San Fernando de Apure\r\nSan Fernando de Apure\r\nAPU\r\n",
+            "transliteratedAddress": "Barrio Santa Teresa con Andrea Santa María\r\nMunicipio San Fernando de Apure\r\nSan Fernando de Apure\r\nAPU\r\n",
+            "languageCode": "LSV",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "08:45"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "S"
+            ],
+            "phones": [
+                {
+                    "phone": "04261492168",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "EB72448B-BB3F-42E4-B914-6567857ECEAE",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.861737,
+            "longitude": -67.430259
+        },
+        "properties": {
+            "orgGuid": "EB72448B-BB3F-42E4-B914-6567857ECEAE",
+            "orgName": "El Recreo, Apu.",
+            "orgType": "CONG",
+            "address": "Calle Indio Figueredo, Sector 2\r\nEl Recreo\r\nSan Fernando de Apure\r\nAPU\r\n",
+            "transliteratedAddress": "Calle Indio Figueredo, Sector 2\r\nEl Recreo\r\nSan Fernando de Apure\r\nAPU\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "04127603936",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "9098A80A-479E-4646-BC89-633B7CEB8782",
@@ -1681,7 +2504,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1715,7 +2538,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1757,7 +2580,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1796,8 +2619,154 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "C923F66E-EF3C-49BE-B96B-E6BF8D779BE2",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.46486,
+            "longitude": -64.7847
+        },
+        "properties": {
+            "orgGuid": "C923F66E-EF3C-49BE-B96B-E6BF8D779BE2",
+            "orgName": "El Guarataro, Bol.",
+            "orgType": "CONG",
+            "address": "Calle José María Vargas, #21\r\nBarrio Campo Alegre\r\nEl Guarataro\r\nBOL\r\n",
+            "transliteratedAddress": "Calle José María Vargas, #21\r\nBarrio Campo Alegre\r\nEl Guarataro\r\nBOL\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "08:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0 4163649653",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B247C7E4-9596-43E9-8278-2139B6CE6B52",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.743844,
+            "longitude": -64.714465
+        },
+        "properties": {
+            "orgGuid": "B247C7E4-9596-43E9-8278-2139B6CE6B52",
+            "orgName": "Mapire, Anz.",
+            "orgType": "CONG",
+            "address": "Calle Fuenmayor, Sector El Estadio\r\nBarrio José Antonio Anzoátegui\r\nMapire\r\nANZ\r\n",
+            "transliteratedAddress": "Calle Fuenmayor, Sector El Estadio\r\nBarrio José Antonio Anzoátegui\r\nMapire\r\nANZ\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "16:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "04163231140",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "45E1F221-DBDD-4530-B04D-9A4117C6A272",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.9037,
+            "longitude": -64.471176
+        },
+        "properties": {
+            "orgGuid": "45E1F221-DBDD-4530-B04D-9A4117C6A272",
+            "orgName": "Puerto Miranda, Apu. - Polideportivo, San Fernando de Apure, Apu.",
+            "orgType": "GROUP",
+            "address": "Calle Juan Salerno Melo, Casa #58\r\nSector Casco Histórico\r\nPuerto Miranda\r\nAPU\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "08:30"
+                    },
+                    "midweek": {
+                        "weekday": 6,
+                        "time": "10:25"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": true
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B38657A6-6EE1-4868-925B-2AD8029392C9",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.60966,
+            "longitude": -64.16006
+        },
+        "properties": {
+            "orgGuid": "B38657A6-6EE1-4868-925B-2AD8029392C9",
+            "orgName": "Peramanal, Bol.",
+            "orgType": "CONG",
+            "address": "Calle Principal, Km 898; #7\r\nTroncal 19.\r\nPeramanal\r\nBOL\r\n",
+            "transliteratedAddress": "Calle Principal, Km 898; #7\r\nTroncal 19.\r\nPeramanal\r\nBOL\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "16:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "04160981251",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     }
 ]

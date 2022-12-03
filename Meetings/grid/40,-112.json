@@ -1,5 +1,1290 @@
 [
     {
+        "geoId": "721A7D6F-0B19-4DDF-99E6-76BDD25E1B4F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.076591,
+            "longitude": -111.659955
+        },
+        "properties": {
+            "orgGuid": "721A7D6F-0B19-4DDF-99E6-76BDD25E1B4F",
+            "orgName": "English - Spanish Fork UT (USA)",
+            "orgType": "CONG",
+            "address": "8497 S State Rd\nSpanish Fork UT  84660-9434\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "801-885-3370",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "F2D02F22-E938-4343-BA84-A093844FBC5C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.076591,
+            "longitude": -111.659955
+        },
+        "properties": {
+            "orgGuid": "F2D02F22-E938-4343-BA84-A093844FBC5C",
+            "orgName": "Spanish - Spanish Fork UT (USA)",
+            "orgType": "CONG",
+            "address": "8497 S State Rd\nSpanish Fork UT  84660-9434\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "8013583174",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "86B77A06-8B2D-4404-B283-0DFE4DFA4E91",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.240331,
+            "longitude": -111.681645
+        },
+        "properties": {
+            "orgGuid": "86B77A06-8B2D-4404-B283-0DFE4DFA4E91",
+            "orgName": "English - Provo UT (USA)",
+            "orgType": "CONG",
+            "address": "491 N 1280 W\nProvo UT  84601-2438\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "12:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "15:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(801) 374-9015",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "F922D9C2-6992-4541-8487-15E56A13418F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.240331,
+            "longitude": -111.681645
+        },
+        "properties": {
+            "orgGuid": "F922D9C2-6992-4541-8487-15E56A13418F",
+            "orgName": "Spanish - Provo UT (USA)",
+            "orgType": "CONG",
+            "address": "491 N 1280 W\nProvo UT  84601-2438\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "8013749015",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "20A1A177-ADFB-4006-93CD-0E7204FA1B45",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.240331,
+            "longitude": -111.681645
+        },
+        "properties": {
+            "orgGuid": "20A1A177-ADFB-4006-93CD-0E7204FA1B45",
+            "orgName": "South Freedom Spanish - Provo UT (USA)",
+            "orgType": "CONG",
+            "address": "491 N 1280 W\nProvo UT  84601-2438\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "12:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "801-374-9015",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "3AA6E7BE-E82B-46E3-AD5E-FDFB29E07B4D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.374855,
+            "longitude": -111.785061
+        },
+        "properties": {
+            "orgGuid": "3AA6E7BE-E82B-46E3-AD5E-FDFB29E07B4D",
+            "orgName": "English - American Fork UT (USA)",
+            "orgType": "CONG",
+            "address": "95 S 500 E\nAmerican Fork UT  84003-2574\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "801.756.3084",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "E137F406-6C19-46F5-8C9A-0CC63AA6EDAD",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.374855,
+            "longitude": -111.785061
+        },
+        "properties": {
+            "orgGuid": "E137F406-6C19-46F5-8C9A-0CC63AA6EDAD",
+            "orgName": "Spanish - American Fork UT (USA)",
+            "orgType": "CONG",
+            "address": "95 S 500 E\nAmerican Fork UT  84003-2574\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "775-340-0514",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "5E21C37A-87A0-47B3-BCAA-4B7438CC215E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.374855,
+            "longitude": -111.785061
+        },
+        "properties": {
+            "orgGuid": "5E21C37A-87A0-47B3-BCAA-4B7438CC215E",
+            "orgName": "Spanish - Orem UT (USA)",
+            "orgType": "CONG",
+            "address": "95 S 500 E\nAmerican Fork UT  84003-2574\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "12:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(801)471-3175",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "DEB989A0-B629-4FFA-8A49-2DA5725E2583",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.589621,
+            "longitude": -111.967008
+        },
+        "properties": {
+            "orgGuid": "DEB989A0-B629-4FFA-8A49-2DA5725E2583",
+            "orgName": "English - West Jordan UT (USA)",
+            "orgType": "CONG",
+            "address": "8887 S 3200 W\nWest Jordan UT  84088-9661\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(801) 613-7642",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "F191F3B3-8ED9-4095-9F48-B9B945143E77",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.589621,
+            "longitude": -111.967008
+        },
+        "properties": {
+            "orgGuid": "F191F3B3-8ED9-4095-9F48-B9B945143E77",
+            "orgName": "Jordan River Spanish - South Jordan UT (USA)",
+            "orgType": "CONG",
+            "address": "8887 S 3200 W\nWest Jordan UT  84088-9661\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "385 985 3102",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "D5EAA89F-AA24-44A0-B1EC-6B376763D41B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.589621,
+            "longitude": -111.967008
+        },
+        "properties": {
+            "orgGuid": "D5EAA89F-AA24-44A0-B1EC-6B376763D41B",
+            "orgName": "South Sign Language - Salt Lake City UT (USA)",
+            "orgType": "CONG",
+            "address": "8887 S 3200 W\nWest Jordan UT  84088-9661\n",
+            "languageCode": "ASL",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "14:00"
+                    },
+                    "midweek": {
+                        "weekday": 1,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "801-792-2209",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "124E19C4-93F8-4E13-95FF-27D2A7A6BF62",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.570763,
+            "longitude": -111.88214
+        },
+        "properties": {
+            "orgGuid": "124E19C4-93F8-4E13-95FF-27D2A7A6BF62",
+            "orgName": "Midvale - UT (USA)",
+            "orgType": "CONG",
+            "address": "9936 S 300 E\nSandy UT  84070-3848\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "801-571-9494",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "AE39F814-2970-40A4-9F54-27353D16FA24",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.570763,
+            "longitude": -111.88214
+        },
+        "properties": {
+            "orgGuid": "AE39F814-2970-40A4-9F54-27353D16FA24",
+            "orgName": "English - Sandy UT (USA)",
+            "orgType": "CONG",
+            "address": "9936 S 300 E\nSandy UT  84070-3848\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "385-246-3838",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "CE2EE8CF-584E-4721-A0E5-C0FD0A87A3E6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.570763,
+            "longitude": -111.88214
+        },
+        "properties": {
+            "orgGuid": "CE2EE8CF-584E-4721-A0E5-C0FD0A87A3E6",
+            "orgName": "Lone Peak Portuguese - Salt Lake City UT (USA)",
+            "orgType": "CONG",
+            "address": "9936 S 300 E\nSandy UT  84070-3848\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "14:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(508) 933-1357",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "D65215ED-6C41-4962-8323-C36E2CDA5C79",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.693445,
+            "longitude": -111.968211
+        },
+        "properties": {
+            "orgGuid": "D65215ED-6C41-4962-8323-C36E2CDA5C79",
+            "orgName": "English - West Valley City UT (USA)",
+            "orgType": "CONG",
+            "address": "3636 S 3200 W\nWest Valley City UT  84119-3534\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "CHM"
+            ],
+            "phones": [
+                {
+                    "phone": "801-969-4343",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "60EC6D91-F906-40E3-A214-A6F43CCDFF99",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.693445,
+            "longitude": -111.968211
+        },
+        "properties": {
+            "orgGuid": "60EC6D91-F906-40E3-A214-A6F43CCDFF99",
+            "orgName": "Central Spanish - West Valley City UT (USA)",
+            "orgType": "CONG",
+            "address": "3636 S 3200 W\nWest Valley City UT  84119-3534\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "801-969-4343",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "ABBD7EFE-6704-43AF-A9B1-E7D2A0CF053C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.693445,
+            "longitude": -111.968211
+        },
+        "properties": {
+            "orgGuid": "ABBD7EFE-6704-43AF-A9B1-E7D2A0CF053C",
+            "orgName": "East Spanish - West Valley City UT (USA)",
+            "orgType": "CONG",
+            "address": "3636 S 3200 W\nWest Valley City UT  84119-3534\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "15:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "801-969-4343",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "EE1A0DB3-328F-4A26-B19C-9C7EB1914A9E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.649505,
+            "longitude": -111.88549
+        },
+        "properties": {
+            "orgGuid": "EE1A0DB3-328F-4A26-B19C-9C7EB1914A9E",
+            "orgName": "Holladay - Salt Lake City UT (USA)",
+            "orgType": "CONG",
+            "address": "203 E 5600 S\nMurray UT  84107-6112\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(801) 262-3871",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "CF835220-6C47-42F2-99F5-F36EB434AFD9",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.649505,
+            "longitude": -111.88549
+        },
+        "properties": {
+            "orgGuid": "CF835220-6C47-42F2-99F5-F36EB434AFD9",
+            "orgName": "Spanish - Sandy UT (USA)",
+            "orgType": "CONG",
+            "address": "203 E 5600 S\nMurray UT  84107-6112\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "801-262-3871",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "382B4A77-E918-4CC3-B5B5-05A41C7356B2",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.71466,
+            "longitude": -111.927487
+        },
+        "properties": {
+            "orgGuid": "382B4A77-E918-4CC3-B5B5-05A41C7356B2",
+            "orgName": "Jordan River North - Salt Lake City UT (USA)",
+            "orgType": "CONG",
+            "address": "2577 Hempstead St\nWest Valley UT  84119-2125\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(801)987-0272",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "F11FCE9E-94AB-4EBC-841C-5CB3DC22441B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.71466,
+            "longitude": -111.927487
+        },
+        "properties": {
+            "orgGuid": "F11FCE9E-94AB-4EBC-841C-5CB3DC22441B",
+            "orgName": "Downtown Spanish - Salt Lake City UT (USA)",
+            "orgType": "CONG",
+            "address": "2577 Hempstead St\nWest Valley UT  84119-2125\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "4694501135",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "75582339-E51E-4C82-8868-D15926F082F8",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.71466,
+            "longitude": -111.927487
+        },
+        "properties": {
+            "orgGuid": "75582339-E51E-4C82-8868-D15926F082F8",
+            "orgName": "Redwood Park Spanish - West Valley City UT (USA)",
+            "orgType": "CONG",
+            "address": "2577 Hempstead St\nWest Valley UT  84119-2125\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "317-908-1493",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "8F973945-28F8-4E2D-A52A-024283D5C48D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.71466,
+            "longitude": -111.927487
+        },
+        "properties": {
+            "orgGuid": "8F973945-28F8-4E2D-A52A-024283D5C48D",
+            "orgName": "Jordan River Swahili - Salt Lake City UT (USA)",
+            "orgType": "CONG",
+            "address": "2577 Hempstead St\nWest Valley UT  84119-2125\n",
+            "languageCode": "SW",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 1,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "801-505-4657",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "CF0281D1-7851-4743-B9AB-5E2CDD385859",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.722054,
+            "longitude": -111.874419
+        },
+        "properties": {
+            "orgGuid": "CF0281D1-7851-4743-B9AB-5E2CDD385859",
+            "orgName": "Sugarhouse - Salt Lake City UT (USA)",
+            "orgType": "CONG",
+            "address": "2240 S 600 E\nSalt Lake City UT  84106-1430\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "F"
+            ],
+            "phones": [
+                {
+                    "phone": "801-487-9456",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "7273AD27-D59A-4720-BDF5-E77B7AE28A1E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.722054,
+            "longitude": -111.874419
+        },
+        "properties": {
+            "orgGuid": "7273AD27-D59A-4720-BDF5-E77B7AE28A1E",
+            "orgName": "Liberty Park Spanish - Salt Lake City UT (USA)",
+            "orgType": "CONG",
+            "address": "2240 S 600 E\nSalt Lake City UT  84106-1430\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "801-487-9456",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "39B3D82A-5460-4118-B02E-7CE9764BB237",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.722054,
+            "longitude": -111.874419
+        },
+        "properties": {
+            "orgGuid": "39B3D82A-5460-4118-B02E-7CE9764BB237",
+            "orgName": "Central City - Salt Lake City UT (USA)",
+            "orgType": "CONG",
+            "address": "2240 S 600 E\nSalt Lake City UT  84106-1430\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "801-487-9456",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B79B95E8-73F0-449B-91B1-A2D6648F03BD",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.722054,
+            "longitude": -111.874419
+        },
+        "properties": {
+            "orgGuid": "B79B95E8-73F0-449B-91B1-A2D6648F03BD",
+            "orgName": "French - Sugarhouse - Salt Lake City UT (USA)",
+            "orgType": "GROUP",
+            "address": "2240 S 600 E\nSalt Lake City UT  84106-1430\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "801-487-9456",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "1FB85F3A-D3B3-4346-9252-C3A9476F75C3",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.898985,
+            "longitude": -111.873266
+        },
+        "properties": {
+            "orgGuid": "1FB85F3A-D3B3-4346-9252-C3A9476F75C3",
+            "orgName": "Bountiful - UT (USA)",
+            "orgType": "CONG",
+            "address": "355 E 900 N\nBountiful UT  84010-4633\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "801-203-4088",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "6A575FF1-7D3C-4514-A99C-A48BD4DE62CB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.898985,
+            "longitude": -111.873266
+        },
+        "properties": {
+            "orgGuid": "6A575FF1-7D3C-4514-A99C-A48BD4DE62CB",
+            "orgName": "Rose Park Spanish - Salt Lake City UT (USA)",
+            "orgType": "CONG",
+            "address": "355 E 900 N\nBountiful UT  84010-4633\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "801-292-3731",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "F7C73784-41B9-406E-8C7A-9CD4DFD39A26",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 41.062614,
+            "longitude": -111.941876
+        },
+        "properties": {
+            "orgGuid": "F7C73784-41B9-406E-8C7A-9CD4DFD39A26",
+            "orgName": "English - Layton UT (USA)",
+            "orgType": "CONG",
+            "address": "1323 E Gentile St\nLayton UT  84040-4068\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "801-544-1419",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "9D842E92-7B64-4BFF-9884-5CA079BCDB53",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 41.062614,
+            "longitude": -111.941876
+        },
+        "properties": {
+            "orgGuid": "9D842E92-7B64-4BFF-9884-5CA079BCDB53",
+            "orgName": "Spanish - Layton UT (USA)",
+            "orgType": "CONG",
+            "address": "1323 E Gentile St\nLayton UT  84040-4068\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(801) 528-1719",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "99EA4ED4-9E4B-4470-9E75-FDD8E4D5EE89",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.544386,
+            "longitude": -111.416245
+        },
+        "properties": {
+            "orgGuid": "99EA4ED4-9E4B-4470-9E75-FDD8E4D5EE89",
+            "orgName": "English - Heber City UT (USA)",
+            "orgType": "CONG",
+            "address": "2930 N US-40\r\nHeber City UT  84032\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "435-222-9150",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "C7662AE5-E353-4AE9-8E3A-27F33BC7FEB6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 40.544386,
+            "longitude": -111.416245
+        },
+        "properties": {
+            "orgGuid": "C7662AE5-E353-4AE9-8E3A-27F33BC7FEB6",
+            "orgName": "Spanish - Heber City UT (USA)",
+            "orgType": "CONG",
+            "address": "2930 N US-40\r\nHeber City UT  84032\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(435) 222-9150",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
         "geoId": "E110C108-A727-46E8-9CAD-E6FD28456059",
         "type": "weekly",
         "isPrimary": true,
@@ -33,7 +1318,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -71,7 +1356,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -109,7 +1394,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -147,7 +1432,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -185,7 +1470,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -223,7 +1508,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -261,7 +1546,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -299,7 +1584,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -337,7 +1622,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -375,7 +1660,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -413,7 +1698,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -451,9 +1736,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "62EAE827-2C52-4CCC-9451-6B002C35FFCA",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 43.454435,
+            "longitude": -111.958536
+        },
+        "properties": {
+            "orgGuid": "62EAE827-2C52-4CCC-9451-6B002C35FFCA",
+            "orgName": "Ammon - ID (USA)",
+            "orgType": "CONG",
+            "address": "4805 Sweetwater Way\nAmmon ID  83406\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "208-524-4266",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "207D823D-BF13-4074-A43A-08695FF12D0A",
@@ -489,7 +1811,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -527,9 +1849,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "8F7C6E06-0B7D-4F72-A899-10AAD0A1A6B7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 43.972044,
+            "longitude": -111.674355
+        },
+        "properties": {
+            "orgGuid": "8F7C6E06-0B7D-4F72-A899-10AAD0A1A6B7",
+            "orgName": "Saint Anthony - ID (USA)",
+            "orgType": "CONG",
+            "address": "545 E Yellowstone St\nSaint Anthony ID  83445\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "208-251-3589",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "1DB8DF69-D08F-45EB-B06E-77F9DBC6E32B",
@@ -568,7 +1927,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -609,7 +1968,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -647,7 +2006,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -685,7 +2044,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -726,7 +2085,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -764,7 +2123,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -802,7 +2161,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -840,7 +2199,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -878,7 +2237,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -916,7 +2275,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -954,7 +2313,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -995,7 +2354,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1033,7 +2392,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1071,7 +2430,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1109,7 +2468,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1147,7 +2506,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1185,7 +2544,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1223,7 +2582,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1261,7 +2620,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1299,7 +2658,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1337,7 +2696,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1375,7 +2734,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1413,7 +2772,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1451,7 +2810,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1489,7 +2848,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1527,7 +2886,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1565,7 +2924,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1603,7 +2962,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1641,7 +3000,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1679,7 +3038,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1728,7 +3087,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1766,7 +3125,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1804,7 +3163,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1842,7 +3201,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1880,7 +3239,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1918,7 +3277,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1956,7 +3315,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1994,7 +3353,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2032,7 +3391,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2070,7 +3429,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2108,7 +3467,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2146,7 +3505,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2184,7 +3543,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2233,7 +3592,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2282,7 +3641,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2320,7 +3679,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2358,7 +3717,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2396,7 +3755,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2434,7 +3793,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2472,7 +3831,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2510,7 +3869,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2548,7 +3907,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2586,7 +3945,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2624,7 +3983,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2662,7 +4021,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2700,7 +4059,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2738,7 +4097,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2776,7 +4135,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2814,7 +4173,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2852,7 +4211,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2890,7 +4249,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2928,7 +4287,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2966,7 +4325,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3004,7 +4363,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3042,7 +4401,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3080,7 +4439,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3118,7 +4477,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3156,7 +4515,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3194,7 +4553,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3232,7 +4591,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3270,7 +4629,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3308,7 +4667,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3346,7 +4705,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3387,7 +4746,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3425,7 +4784,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3474,7 +4833,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3512,7 +4871,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3550,7 +4909,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3588,7 +4947,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3626,7 +4985,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     }
