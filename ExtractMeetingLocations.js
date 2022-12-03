@@ -59,15 +59,11 @@ var cache = LoadCache();
 class SearchedLocations{
     static points = [];
 
-    static AddPoint(lat, lon){
-        this.points.push([lat, lon]);
+    static AddPoint(key){
+        this.points.push(key);
     }
-    static PointWithinDist(lat, lon, minDist){
-        for(const pt in this.points) {
-            if (Math.abs(pt[0] - lat) < minDist && Math.abs(pt[1] - lon) < minDist)
-                return true;
-        }
-        return false;
+    static PointWithinDist(key){
+        return this.points.includes(key);
     }
 
     static _LatLonDist(lat1, lon1, lat2, lon2, unit) {
@@ -157,13 +153,13 @@ async function ProcessGrid(country, forCountry, sw, ne, step = null, recursivePe
         let percentLat = (lat - latMin) / ((latMax - latMin) + 0.0);
         for (let lon = lonMin; lon < lonMax; lon += step) {
             let percentLon = (lat - latMin) / (latMax - latMin);
-            if(step === defaultStep) {
-                if (SearchedLocations.PointWithinDist(lat, lon, step * 0.1))
-                    continue;
-                SearchedLocations.AddPoint(lat, lon);
-            }
             let area = {lat: lat, lon: lon, latMax: lat + step, lonMax: lon + step};
             let key = area.lat + "," + area.lon + "," + area.latMax + "," + area.lonMax;
+            if(step === defaultStep) {
+                if (SearchedLocations.PointWithinDist(key))
+                    continue;
+                SearchedLocations.AddPoint(key);
+            }
             let expectation = cachedExpectation[key] ?? null;
             // if (area.lat === 0 || area.lon === 0 || area.latMax === 0 || area.lonMax === 0) {
             //     expectation = null;
@@ -255,9 +251,12 @@ async function GetAllMeetings(countries){
             let step = defaultStep;
             for (let lat = latMin; lat < latMax; lat += step) {
                 for (let lon = lonMin; lon < lonMax; lon += step) {
-                    if (SearchedLocations.PointWithinDist(lat, lon, step * 0.1))
+                    let area = {lat: lat, lon: lon, latMax: lat + step, lonMax: lon + step};
+                    let key = area.lat + "," + area.lon + "," + area.latMax + "," + area.lonMax;
+
+                    if (SearchedLocations.PointWithinDist(key))
                         continue;
-                    SearchedLocations.AddPoint(lat, lon);
+                    SearchedLocations.AddPoint(key);
                 }
             }
 

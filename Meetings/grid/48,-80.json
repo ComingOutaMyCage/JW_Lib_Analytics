@@ -1,388 +1,388 @@
 [
-    {
-        "geoId": "FC07A843-CDDF-4313-8EA8-1F3E34FDEFFD",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 48.224589,
-            "longitude": -79.023271
-        },
-        "properties": {
-            "orgGuid": "FC07A843-CDDF-4313-8EA8-1F3E34FDEFFD",
-            "orgName": "Rouyn, Rouyn-Noranda, QC",
-            "orgType": "CONG",
-            "address": "120 chemin du Docteur-Lemay\r\nRouyn-Noranda QC  J9X 5T2\r\n\r\n",
-            "languageCode": "F",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "(873) 379-3270",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+  {
+    "geoId": "FC07A843-CDDF-4313-8EA8-1F3E34FDEFFD",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 48.224589,
+      "longitude": -79.023271
     },
-    {
-        "geoId": "D3B9FA7E-1828-442B-959B-69AB732A4EDA",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 48.78972,
-            "longitude": -79.20183
-        },
-        "properties": {
-            "orgGuid": "D3B9FA7E-1828-442B-959B-69AB732A4EDA",
-            "orgName": "La Sarre, QC",
-            "orgType": "CONG",
-            "address": "31 avenue Langlois\r\nLa Sarre QC  J9Z 3K2\r\n\r\n",
-            "languageCode": "F",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "(873) 380-3102",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "FC07A843-CDDF-4313-8EA8-1F3E34FDEFFD",
+      "orgName": "Rouyn, Rouyn-Noranda, QC",
+      "orgType": "CONG",
+      "address": "120 chemin du Docteur-Lemay\r\nRouyn-Noranda QC  J9X 5T2\r\n\r\n",
+      "languageCode": "F",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(873) 379-3270",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "E50375F6-3793-4302-B8A7-3B5E3F8D49EA",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 48.142333,
-            "longitude": -78.126396
-        },
-        "properties": {
-            "orgGuid": "E50375F6-3793-4302-B8A7-3B5E3F8D49EA",
-            "orgName": "Malartic, QC",
-            "orgType": "CONG",
-            "address": "861 rue des Pins\r\nMalartic QC  J0Y 1Z0\r\n\r\n",
-            "languageCode": "F",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "873-410-0319",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "D3B9FA7E-1828-442B-959B-69AB732A4EDA",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 48.78972,
+      "longitude": -79.20183
     },
-    {
-        "geoId": "AD769569-8A3E-457E-A4E6-CB9C31CD9604",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 48.099239,
-            "longitude": -77.776796
-        },
-        "properties": {
-            "orgGuid": "AD769569-8A3E-457E-A4E6-CB9C31CD9604",
-            "orgName": "Val-d’Or, QC",
-            "orgType": "CONG",
-            "address": "200 avenue Lasalle\r\nVal-d’Or QC  J9P 2A5\r\n\r\n",
-            "languageCode": "F",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "(819) 975-5225",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "D3B9FA7E-1828-442B-959B-69AB732A4EDA",
+      "orgName": "La Sarre, QC",
+      "orgType": "CONG",
+      "address": "31 avenue Langlois\r\nLa Sarre QC  J9Z 3K2\r\n\r\n",
+      "languageCode": "F",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(873) 380-3102",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "4AA0C6BA-5603-41F1-9AF5-5B9B6FE40D99",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 48.579599,
-            "longitude": -78.12371
-        },
-        "properties": {
-            "orgGuid": "4AA0C6BA-5603-41F1-9AF5-5B9B6FE40D99",
-            "orgName": "Amos, QC",
-            "orgType": "CONG",
-            "address": "541 8e Avenue O\r\nAmos QC  J9T 4G9\r\n\r\n",
-            "languageCode": "F",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "(873) 728-0747",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "E50375F6-3793-4302-B8A7-3B5E3F8D49EA",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 48.142333,
+      "longitude": -78.126396
     },
-    {
-        "geoId": "AB5DF73E-DB92-4C3C-BE52-94867465C82E",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 48.350273,
-            "longitude": -77.282864
-        },
-        "properties": {
-            "orgGuid": "AB5DF73E-DB92-4C3C-BE52-94867465C82E",
-            "orgName": "Senneterre, QC",
-            "orgType": "CONG",
-            "address": "175 route 113 S\r\nSenneterre QC  J0Y 2M0\r\n\r\n",
-            "languageCode": "F",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "(819) 975-6079",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "E50375F6-3793-4302-B8A7-3B5E3F8D49EA",
+      "orgName": "Malartic, QC",
+      "orgType": "CONG",
+      "address": "861 rue des Pins\r\nMalartic QC  J0Y 1Z0\r\n\r\n",
+      "languageCode": "F",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "873-410-0319",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "3BC55A3A-AD62-4C69-99C7-1A3F5202E479",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 49.926137,
-            "longitude": -74.361334
-        },
-        "properties": {
-            "orgGuid": "3BC55A3A-AD62-4C69-99C7-1A3F5202E479",
-            "orgName": "Chibougamau, QC",
-            "orgType": "CONG",
-            "address": "465 chemin Merrill\r\nChibougamau QC  G8P 0A6\r\n\r\n",
-            "languageCode": "F",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "relatedLanguageCodes": [
-                "E"
-            ],
-            "phones": [
-                {
-                    "phone": "418-748-6982",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "AD769569-8A3E-457E-A4E6-CB9C31CD9604",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 48.099239,
+      "longitude": -77.776796
     },
-    {
-        "geoId": "19826C7D-34CC-46CE-84EC-51F182B5C9C1",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 49.926137,
-            "longitude": -74.361334
-        },
-        "properties": {
-            "orgGuid": "19826C7D-34CC-46CE-84EC-51F182B5C9C1",
-            "orgName": "Chibougamau-English - Chibougamau, QC",
-            "orgType": "GROUP",
-            "address": "465 chemin Merrill\r\nChibougamau QC  G8P 0A6\r\n\r\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": null,
-                        "time": null
-                    }
-                }
-            },
-            "relatedLanguageCodes": [
-                "F"
-            ],
-            "phones": [
-                {
-                    "phone": "418-748-6982",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "AD769569-8A3E-457E-A4E6-CB9C31CD9604",
+      "orgName": "Val-d’Or, QC",
+      "orgType": "CONG",
+      "address": "200 avenue Lasalle\r\nVal-d’Or QC  J9P 2A5\r\n\r\n",
+      "languageCode": "F",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(819) 975-5225",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "9A3E69E1-58F0-488A-B619-6749736165EB",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 48.642284,
-            "longitude": -72.396414
-        },
-        "properties": {
-            "orgGuid": "9A3E69E1-58F0-488A-B619-6749736165EB",
-            "orgName": "Roberval, QC",
-            "orgType": "CONG",
-            "address": "570 boulevard Sacré-Coeur\r\nSaint-Félicien QC  G8K 2P6\r\n\r\n",
-            "languageCode": "F",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "(438) 788-2769",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "4AA0C6BA-5603-41F1-9AF5-5B9B6FE40D99",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 48.579599,
+      "longitude": -78.12371
     },
-    {
-        "geoId": "162E2670-2992-443B-8C5F-BB8EBB507E7B",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 48.861902,
-            "longitude": -72.226934
-        },
-        "properties": {
-            "orgGuid": "162E2670-2992-443B-8C5F-BB8EBB507E7B",
-            "orgName": "Dolbeau, Dolbeau-Mistassini, QC",
-            "orgType": "CONG",
-            "address": "350 boulevard Vézina\r\nDolbeau-Mistassini QC  G8L 3M2\r\n\r\n",
-            "languageCode": "F",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "(581) 848-0283",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+    "properties": {
+      "orgGuid": "4AA0C6BA-5603-41F1-9AF5-5B9B6FE40D99",
+      "orgName": "Amos, QC",
+      "orgType": "CONG",
+      "address": "541 8e Avenue O\r\nAmos QC  J9T 4G9\r\n\r\n",
+      "languageCode": "F",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(873) 728-0747",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "AB5DF73E-DB92-4C3C-BE52-94867465C82E",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 48.350273,
+      "longitude": -77.282864
+    },
+    "properties": {
+      "orgGuid": "AB5DF73E-DB92-4C3C-BE52-94867465C82E",
+      "orgName": "Senneterre, QC",
+      "orgType": "CONG",
+      "address": "175 route 113 S\r\nSenneterre QC  J0Y 2M0\r\n\r\n",
+      "languageCode": "F",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(819) 975-6079",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "3BC55A3A-AD62-4C69-99C7-1A3F5202E479",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 49.926137,
+      "longitude": -74.361334
+    },
+    "properties": {
+      "orgGuid": "3BC55A3A-AD62-4C69-99C7-1A3F5202E479",
+      "orgName": "Chibougamau, QC",
+      "orgType": "CONG",
+      "address": "465 chemin Merrill\r\nChibougamau QC  G8P 0A6\r\n\r\n",
+      "languageCode": "F",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "E"
+      ],
+      "phones": [
+        {
+          "phone": "418-748-6982",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "19826C7D-34CC-46CE-84EC-51F182B5C9C1",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 49.926137,
+      "longitude": -74.361334
+    },
+    "properties": {
+      "orgGuid": "19826C7D-34CC-46CE-84EC-51F182B5C9C1",
+      "orgName": "Chibougamau-English - Chibougamau, QC",
+      "orgType": "GROUP",
+      "address": "465 chemin Merrill\r\nChibougamau QC  G8P 0A6\r\n\r\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": null,
+            "time": null
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "F"
+      ],
+      "phones": [
+        {
+          "phone": "418-748-6982",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "9A3E69E1-58F0-488A-B619-6749736165EB",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 48.642284,
+      "longitude": -72.396414
+    },
+    "properties": {
+      "orgGuid": "9A3E69E1-58F0-488A-B619-6749736165EB",
+      "orgName": "Roberval, QC",
+      "orgType": "CONG",
+      "address": "570 boulevard Sacré-Coeur\r\nSaint-Félicien QC  G8K 2P6\r\n\r\n",
+      "languageCode": "F",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(438) 788-2769",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "162E2670-2992-443B-8C5F-BB8EBB507E7B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 48.861902,
+      "longitude": -72.226934
+    },
+    "properties": {
+      "orgGuid": "162E2670-2992-443B-8C5F-BB8EBB507E7B",
+      "orgName": "Dolbeau, Dolbeau-Mistassini, QC",
+      "orgType": "CONG",
+      "address": "350 boulevard Vézina\r\nDolbeau-Mistassini QC  G8L 3M2\r\n\r\n",
+      "languageCode": "F",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(581) 848-0283",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]

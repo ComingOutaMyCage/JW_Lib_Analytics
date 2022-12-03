@@ -1,44 +1,44 @@
 [
-    {
-        "geoId": "04A54248-63F0-4D4F-B34A-6C92203F08F7",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -23.119089,
-            "longitude": -134.993291
+  {
+    "geoId": "04A54248-63F0-4D4F-B34A-6C92203F08F7",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -23.119089,
+      "longitude": -134.993291
+    },
+    "properties": {
+      "orgGuid": "04A54248-63F0-4D4F-B34A-6C92203F08F7",
+      "orgName": "Rikitea",
+      "orgType": "CONG",
+      "address": "C/o M. Gaston Teakarotu\r\nAtiaoa\r\n98755 MANGAREVA\r\n",
+      "languageCode": "F",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "17:30"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "17:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "87.30.96.46",
+          "ext": ""
         },
-        "properties": {
-            "orgGuid": "04A54248-63F0-4D4F-B34A-6C92203F08F7",
-            "orgName": "Rikitea",
-            "orgType": "CONG",
-            "address": "C/o M. Gaston Teakarotu\r\nAtiaoa\r\n98755 MANGAREVA\r\n",
-            "languageCode": "F",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "17:30"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "17:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "87.30.96.46",
-                    "ext": ""
-                },
-                {
-                    "phone": "87.72.64.63",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": true
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+        {
+          "phone": "87.72.64.63",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": true
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]

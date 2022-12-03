@@ -1,78 +1,78 @@
 [
-    {
-        "geoId": "7FAD498A-3408-4442-B01C-06C5666EF65E",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -24.008302,
-            "longitude": -46.404798
-        },
-        "properties": {
-            "orgGuid": "7FAD498A-3408-4442-B01C-06C5666EF65E",
-            "orgName": "Boqueirão - Praia Grande SP",
-            "orgType": "CONG",
-            "address": "R. Tiradentes, 687\r\nVila Oceânic\r\nPraia Grande, SP\r\n11700-290\r\n\r\n",
-            "languageCode": "T",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "19:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "19:45"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+55&nbsp;13 99718-0445",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+  {
+    "geoId": "7FAD498A-3408-4442-B01C-06C5666EF65E",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -24.008302,
+      "longitude": -46.404798
     },
-    {
-        "geoId": "A93CD6A7-5C79-48FC-A77F-E546811085B0",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -24.008302,
-            "longitude": -46.404798
-        },
-        "properties": {
-            "orgGuid": "A93CD6A7-5C79-48FC-A77F-E546811085B0",
-            "orgName": "Recanto do Forte - Praia Grande SP",
-            "orgType": "CONG",
-            "address": "R. Tiradentes, 687\r\nVila Oceânic\r\nPraia Grande, SP\r\n11700-290\r\n\r\n",
-            "languageCode": "T",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "19:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "19:45"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "(13) 98166-0463",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+    "properties": {
+      "orgGuid": "7FAD498A-3408-4442-B01C-06C5666EF65E",
+      "orgName": "Boqueirão - Praia Grande SP",
+      "orgType": "CONG",
+      "address": "R. Tiradentes, 687\r\nVila Oceânic\r\nPraia Grande, SP\r\n11700-290\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:45"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+55&nbsp;13 99718-0445",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "A93CD6A7-5C79-48FC-A77F-E546811085B0",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -24.008302,
+      "longitude": -46.404798
+    },
+    "properties": {
+      "orgGuid": "A93CD6A7-5C79-48FC-A77F-E546811085B0",
+      "orgName": "Recanto do Forte - Praia Grande SP",
+      "orgType": "CONG",
+      "address": "R. Tiradentes, 687\r\nVila Oceânic\r\nPraia Grande, SP\r\n11700-290\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:45"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(13) 98166-0463",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]

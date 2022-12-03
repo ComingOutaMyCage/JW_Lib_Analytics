@@ -1,40 +1,40 @@
 [
-    {
-        "geoId": "B3971D6E-88F9-4564-9264-140A022E7991",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": -17.9643,
-            "longitude": 122.21748
-        },
-        "properties": {
-            "orgGuid": "B3971D6E-88F9-4564-9264-140A022E7991",
-            "orgName": "Broome - WA",
-            "orgType": "CONG",
-            "address": "2 Palmer Road\nBROOME  WA  6725\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "14:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "0891936588",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+  {
+    "geoId": "B3971D6E-88F9-4564-9264-140A022E7991",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -17.9643,
+      "longitude": 122.21748
+    },
+    "properties": {
+      "orgGuid": "B3971D6E-88F9-4564-9264-140A022E7991",
+      "orgName": "Broome - WA",
+      "orgType": "CONG",
+      "address": "2 Palmer Road\nBROOME  WA  6725\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "14:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0891936588",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]

@@ -1,78 +1,78 @@
 [
-    {
-        "geoId": "C0666DDC-6FCA-47D3-BEE8-F228B4B4D892",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 7.007565,
-            "longitude": 93.904785
-        },
-        "properties": {
-            "orgGuid": "C0666DDC-6FCA-47D3-BEE8-F228B4B4D892",
-            "orgName": "Campbell Bay Hindi",
-            "orgType": "CONG",
-            "address": "C/O Vivian Immanuel\r\nQuarter Type-2\r\nNo-3 Veterinary complex\r\nCar Nicobar  744302\r\nAN\r\nINDIA\r\n",
-            "languageCode": "HI",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "17:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "17:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+91&nbsp;9474226259 / +91 7063969800",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+  {
+    "geoId": "C0666DDC-6FCA-47D3-BEE8-F228B4B4D892",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 7.007565,
+      "longitude": 93.904785
     },
-    {
-        "geoId": "115ED254-5972-47AE-8295-456AE2644518",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 7.9768,
-            "longitude": 93.5509
-        },
-        "properties": {
-            "orgGuid": "115ED254-5972-47AE-8295-456AE2644518",
-            "orgName": "Nancowrie Island",
-            "orgType": "CONG",
-            "address": "Mount Arrath House, Champin Village, Nancowry,\r\nNicobar Dist, Andaman & Nicobar Islands,\r\nNancowrie  744303\r\nAN\r\nINDIA\r\n",
-            "languageCode": "NC",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "18:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "18:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "9434271147 / 9531895158",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+    "properties": {
+      "orgGuid": "C0666DDC-6FCA-47D3-BEE8-F228B4B4D892",
+      "orgName": "Campbell Bay Hindi",
+      "orgType": "CONG",
+      "address": "C/O Vivian Immanuel\r\nQuarter Type-2\r\nNo-3 Veterinary complex\r\nCar Nicobar  744302\r\nAN\r\nINDIA\r\n",
+      "languageCode": "HI",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "17:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "17:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+91&nbsp;9474226259 / +91 7063969800",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "115ED254-5972-47AE-8295-456AE2644518",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 7.9768,
+      "longitude": 93.5509
+    },
+    "properties": {
+      "orgGuid": "115ED254-5972-47AE-8295-456AE2644518",
+      "orgName": "Nancowrie Island",
+      "orgType": "CONG",
+      "address": "Mount Arrath House, Champin Village, Nancowry,\r\nNicobar Dist, Andaman & Nicobar Islands,\r\nNancowrie  744303\r\nAN\r\nINDIA\r\n",
+      "languageCode": "NC",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "18:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "9434271147 / 9531895158",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]

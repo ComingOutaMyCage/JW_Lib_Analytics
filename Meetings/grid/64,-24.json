@@ -1,274 +1,274 @@
 [
-    {
-        "geoId": "DCEAED3A-E301-4DE7-B480-F223657E912C",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 64.00449,
-            "longitude": -22.57856
-        },
-        "properties": {
-            "orgGuid": "DCEAED3A-E301-4DE7-B480-F223657E912C",
-            "orgName": "Keflavíkursöfnuður",
-            "orgType": "CONG",
-            "address": "Eyjavellir 1A\r\n230  Reykjanesbær\r\nICELAND\r\n",
-            "languageCode": "IC",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "11:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+354&nbsp;6638786",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+  {
+    "geoId": "DCEAED3A-E301-4DE7-B480-F223657E912C",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 64.00449,
+      "longitude": -22.57856
     },
-    {
-        "geoId": "DA3F1C55-4519-42A4-AAC2-914EEB1DE487",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 64.11874,
-            "longitude": -21.802092
-        },
-        "properties": {
-            "orgGuid": "DA3F1C55-4519-42A4-AAC2-914EEB1DE487",
-            "orgName": "Enski Söfnuðurinn í Reykjavík",
-            "orgType": "CONG",
-            "address": "Hraunbær 113\r\n110  Reykjavík\r\nICELAND\r\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "14:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "relatedLanguageCodes": [
-                "S"
-            ],
-            "phones": [
-                {
-                    "phone": "+354 783 93 77",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "DCEAED3A-E301-4DE7-B480-F223657E912C",
+      "orgName": "Keflavíkursöfnuður",
+      "orgType": "CONG",
+      "address": "Eyjavellir 1A\r\n230  Reykjanesbær\r\nICELAND\r\n",
+      "languageCode": "IC",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "11:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+354&nbsp;6638786",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "5A202CC4-8CF0-478C-BC7E-32FCB60BB8D6",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 64.11874,
-            "longitude": -21.802092
-        },
-        "properties": {
-            "orgGuid": "5A202CC4-8CF0-478C-BC7E-32FCB60BB8D6",
-            "orgName": "Norðursöfnuður í Reykjavík",
-            "orgType": "CONG",
-            "address": "Hraunbær 113\r\n110  Reykjavík\r\nICELAND\r\n",
-            "languageCode": "IC",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "10:30"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+354 775 0714",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "DA3F1C55-4519-42A4-AAC2-914EEB1DE487",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 64.11874,
+      "longitude": -21.802092
     },
-    {
-        "geoId": "3873F4A7-92C0-4C7E-AFA9-D5169B7C72D9",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 64.11874,
-            "longitude": -21.802092
-        },
-        "properties": {
-            "orgGuid": "3873F4A7-92C0-4C7E-AFA9-D5169B7C72D9",
-            "orgName": "Suðursöfnuður í Reykjavík",
-            "orgType": "CONG",
-            "address": "Hraunbær 113\r\n110  Reykjavík\r\nICELAND\r\n",
-            "languageCode": "IC",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 6,
-                        "time": "16:00"
-                    },
-                    "midweek": {
-                        "weekday": 1,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "8964885",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "DA3F1C55-4519-42A4-AAC2-914EEB1DE487",
+      "orgName": "Enski Söfnuðurinn í Reykjavík",
+      "orgType": "CONG",
+      "address": "Hraunbær 113\r\n110  Reykjavík\r\nICELAND\r\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "14:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "S"
+      ],
+      "phones": [
+        {
+          "phone": "+354 783 93 77",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "DE9632F1-390C-42B1-B63B-1E12317B887B",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 64.11874,
-            "longitude": -21.802092
-        },
-        "properties": {
-            "orgGuid": "DE9632F1-390C-42B1-B63B-1E12317B887B",
-            "orgName": "Pólski Söfnuðurinn í Reykjavík",
-            "orgType": "CONG",
-            "address": "Hraunbær 113\r\n110  Reykjavík\r\nICELAND\r\n",
-            "languageCode": "P",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "11:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "18:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "003547823011",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "5A202CC4-8CF0-478C-BC7E-32FCB60BB8D6",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 64.11874,
+      "longitude": -21.802092
     },
-    {
-        "geoId": "1579CF42-0B7A-484F-AB77-5F57D525484A",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 64.11874,
-            "longitude": -21.802092
-        },
-        "properties": {
-            "orgGuid": "1579CF42-0B7A-484F-AB77-5F57D525484A",
-            "orgName": "Enski Söfnuðurinn í Reykjavík (Spanish pregroup) - Enski Söfnuðurinn í Reykjavík",
-            "orgType": "GROUP",
-            "address": "Hraunbær 113\r\n110  Reykjavík\r\nICELAND\r\n",
-            "languageCode": "S",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "14:00"
-                    },
-                    "midweek": {
-                        "weekday": null,
-                        "time": null
-                    }
-                }
-            },
-            "relatedLanguageCodes": [
-                "E"
-            ],
-            "phones": [
-                {
-                    "phone": "+354 783 93 77",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "5A202CC4-8CF0-478C-BC7E-32FCB60BB8D6",
+      "orgName": "Norðursöfnuður í Reykjavík",
+      "orgType": "CONG",
+      "address": "Hraunbær 113\r\n110  Reykjavík\r\nICELAND\r\n",
+      "languageCode": "IC",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "10:30"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+354 775 0714",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "C66482E5-FED7-41DE-83EB-322F7E628D81",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 65.685673,
-            "longitude": -18.102365
-        },
-        "properties": {
-            "orgGuid": "C66482E5-FED7-41DE-83EB-322F7E628D81",
-            "orgName": "Akureyrarsöfnuður",
-            "orgType": "CONG",
-            "address": "Sjafnarstígur 1\r\n600  Akureyri\r\nICELAND\r\n",
-            "languageCode": "IC",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "11:00"
-                    },
-                    "midweek": {
-                        "weekday": 4,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "+354 8934005",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "3873F4A7-92C0-4C7E-AFA9-D5169B7C72D9",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 64.11874,
+      "longitude": -21.802092
+    },
+    "properties": {
+      "orgGuid": "3873F4A7-92C0-4C7E-AFA9-D5169B7C72D9",
+      "orgName": "Suðursöfnuður í Reykjavík",
+      "orgType": "CONG",
+      "address": "Hraunbær 113\r\n110  Reykjavík\r\nICELAND\r\n",
+      "languageCode": "IC",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "16:00"
+          },
+          "midweek": {
+            "weekday": 1,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "8964885",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "DE9632F1-390C-42B1-B63B-1E12317B887B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 64.11874,
+      "longitude": -21.802092
+    },
+    "properties": {
+      "orgGuid": "DE9632F1-390C-42B1-B63B-1E12317B887B",
+      "orgName": "Pólski Söfnuðurinn í Reykjavík",
+      "orgType": "CONG",
+      "address": "Hraunbær 113\r\n110  Reykjavík\r\nICELAND\r\n",
+      "languageCode": "P",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "11:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "18:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "003547823011",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "1579CF42-0B7A-484F-AB77-5F57D525484A",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 64.11874,
+      "longitude": -21.802092
+    },
+    "properties": {
+      "orgGuid": "1579CF42-0B7A-484F-AB77-5F57D525484A",
+      "orgName": "Enski Söfnuðurinn í Reykjavík (Spanish pregroup) - Enski Söfnuðurinn í Reykjavík",
+      "orgType": "GROUP",
+      "address": "Hraunbær 113\r\n110  Reykjavík\r\nICELAND\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "14:00"
+          },
+          "midweek": {
+            "weekday": null,
+            "time": null
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "E"
+      ],
+      "phones": [
+        {
+          "phone": "+354 783 93 77",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "C66482E5-FED7-41DE-83EB-322F7E628D81",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 65.685673,
+      "longitude": -18.102365
+    },
+    "properties": {
+      "orgGuid": "C66482E5-FED7-41DE-83EB-322F7E628D81",
+      "orgName": "Akureyrarsöfnuður",
+      "orgType": "CONG",
+      "address": "Sjafnarstígur 1\r\n600  Akureyri\r\nICELAND\r\n",
+      "languageCode": "IC",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "11:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+354 8934005",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]

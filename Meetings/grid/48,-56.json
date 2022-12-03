@@ -1,192 +1,192 @@
 [
-    {
-        "geoId": "3F4C317E-9D5A-4A89-A2F1-5F3795D6608A",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 48.960543,
-            "longitude": -55.600594
-        },
-        "properties": {
-            "orgGuid": "3F4C317E-9D5A-4A89-A2F1-5F3795D6608A",
-            "orgName": "Grand Falls, Grand Falls-Windsor, NL",
-            "orgType": "CONG",
-            "address": "275 Grenfell Heights\r\nSS 1\r\nGrand Falls-Windsor NL  A2A 2J2\r\n\r\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "709-486-3703",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+  {
+    "geoId": "3F4C317E-9D5A-4A89-A2F1-5F3795D6608A",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 48.960543,
+      "longitude": -55.600594
     },
-    {
-        "geoId": "C525646C-DE68-47EC-89E1-EDF1817BB34B",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 48.209237,
-            "longitude": -53.957684
-        },
-        "properties": {
-            "orgGuid": "C525646C-DE68-47EC-89E1-EDF1817BB34B",
-            "orgName": "Shoal Harbour, NL",
-            "orgType": "CONG",
-            "address": "16 Blundon's Lane\r\nMilton NL  A0C 2L0\r\n\r\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "709-427-6288",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "3F4C317E-9D5A-4A89-A2F1-5F3795D6608A",
+      "orgName": "Grand Falls, Grand Falls-Windsor, NL",
+      "orgType": "CONG",
+      "address": "275 Grenfell Heights\r\nSS 1\r\nGrand Falls-Windsor NL  A2A 2J2\r\n\r\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "709-486-3703",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "2DF63535-834B-434F-9D72-1E5775C60BB1",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 48.970846,
-            "longitude": -54.619998
-        },
-        "properties": {
-            "orgGuid": "2DF63535-834B-434F-9D72-1E5775C60BB1",
-            "orgName": "Gander, NL",
-            "orgType": "CONG",
-            "address": "110 Magee Road\r\nGander NL  A1V 2R3\r\n\r\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "709-424-7616",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "C525646C-DE68-47EC-89E1-EDF1817BB34B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 48.209237,
+      "longitude": -53.957684
     },
-    {
-        "geoId": "A84D31B7-3556-43B9-8B4B-D68040692332",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 48.640517,
-            "longitude": -53.102967
-        },
-        "properties": {
-            "orgGuid": "A84D31B7-3556-43B9-8B4B-D68040692332",
-            "orgName": "Bonavista, NL",
-            "orgType": "CONG",
-            "address": "236-240 Confederation Drive\r\nBonavista NL  A0C 1B0\r\n\r\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:30"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "709-468-1427",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
+    "properties": {
+      "orgGuid": "C525646C-DE68-47EC-89E1-EDF1817BB34B",
+      "orgName": "Shoal Harbour, NL",
+      "orgType": "CONG",
+      "address": "16 Blundon's Lane\r\nMilton NL  A0C 2L0\r\n\r\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "709-427-6288",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
     },
-    {
-        "geoId": "64734990-60D5-4F7E-A086-7F1283B12F3B",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 49.29213,
-            "longitude": -53.588552
-        },
-        "properties": {
-            "orgGuid": "64734990-60D5-4F7E-A086-7F1283B12F3B",
-            "orgName": "Lumsden, NL",
-            "orgType": "CONG",
-            "address": "Route 330 80 Main Street\r\nLumsden NL  A0G 3E0\r\n\r\n",
-            "languageCode": "E",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "10:00"
-                    },
-                    "midweek": {
-                        "weekday": 2,
-                        "time": "19:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "709-536-9695",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "2DF63535-834B-434F-9D72-1E5775C60BB1",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 48.970846,
+      "longitude": -54.619998
+    },
+    "properties": {
+      "orgGuid": "2DF63535-834B-434F-9D72-1E5775C60BB1",
+      "orgName": "Gander, NL",
+      "orgType": "CONG",
+      "address": "110 Magee Road\r\nGander NL  A1V 2R3\r\n\r\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "709-424-7616",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "A84D31B7-3556-43B9-8B4B-D68040692332",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 48.640517,
+      "longitude": -53.102967
+    },
+    "properties": {
+      "orgGuid": "A84D31B7-3556-43B9-8B4B-D68040692332",
+      "orgName": "Bonavista, NL",
+      "orgType": "CONG",
+      "address": "236-240 Confederation Drive\r\nBonavista NL  A0C 1B0\r\n\r\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "709-468-1427",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "64734990-60D5-4F7E-A086-7F1283B12F3B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 49.29213,
+      "longitude": -53.588552
+    },
+    "properties": {
+      "orgGuid": "64734990-60D5-4F7E-A086-7F1283B12F3B",
+      "orgName": "Lumsden, NL",
+      "orgType": "CONG",
+      "address": "Route 330 80 Main Street\r\nLumsden NL  A0G 3E0\r\n\r\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "709-536-9695",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]

@@ -1,40 +1,40 @@
 [
-    {
-        "geoId": "8B49F53A-FCBD-48C4-969E-27F86E081677",
-        "type": "weekly",
-        "isPrimary": true,
-        "location": {
-            "latitude": 18.707304,
-            "longitude": 7.339681
-        },
-        "properties": {
-            "orgGuid": "8B49F53A-FCBD-48C4-969E-27F86E081677",
-            "orgName": "Arlit",
-            "orgType": "CONG",
-            "address": "Quartier Akokan (ARLIT)\r\nArlit, NIGER\r\n\r\n",
-            "languageCode": "F",
-            "schedule": {
-                "current": {
-                    "weekend": {
-                        "weekday": 7,
-                        "time": "09:00"
-                    },
-                    "midweek": {
-                        "weekday": 3,
-                        "time": "17:00"
-                    }
-                }
-            },
-            "phones": [
-                {
-                    "phone": "96114694",
-                    "ext": ""
-                }
-            ],
-            "isPrivateMtgPlace": false
-        },
-        "lastSeen": "2022-12-03T16:22:06.794Z",
-        "active": true,
-        "firstSeen": "2022-12-02T17:31:33.254Z"
-    }
+  {
+    "geoId": "8B49F53A-FCBD-48C4-969E-27F86E081677",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 18.707304,
+      "longitude": 7.339681
+    },
+    "properties": {
+      "orgGuid": "8B49F53A-FCBD-48C4-969E-27F86E081677",
+      "orgName": "Arlit",
+      "orgType": "CONG",
+      "address": "Quartier Akokan (ARLIT)\r\nArlit, NIGER\r\n\r\n",
+      "languageCode": "F",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "17:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "96114694",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
 ]
