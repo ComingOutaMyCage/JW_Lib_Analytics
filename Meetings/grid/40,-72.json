@@ -1,0 +1,4755 @@
+[
+    {
+        "geoId": "08267CEB-2928-45B2-92D6-9590E61D30D7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 41.885338,
+            "longitude": -70.896321
+        },
+        "properties": {
+            "orgGuid": "08267CEB-2928-45B2-92D6-9590E61D30D7",
+            "orgName": "Middleboro - MA (USA)",
+            "orgType": "CONG",
+            "address": "116 Wareham St\nMiddleboro MA  02346-2404\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(774) 260-5505‬",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "46BC8FB2-84EF-4C75-ADD2-48AA9653D031",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 41.780097,
+            "longitude": -70.776109
+        },
+        "properties": {
+            "orgGuid": "46BC8FB2-84EF-4C75-ADD2-48AA9653D031",
+            "orgName": "Wareham - MA (USA)",
+            "orgType": "CONG",
+            "address": "692 County Rd\nWest Wareham MA  02576-1351\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(508) 295-8223",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "832BE415-0CA2-4EE8-8A46-620875DB3D0A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 42.053587,
+            "longitude": -70.996545
+        },
+        "properties": {
+            "orgGuid": "832BE415-0CA2-4EE8-8A46-620875DB3D0A",
+            "orgName": "East Campello - Brockton MA (USA)",
+            "orgType": "CONG",
+            "address": "444 Plain St\nBrockton MA  02302-4523\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(508) 588-1555",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "72BA34DF-D081-4A07-8EDA-EF256A6E4E79",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 42.053587,
+            "longitude": -70.996545
+        },
+        "properties": {
+            "orgGuid": "72BA34DF-D081-4A07-8EDA-EF256A6E4E79",
+            "orgName": "Spanish - Brockton MA (USA)",
+            "orgType": "CONG",
+            "address": "444 Plain St\nBrockton MA  02302-4523\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "805-441-8794",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "E48EFBAB-1812-4C40-A3F3-7F84B8772ABD",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 42.053587,
+            "longitude": -70.996545
+        },
+        "properties": {
+            "orgGuid": "E48EFBAB-1812-4C40-A3F3-7F84B8772ABD",
+            "orgName": "South Kabuverdianu - Brockton MA (USA)",
+            "orgType": "CONG",
+            "address": "444 Plain St\nBrockton MA  02302-4523\n",
+            "languageCode": "KBV",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "17:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "508-659-2150",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "B3F22882-E296-4AB1-B133-43D40DEEA392",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 41.624792,
+            "longitude": -70.549157
+        },
+        "properties": {
+            "orgGuid": "B3F22882-E296-4AB1-B133-43D40DEEA392",
+            "orgName": "West - Falmouth MA (USA)",
+            "orgType": "CONG",
+            "address": "1255 Sandwich Rd\nEast Falmouth MA  02536-4238\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "508-563-7247",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "CDB674EF-5BAB-4934-ABCA-A1E71941722C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 42.097076,
+            "longitude": -71.004868
+        },
+        "properties": {
+            "orgGuid": "CDB674EF-5BAB-4934-ABCA-A1E71941722C",
+            "orgName": "Central - Brockton MA (USA)",
+            "orgType": "CONG",
+            "address": "329 E Ashland St\nBrockton MA  02302-2104\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "508.588.6861",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "F4AA04A6-390C-4DD3-8467-78C3064D79C6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 42.097076,
+            "longitude": -71.004868
+        },
+        "properties": {
+            "orgGuid": "F4AA04A6-390C-4DD3-8467-78C3064D79C6",
+            "orgName": "East Kabuverdianu - Brockton MA (USA)",
+            "orgType": "CONG",
+            "address": "329 E Ashland St\nBrockton MA  02302-2104\n",
+            "languageCode": "KBV",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "17:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "508-588-6861",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "89256847-E692-4729-BEFD-47EAD568E444",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 42.097076,
+            "longitude": -71.004868
+        },
+        "properties": {
+            "orgGuid": "89256847-E692-4729-BEFD-47EAD568E444",
+            "orgName": "Haitian Creole - Brockton MA (USA)",
+            "orgType": "CONG",
+            "address": "329 E Ashland St\nBrockton MA  02302-2104\n",
+            "languageCode": "CR",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "12:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "8577194360",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "4DEC6EB9-CAAB-4973-92B4-32AB9DE5D0EA",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 41.750567,
+            "longitude": -70.609288
+        },
+        "properties": {
+            "orgGuid": "4DEC6EB9-CAAB-4973-92B4-32AB9DE5D0EA",
+            "orgName": "English - Buzzards Bay MA (USA)",
+            "orgType": "CONG",
+            "address": "29 Armory Rd\nBuzzards Bay MA  02532-5510\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(508) 759-2293",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "6C4F09B2-1A53-411C-8EF8-19BB773A7F60",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 42.162901,
+            "longitude": -71.007194
+        },
+        "properties": {
+            "orgGuid": "6C4F09B2-1A53-411C-8EF8-19BB773A7F60",
+            "orgName": "Quincy - MA (USA)",
+            "orgType": "CONG",
+            "address": "314 N Franklin St\nHolbrook MA  02343-1118\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "781-961-7766",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "891AD6B3-F85A-4AEB-9192-F1D27D5C68F3",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 42.162901,
+            "longitude": -71.007194
+        },
+        "properties": {
+            "orgGuid": "891AD6B3-F85A-4AEB-9192-F1D27D5C68F3",
+            "orgName": "Holbrook - MA (USA)",
+            "orgType": "CONG",
+            "address": "314 N Franklin St\nHolbrook MA  02343-1118\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "12:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "781-961-7766",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "03FC849F-1BAC-4799-8E71-5B6E8D8118BB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 42.162901,
+            "longitude": -71.007194
+        },
+        "properties": {
+            "orgGuid": "03FC849F-1BAC-4799-8E71-5B6E8D8118BB",
+            "orgName": "Portuguese - Randolph MA (USA)",
+            "orgType": "CONG",
+            "address": "314 N Franklin St\nHolbrook MA  02343-1118\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "17:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "781-961-7766",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "FC245BB6-9E64-4894-9C91-4183982B21FC",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 41.27893,
+            "longitude": -70.108232
+        },
+        "properties": {
+            "orgGuid": "FC245BB6-9E64-4894-9C91-4183982B21FC",
+            "orgName": "Nantucket - MA (USA)",
+            "orgType": "CONG",
+            "address": "43 Milk St\nNantucket MA  02554-2642\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "11:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "S"
+            ],
+            "phones": [
+                {
+                    "phone": "508-228-8816",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "F95BE729-5976-443F-9DC7-6138422B43C8",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 42.10896,
+            "longitude": -70.910501
+        },
+        "properties": {
+            "orgGuid": "F95BE729-5976-443F-9DC7-6138422B43C8",
+            "orgName": "Bridgewater - MA (USA)",
+            "orgType": "CONG",
+            "address": "339 Summer St\nRockland MA  02370-2711\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "1-781-878-6773",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "C8C278E9-B25D-4BDA-9957-ED809F93933F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 42.10896,
+            "longitude": -70.910501
+        },
+        "properties": {
+            "orgGuid": "C8C278E9-B25D-4BDA-9957-ED809F93933F",
+            "orgName": "Rockland - MA (USA)",
+            "orgType": "CONG",
+            "address": "339 Summer St\nRockland MA  02370-2711\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "12:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "781-878-6773",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "28F35BD1-2AE4-462B-A88C-F680A44F502F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 41.701579,
+            "longitude": -70.483829
+        },
+        "properties": {
+            "orgGuid": "28F35BD1-2AE4-462B-A88C-F680A44F502F",
+            "orgName": "Sandwich - MA (USA)",
+            "orgType": "CONG",
+            "address": "264 Cotuit Rd\nSandwich MA  02563-2493\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(774) 269-0013",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "6D15142C-11CD-42D8-B815-C664AB20DFE6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 41.701579,
+            "longitude": -70.483829
+        },
+        "properties": {
+            "orgGuid": "6D15142C-11CD-42D8-B815-C664AB20DFE6",
+            "orgName": "Mashpee - MA (USA)",
+            "orgType": "CONG",
+            "address": "264 Cotuit Rd\nSandwich MA  02563-2493\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "508 280 0945",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "360DC792-F3EA-4CE0-A005-1462B39B20A9",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 41.701579,
+            "longitude": -70.483829
+        },
+        "properties": {
+            "orgGuid": "360DC792-F3EA-4CE0-A005-1462B39B20A9",
+            "orgName": "Portuguese - Hyannis MA (USA)",
+            "orgType": "CONG",
+            "address": "264 Cotuit Rd\nSandwich MA  02563-2493\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(508) 685-1965",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "5A3892FE-02B1-416D-B1E0-6C76501F3678",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 41.944115,
+            "longitude": -70.597682
+        },
+        "properties": {
+            "orgGuid": "5A3892FE-02B1-416D-B1E0-6C76501F3678",
+            "orgName": "Plymouth - MA (USA)",
+            "orgType": "CONG",
+            "address": "144 Rocky Hill Rd\nPlymouth MA  02360-5504\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "508 922-4168",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "D05F0DAD-9389-4E2F-BAFF-E85A8B4FBB02",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 41.708685,
+            "longitude": -70.164689
+        },
+        "properties": {
+            "orgGuid": "D05F0DAD-9389-4E2F-BAFF-E85A8B4FBB02",
+            "orgName": "Hyannis - MA (USA)",
+            "orgType": "CONG",
+            "address": "316 Old Bass River Rd\nSouth Dennis MA  02660-2763\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "S"
+            ],
+            "phones": [
+                {
+                    "phone": "508-815-3642",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "43FAC068-CAF0-4A5B-BE17-7EAE488D2482",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 41.708685,
+            "longitude": -70.164689
+        },
+        "properties": {
+            "orgGuid": "43FAC068-CAF0-4A5B-BE17-7EAE488D2482",
+            "orgName": "Harwich - MA (USA)",
+            "orgType": "CONG",
+            "address": "316 Old Bass River Rd\nSouth Dennis MA  02660-2763\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "774-840-1558",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "83B1B23B-4876-4015-801D-A6F73B40F6BA",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 41.708685,
+            "longitude": -70.164689
+        },
+        "properties": {
+            "orgGuid": "83B1B23B-4876-4015-801D-A6F73B40F6BA",
+            "orgName": "Spanish - Hyannis - MA (USA)",
+            "orgType": "GROUP",
+            "address": "316 Old Bass River Rd\nSouth Dennis MA  02660-2763\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "508-815-3642",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "8630C6B0-605B-47A9-A76E-D743DC429104",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 41.818481,
+            "longitude": -69.967985
+        },
+        "properties": {
+            "orgGuid": "8630C6B0-605B-47A9-A76E-D743DC429104",
+            "orgName": "Eastham - MA (USA)",
+            "orgType": "CONG",
+            "address": "55 Governor Prence Rd\nEastham MA  02642-3342\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "774-231-8003",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "A7490F06-BFC6-4948-A5F0-C7AA6EDD1C4F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.151173,
+            "longitude": -71.992032
+        },
+        "properties": {
+            "orgGuid": "A7490F06-BFC6-4948-A5F0-C7AA6EDD1C4F",
+            "orgName": "Woodsville - NH (USA)",
+            "orgType": "CONG",
+            "address": "431 Rum Hill Rd\nBath NH  03740-4505\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(603) 747-2279",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "B39788A1-1DA3-481D-B322-D4CC083FB084",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.536809,
+            "longitude": -71.568555
+        },
+        "properties": {
+            "orgGuid": "B39788A1-1DA3-481D-B322-D4CC083FB084",
+            "orgName": "Lancaster - NH (USA)",
+            "orgType": "CONG",
+            "address": "709 Main St\nLancaster NH  03584-3615\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "603-788-2438",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "0C117A01-7448-4A7E-8A2C-851AD41227FD",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.384657,
+            "longitude": -71.235271
+        },
+        "properties": {
+            "orgGuid": "0C117A01-7448-4A7E-8A2C-851AD41227FD",
+            "orgName": "Gorham - NH (USA)",
+            "orgType": "CONG",
+            "address": "271 Gorham Hill Rd\nGorham NH  03581-4838\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "1-603-752-7379",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "B2DC250C-ECDC-464D-BD31-2C922355DD9D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.884947,
+            "longitude": -71.441724
+        },
+        "properties": {
+            "orgGuid": "B2DC250C-ECDC-464D-BD31-2C922355DD9D",
+            "orgName": "Colebrook - NH (USA)",
+            "orgType": "CONG",
+            "address": "7 Carleton Hill Rd\nColebrook NH  03576-3761\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "16032378600",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "FE54376B-7546-412D-B294-4D96806777AB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.410838,
+            "longitude": -71.941993
+        },
+        "properties": {
+            "orgGuid": "FE54376B-7546-412D-B294-4D96806777AB",
+            "orgName": "Lennoxville, Sherbrooke, QC",
+            "orgType": "CONG",
+            "address": "2775 rue Prospect\r\nSherbrooke QC  J1L 2K1\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "819-200-0719",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "1E698D21-4901-4395-87B9-82341DB9C1A5",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.410838,
+            "longitude": -71.941993
+        },
+        "properties": {
+            "orgGuid": "1E698D21-4901-4395-87B9-82341DB9C1A5",
+            "orgName": "Bellevue, Sherbrooke, QC",
+            "orgType": "CONG",
+            "address": "2775 rue Prospect\r\nSherbrooke QC  J1L 2K1\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "819-200-0725",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "1107A99E-F314-43FF-8F10-1AAE5EC750AC",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.410838,
+            "longitude": -71.941993
+        },
+        "properties": {
+            "orgGuid": "1107A99E-F314-43FF-8F10-1AAE5EC750AC",
+            "orgName": "Hispana, Sherbrooke, QC",
+            "orgType": "CONG",
+            "address": "2775 rue Prospect\r\nSherbrooke QC  J1L 2K1\r\n\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "819-200-0725",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "84E360FB-6DE2-4D9B-810A-597EAA85B3FD",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.410838,
+            "longitude": -71.941993
+        },
+        "properties": {
+            "orgGuid": "84E360FB-6DE2-4D9B-810A-597EAA85B3FD",
+            "orgName": "Nord, Sherbrooke, QC",
+            "orgType": "CONG",
+            "address": "2775 rue Prospect\r\nSherbrooke QC  J1L 2K1\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "819-200-0719",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "760735DA-1B23-4A3D-8E16-96E6ED8B3703",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.410838,
+            "longitude": -71.941993
+        },
+        "properties": {
+            "orgGuid": "760735DA-1B23-4A3D-8E16-96E6ED8B3703",
+            "orgName": "Parc-Victoria, Sherbrooke, QC",
+            "orgType": "CONG",
+            "address": "2775 rue Prospect\r\nSherbrooke QC  J1L 2K1\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "819-200-0725",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "E36C67F3-AE72-4194-8C36-5181C1A4B61F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.410838,
+            "longitude": -71.941993
+        },
+        "properties": {
+            "orgGuid": "E36C67F3-AE72-4194-8C36-5181C1A4B61F",
+            "orgName": "Estrie Swahili, Sherbrooke, QC",
+            "orgType": "CONG",
+            "address": "2775 rue Prospect\r\nSherbrooke QC  J1L 2K1\r\n\r\n",
+            "languageCode": "SW",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "13:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "819-200-0719",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "5FB93CFA-3FCD-4811-B1E6-C510F09920DA",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.410838,
+            "longitude": -71.941993
+        },
+        "properties": {
+            "orgGuid": "5FB93CFA-3FCD-4811-B1E6-C510F09920DA",
+            "orgName": "Coaticook, QC",
+            "orgType": "CONG",
+            "address": "2775 rue Prospect\r\nSherbrooke QC  J1L 2K1\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:30"
+                    },
+                    "midweek": {
+                        "weekday": 1,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "819-200-0719",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "B5A966E1-B063-4EFE-B25E-51FA0C9528D7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.222628,
+            "longitude": -70.5908
+        },
+        "properties": {
+            "orgGuid": "B5A966E1-B063-4EFE-B25E-51FA0C9528D7",
+            "orgName": "Norway - ME (USA)",
+            "orgType": "CONG",
+            "address": "29 Greenwood Rd\r\nNorway ME  04268\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207-393-5050",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "5D987926-2394-4822-B3D7-CAA75CCDF9C9",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.057873,
+            "longitude": -70.275373
+        },
+        "properties": {
+            "orgGuid": "5D987926-2394-4822-B3D7-CAA75CCDF9C9",
+            "orgName": "Auburn - ME (USA)",
+            "orgType": "CONG",
+            "address": "2256 Hotel Rd\nAuburn ME  04210-8811\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(207) 782-4332",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "E11FFAD3-3D25-44FE-9E14-05195C134D9A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.481552,
+            "longitude": -71.677797
+        },
+        "properties": {
+            "orgGuid": "E11FFAD3-3D25-44FE-9E14-05195C134D9A",
+            "orgName": "East Angus, QC",
+            "orgType": "CONG",
+            "address": "440 avenue Warner\r\nEast Angus QC  J0B 1R0\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "819-832-3030",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "CF90B49D-D26F-434B-A224-2BD8EF109A7F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.082225,
+            "longitude": -70.171259
+        },
+        "properties": {
+            "orgGuid": "CF90B49D-D26F-434B-A224-2BD8EF109A7F",
+            "orgName": "Lewiston - ME (USA)",
+            "orgType": "CONG",
+            "address": "721 Webster St\nLewiston ME  04240-1649\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207-784-2024",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "F58DF87C-7406-4A0C-931C-D7F56FFCAD35",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.082225,
+            "longitude": -70.171259
+        },
+        "properties": {
+            "orgGuid": "F58DF87C-7406-4A0C-931C-D7F56FFCAD35",
+            "orgName": "Lisbon Portuguese - Lewiston ME (USA)",
+            "orgType": "CONG",
+            "address": "721 Webster St\nLewiston ME  04240-1649\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "18:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207 344 7724 - 207 312 7444",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "7E490A25-A964-4761-951F-FED981D542CF",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.537919,
+            "longitude": -70.51445
+        },
+        "properties": {
+            "orgGuid": "7E490A25-A964-4761-951F-FED981D542CF",
+            "orgName": "Rumford - ME (USA)",
+            "orgType": "CONG",
+            "address": "298 River Rd\nMexico ME  04257-1853\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(207) 369-9461",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "DC3E6576-AF26-46C8-986D-FB45AC35FF64",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.087226,
+            "longitude": -71.941421
+        },
+        "properties": {
+            "orgGuid": "DC3E6576-AF26-46C8-986D-FB45AC35FF64",
+            "orgName": "Érable, Victoriaville, QC",
+            "orgType": "CONG",
+            "address": "49 rue Allard\r\nVictoriaville QC  G6T 0S2\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "873-300-7988",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "3BFCD1E8-EFCF-48E0-8E7D-67EAA19D60EF",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.087226,
+            "longitude": -71.941421
+        },
+        "properties": {
+            "orgGuid": "3BFCD1E8-EFCF-48E0-8E7D-67EAA19D60EF",
+            "orgName": "Bois-Francs, Victoriaville, QC",
+            "orgType": "CONG",
+            "address": "49 rue Allard\r\nVictoriaville QC  G6T 0S2\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "873 300-7988",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "1F3F6B01-834B-4FFB-A9F6-6ABB98F59538",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.263154,
+            "longitude": -70.046048
+        },
+        "properties": {
+            "orgGuid": "1F3F6B01-834B-4FFB-A9F6-6ABB98F59538",
+            "orgName": "Monmouth - ME (USA)",
+            "orgType": "CONG",
+            "address": "585 US-202\nNorth Monmouth ME  04265-6233\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207-933-3739",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "50EE754B-68D4-49E2-B054-738CA36B79E3",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.004017,
+            "longitude": -69.612698
+        },
+        "properties": {
+            "orgGuid": "50EE754B-68D4-49E2-B054-738CA36B79E3",
+            "orgName": "Thomaston - ME (USA)",
+            "orgType": "CONG",
+            "address": "6 Station Rd\nNewcastle ME  04553-3911\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(978) 484-0053",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "D7A0B855-E2D5-425A-809C-0AA88ADBDD9B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.004017,
+            "longitude": -69.612698
+        },
+        "properties": {
+            "orgGuid": "D7A0B855-E2D5-425A-809C-0AA88ADBDD9B",
+            "orgName": "Newcastle - ME (USA)",
+            "orgType": "CONG",
+            "address": "6 Station Rd\nNewcastle ME  04553-3911\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207-687-8465",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "D3B61F0F-8851-4058-95F0-A6416A3818ED",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.208871,
+            "longitude": -71.788403
+        },
+        "properties": {
+            "orgGuid": "D3B61F0F-8851-4058-95F0-A6416A3818ED",
+            "orgName": "Plessisville, QC",
+            "orgType": "CONG",
+            "address": "574 rue Saint-Calixte\r\nPlessisville QC  G6L 1N6\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(819) 789-0781",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "FB75238C-7686-4637-917A-CC1C066D36DB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.865798,
+            "longitude": -71.363977
+        },
+        "properties": {
+            "orgGuid": "FB75238C-7686-4637-917A-CC1C066D36DB",
+            "orgName": "Disraeli, QC",
+            "orgType": "CONG",
+            "address": "6517 Route 112\r\nBeaulac-Garthby QC  G0Y 1B0\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(581) 835-3006",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "77EAE0C9-91AB-4FAE-AA23-468DFCD03853",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.684232,
+            "longitude": -70.157163
+        },
+        "properties": {
+            "orgGuid": "77EAE0C9-91AB-4FAE-AA23-468DFCD03853",
+            "orgName": "Farmington - ME (USA)",
+            "orgType": "CONG",
+            "address": "266 Fairbanks Rd\nFarmington ME  04938-5728\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(207) 779-4053",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "A0CA82EF-71E5-4C19-A293-6996FB65954A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.33607,
+            "longitude": -69.687608
+        },
+        "properties": {
+            "orgGuid": "A0CA82EF-71E5-4C19-A293-6996FB65954A",
+            "orgName": "East - Augusta ME (USA)",
+            "orgType": "CONG",
+            "address": "8 Cross Hill Rd\nAugusta ME  04330-8441\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207-213-6454",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "06DA3555-4F20-4557-B563-A56E738AE2F0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.33607,
+            "longitude": -69.687608
+        },
+        "properties": {
+            "orgGuid": "06DA3555-4F20-4557-B563-A56E738AE2F0",
+            "orgName": "West - Augusta ME (USA)",
+            "orgType": "CONG",
+            "address": "8 Cross Hill Rd\nAugusta ME  04330-8441\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207-558-2661",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "391FFB7B-65DA-410A-92D3-D7886E6D3FE7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.593845,
+            "longitude": -70.91266
+        },
+        "properties": {
+            "orgGuid": "391FFB7B-65DA-410A-92D3-D7886E6D3FE7",
+            "orgName": "Lac-Mégantic, QC",
+            "orgType": "CONG",
+            "address": "3060 rue Laval\r\nLac-Mégantic QC  G6B 1A4\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "819-554-8113",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "3BD58552-3DAC-4E45-A821-A9ACF06B6742",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.117033,
+            "longitude": -71.271267
+        },
+        "properties": {
+            "orgGuid": "3BD58552-3DAC-4E45-A821-A9ACF06B6742",
+            "orgName": "Thetford-Mines, Thetford Mines, QC",
+            "orgType": "CONG",
+            "address": "2383 boulevard Frontenac E\r\nThetford Mines QC  G6G 6P6\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(581) 333-7668",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "7921D64A-F46A-4613-9244-7CBB1ACF9C85",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.575348,
+            "longitude": -69.64452
+        },
+        "properties": {
+            "orgGuid": "7921D64A-F46A-4613-9244-7CBB1ACF9C85",
+            "orgName": "Waterville - ME (USA)",
+            "orgType": "CONG",
+            "address": "416 Upper Main St\nWaterville ME  04901\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207-872-9310",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "C975FD20-28F3-4974-B322-2D9CE879E9CB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.575348,
+            "longitude": -69.64452
+        },
+        "properties": {
+            "orgGuid": "C975FD20-28F3-4974-B322-2D9CE879E9CB",
+            "orgName": "Fairfield - ME (USA)",
+            "orgType": "CONG",
+            "address": "416 Upper Main St\nWaterville ME  04901\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207 872-9310",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "10D0F79B-ACBE-4B83-9BD6-B04C708A1C19",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.680939,
+            "longitude": -71.720974
+        },
+        "properties": {
+            "orgGuid": "10D0F79B-ACBE-4B83-9BD6-B04C708A1C19",
+            "orgName": "Donnacona, QC",
+            "orgType": "CONG",
+            "address": "470 route 138\r\nDonnacona QC  G3M 1C2\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "418-474-0749",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "CB99DF7D-21EC-4E7E-BF76-6F0623A6696F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.858375,
+            "longitude": -69.798295
+        },
+        "properties": {
+            "orgGuid": "CB99DF7D-21EC-4E7E-BF76-6F0623A6696F",
+            "orgName": "Skowhegan - ME (USA)",
+            "orgType": "CONG",
+            "address": "1252 Lakewood Rd\nMadison ME  04950-3629\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(207) 634-4753",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "CC2CE69A-28AF-44BD-B4C5-7ACD05D8544F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.610748,
+            "longitude": -71.503607
+        },
+        "properties": {
+            "orgGuid": "CC2CE69A-28AF-44BD-B4C5-7ACD05D8544F",
+            "orgName": "Saint-Apollinaire, QC",
+            "orgType": "CONG",
+            "address": "363 route 273\r\nSaint-Apollinaire QC  G0S 2E0\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(418) 881-0359",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "14674E2A-C4B8-4746-BB4A-843EFFCBF306",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.537434,
+            "longitude": -69.420149
+        },
+        "properties": {
+            "orgGuid": "14674E2A-C4B8-4746-BB4A-843EFFCBF306",
+            "orgName": "Albion - ME (USA)",
+            "orgType": "CONG",
+            "address": "170 Unity Rd\nAlbion ME  04910-6207\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(207)441-4150",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "DA744581-0329-4466-BF99-6966421D27D9",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.410602,
+            "longitude": -69.086594
+        },
+        "properties": {
+            "orgGuid": "DA744581-0329-4466-BF99-6966421D27D9",
+            "orgName": "Belfast - ME (USA)",
+            "orgType": "CONG",
+            "address": "353 Belmont Ave\nBelfast ME  04915-7563\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207-338-2871",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "85CB60C1-A200-4256-9CD4-2C1D151F7DD9",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.410602,
+            "longitude": -69.086594
+        },
+        "properties": {
+            "orgGuid": "85CB60C1-A200-4256-9CD4-2C1D151F7DD9",
+            "orgName": "Rockland - ME (USA)",
+            "orgType": "CONG",
+            "address": "353 Belmont Ave\nBelfast ME  04915-7563\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207-338-2871",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "F53D0DB2-3345-46FC-8FD5-E783866CDB8A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.465467,
+            "longitude": -71.051622
+        },
+        "properties": {
+            "orgGuid": "F53D0DB2-3345-46FC-8FD5-E783866CDB8A",
+            "orgName": "Sainte-Marie-de-Beauce, Sainte-Marie, QC",
+            "orgType": "CONG",
+            "address": "1545 route Kennedy N\r\nSainte-Marie QC  G6E 3N8\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "418-387-7021",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "EA9EBAC2-679B-4276-958A-19FDB252CDC4",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.792334,
+            "longitude": -69.364606
+        },
+        "properties": {
+            "orgGuid": "EA9EBAC2-679B-4276-958A-19FDB252CDC4",
+            "orgName": "Pittsfield - ME (USA)",
+            "orgType": "CONG",
+            "address": "582 N Main St\nPittsfield ME  04967-3703\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207-408-8853",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "15317456-757E-4A01-91EC-C41CF9491784",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.094601,
+            "longitude": -70.629761
+        },
+        "properties": {
+            "orgGuid": "15317456-757E-4A01-91EC-C41CF9491784",
+            "orgName": "Saint-Georges-de-Beauce, Saint-Georges, QC",
+            "orgType": "CONG",
+            "address": "18555 boulevard Lacroix\r\nRR 2\r\nSaint-Georges QC  G5Y 5B8\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "866-357-8111",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "04C718DB-A972-44DA-822F-3BEEC70A45BE",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.733719,
+            "longitude": -71.265565
+        },
+        "properties": {
+            "orgGuid": "04C718DB-A972-44DA-822F-3BEEC70A45BE",
+            "orgName": "Saint-Romuald, QC",
+            "orgType": "CONG",
+            "address": "1162 boulevard Guillaume-Couture\r\nLévis QC  G6W 0R8\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "581-500-0096",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "80A7CC5D-BDFC-45DC-8122-A5E6E00B0B12",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.829584,
+            "longitude": -71.346188
+        },
+        "properties": {
+            "orgGuid": "80A7CC5D-BDFC-45DC-8122-A5E6E00B0B12",
+            "orgName": "Laurentien, Québec, QC",
+            "orgType": "CONG",
+            "address": "8230 boulevard De l'Ormière\r\nQuébec QC  G2C 1C3\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(581) 700-0034",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "79EA8C56-E1DB-4B2B-A95C-68220D6BB614",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.829584,
+            "longitude": -71.346188
+        },
+        "properties": {
+            "orgGuid": "79EA8C56-E1DB-4B2B-A95C-68220D6BB614",
+            "orgName": "Langue des signes, Québec, QC",
+            "orgType": "CONG",
+            "address": "8230 boulevard De l'Ormière\r\nQuébec QC  G2C 1C3\r\n\r\n",
+            "languageCode": "LSQ",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:15"
+                    },
+                    "midweek": {
+                        "weekday": 1,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(581) 700-0034",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "0238A29E-8583-4A90-900B-893A89AB17D9",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.813111,
+            "longitude": -71.275407
+        },
+        "properties": {
+            "orgGuid": "0238A29E-8583-4A90-900B-893A89AB17D9",
+            "orgName": "Laurier, Québec, QC",
+            "orgType": "CONG",
+            "address": "1300 boulevard Père-Lelièvre\r\nQuébec QC  G1M 3P1\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "581-700-2908",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "E182E13B-D2E5-48B5-83A5-2985D33354C5",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.813111,
+            "longitude": -71.275407
+        },
+        "properties": {
+            "orgGuid": "E182E13B-D2E5-48B5-83A5-2985D33354C5",
+            "orgName": "Sainte-Foy, Québec, QC",
+            "orgType": "CONG",
+            "address": "1300 boulevard Père-Lelièvre\r\nQuébec QC  G1M 3P1\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "581-700-2908",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "CBC13CFA-7171-46B8-AA1B-28A542B16207",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.813111,
+            "longitude": -71.275407
+        },
+        "properties": {
+            "orgGuid": "CBC13CFA-7171-46B8-AA1B-28A542B16207",
+            "orgName": "Hispana, Québec, QC",
+            "orgType": "CONG",
+            "address": "1300 boulevard Père-Lelièvre\r\nQuébec QC  G1M 3P1\r\n\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:15"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "T"
+            ],
+            "phones": [
+                {
+                    "phone": "581-700-2909",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "4A84F621-BA17-4DFC-94CF-D15C41DB4C15",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.813111,
+            "longitude": -71.275407
+        },
+        "properties": {
+            "orgGuid": "4A84F621-BA17-4DFC-94CF-D15C41DB4C15",
+            "orgName": "Center English, Québec, QC",
+            "orgType": "CONG",
+            "address": "1300 boulevard Père-Lelièvre\r\nQuébec QC  G1M 3P1\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:15"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "581-700-2909",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "00099AA0-B4C6-4BCC-A7B4-5260594CAC43",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.813111,
+            "longitude": -71.275407
+        },
+        "properties": {
+            "orgGuid": "00099AA0-B4C6-4BCC-A7B4-5260594CAC43",
+            "orgName": "(Pre) Hispana-Portugais - Hispana, Québec, QC",
+            "orgType": "GROUP",
+            "address": "1300 boulevard Père-Lelièvre\r\nQuébec QC  G1M 3P1\r\n\r\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:15"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "S"
+            ],
+            "phones": [
+                {
+                    "phone": "581-700-2909",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "1AC3AE9D-7E0D-47B5-A1EA-EE1595C65C2C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.857908,
+            "longitude": -71.262049
+        },
+        "properties": {
+            "orgGuid": "1AC3AE9D-7E0D-47B5-A1EA-EE1595C65C2C",
+            "orgName": "Charlesbourg, Québec, QC",
+            "orgType": "CONG",
+            "address": "7070 boulevard Henri-Bourassa\r\nQuébec QC  G1H 3E1\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:15"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "581-700-0080",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "1202E429-5E9A-40CF-9F8E-05EE1D3CF35F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.857908,
+            "longitude": -71.262049
+        },
+        "properties": {
+            "orgGuid": "1202E429-5E9A-40CF-9F8E-05EE1D3CF35F",
+            "orgName": "Frontenac, Québec, QC",
+            "orgType": "CONG",
+            "address": "7070 boulevard Henri-Bourassa\r\nQuébec QC  G1H 3E1\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "581-700-0080",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "07907084-40EA-41EA-A6D4-85D56BD7E27B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.857908,
+            "longitude": -71.262049
+        },
+        "properties": {
+            "orgGuid": "07907084-40EA-41EA-A6D4-85D56BD7E27B",
+            "orgName": "Nord Swahili, Québec, QC",
+            "orgType": "CONG",
+            "address": "7070 boulevard Henri-Bourassa\r\nQuébec QC  G1H 3E1\r\n\r\n",
+            "languageCode": "SW",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "13:30"
+                    },
+                    "midweek": {
+                        "weekday": 1,
+                        "time": "19:15"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "581-700-0080",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "AC047F86-B947-4BC7-B3CA-8141D5AC45D5",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.780234,
+            "longitude": -71.165356
+        },
+        "properties": {
+            "orgGuid": "AC047F86-B947-4BC7-B3CA-8141D5AC45D5",
+            "orgName": "Est, Lévis, QC",
+            "orgType": "CONG",
+            "address": "5225 rue Louis-H. Lafontaine\r\nLévis QC  G6V 8X4\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "581-500-1215",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "D2165711-63C4-4AFB-87C4-209E98AEE35F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.780234,
+            "longitude": -71.165356
+        },
+        "properties": {
+            "orgGuid": "D2165711-63C4-4AFB-87C4-209E98AEE35F",
+            "orgName": "Ouest, Lévis, QC",
+            "orgType": "CONG",
+            "address": "5225 rue Louis-H. Lafontaine\r\nLévis QC  G6V 8X4\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "581-500-1215",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "71703799-767E-465B-BCAB-EA426351AA2A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.612548,
+            "longitude": -68.931183
+        },
+        "properties": {
+            "orgGuid": "71703799-767E-465B-BCAB-EA426351AA2A",
+            "orgName": "Searsport - ME (USA)",
+            "orgType": "CONG",
+            "address": "51 North Searsport Rd\nFrankfort ME  04438-3200\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207-223-4208",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "1917DA60-810D-4D95-8276-388333349E05",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.927254,
+            "longitude": -69.243595
+        },
+        "properties": {
+            "orgGuid": "1917DA60-810D-4D95-8276-388333349E05",
+            "orgName": "Corinna - ME (USA)",
+            "orgType": "CONG",
+            "address": "1 Greenbush Rd\nCorinna ME  04928\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207-368-7070",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "FFF789D0-EE4C-4D23-85F8-9782D423FDC1",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.890508,
+            "longitude": -71.173227
+        },
+        "properties": {
+            "orgGuid": "FFF789D0-EE4C-4D23-85F8-9782D423FDC1",
+            "orgName": "Beauport, Québec, QC",
+            "orgType": "CONG",
+            "address": "1000 rue des Quatre-Temps\r\nBeauport QC  G1C 5Y7\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(581) 814-7386",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "46CE6748-7ACE-49AA-9B46-2AFCCD8AB6E1",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.890508,
+            "longitude": -71.173227
+        },
+        "properties": {
+            "orgGuid": "46CE6748-7ACE-49AA-9B46-2AFCCD8AB6E1",
+            "orgName": "Orléans, Québec, QC",
+            "orgType": "CONG",
+            "address": "1000 rue des Quatre-Temps\r\nBeauport QC  G1C 5Y7\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(581) 814-7386",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "CD1B1814-833F-4A37-8EDC-7C7C123A0940",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.605639,
+            "longitude": -68.817441
+        },
+        "properties": {
+            "orgGuid": "CD1B1814-833F-4A37-8EDC-7C7C123A0940",
+            "orgName": "Bucksport - ME (USA)",
+            "orgType": "CONG",
+            "address": "439 River Rd\nBucksport ME  04416-4221\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207-469-2020",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "BEFA7904-7DED-4309-B513-961405878B8F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.401069,
+            "longitude": -70.521196
+        },
+        "properties": {
+            "orgGuid": "BEFA7904-7DED-4309-B513-961405878B8F",
+            "orgName": "Lac-Etchemin, QC",
+            "orgType": "CONG",
+            "address": "1536 route 277\r\nLac-Etchemin QC  G0R 1S0\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "581-820-3393",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "E3EB5240-1E6F-4D30-A3B6-F40FBF72344D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.625539,
+            "longitude": -70.651815
+        },
+        "properties": {
+            "orgGuid": "E3EB5240-1E6F-4D30-A3B6-F40FBF72344D",
+            "orgName": "Saint-Damien, Saint-Damien-de-Buckland, QC",
+            "orgType": "CONG",
+            "address": "214 chemin Métivier\r\nSaint-Damien-de-Buckland QC  G0R 2Y0\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "1-866-357-6555",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "A77B16CE-FA80-4AC7-AEC4-64BE0D6A4174",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.856999,
+            "longitude": -68.820857
+        },
+        "properties": {
+            "orgGuid": "A77B16CE-FA80-4AC7-AEC4-64BE0D6A4174",
+            "orgName": "Bangor - ME (USA)",
+            "orgType": "CONG",
+            "address": "2029 Broadway\nBangor ME  04401-2103\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "ASL"
+            ],
+            "phones": [
+                {
+                    "phone": "2079424104",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "D6767558-832E-46A0-A4E5-59A5F1986FD8",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.856999,
+            "longitude": -68.820857
+        },
+        "properties": {
+            "orgGuid": "D6767558-832E-46A0-A4E5-59A5F1986FD8",
+            "orgName": "American Sign Language - Bangor - ME (USA)",
+            "orgType": "GROUP",
+            "address": "2029 Broadway\nBangor ME  04401-2103\n",
+            "languageCode": "ASL",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "2079424104",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "4F2B5007-56AA-4A71-9DDA-B7E95B4D6AC6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.418882,
+            "longitude": -68.356987
+        },
+        "properties": {
+            "orgGuid": "4F2B5007-56AA-4A71-9DDA-B7E95B4D6AC6",
+            "orgName": "Bar Harbor - ME (USA)",
+            "orgType": "CONG",
+            "address": "1428 ME-3\nBar Harbor ME  04609-7134\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207 479 4673",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "24A14001-B11F-4445-8FD8-7774C4172B84",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.545112,
+            "longitude": -68.444783
+        },
+        "properties": {
+            "orgGuid": "24A14001-B11F-4445-8FD8-7774C4172B84",
+            "orgName": "Ellsworth - ME (USA)",
+            "orgType": "CONG",
+            "address": "84 Christian Ridge Rd\nEllsworth ME  04605-3210\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207-813-8080",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "8B97C404-64A5-4714-BEB2-B2C9F90CD636",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.241346,
+            "longitude": -69.036519
+        },
+        "properties": {
+            "orgGuid": "8B97C404-64A5-4714-BEB2-B2C9F90CD636",
+            "orgName": "Milo - ME (USA)",
+            "orgType": "CONG",
+            "address": "472 W Main St\nMilo ME  04463\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207 943-2677",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "F60298E5-9C29-44E0-9F12-7D22D295B6B6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.9057,
+            "longitude": -68.645552
+        },
+        "properties": {
+            "orgGuid": "F60298E5-9C29-44E0-9F12-7D22D295B6B6",
+            "orgName": "Old Town - ME (USA)",
+            "orgType": "CONG",
+            "address": "1189 Main St\nOld Town ME  04468-2022\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(207) 827-8376",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "A0D5E62A-BCE2-4252-BEC7-04225CD865DD",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.978076,
+            "longitude": -70.573193
+        },
+        "properties": {
+            "orgGuid": "A0D5E62A-BCE2-4252-BEC7-04225CD865DD",
+            "orgName": "Montmagny, QC",
+            "orgType": "CONG",
+            "address": "128 boulevard Taché O\r\nMontmagny QC  G5V 3A5\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(581) 632-0941",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "A00D38A5-05AB-4B0F-9D57-52ABF9C92FE1",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.353457,
+            "longitude": -68.534323
+        },
+        "properties": {
+            "orgGuid": "A00D38A5-05AB-4B0F-9D57-52ABF9C92FE1",
+            "orgName": "Lincoln - ME (USA)",
+            "orgType": "CONG",
+            "address": "343 W Broadway\nLincoln ME  04457\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207 794 3009",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "55605FC7-BA56-4996-81EF-9EC9D9CCF383",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 47.199257,
+            "longitude": -70.246821
+        },
+        "properties": {
+            "orgGuid": "55605FC7-BA56-4996-81EF-9EC9D9CCF383",
+            "orgName": "Port-Joli, Saint-Jean-Port-Joli, QC",
+            "orgType": "CONG",
+            "address": "10 rue de la Station\r\nSaint-Jean-Port-Joli QC  G0R 3G0\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "418 598-0344",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "CAF40C5F-4E0A-470E-A451-614651CC7FAA",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 47.684158,
+            "longitude": -70.263777
+        },
+        "properties": {
+            "orgGuid": "CAF40C5F-4E0A-470E-A451-614651CC7FAA",
+            "orgName": "La Malbaie, QC",
+            "orgType": "CONG",
+            "address": "21 route 138\r\nSaint-Aimé-des-Lacs QC  G0T 1S0\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "418-633- 6247",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "6DEC4EC1-BF0E-4C8C-9C0D-FA236D570C65",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 43.868693,
+            "longitude": -66.12952
+        },
+        "properties": {
+            "orgGuid": "6DEC4EC1-BF0E-4C8C-9C0D-FA236D570C65",
+            "orgName": "Yarmouth, NS",
+            "orgType": "CONG",
+            "address": "391 Main Shore Road\r\nRR 3\r\nYarmouth NS  B5A 4A7\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "902-748-0235",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "D38BE795-4E9A-4DB0-96A0-9EE9D4627196",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 47.861625,
+            "longitude": -69.549008
+        },
+        "properties": {
+            "orgGuid": "D38BE795-4E9A-4DB0-96A0-9EE9D4627196",
+            "orgName": "Rivière-du-Loup, QC",
+            "orgType": "CONG",
+            "address": "17 boulevard Cartier\r\nRivière-du-Loup QC  G5R 5Z3\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(581) 801-5629",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "E3CCCF9C-37D9-4836-A2F7-659AC1A763CE",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.401572,
+            "longitude": -65.997469
+        },
+        "properties": {
+            "orgGuid": "E3CCCF9C-37D9-4836-A2F7-659AC1A763CE",
+            "orgName": "Weymouth, NS",
+            "orgType": "CONG",
+            "address": "7434 Payson Rd (Highway 340)\r\nWeymouth NS  B0W 3T0\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "902-837-5264",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "09D42653-F7EC-4EA5-8A14-F2E3417B6CC5",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 47.206377,
+            "longitude": -68.54795
+        },
+        "properties": {
+            "orgGuid": "09D42653-F7EC-4EA5-8A14-F2E3417B6CC5",
+            "orgName": "Fort Kent - ME (USA)",
+            "orgType": "CONG",
+            "address": "913 Caribou Rd\nFort Kent ME  04743-1533\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(207) 834-6486",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "30606DAF-AF7F-4646-9DDC-698F87140B1A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 47.681325,
+            "longitude": -68.907366
+        },
+        "properties": {
+            "orgGuid": "30606DAF-AF7F-4646-9DDC-698F87140B1A",
+            "orgName": "Cabano, QC",
+            "orgType": "CONG",
+            "address": "1131 chemin du Golf\r\nTémiscouata-sur-le-Lac QC  G0L 1E0\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(418) -854-0833",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "5D4FCE62-E494-48E6-9A41-71F3B6BC8591",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.594975,
+            "longitude": -65.767659
+        },
+        "properties": {
+            "orgGuid": "5D4FCE62-E494-48E6-9A41-71F3B6BC8591",
+            "orgName": "Digby, NS",
+            "orgType": "CONG",
+            "address": "179 Beechwood Lane\r\nDigby NS  B0V 1A0\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "782-828-5578",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "84330AAD-EAC7-435E-9545-4BE2BCD8C0C7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.882267,
+            "longitude": -68.040663
+        },
+        "properties": {
+            "orgGuid": "84330AAD-EAC7-435E-9545-4BE2BCD8C0C7",
+            "orgName": "Caribou - ME (USA)",
+            "orgType": "CONG",
+            "address": "596 Sweden St\nCaribou ME  04736-3418\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "207-493-7791",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "D08999B9-1FF0-49CB-8BBC-088771DDD466",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.1215,
+            "longitude": -67.185047
+        },
+        "properties": {
+            "orgGuid": "D08999B9-1FF0-49CB-8BBC-088771DDD466",
+            "orgName": "Millville, NB",
+            "orgType": "CONG",
+            "address": "3786 route 104\r\nMillville NB  E6E 2H5\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "506-230-9282",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "C8F3EAA6-4B1E-4C43-A203-B7F1CB542C90",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 47.390985,
+            "longitude": -68.349549
+        },
+        "properties": {
+            "orgGuid": "C8F3EAA6-4B1E-4C43-A203-B7F1CB542C90",
+            "orgName": "Edmundston, NB",
+            "orgType": "CONG",
+            "address": "155 boulevard Acadie\r\nEdmundston NB  E3V 4H6\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(506) 501-1893",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "CBC15D04-897B-4641-83E2-4F52AE1E96DC",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.348814,
+            "longitude": -66.244427
+        },
+        "properties": {
+            "orgGuid": "CBC15D04-897B-4641-83E2-4F52AE1E96DC",
+            "orgName": "Westfield, NB",
+            "orgType": "CONG",
+            "address": "461 Kingdom Road\r\nGrand Bay-Westfield NB  E5K 4X3\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "506-757-8653",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "FBBCDDFB-EB45-4E97-9CC6-4A403EA84F1C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.278332,
+            "longitude": -66.071227
+        },
+        "properties": {
+            "orgGuid": "FBBCDDFB-EB45-4E97-9CC6-4A403EA84F1C",
+            "orgName": "Carleton, Saint John, NB",
+            "orgType": "CONG",
+            "address": "67 Magazine Street\r\nSaint John NB  E2K 5S4\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "CHM"
+            ],
+            "phones": [
+                {
+                    "phone": "506-652-3670",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "FA4DF66B-053F-4989-B60E-EC2FA0E36969",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.278332,
+            "longitude": -66.071227
+        },
+        "properties": {
+            "orgGuid": "FA4DF66B-053F-4989-B60E-EC2FA0E36969",
+            "orgName": "Carleton Chinese - Carleton, Saint John, NB",
+            "orgType": "GROUP",
+            "address": "67 Magazine Street\r\nSaint John NB  E2K 5S4\r\n\r\n",
+            "languageCode": "CHM",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "506-652-3670",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "39986599-A222-487D-B23C-0E6208A71C28",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 44.764188,
+            "longitude": -65.496594
+        },
+        "properties": {
+            "orgGuid": "39986599-A222-487D-B23C-0E6208A71C28",
+            "orgName": "Annapolis, Annapolis Royal, NS",
+            "orgType": "CONG",
+            "address": "4835 Highway 1\r\nEvangeline Trail\r\nGranville Ferry NS  B0S 1A0\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "902-532-0432",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "336B1875-048B-49A9-9FA4-9098F41F1298",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.840225,
+            "longitude": -66.50542
+        },
+        "properties": {
+            "orgGuid": "336B1875-048B-49A9-9FA4-9098F41F1298",
+            "orgName": "Oromocto, NB",
+            "orgType": "CONG",
+            "address": "16 Doyle Drive\r\nOromocto NB  E2V 0B4\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "506-206-7446",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "5F87E75A-850F-47D3-956C-46E4FA6EB501",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.313534,
+            "longitude": -65.965686
+        },
+        "properties": {
+            "orgGuid": "5F87E75A-850F-47D3-956C-46E4FA6EB501",
+            "orgName": "Bayside, Saint John, NB",
+            "orgType": "CONG",
+            "address": "2020 Loch Lomond Rd\r\nSaint John NB  E2J 1A2\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "506-696-6680",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "E7CC2B51-7F55-460F-8600-67DDBBF9AC06",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.998119,
+            "longitude": -66.631713
+        },
+        "properties": {
+            "orgGuid": "E7CC2B51-7F55-460F-8600-67DDBBF9AC06",
+            "orgName": "Nashwaak, Fredericton, NB",
+            "orgType": "CONG",
+            "address": "1045 Saint Marys Street\r\nFredericton NB  E3G 8S7\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "506-471-9817",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "4DC9208C-0146-4D6B-9377-01E99D94BE15",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.998119,
+            "longitude": -66.631713
+        },
+        "properties": {
+            "orgGuid": "4DC9208C-0146-4D6B-9377-01E99D94BE15",
+            "orgName": "O'Dell Park, Fredericton, NB",
+            "orgType": "CONG",
+            "address": "1045 Saint Marys Street\r\nFredericton NB  E3G 8S7\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "506-471-9817",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "0499D3D3-ACB5-4E97-A32A-B0D6AA6B8969",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.437486,
+            "longitude": -65.915227
+        },
+        "properties": {
+            "orgGuid": "0499D3D3-ACB5-4E97-A32A-B0D6AA6B8969",
+            "orgName": "Rothesay, NB",
+            "orgType": "CONG",
+            "address": "14 Elliot Road\r\nQuispamsis NB  E2G 2B6\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:15"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "506-566-4485",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "8A771F07-FBFF-4043-A10D-7C252BDD8F98",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.092615,
+            "longitude": -66.050784
+        },
+        "properties": {
+            "orgGuid": "8A771F07-FBFF-4043-A10D-7C252BDD8F98",
+            "orgName": "Minto, NB",
+            "orgType": "CONG",
+            "address": "1000 Pleasant Drive\r\nMinto NB  E4B 3W1\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(506) 267 0538",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "A744A678-DA15-4C5C-96E6-9F3488A3761A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.711158,
+            "longitude": -65.482045
+        },
+        "properties": {
+            "orgGuid": "A744A678-DA15-4C5C-96E6-9F3488A3761A",
+            "orgName": "Sussex, NB",
+            "orgType": "CONG",
+            "address": "1155 Main Street\r\nSussex Corner NB  E4E 2Z5\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:15"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "506-433-0315",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "A7E7ABEB-2E5F-4BD7-A637-8C430B7759F1",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.030087,
+            "longitude": -65.039962
+        },
+        "properties": {
+            "orgGuid": "A7E7ABEB-2E5F-4BD7-A637-8C430B7759F1",
+            "orgName": "Salisbury, NB",
+            "orgType": "CONG",
+            "address": "2708 Fredericton Road\r\nSalisbury NB  E4J 3C7\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:15"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(866) 386-0444",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "2AA8AFB5-9393-4133-9529-1ACD284F3910",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.093334,
+            "longitude": -64.799638
+        },
+        "properties": {
+            "orgGuid": "2AA8AFB5-9393-4133-9529-1ACD284F3910",
+            "orgName": "Parkton, Moncton, NB",
+            "orgType": "CONG",
+            "address": "25 War Veterans Avenue\r\nMoncton NB  E1C 0E7\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "506-855-2091",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "E3271D2A-2D65-4A61-A26B-8D5F3B6BB881",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.093334,
+            "longitude": -64.799638
+        },
+        "properties": {
+            "orgGuid": "E3271D2A-2D65-4A61-A26B-8D5F3B6BB881",
+            "orgName": "Riverview, Moncton, NB",
+            "orgType": "CONG",
+            "address": "25 War Veterans Avenue\r\nMoncton NB  E1C 0E7\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "506-855-2091",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "35043A13-50FD-47AF-83B9-F5BB16DEBB50",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.093334,
+            "longitude": -64.799638
+        },
+        "properties": {
+            "orgGuid": "35043A13-50FD-47AF-83B9-F5BB16DEBB50",
+            "orgName": "Central Tagalog, Moncton, NB",
+            "orgType": "CONG",
+            "address": "25 War Veterans Avenue\r\nMoncton NB  E1C 0E7\r\n\r\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "19:15"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "506-855-2091",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "155E42DA-1FE6-4F9D-996D-A04CE75CE22E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.099827,
+            "longitude": -64.726363
+        },
+        "properties": {
+            "orgGuid": "155E42DA-1FE6-4F9D-996D-A04CE75CE22E",
+            "orgName": "Victoria Gardens, Moncton, NB",
+            "orgType": "CONG",
+            "address": "668 Champlain Street\r\nDieppe NB  E1A 1P5\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:15"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "ASL"
+            ],
+            "phones": [
+                {
+                    "phone": "(506) 777-3234",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "D1769020-905A-4EE9-9643-02B641084A75",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.099827,
+            "longitude": -64.726363
+        },
+        "properties": {
+            "orgGuid": "D1769020-905A-4EE9-9643-02B641084A75",
+            "orgName": "Dieppe, Moncton, NB",
+            "orgType": "CONG",
+            "address": "668 Champlain Street\r\nDieppe NB  E1A 1P5\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "13:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:15"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(506) 777-3234",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "002BAAD4-C36C-4774-9915-C1E89BA005A9",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 47.017025,
+            "longitude": -65.545185
+        },
+        "properties": {
+            "orgGuid": "002BAAD4-C36C-4774-9915-C1E89BA005A9",
+            "orgName": "Miramichi, NB",
+            "orgType": "CONG",
+            "address": "1040 King George Highway (Highway 8)\r\nMiramichi NB  E1V 5J6\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(506) 502-7199",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "C9E67359-5EEE-4787-957E-075911F0555F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 45.904867,
+            "longitude": -64.382839
+        },
+        "properties": {
+            "orgGuid": "C9E67359-5EEE-4787-957E-075911F0555F",
+            "orgName": "Sackville, NB",
+            "orgType": "CONG",
+            "address": "71 King Street\r\nSackville NB  E4L 3G4\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(506) 710-7345",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "47BF30BB-1C5D-4293-B2A2-4BC25CF4C0F1",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.225809,
+            "longitude": -64.483303
+        },
+        "properties": {
+            "orgGuid": "47BF30BB-1C5D-4293-B2A2-4BC25CF4C0F1",
+            "orgName": "Shediac, NB",
+            "orgType": "CONG",
+            "address": "1102 chemin Ohio\r\nBoudreau-Ouest NB  E4P 6N6\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(506) 712-0220",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "EBC63496-C928-4FA7-8FDA-9486937D0C69",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 46.225809,
+            "longitude": -64.483303
+        },
+        "properties": {
+            "orgGuid": "EBC63496-C928-4FA7-8FDA-9486937D0C69",
+            "orgName": "Beauséjour, Shediac, NB",
+            "orgType": "CONG",
+            "address": "1102 chemin Ohio\r\nBoudreau-Ouest NB  E4P 6N6\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(506) 712-0220",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    }
+]

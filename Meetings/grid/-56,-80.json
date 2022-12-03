@@ -1,0 +1,116 @@
+[
+    {
+        "geoId": "41371F6D-8308-477F-827B-D82780AD9472",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -51.73195,
+            "longitude": -72.501093
+        },
+        "properties": {
+            "orgGuid": "41371F6D-8308-477F-827B-D82780AD9472",
+            "orgName": "Puerto Natales",
+            "orgType": "CONG",
+            "address": "                                                         \r\nBlanco Encalada 743\r\nPUERTO NATALES  (XII. MAG)\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "18:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "973190975",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "09D4E963-5280-482F-B30E-5053DBAC3E5F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -51.53828,
+            "longitude": -72.34019
+        },
+        "properties": {
+            "orgGuid": "09D4E963-5280-482F-B30E-5053DBAC3E5F",
+            "orgName": "Río Turbio, Santa Cruz",
+            "orgType": "CONG",
+            "address": "Kurt Mayer 28\r\nRio Turbio, Santa Cruz\r\nC. P.:  9407           \r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "19:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "02902425417   --- 2966556982",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "FA2C9C34-517D-4F8E-B5D2-934AAFDE1523",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -50.343071,
+            "longitude": -72.276205
+        },
+        "properties": {
+            "orgGuid": "FA2C9C34-517D-4F8E-B5D2-934AAFDE1523",
+            "orgName": "El Calafate, Santa Cruz",
+            "orgType": "CONG",
+            "address": "Raymundo Freile 1793\r\nEl Calafate, Santa Cruz\r\nC. P.:  9405\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "20:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "2902 41-1197    / 2966 40 5184",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    }
+]

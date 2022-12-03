@@ -1,0 +1,40 @@
+[
+    {
+        "geoId": "00B330FB-CB87-4064-B70A-DC20E1D4F475",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 63.747085,
+            "longitude": -68.525597
+        },
+        "properties": {
+            "orgGuid": "00B330FB-CB87-4064-B70A-DC20E1D4F475",
+            "orgName": "Iqaluit, NU",
+            "orgType": "CONG",
+            "address": "Duplex 1018 A & B Iglulik Drive\r\nIqaluit NU  X0A 0H0\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(867) 979-3339",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    }
+]

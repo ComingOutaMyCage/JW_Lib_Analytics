@@ -1,0 +1,78 @@
+[
+    {
+        "geoId": "4F9E3535-C797-4734-AD2E-E273EAEA2C92",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -31.20971,
+            "longitude": 121.62544
+        },
+        "properties": {
+            "orgGuid": "4F9E3535-C797-4734-AD2E-E273EAEA2C92",
+            "orgName": "Kambalda - WA",
+            "orgType": "CONG",
+            "address": "2 Salmon Gum Road\nKAMBALDA WEST  WA  6444\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0418909197",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "06DF894F-DE29-452F-B658-6F8305191CC7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -30.755379,
+            "longitude": 121.484625
+        },
+        "properties": {
+            "orgGuid": "06DF894F-DE29-452F-B658-6F8305191CC7",
+            "orgName": "Kalgoorlie - WA",
+            "orgType": "CONG",
+            "address": "3 East Street\r\nSOUTH KALGOORLIE  WA  6430\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "08 9021 3907",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    }
+]

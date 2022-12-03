@@ -1,0 +1,359 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>JW Lib Analytics - All Congregations</title>
+    <meta property='og:title' content='JW Lib Analytics - Top Words List'/>
+    <meta property='og:image' content='https://comingoutamycage.github.io/JW_Lib_Analytics/examples/SiteExample.png'/>
+    <meta property='og:description' content='Examine the scriptures and their usage within JW publications from 1950-2022'/>
+    <meta property='og:url' content='https://comingoutamycage.github.io/JW_Lib_Analytics'/>
+    <meta property='og:image:width' content='1215' />
+    <meta property='og:image:height' content='1148' />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="js/pace.min.js"></script>
+    <link rel="stylesheet" href="js/pace.css">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
+    <link href="style.css" rel="stylesheet" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="js/functions.js"></script>
+    <script src="node_modules/jquery-throttle-debounce/jquery.ba-throttle-debounce.min.js"></script>
+    <style>
+        .custom-clustericon {
+            background: var(--cluster-color);
+            color: #fff;
+            border-radius: 100%;
+            font-weight: bold;
+            font-size: 15px;
+            display: flex;
+            align-items: center;
+        }
+
+        .custom-clustericon::before {
+            content: "";
+            display: block;
+            position: absolute;
+            width: 100%;
+            height: 100%;
+
+            transform: translate(-50%, -50%);
+            top: 50%;
+            left: 50%;
+            background: var(--cluster-color);
+            opacity: 0.2;
+            border-radius: 100%;
+        }
+
+        .custom-clustericon::before {
+            padding: 7px;
+        }
+
+        .custom-clustericon-1 {
+            --cluster-color: rgba(0, 155, 211, 0.8);
+        }
+
+        .custom-clustericon-2 {
+            --cluster-color: rgba(255, 145, 0, 0.8);
+        }
+
+        .custom-clustericon-3 {
+            --cluster-color: rgba(213, 21, 21, 0.8);
+        }
+    </style>
+</head>
+<body>
+<script>InsertNav();</script>
+
+<script src="https://maps.google.com/maps/api/js?key=AIzaSyCb4cJ1PN3KmgQw8Kaxt-XIUvXbbFCZsC0" type="text/javascript"></script>
+<!--<script src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>-->
+<script src="https://unpkg.com/@googlemaps/markerclustererplus/dist/index.min.js"></script>
+<!--<script src="https://unpkg.com/supercluster@7.1.2/dist/supercluster.min.js"></script>-->
+
+<div style="overflow: hidden;">
+    <div id="stats" style="    display: flex; align-items: center; gap: 1em;">
+        <h1>Total Active <span id="total">...</span></h1>
+    </div>
+    <div style="height: 90vh; width: 100%;">
+        <div id="map" style="width: 100%; height: 100%"></div>
+    </div>
+</div>
+
+<script>
+    var map;
+    var markers = [];
+    var infoWindow;
+    var markers = [];
+    var markerCluster;
+
+    var showMarkers = 1;
+    var showExpectations = 0;
+    var allmeetings = {};
+    var minZoom = 4;
+
+    var gridSize = 8;
+    var available_grids = [];
+    var init_data = {};
+    $.getJSON('./Meetings/init_data.json', (data) => {
+        init_data = data;
+        available_grids = init_data.grids;
+        $("#total").text(init_data.totalActive);
+        $("#stats").append(`<h3>Congregations: ${init_data.typeTotals.CONG}</h3> <h3>Groups: ${init_data.typeTotals.GROUP}</h3>`);
+    });
+
+    function load() {
+        map = new google.maps.Map(document.getElementById("map"), {
+            gestureHandling: 'greedy',
+            center: new google.maps.LatLng(37, -101),
+            zoom: 4,
+            mapTypeId: 'roadmap',
+            streetViewControl: true,
+            mapTypeControlOptions: {style: google.maps.MapTypeControlStyle.DEFAULT}
+        });
+
+        infoWindow = new google.maps.InfoWindow();
+
+        const renderer = {
+            render: function ({ count, position }, stats) {
+                // use d3-interpolateRgb to interpolate between red and blue
+                const color = count > Math.max(10, stats.clusters.markers.mean) ? "#ff0000" : "#0000ff";
+                // create svg url with fill color
+                const svg = window.btoa(`
+  <svg fill="${color}" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+    <circle cx="120" cy="120" opacity=".8" r="50" />
+  </svg>`);
+                // create marker using svg icon
+                return new google.maps.Marker({
+                    position,
+                    icon: {
+                        url: `data:image/svg+xml;base64,${svg}`,
+                        scaledSize: new google.maps.Size(75, 75),
+                    },
+                    label: {
+                        text: String(count),
+                        color: "rgba(255,255,255,0.9)",
+                        fontSize: "12px",
+                    },
+                    // adjust zIndex to be above other markers
+                    zIndex: Number(google.maps.Marker.MAX_ZINDEX) + count,
+                });
+            }
+        };
+        markerCluster = new MarkerClusterer(map, markers,{
+            // imagePath: 'images/map-cluster',
+            // imageExtension: 'svg',
+            gridSize: 40,
+            styles: [
+                {
+                    width: 30,
+                    height: 30,
+                    className: "custom-clustericon-1",
+                },
+                {
+                    width: 35,
+                    height: 35,
+                    className: "custom-clustericon-2",
+                },
+                {
+                    width: 40,
+                    height: 40,
+                    className: "custom-clustericon-3",
+                },
+            ],
+            clusterClass: "custom-clustericon",
+        });
+        setTimeout(function() {
+            google.maps.event.addListener(map, 'idle', $.debounce(600, BoundsUpdated));
+            google.maps.event.addListener(markerCluster, "click", function (c) {
+                console.log('click');
+                let markers = c.getMarkers();
+                if(markersSamePosition(markers)){
+                    let html = '';
+                    for (const marker of markers){
+                        let meeting = allmeetings[marker.geoId];
+                        html += htmlForMeeting(meeting) + "<hr/>";
+                    }
+                    setTimeout(()=> {
+                        infoWindow.setContent(html);
+                        infoWindow.setPosition(c.getCenter());
+                        infoWindow.open(map);
+                    }, 100);
+                }
+            });
+            google.maps.event.addListener(markerCluster, "mouseover", function (c) {
+                markerCluster.zoomOnClick_ = !markersSamePosition(c.getMarkers());
+
+                console.log("zoomOnClick", markerCluster.zoomOnClick_);
+            });
+            function markersSamePosition(markers){
+                if(!markers || markers.length <= 1) return true;
+                let p = markers[0].getPosition();
+                for (let i = 0; i < markers.length; i++) {
+                    if(p.toString() !== markers[i].getPosition().toString())
+                        return false;
+                }
+                return true;
+            }
+
+            if(showExpectations){
+                $.getJSON('./Meetings/Expectations.json', (expectations) => {
+                    for(const [key, value] of Object.entries(expectations)){
+                        DrawExpectation(key, value);
+                    }
+                });
+            }
+        }, 1000);
+    }
+    function BoundsUpdated(){
+        if (showMarkers && map.getZoom() > minZoom) {
+            let bounds = map.getBounds();
+            let ne = bounds.getNorthEast();
+            let sw = bounds.getSouthWest();
+            let latMin = roundDownToNearest(sw.lat(), gridSize);
+            let latMax = roundUpToNearest(ne.lat(), gridSize);
+            let lonMin = roundDownToNearest(sw.lng(), gridSize);
+            let lonMax = roundUpToNearest(ne.lng(), gridSize);
+            LoadInMarkers(latMin, lonMin, latMax, lonMax);
+        }
+    }
+    function DrawExpectation(row, value){
+        let coords = row.split(',');
+        let color = "#FF0000";
+        if(value === '+') color = "#0055ff";
+        if(value > 0) color = "#1ebe00";
+        const rectangle = new google.maps.Rectangle({
+            strokeColor: color,
+            strokeOpacity: 0.8,
+            strokeWeight: 2,
+            fillColor: color,
+            fillOpacity: 0.15,
+            map,
+            bounds: {
+                north: parseFloat(coords[2]),
+                south: parseFloat(coords[0]),
+                east: parseFloat(coords[3]),
+                west: parseFloat(coords[1]),
+            },
+        });
+    }
+    function LoadAll(){
+        clearMarkers();
+        available_grids = [];
+        $.getJSON('./Meetings/Meetings.json', function(meetings){
+            addMarkers(Object.values(meetings));
+        });
+    }
+
+    var grids = {};
+    function LoadInMarkers(latMin, lonMin, latMax, lonMax){
+        if(lonMax < lonMin)
+            lonMax += 360;
+        else if(lonMin > lonMax)
+            lonMin += 360;
+        //clearMarkers();
+        for(let lat = latMin; lat < latMax; lat += gridSize){
+            for(let lon = lonMin; lon < lonMax; lon += gridSize){
+                const key = lat.toString() + "," + (lon % 180).toString();
+                if (!available_grids.includes(key)) continue;
+                if (grids[key] === undefined){
+                    grids[key] = true;
+                    $.getJSON('./Meetings/grid/' + key + '.json', function(meetings){
+                        grids[key] = meetings;
+                        addMarkers(meetings);
+                    }).fail(function() { delete grids[key]; });
+                }/*else if(grids[key] instanceof Object){
+                    addMarkers(grids[key]);
+                }*/
+            }
+        }
+    }
+    var markers = [];
+    function addMarkers(meetings){
+        let newMarkers = [];
+        for (const meeting of meetings)
+        {
+            allmeetings[meeting.geoId] = meeting;
+            let marker = createMarker(meeting);
+            newMarkers.push(marker);
+        }
+        markerCluster.addMarkers(newMarkers);
+        for (let i = 0; i < newMarkers.length; i++) {
+            //newMarkers[i].setMap(map);
+        }
+    }
+    function clearMarkers(){
+        markerCluster.removeMarkers(markers);
+        for (let i = 0; i < markers.length; i++) {
+            markers[i].setMap(null);
+        }
+        markers = [];
+    }
+
+    function searchLocations() {
+        var address = $("input[name=addressInput]").val();
+        lastQueryLoc = address;
+        //alert(address);
+        $('#searchCustomers').val("Searching...");
+
+        var geocoder = new google.maps.Geocoder();
+        geocoder.geocode({address: address}, function(results, status) {
+            if (status == google.maps.GeocoderStatus.OK) {
+                searchLocationsNear(results[0].geometry.location);
+            } else {
+                alert('Location ' + address + ' not found');
+            }
+            document.getElementById('emailForm').style.display = 'inline';
+        });
+    }
+
+    function clearLocations() {
+        infoWindow.close();
+        for (var i = 0; i < markers.length; i++) {
+            markers[i].setMap(null);
+        }
+        markers.length = 0;
+    }
+
+    function createMarker(meeting) {
+        let name = meeting.properties.orgName;
+        let latlng = new google.maps.LatLng(
+            parseFloat(meeting.location.latitude),
+            parseFloat(meeting.location.longitude));
+
+        var marker = new google.maps.Marker({
+            //map: map,
+            //icon: "../images/mapicon3.png",
+            position: latlng,
+            title: name,
+            geoId: meeting.geoId,
+        });
+        google.maps.event.addListener(marker, 'click', function() {
+            let html = htmlForMeeting(meeting);
+            infoWindow.setContent(html);
+            infoWindow.open(map, marker);
+        });
+        markers.push(marker);
+        return marker;
+    }
+    function htmlForMeeting(meeting){
+        let html = `
+<div style="text-align: left">
+    ${meeting.properties.orgType}<br/>
+    <b>${meeting.properties.orgName}</b><br/>
+    <b>Language:</b> ${meeting.properties.languageCode}<br/>
+    <b>Frequency:</b> ${meeting.type}<br/>
+    <b>Address:</b> ${meeting.properties.address}<br/>
+</div>`;
+        return html;
+    }
+
+    load();
+
+</script>
+
+</body>
+</html>

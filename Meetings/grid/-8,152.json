@@ -1,0 +1,146 @@
+[
+    {
+        "geoId": "16A07B90-7751-4721-934E-348D43C11225",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -4.495981,
+            "longitude": 152.32926
+        },
+        "properties": {
+            "orgGuid": "16A07B90-7751-4721-934E-348D43C11225",
+            "orgName": "Ganai Congregation",
+            "orgType": "CONG",
+            "address": "Ganai village\r\nGanai\r\nKOKOPO  ENBP\r\n",
+            "transliteratedAddress": "Ganai\r\nKOKOPO  ENBP\r\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "16:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "Jude Wasinel -7442 6312 / 7890 2683",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "4C04D9E7-A389-4D2E-9B48-00AA71F3068A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -4.3447,
+            "longitude": 152.2728
+        },
+        "properties": {
+            "orgGuid": "4C04D9E7-A389-4D2E-9B48-00AA71F3068A",
+            "orgName": "Kokopo Congregation",
+            "orgType": "CONG",
+            "address": "Adima Street\r\nKOKOPO  ENBP\r\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "71857679 / 72696266",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "8A2F36F2-226B-400A-8F9C-DE4CD77D65AF",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.935667,
+            "longitude": 156.706404
+        },
+        "properties": {
+            "orgGuid": "8A2F36F2-226B-400A-8F9C-DE4CD77D65AF",
+            "orgName": "Vella La Vella",
+            "orgType": "CONG",
+            "address": "Vonunu Village\r\nVella la Vella Island,  Western Province\r\nSOLOMON ISLANDS\r\n",
+            "transliteratedAddress": "Vonunu Village\r\nVella la Vella Island,  Western Province\r\n\r\n",
+            "languageCode": "SP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "15:30"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "9B32795A-21C6-4A13-B8F9-BF563663C270",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -5.363401,
+            "longitude": 154.66906
+        },
+        "properties": {
+            "orgGuid": "9B32795A-21C6-4A13-B8F9-BF563663C270",
+            "orgName": "Buka Congregation",
+            "orgType": "CONG",
+            "address": "BUKA  NSP\n",
+            "languageCode": "MP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 7,
+                        "time": "11:30"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    }
+]

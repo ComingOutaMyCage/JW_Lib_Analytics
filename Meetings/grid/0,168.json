@@ -1,0 +1,144 @@
+[
+    {
+        "geoId": "C1BFDEFC-12BA-4BCE-8461-8C06EBB42325",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 1.348568,
+            "longitude": 173.038788
+        },
+        "properties": {
+            "orgGuid": "C1BFDEFC-12BA-4BCE-8461-8C06EBB42325",
+            "orgName": "West Tarawa - Tarawa",
+            "orgType": "CONG",
+            "address": "Ambo\r\nNear Parliament Bldg\r\nTarawa\r\nKIRIBATI\r\n",
+            "languageCode": "GB",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "18:15"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "1D57350E-4FD2-4373-AD85-402F55C06C24",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.150825,
+            "longitude": 171.031958
+        },
+        "properties": {
+            "orgGuid": "1D57350E-4FD2-4373-AD85-402F55C06C24",
+            "orgName": "Laura Congregation",
+            "orgType": "CONG",
+            "address": "MORTARKANENE WETO, LAURA\r\nMAJURO MH 96960\r\n",
+            "languageCode": "MH",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "AD860D47-33DC-4139-B77E-C85E1129E4ED",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.07315,
+            "longitude": 171.31585
+        },
+        "properties": {
+            "orgGuid": "AD860D47-33DC-4139-B77E-C85E1129E4ED",
+            "orgName": "Rairok Congregation",
+            "orgType": "CONG",
+            "address": "RAIROK\r\nMAJURO MH 96960\r\n",
+            "languageCode": "MH",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(692) 456-3340",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "5F4F8EC1-8735-455A-BB14-46DB6F36C9A6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 7.124181,
+            "longitude": 171.360069
+        },
+        "properties": {
+            "orgGuid": "5F4F8EC1-8735-455A-BB14-46DB6F36C9A6",
+            "orgName": "Rita Congregation",
+            "orgType": "CONG",
+            "address": "LOKONMOK WETO, RITA\r\nMAJURO MH\r\n",
+            "languageCode": "MH",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "692-455-5316",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    }
+]
