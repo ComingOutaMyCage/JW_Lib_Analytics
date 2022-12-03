@@ -1,0 +1,40 @@
+[
+    {
+        "geoId": "4CC94001-32DE-417C-B521-D5B9C56BF2CB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 8.782872,
+            "longitude": 167.737789
+        },
+        "properties": {
+            "orgGuid": "4CC94001-32DE-417C-B521-D5B9C56BF2CB",
+            "orgName": "Ebeye Congregation",
+            "orgType": "CONG",
+            "address": "EOKWOJAJA WETO, KWAJALEIN ATOLL\r\nEBEYE MH\r\n",
+            "languageCode": "MH",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "+16922353201",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    }
+]

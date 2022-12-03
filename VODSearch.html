@@ -185,8 +185,6 @@ new JSZip.external.Promise(function (resolve, reject) {
     });
 
 
-
-
     $("input[type=search]").on('input', $.debounce(600, DoSearch));
     pageStateChanged();
     window.addEventListener('popstate', function(){

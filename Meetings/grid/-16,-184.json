@@ -1,0 +1,117 @@
+[
+    {
+        "geoId": "9D62DFDD-CA67-4D4B-BAAD-CF8A9418A344",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -14.310757,
+            "longitude": -178.088929
+        },
+        "properties": {
+            "orgGuid": "9D62DFDD-CA67-4D4B-BAAD-CF8A9418A344",
+            "orgName": "FUTUNA (WLF)",
+            "orgType": "CONG",
+            "address": "Village de Vele\r\nRoyaume d'Alo\r\nALO\r\n",
+            "languageCode": "FT",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "17:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "3F27BDD8-C2FD-4855-A69C-876C9B760F39",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -13.250836,
+            "longitude": -176.195451
+        },
+        "properties": {
+            "orgGuid": "3F27BDD8-C2FD-4855-A69C-876C9B760F39",
+            "orgName": "WALLIS",
+            "orgType": "CONG",
+            "address": "Toafa o Malae\r\nHihifo\r\nMALA'E\r\n",
+            "languageCode": "WA",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "17:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "F"
+            ],
+            "phones": [
+                {
+                    "phone": "681 72 16 76",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "C74F4BDB-A17F-43A7-954E-3DA8A4AB9E25",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -13.250836,
+            "longitude": -176.195451
+        },
+        "properties": {
+            "orgGuid": "C74F4BDB-A17F-43A7-954E-3DA8A4AB9E25",
+            "orgName": "Groupe français de wallis - WALLIS",
+            "orgType": "GROUP",
+            "address": "Toafa o Malae\r\nHihifo\r\nMALA'E\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "17:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "WA"
+            ],
+            "phones": [
+                {
+                    "phone": "681 72 16 76",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    }
+]

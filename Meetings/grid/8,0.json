@@ -1,0 +1,620 @@
+[
+    {
+        "geoId": "3C9C10C4-80BC-4293-B667-F05050E33F90",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 12.054382,
+            "longitude": 0.354647
+        },
+        "properties": {
+            "orgGuid": "3C9C10C4-80BC-4293-B667-F05050E33F90",
+            "orgName": "Fada N'Gourma",
+            "orgType": "CONG",
+            "address": "Secteur 3, sur la route Komgnanga\r\nFada N'Gourma\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "GRC"
+            ],
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "EA034608-275D-49BA-B4FE-73201C2E2711",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 12.054382,
+            "longitude": 0.354647
+        },
+        "properties": {
+            "orgGuid": "EA034608-275D-49BA-B4FE-73201C2E2711",
+            "orgName": "Fada Gourmantché - Fada N'Gourma",
+            "orgType": "GROUP",
+            "address": "Secteur 3, sur la route Komgnanga\r\nFada N'Gourma\r\n",
+            "languageCode": "GRC",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "F"
+            ],
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "67D7607A-E53D-4F2D-9A5A-E5EF8A5F6438",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 13.489506,
+            "longitude": 2.094204
+        },
+        "properties": {
+            "orgGuid": "67D7607A-E53D-4F2D-9A5A-E5EF8A5F6438",
+            "orgName": "Niamey Haro Banda Français",
+            "orgType": "CONG",
+            "address": "Niamey, NIGER\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "16:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:15"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(00227) 96272499, 89653394, 90994577",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "9B15F7EE-918E-4B73-8A3D-B72081C65F89",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 13.489506,
+            "longitude": 2.094204
+        },
+        "properties": {
+            "orgGuid": "9B15F7EE-918E-4B73-8A3D-B72081C65F89",
+            "orgName": "Niamey Haro Banda Zarma",
+            "orgType": "CONG",
+            "address": "Niamey, NIGER\r\n\r\n",
+            "languageCode": "ZR",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "18:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:15"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "93939794",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "66A18B55-A2A7-4E35-819D-B9971AA4ED86",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 13.507547,
+            "longitude": 2.114692
+        },
+        "properties": {
+            "orgGuid": "66A18B55-A2A7-4E35-819D-B9971AA4ED86",
+            "orgName": "Niamey Nouveau Marché",
+            "orgType": "CONG",
+            "address": "Niamey, NIGER\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "17:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "94972031",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "98CF89FF-1037-4C2D-B991-A95589488DF4",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 13.507547,
+            "longitude": 2.114692
+        },
+        "properties": {
+            "orgGuid": "98CF89FF-1037-4C2D-B991-A95589488DF4",
+            "orgName": "Niamey Terminus Ewe",
+            "orgType": "CONG",
+            "address": "Niamey, NIGER\r\n\r\n",
+            "languageCode": "EW",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:15"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "EAE33D25-8B62-4E18-9961-A53B93E6E025",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 13.533524,
+            "longitude": 2.09525
+        },
+        "properties": {
+            "orgGuid": "EAE33D25-8B62-4E18-9961-A53B93E6E025",
+            "orgName": "Niamey Yantala",
+            "orgType": "CONG",
+            "address": "Haut Rue YN 15. Ilot 21\r\nVon Hôtel Résidence Concorde\r\nNiamey, NIGER\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "17:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:15"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "F529FC46-D81B-43C3-8110-6ABD16A8954F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 13.533524,
+            "longitude": 2.09525
+        },
+        "properties": {
+            "orgGuid": "F529FC46-D81B-43C3-8110-6ABD16A8954F",
+            "orgName": "Niamey Bobiel",
+            "orgType": "CONG",
+            "address": "Haut Rue YN 15. Ilot 21\r\nVon Hôtel Résidence Concorde\r\nNiamey, NIGER\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "17:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:15"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "HA"
+            ],
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "D8F842F1-4749-44E4-85DF-501B52FC0452",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 13.533524,
+            "longitude": 2.09525
+        },
+        "properties": {
+            "orgGuid": "D8F842F1-4749-44E4-85DF-501B52FC0452",
+            "orgName": "Niamey Bobiel (Haoussa) - Niamey Bobiel",
+            "orgType": "GROUP",
+            "address": "Haut Rue YN 15. Ilot 21\r\nVon Hôtel Résidence Concorde\r\nNiamey, NIGER\r\n\r\n",
+            "languageCode": "HA",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:15"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "F"
+            ],
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "1A596E94-DB70-402A-A897-10490F688B47",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 13.04708,
+            "longitude": 3.20391
+        },
+        "properties": {
+            "orgGuid": "1A596E94-DB70-402A-A897-10490F688B47",
+            "orgName": "Dosso",
+            "orgType": "CONG",
+            "address": "Dosso, NIGER\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "17:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": true
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "1755A222-4E93-4333-BFBD-B72F75C76196",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 12.440759,
+            "longitude": 4.182592
+        },
+        "properties": {
+            "orgGuid": "1755A222-4E93-4333-BFBD-B72F75C76196",
+            "orgName": "Bypass - BIRNIN KEBBI KB",
+            "orgType": "CONG",
+            "address": "Plot 11 TP4/99,\r\nChurch Layout,\r\nBadariya,\r\nBIRNIN KEBBI\r\nKEBBI STATE\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "08022184690",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "59719651-686A-468C-BD6E-36141E175734",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 12.440759,
+            "longitude": 4.182592
+        },
+        "properties": {
+            "orgGuid": "59719651-686A-468C-BD6E-36141E175734",
+            "orgName": "Power Line - BIRNIN KEBBI KB",
+            "orgType": "CONG",
+            "address": "Plot 11 TP4/99,\r\nChurch Layout,\r\nBadariya,\r\nBIRNIN KEBBI\r\nKEBBI STATE\r\n\r\n",
+            "languageCode": "PGW",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "07035774317,",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "27E981C3-94E3-4E3E-9A11-F8A0EF40D089",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 13.04675,
+            "longitude": 5.2291
+        },
+        "properties": {
+            "orgGuid": "27E981C3-94E3-4E3E-9A11-F8A0EF40D089",
+            "orgName": "Kwani - SOKOTO SO",
+            "orgType": "CONG",
+            "address": "Expandable Kingdom Hall of Jehovah's Witnesses\r\nAbdullahi Fodio Road,\r\nSOKOTO\r\nSOKOTO STATE\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "12:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "08053427331",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "BE80A0C0-EEBF-4A8E-A02F-B94D04214455",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 13.04675,
+            "longitude": 5.2291
+        },
+        "properties": {
+            "orgGuid": "BE80A0C0-EEBF-4A8E-A02F-B94D04214455",
+            "orgName": "Mabera - SOKOTO SO",
+            "orgType": "CONG",
+            "address": "Expandable Kingdom Hall of Jehovah's Witnesses\r\nAbdullahi Fodio Road,\r\nSOKOTO\r\nSOKOTO STATE\r\n\r\n",
+            "languageCode": "PGW",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "08165992765, 08027479315, 08039187148",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "916FEED3-4DDD-410B-8EA0-FCC8AB0CE4BA",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 12.175948,
+            "longitude": 6.687679
+        },
+        "properties": {
+            "orgGuid": "916FEED3-4DDD-410B-8EA0-FCC8AB0CE4BA",
+            "orgName": "Gusau - ZA",
+            "orgType": "CONG",
+            "address": "Behind Convent,\r\nSambo Secondary School Area,\r\nOff Kaura Namoda Road,\r\nGUSAU\r\nZAMFARA STATE\r\n\r\n",
+            "languageCode": "PGW",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "08067281914; 07068177919; 07031244098",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "0CF4F99E-D88E-4488-B862-BE55E1D7DED7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 12.971866,
+            "longitude": 7.621548
+        },
+        "properties": {
+            "orgGuid": "0CF4F99E-D88E-4488-B862-BE55E1D7DED7",
+            "orgName": "Katsina - KT",
+            "orgType": "CONG",
+            "address": "#43, Matazu Crescent,\r\nKofar Kaura Layout,\r\nKATSINA\r\nKATSINA STATE\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "16:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "07031844537",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "F3B555F4-0E03-4D92-A0E6-B131BFD52781",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 13.488819,
+            "longitude": 7.109568
+        },
+        "properties": {
+            "orgGuid": "F3B555F4-0E03-4D92-A0E6-B131BFD52781",
+            "orgName": "Maradi",
+            "orgType": "CONG",
+            "address": "Quartier Sabongari (Maradi)\r\nMaradi, NIGER\r\n\r\n",
+            "languageCode": "F",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    }
+]

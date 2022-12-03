@@ -1,0 +1,78 @@
+[
+    {
+        "geoId": "2AD40350-C8AA-4F44-AF0B-A2E7DF531BA2",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 23.240385,
+            "longitude": 69.699844
+        },
+        "properties": {
+            "orgGuid": "2AD40350-C8AA-4F44-AF0B-A2E7DF531BA2",
+            "orgName": "Bhuj",
+            "orgType": "CONG",
+            "address": "Ramash Bhai Madhaparia, Plot No:72\r\nBapa Dayalu Nagar, Near Shanker Mandir, Junavas\r\nMadahpar\r\nBhuj  370020\r\nGJ\r\nINDIA\r\n",
+            "languageCode": "GU",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "17:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "+91&nbsp;7600456646",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "74386A6F-6960-4891-ABB4-2BD6FB345E0C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 22.277907,
+            "longitude": 70.785752
+        },
+        "properties": {
+            "orgGuid": "74386A6F-6960-4891-ABB4-2BD6FB345E0C",
+            "orgName": "Rajkot Gujarati",
+            "orgType": "CONG",
+            "address": "‘Dhara’, 1st floor, Shastrinagar Society\r\nBehind Rajnagar Chowk\r\nShyam Nagar\r\nRajkot  360004\r\nGJ\r\nINDIA\r\n",
+            "languageCode": "GU",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "9879345782",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    }
+]

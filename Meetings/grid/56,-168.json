@@ -1,0 +1,43 @@
+[
+    {
+        "geoId": "05B621E3-1421-4C8F-A830-787B92BC8FCB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 60.79487,
+            "longitude": -161.75839
+        },
+        "properties": {
+            "orgGuid": "05B621E3-1421-4C8F-A830-787B92BC8FCB",
+            "orgName": "Kuskokwim - Bethel AK (USA)",
+            "orgType": "CONG",
+            "address": "751 3rd Ave\r\nBethel AK  99559\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "YU"
+            ],
+            "phones": [
+                {
+                    "phone": "(907) 931-7996",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    }
+]

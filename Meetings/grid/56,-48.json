@@ -1,0 +1,40 @@
+[
+    {
+        "geoId": "1EF05174-9E52-474E-9EF4-148BED3FFBC7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 60.71838,
+            "longitude": -46.02769
+        },
+        "properties": {
+            "orgGuid": "1EF05174-9E52-474E-9EF4-148BED3FFBC7",
+            "orgName": "Qaqortoq Menighed",
+            "orgType": "CONG",
+            "address": "Ringvej B 883\n3920  Qaqortoq\nGREENLAND\n",
+            "languageCode": "GL",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "11:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "+299&nbsp;56 06 51 / +299 22 14 47",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "active": true,
+        "firstSeen": "2022-12-02T17:31:33.254Z"
+    }
+]
