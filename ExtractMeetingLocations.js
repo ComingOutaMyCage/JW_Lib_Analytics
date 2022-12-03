@@ -92,6 +92,12 @@ class SearchedLocations{
 
 async function getMeetings(lowerLat, lowerLon, upperLat, upperLon){
     totalQueries++;
+
+    if(totalQueries % 100 === 0) {
+        SaveCache();
+        SaveExpectations();
+    }
+
     if(lowerLat === 0) lowerLat = -0.001;
     if(lowerLon === 0) lowerLon = -0.001;
     if(lowerLon === 0) upperLat = 0.001;
@@ -118,13 +124,14 @@ async function getMeetings(lowerLat, lowerLon, upperLat, upperLon){
         "body": null,
         "method": "GET"
     }, 3, 1000).then((response) => response.json()).then((data) => {
-        for(const meeting of Object.values(data)){
+        for(const meeting of Object.values(data['geoLocationList'])){
             cleanMeeting(meeting);
         }
         return data;
     });//.then((data) => data.category.subcategories.map(ele => ele.key))
 }
 function cleanMeeting(meeting){
+    if(meeting.properties.memorialAddress === undefined) return;
     if(!meeting.properties.orgTransliteratedName.length)
         delete meeting.properties.orgTransliteratedName;
     if(!meeting.properties.transliteratedAddress.length)
@@ -133,7 +140,7 @@ function cleanMeeting(meeting){
         delete meeting.properties.schedule.futureDate;
     if(!meeting.properties.schedule.changeStamp)
         delete meeting.properties.schedule.changeStamp;
-    if(!meeting.properties.relatedLanguageCodes.length)
+    if(meeting.properties.relatedLanguageCodes && !meeting.properties.relatedLanguageCodes.length)
         delete meeting.properties.relatedLanguageCodes;
     delete meeting.properties.memorialAddress;
     delete meeting.properties.memorialTime;
@@ -147,7 +154,7 @@ async function ProcessGrid(country, forCountry, sw, ne, step = null, recursivePe
     if(step === 0 || latMin === latMax) return;
     if (step == null) step = defaultStep;
     for (let lat = latMin; lat < latMax; lat += step) {
-        let percentLat = (lat - latMin) / (latMax - latMin);
+        let percentLat = (lat - latMin) / ((latMax - latMin) + 0.0);
         for (let lon = lonMin; lon < lonMax; lon += step) {
             let percentLon = (lat - latMin) / (latMax - latMin);
             if(step === defaultStep) {
@@ -163,7 +170,7 @@ async function ProcessGrid(country, forCountry, sw, ne, step = null, recursivePe
             //     cache[key] = null;
             // }
             if(expectation === 0) continue;
-            let percent = recursivePercent + " " + Math.round(step * 111) + "km " + zeroPad(Math.round(((percentLon + percentLat) / 2) * 100), 2) + "%";
+            let percent = recursivePercent + " " + Math.round(step * 111) + "km " + zeroPad(Math.round(((percentLon + percentLat) / 2.0) * 100), 2) + "%";
             if(expectation !== "+") {
                 let data = cache[key] ?? null;
                 if(!data) {
@@ -177,7 +184,7 @@ async function ProcessGrid(country, forCountry, sw, ne, step = null, recursivePe
                         forCountry[item['geoId']] = item;
                     }
                 }
-                if (data['hasMoreResults'] == true || items.length === 25)
+                if (data['hasMoreResults'] == true || items.length === 25 || (items.length > 18 && (step * 111) > 3))
                     expectation = "+";
                 else if(items.length > 0)
                     cachedExpectation[key] = items.length;
@@ -196,10 +203,6 @@ async function ProcessGrid(country, forCountry, sw, ne, step = null, recursivePe
                     substep,
                     percent);
             }
-            if(totalQueries % 100 === 0) {
-                SaveCache();
-                SaveExpectations();
-            }
         }
     }
 }
@@ -215,7 +218,7 @@ function LoadCache(){
 }
 
 function SaveExpectations(){
-    SaveFile("./Meetings/Expectations.json", JSON.stringify(cachedExpectation ?? {}, null, 4));
+    SaveFile("./Meetings/Expectations.json", JSON.stringify(cachedExpectation ?? {}, null, 2));
 }
 function LoadExpectations(){
     let filename = "./Meetings/Expectations.json";
@@ -270,7 +273,7 @@ async function GetAllMeetings(countries){
                     {lat: latMin, lon: lonMin},
                     {lat: latMax, lon: lonMax});
 
-                SaveFile(progressPath, JSON.stringify(forCountry, null, 4));
+                SaveFile(progressPath, JSON.stringify(forCountry, null, 2));
                 for(const [key, meeting] of Object.entries(forCountry))
                     UpdateMeetingState(meeting);
 
@@ -330,11 +333,11 @@ async function SaveAllMeetings(allMeetings){
         totalInactive: totalInactive,
         grids: Object.keys(available_grids),
     };
-    SaveFile('./Meetings/init_data.json', JSON.stringify(stats, null, 4));
+    SaveFile('./Meetings/init_data.json', JSON.stringify(stats, null, 2));
     for(const [key, meetings] of Object.entries(grids)){
-        SaveFile(`./Meetings/grid/${key}.json`, JSON.stringify(meetings, null, 4));
+        SaveFile(`./Meetings/grid/${key}.json`, JSON.stringify(meetings, null, 2));
     }
-    await SaveFile(`./Meetings/Meetings.json`, JSON.stringify(allMeetings, null, 4));
+    await SaveFile(`./Meetings/Meetings.json`, JSON.stringify(allMeetings, null, 1));
     await delay(3000);
 }
 GetAllMeetings(countries);

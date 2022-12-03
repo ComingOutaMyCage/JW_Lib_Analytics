@@ -1,5 +1,227 @@
 [
     {
+        "geoId": "ED4EAB3B-AE61-41EE-B7DF-176401A43B64",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -31.89606,
+            "longitude": 152.47237
+        },
+        "properties": {
+            "orgGuid": "ED4EAB3B-AE61-41EE-B7DF-176401A43B64",
+            "orgName": "Taree - NSW",
+            "orgType": "CONG",
+            "address": "37 Hooke Street\nTAREE  NSW  2430\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0419 930 877",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "A4E4705E-9C7D-49DE-B01D-512669DCF512",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -31.89606,
+            "longitude": 152.47237
+        },
+        "properties": {
+            "orgGuid": "A4E4705E-9C7D-49DE-B01D-512669DCF512",
+            "orgName": "Wingham - NSW",
+            "orgType": "CONG",
+            "address": "37 Hooke Street\nTAREE  NSW  2430\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0417750565",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "EE524BCD-DE2D-4907-A16A-54856EC225E8",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -31.63329,
+            "longitude": 152.72546
+        },
+        "properties": {
+            "orgGuid": "EE524BCD-DE2D-4907-A16A-54856EC225E8",
+            "orgName": "Kendall - NSW",
+            "orgType": "CONG",
+            "address": "164 Nancy Bird- Walton Drive\nKEW  NSW  2439\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0408 375 636",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "F658546A-8D28-4E5E-B0F9-B1C889EE15EE",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -31.47881,
+            "longitude": 152.73166
+        },
+        "properties": {
+            "orgGuid": "F658546A-8D28-4E5E-B0F9-B1C889EE15EE",
+            "orgName": "Wauchope - NSW",
+            "orgType": "CONG",
+            "address": "49 Burrawan Drive\nWAUCHOPE  NSW  2446\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "14:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0455296820",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "8F4202F3-89FE-4E2A-A16F-A127EC3E940A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -31.44663,
+            "longitude": 152.90517
+        },
+        "properties": {
+            "orgGuid": "8F4202F3-89FE-4E2A-A16F-A127EC3E940A",
+            "orgName": "Port Macquarie South - Port Macquarie NSW",
+            "orgType": "CONG",
+            "address": "17 Banksia Avenue\nPORT MACQUARIE  NSW  2444\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "15:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0412474748",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "5A3C93F6-7770-43AC-89FA-A746005661CF",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -31.44663,
+            "longitude": 152.90517
+        },
+        "properties": {
+            "orgGuid": "5A3C93F6-7770-43AC-89FA-A746005661CF",
+            "orgName": "Port Macquarie North - Port Macquarie NSW",
+            "orgType": "CONG",
+            "address": "17 Banksia Avenue\nPORT MACQUARIE  NSW  2444\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0435562017",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
         "geoId": "932D0569-E2CE-4E7B-94CA-24312EB51EDB",
         "type": "weekly",
         "isPrimary": true,
@@ -33,7 +255,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -71,7 +293,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -109,7 +331,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -151,7 +373,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -192,7 +414,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -230,9 +452,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "C2D45379-3FE1-4309-802D-679D9697D122",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -29.063859,
+            "longitude": 152.017167
+        },
+        "properties": {
+            "orgGuid": "C2D45379-3FE1-4309-802D-679D9697D122",
+            "orgName": "Tenterfield - NSW",
+            "orgType": "CONG",
+            "address": "83 Rouse Street\nTENTERFIELD  NSW  2372\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "14:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0419700245",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "875A582B-D680-4486-B208-765B5995BC63",
@@ -268,7 +527,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -306,7 +565,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -344,7 +603,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -382,9 +641,83 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "0A5A750A-AA1D-4615-81C7-5260B9C3F4D4",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -28.20138,
+            "longitude": 152.04155
+        },
+        "properties": {
+            "orgGuid": "0A5A750A-AA1D-4615-81C7-5260B9C3F4D4",
+            "orgName": "Warwick - QLD",
+            "orgType": "CONG",
+            "address": "30 Murphy Street\nWARWICK  QLD  4370\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0427 145 494",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "9FEFEFCC-5AFC-4F15-9A43-FE205DBD48B7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -28.735,
+            "longitude": 152.62035
+        },
+        "properties": {
+            "orgGuid": "9FEFEFCC-5AFC-4F15-9A43-FE205DBD48B7",
+            "orgName": "Bonalbo - NSW",
+            "orgType": "CONG",
+            "address": "73 Woodenbong Road\nBONALBO  NSW  2469\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "02 66651294",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "2BA675E7-8F3B-438C-8B1D-4232FD32A8E7",
@@ -420,9 +753,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "901B5E61-99E7-40BF-974D-68AEB1D6B70E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -28.62194,
+            "longitude": 152.97113
+        },
+        "properties": {
+            "orgGuid": "901B5E61-99E7-40BF-974D-68AEB1D6B70E",
+            "orgName": "Kyogle - NSW",
+            "orgType": "CONG",
+            "address": "Corner Afterlee & 8 Ettrick Roads\r\nHORSE STATION CREEK  NSW  2474\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0438 128 449",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "953E386A-EB90-420A-8F8E-A4819D8B1BB4",
@@ -458,7 +828,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -496,7 +866,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -534,7 +904,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -572,7 +942,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -610,7 +980,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -648,9 +1018,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "81433B67-F627-416A-86D4-80EE39BAE18D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.98856,
+            "longitude": 153.00626
+        },
+        "properties": {
+            "orgGuid": "81433B67-F627-416A-86D4-80EE39BAE18D",
+            "orgName": "Beaudesert - QLD",
+            "orgType": "CONG",
+            "address": "55b Eaglesfield Street\nBEAUDESERT  QLD  4285\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "14:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0755413332",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "03E4EC52-47C0-4E72-84C4-AC152AA82909",
@@ -686,7 +1093,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -724,7 +1131,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -766,7 +1173,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -804,7 +1211,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -842,7 +1249,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -880,7 +1287,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -918,9 +1325,83 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "F87936CB-1CC6-442A-B4D1-49C582BF17A0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.8276,
+            "longitude": 153.0327
+        },
+        "properties": {
+            "orgGuid": "F87936CB-1CC6-442A-B4D1-49C582BF17A0",
+            "orgName": "Jimboomba - QLD",
+            "orgType": "CONG",
+            "address": "22 Merton Street\nJIMBOOMBA  QLD  4280\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0412738652",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "DA3BEEA7-FD10-4780-A12C-ADF5C0C8AF69",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.93333,
+            "longitude": 153.18972
+        },
+        "properties": {
+            "orgGuid": "DA3BEEA7-FD10-4780-A12C-ADF5C0C8AF69",
+            "orgName": "Mount Tamborine - QLD",
+            "orgType": "CONG",
+            "address": "74-86 Holt Road & Roslyn Court\r\nTAMBORINE MOUNTAIN  QLD  4272\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "14:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "‭0437 424 443‬",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "A4D8B562-5240-4577-B934-57010FB90C23",
@@ -956,7 +1437,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -998,7 +1479,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1036,7 +1517,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1085,7 +1566,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1123,7 +1604,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1161,7 +1642,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1199,7 +1680,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1237,9 +1718,280 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "A281AE60-9520-4232-AF18-3204EA114D5B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -28.0548,
+            "longitude": 153.35953
+        },
+        "properties": {
+            "orgGuid": "A281AE60-9520-4232-AF18-3204EA114D5B",
+            "orgName": "Broadbeach - Gold Coast QLD",
+            "orgType": "CONG",
+            "address": "50 Highfield Drive\nMERRIMAC  QLD  4226\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "HI"
+            ],
+            "phones": [
+                {
+                    "phone": "0421112200",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "D5924191-E066-4420-8A0E-F73E3DBE3E99",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -28.0548,
+            "longitude": 153.35953
+        },
+        "properties": {
+            "orgGuid": "D5924191-E066-4420-8A0E-F73E3DBE3E99",
+            "orgName": "Robina - Gold Coast QLD",
+            "orgType": "CONG",
+            "address": "50 Highfield Drive\nMERRIMAC  QLD  4226\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0492 346 295",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "7DDDE119-1BD9-4F89-9D74-9B39CEBFD9D6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -28.0548,
+            "longitude": 153.35953
+        },
+        "properties": {
+            "orgGuid": "7DDDE119-1BD9-4F89-9D74-9B39CEBFD9D6",
+            "orgName": "Nerang - Gold Coast QLD",
+            "orgType": "CONG",
+            "address": "50 Highfield Drive\nMERRIMAC  QLD  4226\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "15:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0417784996",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "A4224AAE-A023-4E33-8C24-910D60E60E0E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -28.0548,
+            "longitude": 153.35953
+        },
+        "properties": {
+            "orgGuid": "A4224AAE-A023-4E33-8C24-910D60E60E0E",
+            "orgName": "Merrimac - Gold Coast QLD",
+            "orgType": "CONG",
+            "address": "50 Highfield Drive\nMERRIMAC  QLD  4226\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "S"
+            ],
+            "phones": [
+                {
+                    "phone": "0439304482",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "F4E335DD-9FAE-44BA-BC38-522DBC413FC0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -28.0548,
+            "longitude": 153.35953
+        },
+        "properties": {
+            "orgGuid": "F4E335DD-9FAE-44BA-BC38-522DBC413FC0",
+            "orgName": "Merrimac Mandarin - Gold Coast QLD",
+            "orgType": "CONG",
+            "address": "50 Highfield Drive\nMERRIMAC  QLD  4226\n",
+            "languageCode": "CHM",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0418508717",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "BD7D7EC2-25C7-4E33-9299-36A4A611AFC0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -28.0548,
+            "longitude": 153.35953
+        },
+        "properties": {
+            "orgGuid": "BD7D7EC2-25C7-4E33-9299-36A4A611AFC0",
+            "orgName": "Broadbeach Hindi - Broadbeach - Gold Coast QLD",
+            "orgType": "GROUP",
+            "address": "50 Highfield Drive\nMERRIMAC  QLD  4226\n",
+            "languageCode": "HI",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "0421112200",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "5541A684-33E1-4F2C-B789-3087F148AB33",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -28.0548,
+            "longitude": 153.35953
+        },
+        "properties": {
+            "orgGuid": "5541A684-33E1-4F2C-B789-3087F148AB33",
+            "orgName": "Merrimac Spanish - Merrimac - Gold Coast QLD",
+            "orgType": "GROUP",
+            "address": "50 Highfield Drive\nMERRIMAC  QLD  4226\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": null,
+                        "time": null
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "0439304482",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "1D3F77AA-97CD-4B43-AEA9-52BF6F5C0662",
@@ -1275,7 +2027,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1313,7 +2065,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1351,9 +2103,131 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "DBE3B1E3-CC7D-46F6-87DF-9ADAFC83738E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.69239,
+            "longitude": 153.05273
+        },
+        "properties": {
+            "orgGuid": "DBE3B1E3-CC7D-46F6-87DF-9ADAFC83738E",
+            "orgName": "Crestmead - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "231 Green Road\nPARK RIDGE  QLD  4125\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "14:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0401999907",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "43C7E805-9EC4-4638-AB24-FC71953B2656",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.69239,
+            "longitude": 153.05273
+        },
+        "properties": {
+            "orgGuid": "43C7E805-9EC4-4638-AB24-FC71953B2656",
+            "orgName": "Browns Plains - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "231 Green Road\nPARK RIDGE  QLD  4125\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0420453475",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "A595594A-7C2D-4325-A0EF-F034696E16D8",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.69239,
+            "longitude": 153.05273
+        },
+        "properties": {
+            "orgGuid": "A595594A-7C2D-4325-A0EF-F034696E16D8",
+            "orgName": "Park Ridge - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "231 Green Road\nPARK RIDGE  QLD  4125\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "15:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0493 465370",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "5BC43D1B-C39E-4608-9A1E-8A3550F5BB49",
@@ -1389,7 +2263,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1427,7 +2301,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1465,7 +2339,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1503,7 +2377,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1541,9 +2415,634 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "103DB474-DF4E-4813-B69C-43F6B2591234",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.899284,
+            "longitude": 153.308486
+        },
+        "properties": {
+            "orgGuid": "103DB474-DF4E-4813-B69C-43F6B2591234",
+            "orgName": "Helensvale - Gold Coast QLD",
+            "orgType": "CONG",
+            "address": "31 Michigan Drive\nOXENFORD  QLD  4210\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "SI"
+            ],
+            "phones": [
+                {
+                    "phone": "+61756197161",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "5477B50E-6595-4D3A-BDB1-ABA1DB5596D7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.899284,
+            "longitude": 153.308486
+        },
+        "properties": {
+            "orgGuid": "5477B50E-6595-4D3A-BDB1-ABA1DB5596D7",
+            "orgName": "Oxenford - Gold Coast QLD",
+            "orgType": "CONG",
+            "address": "31 Michigan Drive\nOXENFORD  QLD  4210\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0410012033",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "546CE43F-2034-458D-8CE1-4C5E06BCEF31",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.899284,
+            "longitude": 153.308486
+        },
+        "properties": {
+            "orgGuid": "546CE43F-2034-458D-8CE1-4C5E06BCEF31",
+            "orgName": "Coomera - Gold Coast QLD",
+            "orgType": "CONG",
+            "address": "31 Michigan Drive\nOXENFORD  QLD  4210\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "15:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "+61&nbsp;0403 380 525",
+                    "ext": ""
+                },
+                {
+                    "phone": "+61&nbsp;07 5535 7677",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "EEC5FC3E-910F-466E-BC7E-AC1BF53D6226",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.899284,
+            "longitude": 153.308486
+        },
+        "properties": {
+            "orgGuid": "EEC5FC3E-910F-466E-BC7E-AC1BF53D6226",
+            "orgName": "Gold Coast City Filipino - Gold Coast QLD",
+            "orgType": "CONG",
+            "address": "31 Michigan Drive\nOXENFORD  QLD  4210\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "+61466630288",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "ECC566DD-F2CD-485B-81C1-8E7691537736",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.899284,
+            "longitude": 153.308486
+        },
+        "properties": {
+            "orgGuid": "ECC566DD-F2CD-485B-81C1-8E7691537736",
+            "orgName": "Helensvale Thai/Laotian - Helensvale - Gold Coast QLD",
+            "orgType": "GROUP",
+            "address": "31 Michigan Drive\nOXENFORD  QLD  4210\n",
+            "languageCode": "SI",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": null,
+                        "time": null
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "+61756197161",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "26708192-3989-4F02-885F-8DC68AAE936E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.59854,
+            "longitude": 153.02681
+        },
+        "properties": {
+            "orgGuid": "26708192-3989-4F02-885F-8DC68AAE936E",
+            "orgName": "Brisbane South Spanish - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "174 Learoyd Road\nWILLAWONG  QLD  4110\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "07 3272 5262",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "11118E8A-0549-438E-840F-03355FDC9BC2",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.59854,
+            "longitude": 153.02681
+        },
+        "properties": {
+            "orgGuid": "11118E8A-0549-438E-840F-03355FDC9BC2",
+            "orgName": "Sunnybank - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "174 Learoyd Road\nWILLAWONG  QLD  4110\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "14:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0405 708 006",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "922D91CA-ED2F-4E34-A98C-DD0D21FDB257",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.59854,
+            "longitude": 153.02681
+        },
+        "properties": {
+            "orgGuid": "922D91CA-ED2F-4E34-A98C-DD0D21FDB257",
+            "orgName": "Calamvale - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "174 Learoyd Road\nWILLAWONG  QLD  4110\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0412 636 996",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "5D0996FE-F70B-4503-A065-CE6EC3143748",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.94459,
+            "longitude": 153.38751
+        },
+        "properties": {
+            "orgGuid": "5D0996FE-F70B-4503-A065-CE6EC3143748",
+            "orgName": "Runaway Bay - Gold Coast QLD",
+            "orgType": "CONG",
+            "address": "115 Olsen Avenue\nLABRADOR  QLD  4215\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0466509645",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "7B7661B6-7875-4553-A573-057CE51E775B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.94459,
+            "longitude": 153.38751
+        },
+        "properties": {
+            "orgGuid": "7B7661B6-7875-4553-A573-057CE51E775B",
+            "orgName": "Southport - Gold Coast QLD",
+            "orgType": "CONG",
+            "address": "115 Olsen Avenue\nLABRADOR  QLD  4215\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0422946559",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "1B5627D1-45D3-4B52-B366-1CFB22F58393",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.94459,
+            "longitude": 153.38751
+        },
+        "properties": {
+            "orgGuid": "1B5627D1-45D3-4B52-B366-1CFB22F58393",
+            "orgName": "Surfers Paradise - Gold Coast QLD",
+            "orgType": "CONG",
+            "address": "115 Olsen Avenue\nLABRADOR  QLD  4215\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0408238660",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "1C1FB7EA-3CBE-4A6F-A18E-C1316E2CF244",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.94459,
+            "longitude": 153.38751
+        },
+        "properties": {
+            "orgGuid": "1C1FB7EA-3CBE-4A6F-A18E-C1316E2CF244",
+            "orgName": "Ashmore - Gold Coast QLD",
+            "orgType": "CONG",
+            "address": "115 Olsen Avenue\nLABRADOR  QLD  4215\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "AUS"
+            ],
+            "phones": [
+                {
+                    "phone": "0422 835882",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "ED7C8E4D-F074-47CB-B415-3433D75FCF96",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.94459,
+            "longitude": 153.38751
+        },
+        "properties": {
+            "orgGuid": "ED7C8E4D-F074-47CB-B415-3433D75FCF96",
+            "orgName": "Paradise Point - Gold Coast QLD",
+            "orgType": "CONG",
+            "address": "115 Olsen Avenue\nLABRADOR  QLD  4215\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0403 074 681",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "1E5BA431-F99E-4170-95D3-05C970D9616D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.94459,
+            "longitude": 153.38751
+        },
+        "properties": {
+            "orgGuid": "1E5BA431-F99E-4170-95D3-05C970D9616D",
+            "orgName": "Broadwater - Gold Coast QLD",
+            "orgType": "CONG",
+            "address": "115 Olsen Avenue\nLABRADOR  QLD  4215\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "T"
+            ],
+            "phones": [
+                {
+                    "phone": "0414321177",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "F2EA3773-D4A0-4453-8241-894AF3126DC7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.94459,
+            "longitude": 153.38751
+        },
+        "properties": {
+            "orgGuid": "F2EA3773-D4A0-4453-8241-894AF3126DC7",
+            "orgName": "Ashmore Auslan - Ashmore - Gold Coast QLD",
+            "orgType": "GROUP",
+            "address": "115 Olsen Avenue\nLABRADOR  QLD  4215\n",
+            "languageCode": "AUS",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "0422 835882",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "3E692723-0A9F-4C7B-9D28-A9FD24B475B8",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.94459,
+            "longitude": 153.38751
+        },
+        "properties": {
+            "orgGuid": "3E692723-0A9F-4C7B-9D28-A9FD24B475B8",
+            "orgName": "Broadwater Portuguese - Broadwater - Gold Coast QLD",
+            "orgType": "GROUP",
+            "address": "115 Olsen Avenue\nLABRADOR  QLD  4215\n",
+            "languageCode": "T",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": null,
+                        "time": null
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "0414321177",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "DD72B984-7659-484B-93B3-B1467FF3B894",
@@ -1582,7 +3081,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1623,9 +3122,437 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "459EB68B-1B15-412B-AC03-71AB977151F0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.653142,
+            "longitude": 153.132623
+        },
+        "properties": {
+            "orgGuid": "459EB68B-1B15-412B-AC03-71AB977151F0",
+            "orgName": "Logan Central - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "6-8 Stone Court\r\nKINGSTON  QLD  4114\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "CB"
+            ],
+            "phones": [
+                {
+                    "phone": "+61416622535",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B79FADB5-3F98-4E06-9A06-23958BB3D434",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.653142,
+            "longitude": 153.132623
+        },
+        "properties": {
+            "orgGuid": "B79FADB5-3F98-4E06-9A06-23958BB3D434",
+            "orgName": "Loganlea - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "6-8 Stone Court\r\nKINGSTON  QLD  4114\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "13:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0435 262 635",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "14A1B48D-4ED7-4F44-A6A8-21D9A1C1BA6C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.653142,
+            "longitude": 153.132623
+        },
+        "properties": {
+            "orgGuid": "14A1B48D-4ED7-4F44-A6A8-21D9A1C1BA6C",
+            "orgName": "Logan Central Cambodian - Logan Central - Brisbane QLD",
+            "orgType": "GROUP",
+            "address": "6-8 Stone Court\r\nKINGSTON  QLD  4114\r\n",
+            "languageCode": "CB",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "+61416622535",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B76415F4-FDE8-4DB5-8DAE-B5733014FC61",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.70746,
+            "longitude": 153.202083
+        },
+        "properties": {
+            "orgGuid": "B76415F4-FDE8-4DB5-8DAE-B5733014FC61",
+            "orgName": "Beenleigh Central - Beenleigh QLD",
+            "orgType": "CONG",
+            "address": "2 Jireh Court\nBEENLEIGH  QLD  4207\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "16:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0417952999",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "FDB772FD-80F7-4378-94EB-6E3DE2503597",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.70746,
+            "longitude": 153.202083
+        },
+        "properties": {
+            "orgGuid": "FDB772FD-80F7-4378-94EB-6E3DE2503597",
+            "orgName": "Bethania - Beenleigh QLD",
+            "orgType": "CONG",
+            "address": "2 Jireh Court\nBEENLEIGH  QLD  4207\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "13:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "16:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0419 649 987",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "6EFA5B5B-40D8-45E0-A4A0-5826B9DF8360",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.70746,
+            "longitude": 153.202083
+        },
+        "properties": {
+            "orgGuid": "6EFA5B5B-40D8-45E0-A4A0-5826B9DF8360",
+            "orgName": "Loganholme - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "2 Jireh Court\nBEENLEIGH  QLD  4207\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0466980909",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "C53AA00A-8B3B-447A-B80F-1D7BEE93A85A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.70746,
+            "longitude": 153.202083
+        },
+        "properties": {
+            "orgGuid": "C53AA00A-8B3B-447A-B80F-1D7BEE93A85A",
+            "orgName": "Ormeau - Beenleigh QLD",
+            "orgType": "CONG",
+            "address": "2 Jireh Court\nBEENLEIGH  QLD  4207\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0419 730603",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "19BB9818-54F1-4614-AA64-D515184065D8",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.70746,
+            "longitude": 153.202083
+        },
+        "properties": {
+            "orgGuid": "19BB9818-54F1-4614-AA64-D515184065D8",
+            "orgName": "Edens Landing - Beenleigh QLD",
+            "orgType": "CONG",
+            "address": "2 Jireh Court\nBEENLEIGH  QLD  4207\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "+61&nbsp;0411 446 096",
+                    "ext": ""
+                },
+                {
+                    "phone": "+61&nbsp;07 5546 8594",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "294CD1FA-938C-4705-8BDB-04F1DAA95985",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.70746,
+            "longitude": 153.202083
+        },
+        "properties": {
+            "orgGuid": "294CD1FA-938C-4705-8BDB-04F1DAA95985",
+            "orgName": "Kuraby Korean - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "2 Jireh Court\nBEENLEIGH  QLD  4207\n",
+            "languageCode": "KO",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "16:30"
+                    },
+                    "midweek": {
+                        "weekday": 1,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0423 464 294",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "438D4529-7B76-434E-8344-BE65B6652F72",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.70746,
+            "longitude": 153.202083
+        },
+        "properties": {
+            "orgGuid": "438D4529-7B76-434E-8344-BE65B6652F72",
+            "orgName": "Ormeau East - Beenleigh QLD",
+            "orgType": "CONG",
+            "address": "2 Jireh Court\nBEENLEIGH  QLD  4207\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "13:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0407506418",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "2D808007-BDCF-40EC-BFD0-AC850CCF6B01",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.70746,
+            "longitude": 153.202083
+        },
+        "properties": {
+            "orgGuid": "2D808007-BDCF-40EC-BFD0-AC850CCF6B01",
+            "orgName": "Tanah Merah Japanese - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "2 Jireh Court\nBEENLEIGH  QLD  4207\n",
+            "languageCode": "J",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:30"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "+61730599134",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "27634ADB-A3EB-49EA-9AB3-A818823E1AEF",
@@ -1664,7 +3591,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1702,7 +3629,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1740,7 +3667,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1781,9 +3708,87 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "53DD2994-BB86-4A16-BE39-9EE7DD8C74EF",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.61435,
+            "longitude": 153.13716
+        },
+        "properties": {
+            "orgGuid": "53DD2994-BB86-4A16-BE39-9EE7DD8C74EF",
+            "orgName": "Rochedale - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "236 Springwood Road\nSPRINGWOOD  QLD  4127\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "+61&nbsp;0400 155 451",
+                    "ext": ""
+                },
+                {
+                    "phone": "+61&nbsp;+61400155451",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B254DBBD-1A3F-49C2-9E7F-9C9FAE2F3C1D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.61435,
+            "longitude": 153.13716
+        },
+        "properties": {
+            "orgGuid": "B254DBBD-1A3F-49C2-9E7F-9C9FAE2F3C1D",
+            "orgName": "Springwood - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "236 Springwood Road\nSPRINGWOOD  QLD  4127\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "14:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0400 404 238",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "8BC9871D-6329-4B7A-889E-AFAB9504E93D",
@@ -1819,7 +3824,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1857,7 +3862,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1898,7 +3903,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1936,7 +3941,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1974,7 +3979,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2015,7 +4020,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2053,9 +4058,83 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "4A556C0E-4E0C-4453-8D57-416D769301E1",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.40138,
+            "longitude": 152.95421
+        },
+        "properties": {
+            "orgGuid": "4A556C0E-4E0C-4453-8D57-416D769301E1",
+            "orgName": "Ferny Hills - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "58 Leslie Street\nARANA HILLS  QLD  4054\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "+61&nbsp;447 116 652",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "F5C9F6D2-799C-4935-A7B1-2F60051C1F94",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.40138,
+            "longitude": 152.95421
+        },
+        "properties": {
+            "orgGuid": "F5C9F6D2-799C-4935-A7B1-2F60051C1F94",
+            "orgName": "Ferny Grove - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "58 Leslie Street\nARANA HILLS  QLD  4054\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "15:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0493110328",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "64581AFE-BDCF-44F4-88B6-AB4A87104B2E",
@@ -2091,7 +4170,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2129,9 +4208,83 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "BD468F94-2AFD-4447-AAB1-EB5EEBCDF444",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.41996,
+            "longitude": 153.01415
+        },
+        "properties": {
+            "orgGuid": "BD468F94-2AFD-4447-AAB1-EB5EEBCDF444",
+            "orgName": "Grange - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "108 Blandford Street\nGRANGE  QLD  4051\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0439150843",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "476FEBD4-3696-4FC3-BA9D-217B2C285480",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.41996,
+            "longitude": 153.01415
+        },
+        "properties": {
+            "orgGuid": "476FEBD4-3696-4FC3-BA9D-217B2C285480",
+            "orgName": "Newmarket - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "108 Blandford Street\nGRANGE  QLD  4051\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "15:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0432953569",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "CF871E6C-FD53-44FE-BA0C-11C4401DCAB9",
@@ -2170,7 +4323,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2208,7 +4361,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2246,7 +4399,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2287,9 +4440,365 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "96FEB082-E5E7-4964-8D1F-A1BB763A6760",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.363257,
+            "longitude": 153.003242
+        },
+        "properties": {
+            "orgGuid": "96FEB082-E5E7-4964-8D1F-A1BB763A6760",
+            "orgName": "Chermside - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "686 Trouts Road\nASPLEY  QLD  4034\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "14:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "I"
+            ],
+            "phones": [
+                {
+                    "phone": "07 2111 4843",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "C49EFF5C-1199-4B6D-861E-442B725E6ABA",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.363257,
+            "longitude": 153.003242
+        },
+        "properties": {
+            "orgGuid": "C49EFF5C-1199-4B6D-861E-442B725E6ABA",
+            "orgName": "Albany Creek - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "686 Trouts Road\nASPLEY  QLD  4034\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "14:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "07 2111 4843",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "2C8A365E-B891-4C53-B101-730C7DB4F1A9",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.363257,
+            "longitude": 153.003242
+        },
+        "properties": {
+            "orgGuid": "2C8A365E-B891-4C53-B101-730C7DB4F1A9",
+            "orgName": "Chermside Italian - Chermside - Brisbane QLD",
+            "orgType": "GROUP",
+            "address": "686 Trouts Road\nASPLEY  QLD  4034\n",
+            "languageCode": "I",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "14:00"
+                    },
+                    "midweek": {
+                        "weekday": null,
+                        "time": null
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "07 2111 4843",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "BFB7882D-C262-4910-BAB7-BDFD8B1AA72B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.291308,
+            "longitude": 152.950153
+        },
+        "properties": {
+            "orgGuid": "BFB7882D-C262-4910-BAB7-BDFD8B1AA72B",
+            "orgName": "Petrie - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "365a  Samsonvale Road\nWARNER  QLD  4500\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0427544519",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "E7402B89-E4DE-4AE6-A857-957D9C0B650E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.291308,
+            "longitude": 152.950153
+        },
+        "properties": {
+            "orgGuid": "E7402B89-E4DE-4AE6-A857-957D9C0B650E",
+            "orgName": "Strathpine - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "365a  Samsonvale Road\nWARNER  QLD  4500\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "14:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0435998702",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "9DA51564-5920-4EA8-A748-D237B4DE98E5",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.291308,
+            "longitude": 152.950153
+        },
+        "properties": {
+            "orgGuid": "9DA51564-5920-4EA8-A748-D237B4DE98E5",
+            "orgName": "Warner Filipino - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "365a  Samsonvale Road\nWARNER  QLD  4500\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0416988010 / 0402301735",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "50019302-6DEE-406F-86F5-8CAA8C43645C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.39872,
+            "longitude": 153.06053
+        },
+        "properties": {
+            "orgGuid": "50019302-6DEE-406F-86F5-8CAA8C43645C",
+            "orgName": "Nundah - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "23 Henchman Street\nNUNDAH  QLD  4012\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "NP"
+            ],
+            "phones": [
+                {
+                    "phone": "0433 898 297",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "CFA48617-E4D7-4C8F-8A1B-8CA79ED49D60",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.39872,
+            "longitude": 153.06053
+        },
+        "properties": {
+            "orgGuid": "CFA48617-E4D7-4C8F-8A1B-8CA79ED49D60",
+            "orgName": "Clayfield - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "23 Henchman Street\nNUNDAH  QLD  4012\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "15:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0414 458 207",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "D91C5955-D1E9-4802-B181-467A79327408",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.39872,
+            "longitude": 153.06053
+        },
+        "properties": {
+            "orgGuid": "D91C5955-D1E9-4802-B181-467A79327408",
+            "orgName": "Nundah Nepali - Nundah - Brisbane QLD",
+            "orgType": "GROUP",
+            "address": "23 Henchman Street\nNUNDAH  QLD  4012\n",
+            "languageCode": "NP",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "0433 898 297",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "27882682-34D8-49B7-B6F2-6A9DCA7A4AC7",
@@ -2325,7 +4834,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2363,7 +4872,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2401,9 +4910,83 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "A2F61FB8-861B-4581-BDE3-7B8B3CEF111F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.32218,
+            "longitude": 153.02569
+        },
+        "properties": {
+            "orgGuid": "A2F61FB8-861B-4581-BDE3-7B8B3CEF111F",
+            "orgName": "Sandgate - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "165 Norris Road\nBRACKEN RIDGE  QLD  4017\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0412 392 857",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "DE882A93-7F03-4EC5-AC9B-C111DCADE3CA",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.32218,
+            "longitude": 153.02569
+        },
+        "properties": {
+            "orgGuid": "DE882A93-7F03-4EC5-AC9B-C111DCADE3CA",
+            "orgName": "Brighton - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "165 Norris Road\nBRACKEN RIDGE  QLD  4017\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "14:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0402 356 995",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "3BC2E50F-31BA-4A4E-A77A-4204F74758A1",
@@ -2439,7 +5022,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2481,7 +5064,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2519,7 +5102,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2557,7 +5140,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2595,9 +5178,560 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "06055D82-3411-4537-A8FA-E1FDDFCFA1F7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.15566,
+            "longitude": 152.97159
+        },
+        "properties": {
+            "orgGuid": "06055D82-3411-4537-A8FA-E1FDDFCFA1F7",
+            "orgName": "Burpengary North - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "155 Station Road\nBURPENGARY  QLD  4505\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0409040126",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "A713C32B-8524-4863-85C4-BFFF234EA304",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.15566,
+            "longitude": 152.97159
+        },
+        "properties": {
+            "orgGuid": "A713C32B-8524-4863-85C4-BFFF234EA304",
+            "orgName": "Deception Bay - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "155 Station Road\nBURPENGARY  QLD  4505\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "14:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0466 580 526",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "3440308A-D23B-415B-B17A-C27982BB2051",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.15566,
+            "longitude": 152.97159
+        },
+        "properties": {
+            "orgGuid": "3440308A-D23B-415B-B17A-C27982BB2051",
+            "orgName": "Kallangur - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "155 Station Road\nBURPENGARY  QLD  4505\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "14:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                },
+                "futureDate": "2023-01-02",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0438 863 639",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "41BDC425-A23A-4959-85FC-7D056BC50BAA",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.15566,
+            "longitude": 152.97159
+        },
+        "properties": {
+            "orgGuid": "41BDC425-A23A-4959-85FC-7D056BC50BAA",
+            "orgName": "Morayfield - QLD",
+            "orgType": "CONG",
+            "address": "155 Station Road\nBURPENGARY  QLD  4505\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "14:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0438722859",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "935B865A-4472-47AD-AD87-094223BB502D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.15566,
+            "longitude": 152.97159
+        },
+        "properties": {
+            "orgGuid": "935B865A-4472-47AD-AD87-094223BB502D",
+            "orgName": "Burpengary South - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "155 Station Road\nBURPENGARY  QLD  4505\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0492 917 361",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "C8831DDB-1501-4F61-AC85-9F26BFF5C56B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.21164,
+            "longitude": 153.05342
+        },
+        "properties": {
+            "orgGuid": "C8831DDB-1501-4F61-AC85-9F26BFF5C56B",
+            "orgName": "Margate - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "61-65 Gynther Road\r\nROTHWELL  QLD  4022\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0418 787 657",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "AAE1922B-45A6-4285-B1D3-FCB4869E2B12",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.21164,
+            "longitude": 153.05342
+        },
+        "properties": {
+            "orgGuid": "AAE1922B-45A6-4285-B1D3-FCB4869E2B12",
+            "orgName": "Redcliffe - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "61-65 Gynther Road\r\nROTHWELL  QLD  4022\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "07 3204 2756",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B2FE1E55-9602-493E-800D-CD73FD4BACC2",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.21164,
+            "longitude": 153.05342
+        },
+        "properties": {
+            "orgGuid": "B2FE1E55-9602-493E-800D-CD73FD4BACC2",
+            "orgName": "Kippa-Ring - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "61-65 Gynther Road\r\nROTHWELL  QLD  4022\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0410034734",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "561CCC13-D884-42E5-9AA4-692B4EE4904F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.21164,
+            "longitude": 153.05342
+        },
+        "properties": {
+            "orgGuid": "561CCC13-D884-42E5-9AA4-692B4EE4904F",
+            "orgName": "Rothwell - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "61-65 Gynther Road\r\nROTHWELL  QLD  4022\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "15:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                },
+                "futureDate": "2023-01-02",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0413047890",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "8E2CE157-0D74-4A60-82BD-9F0D8503DE04",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.21164,
+            "longitude": 153.05342
+        },
+        "properties": {
+            "orgGuid": "8E2CE157-0D74-4A60-82BD-9F0D8503DE04",
+            "orgName": "Scarborough - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "61-65 Gynther Road\r\nROTHWELL  QLD  4022\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "15:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0412758525",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "926C4C58-B6AD-47C9-9F71-6A479D726CCE",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.21164,
+            "longitude": 153.05342
+        },
+        "properties": {
+            "orgGuid": "926C4C58-B6AD-47C9-9F71-6A479D726CCE",
+            "orgName": "North Lakes - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "61-65 Gynther Road\r\nROTHWELL  QLD  4022\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0438 629 179",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "56DA60C4-3968-4DA9-B049-93E8BBACC70D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.21164,
+            "longitude": 153.05342
+        },
+        "properties": {
+            "orgGuid": "56DA60C4-3968-4DA9-B049-93E8BBACC70D",
+            "orgName": "Brisbane North Samoan - Brisbane QLD",
+            "orgType": "CONG",
+            "address": "61-65 Gynther Road\r\nROTHWELL  QLD  4022\r\n",
+            "languageCode": "SM",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 1,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "07 34658821",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "BA11D164-E9F8-40F1-A49E-BC057F052EA5",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.07905,
+            "longitude": 153.10259
+        },
+        "properties": {
+            "orgGuid": "BA11D164-E9F8-40F1-A49E-BC057F052EA5",
+            "orgName": "Caboolture - QLD",
+            "orgType": "CONG",
+            "address": "470 Bestmann Road\nGODWIN BEACH  QLD  4511\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0406075797",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "978F7E73-E7F0-42B1-9C11-65231D032A40",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -27.07905,
+            "longitude": 153.10259
+        },
+        "properties": {
+            "orgGuid": "978F7E73-E7F0-42B1-9C11-65231D032A40",
+            "orgName": "Bribie Island - QLD",
+            "orgType": "CONG",
+            "address": "470 Bestmann Road\nGODWIN BEACH  QLD  4511\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0490 021 489",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "AE470D8A-99DB-4282-A7FE-8ADFF9041033",
@@ -2633,7 +5767,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2671,7 +5805,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2709,7 +5843,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2758,7 +5892,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2796,7 +5930,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2834,7 +5968,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2883,7 +6017,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2921,7 +6055,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2959,7 +6093,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2997,7 +6131,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3046,7 +6180,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3084,7 +6218,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3126,7 +6260,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3164,7 +6298,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3202,7 +6336,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3251,7 +6385,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3289,7 +6423,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3327,7 +6461,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3365,7 +6499,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3403,7 +6537,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3441,7 +6575,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3479,7 +6613,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3517,7 +6651,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3555,7 +6689,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3604,7 +6738,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3653,7 +6787,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3691,7 +6825,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3729,7 +6863,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3767,7 +6901,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     }

@@ -1,5 +1,148 @@
 [
     {
+        "geoId": "A9535F29-55DC-4985-AADD-DE232CA1E1DD",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 8.527368,
+            "longitude": 117.432383
+        },
+        "properties": {
+            "orgGuid": "A9535F29-55DC-4985-AADD-DE232CA1E1DD",
+            "orgName": "Rio Tuba - Bataraza PLW",
+            "orgType": "CONG",
+            "address": "Macadam Road\r\nBarangay Rio Tuba\r\nBataraza\r\n5306 PALAWAN\r\n \r\n\r\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "17:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09179962523",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B58C2340-EA72-47ED-AD66-A51549FEABBF",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 8.678901,
+            "longitude": 117.615834
+        },
+        "properties": {
+            "orgGuid": "B58C2340-EA72-47ED-AD66-A51549FEABBF",
+            "orgName": "Poblacion - Bataraza PLW",
+            "orgType": "CONG",
+            "address": "West Marangas\r\nBataraza\r\n5306 PALAWAN\r\n \r\n\r\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "Globe:0927 939 8759  Smart:0946 426 6903",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "3890096E-5562-417F-884E-76C9407493F4",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 8.775429,
+            "longitude": 117.839932
+        },
+        "properties": {
+            "orgGuid": "3890096E-5562-417F-884E-76C9407493F4",
+            "orgName": "Salvacion - Brooke's Point PLW",
+            "orgType": "CONG",
+            "address": "Salvacion St\r\nPoblacion\r\nBrooke's Point\r\n5305 PALAWAN\r\n \r\n\r\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09175757264",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "ACF04C52-AFA8-442D-A072-C5AB9C813555",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 9.018736,
+            "longitude": 117.64741
+        },
+        "properties": {
+            "orgGuid": "ACF04C52-AFA8-442D-A072-C5AB9C813555",
+            "orgName": "Punta Baja - Rizal PLW",
+            "orgType": "CONG",
+            "address": "Core\r\nPunta Baja\r\nRizal\r\n5323 PALAWAN\r\n \r\n\r\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "07:30"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "07:30"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
         "geoId": "34925EC7-A941-4000-9DCD-CBA99553E43C",
         "type": "weekly",
         "isPrimary": true,
@@ -33,7 +176,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -66,7 +209,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -104,7 +247,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -142,7 +285,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -180,7 +323,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -216,7 +359,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -252,7 +395,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -285,7 +428,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -323,9 +466,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "0097C327-5523-4283-9DC3-BA8BD5A02498",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 9.436827,
+            "longitude": 118.549245
+        },
+        "properties": {
+            "orgGuid": "0097C327-5523-4283-9DC3-BA8BD5A02498",
+            "orgName": "Aborlan - PLW",
+            "orgType": "CONG",
+            "address": "Mendoza St\nPoblacion\nAborlan\n5302 PALAWAN\n \n\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09278051701",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "817E4C29-4EE5-410A-81B2-CEB47601759E",
@@ -356,7 +536,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -394,7 +574,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -432,7 +612,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -465,7 +645,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -503,7 +683,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -541,7 +721,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -582,7 +762,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -615,7 +795,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -648,7 +828,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -689,7 +869,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -730,7 +910,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -771,7 +951,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -809,7 +989,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -847,7 +1027,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -885,9 +1065,596 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "29263EA3-8B44-4732-85B4-567F1E275E37",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 10.1437,
+            "longitude": 119.21641
+        },
+        "properties": {
+            "orgGuid": "29263EA3-8B44-4732-85B4-567F1E275E37",
+            "orgName": "N. Zabala - Roxas PLW",
+            "orgType": "CONG",
+            "address": "Brgy Nicanor Zabala\nRoxas\n5308 PALAWAN\n \n\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "08:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0947.861.8151 | 0912.896.3212",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "C433D3D2-1CC1-4F05-8380-8FD986EB21D0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 10.326439,
+            "longitude": 119.344515
+        },
+        "properties": {
+            "orgGuid": "C433D3D2-1CC1-4F05-8380-8FD986EB21D0",
+            "orgName": "Retac - Roxas PLW",
+            "orgType": "CONG",
+            "address": "Baqyuiao Road\nBrgy 3\nRoxas\n5308 PALAWAN\n \n\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09502748787",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "6D88C353-58B7-4935-A541-6B0A4E1C9AE5",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 10.53155,
+            "longitude": 119.25343
+        },
+        "properties": {
+            "orgGuid": "6D88C353-58B7-4935-A541-6B0A4E1C9AE5",
+            "orgName": "San Vicente - PLW",
+            "orgType": "CONG",
+            "address": "San Vicente\nSan Vicente\n5309 PALAWAN\n \n\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "08:30"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09224163374",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "83552A76-31A9-4999-BADB-02524F10A277",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 10.713131,
+            "longitude": 119.489271
+        },
+        "properties": {
+            "orgGuid": "83552A76-31A9-4999-BADB-02524F10A277",
+            "orgName": "Bato - Taytay PLW",
+            "orgType": "CONG",
+            "address": "Brgy Bato\r\nTaytay\r\nPALAWAN\r\n \r\n\r\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09454620056",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "A15A2AFA-8EFA-43B7-AE56-8C90D57D2CE0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 10.782774,
+            "longitude": 119.44794
+        },
+        "properties": {
+            "orgGuid": "A15A2AFA-8EFA-43B7-AE56-8C90D57D2CE0",
+            "orgName": "New Guinlo - Taytay PLW",
+            "orgType": "CONG",
+            "address": "Purok Maharlika\r\nBarangay New Guinlo\r\nTaytay\r\n5312 PALAWAN\r\n \r\n\r\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09553570577",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "EAB17774-B4A9-4653-AC02-4CD38286B818",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 10.449624,
+            "longitude": 119.802459
+        },
+        "properties": {
+            "orgGuid": "EAB17774-B4A9-4653-AC02-4CD38286B818",
+            "orgName": "Bacao - Dumaran PLW",
+            "orgType": "CONG",
+            "address": "Brgy Bacao\nDumaran\n5310 PALAWAN\n \n\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "469CDCD7-16B7-4DAA-8968-C2CBB2C407EA",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 10.872023,
+            "longitude": 119.410061
+        },
+        "properties": {
+            "orgGuid": "469CDCD7-16B7-4DAA-8968-C2CBB2C407EA",
+            "orgName": "Pancol - Taytay PLW",
+            "orgType": "CONG",
+            "address": "Sitio Tandol\r\nBarangay Pancol\r\nTaytay\r\n5312 PALAWAN\r\n \r\n\r\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09957436587",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "6F0F6ADE-424B-4145-8E92-6F064030680D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 10.526492,
+            "longitude": 119.767183
+        },
+        "properties": {
+            "orgGuid": "6F0F6ADE-424B-4145-8E92-6F064030680D",
+            "orgName": "Santa Teresita - Dumaran PLW",
+            "orgType": "CONG",
+            "address": "Santa Teresita\r\nDumaran\r\n5310 PALAWAN\r\n \r\n\r\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09677153282 /09122320235",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "305A2238-C054-4AEF-80AD-0F775EADAAC3",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 11.005874,
+            "longitude": 119.306946
+        },
+        "properties": {
+            "orgGuid": "305A2238-C054-4AEF-80AD-0F775EADAAC3",
+            "orgName": "Liminangcong - Taytay PLW",
+            "orgType": "CONG",
+            "address": "Sitio Pag-asa, Brgy. Liminangcong\r\nTaytay\r\nPALAWAN\r\n \r\n\r\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "17:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09502454446",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "0CA599C0-CD1B-4D15-8B20-099D9FB1E34C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 10.823366,
+            "longitude": 119.516802
+        },
+        "properties": {
+            "orgGuid": "0CA599C0-CD1B-4D15-8B20-099D9FB1E34C",
+            "orgName": "Poblacion - Taytay PLW",
+            "orgType": "CONG",
+            "address": "Sorillo Street\nPSU Road\nPoblacion\nTaytay\n5312 PALAWAN\n \n\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09566292859 09164916719",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "0790F61F-238E-42AA-91CB-387B103ECA3A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 11.031797,
+            "longitude": 119.511191
+        },
+        "properties": {
+            "orgGuid": "0790F61F-238E-42AA-91CB-387B103ECA3A",
+            "orgName": "Busy Bees - Taytay PLW",
+            "orgType": "CONG",
+            "address": "Purok Pag-asa\nBusy Bees\nTaytay\n5312 PALAWAN\n \n\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09335397114",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B5BF33CF-BE7A-4955-A713-5C268A74F4E0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 10.587436,
+            "longitude": 119.984228
+        },
+        "properties": {
+            "orgGuid": "B5BF33CF-BE7A-4955-A713-5C268A74F4E0",
+            "orgName": "Araceli - PLW",
+            "orgType": "CONG",
+            "address": "Dawson St\nAraceli\n5311 PALAWAN\n \n\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09278069651",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "68F64837-5865-424D-9CFF-C9C7B3BE733C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 11.181167,
+            "longitude": 119.392614
+        },
+        "properties": {
+            "orgGuid": "68F64837-5865-424D-9CFF-C9C7B3BE733C",
+            "orgName": "Poblacion - El Nido PLW",
+            "orgType": "CONG",
+            "address": "Zone 3\nEl Nido\n5313 PALAWAN\n \n\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "15:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(048) 433 3500; +63 943 408 7477",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "AA1F5D04-8960-4650-8ED2-8F3E3A76F6A3",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 11.297438,
+            "longitude": 119.445756
+        },
+        "properties": {
+            "orgGuid": "AA1F5D04-8960-4650-8ED2-8F3E3A76F6A3",
+            "orgName": "Bucana - El Nido PLW",
+            "orgType": "CONG",
+            "address": "Purok A\r\nBarangay Barotuan\r\nEl Nido\r\n5313 PALAWAN\r\n \r\n\r\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "18:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09071024916/09196950292",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "33864E98-253E-4057-833C-1CC955196284",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 11.488327,
+            "longitude": 119.866913
+        },
+        "properties": {
+            "orgGuid": "33864E98-253E-4057-833C-1CC955196284",
+            "orgName": "San Miguel - Linapacan PLW",
+            "orgType": "CONG",
+            "address": "Purok 5\nBrgy San Miguel\nLinapacan\n5314 PALAWAN\n \n\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "08:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "17:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09129063613",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "BA919735-C6B9-46A0-972F-D273C754ED7B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 11.775756,
+            "longitude": 119.999381
+        },
+        "properties": {
+            "orgGuid": "BA919735-C6B9-46A0-972F-D273C754ED7B",
+            "orgName": "Halsey - Culion PLW",
+            "orgType": "CONG",
+            "address": "Halsey\nCulion\n5315 PALAWAN\n \n\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "17:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "09463970257",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "E498AC4D-50A1-42D2-9147-8D6B44BC0E9F",
@@ -923,7 +1690,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -961,7 +1728,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -999,7 +1766,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1037,7 +1804,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1075,7 +1842,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1113,7 +1880,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1146,7 +1913,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1184,7 +1951,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1217,7 +1984,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1255,7 +2022,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     }

@@ -1,5 +1,346 @@
 [
     {
+        "geoId": "CB5037F0-CAB3-44E4-9BAF-157CB1794DEB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.829127,
+            "longitude": 112.015854
+        },
+        "properties": {
+            "orgGuid": "CB5037F0-CAB3-44E4-9BAF-157CB1794DEB",
+            "orgName": "Kediri Bahasa Isyarat - Kediri Kota",
+            "orgType": "GROUP",
+            "address": "Jl. Brigjend. Katamso No. 88/96\r\nKEDIRI—64126  JAWA TIMUR\r\n\r\n",
+            "languageCode": "INI",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "17:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "+62&nbsp;085736260085",
+                    "ext": ""
+                },
+                {
+                    "phone": "+62&nbsp;085736260085",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": true
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "F5401627-C627-4A21-9FE9-9EA4CE7DDFB0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.763759,
+            "longitude": 112.207827
+        },
+        "properties": {
+            "orgGuid": "F5401627-C627-4A21-9FE9-9EA4CE7DDFB0",
+            "orgName": "Kediri Kota",
+            "orgType": "CONG",
+            "address": "Jl. Gajah Mada No. 88\r\nPare-Kediri\r\nPARE—64211  JAWA TIMUR\r\n\r\n",
+            "languageCode": "IN",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "15:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "+62&nbsp;085736260085",
+                    "ext": ""
+                },
+                {
+                    "phone": "+62&nbsp;085736260085",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "E726CC4C-13ED-4F5C-841D-92D30DEDC14B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.763759,
+            "longitude": 112.207827
+        },
+        "properties": {
+            "orgGuid": "E726CC4C-13ED-4F5C-841D-92D30DEDC14B",
+            "orgName": "Kediri Pare",
+            "orgType": "CONG",
+            "address": "Jl. Gajah Mada No. 88\r\nPare-Kediri\r\nPARE—64211  JAWA TIMUR\r\n\r\n",
+            "languageCode": "IN",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "17:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "081335241341",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "C9126D1A-1C88-4351-85B3-C02F0A58BD1C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.874107,
+            "longitude": 112.511312
+        },
+        "properties": {
+            "orgGuid": "C9126D1A-1C88-4351-85B3-C02F0A58BD1C",
+            "orgName": "Malang Batu",
+            "orgType": "CONG",
+            "address": "Jl. Suropati Gang Bengkel No. 22A\r\nPesanggrahan, Kota Batu\r\nBATU—65313  JAWA TIMUR\r\n\r\n",
+            "languageCode": "IN",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "09:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "16:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "081334998854/Sdr. Iid Wibowo",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": true
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "09B4ED92-E1C5-49DC-9350-0542FF4228DC",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.952626,
+            "longitude": 112.636192
+        },
+        "properties": {
+            "orgGuid": "09B4ED92-E1C5-49DC-9350-0542FF4228DC",
+            "orgName": "Malang Kedung Kandang",
+            "orgType": "CONG",
+            "address": "1st floor auditorium, Hotel Bluebells Express\r\nJl. Kedawung No. 45\r\nKelurahan Tulusrejo, Kecamatan Lowokwaru\r\nMALANG—65141  JAWA TIMUR\r\n\r\n",
+            "languageCode": "IN",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "17:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "17:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "085746919786",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "AA0ED67B-EB7F-4A0A-86D9-C3608669820D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.952626,
+            "longitude": 112.636192
+        },
+        "properties": {
+            "orgGuid": "AA0ED67B-EB7F-4A0A-86D9-C3608669820D",
+            "orgName": "Malang Klojen",
+            "orgType": "CONG",
+            "address": "1st floor auditorium, Hotel Bluebells Express\r\nJl. Kedawung No. 45\r\nKelurahan Tulusrejo, Kecamatan Lowokwaru\r\nMALANG—65141  JAWA TIMUR\r\n\r\n",
+            "languageCode": "IN",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "08:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "17:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "085233343222",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "D53A8C1D-8CE4-4548-8D59-633A0CF27496",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.952626,
+            "longitude": 112.636192
+        },
+        "properties": {
+            "orgGuid": "D53A8C1D-8CE4-4548-8D59-633A0CF27496",
+            "orgName": "Malang Blimbing",
+            "orgType": "CONG",
+            "address": "1st floor auditorium, Hotel Bluebells Express\r\nJl. Kedawung No. 45\r\nKelurahan Tulusrejo, Kecamatan Lowokwaru\r\nMALANG—65141  JAWA TIMUR\r\n\r\n",
+            "languageCode": "IN",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "17:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "17:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "08383506133",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "8521251F-AAE9-4B13-9115-9C85710943F8",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.952626,
+            "longitude": 112.636192
+        },
+        "properties": {
+            "orgGuid": "8521251F-AAE9-4B13-9115-9C85710943F8",
+            "orgName": "Malang Bahasa Isyarat",
+            "orgType": "CONG",
+            "address": "1st floor auditorium, Hotel Bluebells Express\r\nJl. Kedawung No. 45\r\nKelurahan Tulusrejo, Kecamatan Lowokwaru\r\nMALANG—65141  JAWA TIMUR\r\n\r\n",
+            "languageCode": "INI",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "14:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "17:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "+6281346029565",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "F0D5EA5E-B24F-410E-99A8-E64CFBEFD5F2",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": -7.849663,
+            "longitude": 112.695286
+        },
+        "properties": {
+            "orgGuid": "F0D5EA5E-B24F-410E-99A8-E64CFBEFD5F2",
+            "orgName": "Malang Lawang",
+            "orgType": "CONG",
+            "address": "Gedung KSP Berkah Sesama, Ruko Malang Permai 31-E\r\nJl. Dr. Wahidin 31 (Jalan Raya Malang-Surabaya)\r\nKelurahan Kalirejo, Kecamatan Lawang\r\nMALANG—65216  JAWA TIMUR\r\n\r\n",
+            "languageCode": "IN",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "08:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "17:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "0813 5905 8933 | 0813 3471 1337",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": true
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
         "geoId": "F9411090-6C51-4A14-A8AE-41A73440E593",
         "type": "weekly",
         "isPrimary": true,
@@ -33,7 +374,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -71,7 +412,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -109,7 +450,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -147,7 +488,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -185,7 +526,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -223,7 +564,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -261,7 +602,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -303,7 +644,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -341,7 +682,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -379,7 +720,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -417,7 +758,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -455,7 +796,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -493,7 +834,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -531,7 +872,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -569,7 +910,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -607,7 +948,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -645,7 +986,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -683,7 +1024,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -721,7 +1062,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -759,7 +1100,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -797,7 +1138,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -835,7 +1176,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -873,7 +1214,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -914,7 +1255,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -955,7 +1296,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -993,7 +1334,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1031,7 +1372,7 @@
             ],
             "isPrivateMtgPlace": true
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     }

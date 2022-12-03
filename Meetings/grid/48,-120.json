@@ -1,5 +1,492 @@
 [
     {
+        "geoId": "5F1AAD78-7AF2-41B3-8273-0B3090F13425",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 48.107669,
+            "longitude": -119.779301
+        },
+        "properties": {
+            "orgGuid": "5F1AAD78-7AF2-41B3-8273-0B3090F13425",
+            "orgName": "English - Brewster WA (USA)",
+            "orgType": "CONG",
+            "address": "301 State Way\r\nBrewster WA  98812\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "509-689-3327",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "3D46867F-6266-4A5C-9269-5CBDD24E8AC0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 48.107669,
+            "longitude": -119.779301
+        },
+        "properties": {
+            "orgGuid": "3D46867F-6266-4A5C-9269-5CBDD24E8AC0",
+            "orgName": "Spanish - Brewster WA (USA)",
+            "orgType": "CONG",
+            "address": "301 State Way\r\nBrewster WA  98812\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "509 689 2045",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "4485ABAE-A295-4C60-B1FA-9EE53FBD37C6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 48.425621,
+            "longitude": -119.506111
+        },
+        "properties": {
+            "orgGuid": "4485ABAE-A295-4C60-B1FA-9EE53FBD37C6",
+            "orgName": "Omak - WA (USA)",
+            "orgType": "CONG",
+            "address": "1009 Senna St\nOmak WA  98841-9516\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "509-422-2239",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "59738BF9-7686-49BF-A01C-F6BFD73F0AEB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 48.425621,
+            "longitude": -119.506111
+        },
+        "properties": {
+            "orgGuid": "59738BF9-7686-49BF-A01C-F6BFD73F0AEB",
+            "orgName": "Spanish - Oroville WA (USA)",
+            "orgType": "CONG",
+            "address": "1009 Senna St\nOmak WA  98841-9516\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "18:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(509)560-8837",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "4A68A3CA-0E88-40B4-BBCB-A251E48CDF5A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 49.171093,
+            "longitude": -119.55784
+        },
+        "properties": {
+            "orgGuid": "4A68A3CA-0E88-40B4-BBCB-A251E48CDF5A",
+            "orgName": "Oliver, BC",
+            "orgType": "CONG",
+            "address": "5692 Highway 97\r\nOliver BC  V0H 1T9\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(250) 485-4860",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "C210CD0F-DC16-489C-B193-BEB12E74EE32",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 49.475853,
+            "longitude": -119.584399
+        },
+        "properties": {
+            "orgGuid": "C210CD0F-DC16-489C-B193-BEB12E74EE32",
+            "orgName": "Green Mountain, Penticton, BC",
+            "orgType": "CONG",
+            "address": "52 Roy Avenue West\r\nPenticton BC  V2A 3M6\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "778-622-4367",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "EE19CDEB-691E-4704-BC1E-67E0677FE0D4",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 49.475853,
+            "longitude": -119.584399
+        },
+        "properties": {
+            "orgGuid": "EE19CDEB-691E-4704-BC1E-67E0677FE0D4",
+            "orgName": "Redlands, Penticton, BC",
+            "orgType": "CONG",
+            "address": "52 Roy Avenue West\r\nPenticton BC  V2A 3M6\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "S"
+            ],
+            "phones": [
+                {
+                    "phone": "778-622-4367 (East)",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "EDB010BD-300F-4DFD-A290-3AB8A1AF64C8",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 49.475853,
+            "longitude": -119.584399
+        },
+        "properties": {
+            "orgGuid": "EDB010BD-300F-4DFD-A290-3AB8A1AF64C8",
+            "orgName": "Valleyview, Penticton, BC",
+            "orgType": "CONG",
+            "address": "52 Roy Avenue West\r\nPenticton BC  V2A 3M6\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "778-622-4342",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "63BB86B5-0CC9-4C8F-8524-B26D08ED88FC",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 49.475853,
+            "longitude": -119.584399
+        },
+        "properties": {
+            "orgGuid": "63BB86B5-0CC9-4C8F-8524-B26D08ED88FC",
+            "orgName": "Redlands Spanish, Penticton, BC - Redlands, Penticton, BC",
+            "orgType": "GROUP",
+            "address": "52 Roy Avenue West\r\nPenticton BC  V2A 3M6\r\n\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "778-622-4367 (East)",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "4FAE3BA7-E44D-416E-9F9B-5B5F80E51421",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 48.642537,
+            "longitude": -118.729728
+        },
+        "properties": {
+            "orgGuid": "4FAE3BA7-E44D-416E-9F9B-5B5F80E51421",
+            "orgName": "Republic - WA (USA)",
+            "orgType": "CONG",
+            "address": "1050 Hesse Blvd\nRepublic WA  99166\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "1-509-775-2839",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "C1A7D632-0349-4C12-910C-C8A65AD1374A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 49.60862,
+            "longitude": -119.67581
+        },
+        "properties": {
+            "orgGuid": "C1A7D632-0349-4C12-910C-C8A65AD1374A",
+            "orgName": "Summerland, BC",
+            "orgType": "CONG",
+            "address": "14806 Biagioni Avenue\r\nSummerland BC  V0H 1Z6\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(250) 404-4114",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "A2F31A3A-42FA-4BF5-9E6C-24628C10DFD0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 49.824767,
+            "longitude": -119.649344
+        },
+        "properties": {
+            "orgGuid": "A2F31A3A-42FA-4BF5-9E6C-24628C10DFD0",
+            "orgName": "Glenrosa, Westbank, BC",
+            "orgType": "CONG",
+            "address": "3797 Glenway Road\r\nWestbank BC  V4T 1E3\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(778) 795-0549",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "CD4862B8-7E28-4B6C-9996-BB6CB2150D2E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 49.824767,
+            "longitude": -119.649344
+        },
+        "properties": {
+            "orgGuid": "CD4862B8-7E28-4B6C-9996-BB6CB2150D2E",
+            "orgName": "Lakeview Heights, Westbank, BC",
+            "orgType": "CONG",
+            "address": "3797 Glenway Road\r\nWestbank BC  V4T 1E3\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(778) 795-0549",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
         "geoId": "60897C57-43D5-4391-AA36-3A9AD447A567",
         "type": "weekly",
         "isPrimary": true,
@@ -33,7 +520,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -71,7 +558,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -109,7 +596,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -147,7 +634,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -185,7 +672,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -223,7 +710,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -275,7 +762,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -327,7 +814,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -365,7 +852,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -403,7 +890,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -441,7 +928,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -479,7 +966,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -517,7 +1004,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -558,7 +1045,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -596,7 +1083,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -634,7 +1121,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -675,9 +1162,83 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "7543E293-E661-4E13-8C16-A8C4BFC1A057",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 50.818389,
+            "longitude": -119.685618
+        },
+        "properties": {
+            "orgGuid": "7543E293-E661-4E13-8C16-A8C4BFC1A057",
+            "orgName": "Chase, BC",
+            "orgType": "CONG",
+            "address": "818 Thompson Avenue\r\nChase BC  V0E 1M0\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(250) 679-0318",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "E22D851B-3FD3-478E-BCF3-7720F73CB6CF",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 48.187952,
+            "longitude": -117.048684
+        },
+        "properties": {
+            "orgGuid": "E22D851B-3FD3-478E-BCF3-7720F73CB6CF",
+            "orgName": "Newport - WA (USA)",
+            "orgType": "CONG",
+            "address": "101 Lilac Ln\nNewport WA  99156\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "509-447-3924",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "84E5D4D6-D0E8-4542-A5C5-934D37F42133",
@@ -713,9 +1274,120 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "77BCB555-93E0-4186-BEE8-6FC1EB5AD2E8",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 50.544019,
+            "longitude": -119.140086
+        },
+        "properties": {
+            "orgGuid": "77BCB555-93E0-4186-BEE8-6FC1EB5AD2E8",
+            "orgName": "Enderby, BC",
+            "orgType": "CONG",
+            "address": "115 George Street (Highway 97)\r\nEnderby BC  V0E 1V0\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(250) 838-3730",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "799B850C-84B5-4758-BB98-BA5849DF9D5E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 50.694582,
+            "longitude": -119.282628
+        },
+        "properties": {
+            "orgGuid": "799B850C-84B5-4758-BB98-BA5849DF9D5E",
+            "orgName": "Canoe, Salmon Arm, BC",
+            "orgType": "CONG",
+            "address": "721 2 Street SE\r\nSalmon Arm BC  V1E 4H3\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "778-824-1254",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "BFAFD3A8-B9D2-4F89-8330-57018FD575F1",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 50.694582,
+            "longitude": -119.282628
+        },
+        "properties": {
+            "orgGuid": "BFAFD3A8-B9D2-4F89-8330-57018FD575F1",
+            "orgName": "Mount Ida, Salmon Arm, BC",
+            "orgType": "CONG",
+            "address": "721 2 Street SE\r\nSalmon Arm BC  V1E 4H3\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "778-824-1254",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "2AFB1908-0E08-41E3-9282-13EB72C57F31",
@@ -751,7 +1423,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -789,7 +1461,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -827,9 +1499,83 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "515B9825-5EA9-4A38-AA96-F630C2629976",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 48.290418,
+            "longitude": -116.557547
+        },
+        "properties": {
+            "orgGuid": "515B9825-5EA9-4A38-AA96-F630C2629976",
+            "orgName": "South - Sandpoint ID (USA)",
+            "orgType": "CONG",
+            "address": "1715 N Boyer Ave\nSandpoint ID  83864-7457\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "208-263-0976",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "ADD32F34-9A8C-42E7-B7FE-F160FE83DBB0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 48.290418,
+            "longitude": -116.557547
+        },
+        "properties": {
+            "orgGuid": "ADD32F34-9A8C-42E7-B7FE-F160FE83DBB0",
+            "orgName": "North - Sandpoint ID (USA)",
+            "orgType": "CONG",
+            "address": "1715 N Boyer Ave\nSandpoint ID  83864-7457\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "208 263 5778",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "C7B134B0-ED2B-47B4-84CB-43C05EB1EF8C",
@@ -868,7 +1614,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -906,9 +1652,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "9CF0D028-641E-45E2-B384-FE703149CDF0",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 48.703512,
+            "longitude": -116.329031
+        },
+        "properties": {
+            "orgGuid": "9CF0D028-641E-45E2-B384-FE703149CDF0",
+            "orgName": "Bonners Ferry - ID (USA)",
+            "orgType": "CONG",
+            "address": "6829 Kaniksu St\nBonners Ferry ID  83805\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "208-267-5746",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "3505E452-FF84-44EA-B2B3-ED92EA8E4A9C",
@@ -944,9 +1727,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "1B2E31CB-C740-4E4D-9007-DB340F7606EF",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 49.111002,
+            "longitude": -116.523732
+        },
+        "properties": {
+            "orgGuid": "1B2E31CB-C740-4E4D-9007-DB340F7606EF",
+            "orgName": "Creston Valley, Creston, BC",
+            "orgType": "CONG",
+            "address": "1323 Northwest Boulevard\r\nRR 6\r\nCreston BC  V0B 1G6\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "1 877-888-4951",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "36D40EB9-317F-488B-BEAF-0F9C27DCF769",
@@ -982,7 +1802,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1020,7 +1840,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1058,7 +1878,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1096,7 +1916,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1134,7 +1954,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1172,7 +1992,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1210,7 +2030,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1248,7 +2068,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1286,7 +2106,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1324,7 +2144,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1362,7 +2182,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1400,9 +2220,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "2842EEA5-7E9E-4246-9EA6-1EB8CA54FFAC",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 51.296074,
+            "longitude": -116.957278
+        },
+        "properties": {
+            "orgGuid": "2842EEA5-7E9E-4246-9EA6-1EB8CA54FFAC",
+            "orgName": "Golden, BC",
+            "orgType": "CONG",
+            "address": "1218 9 Street South\r\nGolden BC  V0A 1H0\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "250-344-6612",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "1319BC9D-7E86-42A3-8F7B-0914CFCAD082",
@@ -1438,9 +2295,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "0CF92D83-1544-403B-B024-193E4436300D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 50.49506,
+            "longitude": -115.987449
+        },
+        "properties": {
+            "orgGuid": "0CF92D83-1544-403B-B024-193E4436300D",
+            "orgName": "Invermere, BC",
+            "orgType": "CONG",
+            "address": "1-1070 Highway 95 (Holland Creek Estate)\r\nInvermere BC  V0A 1K3\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(778) 635-1010",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "9C75AC68-44AB-4EFF-B2F6-48CE5E21BC4D",
@@ -1476,7 +2370,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1514,7 +2408,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1552,7 +2446,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1590,7 +2484,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1628,7 +2522,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1667,7 +2561,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1705,7 +2599,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1743,7 +2637,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1781,7 +2675,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1819,7 +2713,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1857,7 +2751,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1895,7 +2789,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1933,7 +2827,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -1971,9 +2865,205 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "EB796F64-92E4-436B-B7AA-6E2873498CBE",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 50.911335,
+            "longitude": -114.064408
+        },
+        "properties": {
+            "orgGuid": "EB796F64-92E4-436B-B7AA-6E2873498CBE",
+            "orgName": "New Brighton, Calgary, AB",
+            "orgType": "CONG",
+            "address": "270 Midpark Way SE\r\nCalgary AB  T2X 1J6\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "403-836-7678",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B28C73C9-55BA-4872-9F67-BD3777CD0014",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 50.911335,
+            "longitude": -114.064408
+        },
+        "properties": {
+            "orgGuid": "B28C73C9-55BA-4872-9F67-BD3777CD0014",
+            "orgName": "Midnapore, Calgary, AB",
+            "orgType": "CONG",
+            "address": "270 Midpark Way SE\r\nCalgary AB  T2X 1J6\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "825-449-0970",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "D64CF868-FD9B-449E-980E-7DB355091297",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 50.911335,
+            "longitude": -114.064408
+        },
+        "properties": {
+            "orgGuid": "D64CF868-FD9B-449E-980E-7DB355091297",
+            "orgName": "Shawnessy, Calgary, AB",
+            "orgType": "CONG",
+            "address": "270 Midpark Way SE\r\nCalgary AB  T2X 1J6\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(403) 975-4513",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "A9F9583C-F5DF-4626-821F-5CBA33B35D0C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 50.911335,
+            "longitude": -114.064408
+        },
+        "properties": {
+            "orgGuid": "A9F9583C-F5DF-4626-821F-5CBA33B35D0C",
+            "orgName": "Cranston, Calgary, AB",
+            "orgType": "CONG",
+            "address": "270 Midpark Way SE\r\nCalgary AB  T2X 1J6\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "403-254-0421",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "9D842AF5-2A2B-4D2A-A06B-71150DD50ACE",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 50.911335,
+            "longitude": -114.064408
+        },
+        "properties": {
+            "orgGuid": "9D842AF5-2A2B-4D2A-A06B-71150DD50ACE",
+            "orgName": "Midpark Tagalog, Calgary, AB",
+            "orgType": "CONG",
+            "address": "270 Midpark Way SE\r\nCalgary AB  T2X 1J6\r\n\r\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "403-254-0421",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "65D29F8A-2006-489B-82B1-D1D53082B729",
@@ -2009,7 +3099,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2050,7 +3140,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2091,7 +3181,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2129,7 +3219,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2167,7 +3257,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2205,7 +3295,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2243,9 +3333,120 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "E604B709-47F3-4857-A697-1D17BFC3D647",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 50.972115,
+            "longitude": -114.05846
+        },
+        "properties": {
+            "orgGuid": "E604B709-47F3-4857-A697-1D17BFC3D647",
+            "orgName": "Acadia Spanish, Calgary, AB",
+            "orgType": "CONG",
+            "address": "9110 Fairmount Drive SE\r\nCalgary AB  T2J 4X5\r\n\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "403-255-8214",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "E832E66D-17A1-482C-896C-4D4A8AF73911",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 50.972115,
+            "longitude": -114.05846
+        },
+        "properties": {
+            "orgGuid": "E832E66D-17A1-482C-896C-4D4A8AF73911",
+            "orgName": "Acadia, Calgary, AB",
+            "orgType": "CONG",
+            "address": "9110 Fairmount Drive SE\r\nCalgary AB  T2J 4X5\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(587) 880-8918",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "3E52D316-F718-48C8-83C6-34C2B2398E8A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 50.972115,
+            "longitude": -114.05846
+        },
+        "properties": {
+            "orgGuid": "3E52D316-F718-48C8-83C6-34C2B2398E8A",
+            "orgName": "Woodlands, Calgary, AB",
+            "orgType": "CONG",
+            "address": "9110 Fairmount Drive SE\r\nCalgary AB  T2J 4X5\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "403-454-9386",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "AB54C0F7-A030-4509-97CC-B2CD0B7D591C",
@@ -2281,7 +3482,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2330,7 +3531,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2368,7 +3569,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2406,7 +3607,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2444,7 +3645,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2482,7 +3683,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2520,7 +3721,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2558,7 +3759,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2596,7 +3797,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2634,7 +3835,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2675,7 +3876,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2713,7 +3914,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2754,7 +3955,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2795,7 +3996,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2833,7 +4034,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2871,7 +4072,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2909,7 +4110,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2947,7 +4148,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -2985,7 +4186,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3026,7 +4227,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3064,7 +4265,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3105,7 +4306,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3146,7 +4347,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3184,7 +4385,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3233,7 +4434,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3271,7 +4472,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3304,7 +4505,7 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3342,7 +4543,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3380,7 +4581,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3421,7 +4622,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3462,7 +4663,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3500,7 +4701,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3538,7 +4739,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3576,7 +4777,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3614,7 +4815,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3652,7 +4853,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3690,9 +4891,46 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "4D152784-F60E-4E7E-AB30-CB23010DE20E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.364834,
+            "longitude": -114.936496
+        },
+        "properties": {
+            "orgGuid": "4D152784-F60E-4E7E-AB30-CB23010DE20E",
+            "orgName": "Rocky Mountain House, AB",
+            "orgType": "CONG",
+            "address": "4207 62 Street\r\nRocky Mountain House AB  T4T 1G1\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(403) 847-0940",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "1AC680BC-B488-4A7A-A22B-2B252E2B4DF4",
@@ -3728,7 +4966,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3766,7 +5004,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3804,9 +5042,83 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "B6C2E584-73DA-4A8E-991C-50B3AF526182",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 51.791216,
+            "longitude": -114.126452
+        },
+        "properties": {
+            "orgGuid": "B6C2E584-73DA-4A8E-991C-50B3AF526182",
+            "orgName": "Deer Meadows, Olds, AB",
+            "orgType": "CONG",
+            "address": "6220 53 Street\r\nOlds AB  T4H 1L2\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(403) 559-0362",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "8E93380B-2D68-4FE1-A16B-092CCC403EC3",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 51.791216,
+            "longitude": -114.126452
+        },
+        "properties": {
+            "orgGuid": "8E93380B-2D68-4FE1-A16B-092CCC403EC3",
+            "orgName": "Silverthorn, Olds, AB",
+            "orgType": "CONG",
+            "address": "6220 53 Street\r\nOlds AB  T4H 1L2\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(403) 559-0362",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "2FF8A2B2-7225-41C9-B6C0-06E915D2C134",
@@ -3842,9 +5154,463 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "91B1E654-BD7A-4CF3-B167-5D642AB24094",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.009839,
+            "longitude": -113.955948
+        },
+        "properties": {
+            "orgGuid": "91B1E654-BD7A-4CF3-B167-5D642AB24094",
+            "orgName": "Innisfail, AB",
+            "orgType": "CONG",
+            "address": "3304 52 Avenue\r\nInnisfail AB  T4G 1E2\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "14032271727",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "AC7AAA86-E4CD-4555-81FF-8DB8B70F8996",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.228106,
+            "longitude": -114.988328
+        },
+        "properties": {
+            "orgGuid": "AC7AAA86-E4CD-4555-81FF-8DB8B70F8996",
+            "orgName": "Drayton Valley, AB",
+            "orgType": "CONG",
+            "address": "5502 56 Street\r\nDrayton Valley AB  T7A 1C2\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-621-3406",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "54348BC9-8B11-4F70-96C6-F2045F7100DA",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.643098,
+            "longitude": -114.222058
+        },
+        "properties": {
+            "orgGuid": "54348BC9-8B11-4F70-96C6-F2045F7100DA",
+            "orgName": "Rimbey, AB",
+            "orgType": "CONG",
+            "address": "5311 43 Street\r\nRR 3\r\nRimbey AB  T0C 2J0\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "587-222-5502",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "71D0D722-963C-4F93-9263-B51CE237DC77",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.242053,
+            "longitude": -113.805584
+        },
+        "properties": {
+            "orgGuid": "71D0D722-963C-4F93-9263-B51CE237DC77",
+            "orgName": "Eastside, Red Deer, AB",
+            "orgType": "CONG",
+            "address": "11 Bennett Street\r\nRed Deer AB  T4R 1V3\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "403-347-3908",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "2699B36F-5481-4BD9-B587-252F4EFD8FCE",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 54.14874,
+            "longitude": -115.67545
+        },
+        "properties": {
+            "orgGuid": "2699B36F-5481-4BD9-B587-252F4EFD8FCE",
+            "orgName": "Whitecourt, AB",
+            "orgType": "CONG",
+            "address": "35 Lyons Crescent\r\nWhitecourt AB  T7S 1N9\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-779-8482",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "DAF6FEE0-616B-47BA-A350-994A327478A4",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.308318,
+            "longitude": -113.826772
+        },
+        "properties": {
+            "orgGuid": "DAF6FEE0-616B-47BA-A350-994A327478A4",
+            "orgName": "North Hill, Red Deer, AB",
+            "orgType": "CONG",
+            "address": "20 Kovac Street\r\nRed Deer AB  T4P 3M3\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "5878020037",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "F7DA4D84-FF30-4690-B810-96312CBCCD98",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.308318,
+            "longitude": -113.826772
+        },
+        "properties": {
+            "orgGuid": "F7DA4D84-FF30-4690-B810-96312CBCCD98",
+            "orgName": "Clearview Iloko, Red Deer, AB",
+            "orgType": "CONG",
+            "address": "20 Kovac Street\r\nRed Deer AB  T4P 3M3\r\n\r\n",
+            "languageCode": "IL",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(587) 679-6476",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "53EC41F6-FE37-47A5-9DAD-7666904AAD8A",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.282136,
+            "longitude": -113.764712
+        },
+        "properties": {
+            "orgGuid": "53EC41F6-FE37-47A5-9DAD-7666904AAD8A",
+            "orgName": "Waskasoo Park, Red Deer, AB",
+            "orgType": "CONG",
+            "address": "440 Timothy Drive\r\nRed Deer AB  T4P 0L2\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "ASL",
+                "S"
+            ],
+            "phones": [
+                {
+                    "phone": "587-802-0038",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B6C6C6E5-F134-4EE4-B729-FE25F924A552",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.282136,
+            "longitude": -113.764712
+        },
+        "properties": {
+            "orgGuid": "B6C6C6E5-F134-4EE4-B729-FE25F924A552",
+            "orgName": "Waskasoo Park-ASL - Waskasoo Park, Red Deer, AB",
+            "orgType": "GROUP",
+            "address": "440 Timothy Drive\r\nRed Deer AB  T4P 0L2\r\n\r\n",
+            "languageCode": "ASL",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "587-802-0038",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B9687B9F-D329-4CF4-814B-EBDF854F71CE",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.282136,
+            "longitude": -113.764712
+        },
+        "properties": {
+            "orgGuid": "B9687B9F-D329-4CF4-814B-EBDF854F71CE",
+            "orgName": "Kentwood Tagalog, Red Deer, AB",
+            "orgType": "CONG",
+            "address": "440 Timothy Drive\r\nRed Deer AB  T4P 0L2\r\n\r\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "403-6191437",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "3751DBBD-3F38-49F7-AE66-7D6B077D5F9D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.282136,
+            "longitude": -113.764712
+        },
+        "properties": {
+            "orgGuid": "3751DBBD-3F38-49F7-AE66-7D6B077D5F9D",
+            "orgName": "Waskasoo Park Spanish - Waskasoo Park, Red Deer, AB",
+            "orgType": "GROUP",
+            "address": "440 Timothy Drive\r\nRed Deer AB  T4P 0L2\r\n\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "587-802-0038",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "0443EAE9-4DF5-4529-87F2-FDBBC492D09F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.599725,
+            "longitude": -115.059209
+        },
+        "properties": {
+            "orgGuid": "0443EAE9-4DF5-4529-87F2-FDBBC492D09F",
+            "orgName": "Evansburg, AB",
+            "orgType": "CONG",
+            "address": "53332 Highway 16A\r\nEvansburg AB  T0E 0T0\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-898-0338",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "8CB060A7-C840-4681-903B-0AA2217DF9C1",
@@ -3880,9 +5646,78 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "A90D4BAF-17A7-4BD4-B942-A8088499F3BE",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.455752,
+            "longitude": -113.728279
+        },
+        "properties": {
+            "orgGuid": "A90D4BAF-17A7-4BD4-B942-A8088499F3BE",
+            "orgName": "Lacombe, AB",
+            "orgType": "CONG",
+            "address": "4521 46 Avenue\r\nLacombe AB  T4L 0G9\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "0A90FF66-BE6E-4CC5-8127-3772022AF7E4",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.949913,
+            "longitude": -115.130941
+        },
+        "properties": {
+            "orgGuid": "0A90FF66-BE6E-4CC5-8127-3772022AF7E4",
+            "orgName": "Mayerthorpe, AB",
+            "orgType": "CONG",
+            "address": "4417 46 Avenue\r\nMayerthorpe AB  T0E 1N0\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(780) 785-0429",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "060C1665-8F2D-43BC-B37E-A5579DA9EEB4",
@@ -3918,9 +5753,152 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "247ABE32-7701-42D3-97B9-D1C8F0702ACE",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.689229,
+            "longitude": -113.573983
+        },
+        "properties": {
+            "orgGuid": "247ABE32-7701-42D3-97B9-D1C8F0702ACE",
+            "orgName": "Ponoka, AB",
+            "orgType": "CONG",
+            "address": "6307 51 Street\r\nPonoka AB  T4J 1E4\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(403) 785-4478",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "203493B2-8BC6-48F0-9828-C5A00C7ECEDF",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.16688,
+            "longitude": -113.878203
+        },
+        "properties": {
+            "orgGuid": "203493B2-8BC6-48F0-9828-C5A00C7ECEDF",
+            "orgName": "Glen Park, AB",
+            "orgType": "CONG",
+            "address": "48421B Range Road 273\r\nGlen Park AB  T0C 0V0\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-312-8021",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "A7ED675E-9C1F-4D44-8C33-FDB5062D5AA2",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.261305,
+            "longitude": -113.804792
+        },
+        "properties": {
+            "orgGuid": "A7ED675E-9C1F-4D44-8C33-FDB5062D5AA2",
+            "orgName": "Calmar, AB",
+            "orgType": "CONG",
+            "address": "4621 50 Street\r\nCalmar AB  T0C 0V0\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-445-4167",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "962C42B4-7D1A-4139-889B-1DB2C452F59D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.326568,
+            "longitude": -112.739492
+        },
+        "properties": {
+            "orgGuid": "962C42B4-7D1A-4139-889B-1DB2C452F59D",
+            "orgName": "Stettler, AB",
+            "orgType": "CONG",
+            "address": "6912 50A Avenue\r\nStettler AB  T0C 2L0\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "E61E902B-73AA-4D65-AA94-6F39BFD6F289",
@@ -3956,7 +5934,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -3994,7 +5972,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4032,9 +6010,83 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "38F896A0-D4D0-481C-ABDF-54E6B0358925",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 52.975462,
+            "longitude": -113.368698
+        },
+        "properties": {
+            "orgGuid": "38F896A0-D4D0-481C-ABDF-54E6B0358925",
+            "orgName": "Wetaskiwin, AB",
+            "orgType": "CONG",
+            "address": "4802 57 Avenue\r\nWetaskiwin AB  T9A 1B5\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "587 742 2762",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "78950FC9-E382-4BD0-A544-BC471EE9BB46",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.266228,
+            "longitude": -113.557793
+        },
+        "properties": {
+            "orgGuid": "78950FC9-E382-4BD0-A544-BC471EE9BB46",
+            "orgName": "Leduc, AB",
+            "orgType": "CONG",
+            "address": "5120 52 Street\r\nLeduc AB  T9E 6K9\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(587) 906-3243",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "221A340F-9D3D-498E-9803-242C300F6449",
@@ -4070,7 +6122,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4108,7 +6160,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4146,9 +6198,157 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "77F9FFF5-6C64-48EE-98DE-797C1D92BA53",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.448948,
+            "longitude": -113.514613
+        },
+        "properties": {
+            "orgGuid": "77F9FFF5-6C64-48EE-98DE-797C1D92BA53",
+            "orgName": "Heritage, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "11030 19 Avenue NW\r\nEdmonton AB  T6J 6P5\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(780) 328-9985",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "2584E056-B1A4-4EDD-8FDB-32AD4CD5EE12",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.448948,
+            "longitude": -113.514613
+        },
+        "properties": {
+            "orgGuid": "2584E056-B1A4-4EDD-8FDB-32AD4CD5EE12",
+            "orgName": "Ellerslie, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "11030 19 Avenue NW\r\nEdmonton AB  T6J 6P5\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "13:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "5874040403",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B219C429-29DC-43E9-8F0C-118C7C2FEC3E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.448948,
+            "longitude": -113.514613
+        },
+        "properties": {
+            "orgGuid": "B219C429-29DC-43E9-8F0C-118C7C2FEC3E",
+            "orgName": "Windermere, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "11030 19 Avenue NW\r\nEdmonton AB  T6J 6P5\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(780) 328-9985",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "37911F5F-33D3-4383-948C-879FDBE57B37",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.448948,
+            "longitude": -113.514613
+        },
+        "properties": {
+            "orgGuid": "37911F5F-33D3-4383-948C-879FDBE57B37",
+            "orgName": "Tagalog South, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "11030 19 Avenue NW\r\nEdmonton AB  T6J 6P5\r\n\r\n",
+            "languageCode": "TG",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 1,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(780) 328-9985",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "2B3FD9D2-2EB6-4A7D-8270-68276494F48A",
@@ -4184,7 +6384,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4222,7 +6422,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4255,9 +6455,619 @@
             "phones": [],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "80FA7A29-19E5-4EF1-A4A5-4918F8FDB67B",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.45989,
+            "longitude": -113.417088
+        },
+        "properties": {
+            "orgGuid": "80FA7A29-19E5-4EF1-A4A5-4918F8FDB67B",
+            "orgName": "Meadows, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "2810 48 Street NW\r\nEdmonton AB  T6L 4R1\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(780) 328-0280",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "DBB4038B-179E-455E-B730-36B97A1B979E",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.45989,
+            "longitude": -113.417088
+        },
+        "properties": {
+            "orgGuid": "DBB4038B-179E-455E-B730-36B97A1B979E",
+            "orgName": "Millhurst, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "2810 48 Street NW\r\nEdmonton AB  T6L 4R1\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(780) 328-0280",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "4B6ACD87-0950-46B0-BD01-AD646EF08D21",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.45989,
+            "longitude": -113.417088
+        },
+        "properties": {
+            "orgGuid": "4B6ACD87-0950-46B0-BD01-AD646EF08D21",
+            "orgName": "Woodvale, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "2810 48 Street NW\r\nEdmonton AB  T6L 4R1\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "13:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(780) 328-0280",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "AC8CF506-0750-41E5-8075-6BB0E3DF968D",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.45989,
+            "longitude": -113.417088
+        },
+        "properties": {
+            "orgGuid": "AC8CF506-0750-41E5-8075-6BB0E3DF968D",
+            "orgName": "Hindi, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "2810 48 Street NW\r\nEdmonton AB  T6L 4R1\r\n\r\n",
+            "languageCode": "HI",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 1,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "PJ"
+            ],
+            "phones": [
+                {
+                    "phone": "(780) 328-0280",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "9D1F0FD7-263F-4C49-AC00-B8636B7E6052",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.45989,
+            "longitude": -113.417088
+        },
+        "properties": {
+            "orgGuid": "9D1F0FD7-263F-4C49-AC00-B8636B7E6052",
+            "orgName": "Steele Heights Punjabi - Hindi, Edmonton, AB",
+            "orgType": "GROUP",
+            "address": "2810 48 Street NW\r\nEdmonton AB  T6L 4R1\r\n\r\n",
+            "languageCode": "PJ",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 1,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "HI"
+            ],
+            "phones": [
+                {
+                    "phone": "(780) 328-0280",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "5FD8B33C-3F1C-4290-9833-B198B53D3B07",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.518176,
+            "longitude": -113.42832
+        },
+        "properties": {
+            "orgGuid": "5FD8B33C-3F1C-4290-9833-B198B53D3B07",
+            "orgName": "Avonmore, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "6212 82 Avenue NW\r\nEdmonton AB  T6B 0E7\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-328-9043",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "EE6ED94B-7DB6-426E-8ED8-769C134B24B3",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.518176,
+            "longitude": -113.42832
+        },
+        "properties": {
+            "orgGuid": "EE6ED94B-7DB6-426E-8ED8-769C134B24B3",
+            "orgName": "Mandarin, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "6212 82 Avenue NW\r\nEdmonton AB  T6B 0E7\r\n\r\n",
+            "languageCode": "CHM",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "CHE"
+            ],
+            "phones": [
+                {
+                    "phone": "780-328-9043",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "DEB01110-D2D8-486E-B812-FCCC3FF7E7FB",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.518176,
+            "longitude": -113.42832
+        },
+        "properties": {
+            "orgGuid": "DEB01110-D2D8-486E-B812-FCCC3FF7E7FB",
+            "orgName": "Ottewell, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "6212 82 Avenue NW\r\nEdmonton AB  T6B 0E7\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-328-9042",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "702F7183-47B4-4F16-AE8F-C68B0BF326B6",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.518176,
+            "longitude": -113.42832
+        },
+        "properties": {
+            "orgGuid": "702F7183-47B4-4F16-AE8F-C68B0BF326B6",
+            "orgName": "Este Spanish, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "6212 82 Avenue NW\r\nEdmonton AB  T6B 0E7\r\n\r\n",
+            "languageCode": "S",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-328-9042",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "FD004C80-10AE-48C9-B8B6-6DEBC6D5E51F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.518176,
+            "longitude": -113.42832
+        },
+        "properties": {
+            "orgGuid": "FD004C80-10AE-48C9-B8B6-6DEBC6D5E51F",
+            "orgName": "Edmonton-Cantonese - Mandarin, Edmonton, AB",
+            "orgType": "GROUP",
+            "address": "6212 82 Avenue NW\r\nEdmonton AB  T6B 0E7\r\n\r\n",
+            "languageCode": "CHE",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "CHM"
+            ],
+            "phones": [
+                {
+                    "phone": "780-328-9043",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "1EC7BB0B-2D29-4A55-8DA0-488329E0FE3C",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.518176,
+            "longitude": -113.42832
+        },
+        "properties": {
+            "orgGuid": "1EC7BB0B-2D29-4A55-8DA0-488329E0FE3C",
+            "orgName": "Central Cebuano, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "6212 82 Avenue NW\r\nEdmonton AB  T6B 0E7\r\n\r\n",
+            "languageCode": "CV",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "16:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-328-9042",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "6E1191E4-6758-426B-82E8-1F156ACBF5FF",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.518176,
+            "longitude": -113.42832
+        },
+        "properties": {
+            "orgGuid": "6E1191E4-6758-426B-82E8-1F156ACBF5FF",
+            "orgName": "Ottewell Iloko, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "6212 82 Avenue NW\r\nEdmonton AB  T6B 0E7\r\n\r\n",
+            "languageCode": "IL",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 5,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-328-9043",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "A64EF42D-92FB-4398-866E-21642C492F3F",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.569349,
+            "longitude": -113.478054
+        },
+        "properties": {
+            "orgGuid": "A64EF42D-92FB-4398-866E-21642C492F3F",
+            "orgName": "Parkdale, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "11705 89 Street NW\r\nEdmonton AB  T5B 3V4\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "U"
+            ],
+            "phones": [
+                {
+                    "phone": "(780) 328-0276",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "BA6860C8-1CA7-46DE-A600-95E03EDE6906",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.569349,
+            "longitude": -113.478054
+        },
+        "properties": {
+            "orgGuid": "BA6860C8-1CA7-46DE-A600-95E03EDE6906",
+            "orgName": "Central West African Pidgin, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "11705 89 Street NW\r\nEdmonton AB  T5B 3V4\r\n\r\n",
+            "languageCode": "PGW",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(780) 328-0276",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "B99C13F0-33E3-4C70-93A9-9D44D35737D7",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.569349,
+            "longitude": -113.478054
+        },
+        "properties": {
+            "orgGuid": "B99C13F0-33E3-4C70-93A9-9D44D35737D7",
+            "orgName": "Kaskazini Swahili, Edmonton, AB",
+            "orgType": "CONG",
+            "address": "11705 89 Street NW\r\nEdmonton AB  T5B 3V4\r\n\r\n",
+            "languageCode": "SW",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 6,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(780) 328-0276",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "82D6009F-AC52-4443-AED4-BBF8F6251F17",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.569349,
+            "longitude": -113.478054
+        },
+        "properties": {
+            "orgGuid": "82D6009F-AC52-4443-AED4-BBF8F6251F17",
+            "orgName": "Parkdale Russian - Parkdale, Edmonton, AB",
+            "orgType": "GROUP",
+            "address": "11705 89 Street NW\r\nEdmonton AB  T5B 3V4\r\n\r\n",
+            "languageCode": "U",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "relatedLanguageCodes": [
+                "E"
+            ],
+            "phones": [
+                {
+                    "phone": "(780) 328-0276",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "FD921741-52F0-47EA-B49F-793B39769F2F",
@@ -4304,7 +7114,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4342,7 +7152,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4380,7 +7190,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4421,9 +7231,83 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "3E7B71EC-F97B-4BEE-A320-DCE5FACD27AD",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.024532,
+            "longitude": -112.818206
+        },
+        "properties": {
+            "orgGuid": "3E7B71EC-F97B-4BEE-A320-DCE5FACD27AD",
+            "orgName": "Jubilee Park, Camrose, AB",
+            "orgType": "CONG",
+            "address": "5201 46 Street\r\nCamrose AB  T4V 1H2\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-608-4363",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "477E00B1-F4B6-44D0-958E-BA5C53274931",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.024532,
+            "longitude": -112.818206
+        },
+        "properties": {
+            "orgGuid": "477E00B1-F4B6-44D0-958E-BA5C53274931",
+            "orgName": "Victoria Park, Camrose, AB",
+            "orgType": "CONG",
+            "address": "5201 46 Street\r\nCamrose AB  T4V 1H2\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(780) 673-1555",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "EC27FF7C-F07D-4799-B09D-AE44B67718CB",
@@ -4459,7 +7343,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4497,7 +7381,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4538,7 +7422,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4576,7 +7460,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4617,7 +7501,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4655,7 +7539,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4696,9 +7580,94 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "D97B52B7-B672-498C-A7FC-2093C706C900",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.514085,
+            "longitude": -113.236354
+        },
+        "properties": {
+            "orgGuid": "D97B52B7-B672-498C-A7FC-2093C706C900",
+            "orgName": "Maplewood, Sherwood Park, AB",
+            "orgType": "CONG",
+            "address": "181 Wyecliff Subdivision\r\nSherwood Park AB  T8A 4T6\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-467-2866",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "E9FE54C8-EE57-40B6-9923-FBBA0ECCE583",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.514085,
+            "longitude": -113.236354
+        },
+        "properties": {
+            "orgGuid": "E9FE54C8-EE57-40B6-9923-FBBA0ECCE583",
+            "orgName": "Sherwood Heights, Sherwood Park, AB",
+            "orgType": "CONG",
+            "address": "181 Wyecliff Subdivision\r\nSherwood Park AB  T8A 4T6\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                },
+                "futureDate": "2023-01-01",
+                "future": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "13:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:00"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-467-2866",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     },
     {
         "geoId": "D635E897-D609-4897-AF8A-8BD7E01744A7",
@@ -4734,7 +7703,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4772,7 +7741,7 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
     },
@@ -4810,8 +7779,156 @@
             ],
             "isPrivateMtgPlace": false
         },
-        "lastSeen": "2022-12-03T15:26:03.833Z",
+        "lastSeen": "2022-12-03T16:22:06.794Z",
         "active": true,
         "firstSeen": "2022-12-02T17:31:33.254Z"
+    },
+    {
+        "geoId": "45C4541F-9D94-47BA-BA7C-97488EB4A084",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 55.278282,
+            "longitude": -114.7633
+        },
+        "properties": {
+            "orgGuid": "45C4541F-9D94-47BA-BA7C-97488EB4A084",
+            "orgName": "Slave Lake, AB",
+            "orgType": "CONG",
+            "address": "400 7 Street SE\r\nSlave Lake AB  T0G 2A3\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 2,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-805-1403",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "8B19C6B5-31EC-441A-AAB7-D74FC08EE481",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.303529,
+            "longitude": -112.782095
+        },
+        "properties": {
+            "orgGuid": "8B19C6B5-31EC-441A-AAB7-D74FC08EE481",
+            "orgName": "Tofield, AB",
+            "orgType": "CONG",
+            "address": "50122 Range Road 200\r\nTofield AB  T0B 4J0\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:00"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-990-9495",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "34B44CD1-A810-4E25-9E58-8317F7CFA2EC",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 53.503176,
+            "longitude": -112.04289
+        },
+        "properties": {
+            "orgGuid": "34B44CD1-A810-4E25-9E58-8317F7CFA2EC",
+            "orgName": "Vegreville, AB",
+            "orgType": "CONG",
+            "address": "4706 59 Avenue\r\nVegreville AB  T9C 1X3\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 3,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "(587) 804-5813",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
+    },
+    {
+        "geoId": "697A31B4-75CC-4033-A9AE-CCDA4C182C38",
+        "type": "weekly",
+        "isPrimary": true,
+        "location": {
+            "latitude": 54.719157,
+            "longitude": -113.233113
+        },
+        "properties": {
+            "orgGuid": "697A31B4-75CC-4033-A9AE-CCDA4C182C38",
+            "orgName": "Athabasca, AB",
+            "orgType": "CONG",
+            "address": "Range Road 222 & Highway 55\r\nAthabasca AB  T9S 1B1\r\n\r\n",
+            "languageCode": "E",
+            "schedule": {
+                "current": {
+                    "weekend": {
+                        "weekday": 7,
+                        "time": "10:30"
+                    },
+                    "midweek": {
+                        "weekday": 4,
+                        "time": "19:30"
+                    }
+                }
+            },
+            "phones": [
+                {
+                    "phone": "780-675-3622",
+                    "ext": ""
+                }
+            ],
+            "isPrivateMtgPlace": false
+        },
+        "lastSeen": "2022-12-03T16:22:06.794Z",
+        "active": true
     }
 ]
