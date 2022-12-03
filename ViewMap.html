@@ -103,6 +103,7 @@
         available_grids = init_data.grids;
         $("#total").text(init_data.totalActive);
         $("#stats").append(`<h3>Congregations: ${init_data.typeTotals.CONG}</h3> <h3>Groups: ${init_data.typeTotals.GROUP}</h3>`);
+        load();
     });
 
     function load() {
@@ -350,8 +351,6 @@
 </div>`;
         return html;
     }
-
-    load();
 
 </script>
 
