@@ -1,0 +1,39 @@
+[
+  {
+    "geoId": "85E0CF47-B025-4E33-A49E-851DAFEDBC9B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -0.538842,
+      "longitude": 166.911931
+    },
+    "properties": {
+      "orgGuid": "85E0CF47-B025-4E33-A49E-851DAFEDBC9B",
+      "orgName": "Nauru - Aiwo",
+      "orgType": "CONG",
+      "address": "Eigigu Center\nAiwo\nNauru\nNAURU\n",
+      "languageCode": "NR",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "08:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "18:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+674556-3350 or +6745543293",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  }
+]

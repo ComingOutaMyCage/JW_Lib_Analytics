@@ -201,11 +201,7 @@
             }
 
             if(showExpectations){
-                $.getJSON('./Meetings/Expectations.json', (expectations) => {
-                    for(const [key, value] of Object.entries(expectations)){
-                        DrawExpectation(key, value);
-                    }
-                });
+                DrawExpectations();
             }
         }, 1000);
     }
@@ -220,6 +216,13 @@
             let lonMax = roundUpToNearest(ne.lng(), gridSize);
             LoadInMarkers(latMin, lonMin, latMax, lonMax);
         }
+    }
+    function DrawExpectations(){
+        $.getJSON('./Meetings/Expectations.json', (expectations) => {
+            for(const [key, value] of Object.entries(expectations)){
+                DrawExpectation(key, value);
+            }
+        });
     }
     function DrawExpectation(row, value){
         let coords = row.split(',');

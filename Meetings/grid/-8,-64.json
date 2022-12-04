@@ -36,7 +36,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -77,7 +76,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -115,7 +113,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -156,7 +153,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -197,7 +193,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -230,7 +225,6 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -268,9 +262,45 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "A9DF7346-DAFB-4033-8C3F-6F807F3A5B82",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.841796,
+      "longitude": -62.058274
+    },
+    "properties": {
+      "orgGuid": "A9DF7346-DAFB-4033-8C3F-6F807F3A5B82",
+      "orgName": "Codajás - AM",
+      "orgType": "CONG",
+      "address": "R. Rio Badajós, S/N\r\nColônia Major Thury\r\nCodajás, AM\r\n69450-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 99407-3435",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
   },
   {
     "geoId": "3F209692-3D78-4083-B55B-9FFD49C97EF1",
@@ -306,9 +336,267 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "E1B267CF-08B2-4911-81BD-D0DC42FF2656",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.74587,
+      "longitude": -61.65927
+    },
+    "properties": {
+      "orgGuid": "E1B267CF-08B2-4911-81BD-D0DC42FF2656",
+      "orgName": "Anori - AM",
+      "orgType": "CONG",
+      "address": "R. São Pedro, 46\r\nCentro\r\nAnori, AM\r\n69440-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(97) 99187-6696",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "B0775BD5-5B39-4685-B5C4-0E3CCDE08924",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.901509,
+      "longitude": -61.372063
+    },
+    "properties": {
+      "orgGuid": "B0775BD5-5B39-4685-B5C4-0E3CCDE08924",
+      "orgName": "Beruri - AM",
+      "orgType": "CONG",
+      "address": "R. Felipe Camarão, S/N\r\nSão Francisco\r\nBeruri, AM\r\n69430-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "97 991368573",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "3F752BF6-7D1D-4D0E-BEBE-84220CCADA03",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.576671,
+      "longitude": -61.404578
+    },
+    "properties": {
+      "orgGuid": "3F752BF6-7D1D-4D0E-BEBE-84220CCADA03",
+      "orgName": "Anamã - AM",
+      "orgType": "CONG",
+      "address": "R Raimundo Tavares, 614.\r\nCentro\r\nAnamã, AM\r\n69445-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "91 98219-6094",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "AE4614F6-B9E3-4B34-A560-7B8B8ABF2CFC",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.321804,
+      "longitude": -61.20881
+    },
+    "properties": {
+      "orgGuid": "AE4614F6-B9E3-4B34-A560-7B8B8ABF2CFC",
+      "orgName": "Caapiranga - AM",
+      "orgType": "CONG",
+      "address": "Estrada Ari Antunes ,714\r\nQd 33, Lt 02.\r\nCentro\r\nCaapiranga, AM\r\n69425-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99171- 9121. (92) 98128-8055",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "B1BAF7DE-3A85-4217-9272-BB917F6C16CC",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.840156,
+      "longitude": -60.398457
+    },
+    "properties": {
+      "orgGuid": "B1BAF7DE-3A85-4217-9272-BB917F6C16CC",
+      "orgName": "Samauma, Careiro, AM - Araçá - Careiro AM",
+      "orgType": "GROUP",
+      "address": "Rua Natal, s/n\r\nComunidade de Samauma\r\nComunidade de Samauma\r\nCareiro, AM\r\n69250-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": null,
+            "time": null
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 994542351",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "86CE6933-FC8A-42B0-8ECA-4E1D9ABDBE43",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.268196,
+      "longitude": -60.913098
+    },
+    "properties": {
+      "orgGuid": "86CE6933-FC8A-42B0-8ECA-4E1D9ABDBE43",
+      "orgName": "Lago do Castanho - Manacapuru AM",
+      "orgType": "CONG",
+      "address": "R. Manuel Carlos, S/N\r\nLago do Castanho\r\nComunidade São Pedro\r\nManacapuru, AM\r\n69400-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "08:30"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92991717797",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "71450400-0D7C-453B-A129-B434185857DE",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.821003,
+      "longitude": -60.358125
+    },
+    "properties": {
+      "orgGuid": "71450400-0D7C-453B-A129-B434185857DE",
+      "orgName": "Central - Careiro AM",
+      "orgType": "CONG",
+      "address": "R. Maria Antônia, 311\r\nVista Alegre\r\nCareiro, AM\r\n69250-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "08:30"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(092) 98439-1161",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
   },
   {
     "geoId": "458680DB-C762-485B-82B6-8B8F6E705442",
@@ -344,7 +632,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -382,9 +669,494 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "1BDD7011-3FE6-4750-BC10-34B34155A930",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.278924,
+      "longitude": -60.645575
+    },
+    "properties": {
+      "orgGuid": "1BDD7011-3FE6-4750-BC10-34B34155A930",
+      "orgName": "União - Manacapuru AM",
+      "orgType": "CONG",
+      "address": "Rua Rio Branco,126\r\n(Qd. F, lotes 20 e 18)\r\n(Rod. Manuel Urbano Km 82)\r\nMorada do Sol\r\nManacapuru, AM\r\n69402286\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 99383-4982",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "B6451A65-F021-4D01-B000-9E166ECA55C2",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.278924,
+      "longitude": -60.645575
+    },
+    "properties": {
+      "orgGuid": "B6451A65-F021-4D01-B000-9E166ECA55C2",
+      "orgName": "Vale Verde - Manacapuru AM",
+      "orgType": "CONG",
+      "address": "Rua Rio Branco,126\r\n(Qd. F, lotes 20 e 18)\r\n(Rod. Manuel Urbano Km 82)\r\nMorada do Sol\r\nManacapuru, AM\r\n69402286\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99442-9454",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "CCE57CEB-4F94-4E5B-B03C-B7737EF8E9CA",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.295103,
+      "longitude": -60.618084
+    },
+    "properties": {
+      "orgGuid": "CCE57CEB-4F94-4E5B-B03C-B7737EF8E9CA",
+      "orgName": "Central - Manacapuru AM",
+      "orgType": "CONG",
+      "address": "Av. Padre Rafael, 954\r\nCentro\r\nManacapuru, AM\r\n69400-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 991962879",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "14D0DBBC-1E58-4037-89FD-C40853A1A0A8",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.295103,
+      "longitude": -60.618084
+    },
+    "properties": {
+      "orgGuid": "14D0DBBC-1E58-4037-89FD-C40853A1A0A8",
+      "orgName": "Meriti - Manacapuru AM",
+      "orgType": "CONG",
+      "address": "Av. Padre Rafael, 954\r\nCentro\r\nManacapuru, AM\r\n69400-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 98455-5113",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "9F675381-4295-4405-B6D4-455036900DB0",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.295103,
+      "longitude": -60.618084
+    },
+    "properties": {
+      "orgGuid": "9F675381-4295-4405-B6D4-455036900DB0",
+      "orgName": "LS - Manacapuru AM",
+      "orgType": "CONG",
+      "address": "Av. Padre Rafael, 954\r\nCentro\r\nManacapuru, AM\r\n69400-000\r\n\r\n",
+      "languageCode": "LSB",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "17:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92-98157-0008",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "A6751615-802C-49DE-912B-3C19D976FD0D",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -0.972127,
+      "longitude": -62.923462
+    },
+    "properties": {
+      "orgGuid": "A6751615-802C-49DE-912B-3C19D976FD0D",
+      "orgName": "Barcelos - AM",
+      "orgType": "CONG",
+      "address": "R. Dorval Porto, 601\r\nCentro\r\nBarcelos, AM\r\n69700-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "YNX"
+      ],
+      "phones": [
+        {
+          "phone": "9798402-5619",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "C477B413-9C73-404D-9861-685932706C80",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -0.972127,
+      "longitude": -62.923462
+    },
+    "properties": {
+      "orgGuid": "C477B413-9C73-404D-9861-685932706C80",
+      "orgName": "Yanomami (Xamatari) - Barcelos, AM - Barcelos - AM",
+      "orgType": "GROUP",
+      "address": "R. Dorval Porto, 601\r\nCentro\r\nBarcelos, AM\r\n69700-000\r\n\r\n",
+      "languageCode": "YNX",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": null,
+            "time": null
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "T"
+      ],
+      "phones": [
+        {
+          "phone": "9798402-5619",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "95B8A67B-DAF1-4F38-8C86-0D8422F3FA12",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.430977,
+      "longitude": -60.458891
+    },
+    "properties": {
+      "orgGuid": "95B8A67B-DAF1-4F38-8C86-0D8422F3FA12",
+      "orgName": "Manaquiri - AM",
+      "orgType": "CONG",
+      "address": "R. Abílio Cintra, 53\r\nCentro\r\nManaquiri, AM\r\n69435-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "08:30"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 988248105",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "123DAAE5-B861-4F78-9D08-316FAC6FFEFC",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.425242,
+      "longitude": -60.265977
+    },
+    "properties": {
+      "orgGuid": "123DAAE5-B861-4F78-9D08-316FAC6FFEFC",
+      "orgName": "Janauacá - Careiro AM",
+      "orgType": "CONG",
+      "address": "Lago do Tilheiro, entrada do Igarapé dos Mendes\r\nCareiro, AM\r\n69250-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "08:00"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "08:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 99104-0570",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "327E95FC-467D-4976-8C37-3AA16604F6A8",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.625552,
+      "longitude": -60.942057
+    },
+    "properties": {
+      "orgGuid": "327E95FC-467D-4976-8C37-3AA16604F6A8",
+      "orgName": "Novo Airão - AM",
+      "orgType": "CONG",
+      "address": "R. Santos Dumont, 29\r\nCentro\r\nNovo Airão, AM\r\n69730-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:15"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "LSB"
+      ],
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "C3F0FE9B-732D-4387-9BFE-B218B3DE7A2B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.131411,
+      "longitude": -60.368286
+    },
+    "properties": {
+      "orgGuid": "C3F0FE9B-732D-4387-9BFE-B218B3DE7A2B",
+      "orgName": "Vila Ariaú - Iranduba AM",
+      "orgType": "CONG",
+      "address": "Estrada Manoel Urbano, km 37\r\n(R. A, S/N)\r\nVila Ariau\r\nIranduba, AM\r\n69.415.000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "17:00"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "LSB"
+      ],
+      "phones": [
+        {
+          "phone": "(92) 98510-3655",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "21A6890E-BA1E-40EC-AC91-CA47610A07D2",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.27871,
+      "longitude": -60.183534
+    },
+    "properties": {
+      "orgGuid": "21A6890E-BA1E-40EC-AC91-CA47610A07D2",
+      "orgName": "Central - Iranduba AM",
+      "orgType": "CONG",
+      "address": "R. Rio Madeira, 45\r\nCentro\r\nIranduba, AM\r\n69415-970\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "LSB"
+      ],
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "E1D8E9AC-E2A8-4F81-AD12-0D1D4124C0D9",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.45308,
+      "longitude": -60.008956
+    },
+    "properties": {
+      "orgGuid": "E1D8E9AC-E2A8-4F81-AD12-0D1D4124C0D9",
+      "orgName": "Araçá - Careiro AM",
+      "orgType": "CONG",
+      "address": "R. Nove, 125\r\nDistrito do Araçá\r\nCareiro, AM\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 994542351",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
   },
   {
     "geoId": "E9E31744-5A7D-47B2-A019-448BA7294115",
@@ -420,8 +1192,3491 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "464D9DB1-6F6E-452F-9750-3E624D8ADDDF",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.167901,
+      "longitude": -60.083889
+    },
+    "properties": {
+      "orgGuid": "464D9DB1-6F6E-452F-9750-3E624D8ADDDF",
+      "orgName": "Cacau Pirêra - Iranduba AM",
+      "orgType": "CONG",
+      "address": "R. Três, S/N\r\nCacau Pirera\r\nIranduba, AM\r\n69415-970\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "LSB"
+      ],
+      "phones": [
+        {
+          "phone": "98494 - 6138",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "0485E7C2-D78E-476B-9740-E2FF07297660",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.079491,
+      "longitude": -60.065576
+    },
+    "properties": {
+      "orgGuid": "0485E7C2-D78E-476B-9740-E2FF07297660",
+      "orgName": "Lirio do Vale - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Caspio, 611\r\nLírio do Vale\r\nManaus, AM\r\n69038-110\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+5592994116634",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "647DFA31-64F6-46F8-BF2E-F98FB9FAD133",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.079491,
+      "longitude": -60.065576
+    },
+    "properties": {
+      "orgGuid": "647DFA31-64F6-46F8-BF2E-F98FB9FAD133",
+      "orgName": "Monte Negro - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Caspio, 611\r\nLírio do Vale\r\nManaus, AM\r\n69038-110\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "07681BFB-30B3-45BB-83A4-1D0F59FB1143",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.141962,
+      "longitude": -60.002685
+    },
+    "properties": {
+      "orgGuid": "07681BFB-30B3-45BB-83A4-1D0F59FB1143",
+      "orgName": "Liberdade - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Hannibal Porto, 136\r\nMorro da Liberdade\r\nManaus, AM\r\n69074-698\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92)98468-8401",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "CA495A67-28A5-4787-AC48-4B66A42797E9",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.141962,
+      "longitude": -60.002685
+    },
+    "properties": {
+      "orgGuid": "CA495A67-28A5-4787-AC48-4B66A42797E9",
+      "orgName": "Nova Liberdade - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Hannibal Porto, 136\r\nMorro da Liberdade\r\nManaus, AM\r\n69074-698\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99102-7495",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "AFCCC075-2641-4576-A30D-9EAD4BFE0DC1",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.141962,
+      "longitude": -60.002685
+    },
+    "properties": {
+      "orgGuid": "AFCCC075-2641-4576-A30D-9EAD4BFE0DC1",
+      "orgName": "Sul - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Hannibal Porto, 136\r\nMorro da Liberdade\r\nManaus, AM\r\n69074-698\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92981303175",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "36F3DE4B-F863-42DF-9F54-80BB2B254431",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.110041,
+      "longitude": -60.033354
+    },
+    "properties": {
+      "orgGuid": "36F3DE4B-F863-42DF-9F54-80BB2B254431",
+      "orgName": "Compensa - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Vicente Torres Reis, 380\r\nSão Jorge\r\nManaus, AM\r\n69033-410\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "16:30"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92992090740",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "2DEDB829-E963-4994-8AB1-445EF765199F",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.110041,
+      "longitude": -60.033354
+    },
+    "properties": {
+      "orgGuid": "2DEDB829-E963-4994-8AB1-445EF765199F",
+      "orgName": "Glória - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Vicente Torres Reis, 380\r\nSão Jorge\r\nManaus, AM\r\n69033-410\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:30"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+5592991892933",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "5548AD49-6FF2-4D21-8B4F-3A10DD38D2B7",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.110041,
+      "longitude": -60.033354
+    },
+    "properties": {
+      "orgGuid": "5548AD49-6FF2-4D21-8B4F-3A10DD38D2B7",
+      "orgName": "Norte - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Vicente Torres Reis, 380\r\nSão Jorge\r\nManaus, AM\r\n69033-410\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 5,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92)98159-0003",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "57B932EA-A624-4127-A8D3-0F6171000EA3",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.110041,
+      "longitude": -60.033354
+    },
+    "properties": {
+      "orgGuid": "57B932EA-A624-4127-A8D3-0F6171000EA3",
+      "orgName": "Novo Horizonte - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Vicente Torres Reis, 380\r\nSão Jorge\r\nManaus, AM\r\n69033-410\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99433-3900",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "CCA14B72-2934-424D-8F23-4EAB621929F7",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.110041,
+      "longitude": -60.033354
+    },
+    "properties": {
+      "orgGuid": "CCA14B72-2934-424D-8F23-4EAB621929F7",
+      "orgName": "Ponta Negra - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Vicente Torres Reis, 380\r\nSão Jorge\r\nManaus, AM\r\n69033-410\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "17:00"
+          },
+          "midweek": {
+            "weekday": 1,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92-98441-1850",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "8939D3FC-F9F7-4DA0-AF7A-E4B060C99434",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.108893,
+      "longitude": -60.022658
+    },
+    "properties": {
+      "orgGuid": "8939D3FC-F9F7-4DA0-AF7A-E4B060C99434",
+      "orgName": "Centro Oeste - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Rio Içá, 165\r\nNossa Senhora das Graças\r\nManaus, AM\r\n69053-100\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:30"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "( 92 ) 98157 2804",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "35A789DD-DEF5-43CD-8FE0-512502F179F5",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.108893,
+      "longitude": -60.022658
+    },
+    "properties": {
+      "orgGuid": "35A789DD-DEF5-43CD-8FE0-512502F179F5",
+      "orgName": "LS (Central) - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Rio Içá, 165\r\nNossa Senhora das Graças\r\nManaus, AM\r\n69053-100\r\n\r\n",
+      "languageCode": "LSB",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92)995006685",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "1229C4BD-F6DC-4F31-AD88-85C42070BD73",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.108893,
+      "longitude": -60.022658
+    },
+    "properties": {
+      "orgGuid": "1229C4BD-F6DC-4F31-AD88-85C42070BD73",
+      "orgName": "Crioula do Haiti - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Rio Içá, 165\r\nNossa Senhora das Graças\r\nManaus, AM\r\n69053-100\r\n\r\n",
+      "languageCode": "CR",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "16:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 98161-9860",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "6D69BB45-3A4A-4E6A-91E2-D76C72C2DD7A",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.108893,
+      "longitude": -60.022658
+    },
+    "properties": {
+      "orgGuid": "6D69BB45-3A4A-4E6A-91E2-D76C72C2DD7A",
+      "orgName": "Inglesa - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Rio Içá, 165\r\nNossa Senhora das Graças\r\nManaus, AM\r\n69053-100\r\n\r\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 5,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 988288205",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "B215D805-4FFC-4147-8E55-8A703E8F59C2",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.127092,
+      "longitude": -60.004121
+    },
+    "properties": {
+      "orgGuid": "B215D805-4FFC-4147-8E55-8A703E8F59C2",
+      "orgName": "Cachoeirinha - Manaus AM",
+      "orgType": "CONG",
+      "address": "Av. Manicoré, 503\r\nCachoeirinha\r\nManaus, AM\r\n69065-100\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:30"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99111-5005",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "F12509AF-295F-4FC7-A47E-071900323114",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.127092,
+      "longitude": -60.004121
+    },
+    "properties": {
+      "orgGuid": "F12509AF-295F-4FC7-A47E-071900323114",
+      "orgName": "Central - Manaus AM",
+      "orgType": "CONG",
+      "address": "Av. Manicoré, 503\r\nCachoeirinha\r\nManaus, AM\r\n69065-100\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92991458207",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "3841E236-6ACB-465E-A486-4AC117E60D43",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.127092,
+      "longitude": -60.004121
+    },
+    "properties": {
+      "orgGuid": "3841E236-6ACB-465E-A486-4AC117E60D43",
+      "orgName": "Raiz - Manaus AM",
+      "orgType": "CONG",
+      "address": "Av. Manicoré, 503\r\nCachoeirinha\r\nManaus, AM\r\n69065-100\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 5,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92)98114-3540",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "94714484-6770-4DB8-A3D9-F60D0F2201CC",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.127092,
+      "longitude": -60.004121
+    },
+    "properties": {
+      "orgGuid": "94714484-6770-4DB8-A3D9-F60D0F2201CC",
+      "orgName": "Espanhola (Central) - Manaus AM",
+      "orgType": "CONG",
+      "address": "Av. Manicoré, 503\r\nCachoeirinha\r\nManaus, AM\r\n69065-100\r\n\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "16:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99194-6582, (92) 991447757",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "8E53B6DC-7D74-49C6-BB93-09D1D2F39FF9",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.135252,
+      "longitude": -59.994006
+    },
+    "properties": {
+      "orgGuid": "8E53B6DC-7D74-49C6-BB93-09D1D2F39FF9",
+      "orgName": "Betânia - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Escandinávia, 380\r\nBetânia\r\nManaus, AM\r\n69073-090\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 98136-0431",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "9D600377-27E4-4879-8833-6D910A5BC601",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.135252,
+      "longitude": -59.994006
+    },
+    "properties": {
+      "orgGuid": "9D600377-27E4-4879-8833-6D910A5BC601",
+      "orgName": "Lagoa Verde - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Escandinávia, 380\r\nBetânia\r\nManaus, AM\r\n69073-090\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "CC41A76A-0E71-4DBC-8624-1DF13EA5F0F3",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.071246,
+      "longitude": -60.049277
+    },
+    "properties": {
+      "orgGuid": "CC41A76A-0E71-4DBC-8624-1DF13EA5F0F3",
+      "orgName": "Alvorada - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Roma, 9\r\nCJ Campos Elíseos\r\nPlanalto\r\nManaus, AM\r\n69045-540\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99378-7577",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "ADB02DAC-FB6D-4526-8FA3-5AAFE838F790",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.071246,
+      "longitude": -60.049277
+    },
+    "properties": {
+      "orgGuid": "ADB02DAC-FB6D-4526-8FA3-5AAFE838F790",
+      "orgName": "Planalto - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Roma, 9\r\nCJ Campos Elíseos\r\nPlanalto\r\nManaus, AM\r\n69045-540\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99138-2325 ou   99612-7640",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "607B0A21-B67C-454A-B076-C8C933C72238",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.071246,
+      "longitude": -60.049277
+    },
+    "properties": {
+      "orgGuid": "607B0A21-B67C-454A-B076-C8C933C72238",
+      "orgName": "Redenção - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Roma, 9\r\nCJ Campos Elíseos\r\nPlanalto\r\nManaus, AM\r\n69045-540\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:30"
+          },
+          "midweek": {
+            "weekday": 5,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92-99332-7027",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "BE95B142-D9B7-4766-9369-C72ECBA2140D",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.071246,
+      "longitude": -60.049277
+    },
+    "properties": {
+      "orgGuid": "BE95B142-D9B7-4766-9369-C72ECBA2140D",
+      "orgName": "Espanhola (Oeste) - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Roma, 9\r\nCJ Campos Elíseos\r\nPlanalto\r\nManaus, AM\r\n69045-540\r\n\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "16:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+55&nbsp;92 8155-3415",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "13DFA053-9ABC-491F-BE69-17AFE06ECE16",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.097959,
+      "longitude": -60.00728
+    },
+    "properties": {
+      "orgGuid": "13DFA053-9ABC-491F-BE69-17AFE06ECE16",
+      "orgName": "Adrianópolis - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Neves da Fontoura, 475\r\nAdrianópolis\r\nManaus, AM\r\n69057-495\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 98159-2742",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "2FDE07AC-272F-4CBE-A5CE-DF2D8AC8D207",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.109836,
+      "longitude": -59.992179
+    },
+    "properties": {
+      "orgGuid": "2FDE07AC-272F-4CBE-A5CE-DF2D8AC8D207",
+      "orgName": "Petrópolis - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Coronel Conrado Niemeyer, 528\r\nPetrópolis\r\nManaus, AM\r\n69063-550\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 98836-7689",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "B37A526A-7417-4E90-B0D5-6C8CEEB0A22A",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.109836,
+      "longitude": -59.992179
+    },
+    "properties": {
+      "orgGuid": "B37A526A-7417-4E90-B0D5-6C8CEEB0A22A",
+      "orgName": "Vale do Sol - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Coronel Conrado Niemeyer, 528\r\nPetrópolis\r\nManaus, AM\r\n69063-550\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 99186-9292",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "BA31CECF-A747-4555-890C-BE64355204F5",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.384609,
+      "longitude": -59.716499
+    },
+    "properties": {
+      "orgGuid": "BA31CECF-A747-4555-890C-BE64355204F5",
+      "orgName": "Purupuru - Careiro AM",
+      "orgType": "CONG",
+      "address": "Av. Nunes de Melo, 28351\r\nPurupuru\r\nCareiro, AM\r\n69250-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "08:30"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "18:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 98439-7197",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "97309B53-0961-411D-BAE1-D0C7D946B320",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.115187,
+      "longitude": -59.979906
+    },
+    "properties": {
+      "orgGuid": "97309B53-0961-411D-BAE1-D0C7D946B320",
+      "orgName": "Japiim - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Professor Waldir Garcia, 28\r\nJapiim\r\nManaus, AM\r\n69076-800\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 985398528",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "ECD622BF-5845-487B-B09E-F6B103E6A60D",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.115187,
+      "longitude": -59.979906
+    },
+    "properties": {
+      "orgGuid": "ECD622BF-5845-487B-B09E-F6B103E6A60D",
+      "orgName": "Trinta e Um de Março - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Professor Waldir Garcia, 28\r\nJapiim\r\nManaus, AM\r\n69076-800\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 98122-8167",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "649891C7-B56F-4749-A0F9-42C4CB4A0E6A",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.065448,
+      "longitude": -60.00328
+    },
+    "properties": {
+      "orgGuid": "649891C7-B56F-4749-A0F9-42C4CB4A0E6A",
+      "orgName": "Parque 10 - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Carbonita, 93\r\nParque Dez de Novembro\r\nManaus, AM\r\n69058-113\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92-99258-0374",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "FFB38497-41C8-4730-B930-B00DC3636C68",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.065448,
+      "longitude": -60.00328
+    },
+    "properties": {
+      "orgGuid": "FFB38497-41C8-4730-B930-B00DC3636C68",
+      "orgName": "Espanhola (Parque Dez) - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Carbonita, 93\r\nParque Dez de Novembro\r\nManaus, AM\r\n69058-113\r\n\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "17:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+55&nbsp;92 98502-4188",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "E1D428C9-5C4A-4C08-820A-81AE57CD726C",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.12283,
+      "longitude": -59.937695
+    },
+    "properties": {
+      "orgGuid": "E1D428C9-5C4A-4C08-820A-81AE57CD726C",
+      "orgName": "Encontro das Águas - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Costa Rica, 25\r\nantiga AV. Leste\r\nMauazinho 1\r\nManaus, AM\r\n69075-330\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        },
+        "futureDate": "2023-01-01",
+        "future": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99609-2115",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "BB98D24F-7E28-4CD2-A859-7E1644FF5296",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.12283,
+      "longitude": -59.937695
+    },
+    "properties": {
+      "orgGuid": "BB98D24F-7E28-4CD2-A859-7E1644FF5296",
+      "orgName": "Mauazinho - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Costa Rica, 25\r\nantiga AV. Leste\r\nMauazinho 1\r\nManaus, AM\r\n69075-330\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "17:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        },
+        "futureDate": "2022-12-31",
+        "future": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99363-3363",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "3F309670-F942-4474-899E-426C5C86003F",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.043562,
+      "longitude": -60.003285
+    },
+    "properties": {
+      "orgGuid": "3F309670-F942-4474-899E-426C5C86003F",
+      "orgName": "Parque das Nações - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Angola, 228\r\nParque das Nações\r\nManaus, AM\r\n69028-130\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:30"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 993673867",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "9DAF8BC5-171C-47D5-87CB-50598659223D",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.043562,
+      "longitude": -60.003285
+    },
+    "properties": {
+      "orgGuid": "9DAF8BC5-171C-47D5-87CB-50598659223D",
+      "orgName": "Espanhola (Parque das Nações) - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Angola, 228\r\nParque das Nações\r\nManaus, AM\r\n69028-130\r\n\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+55 92 9613-0319",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "7C8A3B84-AC1B-4BE8-85E8-D8ACC132BE9B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.043562,
+      "longitude": -60.003285
+    },
+    "properties": {
+      "orgGuid": "7C8A3B84-AC1B-4BE8-85E8-D8ACC132BE9B",
+      "orgName": "Flores - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Angola, 228\r\nParque das Nações\r\nManaus, AM\r\n69028-130\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+5592981165444",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "5152647F-01B1-480B-8750-A42420F5D6E8",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.996128,
+      "longitude": -60.043669
+    },
+    "properties": {
+      "orgGuid": "5152647F-01B1-480B-8750-A42420F5D6E8",
+      "orgName": "Campos Sales - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Aracuã, 617\r\nLotes 1 e 2, Quadra L\r\nTarumã\r\nManaus, AM\r\n69021-535\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "D9A873A4-A4CC-4334-8A40-1DE1069320F1",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.996128,
+      "longitude": -60.043669
+    },
+    "properties": {
+      "orgGuid": "D9A873A4-A4CC-4334-8A40-1DE1069320F1",
+      "orgName": "Parque Solimões - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Aracuã, 617\r\nLotes 1 e 2, Quadra L\r\nTarumã\r\nManaus, AM\r\n69021-535\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92-982275890",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "8E021CE1-6D22-424A-B97E-C2069C47CDD3",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.023275,
+      "longitude": -60.002028
+    },
+    "properties": {
+      "orgGuid": "8E021CE1-6D22-424A-B97E-C2069C47CDD3",
+      "orgName": "Bela Vista - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. da Saudade, 1385\r\nColônia Santo Antonio\r\nManaus, AM\r\n69093-386\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(092) 981392391",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "73F0ECE1-413D-43FC-890C-16C3A69A9347",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.023275,
+      "longitude": -60.002028
+    },
+    "properties": {
+      "orgGuid": "73F0ECE1-413D-43FC-890C-16C3A69A9347",
+      "orgName": "Novo Israel - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. da Saudade, 1385\r\nColônia Santo Antonio\r\nManaus, AM\r\n69093-386\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "17:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "092-99281-9949",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "5A8F50AD-49A3-442F-BFF4-4EAD7D561CF2",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.023275,
+      "longitude": -60.002028
+    },
+    "properties": {
+      "orgGuid": "5A8F50AD-49A3-442F-BFF4-4EAD7D561CF2",
+      "orgName": "Manôa - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. da Saudade, 1385\r\nColônia Santo Antonio\r\nManaus, AM\r\n69093-386\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 984340027",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "220BA8BB-3D1A-4841-8EE8-D2942831FA42",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.033137,
+      "longitude": -59.98856
+    },
+    "properties": {
+      "orgGuid": "220BA8BB-3D1A-4841-8EE8-D2942831FA42",
+      "orgName": "Tamoios - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Guapirama, 48\r\nCidade Nova 1\r\nManaus, AM\r\n69090-050\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92-99209-9779",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "849FDA3C-42D8-474B-8F0B-E918638E805D",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.033137,
+      "longitude": -59.98856
+    },
+    "properties": {
+      "orgGuid": "849FDA3C-42D8-474B-8F0B-E918638E805D",
+      "orgName": "Vitória - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Guapirama, 48\r\nCidade Nova 1\r\nManaus, AM\r\n69090-050\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99460-4056",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "93AB7227-44B7-459A-B260-4AE188E28797",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.040809,
+      "longitude": -59.974366
+    },
+    "properties": {
+      "orgGuid": "93AB7227-44B7-459A-B260-4AE188E28797",
+      "orgName": "Águas Claras - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Edgar Cayce, 451\r\nNúcleo 12\r\nCidade Nova\r\nManaus, AM\r\n69096-360\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 991301447",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "2B51DB68-F080-4AEE-BE4B-EC5EB12CDCC9",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.040809,
+      "longitude": -59.974366
+    },
+    "properties": {
+      "orgGuid": "2B51DB68-F080-4AEE-BE4B-EC5EB12CDCC9",
+      "orgName": "Cidade Nova - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Edgar Cayce, 451\r\nNúcleo 12\r\nCidade Nova\r\nManaus, AM\r\n69096-360\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "17:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        },
+        "futureDate": "2023-01-02",
+        "future": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92)99964114/991847223",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "DE10AEF5-4961-4BD9-96D4-40C61C639F3F",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.040809,
+      "longitude": -59.974366
+    },
+    "properties": {
+      "orgGuid": "DE10AEF5-4961-4BD9-96D4-40C61C639F3F",
+      "orgName": "LS (Águas Claras) - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Edgar Cayce, 451\r\nNúcleo 12\r\nCidade Nova\r\nManaus, AM\r\n69096-360\r\n\r\n",
+      "languageCode": "LSB",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 981514129",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "92EB77EF-7E33-4232-B967-DEA31C7CA321",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.002278,
+      "longitude": -60.001464
+    },
+    "properties": {
+      "orgGuid": "92EB77EF-7E33-4232-B967-DEA31C7CA321",
+      "orgName": "Monte das Oliveiras - Manaus AM",
+      "orgType": "CONG",
+      "address": "Av. Louro Abacate, 445\r\nMonte das Oliveiras\r\nManaus, AM\r\n69093-159\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "3D292EE8-C8A9-4404-A671-989A8F99A01F",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.002278,
+      "longitude": -60.001464
+    },
+    "properties": {
+      "orgGuid": "3D292EE8-C8A9-4404-A671-989A8F99A01F",
+      "orgName": "Terra Nova - Manaus AM",
+      "orgType": "CONG",
+      "address": "Av. Louro Abacate, 445\r\nMonte das Oliveiras\r\nManaus, AM\r\n69093-159\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 994002084",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "57B1A388-5B97-48E8-9921-11BE5AA31597",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.98033,
+      "longitude": -60.013415
+    },
+    "properties": {
+      "orgGuid": "57B1A388-5B97-48E8-9921-11BE5AA31597",
+      "orgName": "Noroeste - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Barralândia, 39\r\nSanta Etelvina\r\nManaus, AM\r\n69017-230\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "772F7BAC-60CC-4436-BFF3-494687B206FA",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.98033,
+      "longitude": -60.013415
+    },
+    "properties": {
+      "orgGuid": "772F7BAC-60CC-4436-BFF3-494687B206FA",
+      "orgName": "União da Vitória - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Barralândia, 39\r\nSanta Etelvina\r\nManaus, AM\r\n69017-230\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "17:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+55 92 99385-6538",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "5B01C0AC-1179-4183-8100-450729AF8C2E",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.98033,
+      "longitude": -60.013415
+    },
+    "properties": {
+      "orgGuid": "5B01C0AC-1179-4183-8100-450729AF8C2E",
+      "orgName": "Espanhola (Noroeste) - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Barralândia, 39\r\nSanta Etelvina\r\nManaus, AM\r\n69017-230\r\n\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:30"
+          },
+          "midweek": {
+            "weekday": 1,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "281AF0A0-37CE-4561-80CD-44C02B21D4CF",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.98033,
+      "longitude": -60.013415
+    },
+    "properties": {
+      "orgGuid": "281AF0A0-37CE-4561-80CD-44C02B21D4CF",
+      "orgName": "Viver Melhor - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Barralândia, 39\r\nSanta Etelvina\r\nManaus, AM\r\n69017-230\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 984735451",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "80E16595-6A5B-49F9-8C92-D7C86FC62BAC",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.725127,
+      "longitude": -59.264783
+    },
+    "properties": {
+      "orgGuid": "80E16595-6A5B-49F9-8C92-D7C86FC62BAC",
+      "orgName": "Trincheira, Autazes, AM - Central - Autazes AM",
+      "orgType": "GROUP",
+      "address": "Comunidade Betel, 4100\r\nTrincheira\r\nAutazes, AM\r\n69240-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "14:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92993889679",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "71B23003-6E32-4C99-BFBD-F01A0B25EF31",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.890798,
+      "longitude": -59.095293
+    },
+    "properties": {
+      "orgGuid": "71B23003-6E32-4C99-BFBD-F01A0B25EF31",
+      "orgName": "Nova Olinda do Norte - AM",
+      "orgType": "CONG",
+      "address": "R. 15 de Novembro, 46\r\nCentro\r\nNova Olinda do Norte, AM\r\n69230-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99531-1330",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "5DCAE79D-F3CB-43D4-8661-D6A2B66EBC87",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.010017,
+      "longitude": -59.972833
+    },
+    "properties": {
+      "orgGuid": "5DCAE79D-F3CB-43D4-8661-D6A2B66EBC87",
+      "orgName": "Nova Cidade - Manaus AM",
+      "orgType": "CONG",
+      "address": "Rua Ilhas Malvadivas\r\nLote 11, Quadra 533\r\nCidade Nova\r\nManaus, AM\r\n69097-272\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:30"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 9 8157-8830",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "6049C05E-E1D2-4375-96A6-B7BD99BF8F37",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.010017,
+      "longitude": -59.972833
+    },
+    "properties": {
+      "orgGuid": "6049C05E-E1D2-4375-96A6-B7BD99BF8F37",
+      "orgName": "Margarita - Manaus AM",
+      "orgType": "CONG",
+      "address": "Rua Ilhas Malvadivas\r\nLote 11, Quadra 533\r\nCidade Nova\r\nManaus, AM\r\n69097-272\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92981617844",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "00E9F60D-C675-47B1-9F71-CB5FC966AF6B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.085904,
+      "longitude": -59.893646
+    },
+    "properties": {
+      "orgGuid": "00E9F60D-C675-47B1-9F71-CB5FC966AF6B",
+      "orgName": "Colônia Antônio Aleixo - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Bela Vista, 201\r\nColônia Antônio Aleixo\r\nManaus, AM\r\n69008-300\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "98447-9708",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "F1C78E22-97AB-4F39-8B71-D451DC5AB6AE",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.032167,
+      "longitude": -59.928999
+    },
+    "properties": {
+      "orgGuid": "F1C78E22-97AB-4F39-8B71-D451DC5AB6AE",
+      "orgName": "Novo Paraiso - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Cinco, 33\r\nJorge Teixeira 4\r\nManaus, AM\r\n69088-161\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "BDFA2EA2-8570-42D8-8D9A-01FAB55B3A2E",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.032167,
+      "longitude": -59.928999
+    },
+    "properties": {
+      "orgGuid": "BDFA2EA2-8570-42D8-8D9A-01FAB55B3A2E",
+      "orgName": "Valparaiso - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Cinco, 33\r\nJorge Teixeira 4\r\nManaus, AM\r\n69088-161\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 986 109 192",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "6F37D24F-7820-45E1-8BB8-21FD77E9E1A5",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.059056,
+      "longitude": -59.844444
+    },
+    "properties": {
+      "orgGuid": "6F37D24F-7820-45E1-8BB8-21FD77E9E1A5",
+      "orgName": "Puraquequara - Manaus AM",
+      "orgType": "CONG",
+      "address": "R. Santa Luiza, 259\r\nPuraquequara\r\nManaus, AM\r\n69009-090\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 98252-7462 ou (92) 99201-2120",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "F28ADEBD-4BAE-4BFD-91E5-98E45866F4E1",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.578867,
+      "longitude": -59.130195
+    },
+    "properties": {
+      "orgGuid": "F28ADEBD-4BAE-4BFD-91E5-98E45866F4E1",
+      "orgName": "Central - Autazes AM",
+      "orgType": "CONG",
+      "address": "R. Raimundo Cavalcante, 437\r\nCentro\r\nAutazes, AM\r\n69240-970\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 5,
+            "time": "18:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92993889679",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "A8796ABD-520F-4A5A-93C7-ADEFB587C66E",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.578867,
+      "longitude": -59.130195
+    },
+    "properties": {
+      "orgGuid": "A8796ABD-520F-4A5A-93C7-ADEFB587C66E",
+      "orgName": "Leste - Autazes AM",
+      "orgType": "CONG",
+      "address": "R. Raimundo Cavalcante, 437\r\nCentro\r\nAutazes, AM\r\n69240-970\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 98423-2935",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "289B600A-1B71-4232-80F7-86DA0E9E8C22",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.51966,
+      "longitude": -59.16511
+    },
+    "properties": {
+      "orgGuid": "289B600A-1B71-4232-80F7-86DA0E9E8C22",
+      "orgName": "Igapenu - Autazes AM",
+      "orgType": "CONG",
+      "address": "Reserva indígena Igapenú - Sub distrito de Altaz\r\nIguapenu\r\nAutazes, AM\r\n69240-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 5,
+            "time": "18:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92992346687",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "1137429A-1C8D-4BB1-9CA9-E00E4CF3F41A",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.543469,
+      "longitude": -58.935534
+    },
+    "properties": {
+      "orgGuid": "1137429A-1C8D-4BB1-9CA9-E00E4CF3F41A",
+      "orgName": "Urucurituba, Autazes, AM - Lago Soares - Autazes AM",
+      "orgType": "GROUP",
+      "address": "Rua Lauriano Cruz s/n\r\nUrucurituba\r\nAutazes, AM\r\n69240-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "15:00"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "15:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 99235-5889 Clayton Oliveira",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "E3106669-20D6-4FC5-9415-B223C03F98F7",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.481158,
+      "longitude": -58.973309
+    },
+    "properties": {
+      "orgGuid": "E3106669-20D6-4FC5-9415-B223C03F98F7",
+      "orgName": "Lago Soares - Autazes AM",
+      "orgType": "CONG",
+      "address": "Comunidade Terra Preta\r\nLago Soares (Autazes)\r\nCentro\r\nAutazes, AM\r\n69240-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "15:00"
+          },
+          "midweek": {
+            "weekday": 6,
+            "time": "15:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 99235-5889 Clayton Oliveira",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "BD0289B9-25E1-4436-9357-E8EAC44FBBA9",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.697857,
+      "longitude": -59.702943
+    },
+    "properties": {
+      "orgGuid": "BD0289B9-25E1-4436-9357-E8EAC44FBBA9",
+      "orgName": "Rio Preto da Eva - AM",
+      "orgType": "CONG",
+      "address": "R. Governador Durval Porto, 13\r\nCentro\r\nRio Preto da Eva, AM\r\n69115-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99112-2051",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "7E71D3DA-5EFD-4592-8049-DBC2A3570CC3",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.168249,
+      "longitude": -59.151164
+    },
+    "properties": {
+      "orgGuid": "7E71D3DA-5EFD-4592-8049-DBC2A3570CC3",
+      "orgName": "Paraná da Eva - Itacoatiara AM",
+      "orgType": "CONG",
+      "address": "R. Professor Cabral, 270\r\nVila do Engenho\r\nItacoatiara, AM\r\n69100-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "08:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "08:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "991334410",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "5317B92F-2167-4751-A640-095AD8BAA39D",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.21156,
+      "longitude": -59.028089
+    },
+    "properties": {
+      "orgGuid": "5317B92F-2167-4751-A640-095AD8BAA39D",
+      "orgName": "Novo Remanso - Itacoatiara AM",
+      "orgType": "CONG",
+      "address": "Av. Henoch Reis, S/N\r\nVila Novo Remanso\r\nItacoatiara, AM\r\n69112-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 991879274",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "4A56B1FA-823D-4074-A583-88357ADA9D1D",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.275322,
+      "longitude": -58.881074
+    },
+    "properties": {
+      "orgGuid": "4A56B1FA-823D-4074-A583-88357ADA9D1D",
+      "orgName": "Repouso do Amatari - Itacoatiara AM",
+      "orgType": "CONG",
+      "address": "Costa do Amatari, s/n\r\nComunidade Benjamim Constant\r\nItacoatiara, AM\r\n69100-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "15:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "15:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99462-7712",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "D260593B-525C-4BEA-A43E-34C679DEB8D3",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.053528,
+      "longitude": -60.024755
+    },
+    "properties": {
+      "orgGuid": "D260593B-525C-4BEA-A43E-34C679DEB8D3",
+      "orgName": "Central - Presidente Figueiredo AM",
+      "orgType": "CONG",
+      "address": "R. Cedro, 73\r\nHonório Roldão\r\nPresidente Figueiredo, AM\r\n69735-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Oldeney Campos (92) 984412834",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "BD473AE3-D9BB-4179-8490-1011B2B6A2E3",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.1413,
+      "longitude": -58.44194
+    },
+    "properties": {
+      "orgGuid": "BD473AE3-D9BB-4179-8490-1011B2B6A2E3",
+      "orgName": "Central - Itacoatiara AM",
+      "orgType": "CONG",
+      "address": "R. Antonio Serudo Martins, 1146\r\n(esquina com R. Isaac Peres)\r\nSanta Luzia\r\nItacoatiara, AM\r\n69100-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "9299126-9594",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "1D0EB4E3-82A3-4EDE-A976-65C3C28F64CD",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.133398,
+      "longitude": -58.436193
+    },
+    "properties": {
+      "orgGuid": "1D0EB4E3-82A3-4EDE-A976-65C3C28F64CD",
+      "orgName": "Norte - Itacoatiara AM",
+      "orgType": "CONG",
+      "address": "R. Oscar Ramos, 2013\r\nSanto Antônio\r\nItacoatiara, AM\r\n69103-024\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "LSB"
+      ],
+      "phones": [
+        {
+          "phone": "(92) 99177-7796 ou (92) 99369-5117",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "DBC9D602-CC85-4072-810E-6B19F3EF92D9",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.133398,
+      "longitude": -58.436193
+    },
+    "properties": {
+      "orgGuid": "DBC9D602-CC85-4072-810E-6B19F3EF92D9",
+      "orgName": "Libras - Itacoatiara, AM (Norte) - Norte - Itacoatiara AM",
+      "orgType": "GROUP",
+      "address": "R. Oscar Ramos, 2013\r\nSanto Antônio\r\nItacoatiara, AM\r\n69103-024\r\n\r\n",
+      "languageCode": "LSB",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "T"
+      ],
+      "phones": [
+        {
+          "phone": "(92) 99177-7796 ou (92) 99369-5117",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "7130C415-D635-4136-AC0F-50FC8C13E09C",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.133398,
+      "longitude": -58.436193
+    },
+    "properties": {
+      "orgGuid": "7130C415-D635-4136-AC0F-50FC8C13E09C",
+      "orgName": "Jardim Florestal - Itacoatiara AM",
+      "orgType": "CONG",
+      "address": "R. Oscar Ramos, 2013\r\nSanto Antônio\r\nItacoatiara, AM\r\n69103-024\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99295-6190",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "43F53789-EDCE-4548-A898-B2E7A3402719",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -1.936443,
+      "longitude": -59.422249
+    },
+    "properties": {
+      "orgGuid": "43F53789-EDCE-4548-A898-B2E7A3402719",
+      "orgName": "Balbina - Presidente Figueiredo AM",
+      "orgType": "CONG",
+      "address": "R. Carauari, 1\r\nVila Atroari\r\nPresidente Figueiredo, AM\r\n69736-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 98829-4920",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "E1C778DD-4217-48D5-961F-08A193A763E3",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.13386,
+      "longitude": -58.15595
+    },
+    "properties": {
+      "orgGuid": "E1C778DD-4217-48D5-961F-08A193A763E3",
+      "orgName": "Urucurituba - AM",
+      "orgType": "CONG",
+      "address": "Av. Getúlio Vargas, 183\r\nAparecida\r\nUrucurituba, AM\r\n69180-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92984457327",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "40E8DDE1-8B03-49BC-B986-DB827C521EED",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.386483,
+      "longitude": -57.717923
+    },
+    "properties": {
+      "orgGuid": "40E8DDE1-8B03-49BC-B986-DB827C521EED",
+      "orgName": "Portuguesa - Maués AM",
+      "orgType": "CONG",
+      "address": "R. São João, 46\r\nRamalho Júnior\r\nMaués, AM\r\n69190-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "LSB"
+      ],
+      "phones": [
+        {
+          "phone": "(92) 98439-4868",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "E3F62405-7DC0-4F46-9800-07FCAE7B97F2",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.386483,
+      "longitude": -57.717923
+    },
+    "properties": {
+      "orgGuid": "E3F62405-7DC0-4F46-9800-07FCAE7B97F2",
+      "orgName": "Libras - Maués, AM - Portuguesa - Maués AM",
+      "orgType": "GROUP",
+      "address": "R. São João, 46\r\nRamalho Júnior\r\nMaués, AM\r\n69190-000\r\n\r\n",
+      "languageCode": "LSB",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "T"
+      ],
+      "phones": [
+        {
+          "phone": "(92) 98439-4868",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "BAA50A76-319C-4605-A96F-5508625A72AE",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -3.386483,
+      "longitude": -57.717923
+    },
+    "properties": {
+      "orgGuid": "BAA50A76-319C-4605-A96F-5508625A72AE",
+      "orgName": "Sateré-Mawé - Maués AM",
+      "orgType": "CONG",
+      "address": "R. São João, 46\r\nRamalho Júnior\r\nMaués, AM\r\n69190-000\r\n\r\n",
+      "languageCode": "STM",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "08:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92)98493-3574",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "B5F5DDCA-46B6-4635-AA54-090D6E51F24D",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.83517,
+      "longitude": -58.213608
+    },
+    "properties": {
+      "orgGuid": "B5F5DDCA-46B6-4635-AA54-090D6E51F24D",
+      "orgName": "Silves - AM",
+      "orgType": "CONG",
+      "address": "R. Sete de Março, S/N\r\nPanorama\r\nSilves, AM\r\n69114-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 991817048",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "CC780909-E1D5-45EE-B4C5-C315FF4C66C8",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.746958,
+      "longitude": -58.022967
+    },
+    "properties": {
+      "orgGuid": "CC780909-E1D5-45EE-B4C5-C315FF4C66C8",
+      "orgName": "Itapiranga - AM",
+      "orgType": "CONG",
+      "address": "R. Antonio Graciano de Farias, 310\r\nCentro\r\nItapiranga, AM\r\n69120-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "092-995339972",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "34A56AD0-E0D6-45C4-AC50-6FBDA8197F10",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.973812,
+      "longitude": -57.581937
+    },
+    "properties": {
+      "orgGuid": "34A56AD0-E0D6-45C4-AC50-6FBDA8197F10",
+      "orgName": "Boa Vista do Ramos - AM",
+      "orgType": "CONG",
+      "address": "R. Benito Carmelo da Silva, 119\r\nSão Sebastião\r\nBoa Vista do Ramos, AM\r\n69195-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "B848728B-2170-41E6-88ED-907299886BEE",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.56827,
+      "longitude": -57.871603
+    },
+    "properties": {
+      "orgGuid": "B848728B-2170-41E6-88ED-907299886BEE",
+      "orgName": "São Sebastião do Uatumã - AM",
+      "orgType": "CONG",
+      "address": "Rua Álvaro Maia, 348\r\nSanta Maria\r\nSão Sebastião do Uatumã, AM\r\n69135-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92984100946",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "C3BC1687-226F-4239-B6C4-AAAD50D12D73",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.535599,
+      "longitude": -57.752596
+    },
+    "properties": {
+      "orgGuid": "C3BC1687-226F-4239-B6C4-AAAD50D12D73",
+      "orgName": "Central - Urucará AM",
+      "orgType": "CONG",
+      "address": "R. Antenor Tiago de Melo, 1288\r\nAparecida\r\nUrucará, AM\r\n69130-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "92 99367-8353",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "13D15AA5-8800-417E-8632-D4BF2F6699C4",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.530478,
+      "longitude": -57.711548
+    },
+    "properties": {
+      "orgGuid": "13D15AA5-8800-417E-8632-D4BF2F6699C4",
+      "orgName": "Castanhal - Urucará AM",
+      "orgType": "CONG",
+      "address": "R. São Sebastião, S/N\r\nVila Castanhal\r\nUrucará, AM\r\n69130-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "93992136311",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "6A1BE79F-2BE0-4661-BA1B-B99C74BDE3EB",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.799596,
+      "longitude": -57.067689
+    },
+    "properties": {
+      "orgGuid": "6A1BE79F-2BE0-4661-BA1B-B99C74BDE3EB",
+      "orgName": "Barreirinha - AM",
+      "orgType": "CONG",
+      "address": "R. Pindorama, S/N\r\nCentro\r\nBarreirinha, AM\r\n69160-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+55&nbsp;92 98502 3743",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "DF7E3455-684C-4038-842D-315D9026526A",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.635066,
+      "longitude": -56.733262
+    },
+    "properties": {
+      "orgGuid": "DF7E3455-684C-4038-842D-315D9026526A",
+      "orgName": "Parintins - AM",
+      "orgType": "CONG",
+      "address": "R. Maués, 1094\r\n(Esquina com a Rua Nhamundá)\r\nPalmares\r\nParintins, AM\r\n69150-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:15"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:15"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 994005147",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "DEC0D5CB-1B91-4A9E-9CEC-0018EDCB8429",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.613032,
+      "longitude": -56.662171
+    },
+    "properties": {
+      "orgGuid": "DEC0D5CB-1B91-4A9E-9CEC-0018EDCB8429",
+      "orgName": "Vila Amazônica, AM - Parintins - AM",
+      "orgType": "GROUP",
+      "address": "Travessa Ômega, casa 2\r\nVila Amazônica\r\nParintins, AM\r\n69151-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:15"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:15"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 994005147",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "F9FBCA61-846F-4C64-B467-64A19B31BE17",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.171679,
+      "longitude": -56.741913
+    },
+    "properties": {
+      "orgGuid": "F9FBCA61-846F-4C64-B467-64A19B31BE17",
+      "orgName": "Faro - PA",
+      "orgType": "CONG",
+      "address": "Rua Nossa Senhora de Nazaré, s/n\r\nCentro\r\nFaro, PA\r\n68280-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 98479-2599",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "F7BE4673-CA72-4F06-9978-B5019B8B79F8",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.187857,
+      "longitude": -56.713446
+    },
+    "properties": {
+      "orgGuid": "F7BE4673-CA72-4F06-9978-B5019B8B79F8",
+      "orgName": "Nhamundá - AM",
+      "orgType": "CONG",
+      "address": "R. Jonathas Pedrosa, S/N\r\nCentro\r\nNhamundá, AM\r\n69140-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(92) 99270-9933",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "434BFA91-E29D-4D4E-8DDA-A344D9D3E6B7",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.102008,
+      "longitude": -56.491256
+    },
+    "properties": {
+      "orgGuid": "434BFA91-E29D-4D4E-8DDA-A344D9D3E6B7",
+      "orgName": "Terra Santa - PA",
+      "orgType": "CONG",
+      "address": "Rua Senador Nilo Coelho, 311\r\nesq Trv. Cel Gama\r\nAparecida\r\nTerra Santa, PA\r\n68285-500\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 5,
+            "time": "19:30"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "LSB"
+      ],
+      "phones": [
+        {
+          "phone": "93991569121",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "ADBD1A04-758E-4975-AE74-07798B811ED8",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -2.156605,
+      "longitude": -56.095196
+    },
+    "properties": {
+      "orgGuid": "ADBD1A04-758E-4975-AE74-07798B811ED8",
+      "orgName": "Juruti - PA",
+      "orgType": "CONG",
+      "address": "R. Belém, 154\r\nBom Pastor\r\nJuruti, PA\r\n68170-000\r\n\r\n",
+      "languageCode": "T",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
   }
 ]

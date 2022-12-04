@@ -1,5 +1,79 @@
 [
   {
+    "geoId": "1163A789-A50C-49CD-BC2A-D6298428B0FF",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 27.765603,
+      "longitude": -15.679789
+    },
+    "properties": {
+      "orgGuid": "1163A789-A50C-49CD-BC2A-D6298428B0FF",
+      "orgName": "Maspalomas",
+      "orgType": "CONG",
+      "address": "Calle Princesa Tenesoya, 68\r\n35120 Arguineguín\r\nLAS PALMAS\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "619244598",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "F0B659E0-7351-42D8-B385-69828B9E533C",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 27.765603,
+      "longitude": -15.679789
+    },
+    "properties": {
+      "orgGuid": "F0B659E0-7351-42D8-B385-69828B9E533C",
+      "orgName": "Arguineguín",
+      "orgType": "CONG",
+      "address": "Calle Princesa Tenesoya, 68\r\n35120 Arguineguín\r\nLAS PALMAS\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+34 618 69 90 70",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
     "geoId": "442DA598-0802-4DA6-8EA6-465B0B3BC1EF",
     "type": "weekly",
     "isPrimary": true,
@@ -33,7 +107,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -71,7 +144,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -109,7 +181,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -147,7 +218,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -185,7 +255,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -223,9 +292,84 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "857D5544-E755-42BF-978C-495FE8F1FE07",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 28.147069,
+      "longitude": -15.642387
+    },
+    "properties": {
+      "orgGuid": "857D5544-E755-42BF-978C-495FE8F1FE07",
+      "orgName": "Gáldar",
+      "orgType": "CONG",
+      "address": "Calle Poeta Cairasco, 121\r\n35460 Gáldar\r\nLAS PALMAS\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:30"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "620-21-11-94",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T02:35:48.325Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "087A00CE-4035-4C9C-883F-8C9FBC01CEF0",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 28.06466,
+      "longitude": -15.5341
+    },
+    "properties": {
+      "orgGuid": "087A00CE-4035-4C9C-883F-8C9FBC01CEF0",
+      "orgName": "Teror",
+      "orgType": "CONG",
+      "address": "Calle los Geranios, 8\r\n35330 Teror\r\nLAS PALMAS\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "11:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "617533393",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T02:35:48.325Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "9CAE169A-4E18-46DA-A9E4-C83A3F492737",
@@ -261,7 +405,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -299,7 +442,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -337,7 +479,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -375,9 +516,236 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "34DFC765-7980-4C9A-A765-0342E7A56718",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 28.118609,
+      "longitude": -15.518761
+    },
+    "properties": {
+      "orgGuid": "34DFC765-7980-4C9A-A765-0342E7A56718",
+      "orgName": "Arucas",
+      "orgType": "CONG",
+      "address": "Calle Reyes Católicos, 42, bajo A\r\n35400 Arucas\r\nLAS PALMAS\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "11:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:45"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "928 603 629",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T02:35:48.325Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "A3EBDD4D-3995-40BD-9C5C-D21487852F7F",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 28.118609,
+      "longitude": -15.518761
+    },
+    "properties": {
+      "orgGuid": "A3EBDD4D-3995-40BD-9C5C-D21487852F7F",
+      "orgName": "Palmas de G.C., Las - Rehoyas Alta",
+      "orgType": "CONG",
+      "address": "Calle Reyes Católicos, 42, bajo A\r\n35400 Arucas\r\nLAS PALMAS\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+34 928 20 30 86",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T02:35:48.325Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "98F740D2-5C77-463B-BE77-65803BC6AF1E",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 28.118609,
+      "longitude": -15.518761
+    },
+    "properties": {
+      "orgGuid": "98F740D2-5C77-463B-BE77-65803BC6AF1E",
+      "orgName": "Palmas de G.C., Las - Francesa",
+      "orgType": "CONG",
+      "address": "Calle Reyes Católicos, 42, bajo A\r\n35400 Arucas\r\nLAS PALMAS\r\n",
+      "languageCode": "F",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:30"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "928203086",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T02:35:48.325Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "F75816AF-6B57-43D3-B1DD-EE14DDF55805",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 28.118609,
+      "longitude": -15.518761
+    },
+    "properties": {
+      "orgGuid": "F75816AF-6B57-43D3-B1DD-EE14DDF55805",
+      "orgName": "Palmas de G.C., Las - Rehoyas Alta - Grupo Ruso - Palmas de G.C., Las - Rehoyas Alta",
+      "orgType": "GROUP",
+      "address": "Calle Reyes Católicos, 42, bajo A\r\n35400 Arucas\r\nLAS PALMAS\r\n",
+      "languageCode": "U",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+34 928 20 30 86",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T02:35:48.325Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "739B3260-E70F-4145-9FEA-ED9A12206FD5",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 28.096642,
+      "longitude": -15.471898
+    },
+    "properties": {
+      "orgGuid": "739B3260-E70F-4145-9FEA-ED9A12206FD5",
+      "orgName": "Palmas de G.C., Las - Tamaraceite",
+      "orgType": "CONG",
+      "address": "Calle Pasión, 23A, bajo\r\n35018 Palmas de G.C., Las\r\nLAS PALMAS\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "657228658 / 828915653",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T02:35:48.325Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "F5DBDAED-93B0-4916-BA32-99DFD1D5D6CA",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 28.096642,
+      "longitude": -15.471898
+    },
+    "properties": {
+      "orgGuid": "F5DBDAED-93B0-4916-BA32-99DFD1D5D6CA",
+      "orgName": "Palmas de G.C., Las - Tenoya",
+      "orgType": "CONG",
+      "address": "Calle Pasión, 23A, bajo\r\n35018 Palmas de G.C., Las\r\nLAS PALMAS\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "11:30"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "622381956",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T02:35:48.325Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "AB7BD8B6-21E7-464F-815D-6319AF0FAFBA",
@@ -413,7 +781,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -451,7 +819,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -489,7 +857,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -527,7 +895,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -565,7 +933,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -603,7 +971,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -641,7 +1009,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -679,7 +1047,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -717,7 +1085,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -755,7 +1123,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -793,7 +1161,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -831,7 +1199,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -869,9 +1237,123 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "701AF6A9-B5CC-404E-B2CB-AD6F8FAA0854",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 28.04958,
+      "longitude": -14.34186
+    },
+    "properties": {
+      "orgGuid": "701AF6A9-B5CC-404E-B2CB-AD6F8FAA0854",
+      "orgName": "Morro Jable (Fuerteventura)",
+      "orgType": "CONG",
+      "address": "Calle Bentejuy, 1, sótano\r\n(Centro Comercial Cosmo)\r\n35625 Morro Jable\r\nLAS PALMAS\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "18:30"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+34683544362",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T02:35:48.325Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "061CD432-54BD-45E0-A7EA-5EE27E49AD7F",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 28.04958,
+      "longitude": -14.34186
+    },
+    "properties": {
+      "orgGuid": "061CD432-54BD-45E0-A7EA-5EE27E49AD7F",
+      "orgName": "Morro Jable - Grupo Alemán - Morro Jable (Fuerteventura)",
+      "orgType": "GROUP",
+      "address": "Calle Bentejuy, 1, sótano\r\n(Centro Comercial Cosmo)\r\n35625 Morro Jable\r\nLAS PALMAS\r\n",
+      "languageCode": "X",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "16:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+34683544362",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T02:35:48.325Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "3EF42D00-4505-4096-A9AE-C700997CE3C7",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 28.21871,
+      "longitude": -14.022412
+    },
+    "properties": {
+      "orgGuid": "3EF42D00-4505-4096-A9AE-C700997CE3C7",
+      "orgName": "Gran Tarajal (Fuerteventura)",
+      "orgType": "CONG",
+      "address": "Calle Don Luis el Maestro, 20\r\n35620 Gran Tarajal\r\nLAS PALMAS\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "669585993",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T02:35:48.325Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "43606A90-57A9-4F52-87B4-BCAA083BC90D",
@@ -907,7 +1389,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -945,7 +1427,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -983,7 +1465,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1021,7 +1503,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1059,7 +1541,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1097,7 +1579,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1135,7 +1617,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1173,7 +1655,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1211,7 +1693,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1249,7 +1731,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1287,7 +1769,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1325,7 +1807,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T02:35:48.325Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   }

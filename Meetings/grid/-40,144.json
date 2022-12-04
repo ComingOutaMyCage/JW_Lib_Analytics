@@ -1,5 +1,227 @@
 [
   {
+    "geoId": "84BB801B-6F26-4FE1-AF12-B42F6747C61C",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -38.32503,
+      "longitude": 144.31546
+    },
+    "properties": {
+      "orgGuid": "84BB801B-6F26-4FE1-AF12-B42F6747C61C",
+      "orgName": "Torquay - Geelong VIC",
+      "orgType": "CONG",
+      "address": "4  Kooringa Place\nTORQUAY  VIC  3228\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0423002232",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "9BAC1F15-62B4-499C-8E08-6C1EC35E7723",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -38.18782,
+      "longitude": 144.35398
+    },
+    "properties": {
+      "orgGuid": "9BAC1F15-62B4-499C-8E08-6C1EC35E7723",
+      "orgName": "Belmont - Geelong VIC",
+      "orgType": "CONG",
+      "address": "14-18 Barwarre Road\nMARSHALL  VIC  3216\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0467 922 331",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "F42B7E1D-E122-4EEB-81FC-B7E3284A6E41",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -38.18782,
+      "longitude": 144.35398
+    },
+    "properties": {
+      "orgGuid": "F42B7E1D-E122-4EEB-81FC-B7E3284A6E41",
+      "orgName": "Ocean Grove - VIC",
+      "orgType": "CONG",
+      "address": "14-18 Barwarre Road\nMARSHALL  VIC  3216\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "14:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0412831393",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "701FEC8B-B4AD-4B4A-91B5-085335E97D7D",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -38.18782,
+      "longitude": 144.35398
+    },
+    "properties": {
+      "orgGuid": "701FEC8B-B4AD-4B4A-91B5-085335E97D7D",
+      "orgName": "Grovedale - Geelong VIC",
+      "orgType": "CONG",
+      "address": "14-18 Barwarre Road\nMARSHALL  VIC  3216\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0488919554",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "82AA6EC6-6B5E-44DE-91FD-B1D8B3E9DDAB",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -38.08443,
+      "longitude": 144.33683
+    },
+    "properties": {
+      "orgGuid": "82AA6EC6-6B5E-44DE-91FD-B1D8B3E9DDAB",
+      "orgName": "Bell Park - Geelong VIC",
+      "orgType": "CONG",
+      "address": "348 Anakie Road\nNORLANE  VIC  3214\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0400600467",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "B0E36AAB-F255-4F00-9AC4-1CA0B7C8C205",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -38.08443,
+      "longitude": 144.33683
+    },
+    "properties": {
+      "orgGuid": "B0E36AAB-F255-4F00-9AC4-1CA0B7C8C205",
+      "orgName": "Corio - Geelong VIC",
+      "orgType": "CONG",
+      "address": "348 Anakie Road\nNORLANE  VIC  3214\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "14:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0411095674",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
     "geoId": "B743037E-11A2-480E-9C88-0C44AA6D17DA",
     "type": "weekly",
     "isPrimary": true,
@@ -33,7 +255,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -71,7 +292,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -109,7 +329,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -147,7 +366,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -185,7 +404,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -223,7 +441,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -261,7 +478,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -299,7 +516,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -337,7 +554,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -378,7 +595,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -419,7 +636,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -457,7 +674,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -621,7 +838,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -659,7 +876,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -697,7 +914,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -735,7 +952,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -976,7 +1192,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1017,7 +1233,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1055,7 +1271,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1093,7 +1308,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1138,7 +1352,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1176,7 +1389,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1214,7 +1426,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1252,7 +1463,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1297,7 +1507,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1673,7 +1882,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1711,7 +1920,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1749,7 +1958,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1798,7 +2007,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1847,7 +2056,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1885,7 +2094,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1923,7 +2132,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1961,7 +2170,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -1999,7 +2208,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2037,7 +2246,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2078,7 +2287,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2119,7 +2328,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2157,7 +2366,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2198,7 +2407,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2239,7 +2448,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2277,7 +2486,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2315,7 +2524,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2353,7 +2562,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2405,7 +2614,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2447,7 +2656,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2485,7 +2694,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2537,9 +2746,282 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "9D00695D-28D8-4BDE-81BA-39D350BE977A",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -37.99701,
+      "longitude": 145.31355
+    },
+    "properties": {
+      "orgGuid": "9D00695D-28D8-4BDE-81BA-39D350BE977A",
+      "orgName": "Berwick - Melbourne VIC",
+      "orgType": "CONG",
+      "address": "1-11 Ernst Wanke Road\nNARRE WARREN  VIC  3805\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "13:30"
+          },
+          "midweek": {
+            "weekday": 1,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0411 695 599",
+          "ext": ""
+        },
+        {
+          "phone": "03 9702 5307",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "A103524D-DEB2-4F39-9709-938D784DC2D7",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -37.99701,
+      "longitude": 145.31355
+    },
+    "properties": {
+      "orgGuid": "A103524D-DEB2-4F39-9709-938D784DC2D7",
+      "orgName": "Endeavour Hills - Melbourne VIC",
+      "orgType": "CONG",
+      "address": "1-11 Ernst Wanke Road\nNARRE WARREN  VIC  3805\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "14:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0419 507 779",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "B32F912D-FDF4-4BF1-9652-388B0C3008B9",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -37.99701,
+      "longitude": 145.31355
+    },
+    "properties": {
+      "orgGuid": "B32F912D-FDF4-4BF1-9652-388B0C3008B9",
+      "orgName": "Westall Spanish - Melbourne VIC",
+      "orgType": "CONG",
+      "address": "1-11 Ernst Wanke Road\nNARRE WARREN  VIC  3805\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "16:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+61&nbsp;0422 710 822",
+          "ext": ""
+        },
+        {
+          "phone": "+61&nbsp;0422 710 822",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "DE776808-E352-4C2A-ABA6-AA7EA429E92C",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -37.99701,
+      "longitude": 145.31355
+    },
+    "properties": {
+      "orgGuid": "DE776808-E352-4C2A-ABA6-AA7EA429E92C",
+      "orgName": "Hampton Park - Melbourne VIC",
+      "orgType": "CONG",
+      "address": "1-11 Ernst Wanke Road\nNARRE WARREN  VIC  3805\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "16:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+61&nbsp;0422611428",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "001117AC-4CAE-4757-A105-BC3AB0040EFC",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -37.99701,
+      "longitude": 145.31355
+    },
+    "properties": {
+      "orgGuid": "001117AC-4CAE-4757-A105-BC3AB0040EFC",
+      "orgName": "Narre Warren - Melbourne VIC",
+      "orgType": "CONG",
+      "address": "1-11 Ernst Wanke Road\nNARRE WARREN  VIC  3805\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "CHM"
+      ],
+      "phones": [
+        {
+          "phone": "0412 919 980 or: 0415 090 123 (Mandarin)",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "A0E034A0-563D-445B-985C-78C1DABCCEF8",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -37.99701,
+      "longitude": 145.31355
+    },
+    "properties": {
+      "orgGuid": "A0E034A0-563D-445B-985C-78C1DABCCEF8",
+      "orgName": "Narre Warren Mandarin - Narre Warren - Melbourne VIC",
+      "orgType": "GROUP",
+      "address": "1-11 Ernst Wanke Road\nNARRE WARREN  VIC  3805\n",
+      "languageCode": "CHM",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "E"
+      ],
+      "phones": [
+        {
+          "phone": "0412 919 980 or: 0415 090 123 (Mandarin)",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
+  },
+  {
+    "geoId": "12981D6D-9497-42FB-A0AB-343EF1979213",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -37.99701,
+      "longitude": 145.31355
+    },
+    "properties": {
+      "orgGuid": "12981D6D-9497-42FB-A0AB-343EF1979213",
+      "orgName": "Berwick Samoan - Melbourne VIC",
+      "orgType": "CONG",
+      "address": "1-11 Ernst Wanke Road\nNARRE WARREN  VIC  3805\n",
+      "languageCode": "SM",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "14:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0402 562 825",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
   },
   {
     "geoId": "1E768369-1CF8-4D95-A626-E071596A95C2",
@@ -2575,7 +3057,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2613,7 +3095,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2651,7 +3133,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2689,7 +3171,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2738,7 +3220,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2787,7 +3269,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2825,7 +3307,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2874,7 +3356,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2912,7 +3394,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2950,7 +3432,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -2988,9 +3470,46 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "66DF8BFE-F210-4211-ACAB-CF64215B3A27",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -38.49656,
+      "longitude": 145.94208
+    },
+    "properties": {
+      "orgGuid": "66DF8BFE-F210-4211-ACAB-CF64215B3A27",
+      "orgName": "Leongatha - VIC",
+      "orgType": "CONG",
+      "address": "167-169 Simons Lane\r\nLEONGATHA SOUTH  VIC  3953\r\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0417 018 042",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "3DA04671-C10C-4BBB-B3DF-DE1B0AB5B683",
@@ -3026,7 +3545,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3064,7 +3583,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3102,9 +3620,45 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "53D468ED-B38B-47EF-AA57-9F0E4352EFCE",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -38.078412,
+      "longitude": 145.622825
+    },
+    "properties": {
+      "orgGuid": "53D468ED-B38B-47EF-AA57-9F0E4352EFCE",
+      "orgName": "Pakenham - Melbourne VIC",
+      "orgType": "CONG",
+      "address": "53 Tynong Road\nTYNONG  VIC  3813\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0498 666 256",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "3645A3B8-45FF-4209-B86A-1A56A15B82E0",
@@ -3140,7 +3694,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3178,7 +3732,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3216,9 +3770,83 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "B5D657CB-B79E-4060-98FE-05E3F04E4111",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -38.1247,
+      "longitude": 145.83538
+    },
+    "properties": {
+      "orgGuid": "B5D657CB-B79E-4060-98FE-05E3F04E4111",
+      "orgName": "Warragul - VIC",
+      "orgType": "CONG",
+      "address": "120 Longwarry Road\nDROUIN  VIC  3818\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "14:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0493435733",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "C6A75DDD-C290-40BD-AF6A-A14D5154D16C",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -38.1247,
+      "longitude": 145.83538
+    },
+    "properties": {
+      "orgGuid": "C6A75DDD-C290-40BD-AF6A-A14D5154D16C",
+      "orgName": "Drouin - VIC",
+      "orgType": "CONG",
+      "address": "120 Longwarry Road\nDROUIN  VIC  3818\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0458683482",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "9F9D5020-9F65-4396-B38E-004F386DA353",
@@ -3254,7 +3882,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3292,7 +3919,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3330,7 +3957,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3368,7 +3995,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3406,7 +4032,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -3444,7 +4069,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3482,7 +4106,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3520,7 +4143,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3558,7 +4180,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -3596,7 +4218,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3634,7 +4255,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3672,7 +4292,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3710,7 +4329,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3748,7 +4366,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3786,7 +4403,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3824,7 +4440,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3862,7 +4477,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3900,7 +4514,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3938,7 +4551,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3976,7 +4588,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4014,7 +4625,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4052,7 +4662,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4090,7 +4699,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4128,7 +4736,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4166,7 +4773,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4204,7 +4810,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4242,7 +4847,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4284,7 +4888,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4325,7 +4928,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4366,7 +4968,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4404,7 +5005,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4442,7 +5042,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4480,7 +5079,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4518,7 +5116,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4556,7 +5153,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4594,7 +5190,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4636,7 +5231,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4674,7 +5268,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4712,7 +5305,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4753,7 +5345,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4791,7 +5382,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4832,7 +5422,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4873,7 +5462,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4911,7 +5499,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4952,7 +5539,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -4990,7 +5576,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5028,7 +5613,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5066,7 +5650,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5104,7 +5687,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5142,9 +5724,82 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "DEEBA010-9591-41AF-9EA5-8D67FDB15082",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -35.82397,
+      "longitude": 150.21822
+    },
+    "properties": {
+      "orgGuid": "DEEBA010-9591-41AF-9EA5-8D67FDB15082",
+      "orgName": "Batemans Bay - NSW",
+      "orgType": "CONG",
+      "address": "7 Nicholas Grove\nROSEDALE  NSW  2536\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0458 139 666",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "65022D32-A1B7-44E5-B928-0110B0D01530",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -35.82397,
+      "longitude": 150.21822
+    },
+    "properties": {
+      "orgGuid": "65022D32-A1B7-44E5-B928-0110B0D01530",
+      "orgName": "Rosedale - NSW",
+      "orgType": "CONG",
+      "address": "7 Nicholas Grove\nROSEDALE  NSW  2536\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "14:30"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0427529325",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "7F09C914-83B7-4916-87BE-974837655EFE",
@@ -5180,7 +5835,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5218,7 +5872,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5256,7 +5909,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5294,7 +5946,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5332,7 +5983,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5370,7 +6020,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5408,7 +6058,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5446,9 +6096,88 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "6EFB80B5-0A50-41D9-94D4-184BFDDB3871",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -34.55004,
+      "longitude": 150.38932
+    },
+    "properties": {
+      "orgGuid": "6EFB80B5-0A50-41D9-94D4-184BFDDB3871",
+      "orgName": "Moss Vale - NSW",
+      "orgType": "CONG",
+      "address": "63 Church Road\nMOSS VALE  NSW  2577\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+61&nbsp;0412626126",
+          "ext": ""
+        },
+        {
+          "phone": "+61&nbsp;0412626126",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "9B31BD03-2587-484A-AB4C-A82A98941206",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -34.55004,
+      "longitude": 150.38932
+    },
+    "properties": {
+      "orgGuid": "9B31BD03-2587-484A-AB4C-A82A98941206",
+      "orgName": "Mittagong - NSW",
+      "orgType": "CONG",
+      "address": "63 Church Road\nMOSS VALE  NSW  2577\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "14:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0418 280 913",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "9BDB1CF1-7CE0-4455-B46B-9CDE4EE2F0A4",
@@ -5484,7 +6213,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5522,7 +6250,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5563,7 +6291,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5601,7 +6329,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5642,7 +6370,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5691,7 +6419,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5729,7 +6457,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5767,7 +6495,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5809,9 +6537,46 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "CA6EFAC5-D4B6-42C7-8ACF-5997B739C2C4",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -34.2134,
+      "longitude": 150.572
+    },
+    "properties": {
+      "orgGuid": "CA6EFAC5-D4B6-42C7-8ACF-5997B739C2C4",
+      "orgName": "Thirlmere - NSW",
+      "orgType": "CONG",
+      "address": "50 Leonard Street\nTHIRLMERE  NSW  2572\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0415 465 760",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "3E7792F8-D5E7-4370-8576-07098C1972FA",
@@ -5847,7 +6612,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5888,8 +6652,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5926,8 +6690,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5967,8 +6731,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6005,8 +6769,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6043,9 +6807,123 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "09860090-BA3C-49FA-983E-F8D2CAC70943",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -34.05275,
+      "longitude": 150.712255
+    },
+    "properties": {
+      "orgGuid": "09860090-BA3C-49FA-983E-F8D2CAC70943",
+      "orgName": "Camden - NSW",
+      "orgType": "CONG",
+      "address": "29 Harrington Street\nELDERSLIE  NSW  2570\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "14:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+61414705992",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "A2BF633D-503A-4EE3-971E-472974E8BF79",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -34.05275,
+      "longitude": 150.712255
+    },
+    "properties": {
+      "orgGuid": "A2BF633D-503A-4EE3-971E-472974E8BF79",
+      "orgName": "Mount Annan - NSW",
+      "orgType": "CONG",
+      "address": "29 Harrington Street\nELDERSLIE  NSW  2570\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0438 313 414",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "B05B645F-22A8-474A-94F0-88D3ECBC1E50",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -34.05275,
+      "longitude": 150.712255
+    },
+    "properties": {
+      "orgGuid": "B05B645F-22A8-474A-94F0-88D3ECBC1E50",
+      "orgName": "Gregory Hills - Sydney NSW",
+      "orgType": "CONG",
+      "address": "29 Harrington Street\nELDERSLIE  NSW  2570\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:15"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0403051603",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "993354F3-EF25-4737-ADE7-88E9539C28A2",
@@ -6081,7 +6959,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6119,9 +6997,211 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "67D03467-5E99-40B9-AAC9-5E7CB5F8CB30",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -34.09709,
+      "longitude": 150.81357
+    },
+    "properties": {
+      "orgGuid": "67D03467-5E99-40B9-AAC9-5E7CB5F8CB30",
+      "orgName": "Bradbury - Sydney NSW",
+      "orgType": "CONG",
+      "address": "30 Woodland Road\nST HELENS PARK  NSW  2560\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "14:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+61&nbsp;0439 822 954",
+          "ext": ""
+        },
+        {
+          "phone": "+61&nbsp;0439822954",
+          "ext": ""
+        },
+        {
+          "phone": "02 9829 5600",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "D29AD54D-E754-474D-BA0B-09FF1B6CE678",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -34.09709,
+      "longitude": 150.81357
+    },
+    "properties": {
+      "orgGuid": "D29AD54D-E754-474D-BA0B-09FF1B6CE678",
+      "orgName": "Campbelltown - Sydney NSW",
+      "orgType": "CONG",
+      "address": "30 Woodland Road\nST HELENS PARK  NSW  2560\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0415 363 368",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "13FADBDA-52C9-4D7B-B6FB-91CF167BC724",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -34.01854,
+      "longitude": 150.81992
+    },
+    "properties": {
+      "orgGuid": "13FADBDA-52C9-4D7B-B6FB-91CF167BC724",
+      "orgName": "Ingleburn - Sydney NSW",
+      "orgType": "CONG",
+      "address": "35 Sunderland Drive\nRABY  NSW  2566\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+61&nbsp;0415 457 618",
+          "ext": ""
+        },
+        {
+          "phone": "+61&nbsp;0415 457 618",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "C837FE71-2D3F-4CBF-A5E7-DA229FF5D0CC",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -34.01854,
+      "longitude": 150.81992
+    },
+    "properties": {
+      "orgGuid": "C837FE71-2D3F-4CBF-A5E7-DA229FF5D0CC",
+      "orgName": "St Andrews - Sydney NSW",
+      "orgType": "CONG",
+      "address": "35 Sunderland Drive\nRABY  NSW  2566\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0448424634",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "A6147DAF-A196-41FD-9B9A-36E07DFC9159",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -34.01854,
+      "longitude": 150.81992
+    },
+    "properties": {
+      "orgGuid": "A6147DAF-A196-41FD-9B9A-36E07DFC9159",
+      "orgName": "Minto - Sydney NSW",
+      "orgType": "CONG",
+      "address": "35 Sunderland Drive\nRABY  NSW  2566\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "15:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+61415305422",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "60FCE883-5AB9-42E5-ADDC-7DA1B5C3CB39",
@@ -6157,7 +7237,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6195,7 +7275,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6233,7 +7313,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6271,7 +7351,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6309,7 +7388,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6347,7 +7425,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6385,7 +7463,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6423,7 +7501,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6461,7 +7539,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6499,7 +7577,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6537,7 +7615,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6586,7 +7664,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6624,7 +7702,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6662,7 +7739,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6700,7 +7776,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6738,7 +7814,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6776,7 +7852,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6814,7 +7890,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6852,7 +7928,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6890,7 +7966,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6931,7 +8007,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -6969,7 +8045,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7010,7 +8086,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7048,7 +8124,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7086,7 +8162,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7124,7 +8200,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7162,7 +8238,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7200,7 +8276,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7238,7 +8314,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7276,7 +8352,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7314,7 +8390,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7352,7 +8428,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7390,7 +8466,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7428,7 +8504,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7466,7 +8542,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7515,7 +8591,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7553,7 +8629,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7591,7 +8667,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7629,7 +8705,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7667,7 +8743,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7705,7 +8781,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7743,7 +8819,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7781,7 +8857,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7819,7 +8895,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7857,7 +8933,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7895,7 +8971,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7933,7 +9009,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7971,7 +9047,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8013,7 +9089,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8051,7 +9127,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8089,7 +9164,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8127,7 +9201,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8176,7 +9249,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8214,7 +9286,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8252,7 +9323,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8290,7 +9360,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8331,7 +9400,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8372,7 +9440,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8410,7 +9477,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8451,7 +9517,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8489,7 +9554,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8530,7 +9594,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8568,7 +9631,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8606,7 +9668,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8644,7 +9705,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8682,7 +9742,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   }
