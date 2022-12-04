@@ -1,5 +1,157 @@
 [
   {
+    "geoId": "5DB16C5A-68DC-40D3-806D-10E973770060",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -31.776946,
+      "longitude": -63.796984
+    },
+    "properties": {
+      "orgGuid": "5DB16C5A-68DC-40D3-806D-10E973770060",
+      "orgName": "Laguna Larga, Córdoba",
+      "orgType": "CONG",
+      "address": "Arturo M Bas 730\r\nEntre Belgrano y Julio Argentino Roca\r\nLaguna Larga, Córdoba\r\nC. P.:  5974\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:30"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "03537- 15679011",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "2251AE71-F6FE-4051-B252-C1FD3AE674E4",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -31.64897,
+      "longitude": -63.91609
+    },
+    "properties": {
+      "orgGuid": "2251AE71-F6FE-4051-B252-C1FD3AE674E4",
+      "orgName": "Norte, Río Segundo, Córdoba",
+      "orgType": "CONG",
+      "address": "Julio Argentino Roca 1461\r\nentre La Rioja y Catamarca\r\nRío Segundo, Córdoba\r\nC. P.:  5960\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "20:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "03572-15444634",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "293A1815-08EC-4BD8-ACDB-716C90AB8F04",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -31.64897,
+      "longitude": -63.91609
+    },
+    "properties": {
+      "orgGuid": "293A1815-08EC-4BD8-ACDB-716C90AB8F04",
+      "orgName": "Sur, Río Segundo, Córdoba",
+      "orgType": "CONG",
+      "address": "Julio Argentino Roca 1461\r\nentre La Rioja y Catamarca\r\nRío Segundo, Córdoba\r\nC. P.:  5960\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "3572-547616",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "333AA852-588F-4D3B-814A-D3EE3C24B622",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -31.67538,
+      "longitude": -63.87719
+    },
+    "properties": {
+      "orgGuid": "333AA852-588F-4D3B-814A-D3EE3C24B622",
+      "orgName": "Pilar, Córdoba",
+      "orgType": "CONG",
+      "address": "25 de Mayo 296\r\nesquina Entre Ríos\r\nPilar, Córdoba\r\nC. P.:  5972\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "20:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "3572-435495",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
     "geoId": "E00A9BE9-D99E-4A0B-8D93-88A655ECE98E",
     "type": "weekly",
     "isPrimary": true,
@@ -33,8 +185,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -66,8 +218,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -104,8 +256,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -142,8 +294,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -180,8 +332,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -218,8 +370,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -256,8 +408,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -294,9 +446,123 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "EF0A7CED-54F2-48E3-B101-6198266246BF",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -31.94344,
+      "longitude": -62.46282
+    },
+    "properties": {
+      "orgGuid": "EF0A7CED-54F2-48E3-B101-6198266246BF",
+      "orgName": "Alicia, Córdoba",
+      "orgType": "CONG",
+      "address": "Roque Saenz Peña 408\r\nAlicia, Córdoba\r\nC. P.:  5949           \r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "3533409437",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "0C603CB7-AB2F-44BA-987E-A22BACA1A084",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -30.35582,
+      "longitude": -63.94239
+    },
+    "properties": {
+      "orgGuid": "0C603CB7-AB2F-44BA-987E-A22BACA1A084",
+      "orgName": "San José de la Dormida, Córdoba",
+      "orgType": "CONG",
+      "address": "Hipólito Yrigoyen 245           \r\nSan José de la Dormida, Córdoba\r\nC. P.:  5244           \r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "20:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "03521430735",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "AC14EABB-88FA-4659-8453-2B4C0DDBBC17",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -31.703964,
+      "longitude": -62.482049
+    },
+    "properties": {
+      "orgGuid": "AC14EABB-88FA-4659-8453-2B4C0DDBBC17",
+      "orgName": "Laspiur, Córdoba",
+      "orgType": "CONG",
+      "address": "Buenos Aires 127\r\nentre Doctor Lamelas (RN 158) y San Martín\r\nSaturnino María Laspiur, Córdoba\r\nC. P.:  5943\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "3533580743",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "A8387F64-07CC-468B-810F-CBB6861A2693",
@@ -332,8 +598,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -370,8 +636,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -408,8 +674,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -446,8 +712,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -484,8 +750,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -522,8 +788,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -560,8 +826,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -601,8 +867,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -642,8 +908,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -680,8 +946,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -718,8 +984,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -756,8 +1022,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -794,8 +1060,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -827,8 +1093,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -865,8 +1131,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -903,8 +1169,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -941,8 +1207,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -979,8 +1245,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1012,8 +1278,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1050,8 +1316,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1088,8 +1354,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1129,8 +1395,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1170,8 +1436,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1208,8 +1474,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1257,8 +1523,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1295,8 +1561,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1333,8 +1599,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1371,8 +1637,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1409,8 +1675,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1447,8 +1713,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1485,8 +1751,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1523,8 +1789,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1556,8 +1822,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1594,8 +1860,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1632,8 +1898,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1670,8 +1936,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1708,8 +1974,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1741,8 +2007,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1779,8 +2045,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1812,8 +2078,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1850,8 +2116,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1888,8 +2154,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1926,8 +2192,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1964,8 +2230,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -1997,8 +2263,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2030,8 +2296,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2068,8 +2334,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2109,8 +2375,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2150,8 +2416,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2188,8 +2454,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2226,8 +2492,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2259,8 +2525,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2292,8 +2558,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2330,8 +2596,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2368,8 +2634,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2406,8 +2672,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2448,8 +2714,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2486,8 +2752,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2519,8 +2785,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2557,8 +2823,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2595,8 +2861,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2633,8 +2899,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2671,8 +2937,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2709,8 +2975,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2747,8 +3013,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2785,8 +3051,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2823,8 +3089,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2861,8 +3127,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2899,8 +3165,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2937,8 +3203,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -2970,8 +3236,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3008,8 +3274,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3041,8 +3307,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3079,8 +3345,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3112,7 +3378,6 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3150,8 +3415,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3188,8 +3453,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3221,8 +3486,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3259,8 +3524,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3297,8 +3562,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3335,9 +3600,47 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "A36A9B58-69E1-4600-8570-AB123C980888",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -31.66749,
+      "longitude": -59.90739
+    },
+    "properties": {
+      "orgGuid": "A36A9B58-69E1-4600-8570-AB123C980888",
+      "orgName": "María Grande, Entre Ríos",
+      "orgType": "CONG",
+      "address": "25 de Mayo 655\r\nMaría Grande, Entre Ríos\r\nC. P.:\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:30"
+          },
+          "midweek": {
+            "weekday": 5,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "2281 46-3728 / 343 504-1429",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "B7B008D3-B5AD-4AE8-83D8-ECC12CD72BAC",
@@ -3373,8 +3676,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3411,8 +3714,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3449,8 +3752,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3487,8 +3790,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3525,9 +3828,47 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "D5F7EE54-A72E-4C6E-A732-003CE1C0FC55",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -31.51167,
+      "longitude": -59.83216
+    },
+    "properties": {
+      "orgGuid": "D5F7EE54-A72E-4C6E-A732-003CE1C0FC55",
+      "orgName": "Hasenkamp, Entre Ríos",
+      "orgType": "CONG",
+      "address": "Mendoza 220\r\ncasi esq. Ramirez\r\nHasenkamp, Entre Ríos\r\nC. P.:  3134\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "3435330408",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "3AD785E6-EAD3-4F13-A601-CD7DE2932B82",
@@ -3563,8 +3904,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3601,8 +3942,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3639,8 +3980,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3677,8 +4018,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3715,8 +4056,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3753,7 +4094,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -3791,8 +4131,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3829,8 +4169,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3862,8 +4202,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3900,9 +4240,47 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "E2C64A1A-4995-4355-BF88-BDC48688091B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -30.575432,
+      "longitude": -59.929977
+    },
+    "properties": {
+      "orgGuid": "E2C64A1A-4995-4355-BF88-BDC48688091B",
+      "orgName": "San Javier, Santa Fe",
+      "orgType": "CONG",
+      "address": "Rivadavia 2432\r\nentre Doctor de la Colina y Poeta Julio Migno\r\nSan Javier, Santa Fe\r\nC. P.:\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "20:00"
+          },
+          "midweek": {
+            "weekday": 2,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "03405 15400141",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "7886AF1F-5473-433F-B258-2C7B75CFB645",
@@ -3938,8 +4316,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -3976,8 +4354,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4014,8 +4392,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4052,8 +4430,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4090,8 +4468,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4128,8 +4506,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4166,8 +4544,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4204,8 +4582,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4242,9 +4620,47 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "62758D59-3F4F-45F1-A030-8720EFCF7A65",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -30.018119,
+      "longitude": -59.524048
+    },
+    "properties": {
+      "orgGuid": "62758D59-3F4F-45F1-A030-8720EFCF7A65",
+      "orgName": "Esquina, Corrientes",
+      "orgType": "CONG",
+      "address": "Primera Junta 52\r\nentre Ruta Nacional 12 y Serrano Soto\r\nEsquina, Corrientes\r\nC. P.:  3196\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "19:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "3777328353",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "ECF3C536-7BD2-4686-AA58-FE689A07B4D1",
@@ -4280,8 +4696,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4318,8 +4734,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4356,8 +4772,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4394,8 +4810,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4432,8 +4848,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4465,8 +4881,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4503,8 +4919,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4541,8 +4957,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4579,8 +4995,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4612,8 +5028,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4650,8 +5066,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4688,8 +5104,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4726,8 +5142,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4764,8 +5180,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4802,8 +5218,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4840,8 +5256,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4878,8 +5294,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4916,8 +5332,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4954,8 +5370,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -4992,8 +5408,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5030,8 +5446,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5068,8 +5484,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5106,8 +5522,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5144,8 +5560,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5182,8 +5598,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5220,8 +5636,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5258,8 +5674,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5296,9 +5712,47 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "6FA4E80A-956F-4A44-BFC2-CC735D89D61C",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -30.338907,
+      "longitude": -58.30296
+    },
+    "properties": {
+      "orgGuid": "6FA4E80A-956F-4A44-BFC2-CC735D89D61C",
+      "orgName": "San Jaime de la Frontera, Entre Ríos",
+      "orgType": "CONG",
+      "address": "Urquiza s/n\r\ny Sarmiento\r\nSan Jaime, Entre Ríos\r\nC. P.:  3185\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "20:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "3458 451386 o 345 401-0107",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "2BA98DC5-3CC8-40D5-9B53-6ACC6828E478",
@@ -5334,8 +5788,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5372,8 +5826,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5410,8 +5864,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5448,8 +5902,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5486,7 +5940,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -5519,8 +5972,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5555,8 +6008,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5591,8 +6044,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5629,8 +6082,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5667,8 +6120,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5705,8 +6158,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5738,8 +6191,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5776,8 +6229,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -5814,8 +6267,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -5852,8 +6305,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5890,8 +6343,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5928,8 +6381,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -5966,8 +6419,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6004,8 +6457,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6042,8 +6495,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6080,8 +6533,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6118,8 +6571,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6156,8 +6609,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6194,8 +6647,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6232,8 +6685,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6270,8 +6723,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6308,8 +6761,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6346,8 +6799,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6384,8 +6837,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6422,8 +6875,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6460,8 +6913,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6498,8 +6951,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6536,8 +6989,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6572,8 +7025,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6605,8 +7058,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6646,8 +7099,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6687,8 +7140,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6723,8 +7176,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6761,8 +7214,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6802,8 +7255,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6840,8 +7293,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6878,8 +7331,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6916,8 +7369,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6954,8 +7407,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -6995,8 +7448,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -7033,8 +7486,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -7074,8 +7527,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -7112,7 +7565,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7153,8 +7605,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -7186,8 +7638,8 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -7227,8 +7679,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -7265,8 +7717,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -7303,8 +7755,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -7341,8 +7793,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -7379,8 +7831,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -7417,7 +7869,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -7458,8 +7910,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -7499,8 +7951,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -7540,8 +7992,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -7581,8 +8033,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -7619,7 +8071,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7652,7 +8103,6 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7690,9 +8140,45 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "5A322C3B-8C14-4C0F-936B-1FF6233D73B1",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -27.418767,
+      "longitude": -59.038435
+    },
+    "properties": {
+      "orgGuid": "5A322C3B-8C14-4C0F-936B-1FF6233D73B1",
+      "orgName": "Fontana, Chaco",
+      "orgType": "CONG",
+      "address": "Pasaje Carlos María de Alvear s/n\r\nEntre Av. Augusto Rey y Pasaje Augusto Rey\r\nFontana, Chaco\r\nC. P.:  3514\r\n",
+      "languageCode": "S",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "18:30"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(0362) 15 428 7350",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T03:24:55.715Z"
   },
   {
     "geoId": "F849CCA6-6F69-49A6-99B7-14ADE7511321",
@@ -7728,7 +8214,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7766,7 +8252,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7804,7 +8290,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7842,7 +8328,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7880,7 +8365,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7918,7 +8403,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7956,7 +8441,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -7997,7 +8482,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8035,7 +8520,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8073,7 +8558,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8111,7 +8596,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8149,8 +8634,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -8187,8 +8672,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -8226,8 +8711,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -8264,8 +8749,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -8302,7 +8787,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8340,7 +8825,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8378,7 +8863,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8416,7 +8900,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8454,7 +8938,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8492,7 +8976,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8530,7 +9014,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8568,7 +9052,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8606,8 +9090,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -8639,7 +9123,7 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8677,7 +9161,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8715,7 +9199,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8753,7 +9237,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -8794,8 +9278,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -8835,8 +9319,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -8873,7 +9357,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8914,7 +9398,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -8955,8 +9438,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -8996,8 +9479,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -9048,7 +9531,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -9100,7 +9582,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -9138,8 +9619,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -9176,8 +9657,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -9214,7 +9695,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -9252,8 +9732,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -9290,8 +9770,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -9328,7 +9808,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -9367,7 +9846,7 @@
       ],
       "isPrivateMtgPlace": true
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -9405,7 +9884,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -9438,7 +9916,7 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -9476,8 +9954,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -9514,8 +9992,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -9552,8 +10030,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -9590,7 +10068,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -9628,7 +10105,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -9666,7 +10142,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -9704,7 +10179,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -9742,7 +10216,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -9780,7 +10253,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -9818,7 +10290,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -9856,7 +10327,6 @@
       ],
       "isPrivateMtgPlace": true
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -9894,8 +10364,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -9932,7 +10402,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -9970,8 +10439,8 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "lastSeen": "2022-12-04T01:49:25.241Z",
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -10008,7 +10477,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10046,7 +10514,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10084,7 +10551,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10117,7 +10583,6 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10155,7 +10620,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10193,7 +10657,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10232,7 +10695,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10270,7 +10732,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10306,7 +10767,6 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10344,7 +10804,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10383,7 +10842,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10421,7 +10879,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10462,7 +10919,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10501,7 +10957,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10539,7 +10994,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10580,7 +11034,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10621,7 +11074,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10660,7 +11112,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10699,7 +11150,6 @@
       ],
       "isPrivateMtgPlace": true
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10738,7 +11188,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10779,7 +11228,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10820,7 +11268,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10859,7 +11306,6 @@
       ],
       "isPrivateMtgPlace": true
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10897,7 +11343,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10936,7 +11381,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -10978,7 +11423,6 @@
       ],
       "isPrivateMtgPlace": true
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -11020,7 +11464,6 @@
       ],
       "isPrivateMtgPlace": true
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -11054,7 +11497,6 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -11096,7 +11538,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -11137,7 +11579,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -11176,7 +11618,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -11215,7 +11657,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -11254,7 +11696,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -11293,7 +11735,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -11332,7 +11774,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -11371,7 +11813,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -11410,7 +11852,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -11449,7 +11891,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -11489,7 +11931,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -11528,7 +11970,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -11566,7 +12008,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -11605,7 +12047,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -11644,7 +12086,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -11683,7 +12125,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -11722,7 +12164,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -11760,7 +12202,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -11798,7 +12240,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -11837,7 +12279,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -11876,7 +12318,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -11919,7 +12361,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -11958,7 +12400,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -12000,7 +12442,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -12038,7 +12480,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -12077,7 +12519,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -12119,7 +12561,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -12158,7 +12600,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -12200,7 +12642,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -12240,7 +12682,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -12279,7 +12721,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -12317,7 +12759,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -12356,7 +12798,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -12395,7 +12837,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -12435,7 +12877,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -12474,7 +12916,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -12508,7 +12950,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -12547,7 +12989,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -12586,7 +13028,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -12625,7 +13067,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -12663,7 +13105,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -12702,9 +13144,47 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "872C9E45-CE59-4C11-BB9F-515CD15775A0",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": -26.620405,
+      "longitude": -56.249236
+    },
+    "properties": {
+      "orgGuid": "872C9E45-CE59-4C11-BB9F-515CD15775A0",
+      "orgName": "Centro Guaraní - Yuty CAZ",
+      "orgType": "CONG",
+      "address": "Tebicuary y 14 de mayo\r\nYuty\r\nCaazapá\r\n\r\n",
+      "transliteratedAddress": "Tebicuary y 14 de mayo\r\nYuty\r\nCaazapá\r\n\r\n",
+      "languageCode": "GI",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "08:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "18:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+595984692693",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": true
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "608A3C6E-093C-4498-BBC9-EA61E3C86CD8",
@@ -12736,7 +13216,7 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -12775,7 +13255,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -12813,7 +13293,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -12851,7 +13331,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -12891,7 +13371,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -12929,7 +13409,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -12968,7 +13448,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13007,7 +13487,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13047,7 +13527,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -13086,7 +13566,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -13124,7 +13604,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13163,7 +13643,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13202,7 +13682,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13242,7 +13722,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -13281,7 +13761,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -13320,7 +13800,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -13359,7 +13839,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -13398,7 +13878,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -13437,7 +13917,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -13475,7 +13955,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -13515,7 +13995,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -13555,7 +14035,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13596,7 +14076,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13630,7 +14110,7 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13669,7 +14149,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13708,7 +14188,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13742,7 +14222,7 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13784,7 +14264,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13823,7 +14303,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13862,7 +14342,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13904,7 +14384,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13943,7 +14423,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -13981,7 +14461,6 @@
       ],
       "isPrivateMtgPlace": true
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14020,7 +14499,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14060,7 +14539,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
   {
@@ -14098,7 +14577,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -14137,7 +14616,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -14176,7 +14655,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -14215,7 +14694,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14254,7 +14733,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14293,7 +14772,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14333,7 +14812,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -14372,7 +14851,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -14410,7 +14889,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14449,7 +14928,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14488,7 +14967,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14527,7 +15006,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-03T17:23:33.692Z"
   },
@@ -14567,7 +15046,7 @@
       "isPrivateMtgPlace": false
     },
     "lastSeen": "2022-12-03T17:38:54.281Z",
-    "active": true,
+    "active": false,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
   {
@@ -14605,7 +15084,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14644,7 +15123,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14683,7 +15162,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14722,7 +15201,7 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14761,7 +15240,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14800,7 +15278,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14839,7 +15316,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14878,7 +15354,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14912,7 +15387,7 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
+    "lastSeen": "2022-12-04T01:49:25.241Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14951,7 +15426,6 @@
       ],
       "isPrivateMtgPlace": true
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -14984,7 +15458,6 @@
       "phones": [],
       "isPrivateMtgPlace": true
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15018,7 +15491,6 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15060,7 +15532,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15102,7 +15573,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15141,7 +15611,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15180,7 +15649,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15218,7 +15686,6 @@
       ],
       "isPrivateMtgPlace": true
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15257,7 +15724,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15296,7 +15762,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15335,7 +15800,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15374,7 +15838,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15413,7 +15876,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15447,7 +15909,6 @@
       "phones": [],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15486,7 +15947,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15525,7 +15985,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15567,7 +16026,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15609,7 +16067,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15647,7 +16104,6 @@
       ],
       "isPrivateMtgPlace": true
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15686,7 +16142,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15725,7 +16180,6 @@
       ],
       "isPrivateMtgPlace": true
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15764,7 +16218,6 @@
       ],
       "isPrivateMtgPlace": true
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -15803,7 +16256,6 @@
       ],
       "isPrivateMtgPlace": true
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   }

@@ -93,11 +93,16 @@ async function getMeetings(lowerLat, lowerLon, upperLat, upperLon){
         SaveCache();
         SaveExpectations();
     }
-
+    let size = upperLat - lowerLat;
+    lowerLat -= size * 0.05;
+    lowerLon -= size * 0.05;
+    upperLat += size * 0.05;
+    upperLon += size * 0.05;
     if(lowerLat === 0) lowerLat = -0.001;
     if(lowerLon === 0) lowerLon = -0.001;
     if(lowerLon === 0) upperLat = 0.001;
     if(upperLon === 0) upperLon = 0.001;
+
     let url = "lowerLatitude=" + lowerLat.toString() + "&lowerLongitude=" + lowerLon.toString() +
         "&upperLatitude=" + upperLat.toString() + "&upperLongitude=" +  upperLon.toString();
     return await retryFetch("https://apps.jw.org/api/public/meeting-search/weekly-meetings?" + url,
@@ -120,8 +125,11 @@ async function getMeetings(lowerLat, lowerLon, upperLat, upperLon){
         "body": null,
         "method": "GET"
     }, 3, 1000).then((response) => response.json()).then((data) => {
-        for(const meeting of Object.values(data['geoLocationList'])){
-            cleanMeeting(meeting);
+
+        if(data && data['geoLocationList']) {
+            for (const meeting of Object.values(data['geoLocationList'])) {
+                cleanMeeting(meeting);
+            }
         }
         return data;
     });//.then((data) => data.category.subcategories.map(ele => ele.key))
@@ -142,7 +150,7 @@ function cleanMeeting(meeting){
     delete meeting.properties.memorialTime;
 }
 
-async function ProcessGrid(country, forCountry, sw, ne, step = null, recursivePercent = "") {
+async function ProcessGrid(country, forCountry, sw, ne, step = null, recursivePercent = "", denseRegion = null) {
     let latMin = sw["lat"];
     let latMax = ne["lat"];
     let lonMin = sw["lon"];
@@ -161,17 +169,25 @@ async function ProcessGrid(country, forCountry, sw, ne, step = null, recursivePe
                 SearchedLocations.AddPoint(key);
             }
             let expectation = cachedExpectation[key] ?? null;
-            // if (area.lat === 0 || area.lon === 0 || area.latMax === 0 || area.lonMax === 0) {
+            // if (area.lat === 0 || area.latMax === 0/* || area.lonMax === 0 || area.lon === 0*/) {
             //     expectation = null;
             //     cache[key] = null;
             // }
             if(expectation === 0) continue;
-            let percent = recursivePercent + " " + Math.round(step * 111) + "km " + zeroPad(Math.round(((percentLon + percentLat) / 2.0) * 100), 2) + "%";
+            let km = step * 111;
+            let percent = recursivePercent + " " + Math.round(km) + "km " + zeroPad(Math.round(((percentLon + percentLat) / 2.0) * 100), 2) + "%";
+            let data = cache[key] ?? null;
             if(expectation !== "+") {
-                let data = cache[key] ?? null;
                 if(!data) {
                     //await new Promise(delay => setTimeout(delay, 3));
-                    data = await getMeetings(lat, lon, lat + step, lon + step);
+                    for(let i = 0; i < 10; i++) {
+                        data = await getMeetings(lat, lon, lat + step, lon + step);
+                        if(data && data['geoLocationList'] !== undefined){
+                            break;
+                        }
+                        console.error("Failed, retry " + (i + 1));
+                        await delay(100);
+                    }
                     cache[key] = data;
                 }
                 let items = data ? (data['geoLocationList'] ?? []) : [];
@@ -180,7 +196,7 @@ async function ProcessGrid(country, forCountry, sw, ne, step = null, recursivePe
                         forCountry[item['geoId']] = item;
                     }
                 }
-                if (data['hasMoreResults'] == true || items.length === 25 || (items.length > 18 && (step * 111) > 3))
+                if (data['hasMoreResults'] == true || items.length === 25 || (items.length > 18 && km > 3) || ((country.startsWith("USA") || denseRegion) && km > 50 && items.length > 1))
                     expectation = "+";
                 else if(items.length > 0)
                     cachedExpectation[key] = items.length;
@@ -189,6 +205,8 @@ async function ProcessGrid(country, forCountry, sw, ne, step = null, recursivePe
                 console.log(`Queries: ${totalQueries}\t${country} Locations: ` + Object.keys(forCountry).length + "\tTotal Locations: " + Object.keys(allMeetings).length + "\t" + percent);
             }
             if(expectation === "+"){
+                if (data && (data['hasMoreResults'] == true || data['geoLocationList'].length === 25))
+                    denseRegion = true;
                 cachedExpectation[key] = "+";
                 let substep = Math.min(latMax - lat, step * 0.5);
                 await ProcessGrid(
@@ -197,7 +215,8 @@ async function ProcessGrid(country, forCountry, sw, ne, step = null, recursivePe
                     {lat: lat, lon: lon},
                     {lat: Math.min(lat + step, latMax), lon: Math.min(lon + step, lonMax)},
                     substep,
-                    percent);
+                    percent,
+                    denseRegion);
             }
         }
     }
@@ -243,7 +262,7 @@ async function GetAllMeetings(countries){
 
         var crossesZero = (latMin < 0 && latMax > 0) || (lonMin < 0 && lonMax > 0);
         let progressPath = `./Meetings/progress/${countryCode}.json`;
-        if(fs.existsSync(progressPath) /*&& !crossesZero*/) {
+        if(fs.existsSync(progressPath)/* && !crossesZero*/) {
             console.log("Already processed " + countryCode);
             let forCountry = LoadJSON(progressPath);
             if(!forCountry) forCountry = {};
@@ -261,7 +280,7 @@ async function GetAllMeetings(countries){
             }
 
             for(const [key, meeting] of Object.entries(forCountry))
-                UpdateMeetingState(meeting);
+                UpdateMeetingState(meeting, false);
         }
         else
         {
@@ -274,7 +293,7 @@ async function GetAllMeetings(countries){
 
                 SaveFile(progressPath, JSON.stringify(forCountry, null, 2));
                 for(const [key, meeting] of Object.entries(forCountry))
-                    UpdateMeetingState(meeting);
+                    UpdateMeetingState(meeting, true);
 
                 resolve();
             });
@@ -290,9 +309,10 @@ async function GetAllMeetings(countries){
     SaveExpectations();
     await SaveAllMeetings(allMeetings);
 }
-function UpdateMeetingState(meeting){
+function UpdateMeetingState(meeting, updateSeen){
     cleanMeeting(meeting);
-    meeting.lastSeen = scriptStartedTS;
+    if (updateSeen)
+        meeting.lastSeen = scriptStartedTS;
     meeting.active = true;
     let key = meeting['geoId'];
     let existing = allMeetings[key];

@@ -34,7 +34,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -73,7 +72,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -112,7 +110,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -151,9 +148,84 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "02938119-43E5-47BC-BE55-10675258B0E3",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 7.09058,
+      "longitude": 80.028863
+    },
+    "properties": {
+      "orgGuid": "02938119-43E5-47BC-BE55-10675258B0E3",
+      "orgName": "Gampaha Congregation, Gampaha",
+      "orgType": "CONG",
+      "orgTransliteratedName": "ගම්පහ සභාව,  ගම්පහ (109)",
+      "address": "19A\r\nKurunegala Watta Road\r\nYakkala WP 11870\r\n",
+      "languageCode": "SN",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "08:30"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "18:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "Sampath Fernando - 774108806",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
+  },
+  {
+    "geoId": "FA95C25F-4004-495C-85ED-DE29AEE38907",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 7.09058,
+      "longitude": 80.028863
+    },
+    "properties": {
+      "orgGuid": "FA95C25F-4004-495C-85ED-DE29AEE38907",
+      "orgName": "Weliweriya Congregation, Gampaha",
+      "orgType": "CONG",
+      "orgTransliteratedName": "වැලිවේරිය සභාව, ගම්පහ (1511)",
+      "address": "19A\r\nKurunegala Watta Road\r\nYakkala WP 11870\r\n",
+      "languageCode": "SN",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "11:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "17:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0773087368",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "2FAC06FA-11D0-4F5C-9459-5BE35DEECFD3",
@@ -190,7 +262,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -229,9 +300,46 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "893BE4CD-9421-4E94-83E3-FA5132957FBC",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 7.473705,
+      "longitude": 80.04551
+    },
+    "properties": {
+      "orgGuid": "893BE4CD-9421-4E94-83E3-FA5132957FBC",
+      "orgName": "Kuliyapitiya Congregation, Kurunegala",
+      "orgType": "CONG",
+      "orgTransliteratedName": "කුලියාපිටිය සභාව, කුරුණෑගල (455)",
+      "address": "56\r\nJayanthi Mawatha\r\nHettipola Road\r\nKuliyapitiya NWP 60200\r\n",
+      "languageCode": "SN",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 5,
+            "time": "16:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0777769620",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "1836C477-99EF-4242-B098-1893D4167C44",
@@ -268,9 +376,46 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "0EF11AE5-BFB7-402A-96E9-392DD745EB3B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 7.478876,
+      "longitude": 80.35244
+    },
+    "properties": {
+      "orgGuid": "0EF11AE5-BFB7-402A-96E9-392DD745EB3B",
+      "orgName": "Kurunegala Congregation, Kurunegala",
+      "orgType": "CONG",
+      "orgTransliteratedName": "කුරුණෑගල සභාව, කුරුණෑගල (430)",
+      "address": "299/26\r\nNidahas Mawatha\r\nNegombo Road\r\nMalkaduwawa\r\nKurunegala NWP 60000\r\n",
+      "languageCode": "SN",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "17:30"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "0778409075",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "E4945B67-75D0-4CCB-8859-A85945E369BA",
@@ -315,7 +460,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -354,7 +498,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -393,7 +536,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -431,7 +573,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -470,9 +611,46 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  {
+    "geoId": "980DA5BA-5BC9-4BBC-AB6A-6E96123805C8",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 7.96652,
+      "longitude": 81.03485
+    },
+    "properties": {
+      "orgGuid": "980DA5BA-5BC9-4BBC-AB6A-6E96123805C8",
+      "orgName": "Polonnaruwa Congregation, Polonnaruwa",
+      "orgType": "CONG",
+      "orgTransliteratedName": "පොළොන්නරුව සභාව, පොළොන්නරුව (349)",
+      "address": "198/3\r\nSomawathiya Road\r\nSewagama\r\nPolonnaruwa NCP 51000\r\n",
+      "languageCode": "SN",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "09:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "15:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "077-4738468",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "active": true,
+    "firstSeen": "2022-12-04T02:43:02.995Z"
   },
   {
     "geoId": "001212F2-52F3-4637-9E94-DA821BA62AC1",
@@ -510,7 +688,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -550,7 +727,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   },
@@ -590,7 +766,6 @@
       ],
       "isPrivateMtgPlace": false
     },
-    "lastSeen": "2022-12-03T17:38:54.281Z",
     "active": true,
     "firstSeen": "2022-12-02T17:31:33.254Z"
   }
