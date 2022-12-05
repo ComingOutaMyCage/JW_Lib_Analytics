@@ -68,15 +68,21 @@
 </head>
 <body>
 <script>InsertNav();</script>
+<script async src="//static.getclicky.com/101371960.js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101371960ns.gif" /></p></noscript>
 
 <script src="https://maps.google.com/maps/api/js?key=AIzaSyCb4cJ1PN3KmgQw8Kaxt-XIUvXbbFCZsC0" type="text/javascript"></script>
 <!--<script src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>-->
-<script src="https://unpkg.com/@googlemaps/markerclustererplus/dist/index.min.js"></script>
+<script src="node_modules/@googlemaps/markerclustererplus/dist/index.min.js"></script>
 <!--<script src="https://unpkg.com/supercluster@7.1.2/dist/supercluster.min.js"></script>-->
 
 <div style="overflow: hidden;">
-    <div id="stats" style="    display: flex; align-items: center; gap: 1em;">
-        <h1>Total Active <span id="total">...</span></h1>
+    <div style="display: flex; gap: 0.3rem; flex-flow: wrap;">
+        <div id="stats" style="display: flex; align-items: center; gap: 1rem; flex: 1; flex-flow: wrap; min-width: 300px">
+            <h3>Total Active <span id="total">...</span></h3>
+        </div>
+
+        <button class="btn btn-outline-dark d-none d-lg-block" onclick="LoadAll()">Pre-Load All (HEAVY)</button>
     </div>
     <div style="height: 90vh; width: 100%;">
         <div id="map" style="width: 100%; height: 100%"></div>
@@ -187,7 +193,6 @@
             });
             google.maps.event.addListener(markerCluster, "mouseover", function (c) {
                 markerCluster.zoomOnClick_ = !markersSamePosition(c.getMarkers());
-
                 console.log("zoomOnClick", markerCluster.zoomOnClick_);
             });
             function markersSamePosition(markers){
