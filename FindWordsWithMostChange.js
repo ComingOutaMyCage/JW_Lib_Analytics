@@ -57,11 +57,23 @@ periods.forEach(period => {
             listYears.forEach(year=>{
                 let yearTotal = (yearsDict[year] ?? 0);
                 sumTotal += yearTotal;
-                allYears.push({ year: year, count: yearTotal, normalised: yearTotal / normalsForYears[year] * 100000});
+                allYears.push({ year: year, count: yearTotal, normalised: (yearTotal / normalsForYears[year]) * 100000});
             });
-            // if (sumTotal < allYears.length) return;
+            if (sumTotal < allYears.length * 4) return;
             let [slope, intercept] = linearRegression(allYears, 'year', 'normalised');
-            let result = { word: word, slope: slope.round(3), intercept: intercept };
+
+            let est1 = slope * listYears[0] + intercept
+            let est2 = slope * listYears[listYears.length - 1] + intercept;
+            if(est1 < 0)
+                est1 = 0;
+            if(est2 < 0)
+                est2 = 0;
+            let rawChange = est2 - est1;
+            let percentChange = ((est2 - est1) / est1) * 100;
+            percentChange = percentChange.round(0);
+            if(percentChange === null) return;
+
+            let result = { word: word, change: percentChange.round(3), rawChange: rawChange };
             wordsMorePop.push(result);
             wordsLessPop.push(result);
             if (wordCount++ > sortAt){
@@ -74,19 +86,25 @@ periods.forEach(period => {
         console.log(file);
     });
     function SortResultsDesc(words){
-        words.sort((a, b) => b.slope - a.slope);//Increased
+        words.sort((a, b) => {
+            if(a.change === b.change) return b.rawChange > a.rawChange ? 1 : -1;
+            return b.change - a.change;
+        });//Increased
         return words.slice(0, maxResults);
     }
     function SortResultsAsc(words) {
-        words.sort((a, b) => a.slope - b.slope);//Decreased
+        words.sort((a, b) => {
+            if(a.change === b.change) return a.rawChange > b.rawChange ? 1 : -1;
+            return a.change - b.change;
+        });//Decreased
         return words.slice(0, maxResults);
     }
 
     wordsMorePop = SortResultsDesc(wordsMorePop);
     wordsLessPop = SortResultsAsc(wordsLessPop);
 
-    wordsMorePop = wordsMorePop.filter(w => Math.abs(w.slope) > 1.5);
-    wordsLessPop = wordsLessPop.filter(w => Math.abs(w.slope) > 1.5);
+    wordsMorePop = wordsMorePop.filter(w => w.change);
+    wordsLessPop = wordsLessPop.filter(w => w.change);
 
     console.log(period);
     // console.log("More Popular");
@@ -95,8 +113,8 @@ periods.forEach(period => {
     // wordsLessPop.slice(0, 30).forEach(w => console.log(w));
     // console.log("Done");
 
-    wordsMorePop = Object.assign({}, ...wordsMorePop.map((x) => ({ [x.word]: x.slope })));
-    wordsLessPop = Object.assign({}, ...wordsLessPop.map((x) => ({ [x.word]: x.slope })));
+    wordsMorePop = Object.assign({}, ...wordsMorePop.map((x) => ({ [x.word]: Math.max(-100, x.change) })));
+    wordsLessPop = Object.assign({}, ...wordsLessPop.map((x) => ({ [x.word]: Math.max(-100, x.change) })));
 
     period['morePopular'] = wordsMorePop;
     period['lessPopular'] = wordsLessPop;

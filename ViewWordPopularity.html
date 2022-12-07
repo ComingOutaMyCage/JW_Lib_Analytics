@@ -21,7 +21,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
     <script src="js/pako_deflate.js"></script><script src="js/pako_inflate.js"></script>
-    <script src="js/bible_niv2.js"></script><script src="js/functions.js"></script>
+    <script src="js/bible_nwt.js"></script><script src="js/functions.js"></script>
     <script src="js/most-common-words.js"></script>
     <link href="style.css" rel="stylesheet" >
     <style>
@@ -158,7 +158,9 @@
                 Object.keys(period['lessPopular']).forEach(word=>{
                     let percent = period['lessPopular'][word];
                     if(!showCommonWords && IsCommonWord(word) && word != "we" && percent < 50) return;
-                    let bgColor = "hsl(0, 80%, " + (60 + ((percent - maxUnpop) / (minUnpop - maxUnpop)) * -30) + "%)";
+                    let l = (60 + ((percent - maxUnpop) / (minUnpop - maxUnpop)) * -30);
+                    if(isNaN(l)) l = 0;
+                    let bgColor = `hsl(0, 80%, ${l}%)`;
                     let href = `HeatmapWords.html?words=` + encodeURIComponent(word) + `&publication=Watchtower&normal=Words+In+Year`;
                     html += "<a class='cell' href='" + href + "'><span class='word'>" + word + `</span><span class='change' style='background-color: ${bgColor}'>` + percent.toFixed(1) + "%</span></a>";
                 });
