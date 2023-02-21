@@ -1,1708 +1,1732 @@
 [
-  {
-    "geoId": "63AF1AFA-EB7B-4EAA-AFD5-D6FC1BC924EE",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.961345,
-      "longitude": 14.506148
-    },
-    "properties": {
-      "orgGuid": "63AF1AFA-EB7B-4EAA-AFD5-D6FC1BC924EE",
-      "orgName": "Walvis Bay Congregation",
-      "orgType": "CONG",
-      "address": "45  11th Road\nCnr 11th Rd. and 13th St.\nWALVIS BAY\nNAMIBIA\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081 127 8229 / 081 129 5259",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "63AF1AFA-EB7B-4EAA-AFD5-D6FC1BC924EE",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.961345,
+   "longitude": 14.506148
   },
-  {
-    "geoId": "03E6EAAD-937F-4CC1-B795-C4FAF1478F93",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.951216,
-      "longitude": 14.53501
-    },
-    "properties": {
-      "orgGuid": "03E6EAAD-937F-4CC1-B795-C4FAF1478F93",
-      "orgName": "Kuisebmond Congregation",
-      "orgType": "CONG",
-      "address": "7 Pelican Street\nNarraville\nWALVIS BAY\nNAMIBIA\n",
-      "languageCode": "KY",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "WG"
-      ],
-      "phones": [
-        {
-          "phone": "+264&nbsp;81-269-5583 / +264 812085603",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "63AF1AFA-EB7B-4EAA-AFD5-D6FC1BC924EE",
+   "orgName": "Walvis Bay Congregation",
+   "orgType": "CONG",
+   "address": "45  11th Road\nCnr 11th Rd. and 13th St.\nWALVIS BAY\nNAMIBIA\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081 127 8229 / 081 129 5259",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "9FD8731F-FA33-4D67-9A60-33A916B08D43",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.951216,
-      "longitude": 14.53501
-    },
-    "properties": {
-      "orgGuid": "9FD8731F-FA33-4D67-9A60-33A916B08D43",
-      "orgName": "Narraville Congregation",
-      "orgType": "CONG",
-      "address": "7 Pelican Street\nNarraville\nWALVIS BAY\nNAMIBIA\n",
-      "languageCode": "AF",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+264&nbsp;813474562",
-          "ext": ""
-        },
-        {
-          "phone": "+264&nbsp;813474562",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "03E6EAAD-937F-4CC1-B795-C4FAF1478F93",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.951216,
+   "longitude": 14.53501
   },
-  {
-    "geoId": "F1B243B9-8898-4606-AB71-4EB8B633F511",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.951216,
-      "longitude": 14.53501
-    },
-    "properties": {
-      "orgGuid": "F1B243B9-8898-4606-AB71-4EB8B633F511",
-      "orgName": "Kuisebmond Kwangali Group - Kuisebmond Congregation",
-      "orgType": "GROUP",
-      "address": "7 Pelican Street\nNarraville\nWALVIS BAY\nNAMIBIA\n",
-      "languageCode": "WG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "15:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "KY"
-      ],
-      "phones": [
-        {
-          "phone": "+264&nbsp;81-269-5583 / +264 812085603",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "03E6EAAD-937F-4CC1-B795-C4FAF1478F93",
+   "orgName": "Kuisebmond Congregation",
+   "orgType": "CONG",
+   "address": "7 Pelican Street\nNarraville\nWALVIS BAY\nNAMIBIA\n",
+   "languageCode": "KY",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "WG"
+   ],
+   "phones": [
+    {
+     "phone": "+264&nbsp;81-269-5583 / +264 812085603",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "4C87B1B7-774C-4F62-AD7E-C173A61BD4FC",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.650814,
-      "longitude": 14.544167
-    },
-    "properties": {
-      "orgGuid": "4C87B1B7-774C-4F62-AD7E-C173A61BD4FC",
-      "orgName": "Swakopmund Congregation",
-      "orgType": "CONG",
-      "address": "54 Garnet Street\r\nCnr Garnet & Copper Avenue\r\nTamariskia\r\nSWAKOPMUND\r\nNAMIBIA\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "KY"
-      ],
-      "phones": [
-        {
-          "phone": "+264 811270013 / +264 811286163",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "9FD8731F-FA33-4D67-9A60-33A916B08D43",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.951216,
+   "longitude": 14.53501
   },
-  {
-    "geoId": "D600D6FF-7520-47AF-8B74-2A14B38E4B9F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.650814,
-      "longitude": 14.544167
+  "properties": {
+   "orgGuid": "9FD8731F-FA33-4D67-9A60-33A916B08D43",
+   "orgName": "Narraville Congregation",
+   "orgType": "CONG",
+   "address": "7 Pelican Street\nNarraville\nWALVIS BAY\nNAMIBIA\n",
+   "languageCode": "AF",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+264&nbsp;813474562",
+     "ext": ""
     },
-    "properties": {
-      "orgGuid": "D600D6FF-7520-47AF-8B74-2A14B38E4B9F",
-      "orgName": "Swakopmund Afrikaans Congregation",
-      "orgType": "CONG",
-      "address": "54 Garnet Street\r\nCnr Garnet & Copper Avenue\r\nTamariskia\r\nSWAKOPMUND\r\nNAMIBIA\r\n",
-      "languageCode": "AF",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "DMR"
-      ],
-      "phones": [
-        {
-          "phone": "0811246517",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+    {
+     "phone": "+264&nbsp;813474562",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "A4754AD5-D19A-4C13-B37D-1A61ADA48A5E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.650814,
-      "longitude": 14.544167
-    },
-    "properties": {
-      "orgGuid": "A4754AD5-D19A-4C13-B37D-1A61ADA48A5E",
-      "orgName": "Swakopmund Kwanyama Group - Swakopmund Congregation",
-      "orgType": "GROUP",
-      "address": "54 Garnet Street\r\nCnr Garnet & Copper Avenue\r\nTamariskia\r\nSWAKOPMUND\r\nNAMIBIA\r\n",
-      "languageCode": "KY",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "E"
-      ],
-      "phones": [
-        {
-          "phone": "+264 811270013 / +264 811286163",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "F1B243B9-8898-4606-AB71-4EB8B633F511",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.951216,
+   "longitude": 14.53501
   },
-  {
-    "geoId": "BC8479F1-247C-44CD-8C40-DEB2B0499B39",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.650814,
-      "longitude": 14.544167
-    },
-    "properties": {
-      "orgGuid": "BC8479F1-247C-44CD-8C40-DEB2B0499B39",
-      "orgName": "Swakopmund Damara Group - Swakopmund Afrikaans Congregation",
-      "orgType": "GROUP",
-      "address": "54 Garnet Street\r\nCnr Garnet & Copper Avenue\r\nTamariskia\r\nSWAKOPMUND\r\nNAMIBIA\r\n",
-      "languageCode": "DMR",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "AF"
-      ],
-      "phones": [
-        {
-          "phone": "0811246517",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "F1B243B9-8898-4606-AB71-4EB8B633F511",
+   "orgName": "Kuisebmond Kwangali Group - Kuisebmond Congregation",
+   "orgType": "GROUP",
+   "address": "7 Pelican Street\nNarraville\nWALVIS BAY\nNAMIBIA\n",
+   "languageCode": "WG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "KY"
+   ],
+   "phones": [
+    {
+     "phone": "+264&nbsp;81-269-5583 / +264 812085603",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "B3E93727-78F4-43DB-A27E-BFB216C75B36",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.650814,
-      "longitude": 14.544167
-    },
-    "properties": {
-      "orgGuid": "B3E93727-78F4-43DB-A27E-BFB216C75B36",
-      "orgName": "Henties Bay Congregation",
-      "orgType": "CONG",
-      "address": "54 Garnet Street\r\nCnr Garnet & Copper Avenue\r\nTamariskia\r\nSWAKOPMUND\r\nNAMIBIA\r\n",
-      "languageCode": "AF",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+264814737888 / +264812995836",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4C87B1B7-774C-4F62-AD7E-C173A61BD4FC",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.650814,
+   "longitude": 14.544167
   },
-  {
-    "geoId": "315AE531-3BEE-404B-AF36-FB1F6DE4D9ED",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.420089,
-      "longitude": 14.976503
-    },
-    "properties": {
-      "orgGuid": "315AE531-3BEE-404B-AF36-FB1F6DE4D9ED",
-      "orgName": "Arandis Congregation",
-      "orgType": "CONG",
-      "address": "723 Lark Street\nARANDIS\nNAMIBIA\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081268182",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "4C87B1B7-774C-4F62-AD7E-C173A61BD4FC",
+   "orgName": "Swakopmund Congregation",
+   "orgType": "CONG",
+   "address": "54 Garnet Street\r\nCnr Garnet & Copper Avenue\r\nTamariskia\r\nSWAKOPMUND\r\nNAMIBIA\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "KY"
+   ],
+   "phones": [
+    {
+     "phone": "+264 811270013 / +264 811286163",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "16818ECF-6790-400F-A3E6-D7F98226ED0A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -21.972869,
-      "longitude": 15.591336
-    },
-    "properties": {
-      "orgGuid": "16818ECF-6790-400F-A3E6-D7F98226ED0A",
-      "orgName": "Usakos Congregation",
-      "orgType": "CONG",
-      "address": "Erf 41 Sonop Street, Erongosig\r\nUsakos\r\nKARIBIB\r\nNAMIBIA\r\n",
-      "languageCode": "DMR",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0812922465 / 0817316431",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "D600D6FF-7520-47AF-8B74-2A14B38E4B9F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.650814,
+   "longitude": 14.544167
   },
-  {
-    "geoId": "3C36AD43-D029-4304-B7E0-09690F63B6CD",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -21.936254,
-      "longitude": 15.841501
-    },
-    "properties": {
-      "orgGuid": "3C36AD43-D029-4304-B7E0-09690F63B6CD",
-      "orgName": "Karibib Congregation",
-      "orgType": "CONG",
-      "address": "Farm Karibib 54\nKARIBIB\nKARIBIB\nNAMIBIA\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+264817652943",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "D600D6FF-7520-47AF-8B74-2A14B38E4B9F",
+   "orgName": "Swakopmund Afrikaans Congregation",
+   "orgType": "CONG",
+   "address": "54 Garnet Street\r\nCnr Garnet & Copper Avenue\r\nTamariskia\r\nSWAKOPMUND\r\nNAMIBIA\r\n",
+   "languageCode": "AF",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "DMR"
+   ],
+   "phones": [
+    {
+     "phone": "0811246517",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "F374E0CC-631E-4A51-AD47-3E3CAB893817",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -21.420093,
-      "longitude": 15.95453
-    },
-    "properties": {
-      "orgGuid": "F374E0CC-631E-4A51-AD47-3E3CAB893817",
-      "orgName": "Omaruru Congregation",
-      "orgType": "CONG",
-      "address": "Jacaranda Business Park\r\nWilhelm Zeraua Street\r\nOMARURU\r\nNAMIBIA\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+264&nbsp;81 3198460 / +264 813440424",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A4754AD5-D19A-4C13-B37D-1A61ADA48A5E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.650814,
+   "longitude": 14.544167
   },
-  {
-    "geoId": "FC367E68-E0FF-4AAA-ADFE-463DB9074EC6",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.286003,
-      "longitude": 14.53216
-    },
-    "properties": {
-      "orgGuid": "FC367E68-E0FF-4AAA-ADFE-463DB9074EC6",
-      "orgName": "Kalueque",
-      "orgType": "CONG",
-      "address": "N/A\r\nOmbandja\r\nANGOLA\r\n",
-      "languageCode": "TPO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "943266731",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "A4754AD5-D19A-4C13-B37D-1A61ADA48A5E",
+   "orgName": "Swakopmund Kwanyama Group - Swakopmund Congregation",
+   "orgType": "GROUP",
+   "address": "54 Garnet Street\r\nCnr Garnet & Copper Avenue\r\nTamariskia\r\nSWAKOPMUND\r\nNAMIBIA\r\n",
+   "languageCode": "KY",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "E"
+   ],
+   "phones": [
+    {
+     "phone": "+264 811270013 / +264 811286163",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "D796EAA1-169A-4401-B3E4-47625E78123B",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.193929,
-      "longitude": 13.599838
-    },
-    "properties": {
-      "orgGuid": "D796EAA1-169A-4401-B3E4-47625E78123B",
-      "orgName": "Nyaneka Nyanlukekete",
-      "orgType": "CONG",
-      "address": "Chiange\r\nANGOLA\r\n",
-      "languageCode": "NK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "13:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "13:00"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "BC8479F1-247C-44CD-8C40-DEB2B0499B39",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.650814,
+   "longitude": 14.544167
   },
-  {
-    "geoId": "33209464-0C80-4A59-BEA4-13207F23FD1E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.502429,
-      "longitude": 13.925256
-    },
-    "properties": {
-      "orgGuid": "33209464-0C80-4A59-BEA4-13207F23FD1E",
-      "orgName": "Nyaneka Otchinjau - Nyaneka Kahama",
-      "orgType": "GROUP",
-      "address": "Rua principal de Otchinjau\r\nCahama\r\nANGOLA\r\n",
-      "languageCode": "NK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "14:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "921592669",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "BC8479F1-247C-44CD-8C40-DEB2B0499B39",
+   "orgName": "Swakopmund Damara Group - Swakopmund Afrikaans Congregation",
+   "orgType": "GROUP",
+   "address": "54 Garnet Street\r\nCnr Garnet & Copper Avenue\r\nTamariskia\r\nSWAKOPMUND\r\nNAMIBIA\r\n",
+   "languageCode": "DMR",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "AF"
+   ],
+   "phones": [
+    {
+     "phone": "0811246517",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "8D93A08B-B9AB-417B-BB6F-0D357F39F7E2",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.126101,
-      "longitude": 13.749927
-    },
-    "properties": {
-      "orgGuid": "8D93A08B-B9AB-417B-BB6F-0D357F39F7E2",
-      "orgName": "Nyaneka Kovihanda - Nyaneka Vitengua",
-      "orgType": "GROUP",
-      "address": "Chiange\r\nANGOLA\r\n",
-      "languageCode": "NK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "12:00"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B3E93727-78F4-43DB-A27E-BFB216C75B36",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.650814,
+   "longitude": 14.544167
   },
-  {
-    "geoId": "A76DD703-7147-4B2E-919C-2FA728267445",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.154579,
-      "longitude": 14.032938
-    },
-    "properties": {
-      "orgGuid": "A76DD703-7147-4B2E-919C-2FA728267445",
-      "orgName": "Nyaneka Kandeva",
-      "orgType": "CONG",
-      "address": "Cahama\r\nANGOLA\r\n",
-      "languageCode": "NK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "12:00"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "B3E93727-78F4-43DB-A27E-BFB216C75B36",
+   "orgName": "Henties Bay Congregation",
+   "orgType": "CONG",
+   "address": "54 Garnet Street\r\nCnr Garnet & Copper Avenue\r\nTamariskia\r\nSWAKOPMUND\r\nNAMIBIA\r\n",
+   "languageCode": "AF",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+264814737888 / +264812995836",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "443ABA7E-C1F0-4ED2-971A-4704EB317D42",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.780293,
-      "longitude": 15.686644
-    },
-    "properties": {
-      "orgGuid": "443ABA7E-C1F0-4ED2-971A-4704EB317D42",
-      "orgName": "Oshakati Congregation",
-      "orgType": "CONG",
-      "address": "Eliander Mwatale Street\nOSHAKATI\nNAMIBIA\n",
-      "languageCode": "KY",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+264&nbsp;811284085 / +264 0812568507",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "315AE531-3BEE-404B-AF36-FB1F6DE4D9ED",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.420089,
+   "longitude": 14.976503
   },
-  {
-    "geoId": "AF0F3907-19F6-4589-B321-DD59B63AE870",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.780293,
-      "longitude": 15.686644
-    },
-    "properties": {
-      "orgGuid": "AF0F3907-19F6-4589-B321-DD59B63AE870",
-      "orgName": "Outapi Kwanyama Group - Oshakati West Congregation",
-      "orgType": "GROUP",
-      "address": "Eliander Mwatale Street\nOSHAKATI\nNAMIBIA\n",
-      "languageCode": "KY",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "OD"
-      ],
-      "phones": [
-        {
-          "phone": "0812873336",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "315AE531-3BEE-404B-AF36-FB1F6DE4D9ED",
+   "orgName": "Arandis Congregation",
+   "orgType": "CONG",
+   "address": "723 Lark Street\nARANDIS\nNAMIBIA\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081268182",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "E1246B7A-972A-403C-9EA1-8CAA730DA218",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.780293,
-      "longitude": 15.686644
-    },
-    "properties": {
-      "orgGuid": "E1246B7A-972A-403C-9EA1-8CAA730DA218",
-      "orgName": "Oshakati West Congregation",
-      "orgType": "CONG",
-      "address": "Eliander Mwatale Street\nOSHAKATI\nNAMIBIA\n",
-      "languageCode": "OD",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "KY"
-      ],
-      "phones": [
-        {
-          "phone": "0812873336",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "16818ECF-6790-400F-A3E6-D7F98226ED0A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -21.972869,
+   "longitude": 15.591336
   },
-  {
-    "geoId": "B6F321AE-C5F6-45A6-800A-610BCB020242",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.075665,
-      "longitude": 14.028668
-    },
-    "properties": {
-      "orgGuid": "B6F321AE-C5F6-45A6-800A-610BCB020242",
-      "orgName": "Nyaneka Ékundjo - Nyaneka Kandeva",
-      "orgType": "GROUP",
-      "address": "Chiange\r\nANGOLA\r\n",
-      "languageCode": "NK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": null,
-            "time": null
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "16818ECF-6790-400F-A3E6-D7F98226ED0A",
+   "orgName": "Usakos Congregation",
+   "orgType": "CONG",
+   "address": "Erf 41 Sonop Street, Erongosig\r\nUsakos\r\nKARIBIB\r\nNAMIBIA\r\n",
+   "languageCode": "DMR",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0812922465 / 0817316431",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "12E7EB3A-9BBB-4FDA-8761-216E7038A5D0",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.76416,
-      "longitude": 15.75966
-    },
-    "properties": {
-      "orgGuid": "12E7EB3A-9BBB-4FDA-8761-216E7038A5D0",
-      "orgName": "Ongwediva Congregation",
-      "orgType": "CONG",
-      "address": "ERF 4219\r\nCorner Mandume Ndemufayo & Ardooie Streets\r\nONGWEDIVA\r\nNAMIBIA\r\n",
-      "languageCode": "KY",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+264 813027207 / +264 816991555",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3C36AD43-D029-4304-B7E0-09690F63B6CD",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -21.936254,
+   "longitude": 15.841501
   },
-  {
-    "geoId": "DEEEE27C-B3D7-48A0-803C-4F56503A1248",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.76416,
-      "longitude": 15.75966
-    },
-    "properties": {
-      "orgGuid": "DEEEE27C-B3D7-48A0-803C-4F56503A1248",
-      "orgName": "Ongwediva West Congregation",
-      "orgType": "CONG",
-      "address": "ERF 4219\r\nCorner Mandume Ndemufayo & Ardooie Streets\r\nONGWEDIVA\r\nNAMIBIA\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+264 814715774 / +264 817058240",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "3C36AD43-D029-4304-B7E0-09690F63B6CD",
+   "orgName": "Karibib Congregation",
+   "orgType": "CONG",
+   "address": "Farm Karibib 54\nKARIBIB\nKARIBIB\nNAMIBIA\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+264817652943",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "7B693ED2-1CC5-436E-B9F2-AB716B17DBF4",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.26864,
-      "longitude": 14.29445
-    },
-    "properties": {
-      "orgGuid": "7B693ED2-1CC5-436E-B9F2-AB716B17DBF4",
-      "orgName": "Cahama",
-      "orgType": "CONG",
-      "address": "Estrada Nacional, Lubango - Xangongo, Ondjiva\r\nA direita antes de chegar a sede da Cahama.\r\nCahama\r\nANGOLA\r\n",
-      "languageCode": "TPO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922 932 101/ 942134462",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "F374E0CC-631E-4A51-AD47-3E3CAB893817",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -21.420093,
+   "longitude": 15.95453
   },
-  {
-    "geoId": "0B5218EB-F973-49E3-9353-C5AD133C0C3C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.26864,
-      "longitude": 14.29445
-    },
-    "properties": {
-      "orgGuid": "0B5218EB-F973-49E3-9353-C5AD133C0C3C",
-      "orgName": "Nyaneka Kahama",
-      "orgType": "CONG",
-      "address": "Estrada Nacional, Lubango - Xangongo, Ondjiva\r\nA direita antes de chegar a sede da Cahama.\r\nCahama\r\nANGOLA\r\n",
-      "languageCode": "NK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "15:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "921592669",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "F374E0CC-631E-4A51-AD47-3E3CAB893817",
+   "orgName": "Omaruru Congregation",
+   "orgType": "CONG",
+   "address": "Jacaranda Business Park\r\nWilhelm Zeraua Street\r\nOMARURU\r\nNAMIBIA\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+264&nbsp;81 3198460 / +264 813440424",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "AD40BE8E-7041-4833-A4D9-960D09B0E372",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.545446,
-      "longitude": 15.5862
-    },
-    "properties": {
-      "orgGuid": "AD40BE8E-7041-4833-A4D9-960D09B0E372",
-      "orgName": "Ondangwa Congregation",
-      "orgType": "CONG",
-      "address": "110 Hibiscus Street\r\nErf 2310\r\nExtension 7\r\nONDANGWA\r\n9000\r\nNAMIBIA\r\n",
-      "languageCode": "KY",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "OD"
-      ],
-      "phones": [
-        {
-          "phone": "+264 812804681/ +264 812125003",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "FC367E68-E0FF-4AAA-ADFE-463DB9074EC6",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.286003,
+   "longitude": 14.53216
   },
-  {
-    "geoId": "86D8CDF5-F85E-451E-B8E3-7E3AEA0AAD60",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.545446,
-      "longitude": 15.5862
-    },
-    "properties": {
-      "orgGuid": "86D8CDF5-F85E-451E-B8E3-7E3AEA0AAD60",
-      "orgName": "Ondagwa Ndonga Group - Ondangwa Congregation",
-      "orgType": "GROUP",
-      "address": "110 Hibiscus Street\r\nErf 2310\r\nExtension 7\r\nONDANGWA\r\n9000\r\nNAMIBIA\r\n",
-      "languageCode": "OD",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "KY"
-      ],
-      "phones": [
-        {
-          "phone": "+264 812804681/ +264 812125003",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "FC367E68-E0FF-4AAA-ADFE-463DB9074EC6",
+   "orgName": "Kalueque",
+   "orgType": "CONG",
+   "address": "N/A\r\nOmbandja\r\nANGOLA\r\n",
+   "languageCode": "TPO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "943266731",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "BD65D1F2-F14F-43B2-BF54-610EE017D0A2",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.023442,
-      "longitude": 14.078616
-    },
-    "properties": {
-      "orgGuid": "BD65D1F2-F14F-43B2-BF54-610EE017D0A2",
-      "orgName": "Nyaneka Tchinana",
-      "orgType": "CONG",
-      "address": "Chiange\r\nANGOLA\r\n",
-      "languageCode": "NK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "15:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+244&nbsp;947 208 658",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "D796EAA1-169A-4401-B3E4-47625E78123B",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.193929,
+   "longitude": 13.599838
   },
-  {
-    "geoId": "BA6F0FFE-0EA3-4FA0-9CB7-B4FE8D1BF2B0",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.74407,
-      "longitude": 14.98108
-    },
-    "properties": {
-      "orgGuid": "BA6F0FFE-0EA3-4FA0-9CB7-B4FE8D1BF2B0",
-      "orgName": "Xangongo",
-      "orgType": "CONG",
-      "address": "Município Sede, próximo ao estádio de futebol\r\nXangongo\r\nANGOLA\r\n",
-      "languageCode": "TPO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "945 145 546",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "D796EAA1-169A-4401-B3E4-47625E78123B",
+   "orgName": "Nyaneka Nyanlukekete",
+   "orgType": "CONG",
+   "address": "Chiange\r\nANGOLA\r\n",
+   "languageCode": "NK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "13:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "13:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "F79F99FE-31A0-4804-8BB5-C99185A81A51",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.542781,
-      "longitude": 14.846446
-    },
-    "properties": {
-      "orgGuid": "F79F99FE-31A0-4804-8BB5-C99185A81A51",
-      "orgName": "Chiulo - Xangongo",
-      "orgType": "GROUP",
-      "address": "Kakombe\r\nOmbandja\r\nANGOLA\r\n",
-      "languageCode": "TPO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "945 145 546",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "33209464-0C80-4A59-BEA4-13207F23FD1E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.502429,
+   "longitude": 13.925256
   },
-  {
-    "geoId": "80008597-BC24-4CC7-8E98-2C8A5E2F07A5",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.52689,
-      "longitude": 15.902041
-    },
-    "properties": {
-      "orgGuid": "80008597-BC24-4CC7-8E98-2C8A5E2F07A5",
-      "orgName": "Onhuno Congregation",
-      "orgType": "CONG",
-      "address": "Main Road\r\nopposite Police road block\r\nOnhuno\r\nONDANGWA\r\nNAMIBIA\r\n",
-      "languageCode": "KY",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "00264813554566",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "33209464-0C80-4A59-BEA4-13207F23FD1E",
+   "orgName": "Nyaneka Otchinjau - Nyaneka Kahama",
+   "orgType": "GROUP",
+   "address": "Rua principal de Otchinjau\r\nCahama\r\nANGOLA\r\n",
+   "languageCode": "NK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "14:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "921592669",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "1CFA68A5-6612-45C5-94B6-46FEDCAAB78E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.38146,
-      "longitude": 15.890922
-    },
-    "properties": {
-      "orgGuid": "1CFA68A5-6612-45C5-94B6-46FEDCAAB78E",
-      "orgName": "Santa Clara 01",
-      "orgType": "CONG",
-      "address": "Santa Clara\r\nOmbandja\r\nANGOLA\r\n",
-      "languageCode": "TPO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "KY"
-      ],
-      "phones": [
-        {
-          "phone": "934565119",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "8D93A08B-B9AB-417B-BB6F-0D357F39F7E2",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.126101,
+   "longitude": 13.749927
   },
-  {
-    "geoId": "9FF2E37D-7872-4E02-BFA5-8A1888ECCC6C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.38146,
-      "longitude": 15.890922
-    },
-    "properties": {
-      "orgGuid": "9FF2E37D-7872-4E02-BFA5-8A1888ECCC6C",
-      "orgName": "Santa Clara 02",
-      "orgType": "CONG",
-      "address": "Santa Clara\r\nOmbandja\r\nANGOLA\r\n",
-      "languageCode": "TPO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "921910265",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "8D93A08B-B9AB-417B-BB6F-0D357F39F7E2",
+   "orgName": "Nyaneka Kovihanda - Nyaneka Vitengua",
+   "orgType": "GROUP",
+   "address": "Chiange\r\nANGOLA\r\n",
+   "languageCode": "NK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "12:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "49E81768-8158-41F1-B4B1-1C0CDFFC32E9",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.38146,
-      "longitude": 15.890922
-    },
-    "properties": {
-      "orgGuid": "49E81768-8158-41F1-B4B1-1C0CDFFC32E9",
-      "orgName": "Kwanyama Santa Clara 01 - Santa Clara 01",
-      "orgType": "GROUP",
-      "address": "Santa Clara\r\nOmbandja\r\nANGOLA\r\n",
-      "languageCode": "KY",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": null,
-            "time": null
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "TPO"
-      ],
-      "phones": [
-        {
-          "phone": "934565119",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A76DD703-7147-4B2E-919C-2FA728267445",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.154579,
+   "longitude": 14.032938
   },
-  {
-    "geoId": "95003B3D-BDE6-46C3-B134-03FD8A971CC7",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.31518,
-      "longitude": 15.847892
-    },
-    "properties": {
-      "orgGuid": "95003B3D-BDE6-46C3-B134-03FD8A971CC7",
-      "orgName": "Namacunde",
-      "orgType": "CONG",
-      "address": "N-03\r\nNamacunde\r\nANGOLA\r\n",
-      "languageCode": "TPO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "923272164",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "A76DD703-7147-4B2E-919C-2FA728267445",
+   "orgName": "Nyaneka Kandeva",
+   "orgType": "CONG",
+   "address": "Cahama\r\nANGOLA\r\n",
+   "languageCode": "NK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "12:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "1B6ECC0F-1DFB-42C1-879A-2DB3E961854F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.07956,
-      "longitude": 15.70468
-    },
-    "properties": {
-      "orgGuid": "1B6ECC0F-1DFB-42C1-879A-2DB3E961854F",
-      "orgName": "Ondjiva 01",
-      "orgType": "CONG",
-      "address": "Ondjiva\r\nDepois do Mercado da Alemanha\r\nOndjiva\r\nANGOLA\r\n",
-      "languageCode": "TPO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "924221651/921169677",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "443ABA7E-C1F0-4ED2-971A-4704EB317D42",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.780293,
+   "longitude": 15.686644
   },
-  {
-    "geoId": "379F5784-7B34-4A40-8C85-F0D9009F7A0F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.07956,
-      "longitude": 15.70468
-    },
-    "properties": {
-      "orgGuid": "379F5784-7B34-4A40-8C85-F0D9009F7A0F",
-      "orgName": "Ondjiva 04",
-      "orgType": "CONG",
-      "address": "Ondjiva\r\nDepois do Mercado da Alemanha\r\nOndjiva\r\nANGOLA\r\n",
-      "languageCode": "TPO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "925329870",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "443ABA7E-C1F0-4ED2-971A-4704EB317D42",
+   "orgName": "Oshakati Congregation",
+   "orgType": "CONG",
+   "address": "Eliander Mwatale Street\nOSHAKATI\nNAMIBIA\n",
+   "languageCode": "KY",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+264&nbsp;811284085 / +264 0812568507",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "9F6B3683-C519-4B12-BF76-D65A47AE5C04",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.067965,
-      "longitude": 15.694734
-    },
-    "properties": {
-      "orgGuid": "9F6B3683-C519-4B12-BF76-D65A47AE5C04",
-      "orgName": "Kakuluvale",
-      "orgType": "CONG",
-      "address": "Bairro Kakuluvale\r\nOndjiva\r\nANGOLA\r\n",
-      "languageCode": "TPO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+244&nbsp;942740903",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "AF0F3907-19F6-4589-B321-DD59B63AE870",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.780293,
+   "longitude": 15.686644
   },
-  {
-    "geoId": "4AA71860-EB3F-4B2F-974C-D6C78000B6A5",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.067965,
-      "longitude": 15.694734
-    },
-    "properties": {
-      "orgGuid": "4AA71860-EB3F-4B2F-974C-D6C78000B6A5",
-      "orgName": "Kwanyama Ondjiva",
-      "orgType": "CONG",
-      "address": "Bairro Kakuluvale\r\nOndjiva\r\nANGOLA\r\n",
-      "languageCode": "KY",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "925010602",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "AF0F3907-19F6-4589-B321-DD59B63AE870",
+   "orgName": "Outapi Kwanyama Group - Oshakati West Congregation",
+   "orgType": "GROUP",
+   "address": "Eliander Mwatale Street\nOSHAKATI\nNAMIBIA\n",
+   "languageCode": "KY",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "OD"
+   ],
+   "phones": [
+    {
+     "phone": "0812873336",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "A5231C35-D53C-41A3-922D-7BA93D298C6A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.092443,
-      "longitude": 15.748645
-    },
-    "properties": {
-      "orgGuid": "A5231C35-D53C-41A3-922D-7BA93D298C6A",
-      "orgName": "Ondjiva 03",
-      "orgType": "CONG",
-      "address": "Estrada Ondjiva Santa Clara\r\nDefronte ao Instituto Politécnico\r\nOndjiva\r\nANGOLA\r\n",
-      "languageCode": "TPO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "925 126 859",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "E1246B7A-972A-403C-9EA1-8CAA730DA218",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.780293,
+   "longitude": 15.686644
   },
-  {
-    "geoId": "8963677B-7FA7-45A0-A2FE-16BF2EAD1A2D",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.092443,
-      "longitude": 15.748645
-    },
-    "properties": {
-      "orgGuid": "8963677B-7FA7-45A0-A2FE-16BF2EAD1A2D",
-      "orgName": "Ondjiva 05",
-      "orgType": "CONG",
-      "address": "Estrada Ondjiva Santa Clara\r\nDefronte ao Instituto Politécnico\r\nOndjiva\r\nANGOLA\r\n",
-      "languageCode": "TPO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "923344841",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "E1246B7A-972A-403C-9EA1-8CAA730DA218",
+   "orgName": "Oshakati West Congregation",
+   "orgType": "CONG",
+   "address": "Eliander Mwatale Street\nOSHAKATI\nNAMIBIA\n",
+   "languageCode": "OD",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "KY"
+   ],
+   "phones": [
+    {
+     "phone": "0812873336",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "9FC31DE1-3127-4269-8BEF-41FB156103E6",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.056891,
-      "longitude": 15.72381
-    },
-    "properties": {
-      "orgGuid": "9FC31DE1-3127-4269-8BEF-41FB156103E6",
-      "orgName": "Ondjiva 02",
-      "orgType": "CONG",
-      "address": "Bairro Castilho\r\nOndjiva\r\nANGOLA\r\n",
-      "languageCode": "TPO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "07:30"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "934965589",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B6F321AE-C5F6-45A6-800A-610BCB020242",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.075665,
+   "longitude": 14.028668
   },
-  {
-    "geoId": "EF7F284F-71B9-4747-829D-D89CE881FC49",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.056891,
-      "longitude": 15.72381
-    },
-    "properties": {
-      "orgGuid": "EF7F284F-71B9-4747-829D-D89CE881FC49",
-      "orgName": "Língua de Sinais Ondjiva",
-      "orgType": "CONG",
-      "address": "Bairro Castilho\r\nOndjiva\r\nANGOLA\r\n",
-      "languageCode": "LAS",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:00"
-          },
-          "midweek": {
-            "weekday": 6,
-            "time": "14:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "934137390",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "B6F321AE-C5F6-45A6-800A-610BCB020242",
+   "orgName": "Nyaneka Ékundjo - Nyaneka Kandeva",
+   "orgType": "GROUP",
+   "address": "Chiange\r\nANGOLA\r\n",
+   "languageCode": "NK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": null,
+      "time": null
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "887F17A5-2260-4678-B2C2-BF790DA57BC7",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.048771,
-      "longitude": 15.742659
-    },
-    "properties": {
-      "orgGuid": "887F17A5-2260-4678-B2C2-BF790DA57BC7",
-      "orgName": "Kaxila",
-      "orgType": "CONG",
-      "address": "S/N\r\nCuanhama\r\nANGOLA\r\n",
-      "languageCode": "TPO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:45"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "923642384",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "12E7EB3A-9BBB-4FDA-8761-216E7038A5D0",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.76416,
+   "longitude": 15.75966
+  },
+  "properties": {
+   "orgGuid": "12E7EB3A-9BBB-4FDA-8761-216E7038A5D0",
+   "orgName": "Ongwediva Congregation",
+   "orgType": "CONG",
+   "address": "ERF 4219\r\nCorner Mandume Ndemufayo & Ardooie Streets\r\nONGWEDIVA\r\nNAMIBIA\r\n",
+   "languageCode": "KY",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+264 813027207 / +264 816991555",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "DEEEE27C-B3D7-48A0-803C-4F56503A1248",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.76416,
+   "longitude": 15.75966
+  },
+  "properties": {
+   "orgGuid": "DEEEE27C-B3D7-48A0-803C-4F56503A1248",
+   "orgName": "Ongwediva West Congregation",
+   "orgType": "CONG",
+   "address": "ERF 4219\r\nCorner Mandume Ndemufayo & Ardooie Streets\r\nONGWEDIVA\r\nNAMIBIA\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:45"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+264 814715774 / +264 817058240",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "7B693ED2-1CC5-436E-B9F2-AB716B17DBF4",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.26864,
+   "longitude": 14.29445
+  },
+  "properties": {
+   "orgGuid": "7B693ED2-1CC5-436E-B9F2-AB716B17DBF4",
+   "orgName": "Cahama",
+   "orgType": "CONG",
+   "address": "Estrada Nacional, Lubango - Xangongo, Ondjiva\r\nA direita antes de chegar a sede da Cahama.\r\nCahama\r\nANGOLA\r\n",
+   "languageCode": "TPO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922 932 101/ 942134462",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "0B5218EB-F973-49E3-9353-C5AD133C0C3C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.26864,
+   "longitude": 14.29445
+  },
+  "properties": {
+   "orgGuid": "0B5218EB-F973-49E3-9353-C5AD133C0C3C",
+   "orgName": "Nyaneka Kahama",
+   "orgType": "CONG",
+   "address": "Estrada Nacional, Lubango - Xangongo, Ondjiva\r\nA direita antes de chegar a sede da Cahama.\r\nCahama\r\nANGOLA\r\n",
+   "languageCode": "NK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "15:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "921592669",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "AD40BE8E-7041-4833-A4D9-960D09B0E372",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.914793,
+   "longitude": 15.96844
+  },
+  "properties": {
+   "orgGuid": "AD40BE8E-7041-4833-A4D9-960D09B0E372",
+   "orgName": "Ondangwa Congregation",
+   "orgType": "CONG",
+   "address": "110 Hibiscus Street\r\nErf 2310\r\nExtension 7\r\nONDANGWA\r\n9000\r\nNAMIBIA\r\n",
+   "languageCode": "KY",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "OD"
+   ],
+   "phones": [
+    {
+     "phone": "+264 812804681/ +264 812125003",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "86D8CDF5-F85E-451E-B8E3-7E3AEA0AAD60",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.914793,
+   "longitude": 15.96844
+  },
+  "properties": {
+   "orgGuid": "86D8CDF5-F85E-451E-B8E3-7E3AEA0AAD60",
+   "orgName": "Ondagwa Ndonga Group - Ondangwa Congregation",
+   "orgType": "GROUP",
+   "address": "110 Hibiscus Street\r\nErf 2310\r\nExtension 7\r\nONDANGWA\r\n9000\r\nNAMIBIA\r\n",
+   "languageCode": "OD",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "KY"
+   ],
+   "phones": [
+    {
+     "phone": "+264 812804681/ +264 812125003",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "BD65D1F2-F14F-43B2-BF54-610EE017D0A2",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.023442,
+   "longitude": 14.078616
+  },
+  "properties": {
+   "orgGuid": "BD65D1F2-F14F-43B2-BF54-610EE017D0A2",
+   "orgName": "Nyaneka Tchinana",
+   "orgType": "CONG",
+   "address": "Chiange\r\nANGOLA\r\n",
+   "languageCode": "NK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+244&nbsp;947 208 658",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "BA6F0FFE-0EA3-4FA0-9CB7-B4FE8D1BF2B0",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.74407,
+   "longitude": 14.98108
+  },
+  "properties": {
+   "orgGuid": "BA6F0FFE-0EA3-4FA0-9CB7-B4FE8D1BF2B0",
+   "orgName": "Xangongo",
+   "orgType": "CONG",
+   "address": "Município Sede, próximo ao estádio de futebol\r\nXangongo\r\nANGOLA\r\n",
+   "languageCode": "TPO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "945 145 546",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "F79F99FE-31A0-4804-8BB5-C99185A81A51",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.542781,
+   "longitude": 14.846446
+  },
+  "properties": {
+   "orgGuid": "F79F99FE-31A0-4804-8BB5-C99185A81A51",
+   "orgName": "Chiulo - Xangongo",
+   "orgType": "GROUP",
+   "address": "Kakombe\r\nOmbandja\r\nANGOLA\r\n",
+   "languageCode": "TPO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "945 145 546",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "80008597-BC24-4CC7-8E98-2C8A5E2F07A5",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.52689,
+   "longitude": 15.902041
+  },
+  "properties": {
+   "orgGuid": "80008597-BC24-4CC7-8E98-2C8A5E2F07A5",
+   "orgName": "Onhuno Congregation",
+   "orgType": "CONG",
+   "address": "Main Road\r\nopposite Police road block\r\nOnhuno\r\nONDANGWA\r\nNAMIBIA\r\n",
+   "languageCode": "KY",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "00264813554566",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "1CFA68A5-6612-45C5-94B6-46FEDCAAB78E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.38146,
+   "longitude": 15.890922
+  },
+  "properties": {
+   "orgGuid": "1CFA68A5-6612-45C5-94B6-46FEDCAAB78E",
+   "orgName": "Santa Clara 01",
+   "orgType": "CONG",
+   "address": "Santa Clara\r\nOmbandja\r\nANGOLA\r\n",
+   "languageCode": "TPO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "KY"
+   ],
+   "phones": [
+    {
+     "phone": "934565119",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "9FF2E37D-7872-4E02-BFA5-8A1888ECCC6C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.38146,
+   "longitude": 15.890922
+  },
+  "properties": {
+   "orgGuid": "9FF2E37D-7872-4E02-BFA5-8A1888ECCC6C",
+   "orgName": "Santa Clara 02",
+   "orgType": "CONG",
+   "address": "Santa Clara\r\nOmbandja\r\nANGOLA\r\n",
+   "languageCode": "TPO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "921910265",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "49E81768-8158-41F1-B4B1-1C0CDFFC32E9",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.38146,
+   "longitude": 15.890922
+  },
+  "properties": {
+   "orgGuid": "49E81768-8158-41F1-B4B1-1C0CDFFC32E9",
+   "orgName": "Kwanyama Santa Clara 01 - Santa Clara 01",
+   "orgType": "GROUP",
+   "address": "Santa Clara\r\nOmbandja\r\nANGOLA\r\n",
+   "languageCode": "KY",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": null,
+      "time": null
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "TPO"
+   ],
+   "phones": [
+    {
+     "phone": "934565119",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "95003B3D-BDE6-46C3-B134-03FD8A971CC7",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.31518,
+   "longitude": 15.847892
+  },
+  "properties": {
+   "orgGuid": "95003B3D-BDE6-46C3-B134-03FD8A971CC7",
+   "orgName": "Namacunde",
+   "orgType": "CONG",
+   "address": "N-03\r\nNamacunde\r\nANGOLA\r\n",
+   "languageCode": "TPO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "923272164",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "1B6ECC0F-1DFB-42C1-879A-2DB3E961854F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.07956,
+   "longitude": 15.70468
+  },
+  "properties": {
+   "orgGuid": "1B6ECC0F-1DFB-42C1-879A-2DB3E961854F",
+   "orgName": "Ondjiva 01",
+   "orgType": "CONG",
+   "address": "Ondjiva\r\nDepois do Mercado da Alemanha\r\nOndjiva\r\nANGOLA\r\n",
+   "languageCode": "TPO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "924221651/921169677",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "379F5784-7B34-4A40-8C85-F0D9009F7A0F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.07956,
+   "longitude": 15.70468
+  },
+  "properties": {
+   "orgGuid": "379F5784-7B34-4A40-8C85-F0D9009F7A0F",
+   "orgName": "Ondjiva 04",
+   "orgType": "CONG",
+   "address": "Ondjiva\r\nDepois do Mercado da Alemanha\r\nOndjiva\r\nANGOLA\r\n",
+   "languageCode": "TPO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:15"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "925329870",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "9F6B3683-C519-4B12-BF76-D65A47AE5C04",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.067965,
+   "longitude": 15.694734
+  },
+  "properties": {
+   "orgGuid": "9F6B3683-C519-4B12-BF76-D65A47AE5C04",
+   "orgName": "Kakuluvale",
+   "orgType": "CONG",
+   "address": "Bairro Kakuluvale\r\nOndjiva\r\nANGOLA\r\n",
+   "languageCode": "TPO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+244&nbsp;942740903",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4AA71860-EB3F-4B2F-974C-D6C78000B6A5",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.067965,
+   "longitude": 15.694734
+  },
+  "properties": {
+   "orgGuid": "4AA71860-EB3F-4B2F-974C-D6C78000B6A5",
+   "orgName": "Kwanyama Ondjiva",
+   "orgType": "CONG",
+   "address": "Bairro Kakuluvale\r\nOndjiva\r\nANGOLA\r\n",
+   "languageCode": "KY",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "925010602",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A5231C35-D53C-41A3-922D-7BA93D298C6A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.092443,
+   "longitude": 15.748645
+  },
+  "properties": {
+   "orgGuid": "A5231C35-D53C-41A3-922D-7BA93D298C6A",
+   "orgName": "Ondjiva 03",
+   "orgType": "CONG",
+   "address": "Estrada Ondjiva Santa Clara\r\nDefronte ao Instituto Politécnico\r\nOndjiva\r\nANGOLA\r\n",
+   "languageCode": "TPO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "925 126 859",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "8963677B-7FA7-45A0-A2FE-16BF2EAD1A2D",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.092443,
+   "longitude": 15.748645
+  },
+  "properties": {
+   "orgGuid": "8963677B-7FA7-45A0-A2FE-16BF2EAD1A2D",
+   "orgName": "Ondjiva 05",
+   "orgType": "CONG",
+   "address": "Estrada Ondjiva Santa Clara\r\nDefronte ao Instituto Politécnico\r\nOndjiva\r\nANGOLA\r\n",
+   "languageCode": "TPO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "923344841",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "9FC31DE1-3127-4269-8BEF-41FB156103E6",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.056891,
+   "longitude": 15.72381
+  },
+  "properties": {
+   "orgGuid": "9FC31DE1-3127-4269-8BEF-41FB156103E6",
+   "orgName": "Ondjiva 02",
+   "orgType": "CONG",
+   "address": "Bairro Castilho\r\nOndjiva\r\nANGOLA\r\n",
+   "languageCode": "TPO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "07:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "934965589",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "EF7F284F-71B9-4747-829D-D89CE881FC49",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.056891,
+   "longitude": 15.72381
+  },
+  "properties": {
+   "orgGuid": "EF7F284F-71B9-4747-829D-D89CE881FC49",
+   "orgName": "Língua de Sinais Ondjiva",
+   "orgType": "CONG",
+   "address": "Bairro Castilho\r\nOndjiva\r\nANGOLA\r\n",
+   "languageCode": "LAS",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "934137390",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "887F17A5-2260-4678-B2C2-BF790DA57BC7",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.048771,
+   "longitude": 15.742659
+  },
+  "properties": {
+   "orgGuid": "887F17A5-2260-4678-B2C2-BF790DA57BC7",
+   "orgName": "Kaxila",
+   "orgType": "CONG",
+   "address": "S/N\r\nCuanhama\r\nANGOLA\r\n",
+   "languageCode": "TPO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:45"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "923642384",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

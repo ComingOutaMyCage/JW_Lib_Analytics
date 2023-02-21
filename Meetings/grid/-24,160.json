@@ -1,1495 +1,1532 @@
 [
-  {
-    "geoId": "36FE5304-742E-434B-8CFD-D9CC78391FFB",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -20.98061,
-      "longitude": 164.71817
-    },
-    "properties": {
-      "orgGuid": "36FE5304-742E-434B-8CFD-D9CC78391FFB",
-      "orgName": "VOH",
-      "orgType": "CONG",
-      "address": "RT1\r\nRoute de Koné\r\n98833 VOH\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "15:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "912203",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "36FE5304-742E-434B-8CFD-D9CC78391FFB",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -20.98061,
+   "longitude": 164.71817
   },
-  {
-    "geoId": "FD4D68F4-936A-4FB7-9B10-46367CFF0CB1",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -20.54096,
-      "longitude": 164.30808
-    },
-    "properties": {
-      "orgGuid": "FD4D68F4-936A-4FB7-9B10-46367CFF0CB1",
-      "orgName": "KOUMAC",
-      "orgType": "CONG",
-      "address": "Route des Grottes\n98850 KOUMAC\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:30"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "761375",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "36FE5304-742E-434B-8CFD-D9CC78391FFB",
+   "orgName": "VOH",
+   "orgType": "CONG",
+   "address": "RT1\r\nRoute de Koné\r\n98833 VOH\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "912203",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "F5CA085E-6E25-4D28-AD1C-75FFBDB7F17D",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -21.12049,
-      "longitude": 164.90073
-    },
-    "properties": {
-      "orgGuid": "F5CA085E-6E25-4D28-AD1C-75FFBDB7F17D",
-      "orgName": "POUEMBOUT",
-      "orgType": "CONG",
-      "address": "RT1\n98825 POUEMBOUT\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "LSF"
-      ],
-      "phones": [
-        {
-          "phone": "84 76 77",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "FD4D68F4-936A-4FB7-9B10-46367CFF0CB1",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -20.54096,
+   "longitude": 164.30808
   },
-  {
-    "geoId": "34C801B2-846C-4CD1-A946-B25301A9B8FA",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -21.12049,
-      "longitude": 164.90073
-    },
-    "properties": {
-      "orgGuid": "34C801B2-846C-4CD1-A946-B25301A9B8FA",
-      "orgName": "Pouembout LSF - POUEMBOUT",
-      "orgType": "GROUP",
-      "address": "RT1\n98825 POUEMBOUT\n",
-      "languageCode": "LSF",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "F"
-      ],
-      "phones": [
-        {
-          "phone": "84 76 77",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "FD4D68F4-936A-4FB7-9B10-46367CFF0CB1",
+   "orgName": "KOUMAC",
+   "orgType": "CONG",
+   "address": "Route des Grottes\n98850 KOUMAC\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "761375",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "3C523E02-0135-4874-84E6-E78E756BE426",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -21.321503,
-      "longitude": 165.131278
-    },
-    "properties": {
-      "orgGuid": "3C523E02-0135-4874-84E6-E78E756BE426",
-      "orgName": "POYA",
-      "orgType": "CONG",
-      "address": "Lot 398 Section Poya Pâturage\r\n98827 POYA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "983415",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "F5CA085E-6E25-4D28-AD1C-75FFBDB7F17D",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -21.12049,
+   "longitude": 164.90073
   },
-  {
-    "geoId": "964DCCB7-3FBC-4B47-937B-FBB736B44818",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -21.58369,
-      "longitude": 165.51917
-    },
-    "properties": {
-      "orgGuid": "964DCCB7-3FBC-4B47-937B-FBB736B44818",
-      "orgName": "BOURAIL",
-      "orgType": "CONG",
-      "address": "LOT 3 - Section Rive Gauche\nLotissement Trou aux perruches\nBOURAIL\n98870 BOURAIL\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "867340",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "F5CA085E-6E25-4D28-AD1C-75FFBDB7F17D",
+   "orgName": "POUEMBOUT",
+   "orgType": "CONG",
+   "address": "RT1\n98825 POUEMBOUT\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "LSF"
+   ],
+   "phones": [
+    {
+     "phone": "84 76 77",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "F287C74A-F771-49D5-BA4C-1057A1091620",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -20.36675,
-      "longitude": 164.40949
-    },
-    "properties": {
-      "orgGuid": "F287C74A-F771-49D5-BA4C-1057A1091620",
-      "orgName": "OUÉGOA",
-      "orgType": "CONG",
-      "address": "Tribu de Balagam\r\n98821 OUÉGOA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "15:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "825946",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "34C801B2-846C-4CD1-A946-B25301A9B8FA",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -21.12049,
+   "longitude": 164.90073
   },
-  {
-    "geoId": "3DBD7190-8A85-4F38-B91C-2A83B0DCCFEA",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -20.36675,
-      "longitude": 164.40949
-    },
-    "properties": {
-      "orgGuid": "3DBD7190-8A85-4F38-B91C-2A83B0DCCFEA",
-      "orgName": "Paimboas - OUÉGOA",
-      "orgType": "GROUP",
-      "address": "Tribu de Balagam\r\n98821 OUÉGOA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "16:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "825946",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "34C801B2-846C-4CD1-A946-B25301A9B8FA",
+   "orgName": "Pouembout LSF - POUEMBOUT",
+   "orgType": "GROUP",
+   "address": "RT1\n98825 POUEMBOUT\n",
+   "languageCode": "LSF",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "F"
+   ],
+   "phones": [
+    {
+     "phone": "84 76 77",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "8CD9DE40-DDF2-4CC5-A5B0-ABA89F087D07",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -21.70267,
-      "longitude": 165.82703
-    },
-    "properties": {
-      "orgGuid": "8CD9DE40-DDF2-4CC5-A5B0-ABA89F087D07",
-      "orgName": "LA FOA",
-      "orgType": "CONG",
-      "address": "N°15 Lotissement du Stade, Commune de La Foa\r\nSection La Foa Nord Village\r\n98880 LA FOA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "461030",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3C523E02-0135-4874-84E6-E78E756BE426",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -21.321503,
+   "longitude": 165.131278
   },
-  {
-    "geoId": "30C06E86-58A7-44C6-B84F-BC3EB80E8EA1",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.28336,
-      "longitude": 166.45256
-    },
-    "properties": {
-      "orgGuid": "30C06E86-58A7-44C6-B84F-BC3EB80E8EA1",
-      "orgName": "ANSE-VATA",
-      "orgType": "CONG",
-      "address": "19 rue René Louis Cuer\r\nFaubourg Blanchot\r\n98800 NOUMÉA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "26 95 66",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "3C523E02-0135-4874-84E6-E78E756BE426",
+   "orgName": "POYA",
+   "orgType": "CONG",
+   "address": "Lot 398 Section Poya Pâturage\r\n98827 POYA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "983415",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "FC3FD8F2-6E9D-446D-A42A-1B1335A5B508",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.28336,
-      "longitude": 166.45256
-    },
-    "properties": {
-      "orgGuid": "FC3FD8F2-6E9D-446D-A42A-1B1335A5B508",
-      "orgName": "MAGENTA",
-      "orgType": "CONG",
-      "address": "19 rue René Louis Cuer\r\nFaubourg Blanchot\r\n98800 NOUMÉA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "26 95 66",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "964DCCB7-3FBC-4B47-937B-FBB736B44818",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -21.58369,
+   "longitude": 165.51917
   },
-  {
-    "geoId": "4CC9E45B-C1CC-44B7-A64B-396AC43D7F57",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.28336,
-      "longitude": 166.45256
-    },
-    "properties": {
-      "orgGuid": "4CC9E45B-C1CC-44B7-A64B-396AC43D7F57",
-      "orgName": "NOUMÉA CENTRE",
-      "orgType": "CONG",
-      "address": "19 rue René Louis Cuer\r\nFaubourg Blanchot\r\n98800 NOUMÉA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        },
-        "futureDate": "2023-01-01",
-        "future": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "26 95 66",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "964DCCB7-3FBC-4B47-937B-FBB736B44818",
+   "orgName": "BOURAIL",
+   "orgType": "CONG",
+   "address": "LOT 3 - Section Rive Gauche\nLotissement Trou aux perruches\nBOURAIL\n98870 BOURAIL\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "867340",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "7607BB82-35FA-4533-A6DD-3030016F878A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.24507,
-      "longitude": 166.44422
-    },
-    "properties": {
-      "orgGuid": "7607BB82-35FA-4533-A6DD-3030016F878A",
-      "orgName": "DUCOS",
-      "orgType": "CONG",
-      "address": "48 rue de Papeete\nDucos\n98800 DUCOS\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "871111",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "F287C74A-F771-49D5-BA4C-1057A1091620",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -20.36675,
+   "longitude": 164.40949
   },
-  {
-    "geoId": "4213FAD4-7139-4D44-907E-58CB0522E5DE",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.24507,
-      "longitude": 166.44422
-    },
-    "properties": {
-      "orgGuid": "4213FAD4-7139-4D44-907E-58CB0522E5DE",
-      "orgName": "RIVIERE SALEE",
-      "orgType": "CONG",
-      "address": "48 rue de Papeete\nDucos\n98800 DUCOS\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+687 29 10 68",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "F287C74A-F771-49D5-BA4C-1057A1091620",
+   "orgName": "OUÉGOA",
+   "orgType": "CONG",
+   "address": "Tribu de Balagam\r\n98821 OUÉGOA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "15:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "825946",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "2A69FB30-4250-453A-A52B-3A4DE8051F46",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.24507,
-      "longitude": 166.44422
-    },
-    "properties": {
-      "orgGuid": "2A69FB30-4250-453A-A52B-3A4DE8051F46",
-      "orgName": "NOUMEA DREHU",
-      "orgType": "CONG",
-      "address": "48 rue de Papeete\nDucos\n98800 DUCOS\n",
-      "languageCode": "LF",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "78.45.46 / 71.54.13",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3DBD7190-8A85-4F38-B91C-2A83B0DCCFEA",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -20.36675,
+   "longitude": 164.40949
   },
-  {
-    "geoId": "5247A1C0-7AAF-4D4C-A16F-FBB0874255AA",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.12373,
-      "longitude": 166.34892
-    },
-    "properties": {
-      "orgGuid": "5247A1C0-7AAF-4D4C-A16F-FBB0874255AA",
-      "orgName": "PAÏTA",
-      "orgType": "CONG",
-      "address": "9 lotissement Baronnet\r\nOndémia\r\n98890 PAÏTA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+687351433",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "3DBD7190-8A85-4F38-B91C-2A83B0DCCFEA",
+   "orgName": "Paimboas - OUÉGOA",
+   "orgType": "GROUP",
+   "address": "Tribu de Balagam\r\n98821 OUÉGOA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "16:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "825946",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "F027AA8C-489B-4153-A34C-E6C8A58AC0CF",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.12373,
-      "longitude": 166.34892
-    },
-    "properties": {
-      "orgGuid": "F027AA8C-489B-4153-A34C-E6C8A58AC0CF",
-      "orgName": "DUMBÉA RIVIÈRE",
-      "orgType": "CONG",
-      "address": "9 lotissement Baronnet\r\nOndémia\r\n98890 PAÏTA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+687351433",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "8CD9DE40-DDF2-4CC5-A5B0-ABA89F087D07",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -21.70267,
+   "longitude": 165.82703
   },
-  {
-    "geoId": "C6F8F588-C8FE-41C0-8E4A-651C016A212C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.22362,
-      "longitude": 166.48757
-    },
-    "properties": {
-      "orgGuid": "C6F8F588-C8FE-41C0-8E4A-651C016A212C",
-      "orgName": "AUTEUIL",
-      "orgType": "CONG",
-      "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+687903288",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "8CD9DE40-DDF2-4CC5-A5B0-ABA89F087D07",
+   "orgName": "LA FOA",
+   "orgType": "CONG",
+   "address": "N°15 Lotissement du Stade, Commune de La Foa\r\nSection La Foa Nord Village\r\n98880 LA FOA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "461030",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "EB8F2129-D214-49E1-BC8A-CB6474009657",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.22362,
-      "longitude": 166.48757
-    },
-    "properties": {
-      "orgGuid": "EB8F2129-D214-49E1-BC8A-CB6474009657",
-      "orgName": "NORMANDIE",
-      "orgType": "CONG",
-      "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+ 687 912392",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "30C06E86-58A7-44C6-B84F-BC3EB80E8EA1",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.28336,
+   "longitude": 166.45256
   },
-  {
-    "geoId": "8898561B-B11F-44B8-BFE3-9864195A4FE7",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.22362,
-      "longitude": 166.48757
-    },
-    "properties": {
-      "orgGuid": "8898561B-B11F-44B8-BFE3-9864195A4FE7",
-      "orgName": "DUMBÉA SUR MER",
-      "orgType": "CONG",
-      "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+687 74.94.70",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "30C06E86-58A7-44C6-B84F-BC3EB80E8EA1",
+   "orgName": "ANSE-VATA",
+   "orgType": "CONG",
+   "address": "19 rue René Louis Cuer\r\nFaubourg Blanchot\r\n98800 NOUMÉA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "26 95 66",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "2811CF3C-B351-456A-BECD-446EB16A8202",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.22362,
-      "longitude": 166.48757
-    },
-    "properties": {
-      "orgGuid": "2811CF3C-B351-456A-BECD-446EB16A8202",
-      "orgName": "DUMBÉA CENTRE",
-      "orgType": "CONG",
-      "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "LSF"
-      ],
-      "phones": [
-        {
-          "phone": "927597",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "FC3FD8F2-6E9D-446D-A42A-1B1335A5B508",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.28336,
+   "longitude": 166.45256
   },
-  {
-    "geoId": "F5DB276A-6EA6-42AD-A454-C7A43326860E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.22362,
-      "longitude": 166.48757
-    },
-    "properties": {
-      "orgGuid": "F5DB276A-6EA6-42AD-A454-C7A43326860E",
-      "orgName": "DUMBEA DREHU",
-      "orgType": "CONG",
-      "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
-      "languageCode": "LF",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "732908",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "FC3FD8F2-6E9D-446D-A42A-1B1335A5B508",
+   "orgName": "MAGENTA",
+   "orgType": "CONG",
+   "address": "19 rue René Louis Cuer\r\nFaubourg Blanchot\r\n98800 NOUMÉA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "26 95 66",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "4B59A542-93BA-42F2-B9CE-8C3929ECF6D5",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.22362,
-      "longitude": 166.48757
-    },
-    "properties": {
-      "orgGuid": "4B59A542-93BA-42F2-B9CE-8C3929ECF6D5",
-      "orgName": "LSF Dumbéa Centre - DUMBÉA CENTRE",
-      "orgType": "GROUP",
-      "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
-      "languageCode": "LSF",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "F"
-      ],
-      "phones": [
-        {
-          "phone": "927597",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4CC9E45B-C1CC-44B7-A64B-396AC43D7F57",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.28336,
+   "longitude": 166.45256
   },
-  {
-    "geoId": "B445921C-4CA2-463B-8BA1-564B67650626",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.22362,
-      "longitude": 166.48757
-    },
-    "properties": {
-      "orgGuid": "B445921C-4CA2-463B-8BA1-564B67650626",
-      "orgName": "WALLISIENNE DE NOUMÉA",
-      "orgType": "CONG",
-      "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
-      "languageCode": "WA",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "97 32 82",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "4CC9E45B-C1CC-44B7-A64B-396AC43D7F57",
+   "orgName": "NOUMÉA CENTRE",
+   "orgType": "CONG",
+   "address": "19 rue René Louis Cuer\r\nFaubourg Blanchot\r\n98800 NOUMÉA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "26 95 66",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "3B3D3894-24E2-4666-BD3A-1579A5FBC289",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.22362,
-      "longitude": 166.48757
-    },
-    "properties": {
-      "orgGuid": "3B3D3894-24E2-4666-BD3A-1579A5FBC289",
-      "orgName": "NOUMEA TAHITIEN",
-      "orgType": "CONG",
-      "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
-      "languageCode": "TH",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "7607BB82-35FA-4533-A6DD-3030016F878A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.24507,
+   "longitude": 166.44422
   },
-  {
-    "geoId": "6FEFF2FC-A17A-4BB2-94EB-0D4E4A5956AA",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.22362,
-      "longitude": 166.48757
-    },
-    "properties": {
-      "orgGuid": "6FEFF2FC-A17A-4BB2-94EB-0D4E4A5956AA",
-      "orgName": "NOUMÉA FUTUNIEN",
-      "orgType": "CONG",
-      "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
-      "languageCode": "FT",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        },
-        "futureDate": "2023-01-02",
-        "future": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "960643",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "7607BB82-35FA-4533-A6DD-3030016F878A",
+   "orgName": "DUCOS",
+   "orgType": "CONG",
+   "address": "48 rue de Papeete\nDucos\n98800 DUCOS\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "16:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "871111",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "82CFDC6A-DA02-4E67-997B-9FB1FEE8D079",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.22362,
-      "longitude": 166.48757
-    },
-    "properties": {
-      "orgGuid": "82CFDC6A-DA02-4E67-997B-9FB1FEE8D079",
-      "orgName": "ROBINSON",
-      "orgType": "CONG",
-      "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4213FAD4-7139-4D44-907E-58CB0522E5DE",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.24507,
+   "longitude": 166.44422
   },
-  {
-    "geoId": "705B7F2B-4CC9-4DD9-A076-BB82782ADEEA",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -21.289192,
-      "longitude": 165.618559
-    },
-    "properties": {
-      "orgGuid": "705B7F2B-4CC9-4DD9-A076-BB82782ADEEA",
-      "orgName": "HOUAILOU",
-      "orgType": "CONG",
-      "address": "village de HOUAÏLOU\r\n98816 HOUAILOU\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "813963",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "4213FAD4-7139-4D44-907E-58CB0522E5DE",
+   "orgName": "RIVIERE SALEE",
+   "orgType": "CONG",
+   "address": "48 rue de Papeete\nDucos\n98800 DUCOS\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+687 29 10 68",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "89455901-545A-4DAA-AC1C-1BA461A2DD36",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.24005,
-      "longitude": 166.57778
-    },
-    "properties": {
-      "orgGuid": "89455901-545A-4DAA-AC1C-1BA461A2DD36",
-      "orgName": "MONT DORE",
-      "orgType": "CONG",
-      "address": "841 Route du Vallon Dore\r\nLa coulée\r\n98809 MONT DORE\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "LM"
-      ],
-      "phones": [
-        {
-          "phone": "43 49 79",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "2A69FB30-4250-453A-A52B-3A4DE8051F46",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.24507,
+   "longitude": 166.44422
   },
-  {
-    "geoId": "BA73C4BB-2589-47D8-AF8F-1E932DB5E338",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.24005,
-      "longitude": 166.57778
-    },
-    "properties": {
-      "orgGuid": "BA73C4BB-2589-47D8-AF8F-1E932DB5E338",
-      "orgName": "LA COULEE",
-      "orgType": "CONG",
-      "address": "841 Route du Vallon Dore\r\nLa coulée\r\n98809 MONT DORE\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "43 49 79",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "2A69FB30-4250-453A-A52B-3A4DE8051F46",
+   "orgName": "NOUMEA DREHU",
+   "orgType": "CONG",
+   "address": "48 rue de Papeete\nDucos\n98800 DUCOS\n",
+   "languageCode": "LF",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "78.45.46 / 71.54.13",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "9D398FBD-2727-4609-979F-2D61E268E3AD",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.24005,
-      "longitude": 166.57778
-    },
-    "properties": {
-      "orgGuid": "9D398FBD-2727-4609-979F-2D61E268E3AD",
-      "orgName": "Bichlamar - Mont Dore - MONT DORE",
-      "orgType": "GROUP",
-      "address": "841 Route du Vallon Dore\r\nLa coulée\r\n98809 MONT DORE\r\n",
-      "languageCode": "LM",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "F"
-      ],
-      "phones": [
-        {
-          "phone": "43 49 79",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "5247A1C0-7AAF-4D4C-A16F-FBB0874255AA",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.12373,
+   "longitude": 166.34892
   },
-  {
-    "geoId": "7FF7614A-476C-4773-940B-FE35CBCA9904",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -20.94049,
-      "longitude": 165.33448
-    },
-    "properties": {
-      "orgGuid": "7FF7614A-476C-4773-940B-FE35CBCA9904",
-      "orgName": "POINDIMIÉ",
-      "orgType": "CONG",
-      "address": "4 Lot. Rapadzi\r\nKoyaboa Village\r\nRoute de la Cascade\r\n98822 POINDIMIÉ\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+687800099",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "5247A1C0-7AAF-4D4C-A16F-FBB0874255AA",
+   "orgName": "PAÏTA",
+   "orgType": "CONG",
+   "address": "9 lotissement Baronnet\r\nOndémia\r\n98890 PAÏTA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+687351433",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "CE2BB7F5-01AA-40D7-ACFE-5A3D8D65BF38",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -21.522647,
-      "longitude": 165.968964
-    },
-    "properties": {
-      "orgGuid": "CE2BB7F5-01AA-40D7-ACFE-5A3D8D65BF38",
-      "orgName": "CANALA",
-      "orgType": "CONG",
-      "address": "Canala\r\nNouvelle-Calédonie\r\nCANALA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "853679",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "F027AA8C-489B-4153-A34C-E6C8A58AC0CF",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.12373,
+   "longitude": 166.34892
   },
-  {
-    "geoId": "7BBDDB54-D04B-4AE3-A0B5-812952E840EB",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.621147,
-      "longitude": 167.448249
-    },
-    "properties": {
-      "orgGuid": "7BBDDB54-D04B-4AE3-A0B5-812952E840EB",
-      "orgName": "ILE DES PINS",
-      "orgType": "CONG",
-      "address": "Tribu de Kuto\r\nVao\r\n98832 KUTO\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "806796",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "F027AA8C-489B-4153-A34C-E6C8A58AC0CF",
+   "orgName": "DUMBÉA RIVIÈRE",
+   "orgType": "CONG",
+   "address": "9 lotissement Baronnet\r\nOndémia\r\n98890 PAÏTA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+687351433",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "D525AB9C-AD30-4AD2-95E6-CA31035F8844",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -20.64681,
-      "longitude": 166.57837
-    },
-    "properties": {
-      "orgGuid": "D525AB9C-AD30-4AD2-95E6-CA31035F8844",
-      "orgName": "OUVÉA",
-      "orgType": "CONG",
-      "address": "Tribu d'Ouloup\r\n98814 FAYAOUÉ\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:30"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "C6F8F588-C8FE-41C0-8E4A-651C016A212C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.22362,
+   "longitude": 166.48757
   },
-  {
-    "geoId": "1976B94B-340B-4A25-89E4-7E20EBAFD26E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -21.10992,
-      "longitude": 167.40551
-    },
-    "properties": {
-      "orgGuid": "1976B94B-340B-4A25-89E4-7E20EBAFD26E",
-      "orgName": "LIFOU-SUD",
-      "orgType": "CONG",
-      "address": "Tribu de Mou\r\n98820 MOU\r\n",
-      "languageCode": "LF",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "F"
-      ],
-      "phones": [
-        {
-          "phone": "80 50 41",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "C6F8F588-C8FE-41C0-8E4A-651C016A212C",
+   "orgName": "AUTEUIL",
+   "orgType": "CONG",
+   "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+687903288",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "77B65D94-1148-47EA-9A7A-C76D20279CB7",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -20.777495,
-      "longitude": 167.13551
-    },
-    "properties": {
-      "orgGuid": "77B65D94-1148-47EA-9A7A-C76D20279CB7",
-      "orgName": "LIFOU-NORD",
-      "orgType": "CONG",
-      "address": "XEPENEHE - EWË\r\n98820 XEPENEHE-LIFOU\r\n",
-      "languageCode": "LF",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "15:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "F"
-      ],
-      "phones": [
-        {
-          "phone": "785039",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "EB8F2129-D214-49E1-BC8A-CB6474009657",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.22362,
+   "longitude": 166.48757
   },
-  {
-    "geoId": "90E889F2-4427-4C1A-98E9-1562E243EA38",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -20.777495,
-      "longitude": 167.13551
-    },
-    "properties": {
-      "orgGuid": "90E889F2-4427-4C1A-98E9-1562E243EA38",
-      "orgName": "Lifou Nord Français - LIFOU-NORD",
-      "orgType": "GROUP",
-      "address": "XEPENEHE - EWË\r\n98820 XEPENEHE-LIFOU\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "15:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "LF"
-      ],
-      "phones": [
-        {
-          "phone": "785039",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "EB8F2129-D214-49E1-BC8A-CB6474009657",
+   "orgName": "NORMANDIE",
+   "orgType": "CONG",
+   "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+ 687 912392",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "36BB29E2-81BC-4352-AC83-8EE8BC39F193",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -20.92457,
-      "longitude": 167.30253
-    },
-    "properties": {
-      "orgGuid": "36BB29E2-81BC-4352-AC83-8EE8BC39F193",
-      "orgName": "LIFOU CENTRE",
-      "orgType": "CONG",
-      "address": "Tribu de Traput\r\nLifou Centre - Traput\r\n98820 TRAPUT\r\n",
-      "languageCode": "LF",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "8898561B-B11F-44B8-BFE3-9864195A4FE7",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.22362,
+   "longitude": 166.48757
+  },
+  "properties": {
+   "orgGuid": "8898561B-B11F-44B8-BFE3-9864195A4FE7",
+   "orgName": "DUMBÉA SUR MER",
+   "orgType": "CONG",
+   "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+687 74.94.70",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "2811CF3C-B351-456A-BECD-446EB16A8202",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.22362,
+   "longitude": 166.48757
+  },
+  "properties": {
+   "orgGuid": "2811CF3C-B351-456A-BECD-446EB16A8202",
+   "orgName": "DUMBÉA CENTRE",
+   "orgType": "CONG",
+   "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "LSF"
+   ],
+   "phones": [
+    {
+     "phone": "927597",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "F5DB276A-6EA6-42AD-A454-C7A43326860E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.22362,
+   "longitude": 166.48757
+  },
+  "properties": {
+   "orgGuid": "F5DB276A-6EA6-42AD-A454-C7A43326860E",
+   "orgName": "DUMBEA DREHU",
+   "orgType": "CONG",
+   "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
+   "languageCode": "LF",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "732908",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4B59A542-93BA-42F2-B9CE-8C3929ECF6D5",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.22362,
+   "longitude": 166.48757
+  },
+  "properties": {
+   "orgGuid": "4B59A542-93BA-42F2-B9CE-8C3929ECF6D5",
+   "orgName": "LSF Dumbéa Centre - DUMBÉA CENTRE",
+   "orgType": "GROUP",
+   "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
+   "languageCode": "LSF",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "F"
+   ],
+   "phones": [
+    {
+     "phone": "927597",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B445921C-4CA2-463B-8BA1-564B67650626",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.22362,
+   "longitude": 166.48757
+  },
+  "properties": {
+   "orgGuid": "B445921C-4CA2-463B-8BA1-564B67650626",
+   "orgName": "WALLISIENNE DE NOUMÉA",
+   "orgType": "CONG",
+   "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
+   "languageCode": "WA",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "97 32 82",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3B3D3894-24E2-4666-BD3A-1579A5FBC289",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.22362,
+   "longitude": 166.48757
+  },
+  "properties": {
+   "orgGuid": "3B3D3894-24E2-4666-BD3A-1579A5FBC289",
+   "orgName": "NOUMEA TAHITIEN",
+   "orgType": "CONG",
+   "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
+   "languageCode": "TH",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "6FEFF2FC-A17A-4BB2-94EB-0D4E4A5956AA",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.22362,
+   "longitude": 166.48757
+  },
+  "properties": {
+   "orgGuid": "6FEFF2FC-A17A-4BB2-94EB-0D4E4A5956AA",
+   "orgName": "NOUMÉA FUTUNIEN",
+   "orgType": "CONG",
+   "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
+   "languageCode": "FT",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "960643",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "82CFDC6A-DA02-4E67-997B-9FB1FEE8D079",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.22362,
+   "longitude": 166.48757
+  },
+  "properties": {
+   "orgGuid": "82CFDC6A-DA02-4E67-997B-9FB1FEE8D079",
+   "orgName": "ROBINSON",
+   "orgType": "CONG",
+   "address": "236, Rue Georges Lèques\r\nQuartier Normandie\r\n98800 NOUMÉA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "705B7F2B-4CC9-4DD9-A076-BB82782ADEEA",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -21.289192,
+   "longitude": 165.618559
+  },
+  "properties": {
+   "orgGuid": "705B7F2B-4CC9-4DD9-A076-BB82782ADEEA",
+   "orgName": "HOUAILOU",
+   "orgType": "CONG",
+   "address": "village de HOUAÏLOU\r\n98816 HOUAILOU\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "813963",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "89455901-545A-4DAA-AC1C-1BA461A2DD36",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.24005,
+   "longitude": 166.57778
+  },
+  "properties": {
+   "orgGuid": "89455901-545A-4DAA-AC1C-1BA461A2DD36",
+   "orgName": "MONT DORE",
+   "orgType": "CONG",
+   "address": "841 Route du Vallon Dore\r\nLa coulée\r\n98809 MONT DORE\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "LM"
+   ],
+   "phones": [
+    {
+     "phone": "43 49 79",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "BA73C4BB-2589-47D8-AF8F-1E932DB5E338",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.24005,
+   "longitude": 166.57778
+  },
+  "properties": {
+   "orgGuid": "BA73C4BB-2589-47D8-AF8F-1E932DB5E338",
+   "orgName": "LA COULEE",
+   "orgType": "CONG",
+   "address": "841 Route du Vallon Dore\r\nLa coulée\r\n98809 MONT DORE\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "43 49 79",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "9D398FBD-2727-4609-979F-2D61E268E3AD",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.24005,
+   "longitude": 166.57778
+  },
+  "properties": {
+   "orgGuid": "9D398FBD-2727-4609-979F-2D61E268E3AD",
+   "orgName": "Bichlamar - Mont Dore - MONT DORE",
+   "orgType": "GROUP",
+   "address": "841 Route du Vallon Dore\r\nLa coulée\r\n98809 MONT DORE\r\n",
+   "languageCode": "LM",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "F"
+   ],
+   "phones": [
+    {
+     "phone": "43 49 79",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "7FF7614A-476C-4773-940B-FE35CBCA9904",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -20.94049,
+   "longitude": 165.33448
+  },
+  "properties": {
+   "orgGuid": "7FF7614A-476C-4773-940B-FE35CBCA9904",
+   "orgName": "POINDIMIÉ",
+   "orgType": "CONG",
+   "address": "4 Lot. Rapadzi\r\nKoyaboa Village\r\nRoute de la Cascade\r\n98822 POINDIMIÉ\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+687800099",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "CE2BB7F5-01AA-40D7-ACFE-5A3D8D65BF38",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -21.522647,
+   "longitude": 165.968964
+  },
+  "properties": {
+   "orgGuid": "CE2BB7F5-01AA-40D7-ACFE-5A3D8D65BF38",
+   "orgName": "CANALA",
+   "orgType": "CONG",
+   "address": "Canala\r\nNouvelle-Calédonie\r\nCANALA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "853679",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "7BBDDB54-D04B-4AE3-A0B5-812952E840EB",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.621147,
+   "longitude": 167.448249
+  },
+  "properties": {
+   "orgGuid": "7BBDDB54-D04B-4AE3-A0B5-812952E840EB",
+   "orgName": "ILE DES PINS",
+   "orgType": "CONG",
+   "address": "Tribu de Kuto\r\nVao\r\n98832 KUTO\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "806796",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "D525AB9C-AD30-4AD2-95E6-CA31035F8844",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -20.64681,
+   "longitude": 166.57837
+  },
+  "properties": {
+   "orgGuid": "D525AB9C-AD30-4AD2-95E6-CA31035F8844",
+   "orgName": "OUVÉA",
+   "orgType": "CONG",
+   "address": "Tribu d'Ouloup\r\n98814 FAYAOUÉ\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:30"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "1976B94B-340B-4A25-89E4-7E20EBAFD26E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -21.10992,
+   "longitude": 167.40551
+  },
+  "properties": {
+   "orgGuid": "1976B94B-340B-4A25-89E4-7E20EBAFD26E",
+   "orgName": "LIFOU-SUD",
+   "orgType": "CONG",
+   "address": "Tribu de Mou\r\n98820 MOU\r\n",
+   "languageCode": "LF",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "F"
+   ],
+   "phones": [
+    {
+     "phone": "80 50 41",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "C890DB90-F8C0-4A14-9090-1DEED4498275",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -21.10992,
+   "longitude": 167.40551
+  },
+  "properties": {
+   "orgGuid": "C890DB90-F8C0-4A14-9090-1DEED4498275",
+   "orgName": "Lifou Sud français - LIFOU-SUD",
+   "orgType": "GROUP",
+   "address": "Tribu de Mou\r\n98820 MOU\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "LF"
+   ],
+   "phones": [
+    {
+     "phone": "80 50 41",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2023-02-20T07:01:58.072Z"
+ },
+ {
+  "geoId": "77B65D94-1148-47EA-9A7A-C76D20279CB7",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -20.777495,
+   "longitude": 167.13551
+  },
+  "properties": {
+   "orgGuid": "77B65D94-1148-47EA-9A7A-C76D20279CB7",
+   "orgName": "LIFOU-NORD",
+   "orgType": "CONG",
+   "address": "XEPENEHE - EWË\r\n98820 XEPENEHE-LIFOU\r\n",
+   "languageCode": "LF",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "F"
+   ],
+   "phones": [
+    {
+     "phone": "785039",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "90E889F2-4427-4C1A-98E9-1562E243EA38",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -20.777495,
+   "longitude": 167.13551
+  },
+  "properties": {
+   "orgGuid": "90E889F2-4427-4C1A-98E9-1562E243EA38",
+   "orgName": "Lifou Nord Français - LIFOU-NORD",
+   "orgType": "GROUP",
+   "address": "XEPENEHE - EWË\r\n98820 XEPENEHE-LIFOU\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "LF"
+   ],
+   "phones": [
+    {
+     "phone": "785039",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "36BB29E2-81BC-4352-AC83-8EE8BC39F193",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -20.92457,
+   "longitude": 167.30253
+  },
+  "properties": {
+   "orgGuid": "36BB29E2-81BC-4352-AC83-8EE8BC39F193",
+   "orgName": "LIFOU CENTRE",
+   "orgType": "CONG",
+   "address": "Tribu de Traput\r\nLifou Centre - Traput\r\n98820 TRAPUT\r\n",
+   "languageCode": "LF",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

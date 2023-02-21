@@ -1,1520 +1,1521 @@
 [
-  {
-    "geoId": "0E0C339E-4F67-4BE1-8A62-6CA9293E6370",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 27.808146,
-      "longitude": -17.917733
-    },
-    "properties": {
-      "orgGuid": "0E0C339E-4F67-4BE1-8A62-6CA9293E6370",
-      "orgName": "Valverde del Hierro",
-      "orgType": "CONG",
-      "address": "Calle Valentín Padrón Espinosa, 6\r\n38900 Valverde del Hierro\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922-550631",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "0E0C339E-4F67-4BE1-8A62-6CA9293E6370",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 27.808146,
+   "longitude": -17.917733
   },
-  {
-    "geoId": "ADBD873A-4FC4-4CA4-ABD4-AAD0C14C1B0F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.65939,
-      "longitude": -17.909
-    },
-    "properties": {
-      "orgGuid": "ADBD873A-4FC4-4CA4-ABD4-AAD0C14C1B0F",
-      "orgName": "Llanos de Aridane, Los {La Palma}",
-      "orgType": "CONG",
-      "address": "Calle Ramón y Cajal, 13\r\n38760 Llanos de Aridane, Los\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "662 55 51 32",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "0E0C339E-4F67-4BE1-8A62-6CA9293E6370",
+   "orgName": "Valverde del Hierro",
+   "orgType": "CONG",
+   "address": "Calle Valentín Padrón Espinosa, 6\r\n38900 Valverde del Hierro\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922-550631",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "6ED886D7-A049-46F7-962F-3F18EDECCF16",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.65939,
-      "longitude": -17.909
-    },
-    "properties": {
-      "orgGuid": "6ED886D7-A049-46F7-962F-3F18EDECCF16",
-      "orgName": "Llanos de Aridane, Los - Alemana {La Palma}",
-      "orgType": "CONG",
-      "address": "Calle Ramón y Cajal, 13\r\n38760 Llanos de Aridane, Los\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "X",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "ADBD873A-4FC4-4CA4-ABD4-AAD0C14C1B0F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.65939,
+   "longitude": -17.909
   },
-  {
-    "geoId": "A97A0217-D13C-4BA6-8456-AA93F680C2D8",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.644486,
-      "longitude": -17.765894
-    },
-    "properties": {
-      "orgGuid": "A97A0217-D13C-4BA6-8456-AA93F680C2D8",
-      "orgName": "Santa Cruz de la Palma",
-      "orgType": "CONG",
-      "address": "Camino de El Rincón, 39 (184-A)\r\n38711 Breña Baja\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922 435 048",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "ADBD873A-4FC4-4CA4-ABD4-AAD0C14C1B0F",
+   "orgName": "Llanos de Aridane, Los {La Palma}",
+   "orgType": "CONG",
+   "address": "Calle Ramón y Cajal, 13\r\n38760 Llanos de Aridane, Los\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "662 55 51 32",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "302A5B40-280C-4D2C-A3E9-FB41D87BDF9F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.095879,
-      "longitude": -17.114717
-    },
-    "properties": {
-      "orgGuid": "302A5B40-280C-4D2C-A3E9-FB41D87BDF9F",
-      "orgName": "San Sebastián de la Gomera",
-      "orgType": "CONG",
-      "address": "Calle Ruíz de Padrón, 107 E3 (portal 1), bajo 8\r\n(Edificio Las Creces)\r\n38800 San Sebastián de la Gomera\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "613 00 15 17",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "6ED886D7-A049-46F7-962F-3F18EDECCF16",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.65939,
+   "longitude": -17.909
   },
-  {
-    "geoId": "8C657D17-4BAA-4891-9C74-9C5DB4302A79",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.16062,
-      "longitude": -16.7655
-    },
-    "properties": {
-      "orgGuid": "8C657D17-4BAA-4891-9C74-9C5DB4302A79",
-      "orgName": "Adeje",
-      "orgType": "CONG",
-      "address": "Travesía Presa Segunda, 1\r\n(Calle Virgen del Carmen, 22)\r\n38677 Tijoco Bajo-Adeje\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "19:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "911436932",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "6ED886D7-A049-46F7-962F-3F18EDECCF16",
+   "orgName": "Llanos de Aridane, Los - Alemana {La Palma}",
+   "orgType": "CONG",
+   "address": "Calle Ramón y Cajal, 13\r\n38760 Llanos de Aridane, Los\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "X",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "3ACE7503-CF57-4BA8-A317-ABEC65EE3660",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.16062,
-      "longitude": -16.7655
-    },
-    "properties": {
-      "orgGuid": "3ACE7503-CF57-4BA8-A317-ABEC65EE3660",
-      "orgName": "Adeje - Francesa",
-      "orgType": "CONG",
-      "address": "Travesía Presa Segunda, 1\r\n(Calle Virgen del Carmen, 22)\r\n38677 Tijoco Bajo-Adeje\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0033 6 07 61 64 88",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A97A0217-D13C-4BA6-8456-AA93F680C2D8",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.644486,
+   "longitude": -17.765894
   },
-  {
-    "geoId": "AC7D2BAF-C484-420F-B884-BF894AB0A9EE",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.16062,
-      "longitude": -16.7655
-    },
-    "properties": {
-      "orgGuid": "AC7D2BAF-C484-420F-B884-BF894AB0A9EE",
-      "orgName": "Adeje - Italiana",
-      "orgType": "CONG",
-      "address": "Travesía Presa Segunda, 1\r\n(Calle Virgen del Carmen, 22)\r\n38677 Tijoco Bajo-Adeje\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "I",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0034 911 436 932",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "A97A0217-D13C-4BA6-8456-AA93F680C2D8",
+   "orgName": "Santa Cruz de la Palma",
+   "orgType": "CONG",
+   "address": "Camino de El Rincón, 39 (184-A)\r\n38711 Breña Baja\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922 435 048",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "42B0B417-E4FC-4D6E-BB3A-EE9B54CDCD1E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.038343,
-      "longitude": -16.632156
-    },
-    "properties": {
-      "orgGuid": "42B0B417-E4FC-4D6E-BB3A-EE9B54CDCD1E",
-      "orgName": "Valle de San Lorenzo",
-      "orgType": "CONG",
-      "address": "Carretera General TF 652, RS San Miguel I, bajo 1\r\n(acceso por calle Benito Pérez Armas)\r\n38632 San Miguel de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "19:30"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "634 383 879 (Español) 644 432 573 (Alemán)",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "302A5B40-280C-4D2C-A3E9-FB41D87BDF9F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.095879,
+   "longitude": -17.114717
   },
-  {
-    "geoId": "42090DD4-2CE9-4FF4-AE8C-7E9D13B03933",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.038343,
-      "longitude": -16.632156
-    },
-    "properties": {
-      "orgGuid": "42090DD4-2CE9-4FF4-AE8C-7E9D13B03933",
-      "orgName": "Valle de San Lorenzo - Inglesa",
-      "orgType": "CONG",
-      "address": "Carretera General TF 652, RS San Miguel I, bajo 1\r\n(acceso por calle Benito Pérez Armas)\r\n38632 San Miguel de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+34&nbsp;635529636",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "302A5B40-280C-4D2C-A3E9-FB41D87BDF9F",
+   "orgName": "San Sebastián de la Gomera",
+   "orgType": "CONG",
+   "address": "Calle Ruíz de Padrón, 107 E3 (portal 1), bajo 8\r\n(Edificio Las Creces)\r\n38800 San Sebastián de la Gomera\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "613 00 15 17",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "CA0A88C1-843C-4D78-89A1-5827ECF422BE",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.038343,
-      "longitude": -16.632156
-    },
-    "properties": {
-      "orgGuid": "CA0A88C1-843C-4D78-89A1-5827ECF422BE",
-      "orgName": "Cabo Blanco",
-      "orgType": "CONG",
-      "address": "Carretera General TF 652, RS San Miguel I, bajo 1\r\n(acceso por calle Benito Pérez Armas)\r\n38632 San Miguel de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+34 642935215",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "8C657D17-4BAA-4891-9C74-9C5DB4302A79",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.16062,
+   "longitude": -16.7655
   },
-  {
-    "geoId": "8E824DD8-319C-4B8A-9D2C-D7D25DC07686",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.038343,
-      "longitude": -16.632156
-    },
-    "properties": {
-      "orgGuid": "8E824DD8-319C-4B8A-9D2C-D7D25DC07686",
-      "orgName": "Arona - Rusa",
-      "orgType": "CONG",
-      "address": "Carretera General TF 652, RS San Miguel I, bajo 1\r\n(acceso por calle Benito Pérez Armas)\r\n38632 San Miguel de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "U",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 1,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "603 160 449",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "8C657D17-4BAA-4891-9C74-9C5DB4302A79",
+   "orgName": "Adeje",
+   "orgType": "CONG",
+   "address": "Travesía Presa Segunda, 1\r\n(Calle Virgen del Carmen, 22)\r\n38677 Tijoco Bajo-Adeje\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "19:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "911436932",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "E87F86DE-28E0-4D41-8E9E-0F15415AB272",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.038343,
-      "longitude": -16.632156
-    },
-    "properties": {
-      "orgGuid": "E87F86DE-28E0-4D41-8E9E-0F15415AB272",
-      "orgName": "Valle de San Lorenzo - Grupo Alemán - Valle de San Lorenzo",
-      "orgType": "GROUP",
-      "address": "Carretera General TF 652, RS San Miguel I, bajo 1\r\n(acceso por calle Benito Pérez Armas)\r\n38632 San Miguel de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "X",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "634 383 879 (Español) 644 432 573 (Alemán)",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3ACE7503-CF57-4BA8-A317-ABEC65EE3660",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.16062,
+   "longitude": -16.7655
   },
-  {
-    "geoId": "936C43F2-F97F-4467-AAE8-5B201823E83F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.079979,
-      "longitude": -16.561978
-    },
-    "properties": {
-      "orgGuid": "936C43F2-F97F-4467-AAE8-5B201823E83F",
-      "orgName": "San Isidro",
-      "orgType": "CONG",
-      "address": "Calle La Vera, 2\r\n38611 San Isidro de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "19:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922393058",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "3ACE7503-CF57-4BA8-A317-ABEC65EE3660",
+   "orgName": "Adeje - Francesa",
+   "orgType": "CONG",
+   "address": "Travesía Presa Segunda, 1\r\n(Calle Virgen del Carmen, 22)\r\n38677 Tijoco Bajo-Adeje\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0033 6 07 61 64 88",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "EB14512A-4B51-4F7F-BD92-5E2EAF228C1C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.079979,
-      "longitude": -16.561978
-    },
-    "properties": {
-      "orgGuid": "EB14512A-4B51-4F7F-BD92-5E2EAF228C1C",
-      "orgName": "San Miguel de Abona - China",
-      "orgType": "CONG",
-      "address": "Calle La Vera, 2\r\n38611 San Isidro de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "CHM",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+34 617874825",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "AC7D2BAF-C484-420F-B884-BF894AB0A9EE",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.16062,
+   "longitude": -16.7655
   },
-  {
-    "geoId": "3F05FD0C-3D96-4C27-B075-6083CD722043",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.079979,
-      "longitude": -16.561978
-    },
-    "properties": {
-      "orgGuid": "3F05FD0C-3D96-4C27-B075-6083CD722043",
-      "orgName": "San Isidro - Polaca",
-      "orgType": "CONG",
-      "address": "Calle La Vera, 2\r\n38611 San Isidro de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "P",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "19:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+34602610948",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "AC7D2BAF-C484-420F-B884-BF894AB0A9EE",
+   "orgName": "Adeje - Italiana",
+   "orgType": "CONG",
+   "address": "Travesía Presa Segunda, 1\r\n(Calle Virgen del Carmen, 22)\r\n38677 Tijoco Bajo-Adeje\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "I",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0034 911 436 932",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "62979D90-2631-4AF4-9A3D-75B2738DD3BA",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.079979,
-      "longitude": -16.561978
-    },
-    "properties": {
-      "orgGuid": "62979D90-2631-4AF4-9A3D-75B2738DD3BA",
-      "orgName": "Granadilla",
-      "orgType": "CONG",
-      "address": "Calle La Vera, 2\r\n38611 San Isidro de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:30"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922393058",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "42B0B417-E4FC-4D6E-BB3A-EE9B54CDCD1E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.038343,
+   "longitude": -16.632156
   },
-  {
-    "geoId": "FD66BBB4-830C-477C-8353-5F18C94169DE",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.36824,
-      "longitude": -16.8476
-    },
-    "properties": {
-      "orgGuid": "FD66BBB4-830C-477C-8353-5F18C94169DE",
-      "orgName": "Buenavista",
-      "orgType": "CONG",
-      "address": "Calle Ajoque, 5(A)\r\n(acceso por avenida de la Constitución)\r\n38480 Buenavista del Norte\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922 12 78 72",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "42B0B417-E4FC-4D6E-BB3A-EE9B54CDCD1E",
+   "orgName": "Valle de San Lorenzo",
+   "orgType": "CONG",
+   "address": "Carretera General TF 652, RS San Miguel I, bajo 1\r\n(acceso por calle Benito Pérez Armas)\r\n38632 San Miguel de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "19:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "634 383 879 (Español) 644 432 573 (Alemán)",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "149720E0-6C17-45E0-89C9-BA669FF5D961",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.37223,
-      "longitude": -16.7193
-    },
-    "properties": {
-      "orgGuid": "149720E0-6C17-45E0-89C9-BA669FF5D961",
-      "orgName": "Icod de los Vinos",
-      "orgType": "CONG",
-      "address": "Calle Las Granaderas, 51, bajo 1\r\n38430 Icod de los Vinos\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "19:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "699299573",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "42090DD4-2CE9-4FF4-AE8C-7E9D13B03933",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.038343,
+   "longitude": -16.632156
   },
-  {
-    "geoId": "B6EF3F66-D771-4C83-AD66-09E18F39D1ED",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.39803,
-      "longitude": -16.5611
-    },
-    "properties": {
-      "orgGuid": "B6EF3F66-D771-4C83-AD66-09E18F39D1ED",
-      "orgName": "Orotava, La",
-      "orgType": "CONG",
-      "address": "Avenida Archipiélago Canario, 31 (La Vera)\r\n38400 Puerto de la Cruz\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:15"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922 388 618",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "42090DD4-2CE9-4FF4-AE8C-7E9D13B03933",
+   "orgName": "Valle de San Lorenzo - Inglesa",
+   "orgType": "CONG",
+   "address": "Carretera General TF 652, RS San Miguel I, bajo 1\r\n(acceso por calle Benito Pérez Armas)\r\n38632 San Miguel de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+34&nbsp;635529636",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "13E1BBEE-27EF-4666-807B-E5D8F41F9BD7",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.39803,
-      "longitude": -16.5611
-    },
-    "properties": {
-      "orgGuid": "13E1BBEE-27EF-4666-807B-E5D8F41F9BD7",
-      "orgName": "Puerto de la Cruz",
-      "orgType": "CONG",
-      "address": "Avenida Archipiélago Canario, 31 (La Vera)\r\n38400 Puerto de la Cruz\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "19:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "655596411",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "CA0A88C1-843C-4D78-89A1-5827ECF422BE",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.038343,
+   "longitude": -16.632156
   },
-  {
-    "geoId": "4969247C-B369-410C-AEC9-87CF5804C68D",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.39803,
-      "longitude": -16.5611
-    },
-    "properties": {
-      "orgGuid": "4969247C-B369-410C-AEC9-87CF5804C68D",
-      "orgName": "Realejos, Los",
-      "orgType": "CONG",
-      "address": "Avenida Archipiélago Canario, 31 (La Vera)\r\n38400 Puerto de la Cruz\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "679 53 05 45",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "CA0A88C1-843C-4D78-89A1-5827ECF422BE",
+   "orgName": "Cabo Blanco",
+   "orgType": "CONG",
+   "address": "Carretera General TF 652, RS San Miguel I, bajo 1\r\n(acceso por calle Benito Pérez Armas)\r\n38632 San Miguel de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+34 642935215",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "2466B940-E058-41D5-B82B-9759A5CA0DE0",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.39803,
-      "longitude": -16.5611
-    },
-    "properties": {
-      "orgGuid": "2466B940-E058-41D5-B82B-9759A5CA0DE0",
-      "orgName": "Puerto de la Cruz - Italiana",
-      "orgType": "CONG",
-      "address": "Avenida Archipiélago Canario, 31 (La Vera)\r\n38400 Puerto de la Cruz\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "I",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922 388 618",
-          "ext": ""
-        },
-        {
-          "phone": "4199",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "8E824DD8-319C-4B8A-9D2C-D7D25DC07686",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.038343,
+   "longitude": -16.632156
   },
-  {
-    "geoId": "B66C5EB9-CA4A-4DD3-82CD-8A2E39F17100",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.39803,
-      "longitude": -16.5611
-    },
-    "properties": {
-      "orgGuid": "B66C5EB9-CA4A-4DD3-82CD-8A2E39F17100",
-      "orgName": "Puerto de la Cruz - Alemana",
-      "orgType": "CONG",
-      "address": "Avenida Archipiélago Canario, 31 (La Vera)\r\n38400 Puerto de la Cruz\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "X",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "11:15"
-          },
-          "midweek": {
-            "weekday": 1,
-            "time": "19:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0034670964422",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "8E824DD8-319C-4B8A-9D2C-D7D25DC07686",
+   "orgName": "Arona - Rusa",
+   "orgType": "CONG",
+   "address": "Carretera General TF 652, RS San Miguel I, bajo 1\r\n(acceso por calle Benito Pérez Armas)\r\n38632 San Miguel de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "U",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 1,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "603 160 449",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "EF6D697C-845B-4CBC-B7F4-1C7A3809C30F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.378912,
-      "longitude": -16.372292
-    },
-    "properties": {
-      "orgGuid": "EF6D697C-845B-4CBC-B7F4-1C7A3809C30F",
-      "orgName": "Güímar",
-      "orgType": "CONG",
-      "address": "Calle Ajoreña, 31\r\n38520 Igueste de Candelaria\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922166521",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "E87F86DE-28E0-4D41-8E9E-0F15415AB272",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.038343,
+   "longitude": -16.632156
   },
-  {
-    "geoId": "3B94FCF8-26E3-4149-98E1-0C77EA2C466A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.378912,
-      "longitude": -16.372292
-    },
-    "properties": {
-      "orgGuid": "3B94FCF8-26E3-4149-98E1-0C77EA2C466A",
-      "orgName": "Igueste de Candelaria",
-      "orgType": "CONG",
-      "address": "Calle Ajoreña, 31\r\n38520 Igueste de Candelaria\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "19:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922 166 521",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "E87F86DE-28E0-4D41-8E9E-0F15415AB272",
+   "orgName": "Valle de San Lorenzo - Grupo Alemán - Valle de San Lorenzo",
+   "orgType": "GROUP",
+   "address": "Carretera General TF 652, RS San Miguel I, bajo 1\r\n(acceso por calle Benito Pérez Armas)\r\n38632 San Miguel de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "X",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "634 383 879 (Español) 644 432 573 (Alemán)",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "0CC0F53A-E51F-41E2-8917-8725C147E6BE",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.378912,
-      "longitude": -16.372292
-    },
-    "properties": {
-      "orgGuid": "0CC0F53A-E51F-41E2-8917-8725C147E6BE",
-      "orgName": "Igueste de Candelaria - Grupo Italiano - Igueste de Candelaria",
-      "orgType": "GROUP",
-      "address": "Calle Ajoreña, 31\r\n38520 Igueste de Candelaria\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "I",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "19:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922 166 521",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "936C43F2-F97F-4467-AAE8-5B201823E83F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.079979,
+   "longitude": -16.561978
   },
-  {
-    "geoId": "4199BDB8-2236-45A7-8E1C-2A579982D4CD",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.44434,
-      "longitude": -16.3147
-    },
-    "properties": {
-      "orgGuid": "4199BDB8-2236-45A7-8E1C-2A579982D4CD",
-      "orgName": "Laguna, La - Taco",
-      "orgType": "CONG",
-      "address": "Calle Aires de Lima, C-4.58 P-1\r\n(acceso por calle Simón Rueda, 63)\r\n38107 Sobradillo, El\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:15"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922 618 327",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "936C43F2-F97F-4467-AAE8-5B201823E83F",
+   "orgName": "San Isidro",
+   "orgType": "CONG",
+   "address": "Calle La Vera, 2\r\n38611 San Isidro de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "19:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922393058",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "7248FB0F-7131-4DC0-92AF-D981983F1234",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.44434,
-      "longitude": -16.3147
-    },
-    "properties": {
-      "orgGuid": "7248FB0F-7131-4DC0-92AF-D981983F1234",
-      "orgName": "Santa Cruz de Tenerife - Alisios, Los",
-      "orgType": "CONG",
-      "address": "Calle Aires de Lima, C-4.58 P-1\r\n(acceso por calle Simón Rueda, 63)\r\n38107 Sobradillo, El\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922 618 327",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "EB14512A-4B51-4F7F-BD92-5E2EAF228C1C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.079979,
+   "longitude": -16.561978
   },
-  {
-    "geoId": "9FE6DC13-E9D6-44A7-B7AC-1F011289FFE6",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.44434,
-      "longitude": -16.3147
-    },
-    "properties": {
-      "orgGuid": "9FE6DC13-E9D6-44A7-B7AC-1F011289FFE6",
-      "orgName": "Santa Cruz de Tenerife - Barranco Grande",
-      "orgType": "CONG",
-      "address": "Calle Aires de Lima, C-4.58 P-1\r\n(acceso por calle Simón Rueda, 63)\r\n38107 Sobradillo, El\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "19:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922618327",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "EB14512A-4B51-4F7F-BD92-5E2EAF228C1C",
+   "orgName": "San Miguel de Abona - China",
+   "orgType": "CONG",
+   "address": "Calle La Vera, 2\r\n38611 San Isidro de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "CHM",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+34 617874825",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "B51D084C-9625-4834-A5DC-8C0A07371045",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.45201,
-      "longitude": -16.287269
-    },
-    "properties": {
-      "orgGuid": "B51D084C-9625-4834-A5DC-8C0A07371045",
-      "orgName": "Santa Cruz de Tenerife - Centro",
-      "orgType": "CONG",
-      "address": "Calle de Gutierre de Cetina, 9\r\n38010 Santa Cruz de Tenerife\r\n\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "655588356",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3F05FD0C-3D96-4C27-B075-6083CD722043",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.079979,
+   "longitude": -16.561978
   },
-  {
-    "geoId": "436A88B0-8BAC-43FA-8CE5-D658CD474F2C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.45201,
-      "longitude": -16.287269
-    },
-    "properties": {
-      "orgGuid": "436A88B0-8BAC-43FA-8CE5-D658CD474F2C",
-      "orgName": "Santa Cruz de Tenerife - Delicias",
-      "orgType": "CONG",
-      "address": "Calle de Gutierre de Cetina, 9\r\n38010 Santa Cruz de Tenerife\r\n\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922663225",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "3F05FD0C-3D96-4C27-B075-6083CD722043",
+   "orgName": "San Isidro - Polaca",
+   "orgType": "CONG",
+   "address": "Calle La Vera, 2\r\n38611 San Isidro de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "P",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "19:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+34602610948",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "A0707DC0-2C5A-40B5-B71D-092FF6F6DBFC",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.45201,
-      "longitude": -16.287269
-    },
-    "properties": {
-      "orgGuid": "A0707DC0-2C5A-40B5-B71D-092FF6F6DBFC",
-      "orgName": "Santa Cruz de Tenerife - Salamanca",
-      "orgType": "CONG",
-      "address": "Calle de Gutierre de Cetina, 9\r\n38010 Santa Cruz de Tenerife\r\n\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:15"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "644023968",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "62979D90-2631-4AF4-9A3D-75B2738DD3BA",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.079979,
+   "longitude": -16.561978
   },
-  {
-    "geoId": "5DAFEE2F-E848-40D6-A7AB-A8987D68D581",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.491496,
-      "longitude": -16.323809
-    },
-    "properties": {
-      "orgGuid": "5DAFEE2F-E848-40D6-A7AB-A8987D68D581",
-      "orgName": "Laguna, La - Universidad",
-      "orgType": "CONG",
-      "address": "Avenida Lucas Vega, 38, bajo 1\r\n38202 Laguna, La\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "20:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922252798",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "62979D90-2631-4AF4-9A3D-75B2738DD3BA",
+   "orgName": "Granadilla",
+   "orgType": "CONG",
+   "address": "Calle La Vera, 2\r\n38611 San Isidro de Abona\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922393058",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "C401F049-6A3A-4C12-A239-6B6EDBC85EC3",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.491496,
-      "longitude": -16.323809
-    },
-    "properties": {
-      "orgGuid": "C401F049-6A3A-4C12-A239-6B6EDBC85EC3",
-      "orgName": "Tacoronte",
-      "orgType": "CONG",
-      "address": "Avenida Lucas Vega, 38, bajo 1\r\n38202 Laguna, La\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922252798",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "FD66BBB4-830C-477C-8353-5F18C94169DE",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.36824,
+   "longitude": -16.8476
   },
-  {
-    "geoId": "8250B165-5C7F-4DCD-B52D-9BCF11CF5938",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.53394,
-      "longitude": -16.3611
-    },
-    "properties": {
-      "orgGuid": "8250B165-5C7F-4DCD-B52D-9BCF11CF5938",
-      "orgName": "Tegueste",
-      "orgType": "CONG",
-      "address": "Camino La Palma, 8, bajo 1\r\n38260 Laguna, La\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "699 345 689",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "FD66BBB4-830C-477C-8353-5F18C94169DE",
+   "orgName": "Buenavista",
+   "orgType": "CONG",
+   "address": "Calle Ajoque, 5(A)\r\n(acceso por avenida de la Constitución)\r\n38480 Buenavista del Norte\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922 12 78 72",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "6E194BEF-87EB-4923-92E6-91520BA6AFF3",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.47059,
-      "longitude": -16.2913
-    },
-    "properties": {
-      "orgGuid": "6E194BEF-87EB-4923-92E6-91520BA6AFF3",
-      "orgName": "Santa Cruz de Tenerife - Salud",
-      "orgType": "CONG",
-      "address": "Calle Laurisilva, 45, sótano 2\r\n38320 Laguna, La\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922 652 628",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "149720E0-6C17-45E0-89C9-BA669FF5D961",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.37223,
+   "longitude": -16.7193
   },
-  {
-    "geoId": "5C3A79F6-2563-498E-8C52-44307E6C2CB9",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.47059,
-      "longitude": -16.2913
-    },
-    "properties": {
-      "orgGuid": "5C3A79F6-2563-498E-8C52-44307E6C2CB9",
-      "orgName": "Laguna, La - Cuesta, La",
-      "orgType": "CONG",
-      "address": "Calle Laurisilva, 45, sótano 2\r\n38320 Laguna, La\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:15"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922 652 628",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "149720E0-6C17-45E0-89C9-BA669FF5D961",
+   "orgName": "Icod de los Vinos",
+   "orgType": "CONG",
+   "address": "Calle Las Granaderas, 51, bajo 1\r\n38430 Icod de los Vinos\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "19:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "699299573",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "ADD8173E-11C0-4691-B065-FCD110BF5126",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.47059,
-      "longitude": -16.2913
-    },
-    "properties": {
-      "orgGuid": "ADD8173E-11C0-4691-B065-FCD110BF5126",
-      "orgName": "Laguna, La - Finca España",
-      "orgType": "CONG",
-      "address": "Calle Laurisilva, 45, sótano 2\r\n38320 Laguna, La\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "19:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "922 652 628",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B6EF3F66-D771-4C83-AD66-09E18F39D1ED",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.39803,
+   "longitude": -16.5611
   },
-  {
-    "geoId": "EF59CC15-47D4-4757-AFD8-34EE2CF3237B",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 28.47059,
-      "longitude": -16.2913
+  "properties": {
+   "orgGuid": "B6EF3F66-D771-4C83-AD66-09E18F39D1ED",
+   "orgName": "Orotava, La",
+   "orgType": "CONG",
+   "address": "Avenida Archipiélago Canario, 31 (La Vera)\r\n38400 Puerto de la Cruz\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:15"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922 388 618",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "13E1BBEE-27EF-4666-807B-E5D8F41F9BD7",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.39803,
+   "longitude": -16.5611
+  },
+  "properties": {
+   "orgGuid": "13E1BBEE-27EF-4666-807B-E5D8F41F9BD7",
+   "orgName": "Puerto de la Cruz",
+   "orgType": "CONG",
+   "address": "Avenida Archipiélago Canario, 31 (La Vera)\r\n38400 Puerto de la Cruz\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "19:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "655596411",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4969247C-B369-410C-AEC9-87CF5804C68D",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.39803,
+   "longitude": -16.5611
+  },
+  "properties": {
+   "orgGuid": "4969247C-B369-410C-AEC9-87CF5804C68D",
+   "orgName": "Realejos, Los",
+   "orgType": "CONG",
+   "address": "Avenida Archipiélago Canario, 31 (La Vera)\r\n38400 Puerto de la Cruz\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "679 53 05 45",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "2466B940-E058-41D5-B82B-9759A5CA0DE0",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.39803,
+   "longitude": -16.5611
+  },
+  "properties": {
+   "orgGuid": "2466B940-E058-41D5-B82B-9759A5CA0DE0",
+   "orgName": "Puerto de la Cruz - Italiana",
+   "orgType": "CONG",
+   "address": "Avenida Archipiélago Canario, 31 (La Vera)\r\n38400 Puerto de la Cruz\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "I",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922 388 618",
+     "ext": ""
     },
-    "properties": {
-      "orgGuid": "EF59CC15-47D4-4757-AFD8-34EE2CF3237B",
-      "orgName": "Laguna, La - Lengua de Signos",
-      "orgType": "CONG",
-      "address": "Calle Laurisilva, 45, sótano 2\r\n38320 Laguna, La\r\nSANTA CRUZ DE TENERIFE\r\n",
-      "languageCode": "LSE",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+34&nbsp;922 652 628",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T02:35:48.325Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+    {
+     "phone": "4199",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B66C5EB9-CA4A-4DD3-82CD-8A2E39F17100",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.39803,
+   "longitude": -16.5611
+  },
+  "properties": {
+   "orgGuid": "B66C5EB9-CA4A-4DD3-82CD-8A2E39F17100",
+   "orgName": "Puerto de la Cruz - Alemana",
+   "orgType": "CONG",
+   "address": "Avenida Archipiélago Canario, 31 (La Vera)\r\n38400 Puerto de la Cruz\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "X",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "11:15"
+     },
+     "midweek": {
+      "weekday": 1,
+      "time": "19:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0034670964422",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "EF6D697C-845B-4CBC-B7F4-1C7A3809C30F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.378912,
+   "longitude": -16.372292
+  },
+  "properties": {
+   "orgGuid": "EF6D697C-845B-4CBC-B7F4-1C7A3809C30F",
+   "orgName": "Güímar",
+   "orgType": "CONG",
+   "address": "Calle Ajoreña, 31\r\n38520 Igueste de Candelaria\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922166521",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3B94FCF8-26E3-4149-98E1-0C77EA2C466A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.378912,
+   "longitude": -16.372292
+  },
+  "properties": {
+   "orgGuid": "3B94FCF8-26E3-4149-98E1-0C77EA2C466A",
+   "orgName": "Igueste de Candelaria",
+   "orgType": "CONG",
+   "address": "Calle Ajoreña, 31\r\n38520 Igueste de Candelaria\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "19:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922 166 521",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "0CC0F53A-E51F-41E2-8917-8725C147E6BE",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.378912,
+   "longitude": -16.372292
+  },
+  "properties": {
+   "orgGuid": "0CC0F53A-E51F-41E2-8917-8725C147E6BE",
+   "orgName": "Igueste de Candelaria - Grupo Italiano - Igueste de Candelaria",
+   "orgType": "GROUP",
+   "address": "Calle Ajoreña, 31\r\n38520 Igueste de Candelaria\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "I",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "19:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922 166 521",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4199BDB8-2236-45A7-8E1C-2A579982D4CD",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.44434,
+   "longitude": -16.3147
+  },
+  "properties": {
+   "orgGuid": "4199BDB8-2236-45A7-8E1C-2A579982D4CD",
+   "orgName": "Laguna, La - Taco",
+   "orgType": "CONG",
+   "address": "Calle Aires de Lima, C-4.58 P-1\r\n(acceso por calle Simón Rueda, 63)\r\n38107 Sobradillo, El\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:15"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922 618 327",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "7248FB0F-7131-4DC0-92AF-D981983F1234",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.44434,
+   "longitude": -16.3147
+  },
+  "properties": {
+   "orgGuid": "7248FB0F-7131-4DC0-92AF-D981983F1234",
+   "orgName": "Santa Cruz de Tenerife - Alisios, Los",
+   "orgType": "CONG",
+   "address": "Calle Aires de Lima, C-4.58 P-1\r\n(acceso por calle Simón Rueda, 63)\r\n38107 Sobradillo, El\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922 618 327",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "9FE6DC13-E9D6-44A7-B7AC-1F011289FFE6",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.44434,
+   "longitude": -16.3147
+  },
+  "properties": {
+   "orgGuid": "9FE6DC13-E9D6-44A7-B7AC-1F011289FFE6",
+   "orgName": "Santa Cruz de Tenerife - Barranco Grande",
+   "orgType": "CONG",
+   "address": "Calle Aires de Lima, C-4.58 P-1\r\n(acceso por calle Simón Rueda, 63)\r\n38107 Sobradillo, El\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "19:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922618327",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B51D084C-9625-4834-A5DC-8C0A07371045",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.45201,
+   "longitude": -16.287269
+  },
+  "properties": {
+   "orgGuid": "B51D084C-9625-4834-A5DC-8C0A07371045",
+   "orgName": "Santa Cruz de Tenerife - Centro",
+   "orgType": "CONG",
+   "address": "Calle de Gutierre de Cetina, 9\r\n38010 Santa Cruz de Tenerife\r\n\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "655588356",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "436A88B0-8BAC-43FA-8CE5-D658CD474F2C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.45201,
+   "longitude": -16.287269
+  },
+  "properties": {
+   "orgGuid": "436A88B0-8BAC-43FA-8CE5-D658CD474F2C",
+   "orgName": "Santa Cruz de Tenerife - Delicias",
+   "orgType": "CONG",
+   "address": "Calle de Gutierre de Cetina, 9\r\n38010 Santa Cruz de Tenerife\r\n\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922663225",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A0707DC0-2C5A-40B5-B71D-092FF6F6DBFC",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.45201,
+   "longitude": -16.287269
+  },
+  "properties": {
+   "orgGuid": "A0707DC0-2C5A-40B5-B71D-092FF6F6DBFC",
+   "orgName": "Santa Cruz de Tenerife - Salamanca",
+   "orgType": "CONG",
+   "address": "Calle de Gutierre de Cetina, 9\r\n38010 Santa Cruz de Tenerife\r\n\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:15"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "644023968",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "5DAFEE2F-E848-40D6-A7AB-A8987D68D581",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.491496,
+   "longitude": -16.323809
+  },
+  "properties": {
+   "orgGuid": "5DAFEE2F-E848-40D6-A7AB-A8987D68D581",
+   "orgName": "Laguna, La - Universidad",
+   "orgType": "CONG",
+   "address": "Avenida Lucas Vega, 38, bajo 1\r\n38202 Laguna, La\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "20:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922252798",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "C401F049-6A3A-4C12-A239-6B6EDBC85EC3",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.491496,
+   "longitude": -16.323809
+  },
+  "properties": {
+   "orgGuid": "C401F049-6A3A-4C12-A239-6B6EDBC85EC3",
+   "orgName": "Tacoronte",
+   "orgType": "CONG",
+   "address": "Avenida Lucas Vega, 38, bajo 1\r\n38202 Laguna, La\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922252798",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "8250B165-5C7F-4DCD-B52D-9BCF11CF5938",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.53394,
+   "longitude": -16.3611
+  },
+  "properties": {
+   "orgGuid": "8250B165-5C7F-4DCD-B52D-9BCF11CF5938",
+   "orgName": "Tegueste",
+   "orgType": "CONG",
+   "address": "Camino La Palma, 8, bajo 1\r\n38260 Laguna, La\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "699 345 689",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "6E194BEF-87EB-4923-92E6-91520BA6AFF3",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.47059,
+   "longitude": -16.2913
+  },
+  "properties": {
+   "orgGuid": "6E194BEF-87EB-4923-92E6-91520BA6AFF3",
+   "orgName": "Santa Cruz de Tenerife - Salud",
+   "orgType": "CONG",
+   "address": "Calle Laurisilva, 45, sótano 2\r\n38320 Laguna, La\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922 652 628",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "5C3A79F6-2563-498E-8C52-44307E6C2CB9",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.47059,
+   "longitude": -16.2913
+  },
+  "properties": {
+   "orgGuid": "5C3A79F6-2563-498E-8C52-44307E6C2CB9",
+   "orgName": "Laguna, La - Cuesta, La",
+   "orgType": "CONG",
+   "address": "Calle Laurisilva, 45, sótano 2\r\n38320 Laguna, La\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:15"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922 652 628",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "ADD8173E-11C0-4691-B065-FCD110BF5126",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.47059,
+   "longitude": -16.2913
+  },
+  "properties": {
+   "orgGuid": "ADD8173E-11C0-4691-B065-FCD110BF5126",
+   "orgName": "Laguna, La - Finca España",
+   "orgType": "CONG",
+   "address": "Calle Laurisilva, 45, sótano 2\r\n38320 Laguna, La\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "19:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "922 652 628",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "EF59CC15-47D4-4757-AFD8-34EE2CF3237B",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 28.47059,
+   "longitude": -16.2913
+  },
+  "properties": {
+   "orgGuid": "EF59CC15-47D4-4757-AFD8-34EE2CF3237B",
+   "orgName": "Laguna, La - Lengua de Signos",
+   "orgType": "CONG",
+   "address": "Calle Laurisilva, 45, sótano 2\r\n38320 Laguna, La\r\nSANTA CRUZ DE TENERIFE\r\n",
+   "languageCode": "LSE",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+34&nbsp;922 652 628",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

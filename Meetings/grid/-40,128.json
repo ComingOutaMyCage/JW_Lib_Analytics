@@ -1,39 +1,40 @@
 [
-  {
-    "geoId": "B588AE98-B084-4043-B6A6-B0B0F481506F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -34.74177,
-      "longitude": 135.86053
-    },
-    "properties": {
-      "orgGuid": "B588AE98-B084-4043-B6A6-B0B0F481506F",
-      "orgName": "Port Lincoln - SA",
-      "orgType": "CONG",
-      "address": "25-27 Stamford Terrace\nPORT LINCOLN  SA  5606\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0414 604 893",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+ {
+  "geoId": "B588AE98-B084-4043-B6A6-B0B0F481506F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -34.74177,
+   "longitude": 135.86053
+  },
+  "properties": {
+   "orgGuid": "B588AE98-B084-4043-B6A6-B0B0F481506F",
+   "orgName": "Port Lincoln - SA",
+   "orgType": "CONG",
+   "address": "25-27 Stamford Terrace\nPORT LINCOLN  SA  5606\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0414 604 893",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

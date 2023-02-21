@@ -1,1657 +1,1701 @@
 [
-  {
-    "geoId": "9F7E9BE9-D510-45A4-8E5A-57CA7EA46D44",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.923411,
-      "longitude": -23.521618
-    },
-    "properties": {
-      "orgGuid": "9F7E9BE9-D510-45A4-8E5A-57CA7EA46D44",
-      "orgName": "Achada",
-      "orgType": "CONG",
-      "address": "Rua da Escola Amor de Deus, 613\r\nTerra Branca\r\nPRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-261-23-28",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "9F7E9BE9-D510-45A4-8E5A-57CA7EA46D44",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.923411,
+   "longitude": -23.521618
   },
-  {
-    "geoId": "7B243D15-4A95-440D-9B8C-A0A7D2643547",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.923411,
-      "longitude": -23.521618
-    },
-    "properties": {
-      "orgGuid": "7B243D15-4A95-440D-9B8C-A0A7D2643547",
-      "orgName": "Terra Branca",
-      "orgType": "CONG",
-      "address": "Rua da Escola Amor de Deus, 613\r\nTerra Branca\r\nPRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:30"
-          },
-          "midweek": {
-            "weekday": 1,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-261-23-28",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "9F7E9BE9-D510-45A4-8E5A-57CA7EA46D44",
+   "orgName": "Achada",
+   "orgType": "CONG",
+   "address": "Rua da Escola Amor de Deus, 613\r\nTerra Branca\r\nPRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-261-23-28",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "C82CEB81-5005-4744-8D44-7912CCFD1977",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.923411,
-      "longitude": -23.521618
-    },
-    "properties": {
-      "orgGuid": "C82CEB81-5005-4744-8D44-7912CCFD1977",
-      "orgName": "Palmarejo",
-      "orgType": "CONG",
-      "address": "Rua da Escola Amor de Deus, 613\r\nTerra Branca\r\nPRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "LGP"
-      ],
-      "phones": [
-        {
-          "phone": "2612328",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "7B243D15-4A95-440D-9B8C-A0A7D2643547",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.923411,
+   "longitude": -23.521618
   },
-  {
-    "geoId": "8572F931-C355-436B-9E67-0E3C58029830",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.925618,
-      "longitude": -23.506941
-    },
-    "properties": {
-      "orgGuid": "8572F931-C355-436B-9E67-0E3C58029830",
-      "orgName": "Achadinha",
-      "orgType": "CONG",
-      "address": "Várzea da Boavista (perto da SEAGE)\r\nCaixa Postal 310 - C\r\n7601 FAZENDA - CIDADE DA PRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "E"
-      ],
-      "phones": [
-        {
-          "phone": "+238-261-83-34",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "7B243D15-4A95-440D-9B8C-A0A7D2643547",
+   "orgName": "Terra Branca",
+   "orgType": "CONG",
+   "address": "Rua da Escola Amor de Deus, 613\r\nTerra Branca\r\nPRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:30"
+     },
+     "midweek": {
+      "weekday": 1,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-261-23-28",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "6977639D-AD8D-4ACF-82B3-EBFE06A119C3",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.925618,
-      "longitude": -23.506941
-    },
-    "properties": {
-      "orgGuid": "6977639D-AD8D-4ACF-82B3-EBFE06A119C3",
-      "orgName": "Vila Nova",
-      "orgType": "CONG",
-      "address": "Várzea da Boavista (perto da SEAGE)\r\nCaixa Postal 310 - C\r\n7601 FAZENDA - CIDADE DA PRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-261-83-34",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "C82CEB81-5005-4744-8D44-7912CCFD1977",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.923411,
+   "longitude": -23.521618
   },
-  {
-    "geoId": "B7DF0327-318B-4A52-8BD4-8A80A3F9B1AE",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.925618,
-      "longitude": -23.506941
-    },
-    "properties": {
-      "orgGuid": "B7DF0327-318B-4A52-8BD4-8A80A3F9B1AE",
-      "orgName": "Fazenda",
-      "orgType": "CONG",
-      "address": "Várzea da Boavista (perto da SEAGE)\r\nCaixa Postal 310 - C\r\n7601 FAZENDA - CIDADE DA PRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "15:00"
-          },
-          "midweek": {
-            "weekday": 1,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-261-83-34",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "C82CEB81-5005-4744-8D44-7912CCFD1977",
+   "orgName": "Palmarejo",
+   "orgType": "CONG",
+   "address": "Rua da Escola Amor de Deus, 613\r\nTerra Branca\r\nPRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "LGP"
+   ],
+   "phones": [
+    {
+     "phone": "2612328",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "361614B0-8CB2-495F-8CBD-1E12498534E7",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.925618,
-      "longitude": -23.506941
-    },
-    "properties": {
-      "orgGuid": "361614B0-8CB2-495F-8CBD-1E12498534E7",
-      "orgName": "Ponta D'Água",
-      "orgType": "CONG",
-      "address": "Várzea da Boavista (perto da SEAGE)\r\nCaixa Postal 310 - C\r\n7601 FAZENDA - CIDADE DA PRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-261-83-34",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "8572F931-C355-436B-9E67-0E3C58029830",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.925618,
+   "longitude": -23.506941
   },
-  {
-    "geoId": "F0E1DB20-FBEE-4876-A5FD-50A620EDB758",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.925618,
-      "longitude": -23.506941
-    },
-    "properties": {
-      "orgGuid": "F0E1DB20-FBEE-4876-A5FD-50A620EDB758",
-      "orgName": "Praia Inglês - Achadinha",
-      "orgType": "GROUP",
-      "address": "Várzea da Boavista (perto da SEAGE)\r\nCaixa Postal 310 - C\r\n7601 FAZENDA - CIDADE DA PRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "KBV"
-      ],
-      "phones": [
-        {
-          "phone": "+238-261-83-34",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "8572F931-C355-436B-9E67-0E3C58029830",
+   "orgName": "Achadinha",
+   "orgType": "CONG",
+   "address": "Várzea da Boavista (perto da SEAGE)\r\nCaixa Postal 310 - C\r\n7601 FAZENDA - CIDADE DA PRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "E"
+   ],
+   "phones": [
+    {
+     "phone": "+238-261-83-34",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "03CB5655-7B98-4791-A008-FF2B2E9864D0",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 15.094654,
-      "longitude": -23.664482
-    },
-    "properties": {
-      "orgGuid": "03CB5655-7B98-4791-A008-FF2B2E9864D0",
-      "orgName": "Assomada - Santa Catarina",
-      "orgType": "CONG",
-      "address": "Achada Riba, ao lado do\r\nPalácio da Justiça\r\n7310 ASSOMADA\r\nAssomada\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-265-10-15",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "6977639D-AD8D-4ACF-82B3-EBFE06A119C3",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.925618,
+   "longitude": -23.506941
   },
-  {
-    "geoId": "44CFB81E-574F-4BDF-B6C9-6C877D87324B",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 15.157535,
-      "longitude": -23.700106
-    },
-    "properties": {
-      "orgGuid": "44CFB81E-574F-4BDF-B6C9-6C877D87324B",
-      "orgName": "Achada Lém",
-      "orgType": "CONG",
-      "address": "Fundura - Paragem para Porto de Ribeira da Barca\r\n7310 FUNDURA - ACHADA LÉM\r\nSanta Catarina\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238&nbsp;998 24 56",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "6977639D-AD8D-4ACF-82B3-EBFE06A119C3",
+   "orgName": "Vila Nova",
+   "orgType": "CONG",
+   "address": "Várzea da Boavista (perto da SEAGE)\r\nCaixa Postal 310 - C\r\n7601 FAZENDA - CIDADE DA PRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-261-83-34",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "3E129A93-54B5-4728-888C-D3D5B8F0F8B4",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 15.029688,
-      "longitude": -23.566589
-    },
-    "properties": {
-      "orgGuid": "3E129A93-54B5-4728-888C-D3D5B8F0F8B4",
-      "orgName": "São Domingos",
-      "orgType": "CONG",
-      "address": "Figueira Branca, CP 15,\r\n7515 SÂO DOMINGOS\r\nSão Domingos\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 3,
-            "time": "19:00"
-          },
-          "midweek": {
-            "weekday": 7,
-            "time": "10:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-3568183",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B7DF0327-318B-4A52-8BD4-8A80A3F9B1AE",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.925618,
+   "longitude": -23.506941
   },
-  {
-    "geoId": "A6552743-2A0F-4DE9-ACB7-474666059E7F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 15.274345,
-      "longitude": -23.748117
-    },
-    "properties": {
-      "orgGuid": "A6552743-2A0F-4DE9-ACB7-474666059E7F",
-      "orgName": "Tarrafal, Santiago",
-      "orgType": "CONG",
-      "address": "Atrás da Antiga EMPA\r\nColhe Bicho, Tarrafal\r\n7110 ILHA SANTIAGO\r\nTarrafal\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-923-44-52",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "B7DF0327-318B-4A52-8BD4-8A80A3F9B1AE",
+   "orgName": "Fazenda",
+   "orgType": "CONG",
+   "address": "Várzea da Boavista (perto da SEAGE)\r\nCaixa Postal 310 - C\r\n7601 FAZENDA - CIDADE DA PRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 1,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-261-83-34",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "164EE30F-6D16-4931-8F26-C3B5F0114793",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 15.18931,
-      "longitude": -23.59299
-    },
-    "properties": {
-      "orgGuid": "164EE30F-6D16-4931-8F26-C3B5F0114793",
-      "orgName": "Calheta, Santiago",
-      "orgType": "CONG",
-      "address": "Veneza\r\n7215 CALHETA\r\nCalheta de São Miguel\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-9887771",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "361614B0-8CB2-495F-8CBD-1E12498534E7",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.925618,
+   "longitude": -23.506941
   },
-  {
-    "geoId": "37D9C21C-8445-4316-91F1-4CF958E2F4D9",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 15.139833,
-      "longitude": -23.531783
-    },
-    "properties": {
-      "orgGuid": "37D9C21C-8445-4316-91F1-4CF958E2F4D9",
-      "orgName": "Pedra Badejo",
-      "orgType": "CONG",
-      "address": "Achada do Campo\r\nVila de Pedra Badejo\r\nCONCELHO DE SANTA CRUZ\r\nPedra Badejo\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-9963726",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "361614B0-8CB2-495F-8CBD-1E12498534E7",
+   "orgName": "Ponta D'Água",
+   "orgType": "CONG",
+   "address": "Várzea da Boavista (perto da SEAGE)\r\nCaixa Postal 310 - C\r\n7601 FAZENDA - CIDADE DA PRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-261-83-34",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "8C6C9AC0-64E0-4320-BA3C-B6CD6FBDF2C7",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 15.144174,
-      "longitude": -23.212813
-    },
-    "properties": {
-      "orgGuid": "8C6C9AC0-64E0-4320-BA3C-B6CD6FBDF2C7",
-      "orgName": "Cabo Verde Porto Inglês",
-      "orgType": "CONG",
-      "address": "Av. Cabral, 175 R/C\r\nZona Fontona de Baixo\r\n6110 VILA PORTO INGLÊS\r\nMaio\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238&nbsp;9752865",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "F0E1DB20-FBEE-4876-A5FD-50A620EDB758",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.925618,
+   "longitude": -23.506941
   },
-  {
-    "geoId": "454D6A00-01EB-41B5-B5F2-7DE40517B871",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 12.56429,
-      "longitude": -16.26336
-    },
-    "properties": {
-      "orgGuid": "454D6A00-01EB-41B5-B5F2-7DE40517B871",
-      "orgName": "Ziguinchor Tilène-Central",
-      "orgType": "CONG",
-      "address": "Route du CEMT\r\nQuartier Tilène Central\r\nZiguinchor\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Route du CEMT\r\nQuartier Tilène Central\r\nZiguinchor\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+221) 77 843 05 62",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "F0E1DB20-FBEE-4876-A5FD-50A620EDB758",
+   "orgName": "Praia Inglês - Achadinha",
+   "orgType": "GROUP",
+   "address": "Várzea da Boavista (perto da SEAGE)\r\nCaixa Postal 310 - C\r\n7601 FAZENDA - CIDADE DA PRAIA\r\nPraia\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "KBV"
+   ],
+   "phones": [
+    {
+     "phone": "+238-261-83-34",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "A6C015D7-A05C-4980-ABFE-75FD17490E18",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 12.56429,
-      "longitude": -16.26336
-    },
-    "properties": {
-      "orgGuid": "A6C015D7-A05C-4980-ABFE-75FD17490E18",
-      "orgName": "Ziguinchor Lyndiane",
-      "orgType": "CONG",
-      "address": "Route du CEMT\r\nQuartier Tilène Central\r\nZiguinchor\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Route du CEMT\r\nQuartier Tilène Central\r\nZiguinchor\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+221) 77 819 54 00",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "03CB5655-7B98-4791-A008-FF2B2E9864D0",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 15.094654,
+   "longitude": -23.664482
   },
-  {
-    "geoId": "EE2C2ADE-FBC6-403F-B631-8A77FBE27D15",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 13.446963,
-      "longitude": -16.708318
-    },
-    "properties": {
-      "orgGuid": "EE2C2ADE-FBC6-403F-B631-8A77FBE27D15",
-      "orgName": "Serrekunda West",
-      "orgType": "CONG",
-      "address": "Kotu Assembly Hall\r\nPremium T.V. Road, Kotu South Layout\r\nK.S.M.D.\r\nSerrekunda\r\nTHE GAMBIA\r\n",
-      "transliteratedAddress": "Kotu Assembly Hall\r\nPremium T.V. Road, Kotu South Layout\r\nK.S.M.D.\r\nSerrekunda\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+220) 779 50 87/(+220) 731 32 71",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "03CB5655-7B98-4791-A008-FF2B2E9864D0",
+   "orgName": "Assomada - Santa Catarina",
+   "orgType": "CONG",
+   "address": "Achada Riba, ao lado do\r\nPalácio da Justiça\r\n7310 ASSOMADA\r\nAssomada\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-265-10-15",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "EE18986E-042C-47D2-826F-927973F7D646",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 13.446963,
-      "longitude": -16.708318
-    },
-    "properties": {
-      "orgGuid": "EE18986E-042C-47D2-826F-927973F7D646",
-      "orgName": "Serrekunda French",
-      "orgType": "CONG",
-      "address": "Kotu Assembly Hall\r\nPremium T.V. Road, Kotu South Layout\r\nK.S.M.D.\r\nSerrekunda\r\nTHE GAMBIA\r\n",
-      "transliteratedAddress": "Kotu Assembly Hall\r\nPremium T.V. Road, Kotu South Layout\r\nK.S.M.D.\r\nSerrekunda\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+220) 7856532/ (+221) 775332058 /+220)7730270",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "44CFB81E-574F-4BDF-B6C9-6C877D87324B",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 15.157535,
+   "longitude": -23.700106
   },
-  {
-    "geoId": "3AEC9B9A-5753-44E8-B4B4-D9D8B45EC4C5",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 13.437639,
-      "longitude": -16.674254
-    },
-    "properties": {
-      "orgGuid": "3AEC9B9A-5753-44E8-B4B4-D9D8B45EC4C5",
-      "orgName": "Serrekunda East",
-      "orgType": "CONG",
-      "address": "Ebo Town Road\r\nSuper Bar Junction, Behind Super Bar\r\nSerrekunda\r\nTHE GAMBIA\r\n",
-      "transliteratedAddress": "Ebo Town Road\r\nSuper Bar Junction, Behind Super Bar\r\nSerrekunda\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+220) 779 82 13",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "44CFB81E-574F-4BDF-B6C9-6C877D87324B",
+   "orgName": "Achada Lém",
+   "orgType": "CONG",
+   "address": "Fundura - Paragem para Porto de Ribeira da Barca\r\n7310 FUNDURA - ACHADA LÉM\r\nSanta Catarina\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238&nbsp;998 24 56",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "26967D46-45A3-4819-8322-4E619F52B2E4",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 13.437639,
-      "longitude": -16.674254
-    },
-    "properties": {
-      "orgGuid": "26967D46-45A3-4819-8322-4E619F52B2E4",
-      "orgName": "Serrekunda Central",
-      "orgType": "CONG",
-      "address": "Ebo Town Road\r\nSuper Bar Junction, Behind Super Bar\r\nSerrekunda\r\nTHE GAMBIA\r\n",
-      "transliteratedAddress": "Ebo Town Road\r\nSuper Bar Junction, Behind Super Bar\r\nSerrekunda\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+220&nbsp;777 9281",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3E129A93-54B5-4728-888C-D3D5B8F0F8B4",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 15.029688,
+   "longitude": -23.566589
   },
-  {
-    "geoId": "E93704C4-A387-46C2-A757-992041B88520",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.744404,
-      "longitude": -17.515867
-    },
-    "properties": {
-      "orgGuid": "E93704C4-A387-46C2-A757-992041B88520",
-      "orgName": "Dakar Almadies",
-      "orgType": "CONG",
-      "address": "Parcelle 1, Zone 8\r\nEn face du nouveau marché de Ngor\r\nAlmadies (Ngor)\r\nSENEGAL\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "WO"
-      ],
-      "phones": [
-        {
-          "phone": "+221775754672",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "3E129A93-54B5-4728-888C-D3D5B8F0F8B4",
+   "orgName": "São Domingos",
+   "orgType": "CONG",
+   "address": "Figueira Branca, CP 15,\r\n7515 SÂO DOMINGOS\r\nSão Domingos\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 3,
+      "time": "19:00"
+     },
+     "midweek": {
+      "weekday": 7,
+      "time": "10:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-3568183",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "77E92C14-5D63-4D20-B2E7-A9E2431A7889",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.744404,
-      "longitude": -17.515867
-    },
-    "properties": {
-      "orgGuid": "77E92C14-5D63-4D20-B2E7-A9E2431A7889",
-      "orgName": "Dakar Ouakam Wolof",
-      "orgType": "CONG",
-      "address": "Parcelle 1, Zone 8\r\nEn face du nouveau marché de Ngor\r\nAlmadies (Ngor)\r\nSENEGAL\r\n",
-      "languageCode": "WO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "±221775773387",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A6552743-2A0F-4DE9-ACB7-474666059E7F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 15.274345,
+   "longitude": -23.748117
   },
-  {
-    "geoId": "750B2DD0-CB5A-42FE-80A7-018A00364B13",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.744404,
-      "longitude": -17.515867
-    },
-    "properties": {
-      "orgGuid": "750B2DD0-CB5A-42FE-80A7-018A00364B13",
-      "orgName": "Dakar Ouakam",
-      "orgType": "CONG",
-      "address": "Parcelle 1, Zone 8\r\nEn face du nouveau marché de Ngor\r\nAlmadies (Ngor)\r\nSENEGAL\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+221&nbsp;77 798 13 39",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "A6552743-2A0F-4DE9-ACB7-474666059E7F",
+   "orgName": "Tarrafal, Santiago",
+   "orgType": "CONG",
+   "address": "Atrás da Antiga EMPA\r\nColhe Bicho, Tarrafal\r\n7110 ILHA SANTIAGO\r\nTarrafal\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-923-44-52",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "B5DA90E7-6FB5-4F62-B664-D1ECADE75FE7",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.684913,
-      "longitude": -17.451852
-    },
-    "properties": {
-      "orgGuid": "B5DA90E7-6FB5-4F62-B664-D1ECADE75FE7",
-      "orgName": "Dakar Médina",
-      "orgType": "CONG",
-      "address": "Rue 37 angle 18\r\nen face garderie d'enfants \"Keur Yaye Binta\"\r\nMédina\r\nDakar-Plateau\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Rue 37 angle 18\r\nen face garderie d'enfants \"Keur Yaye Binta\"\r\nMédina\r\nDakar-Plateau\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+221) 77 566 11 80",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "164EE30F-6D16-4931-8F26-C3B5F0114793",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 15.18931,
+   "longitude": -23.59299
   },
-  {
-    "geoId": "77C15637-5843-4D35-B958-EE9636889EC4",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.684913,
-      "longitude": -17.451852
-    },
-    "properties": {
-      "orgGuid": "77C15637-5843-4D35-B958-EE9636889EC4",
-      "orgName": "Dakar Sud Anglaise",
-      "orgType": "CONG",
-      "address": "Rue 37 angle 18\r\nen face garderie d'enfants \"Keur Yaye Binta\"\r\nMédina\r\nDakar-Plateau\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Rue 37 angle 18\r\nen face garderie d'enfants \"Keur Yaye Binta\"\r\nMédina\r\nDakar-Plateau\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+221) 77 792 01 96/77 656 24 66",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "164EE30F-6D16-4931-8F26-C3B5F0114793",
+   "orgName": "Calheta, Santiago",
+   "orgType": "CONG",
+   "address": "Veneza\r\n7215 CALHETA\r\nCalheta de São Miguel\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-9887771",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "DBA1574B-1EBD-445A-849D-646DB3684C38",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.702261,
-      "longitude": -17.460694
-    },
-    "properties": {
-      "orgGuid": "DBA1574B-1EBD-445A-849D-646DB3684C38",
-      "orgName": "Dakar Sicap-Liberté",
-      "orgType": "CONG",
-      "address": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+221) 77 487 65 61",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "37D9C21C-8445-4316-91F1-4CF958E2F4D9",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 15.139833,
+   "longitude": -23.531783
   },
-  {
-    "geoId": "BF956EC9-C875-405D-8345-6830803D045B",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.702261,
-      "longitude": -17.460694
-    },
-    "properties": {
-      "orgGuid": "BF956EC9-C875-405D-8345-6830803D045B",
-      "orgName": "Dakar Sicap-Amitié",
-      "orgType": "CONG",
-      "address": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+221) 78 383 53 78",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "37D9C21C-8445-4316-91F1-4CF958E2F4D9",
+   "orgName": "Pedra Badejo",
+   "orgType": "CONG",
+   "address": "Achada do Campo\r\nVila de Pedra Badejo\r\nCONCELHO DE SANTA CRUZ\r\nPedra Badejo\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-9963726",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "D38CA817-B77F-478E-9A6E-22FE88E87009",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.702261,
-      "longitude": -17.460694
-    },
-    "properties": {
-      "orgGuid": "D38CA817-B77F-478E-9A6E-22FE88E87009",
-      "orgName": "Dakar Amitié Wolof",
-      "orgType": "CONG",
-      "address": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\n\r\n",
-      "languageCode": "WO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 1,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "8C6C9AC0-64E0-4320-BA3C-B6CD6FBDF2C7",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 15.144174,
+   "longitude": -23.212813
   },
-  {
-    "geoId": "F09A0B04-7A23-4888-B282-0B13672233E8",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.702261,
-      "longitude": -17.460694
-    },
-    "properties": {
-      "orgGuid": "F09A0B04-7A23-4888-B282-0B13672233E8",
-      "orgName": "Dakar Mermoz",
-      "orgType": "CONG",
-      "address": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 4,
-            "time": "19:00"
-          },
-          "midweek": {
-            "weekday": 7,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+221&nbsp;77 518 17 78",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "8C6C9AC0-64E0-4320-BA3C-B6CD6FBDF2C7",
+   "orgName": "Cabo Verde Porto Inglês",
+   "orgType": "CONG",
+   "address": "Av. Cabral, 175 R/C\r\nZona Fontona de Baixo\r\n6110 VILA PORTO INGLÊS\r\nMaio\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238&nbsp;9752865",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "7CF7897C-BED0-4DC1-A580-59045D383E4C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.729029,
-      "longitude": -17.444684
-    },
-    "properties": {
-      "orgGuid": "7CF7897C-BED0-4DC1-A580-59045D383E4C",
-      "orgName": "Dakar Grand-Yoff",
-      "orgType": "CONG",
-      "address": "78, Cité Front de Terre\r\nGrand Yoff (Parcelles Assainies)\r\nSENEGAL\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+221) 33 867 72 19",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "454D6A00-01EB-41B5-B5F2-7DE40517B871",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 12.56429,
+   "longitude": -16.26336
   },
-  {
-    "geoId": "1410B38C-7F55-41C5-94EA-74FB391148CD",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.729029,
-      "longitude": -17.444684
-    },
-    "properties": {
-      "orgGuid": "1410B38C-7F55-41C5-94EA-74FB391148CD",
-      "orgName": "Dakar Dalifort",
-      "orgType": "CONG",
-      "address": "78, Cité Front de Terre\r\nGrand Yoff (Parcelles Assainies)\r\nSENEGAL\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+221)77148 3158 /77 617 36 00",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "454D6A00-01EB-41B5-B5F2-7DE40517B871",
+   "orgName": "Ziguinchor Tilène-Central",
+   "orgType": "CONG",
+   "address": "Route du CEMT\r\nQuartier Tilène Central\r\nZiguinchor\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Route du CEMT\r\nQuartier Tilène Central\r\nZiguinchor\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+221) 77 843 05 62",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "5A858557-A7D4-49C7-99FC-D1E3771A1946",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.764014,
-      "longitude": -17.446822
-    },
-    "properties": {
-      "orgGuid": "5A858557-A7D4-49C7-99FC-D1E3771A1946",
-      "orgName": "Dakar Parcelles-Assainies",
-      "orgType": "CONG",
-      "address": "Villa n° 241\r\nRue 6\r\nUnité 15\r\nParcelles Assainies\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Villa n° 241\r\nRue 6\r\nUnité 15\r\nParcelles Assainies\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+221) 786358050",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A6C015D7-A05C-4980-ABFE-75FD17490E18",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 12.56429,
+   "longitude": -16.26336
   },
-  {
-    "geoId": "F040A04D-8A2E-4EFE-A893-8015DD6F5735",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.764014,
-      "longitude": -17.446822
-    },
-    "properties": {
-      "orgGuid": "F040A04D-8A2E-4EFE-A893-8015DD6F5735",
-      "orgName": "Dakar Nord Anglaise",
-      "orgType": "CONG",
-      "address": "Villa n° 241\r\nRue 6\r\nUnité 15\r\nParcelles Assainies\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Villa n° 241\r\nRue 6\r\nUnité 15\r\nParcelles Assainies\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+221) 77 549 42 76  or (+221) 77 425 99 88",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "A6C015D7-A05C-4980-ABFE-75FD17490E18",
+   "orgName": "Ziguinchor Lyndiane",
+   "orgType": "CONG",
+   "address": "Route du CEMT\r\nQuartier Tilène Central\r\nZiguinchor\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Route du CEMT\r\nQuartier Tilène Central\r\nZiguinchor\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+221) 77 819 54 00",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "1816415A-F8C9-4E3F-89FF-A8AA5938E3FC",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.176952,
-      "longitude": -16.853264
-    },
-    "properties": {
-      "orgGuid": "1816415A-F8C9-4E3F-89FF-A8AA5938E3FC",
-      "orgName": "Joal-Fadiouth",
-      "orgType": "CONG",
-      "address": "Avenue Jean Collin, à côté de PAMECAS\r\nQuartier Santhié 2\r\nJoal-Fadiouth\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Avenue Jean Collin, à côté de PAMECAS\r\nQuartier Santhié 2\r\nJoal-Fadiouth\r\n\r\n",
-      "languageCode": "WO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "781585978",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "EE2C2ADE-FBC6-403F-B631-8A77FBE27D15",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 13.446963,
+   "longitude": -16.708318
   },
-  {
-    "geoId": "BCC31ADC-D1BD-4BF3-95DF-ECF5017B740C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.773108,
-      "longitude": -17.403509
-    },
-    "properties": {
-      "orgGuid": "BCC31ADC-D1BD-4BF3-95DF-ECF5017B740C",
-      "orgName": "Guédiawaye",
-      "orgType": "CONG",
-      "address": "Parcelle n° 348\r\nDarou Salam 2\r\nGuédiawaye\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Parcelle n° 348\r\nDarou Salam 2\r\nGuédiawaye\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "MJK"
-      ],
-      "phones": [
-        {
-          "phone": "(+221) 77 657 18 56",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "EE2C2ADE-FBC6-403F-B631-8A77FBE27D15",
+   "orgName": "Serrekunda West",
+   "orgType": "CONG",
+   "address": "Kotu Assembly Hall\r\nPremium T.V. Road, Kotu South Layout\r\nK.S.M.D.\r\nSerrekunda\r\nTHE GAMBIA\r\n",
+   "transliteratedAddress": "Kotu Assembly Hall\r\nPremium T.V. Road, Kotu South Layout\r\nK.S.M.D.\r\nSerrekunda\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+220) 779 50 87/(+220) 731 32 71",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "3FBAE767-6EA5-4108-A489-9A5554259AB0",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.773108,
-      "longitude": -17.403509
-    },
-    "properties": {
-      "orgGuid": "3FBAE767-6EA5-4108-A489-9A5554259AB0",
-      "orgName": "Guédiawaye Manjaque - Guédiawaye",
-      "orgType": "GROUP",
-      "address": "Parcelle n° 348\r\nDarou Salam 2\r\nGuédiawaye\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Parcelle n° 348\r\nDarou Salam 2\r\nGuédiawaye\r\n\r\n",
-      "languageCode": "MJK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "F"
-      ],
-      "phones": [
-        {
-          "phone": "(+221) 77 657 18 56",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "EE18986E-042C-47D2-826F-927973F7D646",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 13.446963,
+   "longitude": -16.708318
   },
-  {
-    "geoId": "35F977F5-50EB-4846-A042-58FAA0958B86",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.414593,
-      "longitude": -16.953487
-    },
-    "properties": {
-      "orgGuid": "35F977F5-50EB-4846-A042-58FAA0958B86",
-      "orgName": "Mbour Sud Wolof",
-      "orgType": "CONG",
-      "address": "Parcelle N° 563 bis\r\nPrès de \"Cours privés laïcs\"\r\nQuartier Thiocé Est - Darou Salam\r\nMbour\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Parcelle N° 563 bis\r\nPrès de \"Cours privés laïcs\"\r\nQuartier Thiocé Est - Darou Salam\r\nMbour\r\n\r\n",
-      "languageCode": "WO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "EE18986E-042C-47D2-826F-927973F7D646",
+   "orgName": "Serrekunda French",
+   "orgType": "CONG",
+   "address": "Kotu Assembly Hall\r\nPremium T.V. Road, Kotu South Layout\r\nK.S.M.D.\r\nSerrekunda\r\nTHE GAMBIA\r\n",
+   "transliteratedAddress": "Kotu Assembly Hall\r\nPremium T.V. Road, Kotu South Layout\r\nK.S.M.D.\r\nSerrekunda\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+220) 7856532/ (+221) 775332058 /+220)7730270",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "C6E175C1-3DD8-4854-9774-A6B3C29676D5",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.414593,
-      "longitude": -16.953487
-    },
-    "properties": {
-      "orgGuid": "C6E175C1-3DD8-4854-9774-A6B3C29676D5",
-      "orgName": "Mbour Nord",
-      "orgType": "CONG",
-      "address": "Parcelle N° 563 bis\r\nPrès de \"Cours privés laïcs\"\r\nQuartier Thiocé Est - Darou Salam\r\nMbour\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Parcelle N° 563 bis\r\nPrès de \"Cours privés laïcs\"\r\nQuartier Thiocé Est - Darou Salam\r\nMbour\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+221) 776344767",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3AEC9B9A-5753-44E8-B4B4-D9D8B45EC4C5",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 13.437639,
+   "longitude": -16.674254
   },
-  {
-    "geoId": "491425B4-CB3A-4F77-BD7C-451739B3B65E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.727244,
-      "longitude": -17.259039
-    },
-    "properties": {
-      "orgGuid": "491425B4-CB3A-4F77-BD7C-451739B3B65E",
-      "orgName": "Rufisque",
-      "orgType": "CONG",
-      "address": "Diorga Chérif\r\nLot 119\r\nRufisque\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Diorga Chérif\r\nLot 119\r\nRufisque\r\n\r\n",
-      "languageCode": "WO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+221) 77 569 64 44",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "3AEC9B9A-5753-44E8-B4B4-D9D8B45EC4C5",
+   "orgName": "Serrekunda East",
+   "orgType": "CONG",
+   "address": "Ebo Town Road\r\nSuper Bar Junction, Behind Super Bar\r\nSerrekunda\r\nTHE GAMBIA\r\n",
+   "transliteratedAddress": "Ebo Town Road\r\nSuper Bar Junction, Behind Super Bar\r\nSerrekunda\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+220) 779 82 13",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "A666DDDF-5C97-4191-BFAC-D4D176CF2E0C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.727244,
-      "longitude": -17.259039
-    },
-    "properties": {
-      "orgGuid": "A666DDDF-5C97-4191-BFAC-D4D176CF2E0C",
-      "orgName": "Diamaguene",
-      "orgType": "CONG",
-      "address": "Diorga Chérif\r\nLot 119\r\nRufisque\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Diorga Chérif\r\nLot 119\r\nRufisque\r\n\r\n",
-      "languageCode": "WO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "26967D46-45A3-4819-8322-4E619F52B2E4",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 13.437639,
+   "longitude": -16.674254
   },
-  {
-    "geoId": "1B2AC400-BD73-4E09-B97E-7C879F71881E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.792358,
-      "longitude": -16.934619
-    },
-    "properties": {
-      "orgGuid": "1B2AC400-BD73-4E09-B97E-7C879F71881E",
-      "orgName": "Thiès (wolof)",
-      "orgType": "CONG",
-      "address": "10 ème parcelle, R.I.A.O.M., N° 6\r\nThiès\r\nSENEGAL\r\n",
-      "transliteratedAddress": "10 ème parcelle, R.I.A.O.M., N° 6\r\nThiès\r\n\r\n",
-      "languageCode": "WO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+221) 77 2293516",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "26967D46-45A3-4819-8322-4E619F52B2E4",
+   "orgName": "Serrekunda Central",
+   "orgType": "CONG",
+   "address": "Ebo Town Road\r\nSuper Bar Junction, Behind Super Bar\r\nSerrekunda\r\nTHE GAMBIA\r\n",
+   "transliteratedAddress": "Ebo Town Road\r\nSuper Bar Junction, Behind Super Bar\r\nSerrekunda\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+220&nbsp;777 9281",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "73150B26-4F50-48CC-9E9B-2DD9FC70F672",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.331102,
-      "longitude": -16.408124
-    },
-    "properties": {
-      "orgGuid": "73150B26-4F50-48CC-9E9B-2DD9FC70F672",
-      "orgName": "Fatick Wolof",
-      "orgType": "CONG",
-      "address": "Lot N° 257\r\nen face de Gouye Meew\r\nQuartier Longandem\r\nFatick\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Lot N° 257\r\nen face de Gouye Meew\r\nQuartier Longandem\r\nFatick\r\n\r\n",
-      "languageCode": "WO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+221) 77 635 21 19",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "E93704C4-A387-46C2-A757-992041B88520",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.744404,
+   "longitude": -17.515867
   },
-  {
-    "geoId": "011C22CA-0348-442C-B8C6-6447EB9FD70C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.149472,
-      "longitude": -16.079969
-    },
-    "properties": {
-      "orgGuid": "011C22CA-0348-442C-B8C6-6447EB9FD70C",
-      "orgName": "Kaolack Wolof",
-      "orgType": "CONG",
-      "address": "Lot N° 350\r\nRue 10\r\nQuartier Kassaville\r\nKaolack\r\nSENEGAL\r\n",
-      "transliteratedAddress": "Lot N° 350\r\nRue 10\r\nQuartier Kassaville\r\nKaolack\r\n\r\n",
-      "languageCode": "WO",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+221762707807",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "properties": {
+   "orgGuid": "E93704C4-A387-46C2-A757-992041B88520",
+   "orgName": "Dakar Almadies",
+   "orgType": "CONG",
+   "address": "Parcelle 1, Zone 8\r\nEn face du nouveau marché de Ngor\r\nAlmadies (Ngor)\r\nSENEGAL\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "14:45"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "WO"
+   ],
+   "phones": [
+    {
+     "phone": "+221775754672",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "77E92C14-5D63-4D20-B2E7-A9E2431A7889",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.744404,
+   "longitude": -17.515867
+  },
+  "properties": {
+   "orgGuid": "77E92C14-5D63-4D20-B2E7-A9E2431A7889",
+   "orgName": "Dakar Ouakam Wolof",
+   "orgType": "CONG",
+   "address": "Parcelle 1, Zone 8\r\nEn face du nouveau marché de Ngor\r\nAlmadies (Ngor)\r\nSENEGAL\r\n",
+   "languageCode": "WO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "±221775773387",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "750B2DD0-CB5A-42FE-80A7-018A00364B13",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.744404,
+   "longitude": -17.515867
+  },
+  "properties": {
+   "orgGuid": "750B2DD0-CB5A-42FE-80A7-018A00364B13",
+   "orgName": "Dakar Ouakam",
+   "orgType": "CONG",
+   "address": "Parcelle 1, Zone 8\r\nEn face du nouveau marché de Ngor\r\nAlmadies (Ngor)\r\nSENEGAL\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+221&nbsp;77 798 13 39",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B5DA90E7-6FB5-4F62-B664-D1ECADE75FE7",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.684913,
+   "longitude": -17.451852
+  },
+  "properties": {
+   "orgGuid": "B5DA90E7-6FB5-4F62-B664-D1ECADE75FE7",
+   "orgName": "Dakar Médina",
+   "orgType": "CONG",
+   "address": "Rue 37 angle 18\r\nen face garderie d'enfants \"Keur Yaye Binta\"\r\nMédina\r\nDakar-Plateau\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Rue 37 angle 18\r\nen face garderie d'enfants \"Keur Yaye Binta\"\r\nMédina\r\nDakar-Plateau\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+221) 77 566 11 80",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "77C15637-5843-4D35-B958-EE9636889EC4",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.684913,
+   "longitude": -17.451852
+  },
+  "properties": {
+   "orgGuid": "77C15637-5843-4D35-B958-EE9636889EC4",
+   "orgName": "Dakar Sud Anglaise",
+   "orgType": "CONG",
+   "address": "Rue 37 angle 18\r\nen face garderie d'enfants \"Keur Yaye Binta\"\r\nMédina\r\nDakar-Plateau\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Rue 37 angle 18\r\nen face garderie d'enfants \"Keur Yaye Binta\"\r\nMédina\r\nDakar-Plateau\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+221) 77 792 01 96/77 656 24 66",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "DBA1574B-1EBD-445A-849D-646DB3684C38",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.702261,
+   "longitude": -17.460694
+  },
+  "properties": {
+   "orgGuid": "DBA1574B-1EBD-445A-849D-646DB3684C38",
+   "orgName": "Dakar Sicap-Liberté",
+   "orgType": "CONG",
+   "address": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+221) 501 96 61",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "BF956EC9-C875-405D-8345-6830803D045B",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.702261,
+   "longitude": -17.460694
+  },
+  "properties": {
+   "orgGuid": "BF956EC9-C875-405D-8345-6830803D045B",
+   "orgName": "Dakar Sicap-Amitié",
+   "orgType": "CONG",
+   "address": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+221) 78 383 53 78",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "D38CA817-B77F-478E-9A6E-22FE88E87009",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.702261,
+   "longitude": -17.460694
+  },
+  "properties": {
+   "orgGuid": "D38CA817-B77F-478E-9A6E-22FE88E87009",
+   "orgName": "Dakar Amitié Wolof",
+   "orgType": "CONG",
+   "address": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\n\r\n",
+   "languageCode": "WO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 1,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "F09A0B04-7A23-4888-B282-0B13672233E8",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.702261,
+   "longitude": -17.460694
+  },
+  "properties": {
+   "orgGuid": "F09A0B04-7A23-4888-B282-0B13672233E8",
+   "orgName": "Dakar Mermoz",
+   "orgType": "CONG",
+   "address": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Villa n° 4022\r\nSicap Amitié II\r\nDakar-Plateau\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 4,
+      "time": "19:00"
+     },
+     "midweek": {
+      "weekday": 7,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+221&nbsp;77 518 17 78",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "7CF7897C-BED0-4DC1-A580-59045D383E4C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.729029,
+   "longitude": -17.444684
+  },
+  "properties": {
+   "orgGuid": "7CF7897C-BED0-4DC1-A580-59045D383E4C",
+   "orgName": "Dakar Grand-Yoff",
+   "orgType": "CONG",
+   "address": "78, Cité Front de Terre\r\nGrand Yoff (Parcelles Assainies)\r\nSENEGAL\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+221) 33 867 72 19",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "1410B38C-7F55-41C5-94EA-74FB391148CD",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.729029,
+   "longitude": -17.444684
+  },
+  "properties": {
+   "orgGuid": "1410B38C-7F55-41C5-94EA-74FB391148CD",
+   "orgName": "Dakar Dalifort",
+   "orgType": "CONG",
+   "address": "78, Cité Front de Terre\r\nGrand Yoff (Parcelles Assainies)\r\nSENEGAL\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+221)77148 3158 /77 617 36 00",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "5A858557-A7D4-49C7-99FC-D1E3771A1946",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.764014,
+   "longitude": -17.446822
+  },
+  "properties": {
+   "orgGuid": "5A858557-A7D4-49C7-99FC-D1E3771A1946",
+   "orgName": "Dakar Parcelles-Assainies",
+   "orgType": "CONG",
+   "address": "Villa n° 241\r\nRue 6\r\nUnité 15\r\nParcelles Assainies\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Villa n° 241\r\nRue 6\r\nUnité 15\r\nParcelles Assainies\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+221) 786358050",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "F040A04D-8A2E-4EFE-A893-8015DD6F5735",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.764014,
+   "longitude": -17.446822
+  },
+  "properties": {
+   "orgGuid": "F040A04D-8A2E-4EFE-A893-8015DD6F5735",
+   "orgName": "Dakar Nord Anglaise",
+   "orgType": "CONG",
+   "address": "Villa n° 241\r\nRue 6\r\nUnité 15\r\nParcelles Assainies\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Villa n° 241\r\nRue 6\r\nUnité 15\r\nParcelles Assainies\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+221) 77 549 42 76  or (+221) 77 425 99 88",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "1816415A-F8C9-4E3F-89FF-A8AA5938E3FC",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.176952,
+   "longitude": -16.853264
+  },
+  "properties": {
+   "orgGuid": "1816415A-F8C9-4E3F-89FF-A8AA5938E3FC",
+   "orgName": "Joal-Fadiouth",
+   "orgType": "CONG",
+   "address": "Avenue Jean Collin, à côté de PAMECAS\r\nQuartier Santhié 2\r\nJoal-Fadiouth\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Avenue Jean Collin, à côté de PAMECAS\r\nQuartier Santhié 2\r\nJoal-Fadiouth\r\n\r\n",
+   "languageCode": "WO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "781585978",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "BCC31ADC-D1BD-4BF3-95DF-ECF5017B740C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.773108,
+   "longitude": -17.403509
+  },
+  "properties": {
+   "orgGuid": "BCC31ADC-D1BD-4BF3-95DF-ECF5017B740C",
+   "orgName": "Guédiawaye",
+   "orgType": "CONG",
+   "address": "Parcelle n° 348\r\nDarou Salam 2\r\nGuédiawaye\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Parcelle n° 348\r\nDarou Salam 2\r\nGuédiawaye\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "MJK"
+   ],
+   "phones": [
+    {
+     "phone": "(+221) 77 657 18 56",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3FBAE767-6EA5-4108-A489-9A5554259AB0",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.773108,
+   "longitude": -17.403509
+  },
+  "properties": {
+   "orgGuid": "3FBAE767-6EA5-4108-A489-9A5554259AB0",
+   "orgName": "Guédiawaye Manjaque - Guédiawaye",
+   "orgType": "GROUP",
+   "address": "Parcelle n° 348\r\nDarou Salam 2\r\nGuédiawaye\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Parcelle n° 348\r\nDarou Salam 2\r\nGuédiawaye\r\n\r\n",
+   "languageCode": "MJK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "F"
+   ],
+   "phones": [
+    {
+     "phone": "(+221) 77 657 18 56",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "35F977F5-50EB-4846-A042-58FAA0958B86",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.414593,
+   "longitude": -16.953487
+  },
+  "properties": {
+   "orgGuid": "35F977F5-50EB-4846-A042-58FAA0958B86",
+   "orgName": "Mbour Sud Wolof",
+   "orgType": "CONG",
+   "address": "Parcelle N° 563 bis\r\nPrès de \"Cours privés laïcs\"\r\nQuartier Thiocé Est - Darou Salam\r\nMbour\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Parcelle N° 563 bis\r\nPrès de \"Cours privés laïcs\"\r\nQuartier Thiocé Est - Darou Salam\r\nMbour\r\n\r\n",
+   "languageCode": "WO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "77 943 94 35",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "C6E175C1-3DD8-4854-9774-A6B3C29676D5",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.414593,
+   "longitude": -16.953487
+  },
+  "properties": {
+   "orgGuid": "C6E175C1-3DD8-4854-9774-A6B3C29676D5",
+   "orgName": "Mbour Nord",
+   "orgType": "CONG",
+   "address": "Parcelle N° 563 bis\r\nPrès de \"Cours privés laïcs\"\r\nQuartier Thiocé Est - Darou Salam\r\nMbour\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Parcelle N° 563 bis\r\nPrès de \"Cours privés laïcs\"\r\nQuartier Thiocé Est - Darou Salam\r\nMbour\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+221) 776344767",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "491425B4-CB3A-4F77-BD7C-451739B3B65E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.727244,
+   "longitude": -17.259039
+  },
+  "properties": {
+   "orgGuid": "491425B4-CB3A-4F77-BD7C-451739B3B65E",
+   "orgName": "Rufisque",
+   "orgType": "CONG",
+   "address": "Diorga Chérif\r\nLot 119\r\nRufisque\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Diorga Chérif\r\nLot 119\r\nRufisque\r\n\r\n",
+   "languageCode": "WO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+221) 77 569 64 44",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A666DDDF-5C97-4191-BFAC-D4D176CF2E0C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.727244,
+   "longitude": -17.259039
+  },
+  "properties": {
+   "orgGuid": "A666DDDF-5C97-4191-BFAC-D4D176CF2E0C",
+   "orgName": "Diamaguene",
+   "orgType": "CONG",
+   "address": "Diorga Chérif\r\nLot 119\r\nRufisque\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Diorga Chérif\r\nLot 119\r\nRufisque\r\n\r\n",
+   "languageCode": "WO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "1B2AC400-BD73-4E09-B97E-7C879F71881E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.792358,
+   "longitude": -16.934619
+  },
+  "properties": {
+   "orgGuid": "1B2AC400-BD73-4E09-B97E-7C879F71881E",
+   "orgName": "Thiès (wolof)",
+   "orgType": "CONG",
+   "address": "10 ème parcelle, R.I.A.O.M., N° 6\r\nThiès\r\nSENEGAL\r\n",
+   "transliteratedAddress": "10 ème parcelle, R.I.A.O.M., N° 6\r\nThiès\r\n\r\n",
+   "languageCode": "WO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+221) 77 2293516",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "73150B26-4F50-48CC-9E9B-2DD9FC70F672",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.331102,
+   "longitude": -16.408124
+  },
+  "properties": {
+   "orgGuid": "73150B26-4F50-48CC-9E9B-2DD9FC70F672",
+   "orgName": "Fatick Wolof",
+   "orgType": "CONG",
+   "address": "Lot N° 257\r\nen face de Gouye Meew\r\nQuartier Longandem\r\nFatick\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Lot N° 257\r\nen face de Gouye Meew\r\nQuartier Longandem\r\nFatick\r\n\r\n",
+   "languageCode": "WO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "011C22CA-0348-442C-B8C6-6447EB9FD70C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.149472,
+   "longitude": -16.079969
+  },
+  "properties": {
+   "orgGuid": "011C22CA-0348-442C-B8C6-6447EB9FD70C",
+   "orgName": "Kaolack Wolof",
+   "orgType": "CONG",
+   "address": "Lot N° 350\r\nRue 10\r\nQuartier Kassaville\r\nKaolack\r\nSENEGAL\r\n",
+   "transliteratedAddress": "Lot N° 350\r\nRue 10\r\nQuartier Kassaville\r\nKaolack\r\n\r\n",
+   "languageCode": "WO",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+221762707807",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

@@ -1,113 +1,116 @@
 [
-  {
-    "geoId": "09A9BCEF-2D6D-4A42-A944-19997D35E864",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -22.67975,
-      "longitude": 117.78588
-    },
-    "properties": {
-      "orgGuid": "09A9BCEF-2D6D-4A42-A944-19997D35E864",
-      "orgName": "Tom Price Isolated Group - Tom Price WA",
-      "orgType": "CONG",
-      "address": "Cnr Killawara Street & Allambie Place\r\nTOM PRICE  WA  6751\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0436 448 483",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "09A9BCEF-2D6D-4A42-A944-19997D35E864",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -22.67975,
+   "longitude": 117.78588
   },
-  {
-    "geoId": "6A952A9E-9D8A-4333-9646-D0B8CC2245CD",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -20.74581,
-      "longitude": 116.81413
-    },
-    "properties": {
-      "orgGuid": "6A952A9E-9D8A-4333-9646-D0B8CC2245CD",
-      "orgName": "Karratha - WA",
-      "orgType": "CONG",
-      "address": "4 Gray Court\nKARRATHA  WA  6714\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0408 840 876",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "09A9BCEF-2D6D-4A42-A944-19997D35E864",
+   "orgName": "Tom Price Isolated Group - Tom Price WA",
+   "orgType": "CONG",
+   "address": "Cnr Killawara Street & Allambie Place\r\nTOM PRICE  WA  6751\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0436 448 483",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "B7368F13-FB16-4439-B81B-8C2CB97F040C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -20.41929,
-      "longitude": 118.60784
-    },
-    "properties": {
-      "orgGuid": "B7368F13-FB16-4439-B81B-8C2CB97F040C",
-      "orgName": "Port Hedland - WA",
-      "orgType": "CONG",
-      "address": "Chunking Crescent\nSOUTH HEDLAND  WA  6721\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "15:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0408892837",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "6A952A9E-9D8A-4333-9646-D0B8CC2245CD",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -20.74581,
+   "longitude": 116.81413
+  },
+  "properties": {
+   "orgGuid": "6A952A9E-9D8A-4333-9646-D0B8CC2245CD",
+   "orgName": "Karratha - WA",
+   "orgType": "CONG",
+   "address": "4 Gray Court\nKARRATHA  WA  6714\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0408 840 876",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B7368F13-FB16-4439-B81B-8C2CB97F040C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -20.41929,
+   "longitude": 118.60784
+  },
+  "properties": {
+   "orgGuid": "B7368F13-FB16-4439-B81B-8C2CB97F040C",
+   "orgName": "Port Hedland - WA",
+   "orgType": "CONG",
+   "address": "Chunking Crescent\nSOUTH HEDLAND  WA  6721\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0407 381 124",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

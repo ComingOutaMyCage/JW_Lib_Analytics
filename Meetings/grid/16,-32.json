@@ -1,446 +1,458 @@
 [
-  {
-    "geoId": "D5D003C7-3ED3-4BCE-B4F7-B287A9F32E4E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 16.880229,
-      "longitude": -24.97949
-    },
-    "properties": {
-      "orgGuid": "D5D003C7-3ED3-4BCE-B4F7-B287A9F32E4E",
-      "orgName": "Mindelo Sul",
-      "orgType": "CONG",
-      "address": "Bela Vista\r\n2110 MINDELO\r\nMindelo\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-231-91-47",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "D5D003C7-3ED3-4BCE-B4F7-B287A9F32E4E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 16.880229,
+   "longitude": -24.97949
   },
-  {
-    "geoId": "4208D923-5202-4D95-A6E0-715C32109439",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 16.880229,
-      "longitude": -24.97949
-    },
-    "properties": {
-      "orgGuid": "4208D923-5202-4D95-A6E0-715C32109439",
-      "orgName": "Mindelo Bela Vista",
-      "orgType": "CONG",
-      "address": "Bela Vista\r\n2110 MINDELO\r\nMindelo\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-231-91-47",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "D5D003C7-3ED3-4BCE-B4F7-B287A9F32E4E",
+   "orgName": "Mindelo Sul",
+   "orgType": "CONG",
+   "address": "Bela Vista\r\n2110 MINDELO\r\nMindelo\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-231-91-47",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "2A61D469-7B2E-415D-8D9E-0607FBE67195",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 16.880229,
-      "longitude": -24.97949
-    },
-    "properties": {
-      "orgGuid": "2A61D469-7B2E-415D-8D9E-0607FBE67195",
-      "orgName": "Monte Sossego",
-      "orgType": "CONG",
-      "address": "Bela Vista\r\n2110 MINDELO\r\nMindelo\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:30"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-231-91-47",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4208D923-5202-4D95-A6E0-715C32109439",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 16.880229,
+   "longitude": -24.97949
   },
-  {
-    "geoId": "A42A1820-79C5-4626-8807-F2220F27E956",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 16.884975,
-      "longitude": -24.982754
-    },
-    "properties": {
-      "orgGuid": "A42A1820-79C5-4626-8807-F2220F27E956",
-      "orgName": "Mindelo Norte",
-      "orgType": "CONG",
-      "address": "Rua Capitão Ambrósio\r\nRibeira Bote - Mindelo\r\nSÃO VICENTE\r\nMindelo\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-5931836",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "4208D923-5202-4D95-A6E0-715C32109439",
+   "orgName": "Mindelo Bela Vista",
+   "orgType": "CONG",
+   "address": "Bela Vista\r\n2110 MINDELO\r\nMindelo\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-231-91-47",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "D690EDA4-8D96-465C-B565-C77280262687",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 16.884975,
-      "longitude": -24.982754
-    },
-    "properties": {
-      "orgGuid": "D690EDA4-8D96-465C-B565-C77280262687",
-      "orgName": "Mindelo Ribeirinha",
-      "orgType": "CONG",
-      "address": "Rua Capitão Ambrósio\r\nRibeira Bote - Mindelo\r\nSÃO VICENTE\r\nMindelo\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-231-52-05",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "2A61D469-7B2E-415D-8D9E-0607FBE67195",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 16.880229,
+   "longitude": -24.97949
   },
-  {
-    "geoId": "518879BC-5079-4B0A-9CEB-D9BEC71AEC95",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 16.884975,
-      "longitude": -24.982754
-    },
-    "properties": {
-      "orgGuid": "518879BC-5079-4B0A-9CEB-D9BEC71AEC95",
-      "orgName": "Mindelo Central",
-      "orgType": "CONG",
-      "address": "Rua Capitão Ambrósio\r\nRibeira Bote - Mindelo\r\nSÃO VICENTE\r\nMindelo\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-231-52-05",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "2A61D469-7B2E-415D-8D9E-0607FBE67195",
+   "orgName": "Monte Sossego",
+   "orgType": "CONG",
+   "address": "Bela Vista\r\n2110 MINDELO\r\nMindelo\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-231-91-47",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "34A1FD5B-62E0-4261-B960-3DF12F59B1FA",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 17.01861,
-      "longitude": -25.061622
-    },
-    "properties": {
-      "orgGuid": "34A1FD5B-62E0-4261-B960-3DF12F59B1FA",
-      "orgName": "Porto Novo Central",
-      "orgType": "CONG",
-      "address": "Alto Peixinho\r\nZona Paços Concelho Porto Novo\r\nSANTO ANTÃO\r\nPorto Novo\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "222-12-14",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A42A1820-79C5-4626-8807-F2220F27E956",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 16.884975,
+   "longitude": -24.982754
   },
-  {
-    "geoId": "C0BBA4C5-C9FC-4C7A-98C8-D1754934AC66",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 17.01861,
-      "longitude": -25.061622
-    },
-    "properties": {
-      "orgGuid": "C0BBA4C5-C9FC-4C7A-98C8-D1754934AC66",
-      "orgName": "Porto Novo Berlim",
-      "orgType": "CONG",
-      "address": "Alto Peixinho\r\nZona Paços Concelho Porto Novo\r\nSANTO ANTÃO\r\nPorto Novo\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-222-12-14",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "A42A1820-79C5-4626-8807-F2220F27E956",
+   "orgName": "Mindelo Norte",
+   "orgType": "CONG",
+   "address": "Rua Capitão Ambrósio\r\nRibeira Bote - Mindelo\r\nSÃO VICENTE\r\nMindelo\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-5931836",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "3EBD1828-5111-4556-8BF4-57A2EA76A896",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 17.178666,
-      "longitude": -25.06498
-    },
-    "properties": {
-      "orgGuid": "3EBD1828-5111-4556-8BF4-57A2EA76A896",
-      "orgName": "Ribeira Grande, Santo Antão",
-      "orgType": "CONG",
-      "address": "Cerrado - Povoação\r\nRibeira Grande\r\nSANTO ANTÃO\r\nRibeira Grande\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238- 3521101 ou 3521024",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "D690EDA4-8D96-465C-B565-C77280262687",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 16.884975,
+   "longitude": -24.982754
   },
-  {
-    "geoId": "B9834C9B-A542-4C49-98E8-832314D92CAE",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 16.564941,
-      "longitude": -24.356648
-    },
-    "properties": {
-      "orgGuid": "B9834C9B-A542-4C49-98E8-832314D92CAE",
-      "orgName": "Tarrafal, São Nicolau",
-      "orgType": "CONG",
-      "address": "Telha - Rua dos Imigrantes\r\nTarrafal\r\nSÃO NICOLAU\r\nTarrafal de São Nicolau\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-5846322",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "D690EDA4-8D96-465C-B565-C77280262687",
+   "orgName": "Mindelo Ribeirinha",
+   "orgType": "CONG",
+   "address": "Rua Capitão Ambrósio\r\nRibeira Bote - Mindelo\r\nSÃO VICENTE\r\nMindelo\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-231-52-05",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "53DFC971-C400-40BB-8ECB-F9668FE169A3",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 16.61602,
-      "longitude": -24.29647
-    },
-    "properties": {
-      "orgGuid": "53DFC971-C400-40BB-8ECB-F9668FE169A3",
-      "orgName": "Vila Ribeira Brava",
-      "orgType": "CONG",
-      "address": "São João\r\nSÃO NICOLAU\r\nRibeira Brava\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "03:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "9873756",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "518879BC-5079-4B0A-9CEB-D9BEC71AEC95",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 16.884975,
+   "longitude": -24.982754
   },
-  {
-    "geoId": "47066294-61DD-43C1-864C-02821BF8DCCD",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 16.647537,
-      "longitude": -24.324852
-    },
-    "properties": {
-      "orgGuid": "47066294-61DD-43C1-864C-02821BF8DCCD",
-      "orgName": "Fajã",
-      "orgType": "CONG",
-      "address": "Frente ao Largo de Iracema\r\nFajã de Baixo\r\n3120 SÃO NICOLAU\r\nRibeira Brava\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-237-18-38",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "properties": {
+   "orgGuid": "518879BC-5079-4B0A-9CEB-D9BEC71AEC95",
+   "orgName": "Mindelo Central",
+   "orgType": "CONG",
+   "address": "Rua Capitão Ambrósio\r\nRibeira Bote - Mindelo\r\nSÃO VICENTE\r\nMindelo\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-231-52-05",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "34A1FD5B-62E0-4261-B960-3DF12F59B1FA",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 17.01861,
+   "longitude": -25.061622
+  },
+  "properties": {
+   "orgGuid": "34A1FD5B-62E0-4261-B960-3DF12F59B1FA",
+   "orgName": "Porto Novo Central",
+   "orgType": "CONG",
+   "address": "Alto Peixinho\r\nZona Paços Concelho Porto Novo\r\nSANTO ANTÃO\r\nPorto Novo\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "222-12-14",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "C0BBA4C5-C9FC-4C7A-98C8-D1754934AC66",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 17.01861,
+   "longitude": -25.061622
+  },
+  "properties": {
+   "orgGuid": "C0BBA4C5-C9FC-4C7A-98C8-D1754934AC66",
+   "orgName": "Porto Novo Berlim",
+   "orgType": "CONG",
+   "address": "Alto Peixinho\r\nZona Paços Concelho Porto Novo\r\nSANTO ANTÃO\r\nPorto Novo\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-222-12-14",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3EBD1828-5111-4556-8BF4-57A2EA76A896",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 17.178666,
+   "longitude": -25.06498
+  },
+  "properties": {
+   "orgGuid": "3EBD1828-5111-4556-8BF4-57A2EA76A896",
+   "orgName": "Ribeira Grande, Santo Antão",
+   "orgType": "CONG",
+   "address": "Cerrado - Povoação\r\nRibeira Grande\r\nSANTO ANTÃO\r\nRibeira Grande\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238- 3521101 ou 3521024",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B9834C9B-A542-4C49-98E8-832314D92CAE",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 16.564941,
+   "longitude": -24.356648
+  },
+  "properties": {
+   "orgGuid": "B9834C9B-A542-4C49-98E8-832314D92CAE",
+   "orgName": "Tarrafal, São Nicolau",
+   "orgType": "CONG",
+   "address": "Telha - Rua dos Imigrantes\r\nTarrafal\r\nSÃO NICOLAU\r\nTarrafal de São Nicolau\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-5846322",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "53DFC971-C400-40BB-8ECB-F9668FE169A3",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 16.61602,
+   "longitude": -24.29647
+  },
+  "properties": {
+   "orgGuid": "53DFC971-C400-40BB-8ECB-F9668FE169A3",
+   "orgName": "Vila Ribeira Brava",
+   "orgType": "CONG",
+   "address": "São João\r\nSÃO NICOLAU\r\nRibeira Brava\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "03:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "9873756",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "47066294-61DD-43C1-864C-02821BF8DCCD",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 16.647537,
+   "longitude": -24.324852
+  },
+  "properties": {
+   "orgGuid": "47066294-61DD-43C1-864C-02821BF8DCCD",
+   "orgName": "Fajã",
+   "orgType": "CONG",
+   "address": "Frente ao Largo de Iracema\r\nFajã de Baixo\r\n3120 SÃO NICOLAU\r\nRibeira Brava\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-237-18-38",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

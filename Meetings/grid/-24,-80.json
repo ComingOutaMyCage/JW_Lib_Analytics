@@ -1,489 +1,492 @@
 [
-  {
-    "geoId": "8CAB7760-3D07-4FE9-B887-27ED142963F6",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.22432,
-      "longitude": -73.615656
-    },
-    "properties": {
-      "orgGuid": "8CAB7760-3D07-4FE9-B887-27ED142963F6",
-      "orgName": "ATICO - ARE",
-      "orgType": "CONG",
-      "address": "Carretera a Caravelí Mz 34 Lt 18\r\nAH La Florida\r\nCARAVELI-04611\r\nAREQUIPA     \r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "939391878",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "8CAB7760-3D07-4FE9-B887-27ED142963F6",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.22432,
+   "longitude": -73.615656
   },
-  {
-    "geoId": "BE29B1FB-8D6D-42A7-A1EB-DAF2A065B018",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.429742,
-      "longitude": -73.108602
-    },
-    "properties": {
-      "orgGuid": "BE29B1FB-8D6D-42A7-A1EB-DAF2A065B018",
-      "orgName": "OCOÑA (1) - HUARANGAL - CAMANA ARE",
-      "orgType": "GROUP",
-      "address": "Calle Santa Rosa S/N\r\nCAMANA-04601\r\nAREQUIPA     \r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "15:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "958637692",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "8CAB7760-3D07-4FE9-B887-27ED142963F6",
+   "orgName": "ATICO - ARE",
+   "orgType": "CONG",
+   "address": "Carretera a Caravelí Mz 34 Lt 18\r\nAH La Florida\r\nCARAVELI-04611\r\nAREQUIPA     \r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "939391878",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "59F93700-A27C-4A63-801F-ABD6C5AF608E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.614861,
-      "longitude": -72.707849
-    },
-    "properties": {
-      "orgGuid": "59F93700-A27C-4A63-801F-ABD6C5AF608E",
-      "orgName": "CAMANA - ARE",
-      "orgType": "CONG",
-      "address": "Calle Las Begonias 101-111\r\nAREQUIPA-04446\r\n    \r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "BE29B1FB-8D6D-42A7-A1EB-DAF2A065B018",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.429742,
+   "longitude": -73.108602
   },
-  {
-    "geoId": "15ABCEB0-D020-4E5D-B5E5-55B1B32236BD",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.614861,
-      "longitude": -72.707849
-    },
-    "properties": {
-      "orgGuid": "15ABCEB0-D020-4E5D-B5E5-55B1B32236BD",
-      "orgName": "CAMANA QUECHUA - CAMANA ARE",
-      "orgType": "CONG",
-      "address": "Calle Las Begonias 101-111\r\nAREQUIPA-04446\r\n    \r\n",
-      "languageCode": "QU",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "972830993",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "BE29B1FB-8D6D-42A7-A1EB-DAF2A065B018",
+   "orgName": "OCOÑA (1) - HUARANGAL - CAMANA ARE",
+   "orgType": "GROUP",
+   "address": "Calle Santa Rosa S/N\r\nCAMANA-04601\r\nAREQUIPA     \r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "958637692",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "71C528DD-D359-4C2B-8095-A37830D381FB",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.597276,
-      "longitude": -72.704402
-    },
-    "properties": {
-      "orgGuid": "71C528DD-D359-4C2B-8095-A37830D381FB",
-      "orgName": "HUARANGAL - CAMANA ARE",
-      "orgType": "CONG",
-      "address": "Av. Samuel Pastor 1410\r\nAH Bajo Huarangal\r\nCAMANA-04446\r\nAREQUIPA     \r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "958637692",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "59F93700-A27C-4A63-801F-ABD6C5AF608E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.614861,
+   "longitude": -72.707849
   },
-  {
-    "geoId": "4E3AB52E-932F-4AD3-900A-502CA7F1C4F0",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.020545,
-      "longitude": -72.016383
-    },
-    "properties": {
-      "orgGuid": "4E3AB52E-932F-4AD3-900A-502CA7F1C4F0",
-      "orgName": "CENTRAL - MOLLENDO ARE",
-      "orgType": "CONG",
-      "address": "Esq. Calle Iquitos y Calle Ayacucho Mz.Q1 Lt.41\r\nCP. Mollendo\r\n04466\r\n    \r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "SPE"
-      ],
-      "phones": [
-        {
-          "phone": "972787371",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "59F93700-A27C-4A63-801F-ABD6C5AF608E",
+   "orgName": "CAMANA - ARE",
+   "orgType": "CONG",
+   "address": "Calle Las Begonias 101-111\r\nAREQUIPA-04446\r\n    \r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "DE3CB7AA-EF65-44E7-940E-78E1D20757E8",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.020545,
-      "longitude": -72.016383
-    },
-    "properties": {
-      "orgGuid": "DE3CB7AA-EF65-44E7-940E-78E1D20757E8",
-      "orgName": "MOLLENDO SEÑAS (1) - CENTRAL - MOLLENDO ARE",
-      "orgType": "GROUP",
-      "address": "Esq. Calle Iquitos y Calle Ayacucho Mz.Q1 Lt.41\r\nCP. Mollendo\r\n04466\r\n    \r\n",
-      "languageCode": "SPE",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "S"
-      ],
-      "phones": [
-        {
-          "phone": "972787371",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "15ABCEB0-D020-4E5D-B5E5-55B1B32236BD",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.614861,
+   "longitude": -72.707849
   },
-  {
-    "geoId": "6DDCCBF6-945B-48DE-A68D-78E22630DA14",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.017712,
-      "longitude": -72.008711
-    },
-    "properties": {
-      "orgGuid": "6DDCCBF6-945B-48DE-A68D-78E22630DA14",
-      "orgName": "ALTO INCLAN - MOLLENDO ARE",
-      "orgType": "CONG",
-      "address": "Calle Jorge Chávez Mz. Y Lt. 1\r\nZona B\r\n04466\r\n    \r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "19:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "983941452",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "15ABCEB0-D020-4E5D-B5E5-55B1B32236BD",
+   "orgName": "CAMANA QUECHUA - CAMANA ARE",
+   "orgType": "CONG",
+   "address": "Calle Las Begonias 101-111\r\nAREQUIPA-04446\r\n    \r\n",
+   "languageCode": "QU",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "972830993",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "4D86D820-26D3-4273-96CD-AEB9A8055CE8",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.492342,
-      "longitude": -72.090541
-    },
-    "properties": {
-      "orgGuid": "4D86D820-26D3-4273-96CD-AEB9A8055CE8",
-      "orgName": "SANTA RITA - PEDREGAL ARE",
-      "orgType": "CONG",
-      "address": "Jr. José Olaya Mz O Lt 2\r\nAH Augusto Gilardi\r\nAREQUIPA-04426\r\n    \r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+51&nbsp;958 657 626",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "71C528DD-D359-4C2B-8095-A37830D381FB",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.597276,
+   "longitude": -72.704402
   },
-  {
-    "geoId": "EBCFF5A6-BA7E-4D8A-99EA-3C78BA803275",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.075932,
-      "longitude": -72.493557
-    },
-    "properties": {
-      "orgGuid": "EBCFF5A6-BA7E-4D8A-99EA-3C78BA803275",
-      "orgName": "APLAO - ARE",
-      "orgType": "CONG",
-      "address": "Centro Poblado Aplao, Mz.W Lte.1\r\nAPLAO\r\nAREQUIPA     \r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "918 813 588",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "71C528DD-D359-4C2B-8095-A37830D381FB",
+   "orgName": "HUARANGAL - CAMANA ARE",
+   "orgType": "CONG",
+   "address": "Av. Samuel Pastor 1410\r\nAH Bajo Huarangal\r\nCAMANA-04446\r\nAREQUIPA     \r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "958637692",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "983F3768-9D6D-4B0C-806A-09F89DDEFC6E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.358458,
-      "longitude": -72.18752
-    },
-    "properties": {
-      "orgGuid": "983F3768-9D6D-4B0C-806A-09F89DDEFC6E",
-      "orgName": "EL PEDREGAL - PEDREGAL ARE",
-      "orgType": "CONG",
-      "address": "Calle Perimetral Norte Mz. A Lt. 8\r\nCP. El Pedregal\r\n04426\r\n    \r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "947414515",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4E3AB52E-932F-4AD3-900A-502CA7F1C4F0",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.020545,
+   "longitude": -72.016383
   },
-  {
-    "geoId": "AB8CC219-C075-4C35-AA6B-03EBBDF2AF2A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.358458,
-      "longitude": -72.18752
-    },
-    "properties": {
-      "orgGuid": "AB8CC219-C075-4C35-AA6B-03EBBDF2AF2A",
-      "orgName": "PARCELAS DE MAJES - PEDREGAL ARE",
-      "orgType": "CONG",
-      "address": "Calle Perimetral Norte Mz. A Lt. 8\r\nCP. El Pedregal\r\n04426\r\n    \r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "4E3AB52E-932F-4AD3-900A-502CA7F1C4F0",
+   "orgName": "CENTRAL - MOLLENDO ARE",
+   "orgType": "CONG",
+   "address": "Esq. Calle Iquitos y Calle Ayacucho Mz.Q1 Lt.41\r\nCP. Mollendo\r\n04466\r\n    \r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "SPE"
+   ],
+   "phones": [
+    {
+     "phone": "972787371",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "34E41965-64E8-405C-BA1D-2882E783D3F6",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -16.358458,
-      "longitude": -72.18752
-    },
-    "properties": {
-      "orgGuid": "34E41965-64E8-405C-BA1D-2882E783D3F6",
-      "orgName": "MAJES QUECHUA - PEDREGAL ARE",
-      "orgType": "CONG",
-      "address": "Calle Perimetral Norte Mz. A Lt. 8\r\nCP. El Pedregal\r\n04426\r\n    \r\n",
-      "languageCode": "QU",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "15:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "951522803",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "DE3CB7AA-EF65-44E7-940E-78E1D20757E8",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.020545,
+   "longitude": -72.016383
+  },
+  "properties": {
+   "orgGuid": "DE3CB7AA-EF65-44E7-940E-78E1D20757E8",
+   "orgName": "MOLLENDO SEÑAS (1) - CENTRAL - MOLLENDO ARE",
+   "orgType": "GROUP",
+   "address": "Esq. Calle Iquitos y Calle Ayacucho Mz.Q1 Lt.41\r\nCP. Mollendo\r\n04466\r\n    \r\n",
+   "languageCode": "SPE",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "S"
+   ],
+   "phones": [
+    {
+     "phone": "972787371",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "6DDCCBF6-945B-48DE-A68D-78E22630DA14",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.017712,
+   "longitude": -72.008711
+  },
+  "properties": {
+   "orgGuid": "6DDCCBF6-945B-48DE-A68D-78E22630DA14",
+   "orgName": "ALTO INCLAN - MOLLENDO ARE",
+   "orgType": "CONG",
+   "address": "Calle Jorge Chávez Mz. Y Lt. 1\r\nZona B\r\n04466\r\n    \r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "19:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "983941452",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4D86D820-26D3-4273-96CD-AEB9A8055CE8",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.492342,
+   "longitude": -72.090541
+  },
+  "properties": {
+   "orgGuid": "4D86D820-26D3-4273-96CD-AEB9A8055CE8",
+   "orgName": "SANTA RITA - PEDREGAL ARE",
+   "orgType": "CONG",
+   "address": "Jr. José Olaya Mz O Lt 2\r\nAH Augusto Gilardi\r\nAREQUIPA-04426\r\n    \r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+51&nbsp;958 657 626",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "EBCFF5A6-BA7E-4D8A-99EA-3C78BA803275",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.075932,
+   "longitude": -72.493557
+  },
+  "properties": {
+   "orgGuid": "EBCFF5A6-BA7E-4D8A-99EA-3C78BA803275",
+   "orgName": "APLAO - ARE",
+   "orgType": "CONG",
+   "address": "Centro Poblado Aplao, Mz.W Lte.1\r\nAPLAO\r\nAREQUIPA     \r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "918 813 588",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "983F3768-9D6D-4B0C-806A-09F89DDEFC6E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.358458,
+   "longitude": -72.18752
+  },
+  "properties": {
+   "orgGuid": "983F3768-9D6D-4B0C-806A-09F89DDEFC6E",
+   "orgName": "EL PEDREGAL - PEDREGAL ARE",
+   "orgType": "CONG",
+   "address": "Calle Perimetral Norte Mz. A Lt. 8\r\nCP. El Pedregal\r\n04426\r\n    \r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "947414515",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "AB8CC219-C075-4C35-AA6B-03EBBDF2AF2A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.358458,
+   "longitude": -72.18752
+  },
+  "properties": {
+   "orgGuid": "AB8CC219-C075-4C35-AA6B-03EBBDF2AF2A",
+   "orgName": "PARCELAS DE MAJES - PEDREGAL ARE",
+   "orgType": "CONG",
+   "address": "Calle Perimetral Norte Mz. A Lt. 8\r\nCP. El Pedregal\r\n04426\r\n    \r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "34E41965-64E8-405C-BA1D-2882E783D3F6",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -16.358458,
+   "longitude": -72.18752
+  },
+  "properties": {
+   "orgGuid": "34E41965-64E8-405C-BA1D-2882E783D3F6",
+   "orgName": "MAJES QUECHUA - PEDREGAL ARE",
+   "orgType": "CONG",
+   "address": "Calle Perimetral Norte Mz. A Lt. 8\r\nCP. El Pedregal\r\n04426\r\n    \r\n",
+   "languageCode": "QU",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "15:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "951522803",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

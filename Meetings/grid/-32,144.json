@@ -1,1301 +1,1332 @@
 [
-  {
-    "geoId": "4D4A4887-A628-42CF-AEB5-5EDC1ECFBA4E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -31.707311,
-      "longitude": 148.672198
-    },
-    "properties": {
-      "orgGuid": "4D4A4887-A628-42CF-AEB5-5EDC1ECFBA4E",
-      "orgName": "Gilgandra - NSW",
-      "orgType": "CONG",
-      "address": "5A Lower Castlereagh Street\nGILGANDRA  NSW  2827\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0468399495 or 0401990752",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "4D4A4887-A628-42CF-AEB5-5EDC1ECFBA4E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -31.707311,
+   "longitude": 148.672198
   },
-  {
-    "geoId": "EB128755-6297-4740-8BFD-B56ED8C52D2D",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -28.07479,
-      "longitude": 145.688534
-    },
-    "properties": {
-      "orgGuid": "EB128755-6297-4740-8BFD-B56ED8C52D2D",
-      "orgName": "Cunnamulla Isolated Group - Cunnamulla QLD",
-      "orgType": "CONG",
-      "address": "Lot 2 Little Bedford Street\r\nCUNNAMULLA  QLD  4490\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0426212994",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "4D4A4887-A628-42CF-AEB5-5EDC1ECFBA4E",
+   "orgName": "Gilgandra - NSW",
+   "orgType": "CONG",
+   "address": "5A Lower Castlereagh Street\nGILGANDRA  NSW  2827\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0468399495 or 0401990752",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "BDB29093-78DC-4456-BD7D-5F67E2433720",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -31.27567,
-      "longitude": 149.28038
-    },
-    "properties": {
-      "orgGuid": "BDB29093-78DC-4456-BD7D-5F67E2433720",
-      "orgName": "Coonabarabran - NSW",
-      "orgType": "CONG",
-      "address": "14 Charles Street\nCOONABARABRAN  NSW  2357\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0400062969",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "EB128755-6297-4740-8BFD-B56ED8C52D2D",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -28.07479,
+   "longitude": 145.688534
   },
-  {
-    "geoId": "FF73EF9F-CB04-4999-8ADD-DD1C2F5DC0AC",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -29.42337,
-      "longitude": 147.98053
-    },
-    "properties": {
-      "orgGuid": "FF73EF9F-CB04-4999-8ADD-DD1C2F5DC0AC",
-      "orgName": "Lightning Ridge - NSW",
-      "orgType": "CONG",
-      "address": "8 Kopi Street\nLIGHTNING RIDGE  NSW  2834\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0493061428",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "EB128755-6297-4740-8BFD-B56ED8C52D2D",
+   "orgName": "Cunnamulla Isolated Group - Cunnamulla QLD",
+   "orgType": "CONG",
+   "address": "Lot 2 Little Bedford Street\r\nCUNNAMULLA  QLD  4490\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0426212994",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "94184A76-5FDF-4324-A689-0E9D55ACD72E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -31.51615,
-      "longitude": 150.68867
-    },
-    "properties": {
-      "orgGuid": "94184A76-5FDF-4324-A689-0E9D55ACD72E",
-      "orgName": "Quirindi - NSW",
-      "orgType": "CONG",
-      "address": "87 Russell Street\nQUIRINDI  NSW  2343\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0408623160",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "BDB29093-78DC-4456-BD7D-5F67E2433720",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -31.27567,
+   "longitude": 149.28038
   },
-  {
-    "geoId": "0FD01445-8F25-433F-B3B4-C9155894611E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -30.99173,
-      "longitude": 150.25236
-    },
-    "properties": {
-      "orgGuid": "0FD01445-8F25-433F-B3B4-C9155894611E",
-      "orgName": "Gunnedah - NSW",
-      "orgType": "CONG",
-      "address": "14A Walter Rodd Street\nGUNNEDAH  NSW  2380\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0429688799",
-          "ext": ""
-        },
-        {
-          "phone": "0429688799",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "BDB29093-78DC-4456-BD7D-5F67E2433720",
+   "orgName": "Coonabarabran - NSW",
+   "orgType": "CONG",
+   "address": "14 Charles Street\nCOONABARABRAN  NSW  2357\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0400062969",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "027A0FA5-99AD-4C02-BD99-8691D4831AFB",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -30.33556,
-      "longitude": 149.77737
-    },
-    "properties": {
-      "orgGuid": "027A0FA5-99AD-4C02-BD99-8691D4831AFB",
-      "orgName": "Narrabri Isolated Group - Narrabri NSW",
-      "orgType": "CONG",
-      "address": "16 Violet Street\nNARRABRI  NSW  2390\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0428 871 346",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "FF73EF9F-CB04-4999-8ADD-DD1C2F5DC0AC",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -29.42337,
+   "longitude": 147.98053
   },
-  {
-    "geoId": "D076CF05-4DE5-4649-87A9-F0CEB956562C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -31.12148,
-      "longitude": 150.92289
-    },
-    "properties": {
-      "orgGuid": "D076CF05-4DE5-4649-87A9-F0CEB956562C",
-      "orgName": "Tamworth East - Tamworth NSW",
-      "orgType": "CONG",
-      "address": "349 Goonoo Goonoo Road\r\nHILLVUE  NSW  2340\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "15:30"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0407269146",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "FF73EF9F-CB04-4999-8ADD-DD1C2F5DC0AC",
+   "orgName": "Lightning Ridge - NSW",
+   "orgType": "CONG",
+   "address": "8 Kopi Street\nLIGHTNING RIDGE  NSW  2834\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0493061428",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "8CD0BAF3-0059-4A6A-BD72-EC1A8BE19B54",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -31.12148,
-      "longitude": 150.92289
-    },
-    "properties": {
-      "orgGuid": "8CD0BAF3-0059-4A6A-BD72-EC1A8BE19B54",
-      "orgName": "Tamworth West - Tamworth NSW",
-      "orgType": "CONG",
-      "address": "349 Goonoo Goonoo Road\r\nHILLVUE  NSW  2340\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0429353900",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "94184A76-5FDF-4324-A689-0E9D55ACD72E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -31.51615,
+   "longitude": 150.68867
   },
-  {
-    "geoId": "3DC43C65-A056-4326-A111-0FCBA27124BA",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -29.488312,
-      "longitude": 149.845782
-    },
-    "properties": {
-      "orgGuid": "3DC43C65-A056-4326-A111-0FCBA27124BA",
-      "orgName": "Moree - NSW",
-      "orgType": "CONG",
-      "address": "32 Brigalow Drive\nMOREE  NSW  2400\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0449589238",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "94184A76-5FDF-4324-A689-0E9D55ACD72E",
+   "orgName": "Quirindi - NSW",
+   "orgType": "CONG",
+   "address": "87 Russell Street\nQUIRINDI  NSW  2343\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0408623160",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "B3E0933A-EAB2-436A-8BFC-FCA1B43E9366",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -30.97641,
-      "longitude": 151.58103
-    },
-    "properties": {
-      "orgGuid": "B3E0933A-EAB2-436A-8BFC-FCA1B43E9366",
-      "orgName": "Walcha - NSW",
-      "orgType": "CONG",
-      "address": "210 North Street\nWALCHA  NSW  2354\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0427889948",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "0FD01445-8F25-433F-B3B4-C9155894611E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -30.99173,
+   "longitude": 150.25236
   },
-  {
-    "geoId": "77A42BBE-A73A-4A9A-A2A7-2FC41D7AF632",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -24.42761,
-      "longitude": 145.46686
-    },
-    "properties": {
-      "orgGuid": "77A42BBE-A73A-4A9A-A2A7-2FC41D7AF632",
-      "orgName": "Blackall - QLD",
-      "orgType": "CONG",
-      "address": "8 Hawthorn Street\r\nBLACKALL  QLD  4472\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0447170123",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "0FD01445-8F25-433F-B3B4-C9155894611E",
+   "orgName": "Gunnedah - NSW",
+   "orgType": "CONG",
+   "address": "14A Walter Rodd Street\nGUNNEDAH  NSW  2380\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0429688799",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "1B67E152-5C17-4708-88A6-9330CC10E789",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -30.5297,
-      "longitude": 151.67051
-    },
-    "properties": {
-      "orgGuid": "1B67E152-5C17-4708-88A6-9330CC10E789",
-      "orgName": "Armidale - NSW",
-      "orgType": "CONG",
-      "address": "104 Galloway Street\nARMIDALE  NSW  2350\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "14:30"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0407936423",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "027A0FA5-99AD-4C02-BD99-8691D4831AFB",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -30.33556,
+   "longitude": 149.77737
   },
-  {
-    "geoId": "3358872B-04A3-45CE-9D7F-11E629D18193",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -29.77499,
-      "longitude": 151.12857
-    },
-    "properties": {
-      "orgGuid": "3358872B-04A3-45CE-9D7F-11E629D18193",
-      "orgName": "Inverell - NSW",
-      "orgType": "CONG",
-      "address": "81-87 Clive Street\nINVERELL  NSW  2360\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0428 871 346",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "027A0FA5-99AD-4C02-BD99-8691D4831AFB",
+   "orgName": "Narrabri Isolated Group - Narrabri NSW",
+   "orgType": "CONG",
+   "address": "16 Violet Street\nNARRABRI  NSW  2390\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0428 871 346",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "FDBC631E-358B-4E70-B123-1ECC3AE3086D",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -28.54465,
-      "longitude": 150.31298
-    },
-    "properties": {
-      "orgGuid": "FDBC631E-358B-4E70-B123-1ECC3AE3086D",
-      "orgName": "Goondiwindi - QLD",
-      "orgType": "CONG",
-      "address": "60 George Street\nGOONDIWINDI  QLD  4390\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "14:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0447316576",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "D076CF05-4DE5-4649-87A9-F0CEB956562C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -31.12148,
+   "longitude": 150.92289
   },
-  {
-    "geoId": "96040B2A-0ECB-4198-856D-39B44E3E982D",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -29.75144,
-      "longitude": 151.73526
-    },
-    "properties": {
-      "orgGuid": "96040B2A-0ECB-4198-856D-39B44E3E982D",
-      "orgName": "Glen Innes - NSW",
-      "orgType": "CONG",
-      "address": "20 Church Street\nGLEN INNES  NSW  2370\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0412297115",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "D076CF05-4DE5-4649-87A9-F0CEB956562C",
+   "orgName": "Tamworth East - Tamworth NSW",
+   "orgType": "CONG",
+   "address": "349 Goonoo Goonoo Road\r\nHILLVUE  NSW  2340\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "15:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0407269146",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "D9C909B4-C92C-4EA3-94BC-52C2372DD6AE",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -26.56287,
-      "longitude": 148.78508
-    },
-    "properties": {
-      "orgGuid": "D9C909B4-C92C-4EA3-94BC-52C2372DD6AE",
-      "orgName": "Roma - QLD",
-      "orgType": "CONG",
-      "address": "58 Miscamble Street\nROMA  QLD  4455\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0409881032",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "8CD0BAF3-0059-4A6A-BD72-EC1A8BE19B54",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -31.12148,
+   "longitude": 150.92289
   },
-  {
-    "geoId": "1C2C29FE-055A-48C0-B00A-25168B8DF667",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -28.67628,
-      "longitude": 151.9413
-    },
-    "properties": {
-      "orgGuid": "1C2C29FE-055A-48C0-B00A-25168B8DF667",
-      "orgName": "Stanthorpe - QLD",
-      "orgType": "CONG",
-      "address": "58 Rifle Range Road\nSTANTHORPE  QLD  4380\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0402 063 275",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "8CD0BAF3-0059-4A6A-BD72-EC1A8BE19B54",
+   "orgName": "Tamworth West - Tamworth NSW",
+   "orgType": "CONG",
+   "address": "349 Goonoo Goonoo Road\r\nHILLVUE  NSW  2340\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0429353900",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "9C3324DF-1C26-4929-8F62-004C0EFB0A29",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -27.87572,
-      "longitude": 151.27252
-    },
-    "properties": {
-      "orgGuid": "9C3324DF-1C26-4929-8F62-004C0EFB0A29",
-      "orgName": "Millmerran - QLD",
-      "orgType": "CONG",
-      "address": "38 Mary Street\nMILLMERRAN  QLD  4357\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "14:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0428 951 538",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3DC43C65-A056-4326-A111-0FCBA27124BA",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -29.488312,
+   "longitude": 149.845782
   },
-  {
-    "geoId": "8209AC14-329E-4C47-AC17-BD671EC2FC94",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -26.73349,
-      "longitude": 150.63592
-    },
-    "properties": {
-      "orgGuid": "8209AC14-329E-4C47-AC17-BD671EC2FC94",
-      "orgName": "Chinchilla - QLD",
-      "orgType": "CONG",
-      "address": "54 King Street\nCHINCHILLA  QLD  4413\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0419663813",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "3DC43C65-A056-4326-A111-0FCBA27124BA",
+   "orgName": "Moree - NSW",
+   "orgType": "CONG",
+   "address": "32 Brigalow Drive\nMOREE  NSW  2400\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0449589238",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "03E31ED0-9E31-4FC2-A201-1855A76B8847",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -27.712196,
-      "longitude": 151.637841
-    },
-    "properties": {
-      "orgGuid": "03E31ED0-9E31-4FC2-A201-1855A76B8847",
-      "orgName": "Pittsworth - QLD",
-      "orgType": "CONG",
-      "address": "1 Cooper Street\nPITTSWORTH  QLD  4356\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0467931551",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B3E0933A-EAB2-436A-8BFC-FCA1B43E9366",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -30.97641,
+   "longitude": 151.58103
   },
-  {
-    "geoId": "A9806CC7-B9D6-472E-BDC8-50A2CE770E7D",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -27.17526,
-      "longitude": 151.23705
-    },
-    "properties": {
-      "orgGuid": "A9806CC7-B9D6-472E-BDC8-50A2CE770E7D",
-      "orgName": "Dalby - QLD",
-      "orgType": "CONG",
-      "address": "97 Spring Creek Drive\r\nDALBY  QLD  4405\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0477518576",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "B3E0933A-EAB2-436A-8BFC-FCA1B43E9366",
+   "orgName": "Walcha - NSW",
+   "orgType": "CONG",
+   "address": "210 North Street\nWALCHA  NSW  2354\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0427889948",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "9D55E174-815B-4E52-882F-89F45B6CA779",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -27.43128,
-      "longitude": 151.70767
-    },
-    "properties": {
-      "orgGuid": "9D55E174-815B-4E52-882F-89F45B6CA779",
-      "orgName": "Oakey - QLD",
-      "orgType": "CONG",
-      "address": "16 Ramsay Street\nOAKEY  QLD  4401\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0467608840",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "77A42BBE-A73A-4A9A-A2A7-2FC41D7AF632",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -24.42761,
+   "longitude": 145.46686
   },
-  {
-    "geoId": "1FE2A036-1275-4F8E-A83B-70926FC47660",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -27.5997,
-      "longitude": 151.93805
-    },
-    "properties": {
-      "orgGuid": "1FE2A036-1275-4F8E-A83B-70926FC47660",
-      "orgName": "Toowoomba East - Toowoomba QLD",
-      "orgType": "CONG",
-      "address": "338 Spring Street\r\nKEARNEYS SPRING  QLD  4350\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0427001927",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "77A42BBE-A73A-4A9A-A2A7-2FC41D7AF632",
+   "orgName": "Blackall - QLD",
+   "orgType": "CONG",
+   "address": "8 Hawthorn Street\r\nBLACKALL  QLD  4472\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0447170123",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "69640AFE-D21A-479D-9F85-46C3B95D3167",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -27.5997,
-      "longitude": 151.93805
-    },
-    "properties": {
-      "orgGuid": "69640AFE-D21A-479D-9F85-46C3B95D3167",
-      "orgName": "Toowoomba South - Toowoomba QLD",
-      "orgType": "CONG",
-      "address": "338 Spring Street\r\nKEARNEYS SPRING  QLD  4350\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0403 321 349",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "1B67E152-5C17-4708-88A6-9330CC10E789",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -30.5297,
+   "longitude": 151.67051
   },
-  {
-    "geoId": "93C65B5C-BF1B-46C4-9BB9-6EB7CB462BF2",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -27.5997,
-      "longitude": 151.93805
-    },
-    "properties": {
-      "orgGuid": "93C65B5C-BF1B-46C4-9BB9-6EB7CB462BF2",
-      "orgName": "Harristown - Toowoomba QLD",
-      "orgType": "CONG",
-      "address": "338 Spring Street\r\nKEARNEYS SPRING  QLD  4350\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "15:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0418 875 058",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "1B67E152-5C17-4708-88A6-9330CC10E789",
+   "orgName": "Armidale - NSW",
+   "orgType": "CONG",
+   "address": "104 Galloway Street\nARMIDALE  NSW  2350\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "14:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0407936423",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "D2ADCAED-780D-40D1-A523-8F1473BF1CD6",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -27.52721,
-      "longitude": 151.92544
-    },
-    "properties": {
-      "orgGuid": "D2ADCAED-780D-40D1-A523-8F1473BF1CD6",
-      "orgName": "Toowoomba North - Toowoomba QLD",
-      "orgType": "CONG",
-      "address": "144-150 Hogg Street\nWILSONTON HEIGHTS  QLD  4350\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "15:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0432057288",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3358872B-04A3-45CE-9D7F-11E629D18193",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -29.77499,
+   "longitude": 151.12857
   },
-  {
-    "geoId": "AFD3C579-9EB9-4553-B580-2AAC248B96B6",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -27.52721,
-      "longitude": 151.92544
-    },
-    "properties": {
-      "orgGuid": "AFD3C579-9EB9-4553-B580-2AAC248B96B6",
-      "orgName": "Wilsonton - Toowoomba QLD",
-      "orgType": "CONG",
-      "address": "144-150 Hogg Street\nWILSONTON HEIGHTS  QLD  4350\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0400932441",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "3358872B-04A3-45CE-9D7F-11E629D18193",
+   "orgName": "Inverell - NSW",
+   "orgType": "CONG",
+   "address": "81-87 Clive Street\nINVERELL  NSW  2360\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0428 871 346",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "ED1D5DF5-8A82-4E77-8BAD-90BB9A50C82C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -27.14655,
-      "longitude": 151.6955
-    },
-    "properties": {
-      "orgGuid": "ED1D5DF5-8A82-4E77-8BAD-90BB9A50C82C",
-      "orgName": "Peranga - QLD",
-      "orgType": "CONG",
-      "address": "29 Church Street\r\nPERANGA  QLD  4352\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0741646224",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "FDBC631E-358B-4E70-B123-1ECC3AE3086D",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -28.54465,
+   "longitude": 150.31298
   },
-  {
-    "geoId": "0E7E8686-1A84-4162-8E80-0DA81DAA02AB",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -26.8521,
-      "longitude": 151.98947
-    },
-    "properties": {
-      "orgGuid": "0E7E8686-1A84-4162-8E80-0DA81DAA02AB",
-      "orgName": "Yarraman - QLD",
-      "orgType": "CONG",
-      "address": "9 Desley Court\r\nYARRAMAN  QLD  4614\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0439 639 145",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "FDBC631E-358B-4E70-B123-1ECC3AE3086D",
+   "orgName": "Goondiwindi - QLD",
+   "orgType": "CONG",
+   "address": "60 George Street\nGOONDIWINDI  QLD  4390\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "14:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0447316576",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "1A0B6DB0-A4DF-4F2B-9452-19266D328A80",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -26.5366,
-      "longitude": 151.85967
-    },
-    "properties": {
-      "orgGuid": "1A0B6DB0-A4DF-4F2B-9452-19266D328A80",
-      "orgName": "Kingaroy - QLD",
-      "orgType": "CONG",
-      "address": "29 Tessmanns Road\r\nKINGAROY  QLD  4610\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0474295656",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "96040B2A-0ECB-4198-856D-39B44E3E982D",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -29.75144,
+   "longitude": 151.73526
   },
-  {
-    "geoId": "3DDE9D8A-31EF-4870-9410-1C4BBEE8039C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -26.24731,
-      "longitude": 151.93829
-    },
-    "properties": {
-      "orgGuid": "3DDE9D8A-31EF-4870-9410-1C4BBEE8039C",
-      "orgName": "Murgon - QLD",
-      "orgType": "CONG",
-      "address": "28 MacAlister Street\nMURGON  QLD  4605\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0413232363",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "96040B2A-0ECB-4198-856D-39B44E3E982D",
+   "orgName": "Glen Innes - NSW",
+   "orgType": "CONG",
+   "address": "20 Church Street\nGLEN INNES  NSW  2370\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0412297115",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "A2BE0F7D-6755-4771-850A-B1DC28DDED88",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -25.61745,
-      "longitude": 151.60379
-    },
-    "properties": {
-      "orgGuid": "A2BE0F7D-6755-4771-850A-B1DC28DDED88",
-      "orgName": "Gayndah - QLD",
-      "orgType": "CONG",
-      "address": "13 Bushnell Street\nGAYNDAH  QLD  4625\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0407138629",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "D9C909B4-C92C-4EA3-94BC-52C2372DD6AE",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -26.56287,
+   "longitude": 148.78508
   },
-  {
-    "geoId": "F1DCE792-CCC9-428D-B0A9-DDB3FF871C5F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -24.39146,
-      "longitude": 150.51656
-    },
-    "properties": {
-      "orgGuid": "F1DCE792-CCC9-428D-B0A9-DDB3FF871C5F",
-      "orgName": "Biloela - QLD",
-      "orgType": "CONG",
-      "address": "12 Buckland Street\nBILOELA  QLD  4715\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0407582474",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "D9C909B4-C92C-4EA3-94BC-52C2372DD6AE",
+   "orgName": "Roma - QLD",
+   "orgType": "CONG",
+   "address": "58 Miscamble Street\nROMA  QLD  4455\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0409881032",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "591D62B2-9F76-4A1F-82F4-CE1E8E51D2F9",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -24.97627,
-      "longitude": 151.95226
-    },
-    "properties": {
-      "orgGuid": "591D62B2-9F76-4A1F-82F4-CE1E8E51D2F9",
-      "orgName": "Gin Gin - QLD",
-      "orgType": "CONG",
-      "address": "53 Rangeview Road\nGIN GIN  QLD  4671\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0428 797 891",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "1C2C29FE-055A-48C0-B00A-25168B8DF667",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -28.67628,
+   "longitude": 151.9413
+  },
+  "properties": {
+   "orgGuid": "1C2C29FE-055A-48C0-B00A-25168B8DF667",
+   "orgName": "Stanthorpe - QLD",
+   "orgType": "CONG",
+   "address": "58 Rifle Range Road\nSTANTHORPE  QLD  4380\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0402 063 275",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "9C3324DF-1C26-4929-8F62-004C0EFB0A29",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -27.87572,
+   "longitude": 151.27252
+  },
+  "properties": {
+   "orgGuid": "9C3324DF-1C26-4929-8F62-004C0EFB0A29",
+   "orgName": "Millmerran - QLD",
+   "orgType": "CONG",
+   "address": "38 Mary Street\nMILLMERRAN  QLD  4357\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "14:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0428951538",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "8209AC14-329E-4C47-AC17-BD671EC2FC94",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -26.73349,
+   "longitude": 150.63592
+  },
+  "properties": {
+   "orgGuid": "8209AC14-329E-4C47-AC17-BD671EC2FC94",
+   "orgName": "Chinchilla - QLD",
+   "orgType": "CONG",
+   "address": "54 King Street\nCHINCHILLA  QLD  4413\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0419663813",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "03E31ED0-9E31-4FC2-A201-1855A76B8847",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -27.712196,
+   "longitude": 151.637841
+  },
+  "properties": {
+   "orgGuid": "03E31ED0-9E31-4FC2-A201-1855A76B8847",
+   "orgName": "Pittsworth - QLD",
+   "orgType": "CONG",
+   "address": "1 Cooper Street\nPITTSWORTH  QLD  4356\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0467931551",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A9806CC7-B9D6-472E-BDC8-50A2CE770E7D",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -27.17526,
+   "longitude": 151.23705
+  },
+  "properties": {
+   "orgGuid": "A9806CC7-B9D6-472E-BDC8-50A2CE770E7D",
+   "orgName": "Dalby - QLD",
+   "orgType": "CONG",
+   "address": "97 Spring Creek Drive\r\nDALBY  QLD  4405\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0477518576",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "9D55E174-815B-4E52-882F-89F45B6CA779",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -27.43128,
+   "longitude": 151.70767
+  },
+  "properties": {
+   "orgGuid": "9D55E174-815B-4E52-882F-89F45B6CA779",
+   "orgName": "Oakey - QLD",
+   "orgType": "CONG",
+   "address": "16 Ramsay Street\nOAKEY  QLD  4401\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0467608840",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "1FE2A036-1275-4F8E-A83B-70926FC47660",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -27.5997,
+   "longitude": 151.93805
+  },
+  "properties": {
+   "orgGuid": "1FE2A036-1275-4F8E-A83B-70926FC47660",
+   "orgName": "Toowoomba East - Toowoomba QLD",
+   "orgType": "CONG",
+   "address": "338 Spring Street\r\nKEARNEYS SPRING  QLD  4350\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0427001927",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "69640AFE-D21A-479D-9F85-46C3B95D3167",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -27.5997,
+   "longitude": 151.93805
+  },
+  "properties": {
+   "orgGuid": "69640AFE-D21A-479D-9F85-46C3B95D3167",
+   "orgName": "Toowoomba South - Toowoomba QLD",
+   "orgType": "CONG",
+   "address": "338 Spring Street\r\nKEARNEYS SPRING  QLD  4350\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0403 321 349",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "93C65B5C-BF1B-46C4-9BB9-6EB7CB462BF2",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -27.5997,
+   "longitude": 151.93805
+  },
+  "properties": {
+   "orgGuid": "93C65B5C-BF1B-46C4-9BB9-6EB7CB462BF2",
+   "orgName": "Harristown - Toowoomba QLD",
+   "orgType": "CONG",
+   "address": "338 Spring Street\r\nKEARNEYS SPRING  QLD  4350\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0416887664",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "D2ADCAED-780D-40D1-A523-8F1473BF1CD6",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -27.52721,
+   "longitude": 151.92544
+  },
+  "properties": {
+   "orgGuid": "D2ADCAED-780D-40D1-A523-8F1473BF1CD6",
+   "orgName": "Toowoomba North - Toowoomba QLD",
+   "orgType": "CONG",
+   "address": "144-150 Hogg Street\nWILSONTON HEIGHTS  QLD  4350\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0432057288",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "AFD3C579-9EB9-4553-B580-2AAC248B96B6",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -27.52721,
+   "longitude": 151.92544
+  },
+  "properties": {
+   "orgGuid": "AFD3C579-9EB9-4553-B580-2AAC248B96B6",
+   "orgName": "Wilsonton - Toowoomba QLD",
+   "orgType": "CONG",
+   "address": "144-150 Hogg Street\nWILSONTON HEIGHTS  QLD  4350\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0400932441",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "ED1D5DF5-8A82-4E77-8BAD-90BB9A50C82C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -27.14655,
+   "longitude": 151.6955
+  },
+  "properties": {
+   "orgGuid": "ED1D5DF5-8A82-4E77-8BAD-90BB9A50C82C",
+   "orgName": "Peranga - QLD",
+   "orgType": "CONG",
+   "address": "29 Church Street\r\nPERANGA  QLD  4352\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0741646224",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "0E7E8686-1A84-4162-8E80-0DA81DAA02AB",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -26.8521,
+   "longitude": 151.98947
+  },
+  "properties": {
+   "orgGuid": "0E7E8686-1A84-4162-8E80-0DA81DAA02AB",
+   "orgName": "Yarraman - QLD",
+   "orgType": "CONG",
+   "address": "9 Desley Court\r\nYARRAMAN  QLD  4614\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0439 639 145",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "1A0B6DB0-A4DF-4F2B-9452-19266D328A80",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -26.5366,
+   "longitude": 151.85967
+  },
+  "properties": {
+   "orgGuid": "1A0B6DB0-A4DF-4F2B-9452-19266D328A80",
+   "orgName": "Kingaroy - QLD",
+   "orgType": "CONG",
+   "address": "29 Tessmanns Road\r\nKINGAROY  QLD  4610\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0474295656",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3DDE9D8A-31EF-4870-9410-1C4BBEE8039C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -26.24731,
+   "longitude": 151.93829
+  },
+  "properties": {
+   "orgGuid": "3DDE9D8A-31EF-4870-9410-1C4BBEE8039C",
+   "orgName": "Murgon - QLD",
+   "orgType": "CONG",
+   "address": "28 MacAlister Street\nMURGON  QLD  4605\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0413232363",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A2BE0F7D-6755-4771-850A-B1DC28DDED88",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -25.61745,
+   "longitude": 151.60379
+  },
+  "properties": {
+   "orgGuid": "A2BE0F7D-6755-4771-850A-B1DC28DDED88",
+   "orgName": "Gayndah - QLD",
+   "orgType": "CONG",
+   "address": "13 Bushnell Street\nGAYNDAH  QLD  4625\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0407138629",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "F1DCE792-CCC9-428D-B0A9-DDB3FF871C5F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -24.39146,
+   "longitude": 150.51656
+  },
+  "properties": {
+   "orgGuid": "F1DCE792-CCC9-428D-B0A9-DDB3FF871C5F",
+   "orgName": "Biloela - QLD",
+   "orgType": "CONG",
+   "address": "12 Buckland Street\nBILOELA  QLD  4715\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0407582474",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "591D62B2-9F76-4A1F-82F4-CE1E8E51D2F9",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -24.97627,
+   "longitude": 151.95226
+  },
+  "properties": {
+   "orgGuid": "591D62B2-9F76-4A1F-82F4-CE1E8E51D2F9",
+   "orgName": "Gin Gin - QLD",
+   "orgType": "CONG",
+   "address": "53 Rangeview Road\nGIN GIN  QLD  4671\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0428 797 891",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

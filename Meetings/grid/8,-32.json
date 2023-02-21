@@ -1,187 +1,192 @@
 [
-  {
-    "geoId": "D83931AA-B4AA-4FC1-8B47-A54F57FB7A2D",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.867778,
-      "longitude": -24.694722
-    },
-    "properties": {
-      "orgGuid": "D83931AA-B4AA-4FC1-8B47-A54F57FB7A2D",
-      "orgName": "Nova Sintra",
-      "orgType": "CONG",
-      "address": "Cruz das Almas\r\nNova Sintra\r\nNOVA SINTRA\r\nNova Sintra\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+238) 974 26 74",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "D83931AA-B4AA-4FC1-8B47-A54F57FB7A2D",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.867778,
+   "longitude": -24.694722
   },
-  {
-    "geoId": "B8475EC2-685C-444E-B70E-96DF14F06463",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.897203,
-      "longitude": -24.493263
-    },
-    "properties": {
-      "orgGuid": "B8475EC2-685C-444E-B70E-96DF14F06463",
-      "orgName": "São Filipe",
-      "orgType": "CONG",
-      "address": "Subida de Santa Filomena\r\nSÃO FILIPE\r\nSão Filipe\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238&nbsp;592 04 26",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "D83931AA-B4AA-4FC1-8B47-A54F57FB7A2D",
+   "orgName": "Nova Sintra",
+   "orgType": "CONG",
+   "address": "Cruz das Almas\r\nNova Sintra\r\nNOVA SINTRA\r\nNova Sintra\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+238) 974 26 74",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "386D7075-07D7-4606-8AB7-8DDB90269D19",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.941652,
-      "longitude": -24.467686
-    },
-    "properties": {
-      "orgGuid": "386D7075-07D7-4606-8AB7-8DDB90269D19",
-      "orgName": "Pedro Homem",
-      "orgType": "CONG",
-      "address": "Pedro Homem\r\nSÃO LOURENÇO\r\nSão Filipe\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "5885357",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B8475EC2-685C-444E-B70E-96DF14F06463",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.897203,
+   "longitude": -24.493263
   },
-  {
-    "geoId": "FAF1FBAD-2383-4637-944C-00B13FEED2BF",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 14.886165,
-      "longitude": -24.294102
-    },
-    "properties": {
-      "orgGuid": "FAF1FBAD-2383-4637-944C-00B13FEED2BF",
-      "orgName": "Cova Figueira",
-      "orgType": "CONG",
-      "address": "Avenida do Emigrante (Rua Principal)\r\nCOVA FIGUEIRA\r\nCova Figueira\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-9842044",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "B8475EC2-685C-444E-B70E-96DF14F06463",
+   "orgName": "São Filipe",
+   "orgType": "CONG",
+   "address": "Subida de Santa Filomena\r\nSÃO FILIPE\r\nSão Filipe\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238&nbsp;592 04 26",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "535C26AB-E031-486E-B15A-1F8EFF091733",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 15.028818,
-      "longitude": -24.318417
-    },
-    "properties": {
-      "orgGuid": "535C26AB-E031-486E-B15A-1F8EFF091733",
-      "orgName": "Mosteiros",
-      "orgType": "CONG",
-      "address": "Mosteiros Trás\r\nMOSTEIROS TRÁS\r\nMosteiros\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "283-14-73",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "386D7075-07D7-4606-8AB7-8DDB90269D19",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.941652,
+   "longitude": -24.467686
+  },
+  "properties": {
+   "orgGuid": "386D7075-07D7-4606-8AB7-8DDB90269D19",
+   "orgName": "Pedro Homem",
+   "orgType": "CONG",
+   "address": "Pedro Homem\r\nSÃO LOURENÇO\r\nSão Filipe\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "5885357",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "FAF1FBAD-2383-4637-944C-00B13FEED2BF",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 14.886165,
+   "longitude": -24.294102
+  },
+  "properties": {
+   "orgGuid": "FAF1FBAD-2383-4637-944C-00B13FEED2BF",
+   "orgName": "Cova Figueira",
+   "orgType": "CONG",
+   "address": "Avenida do Emigrante (Rua Principal)\r\nCOVA FIGUEIRA\r\nCova Figueira\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-9842044",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "535C26AB-E031-486E-B15A-1F8EFF091733",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 15.028818,
+   "longitude": -24.318417
+  },
+  "properties": {
+   "orgGuid": "535C26AB-E031-486E-B15A-1F8EFF091733",
+   "orgName": "Mosteiros",
+   "orgType": "CONG",
+   "address": "Mosteiros Trás\r\nMOSTEIROS TRÁS\r\nMosteiros\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "283-14-73",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

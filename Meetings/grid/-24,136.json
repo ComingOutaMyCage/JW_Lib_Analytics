@@ -1,76 +1,78 @@
 [
-  {
-    "geoId": "CF554D8B-DC07-4E1A-98CD-FF3D1E8DC589",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -20.71779,
-      "longitude": 139.4935
-    },
-    "properties": {
-      "orgGuid": "CF554D8B-DC07-4E1A-98CD-FF3D1E8DC589",
-      "orgName": "Mount Isa - QLD",
-      "orgType": "CONG",
-      "address": "95-97 Miles Street\nMOUNT ISA  QLD  4825\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0414496696",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "CF554D8B-DC07-4E1A-98CD-FF3D1E8DC589",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -20.71779,
+   "longitude": 139.4935
   },
-  {
-    "geoId": "A09EB428-C193-428F-AF30-87A7A238DE4E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.671278,
-      "longitude": 141.072795
-    },
-    "properties": {
-      "orgGuid": "A09EB428-C193-428F-AF30-87A7A238DE4E",
-      "orgName": "Normanton Isolated Group - Normanton QLD",
-      "orgType": "CONG",
-      "address": "8 Dutton Street\nNORMANTON  QLD  4890\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0474552133",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "properties": {
+   "orgGuid": "CF554D8B-DC07-4E1A-98CD-FF3D1E8DC589",
+   "orgName": "Mount Isa - QLD",
+   "orgType": "CONG",
+   "address": "95-97 Miles Street\nMOUNT ISA  QLD  4825\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0414496696",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A09EB428-C193-428F-AF30-87A7A238DE4E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.671278,
+   "longitude": 141.072795
+  },
+  "properties": {
+   "orgGuid": "A09EB428-C193-428F-AF30-87A7A238DE4E",
+   "orgName": "Normanton Isolated Group - Normanton QLD",
+   "orgType": "CONG",
+   "address": "8 Dutton Street\nNORMANTON  QLD  4890\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0474552133",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

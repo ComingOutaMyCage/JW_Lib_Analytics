@@ -1,39 +1,40 @@
 [
-  {
-    "geoId": "93536C3E-0606-4A59-876F-F348CEFA6711",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -26.644854,
-      "longitude": 15.162739
-    },
-    "properties": {
-      "orgGuid": "93536C3E-0606-4A59-876F-F348CEFA6711",
-      "orgName": "Luderitz Congregation",
-      "orgType": "CONG",
-      "address": "ERF 779 Benguela\r\nLUDERITZ\r\nNAMIBIA\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+264&nbsp;81 207 2433 / +264 81 660 9865",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+ {
+  "geoId": "93536C3E-0606-4A59-876F-F348CEFA6711",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -26.644854,
+   "longitude": 15.162739
+  },
+  "properties": {
+   "orgGuid": "93536C3E-0606-4A59-876F-F348CEFA6711",
+   "orgName": "Luderitz Congregation",
+   "orgType": "CONG",
+   "address": "ERF 779 Benguela\r\nLUDERITZ\r\nNAMIBIA\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+264&nbsp;81 207 2433 / +264 81 660 9865",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

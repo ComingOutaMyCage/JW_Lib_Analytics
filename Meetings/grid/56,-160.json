@@ -1,42 +1,43 @@
 [
-  {
-    "geoId": "B71D8761-96E5-4398-8424-ECF6D93D8A05",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 57.794877,
-      "longitude": -152.380578
-    },
-    "properties": {
-      "orgGuid": "B71D8761-96E5-4398-8424-ECF6D93D8A05",
-      "orgName": "Kodiak - AK (USA)",
-      "orgType": "CONG",
-      "address": "1514 Mission Rd\nKodiak AK  99615-6585\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "TG"
-      ],
-      "phones": [
-        {
-          "phone": "907-486-4606",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+ {
+  "geoId": "B71D8761-96E5-4398-8424-ECF6D93D8A05",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 57.794877,
+   "longitude": -152.380578
+  },
+  "properties": {
+   "orgGuid": "B71D8761-96E5-4398-8424-ECF6D93D8A05",
+   "orgName": "Kodiak - AK (USA)",
+   "orgType": "CONG",
+   "address": "1514 Mission Rd\nKodiak AK  99615-6585\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "TG"
+   ],
+   "phones": [
+    {
+     "phone": "907-486-4606",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

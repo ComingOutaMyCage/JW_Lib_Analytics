@@ -94,10 +94,10 @@ async function getMeetings(lowerLat, lowerLon, upperLat, upperLon){
         SaveExpectations();
     }
     let size = upperLat - lowerLat;
-    lowerLat -= size * 0.05;
-    lowerLon -= size * 0.05;
-    upperLat += size * 0.05;
-    upperLon += size * 0.05;
+    lowerLat -= size * 0.1;
+    lowerLon -= size * 0.1;
+    upperLat += size * 0.1;
+    upperLon += size * 0.1;
     if(lowerLat === 0) lowerLat = -0.001;
     if(lowerLon === 0) lowerLon = -0.001;
     if(lowerLon === 0) upperLat = 0.001;
@@ -176,6 +176,8 @@ async function ProcessGrid(country, forCountry, sw, ne, step = null, recursivePe
             if(expectation === 0) continue;
             let km = step * 111;
             let percent = recursivePercent + " " + Math.round(km) + "km " + zeroPad(Math.round(((percentLon + percentLat) / 2.0) * 100), 2) + "%";
+            if(km <= 0.05 && expectation == '+')
+                expectation = null;
             let data = cache[key] ?? null;
             if(expectation !== "+") {
                 if(!data) {
@@ -196,7 +198,9 @@ async function ProcessGrid(country, forCountry, sw, ne, step = null, recursivePe
                         forCountry[item['geoId']] = item;
                     }
                 }
-                if (data['hasMoreResults'] == true || items.length === 25 || (items.length > 18 && km > 3) || ((country.startsWith("USA") || denseRegion) && km > 50 && items.length > 1))
+                if(km <= 0.05)
+                    cachedExpectation[key] = items.length;
+                else if (data['hasMoreResults'] == true || (items.length >= 20) || (items.length > 10 && km > 3) || (items.length > 0 && km > 100) || ((country.startsWith("USA") || denseRegion) && km > 50))
                     expectation = "+";
                 else if(items.length > 0)
                     cachedExpectation[key] = items.length;
@@ -205,7 +209,7 @@ async function ProcessGrid(country, forCountry, sw, ne, step = null, recursivePe
                 console.log(`Queries: ${totalQueries}\t${country} Locations: ` + Object.keys(forCountry).length + "\tTotal Locations: " + Object.keys(allMeetings).length + "\t" + percent);
             }
             if(expectation === "+"){
-                if (data && (data['hasMoreResults'] == true || data['geoLocationList'].length === 25))
+                if (data && (data['hasMoreResults'] == true || data['geoLocationList'].length >= 18))
                     denseRegion = true;
                 cachedExpectation[key] = "+";
                 let substep = Math.min(latMax - lat, step * 0.5);
@@ -330,6 +334,7 @@ async function SaveAllMeetings(allMeetings){
     let totalActive = 0;
     let totalInactive = 0;
     let typeTotals = {};
+    let languages = new Set();
     for (const meeting of Object.values(allMeetings)){
         let lat = meeting.location.latitude;
         let lon = meeting.location.longitude;
@@ -341,20 +346,30 @@ async function SaveAllMeetings(allMeetings){
         grids[key].push(meeting);
         available_grids[key] = true;
         typeTotals[meeting.properties.orgType] = (typeTotals[meeting.properties.orgType] ?? 0) + 1;
+        languages.add(meeting.properties.languageCode);
+        if(meeting.properties.relatedLanguageCodes) {
+            for (const otherLang of meeting.properties.relatedLanguageCodes) {
+                languages.add(otherLang);
+            }
+        }
         if(meeting.active)
             totalActive++;
         else
             totalInactive++;
     }
+    languages = [...languages];
+    languages.sort();
     let stats = {
         typeTotals: typeTotals,
+        total: totalActive + totalInactive,
         totalActive: totalActive,
         totalInactive: totalInactive,
+        languages: [...languages],
         grids: Object.keys(available_grids),
     };
-    SaveFile('./Meetings/init_data.json', JSON.stringify(stats, null, 2));
+    SaveFile('./Meetings/init_data.json', JSON.stringify(stats, null, 1));
     for(const [key, meetings] of Object.entries(grids)){
-        SaveFile(`./Meetings/grid/${key}.json`, JSON.stringify(meetings, null, 2));
+        SaveFile(`./Meetings/grid/${key}.json`, JSON.stringify(meetings, null, 1));
     }
     await SaveFile(`./Meetings/Meetings.json`, JSON.stringify(allMeetings, null, 1));
     await delay(3000);

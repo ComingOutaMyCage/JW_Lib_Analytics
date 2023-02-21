@@ -1,153 +1,157 @@
 [
-  {
-    "geoId": "5F79FA78-105B-4585-9D17-4757A10A50BD",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -40.8117,
-      "longitude": -63.00772
-    },
-    "properties": {
-      "orgGuid": "5F79FA78-105B-4585-9D17-4757A10A50BD",
-      "orgName": "Centro, Viedma, Río Negro",
-      "orgType": "CONG",
-      "address": "San Vicente 430\r\nBarrio Paterno\r\nViedma, Río Negro\r\nC. P.:  8500           \r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "QUB"
-      ],
-      "phones": [
-        {
-          "phone": "2920575864",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "5F79FA78-105B-4585-9D17-4757A10A50BD",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -40.8117,
+   "longitude": -63.00772
   },
-  {
-    "geoId": "10654CBB-51DD-4054-BD2A-02AB2AC45DA0",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -40.8117,
-      "longitude": -63.00772
-    },
-    "properties": {
-      "orgGuid": "10654CBB-51DD-4054-BD2A-02AB2AC45DA0",
-      "orgName": "Norte, Viedma, Río Negro",
-      "orgType": "CONG",
-      "address": "San Vicente 430\r\nBarrio Paterno\r\nViedma, Río Negro\r\nC. P.:  8500           \r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "2920308973",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "5F79FA78-105B-4585-9D17-4757A10A50BD",
+   "orgName": "Centro, Viedma, Río Negro",
+   "orgType": "CONG",
+   "address": "San Vicente 430\r\nBarrio Paterno\r\nViedma, Río Negro\r\nC. P.:  8500           \r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "QUB"
+   ],
+   "phones": [
+    {
+     "phone": "2920575864",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "8B032930-BC67-4622-A00E-8E8E3DF8381C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -40.821808,
-      "longitude": -62.991181
-    },
-    "properties": {
-      "orgGuid": "8B032930-BC67-4622-A00E-8E8E3DF8381C",
-      "orgName": "Sur, Viedma, Río Negro",
-      "orgType": "CONG",
-      "address": "Guimaraes 26\r\n(ex Tierra del Fuego 26)\r\nViedma, Río Negro\r\nC. P.:  8500\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "19:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "2920508296",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "10654CBB-51DD-4054-BD2A-02AB2AC45DA0",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -40.8117,
+   "longitude": -63.00772
   },
-  {
-    "geoId": "13C6FA2E-ADF5-40B7-B44C-B5DAF0617107",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -40.799172,
-      "longitude": -62.973245
-    },
-    "properties": {
-      "orgGuid": "13C6FA2E-ADF5-40B7-B44C-B5DAF0617107",
-      "orgName": "Carmen de Patagones, Buenos Aires",
-      "orgType": "CONG",
-      "address": "Chile 235\r\nCarmen de Patagones, Buenos Aires\r\nC. P.:  8504           \r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "2920353320",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "properties": {
+   "orgGuid": "10654CBB-51DD-4054-BD2A-02AB2AC45DA0",
+   "orgName": "Norte, Viedma, Río Negro",
+   "orgType": "CONG",
+   "address": "San Vicente 430\r\nBarrio Paterno\r\nViedma, Río Negro\r\nC. P.:  8500           \r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "2920308973",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "8B032930-BC67-4622-A00E-8E8E3DF8381C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -40.821808,
+   "longitude": -62.991181
+  },
+  "properties": {
+   "orgGuid": "8B032930-BC67-4622-A00E-8E8E3DF8381C",
+   "orgName": "Sur, Viedma, Río Negro",
+   "orgType": "CONG",
+   "address": "Guimaraes 26\r\n(ex Tierra del Fuego 26)\r\nViedma, Río Negro\r\nC. P.:  8500\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "19:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "2920508296",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "13C6FA2E-ADF5-40B7-B44C-B5DAF0617107",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -40.799172,
+   "longitude": -62.973245
+  },
+  "properties": {
+   "orgGuid": "13C6FA2E-ADF5-40B7-B44C-B5DAF0617107",
+   "orgName": "Carmen de Patagones, Buenos Aires",
+   "orgType": "CONG",
+   "address": "Chile 235\r\nCarmen de Patagones, Buenos Aires\r\nC. P.:  8504           \r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "2920353320",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

@@ -1,772 +1,792 @@
 [
-  {
-    "geoId": "E48E5D71-9AFD-47F9-9D29-97F79B8401E3",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 6.039281,
-      "longitude": 80.229115
-    },
-    "properties": {
-      "orgGuid": "E48E5D71-9AFD-47F9-9D29-97F79B8401E3",
-      "orgName": "Galle Congregation, Galle",
-      "orgType": "CONG",
-      "orgTransliteratedName": "ගාල්ල සභාව, ගාල්ල (570)",
-      "address": "187/5,\r\nDeensdale Watte,\r\nBandaranayake Place\r\nMagalle\r\nGalle SP 80000\r\n",
-      "languageCode": "SN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "16:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0776570036",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "E48E5D71-9AFD-47F9-9D29-97F79B8401E3",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 6.039281,
+   "longitude": 80.229115
   },
-  {
-    "geoId": "AF953A63-078F-452F-9244-503CCC576BFF",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 5.946004,
-      "longitude": 80.532757
-    },
-    "properties": {
-      "orgGuid": "AF953A63-078F-452F-9244-503CCC576BFF",
-      "orgName": "Matara Congregation, Matara",
-      "orgType": "CONG",
-      "orgTransliteratedName": "මාතර සභාව, මාතර (497)",
-      "address": "2\nParamulla Road\nPamburana\nMatara SP 81000\n",
-      "languageCode": "SN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "077 525 2640",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "E48E5D71-9AFD-47F9-9D29-97F79B8401E3",
+   "orgName": "Galle Congregation, Galle",
+   "orgType": "CONG",
+   "orgTransliteratedName": "ගාල්ල සභාව, ගාල්ල (570)",
+   "address": "187/5,\r\nDeensdale Watte,\r\nBandaranayake Place\r\nMagalle\r\nGalle SP 80000\r\n",
+   "languageCode": "SN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "16:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0776570036",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "CEAE17FD-084E-4132-AB5B-79DFF35AC5DA",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 6.711562,
-      "longitude": 80.379962
-    },
-    "properties": {
-      "orgGuid": "CEAE17FD-084E-4132-AB5B-79DFF35AC5DA",
-      "orgName": "Ratnapura Congregation, Ratnapura",
-      "orgType": "CONG",
-      "orgTransliteratedName": "රත්නපුර සභාව, රත්නපුර (638)",
-      "address": "14/1\r\nShopping Complex\r\nNew Town\r\nRatnapura SAB\r\n",
-      "languageCode": "SN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0779564491,0767651829",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "AF953A63-078F-452F-9244-503CCC576BFF",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 5.946004,
+   "longitude": 80.532757
   },
-  {
-    "geoId": "8ADF0C34-F35F-4944-8FBE-5A87C7796DF9",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 6.99202,
-      "longitude": 80.12577
-    },
-    "properties": {
-      "orgGuid": "8ADF0C34-F35F-4944-8FBE-5A87C7796DF9",
-      "orgName": "Pugoda Congregation, Gampaha",
-      "orgType": "CONG",
-      "orgTransliteratedName": "පූගොඩ සභාව, ගම්පහ (1420)",
-      "address": "1A/5\r\nGerman Watta,\r\nHanwella Road\r\nPepiliyawala\r\nPugoda WP 11741\r\n",
-      "languageCode": "SN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "16:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+94&nbsp;77 271 6994",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "AF953A63-078F-452F-9244-503CCC576BFF",
+   "orgName": "Matara Congregation, Matara",
+   "orgType": "CONG",
+   "orgTransliteratedName": "මාතර සභාව, මාතර (497)",
+   "address": "2\nParamulla Road\nPamburana\nMatara SP 81000\n",
+   "languageCode": "SN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "077 525 2640",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "02938119-43E5-47BC-BE55-10675258B0E3",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 7.09058,
-      "longitude": 80.028863
-    },
-    "properties": {
-      "orgGuid": "02938119-43E5-47BC-BE55-10675258B0E3",
-      "orgName": "Gampaha Congregation, Gampaha",
-      "orgType": "CONG",
-      "orgTransliteratedName": "ගම්පහ සභාව,  ගම්පහ (109)",
-      "address": "19A\r\nKurunegala Watta Road\r\nYakkala WP 11870\r\n",
-      "languageCode": "SN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "Sampath Fernando - 774108806",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T02:43:02.995Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "CEAE17FD-084E-4132-AB5B-79DFF35AC5DA",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 6.711562,
+   "longitude": 80.379962
   },
-  {
-    "geoId": "FA95C25F-4004-495C-85ED-DE29AEE38907",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 7.09058,
-      "longitude": 80.028863
-    },
-    "properties": {
-      "orgGuid": "FA95C25F-4004-495C-85ED-DE29AEE38907",
-      "orgName": "Weliweriya Congregation, Gampaha",
-      "orgType": "CONG",
-      "orgTransliteratedName": "වැලිවේරිය සභාව, ගම්පහ (1511)",
-      "address": "19A\r\nKurunegala Watta Road\r\nYakkala WP 11870\r\n",
-      "languageCode": "SN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0773087368",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T02:43:02.995Z"
+  "properties": {
+   "orgGuid": "CEAE17FD-084E-4132-AB5B-79DFF35AC5DA",
+   "orgName": "Ratnapura Congregation, Ratnapura",
+   "orgType": "CONG",
+   "orgTransliteratedName": "රත්නපුර සභාව, රත්නපුර (638)",
+   "address": "14/1\r\nShopping Complex\r\nNew Town\r\nRatnapura SAB\r\n",
+   "languageCode": "SN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0779564491,0767651829",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "2FAC06FA-11D0-4F5C-9459-5BE35DEECFD3",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 6.955855,
-      "longitude": 80.203148
-    },
-    "properties": {
-      "orgGuid": "2FAC06FA-11D0-4F5C-9459-5BE35DEECFD3",
-      "orgName": "Avissawella Congregation, Colombo",
-      "orgType": "CONG",
-      "orgTransliteratedName": "අවිස්සාවෙල්ල සභාව, කොළඹ (521)",
-      "address": "29/32\r\nKudagama Road\r\nAvissawella WP 10700\r\n",
-      "languageCode": "SN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0773006919",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "8ADF0C34-F35F-4944-8FBE-5A87C7796DF9",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 6.99202,
+   "longitude": 80.12577
   },
-  {
-    "geoId": "CBEE8320-7ECB-48E7-8AB9-4BDBA3E46BF8",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 6.897624,
-      "longitude": 80.591908
-    },
-    "properties": {
-      "orgGuid": "CBEE8320-7ECB-48E7-8AB9-4BDBA3E46BF8",
-      "orgName": "Hatton Congregation, Nuwara Eliya",
-      "orgType": "CONG",
-      "orgTransliteratedName": "ஹற்றன் சபை, நுவரேலியா (505)",
-      "address": "22/2\r\nFruit Hill Road\r\nHatton CP 22000\r\n",
-      "languageCode": "TL",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "077 348 7546 / 077 045 3005",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "8ADF0C34-F35F-4944-8FBE-5A87C7796DF9",
+   "orgName": "Pugoda Congregation, Gampaha",
+   "orgType": "CONG",
+   "orgTransliteratedName": "පූගොඩ සභාව, ගම්පහ (1420)",
+   "address": "1A/5\r\nGerman Watta,\r\nHanwella Road\r\nPepiliyawala\r\nPugoda WP 11741\r\n",
+   "languageCode": "SN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "16:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+94&nbsp;77 271 6994",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "893BE4CD-9421-4E94-83E3-FA5132957FBC",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 7.473705,
-      "longitude": 80.04551
-    },
-    "properties": {
-      "orgGuid": "893BE4CD-9421-4E94-83E3-FA5132957FBC",
-      "orgName": "Kuliyapitiya Congregation, Kurunegala",
-      "orgType": "CONG",
-      "orgTransliteratedName": "කුලියාපිටිය සභාව, කුරුණෑගල (455)",
-      "address": "56\r\nJayanthi Mawatha\r\nHettipola Road\r\nKuliyapitiya NWP 60200\r\n",
-      "languageCode": "SN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0777769620",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T02:43:02.995Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "02938119-43E5-47BC-BE55-10675258B0E3",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 7.09058,
+   "longitude": 80.028863
   },
-  {
-    "geoId": "1836C477-99EF-4242-B098-1893D4167C44",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 6.979506,
-      "longitude": 80.766371
-    },
-    "properties": {
-      "orgGuid": "1836C477-99EF-4242-B098-1893D4167C44",
-      "orgName": "Nuwara Eliya Congregation, Nuwara Eliya",
-      "orgType": "CONG",
-      "orgTransliteratedName": "நுவரேலியா சபை, நுவரேலியா (216)",
-      "address": "5/35\r\nKeena Road\r\nNuwara Eliya CP 22200\r\n",
-      "languageCode": "TL",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0772222916/0774068731",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "02938119-43E5-47BC-BE55-10675258B0E3",
+   "orgName": "Gampaha Congregation, Gampaha",
+   "orgType": "CONG",
+   "orgTransliteratedName": "ගම්පහ සභාව,  ගම්පහ (109)",
+   "address": "19A\r\nKurunegala Watta Road\r\nYakkala WP 11870\r\n",
+   "languageCode": "SN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "Sampath Fernando - 774108806",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "0EF11AE5-BFB7-402A-96E9-392DD745EB3B",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 7.478876,
-      "longitude": 80.35244
-    },
-    "properties": {
-      "orgGuid": "0EF11AE5-BFB7-402A-96E9-392DD745EB3B",
-      "orgName": "Kurunegala Congregation, Kurunegala",
-      "orgType": "CONG",
-      "orgTransliteratedName": "කුරුණෑගල සභාව, කුරුණෑගල (430)",
-      "address": "299/26\r\nNidahas Mawatha\r\nNegombo Road\r\nMalkaduwawa\r\nKurunegala NWP 60000\r\n",
-      "languageCode": "SN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "17:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0778409075",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T02:43:02.995Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T02:43:02.995Z"
+ },
+ {
+  "geoId": "FA95C25F-4004-495C-85ED-DE29AEE38907",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 7.09058,
+   "longitude": 80.028863
   },
-  {
-    "geoId": "E4945B67-75D0-4CCB-8859-A85945E369BA",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 7.274495,
-      "longitude": 80.61086
-    },
-    "properties": {
-      "orgGuid": "E4945B67-75D0-4CCB-8859-A85945E369BA",
-      "orgName": "Kandy Congregation, Kandy",
-      "orgType": "CONG",
-      "orgTransliteratedName": "මහ නුවර සභාව, මහ නුවර",
-      "address": "680/2\r\nPeradeniya Road\r\nKandy CP 20000\r\n",
-      "languageCode": "SN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+94&nbsp;77 598 3687",
-          "ext": ""
-        },
-        {
-          "phone": "+94&nbsp;75 983 6873",
-          "ext": ""
-        },
-        {
-          "phone": "+94&nbsp;77 598 3687",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "FA95C25F-4004-495C-85ED-DE29AEE38907",
+   "orgName": "Weliweriya Congregation, Gampaha",
+   "orgType": "CONG",
+   "orgTransliteratedName": "වැලිවේරිය සභාව, ගම්පහ (1511)",
+   "address": "19A\r\nKurunegala Watta Road\r\nYakkala WP 11870\r\n",
+   "languageCode": "SN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0773087368",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "230270DE-9C25-4129-98A8-F31248E5F816",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 7.371212,
-      "longitude": 80.525483
-    },
-    "properties": {
-      "orgGuid": "230270DE-9C25-4129-98A8-F31248E5F816",
-      "orgName": "Galagedera Congregation, Kandy",
-      "orgType": "CONG",
-      "orgTransliteratedName": "ගලගෙදර සභාව, මහ නුවර (612)",
-      "address": "11E\nPoholiyadda Road\nGalagedera CP 20100\n",
-      "languageCode": "SN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "16:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0779666615",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T02:43:02.995Z"
+ },
+ {
+  "geoId": "2FAC06FA-11D0-4F5C-9459-5BE35DEECFD3",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 6.955855,
+   "longitude": 80.203148
   },
-  {
-    "geoId": "A3C4D237-8AEF-4E92-B541-AA26AF44E680",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 6.98423,
-      "longitude": 81.045207
-    },
-    "properties": {
-      "orgGuid": "A3C4D237-8AEF-4E92-B541-AA26AF44E680",
-      "orgName": "Hali-Ela Congregation, Badulla",
-      "orgType": "CONG",
-      "orgTransliteratedName": "බදුල්ල සභාව, බදුල්ල (653)",
-      "address": "135\nBandarawela Road\nPinarawa\nBadulla UVA 90000\n",
-      "languageCode": "TL",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0776309031 /0779358782",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "2FAC06FA-11D0-4F5C-9459-5BE35DEECFD3",
+   "orgName": "Avissawella Congregation, Colombo",
+   "orgType": "CONG",
+   "orgTransliteratedName": "අවිස්සාවෙල්ල සභාව, කොළඹ (521)",
+   "address": "29/32\r\nKudagama Road\r\nAvissawella WP 10700\r\n",
+   "languageCode": "SN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0773006919",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "9C495A7B-94CE-404C-A558-E6C204EE2030",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 6.98423,
-      "longitude": 81.045207
-    },
-    "properties": {
-      "orgGuid": "9C495A7B-94CE-404C-A558-E6C204EE2030",
-      "orgName": "Dunhinda Falls Congregation, Badulla",
-      "orgType": "CONG",
-      "address": "135\nBandarawela Road\nPinarawa\nBadulla UVA 90000\n",
-      "languageCode": "SN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0773850376",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "CBEE8320-7ECB-48E7-8AB9-4BDBA3E46BF8",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 6.897624,
+   "longitude": 80.591908
   },
-  {
-    "geoId": "C161CBD9-5CDA-45C2-B21D-4A45BA8F616C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 7.461206,
-      "longitude": 80.621134
-    },
-    "properties": {
-      "orgGuid": "C161CBD9-5CDA-45C2-B21D-4A45BA8F616C",
-      "orgName": "Matale Congregation, Matale",
-      "orgType": "CONG",
-      "orgTransliteratedName": "மாத்தளை சபை, மாத்தளை (299)",
-      "address": "36\nHiggolla Mawatha\nMatale CP 21000\n",
-      "languageCode": "TL",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0773118627",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "CBEE8320-7ECB-48E7-8AB9-4BDBA3E46BF8",
+   "orgName": "Hatton Congregation, Nuwara Eliya",
+   "orgType": "CONG",
+   "orgTransliteratedName": "ஹற்றன் சபை, நுவரேலியா (505)",
+   "address": "22/2\r\nFruit Hill Road\r\nHatton CP 22000\r\n",
+   "languageCode": "TL",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "077 348 7546 / 077 045 3005",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "980DA5BA-5BC9-4BBC-AB6A-6E96123805C8",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 7.96652,
-      "longitude": 81.03485
-    },
-    "properties": {
-      "orgGuid": "980DA5BA-5BC9-4BBC-AB6A-6E96123805C8",
-      "orgName": "Polonnaruwa Congregation, Polonnaruwa",
-      "orgType": "CONG",
-      "orgTransliteratedName": "පොළොන්නරුව සභාව, පොළොන්නරුව (349)",
-      "address": "198/3\r\nSomawathiya Road\r\nSewagama\r\nPolonnaruwa NCP 51000\r\n",
-      "languageCode": "SN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "15:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "077-4738468",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T02:43:02.995Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "893BE4CD-9421-4E94-83E3-FA5132957FBC",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 7.473705,
+   "longitude": 80.04551
   },
-  {
-    "geoId": "001212F2-52F3-4637-9E94-DA821BA62AC1",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 7.426584,
-      "longitude": 81.817127
-    },
-    "properties": {
-      "orgGuid": "001212F2-52F3-4637-9E94-DA821BA62AC1",
-      "orgName": "Kalmunai Congregation, Ampara",
-      "orgType": "CONG",
-      "orgTransliteratedName": "கல்முனை சபை, அம்பாறை (364)",
-      "address": "-\r\nSomanathar Road\r\nPandiruppu 01\r\nKalmunai EP 32300\r\n",
-      "transliteratedAddress": "Somanathar Road\r\nPandiruppu 01\r\nKalmunai EP 32300\r\n",
-      "languageCode": "TL",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0777323818/0772396097",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "893BE4CD-9421-4E94-83E3-FA5132957FBC",
+   "orgName": "Kuliyapitiya Congregation, Kurunegala",
+   "orgType": "CONG",
+   "orgTransliteratedName": "කුලියාපිටිය සභාව, කුරුණෑගල (455)",
+   "address": "56\r\nJayanthi Mawatha\r\nHettipola Road\r\nKuliyapitiya NWP 60200\r\n",
+   "languageCode": "SN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0777769620",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "26CE0B1E-1D03-4B6D-A993-DE22C37B5EBC",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 7.716133,
-      "longitude": 81.701781
-    },
-    "properties": {
-      "orgGuid": "26CE0B1E-1D03-4B6D-A993-DE22C37B5EBC",
-      "orgName": "Batticaloa Congregation, Batticaloa",
-      "orgType": "CONG",
-      "orgTransliteratedName": "மட்டக்களப்பு சபை, மட்டக்களப்பு (34)",
-      "address": "42\r\nMoor Street\r\nBatticaloa EP 30000\r\n",
-      "transliteratedAddress": "7.716133 81.701781\nBatticaloa EP 30000\n",
-      "languageCode": "TL",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0652054445",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T02:43:02.995Z"
+ },
+ {
+  "geoId": "1836C477-99EF-4242-B098-1893D4167C44",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 6.979506,
+   "longitude": 80.766371
   },
-  {
-    "geoId": "38110EEC-18A0-41A6-855D-2584C7DC98A3",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 7.716133,
-      "longitude": 81.701781
+  "properties": {
+   "orgGuid": "1836C477-99EF-4242-B098-1893D4167C44",
+   "orgName": "Nuwara Eliya Congregation, Nuwara Eliya",
+   "orgType": "CONG",
+   "orgTransliteratedName": "நுவரேலியா சபை, நுவரேலியா (216)",
+   "address": "5/35\r\nKeena Road\r\nNuwara Eliya CP 22200\r\n",
+   "languageCode": "TL",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0772222916/0774068731",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "0EF11AE5-BFB7-402A-96E9-392DD745EB3B",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 7.478876,
+   "longitude": 80.35244
+  },
+  "properties": {
+   "orgGuid": "0EF11AE5-BFB7-402A-96E9-392DD745EB3B",
+   "orgName": "Kurunegala Congregation, Kurunegala",
+   "orgType": "CONG",
+   "orgTransliteratedName": "කුරුණෑගල සභාව, කුරුණෑගල (430)",
+   "address": "299/26\r\nNidahas Mawatha\r\nNegombo Road\r\nMalkaduwawa\r\nKurunegala NWP 60000\r\n",
+   "languageCode": "SN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "17:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0778409075",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T02:43:02.995Z"
+ },
+ {
+  "geoId": "E4945B67-75D0-4CCB-8859-A85945E369BA",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 7.274495,
+   "longitude": 80.61086
+  },
+  "properties": {
+   "orgGuid": "E4945B67-75D0-4CCB-8859-A85945E369BA",
+   "orgName": "Kandy Congregation, Kandy",
+   "orgType": "CONG",
+   "orgTransliteratedName": "මහ නුවර සභාව, මහ නුවර",
+   "address": "680/2\r\nPeradeniya Road\r\nKandy CP 20000\r\n",
+   "languageCode": "SN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+94&nbsp;77 598 3687",
+     "ext": ""
     },
-    "properties": {
-      "orgGuid": "38110EEC-18A0-41A6-855D-2584C7DC98A3",
-      "orgName": "Valaichchenai Tamil Group - Batticaloa Congregation, Batticaloa",
-      "orgType": "GROUP",
-      "orgTransliteratedName": "மட்டக்களப்பு சபை, மட்டக்களப்பு (34)",
-      "address": "42\r\nMoor Street\r\nBatticaloa EP 30000\r\n",
-      "transliteratedAddress": "7.716133 81.701781\nBatticaloa EP 30000\n",
-      "languageCode": "TL",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0652054445",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
+    {
+     "phone": "+94&nbsp;75 983 6873",
+     "ext": ""
     },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+    {
+     "phone": "+94&nbsp;77 598 3687",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "230270DE-9C25-4129-98A8-F31248E5F816",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 7.371212,
+   "longitude": 80.525483
+  },
+  "properties": {
+   "orgGuid": "230270DE-9C25-4129-98A8-F31248E5F816",
+   "orgName": "Galagedera Congregation, Kandy",
+   "orgType": "CONG",
+   "orgTransliteratedName": "ගලගෙදර සභාව, මහ නුවර (612)",
+   "address": "11E\nPoholiyadda Road\nGalagedera CP 20100\n",
+   "languageCode": "SN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "16:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0779666615",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A3C4D237-8AEF-4E92-B541-AA26AF44E680",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 6.98423,
+   "longitude": 81.045207
+  },
+  "properties": {
+   "orgGuid": "A3C4D237-8AEF-4E92-B541-AA26AF44E680",
+   "orgName": "Hali-Ela Congregation, Badulla",
+   "orgType": "CONG",
+   "orgTransliteratedName": "බදුල්ල සභාව, බදුල්ල (653)",
+   "address": "135\nBandarawela Road\nPinarawa\nBadulla UVA 90000\n",
+   "languageCode": "TL",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0776309031 /0779358782",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "9C495A7B-94CE-404C-A558-E6C204EE2030",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 6.98423,
+   "longitude": 81.045207
+  },
+  "properties": {
+   "orgGuid": "9C495A7B-94CE-404C-A558-E6C204EE2030",
+   "orgName": "Dunhinda Falls Congregation, Badulla",
+   "orgType": "CONG",
+   "address": "135\nBandarawela Road\nPinarawa\nBadulla UVA 90000\n",
+   "languageCode": "SN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0773850376",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "C161CBD9-5CDA-45C2-B21D-4A45BA8F616C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 7.461206,
+   "longitude": 80.621134
+  },
+  "properties": {
+   "orgGuid": "C161CBD9-5CDA-45C2-B21D-4A45BA8F616C",
+   "orgName": "Matale Congregation, Matale",
+   "orgType": "CONG",
+   "orgTransliteratedName": "மாத்தளை சபை, மாத்தளை (299)",
+   "address": "36\nHiggolla Mawatha\nMatale CP 21000\n",
+   "languageCode": "TL",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0773118627",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "980DA5BA-5BC9-4BBC-AB6A-6E96123805C8",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 7.96652,
+   "longitude": 81.03485
+  },
+  "properties": {
+   "orgGuid": "980DA5BA-5BC9-4BBC-AB6A-6E96123805C8",
+   "orgName": "Polonnaruwa Congregation, Polonnaruwa",
+   "orgType": "CONG",
+   "orgTransliteratedName": "පොළොන්නරුව සභාව, පොළොන්නරුව (349)",
+   "address": "198/3\r\nSomawathiya Road\r\nSewagama\r\nPolonnaruwa NCP 51000\r\n",
+   "languageCode": "SN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "077-4738468",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T02:43:02.995Z"
+ },
+ {
+  "geoId": "001212F2-52F3-4637-9E94-DA821BA62AC1",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 7.426584,
+   "longitude": 81.817127
+  },
+  "properties": {
+   "orgGuid": "001212F2-52F3-4637-9E94-DA821BA62AC1",
+   "orgName": "Kalmunai Congregation, Ampara",
+   "orgType": "CONG",
+   "orgTransliteratedName": "கல்முனை சபை, அம்பாறை (364)",
+   "address": "-\r\nSomanathar Road\r\nPandiruppu 01\r\nKalmunai EP 32300\r\n",
+   "transliteratedAddress": "Somanathar Road\r\nPandiruppu 01\r\nKalmunai EP 32300\r\n",
+   "languageCode": "TL",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0777323818/0772396097",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "26CE0B1E-1D03-4B6D-A993-DE22C37B5EBC",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 7.716133,
+   "longitude": 81.701781
+  },
+  "properties": {
+   "orgGuid": "26CE0B1E-1D03-4B6D-A993-DE22C37B5EBC",
+   "orgName": "Batticaloa Congregation, Batticaloa",
+   "orgType": "CONG",
+   "orgTransliteratedName": "மட்டக்களப்பு சபை, மட்டக்களப்பு (34)",
+   "address": "42\r\nMoor Street\r\nBatticaloa EP 30000\r\n",
+   "transliteratedAddress": "7.716133 81.701781\nBatticaloa EP 30000\n",
+   "languageCode": "TL",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0652054445",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "38110EEC-18A0-41A6-855D-2584C7DC98A3",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 7.716133,
+   "longitude": 81.701781
+  },
+  "properties": {
+   "orgGuid": "38110EEC-18A0-41A6-855D-2584C7DC98A3",
+   "orgName": "Valaichchenai Tamil Group - Batticaloa Congregation, Batticaloa",
+   "orgType": "GROUP",
+   "orgTransliteratedName": "மட்டக்களப்பு சபை, மட்டக்களப்பு (34)",
+   "address": "42\r\nMoor Street\r\nBatticaloa EP 30000\r\n",
+   "transliteratedAddress": "7.716133 81.701781\nBatticaloa EP 30000\n",
+   "languageCode": "TL",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0652054445",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

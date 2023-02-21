@@ -1,189 +1,194 @@
 [
-  {
-    "geoId": "895CCE86-D45B-45C7-8D6C-9A5434C13B27",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 16.177129,
-      "longitude": -22.913481
-    },
-    "properties": {
-      "orgGuid": "895CCE86-D45B-45C7-8D6C-9A5434C13B27",
-      "orgName": "Sal Rei",
-      "orgType": "CONG",
-      "address": "Zona do Liceu, Nº 59\r\nVila Sal Rei\r\nILHA BOAVISTA\r\nBoa Vista\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-251-17-16",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "895CCE86-D45B-45C7-8D6C-9A5434C13B27",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 16.177129,
+   "longitude": -22.913481
   },
-  {
-    "geoId": "141BCA67-561D-4742-B4D5-25CA06859B07",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 16.600347,
-      "longitude": -22.902145
-    },
-    "properties": {
-      "orgGuid": "141BCA67-561D-4742-B4D5-25CA06859B07",
-      "orgName": "Santa Maria",
-      "orgType": "CONG",
-      "address": "Zona Norte Cidade de Santa Maria\r\nlote 383, R/c\r\n4111 SANTA MARIA\r\nSanta Maria\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "transliteratedAddress": "Apartado 220\r\nSanta Maria\r\nSAL\r\n4111\r\nSanta Maria\r\n\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-97-177-79",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "895CCE86-D45B-45C7-8D6C-9A5434C13B27",
+   "orgName": "Sal Rei",
+   "orgType": "CONG",
+   "address": "Zona do Liceu, Nº 59\r\nVila Sal Rei\r\nILHA BOAVISTA\r\nBoa Vista\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-251-17-16",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "947658AF-3375-470B-B80D-5092187F0BD8",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 16.757981,
-      "longitude": -22.937557
-    },
-    "properties": {
-      "orgGuid": "947658AF-3375-470B-B80D-5092187F0BD8",
-      "orgName": "Preguiça",
-      "orgType": "CONG",
-      "address": "Descida do Bairro da Electra\r\nHortelã de Baixo\r\nESPARGOS\r\nEspargos\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238&nbsp;- 996 31 21| 991 05 24 | 994 19 58",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "141BCA67-561D-4742-B4D5-25CA06859B07",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 16.600347,
+   "longitude": -22.902145
   },
-  {
-    "geoId": "51ACB3A0-9892-4F2E-9289-39640ECE37A6",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 16.757981,
-      "longitude": -22.937557
-    },
-    "properties": {
-      "orgGuid": "51ACB3A0-9892-4F2E-9289-39640ECE37A6",
-      "orgName": "Hortelã",
-      "orgType": "CONG",
-      "address": "Descida do Bairro da Electra\r\nHortelã de Baixo\r\nESPARGOS\r\nEspargos\r\nREPÚBLICA DE CABO VERDE\r\n",
-      "languageCode": "KBV",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+238-241-21-48",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "141BCA67-561D-4742-B4D5-25CA06859B07",
+   "orgName": "Santa Maria",
+   "orgType": "CONG",
+   "address": "Zona Norte Cidade de Santa Maria\r\nlote 383, R/c\r\n4111 SANTA MARIA\r\nSanta Maria\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "transliteratedAddress": "Apartado 220\r\nSanta Maria\r\nSAL\r\n4111\r\nSanta Maria\r\n\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-97-177-79",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "B546B368-02B2-47C4-9031-E139E057B643",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 16.025542,
-      "longitude": -16.487982
-    },
-    "properties": {
-      "orgGuid": "B546B368-02B2-47C4-9031-E139E057B643",
-      "orgName": "Saint-Louis",
-      "orgType": "CONG",
-      "address": "147, Route de Khor\r\nà côté du garage municipal, côté SAED\r\nSaint-Louis\r\nSENEGAL\r\n",
-      "transliteratedAddress": "147, Route de Khor\r\nà côté du garage municipal, côté SAED\r\nSaint-Louis\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(+221) 77 640 37 96",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "947658AF-3375-470B-B80D-5092187F0BD8",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 16.757981,
+   "longitude": -22.937557
+  },
+  "properties": {
+   "orgGuid": "947658AF-3375-470B-B80D-5092187F0BD8",
+   "orgName": "Preguiça",
+   "orgType": "CONG",
+   "address": "Descida do Bairro da Electra\r\nHortelã de Baixo\r\nESPARGOS\r\nEspargos\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238&nbsp;- 996 31 21| 991 05 24 | 994 19 58",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "51ACB3A0-9892-4F2E-9289-39640ECE37A6",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 16.757981,
+   "longitude": -22.937557
+  },
+  "properties": {
+   "orgGuid": "51ACB3A0-9892-4F2E-9289-39640ECE37A6",
+   "orgName": "Hortelã",
+   "orgType": "CONG",
+   "address": "Descida do Bairro da Electra\r\nHortelã de Baixo\r\nESPARGOS\r\nEspargos\r\nREPÚBLICA DE CABO VERDE\r\n",
+   "languageCode": "KBV",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+238-241-21-48",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B546B368-02B2-47C4-9031-E139E057B643",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 16.025542,
+   "longitude": -16.487982
+  },
+  "properties": {
+   "orgGuid": "B546B368-02B2-47C4-9031-E139E057B643",
+   "orgName": "Saint-Louis",
+   "orgType": "CONG",
+   "address": "147, Route de Khor\r\nà côté du garage municipal, côté SAED\r\nSaint-Louis\r\nSENEGAL\r\n",
+   "transliteratedAddress": "147, Route de Khor\r\nà côté du garage municipal, côté SAED\r\nSaint-Louis\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(+221) 77 640 37 96",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

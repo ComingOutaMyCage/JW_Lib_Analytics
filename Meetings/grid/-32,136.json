@@ -1,39 +1,40 @@
 [
-  {
-    "geoId": "3385EE79-7A81-4A13-9086-349B553CED67",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -31.96198,
-      "longitude": 141.45138
-    },
-    "properties": {
-      "orgGuid": "3385EE79-7A81-4A13-9086-349B553CED67",
-      "orgName": "Broken Hill - NSW",
-      "orgType": "CONG",
-      "address": "4-6 Cobalt Street\nBROKEN HILL  NSW  2880\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0404399491",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+ {
+  "geoId": "3385EE79-7A81-4A13-9086-349B553CED67",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -31.96198,
+   "longitude": 141.45138
+  },
+  "properties": {
+   "orgGuid": "3385EE79-7A81-4A13-9086-349B553CED67",
+   "orgName": "Broken Hill - NSW",
+   "orgType": "CONG",
+   "address": "4-6 Cobalt Street\nBROKEN HILL  NSW  2880\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0404399491",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

@@ -1,252 +1,259 @@
 [
-  {
-    "geoId": "55A1C27D-965E-40ED-8C39-663E5D987057",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 8.56199,
-      "longitude": 16.079795
-    },
-    "properties": {
-      "orgGuid": "55A1C27D-965E-40ED-8C39-663E5D987057",
-      "orgName": "Moundou",
-      "orgType": "CONG",
-      "address": "MOUNDOU\n",
-      "languageCode": "NG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "15:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "F"
-      ],
-      "phones": [
-        {
-          "phone": "63969562/96421575",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "55A1C27D-965E-40ED-8C39-663E5D987057",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 8.56199,
+   "longitude": 16.079795
   },
-  {
-    "geoId": "D3D9855C-AC26-4CBE-B0DE-4569372F4C89",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 8.56199,
-      "longitude": 16.079795
-    },
-    "properties": {
-      "orgGuid": "D3D9855C-AC26-4CBE-B0DE-4569372F4C89",
-      "orgName": "Moundou Français - Moundou",
-      "orgType": "GROUP",
-      "address": "MOUNDOU\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "15:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "NG"
-      ],
-      "phones": [
-        {
-          "phone": "63969562/96421575",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "55A1C27D-965E-40ED-8C39-663E5D987057",
+   "orgName": "Moundou",
+   "orgType": "CONG",
+   "address": "MOUNDOU\n",
+   "languageCode": "NG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "15:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "F"
+   ],
+   "phones": [
+    {
+     "phone": "63969562/96421575",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "FB2E352C-E42D-4ACF-A39D-853DAB21EFC8",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 8.667043,
-      "longitude": 16.851327
-    },
-    "properties": {
-      "orgGuid": "FB2E352C-E42D-4ACF-A39D-853DAB21EFC8",
-      "orgName": "Doba",
-      "orgType": "CONG",
-      "address": "Derrière nouveau grand marché\r\nDOBA\r\n",
-      "languageCode": "NG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "15:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "65890100",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "D3D9855C-AC26-4CBE-B0DE-4569372F4C89",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 8.56199,
+   "longitude": 16.079795
   },
-  {
-    "geoId": "33AC8444-CB1E-4CA5-BB6A-6893000DFF5B",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 9.397156,
-      "longitude": 16.297402
-    },
-    "properties": {
-      "orgGuid": "33AC8444-CB1E-4CA5-BB6A-6893000DFF5B",
-      "orgName": "Laï",
-      "orgType": "CONG",
-      "address": "Salle du Royaume des Témoins de Jéhovah\r\nLAÏ\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "D3D9855C-AC26-4CBE-B0DE-4569372F4C89",
+   "orgName": "Moundou Français - Moundou",
+   "orgType": "GROUP",
+   "address": "MOUNDOU\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "15:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "NG"
+   ],
+   "phones": [
+    {
+     "phone": "63969562/96421575",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "196D6B22-258F-446F-A296-C5173537B4E1",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 8.920819,
-      "longitude": 17.556538
-    },
-    "properties": {
-      "orgGuid": "196D6B22-258F-446F-A296-C5173537B4E1",
-      "orgName": "Koumra",
-      "orgType": "CONG",
-      "address": "KOUMRA\n",
-      "languageCode": "SAR",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "15:30"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "FB2E352C-E42D-4ACF-A39D-853DAB21EFC8",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 8.667043,
+   "longitude": 16.851327
   },
-  {
-    "geoId": "0BEA1071-9482-4477-8E6B-EDB3E0E1A19A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 9.122844,
-      "longitude": 18.397175
-    },
-    "properties": {
-      "orgGuid": "0BEA1071-9482-4477-8E6B-EDB3E0E1A19A",
-      "orgName": "Sarh-Kassaï",
-      "orgType": "CONG",
-      "address": "Quartier Kassai\nSARH\n",
-      "languageCode": "SAR",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "FB2E352C-E42D-4ACF-A39D-853DAB21EFC8",
+   "orgName": "Doba",
+   "orgType": "CONG",
+   "address": "Derrière nouveau grand marché\r\nDOBA\r\n",
+   "languageCode": "NG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "15:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "65890100",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "29D5A5D2-7DAF-45C8-9EEF-BFE9C341E723",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 9.158324,
-      "longitude": 18.372143
-    },
-    "properties": {
-      "orgGuid": "29D5A5D2-7DAF-45C8-9EEF-BFE9C341E723",
-      "orgName": "Sarh-Banda",
-      "orgType": "CONG",
-      "address": "Quartier Banda\nSARH\n",
-      "languageCode": "SAR",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "68687364",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "33AC8444-CB1E-4CA5-BB6A-6893000DFF5B",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 9.397156,
+   "longitude": 16.297402
+  },
+  "properties": {
+   "orgGuid": "33AC8444-CB1E-4CA5-BB6A-6893000DFF5B",
+   "orgName": "Laï",
+   "orgType": "CONG",
+   "address": "Salle du Royaume des Témoins de Jéhovah\r\nLAÏ\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "196D6B22-258F-446F-A296-C5173537B4E1",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 8.920819,
+   "longitude": 17.556538
+  },
+  "properties": {
+   "orgGuid": "196D6B22-258F-446F-A296-C5173537B4E1",
+   "orgName": "Koumra",
+   "orgType": "CONG",
+   "address": "KOUMRA\n",
+   "languageCode": "SAR",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "15:30"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "0BEA1071-9482-4477-8E6B-EDB3E0E1A19A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 9.122844,
+   "longitude": 18.397175
+  },
+  "properties": {
+   "orgGuid": "0BEA1071-9482-4477-8E6B-EDB3E0E1A19A",
+   "orgName": "Sarh-Kassaï",
+   "orgType": "CONG",
+   "address": "Quartier Kassai\nSARH\n",
+   "languageCode": "SAR",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "29D5A5D2-7DAF-45C8-9EEF-BFE9C341E723",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 9.158324,
+   "longitude": 18.372143
+  },
+  "properties": {
+   "orgGuid": "29D5A5D2-7DAF-45C8-9EEF-BFE9C341E723",
+   "orgName": "Sarh-Banda",
+   "orgType": "CONG",
+   "address": "Quartier Banda\nSARH\n",
+   "languageCode": "SAR",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "68687364",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

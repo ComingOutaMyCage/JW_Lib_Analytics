@@ -1,82 +1,84 @@
 [
-  {
-    "geoId": "29D29BDF-F493-41EA-948E-B15D91D04D13",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -27.160393,
-      "longitude": -109.412848
-    },
-    "properties": {
-      "orgGuid": "29D29BDF-F493-41EA-948E-B15D91D04D13",
-      "orgName": "Isla de Pascua",
-      "orgType": "CONG",
-      "address": "                                                         \r\nIsla de Pascua, Camino público a Vaitea, Parc. 130\r\nISLA DE PASCUA  (V. VALPO)\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "20:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "RPN"
-      ],
-      "phones": [
-        {
-          "phone": "+569 84192594",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "29D29BDF-F493-41EA-948E-B15D91D04D13",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -27.160393,
+   "longitude": -109.412848
   },
-  {
-    "geoId": "84C743F3-4060-4952-8081-9B2662434F88",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -27.160393,
-      "longitude": -109.412848
-    },
-    "properties": {
-      "orgGuid": "84C743F3-4060-4952-8081-9B2662434F88",
-      "orgName": "Rapa Nui Isla de Pascua - Isla de Pascua",
-      "orgType": "GROUP",
-      "address": "                                                         \r\nIsla de Pascua, Camino público a Vaitea, Parc. 130\r\nISLA DE PASCUA  (V. VALPO)\r\n",
-      "languageCode": "RPN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": null,
-            "time": null
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "20:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "S"
-      ],
-      "phones": [
-        {
-          "phone": "+569 84192594",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "properties": {
+   "orgGuid": "29D29BDF-F493-41EA-948E-B15D91D04D13",
+   "orgName": "Isla de Pascua",
+   "orgType": "CONG",
+   "address": "                                                         \r\nIsla de Pascua, Camino público a Vaitea, Parc. 130\r\nISLA DE PASCUA  (V. VALPO)\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "20:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "RPN"
+   ],
+   "phones": [
+    {
+     "phone": "+569 84192594",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "84C743F3-4060-4952-8081-9B2662434F88",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -27.160393,
+   "longitude": -109.412848
+  },
+  "properties": {
+   "orgGuid": "84C743F3-4060-4952-8081-9B2662434F88",
+   "orgName": "Rapa Nui Isla de Pascua - Isla de Pascua",
+   "orgType": "GROUP",
+   "address": "                                                         \r\nIsla de Pascua, Camino público a Vaitea, Parc. 130\r\nISLA DE PASCUA  (V. VALPO)\r\n",
+   "languageCode": "RPN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": null,
+      "time": null
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "20:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "S"
+   ],
+   "phones": [
+    {
+     "phone": "+569 84192594",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

@@ -1,76 +1,78 @@
 [
-  {
-    "geoId": "CB8FC7F5-7E1B-4DDD-9AE6-22D91149C45E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -40.19513,
-      "longitude": 176.11111
-    },
-    "properties": {
-      "orgGuid": "CB8FC7F5-7E1B-4DDD-9AE6-22D91149C45E",
-      "orgName": "Dannevirke",
-      "orgType": "CONG",
-      "address": "343 High Street\nDANNEVIRKE  4930\nNEW ZEALAND\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "06 3748485",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "CB8FC7F5-7E1B-4DDD-9AE6-22D91149C45E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -40.19513,
+   "longitude": 176.11111
   },
-  {
-    "geoId": "EE04B8DB-8946-44A1-B27E-187F2AA6921B",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -40.01084,
-      "longitude": 176.54515
-    },
-    "properties": {
-      "orgGuid": "EE04B8DB-8946-44A1-B27E-187F2AA6921B",
-      "orgName": "Waipukurau",
-      "orgType": "CONG",
-      "address": "5 Smith Street\nWAIPUKURAU  4200\nNEW ZEALAND\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+64212981086",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "properties": {
+   "orgGuid": "CB8FC7F5-7E1B-4DDD-9AE6-22D91149C45E",
+   "orgName": "Dannevirke",
+   "orgType": "CONG",
+   "address": "343 High Street\nDANNEVIRKE  4930\nNEW ZEALAND\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "06 3748485",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "EE04B8DB-8946-44A1-B27E-187F2AA6921B",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -40.01084,
+   "longitude": 176.54515
+  },
+  "properties": {
+   "orgGuid": "EE04B8DB-8946-44A1-B27E-187F2AA6921B",
+   "orgName": "Waipukurau",
+   "orgType": "CONG",
+   "address": "5 Smith Street\nWAIPUKURAU  4200\nNEW ZEALAND\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+64212981086",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

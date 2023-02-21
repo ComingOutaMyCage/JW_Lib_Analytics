@@ -1,1889 +1,1908 @@
 [
-  {
-    "geoId": "3749D616-5396-416E-9F60-19FDC60C1BC2",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.740628,
-      "longitude": 5.642184
-    },
-    "properties": {
-      "orgGuid": "3749D616-5396-416E-9F60-19FDC60C1BC2",
-      "orgName": "Bryne menighet",
-      "orgType": "CONG",
-      "address": "Morenefaret 7\r\n4340  Bryne\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "91115090",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "3749D616-5396-416E-9F60-19FDC60C1BC2",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.740628,
+   "longitude": 5.642184
   },
-  {
-    "geoId": "5ED721B7-9BB8-47DF-B6AA-DD24311CB3B9",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.444596,
-      "longitude": 6.006517
-    },
-    "properties": {
-      "orgGuid": "5ED721B7-9BB8-47DF-B6AA-DD24311CB3B9",
-      "orgName": "Egersund menighet",
-      "orgType": "CONG",
-      "address": "Jonas Rodvelts vei 27\n4372  Egersund\nNORWAY\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+47 46565359",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "3749D616-5396-416E-9F60-19FDC60C1BC2",
+   "orgName": "Bryne menighet",
+   "orgType": "CONG",
+   "address": "Morenefaret 7\r\n4340  Bryne\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "91115090",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "CB40B907-D01F-4AD0-BE68-3ABBAF3C4AE3",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.857355,
-      "longitude": 5.709359
-    },
-    "properties": {
-      "orgGuid": "CB40B907-D01F-4AD0-BE68-3ABBAF3C4AE3",
-      "orgName": "Høyland menighet",
-      "orgType": "CONG",
-      "address": "Brannstasjonsveien 4\n4312  Sandnes\nNORWAY\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+47 915 80 194",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "5ED721B7-9BB8-47DF-B6AA-DD24311CB3B9",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.444596,
+   "longitude": 6.006517
   },
-  {
-    "geoId": "04DE8D3D-FC07-4305-A244-D6629C479F3C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.857355,
-      "longitude": 5.709359
-    },
-    "properties": {
-      "orgGuid": "04DE8D3D-FC07-4305-A244-D6629C479F3C",
-      "orgName": "Sandnes menighet",
-      "orgType": "CONG",
-      "address": "Brannstasjonsveien 4\n4312  Sandnes\nNORWAY\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "92897319",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "5ED721B7-9BB8-47DF-B6AA-DD24311CB3B9",
+   "orgName": "Egersund menighet",
+   "orgType": "CONG",
+   "address": "Jonas Rodvelts vei 27\n4372  Egersund\nNORWAY\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+47 46565359",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "DFFC0832-3B37-41C0-8597-6326B92600D2",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.857355,
-      "longitude": 5.709359
-    },
-    "properties": {
-      "orgGuid": "DFFC0832-3B37-41C0-8597-6326B92600D2",
-      "orgName": "Sandnes polske menighet",
-      "orgType": "CONG",
-      "address": "Brannstasjonsveien 4\n4312  Sandnes\nNORWAY\n",
-      "languageCode": "P",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+48&nbsp;502277222",
-          "ext": ""
-        },
-        {
-          "phone": "+47&nbsp;+47 46241060",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "CB40B907-D01F-4AD0-BE68-3ABBAF3C4AE3",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.857355,
+   "longitude": 5.709359
   },
-  {
-    "geoId": "4EE5F536-F2E3-4F17-93C3-669C1229F395",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 59.279832,
-      "longitude": 5.287929
-    },
-    "properties": {
-      "orgGuid": "4EE5F536-F2E3-4F17-93C3-669C1229F395",
-      "orgName": "Kopervik menighet",
-      "orgType": "CONG",
-      "address": "Eidsbakkane 14\n4250  Kopervik\nNORWAY\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "004747294285/ 004798289544",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "CB40B907-D01F-4AD0-BE68-3ABBAF3C4AE3",
+   "orgName": "Høyland menighet",
+   "orgType": "CONG",
+   "address": "Brannstasjonsveien 4\n4312  Sandnes\nNORWAY\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+47 915 80 194",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "7091C576-EBAD-40BB-8C58-EE72A0456455",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.940165,
-      "longitude": 5.726159
-    },
-    "properties": {
-      "orgGuid": "7091C576-EBAD-40BB-8C58-EE72A0456455",
-      "orgName": "Randaberg menighet",
-      "orgType": "CONG",
-      "address": "Auglendsdalen 44\n4017  Stavanger\nNORWAY\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 1,
-            "time": "18:30"
-          }
-        },
-        "futureDate": "2023-01-02",
-        "future": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+47&nbsp;90059044",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "04DE8D3D-FC07-4305-A244-D6629C479F3C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.857355,
+   "longitude": 5.709359
   },
-  {
-    "geoId": "A5A04876-4F49-4A7B-813C-7FDA18A5E8D9",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.940165,
-      "longitude": 5.726159
-    },
-    "properties": {
-      "orgGuid": "A5A04876-4F49-4A7B-813C-7FDA18A5E8D9",
-      "orgName": "Stavanger engelske menighet",
-      "orgType": "CONG",
-      "address": "Auglendsdalen 44\n4017  Stavanger\nNORWAY\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        },
-        "futureDate": "2023-01-02",
-        "future": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:30"
-          },
-          "midweek": {
-            "weekday": 1,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "47639578",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "04DE8D3D-FC07-4305-A244-D6629C479F3C",
+   "orgName": "Sandnes menighet",
+   "orgType": "CONG",
+   "address": "Brannstasjonsveien 4\n4312  Sandnes\nNORWAY\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "92897319",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "619C494B-1C76-4E29-A6CF-439489EB655C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.940165,
-      "longitude": 5.726159
-    },
-    "properties": {
-      "orgGuid": "619C494B-1C76-4E29-A6CF-439489EB655C",
-      "orgName": "Stavanger nord menighet",
-      "orgType": "CONG",
-      "address": "Auglendsdalen 44\n4017  Stavanger\nNORWAY\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+47 913 91 547",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "DFFC0832-3B37-41C0-8597-6326B92600D2",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.857355,
+   "longitude": 5.709359
   },
-  {
-    "geoId": "6D6C320D-069A-49EB-B5A1-B003828ADBAE",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.940165,
-      "longitude": 5.726159
-    },
-    "properties": {
-      "orgGuid": "6D6C320D-069A-49EB-B5A1-B003828ADBAE",
-      "orgName": "Stavanger sør menighet",
-      "orgType": "CONG",
-      "address": "Auglendsdalen 44\n4017  Stavanger\nNORWAY\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "41515773",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "DFFC0832-3B37-41C0-8597-6326B92600D2",
+   "orgName": "Sandnes polske menighet",
+   "orgType": "CONG",
+   "address": "Brannstasjonsveien 4\n4312  Sandnes\nNORWAY\n",
+   "languageCode": "P",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "462 41 060",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "4E8FFDC6-6AB3-4A21-AFE3-51405A53DAC8",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 59.385057,
-      "longitude": 5.301123
-    },
-    "properties": {
-      "orgGuid": "4E8FFDC6-6AB3-4A21-AFE3-51405A53DAC8",
-      "orgName": "Haugesund menighet",
-      "orgType": "CONG",
-      "address": "Ystadvegen 6\r\n5538  Haugesund\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "P"
-      ],
-      "phones": [
-        {
-          "phone": "004797111278",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4EE5F536-F2E3-4F17-93C3-669C1229F395",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 59.279832,
+   "longitude": 5.287929
   },
-  {
-    "geoId": "E8326C70-ED1F-4BC7-842E-E6DB1E73C8F4",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 59.385057,
-      "longitude": 5.301123
-    },
-    "properties": {
-      "orgGuid": "E8326C70-ED1F-4BC7-842E-E6DB1E73C8F4",
-      "orgName": "Karmsund menighet",
-      "orgType": "CONG",
-      "address": "Ystadvegen 6\r\n5538  Haugesund\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0047 98289540",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "4EE5F536-F2E3-4F17-93C3-669C1229F395",
+   "orgName": "Kopervik menighet",
+   "orgType": "CONG",
+   "address": "Eidsbakkane 14\n4250  Kopervik\nNORWAY\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "004747294285/ 004798289544",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "66AD8457-37CF-41EA-B72C-3D5CDEA26F81",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 59.385057,
-      "longitude": 5.301123
-    },
-    "properties": {
-      "orgGuid": "66AD8457-37CF-41EA-B72C-3D5CDEA26F81",
-      "orgName": "Haugesund polske gruppe - Haugesund menighet",
-      "orgType": "GROUP",
-      "address": "Ystadvegen 6\r\n5538  Haugesund\r\nNORWAY\r\n",
-      "languageCode": "P",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "N"
-      ],
-      "phones": [
-        {
-          "phone": "004797111278",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "7091C576-EBAD-40BB-8C58-EE72A0456455",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.940165,
+   "longitude": 5.726159
   },
-  {
-    "geoId": "CFE43E60-6F19-4E1A-AC00-670AE68198FE",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.2978,
-      "longitude": 6.644212
+  "properties": {
+   "orgGuid": "7091C576-EBAD-40BB-8C58-EE72A0456455",
+   "orgName": "Randaberg menighet",
+   "orgType": "CONG",
+   "address": "Auglendsdalen 44\n4017  Stavanger\nNORWAY\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
     },
-    "properties": {
-      "orgGuid": "CFE43E60-6F19-4E1A-AC00-670AE68198FE",
-      "orgName": "Flekkefjord menighet",
-      "orgType": "CONG",
-      "address": "Tjørsvågveien 4A\r\n4400  Flekkefjord\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "47948336",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+    "futureDate": "2024-01-01",
+    "future": {
+     "weekend": {
+      "weekday": 7,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+47&nbsp;90059044",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "6CCA358A-F8AE-4525-A867-6E16A93025A7",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 59.021206,
-      "longitude": 6.043302
-    },
-    "properties": {
-      "orgGuid": "6CCA358A-F8AE-4525-A867-6E16A93025A7",
-      "orgName": "Jørpeland menighet",
-      "orgType": "CONG",
-      "address": "Wallemsvegen 5\r\n4100  Jørpeland\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:30"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+47&nbsp;51 74 84 44",
-          "ext": ""
-        },
-        {
-          "phone": "+47&nbsp;404 031 34",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A5A04876-4F49-4A7B-813C-7FDA18A5E8D9",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.940165,
+   "longitude": 5.726159
   },
-  {
-    "geoId": "BABF4552-EDDA-465B-BE01-C2BD89478BF5",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.143016,
-      "longitude": 7.076837
-    },
-    "properties": {
-      "orgGuid": "BABF4552-EDDA-465B-BE01-C2BD89478BF5",
-      "orgName": "Lyngdal menighet",
-      "orgType": "CONG",
-      "address": "Gamle Kirkeveien 12\r\n4580  Lyngdal\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "90146159",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "A5A04876-4F49-4A7B-813C-7FDA18A5E8D9",
+   "orgName": "Stavanger engelske menighet",
+   "orgType": "CONG",
+   "address": "Auglendsdalen 44\n4017  Stavanger\nNORWAY\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:30"
+     },
+     "midweek": {
+      "weekday": 1,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "47639578",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "68054228-3B1B-4013-BB0E-D30375AF97ED",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 59.787604,
-      "longitude": 5.490955
-    },
-    "properties": {
-      "orgGuid": "68054228-3B1B-4013-BB0E-D30375AF97ED",
-      "orgName": "Stord menighet",
-      "orgType": "CONG",
-      "address": "Kattatveit 120\n5417  Stord\nNORWAY\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "90560108",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "619C494B-1C76-4E29-A6CF-439489EB655C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.940165,
+   "longitude": 5.726159
   },
-  {
-    "geoId": "6AE35320-2FA4-4FCF-A857-72BFA61DBB47",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.353554,
-      "longitude": 5.113488
-    },
-    "properties": {
-      "orgGuid": "6AE35320-2FA4-4FCF-A857-72BFA61DBB47",
-      "orgName": "Sotra menighet",
-      "orgType": "CONG",
-      "address": "Bjørkestølen 2, Bildøy\r\n5353  Straume\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "40230799",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "619C494B-1C76-4E29-A6CF-439489EB655C",
+   "orgName": "Stavanger nord menighet",
+   "orgType": "CONG",
+   "address": "Auglendsdalen 44\n4017  Stavanger\nNORWAY\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+47 913 91 547",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "FCE10062-349F-4146-96FE-046A682FACDF",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.02395,
-      "longitude": 7.473547
-    },
-    "properties": {
-      "orgGuid": "FCE10062-349F-4146-96FE-046A682FACDF",
-      "orgName": "Mandal menighet",
-      "orgType": "CONG",
-      "address": "Kleveveien 12\n4515  Mandal\nNORWAY\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0047 90214313",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "6D6C320D-069A-49EB-B5A1-B003828ADBAE",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.940165,
+   "longitude": 5.726159
   },
-  {
-    "geoId": "60C0E325-58D7-4CD9-91CE-3B01B50B50D3",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.181508,
-      "longitude": 5.403111
-    },
-    "properties": {
-      "orgGuid": "60C0E325-58D7-4CD9-91CE-3B01B50B50D3",
-      "orgName": "Os menighet",
-      "orgType": "CONG",
-      "address": "Strønevegen 36\r\n5217  Hagavik\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "90669379",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "6D6C320D-069A-49EB-B5A1-B003828ADBAE",
+   "orgName": "Stavanger sør menighet",
+   "orgType": "CONG",
+   "address": "Auglendsdalen 44\n4017  Stavanger\nNORWAY\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "41515773",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "8D5177C2-1041-430F-B928-CF7E77A35661",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.460405,
-      "longitude": 5.147764
-    },
-    "properties": {
-      "orgGuid": "8D5177C2-1041-430F-B928-CF7E77A35661",
-      "orgName": "Askøy menighet",
-      "orgType": "CONG",
-      "address": "Øvre Tveit 1\r\n5310  Hauglandshella\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "97573955",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4E8FFDC6-6AB3-4A21-AFE3-51405A53DAC8",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 59.385057,
+   "longitude": 5.301123
   },
-  {
-    "geoId": "91336A9A-DC15-4BB4-B24E-2DF8C6389540",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.32912,
-      "longitude": 5.30299
-    },
-    "properties": {
-      "orgGuid": "91336A9A-DC15-4BB4-B24E-2DF8C6389540",
-      "orgName": "Bergen engelske menighet",
-      "orgType": "CONG",
-      "address": "Bønesskogen 28\r\n5154  Bønes\r\nNORWAY\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "M"
-      ],
-      "phones": [
-        {
-          "phone": "+4799346011",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "4E8FFDC6-6AB3-4A21-AFE3-51405A53DAC8",
+   "orgName": "Haugesund menighet",
+   "orgType": "CONG",
+   "address": "Ystadvegen 6\r\n5538  Haugesund\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "P"
+   ],
+   "phones": [
+    {
+     "phone": "004797111278",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "C65A13D2-CED7-47AA-880A-8150EB904A7B",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.32912,
-      "longitude": 5.30299
-    },
-    "properties": {
-      "orgGuid": "C65A13D2-CED7-47AA-880A-8150EB904A7B",
-      "orgName": "Fana menighet",
-      "orgType": "CONG",
-      "address": "Bønesskogen 28\r\n5154  Bønes\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 1,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "93202518",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "E8326C70-ED1F-4BC7-842E-E6DB1E73C8F4",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 59.385057,
+   "longitude": 5.301123
   },
-  {
-    "geoId": "0EB5425D-D006-463E-9160-30F01B7C84F5",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.32912,
-      "longitude": 5.30299
-    },
-    "properties": {
-      "orgGuid": "0EB5425D-D006-463E-9160-30F01B7C84F5",
-      "orgName": "Bergen sentrum menighet",
-      "orgType": "CONG",
-      "address": "Bønesskogen 28\r\n5154  Bønes\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "948 28 838",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "E8326C70-ED1F-4BC7-842E-E6DB1E73C8F4",
+   "orgName": "Karmsund menighet",
+   "orgType": "CONG",
+   "address": "Ystadvegen 6\r\n5538  Haugesund\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0047 98289540",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "7E06E38B-C8E0-4775-8712-19088298CCDD",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.32912,
-      "longitude": 5.30299
-    },
-    "properties": {
-      "orgGuid": "7E06E38B-C8E0-4775-8712-19088298CCDD",
-      "orgName": "Laksevåg menighet",
-      "orgType": "CONG",
-      "address": "Bønesskogen 28\r\n5154  Bønes\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "S"
-      ],
-      "phones": [
-        {
-          "phone": "476 19 510",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "66AD8457-37CF-41EA-B72C-3D5CDEA26F81",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 59.385057,
+   "longitude": 5.301123
   },
-  {
-    "geoId": "16FF905A-1B40-40EE-B1BF-8D67FD68FCEE",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.32912,
-      "longitude": 5.30299
-    },
-    "properties": {
-      "orgGuid": "16FF905A-1B40-40EE-B1BF-8D67FD68FCEE",
-      "orgName": "Nesttun menighet",
-      "orgType": "CONG",
-      "address": "Bønesskogen 28\r\n5154  Bønes\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "91767258 eller 90145372",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "66AD8457-37CF-41EA-B72C-3D5CDEA26F81",
+   "orgName": "Haugesund polske gruppe - Haugesund menighet",
+   "orgType": "GROUP",
+   "address": "Ystadvegen 6\r\n5538  Haugesund\r\nNORWAY\r\n",
+   "languageCode": "P",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "N"
+   ],
+   "phones": [
+    {
+     "phone": "004797111278",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "CB1EAC9A-B504-4717-AF73-4182A93F916A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.32912,
-      "longitude": 5.30299
-    },
-    "properties": {
-      "orgGuid": "CB1EAC9A-B504-4717-AF73-4182A93F916A",
-      "orgName": "Bergen polske menighet",
-      "orgType": "CONG",
-      "address": "Bønesskogen 28\r\n5154  Bønes\r\nNORWAY\r\n",
-      "languageCode": "P",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        },
-        "futureDate": "2023-01-01",
-        "future": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:45"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+47&nbsp;405 75 331",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "CFE43E60-6F19-4E1A-AC00-670AE68198FE",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.2978,
+   "longitude": 6.644212
   },
-  {
-    "geoId": "D42E5570-9C37-4FF3-AF89-5B9E4FBE9A01",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.32912,
-      "longitude": 5.30299
-    },
-    "properties": {
-      "orgGuid": "D42E5570-9C37-4FF3-AF89-5B9E4FBE9A01",
-      "orgName": "Bergen spanske gruppe - Laksevåg menighet",
-      "orgType": "GROUP",
-      "address": "Bønesskogen 28\r\n5154  Bønes\r\nNORWAY\r\n",
-      "languageCode": "S",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": null,
-            "time": null
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "N"
-      ],
-      "phones": [
-        {
-          "phone": "476 19 510",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "CFE43E60-6F19-4E1A-AC00-670AE68198FE",
+   "orgName": "Flekkefjord menighet",
+   "orgType": "CONG",
+   "address": "Tjørsvågveien 4A\r\n4400  Flekkefjord\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "47948336",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "E0550095-FD50-458F-8EE8-42D0A12DA5E3",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 59.923687,
-      "longitude": 5.796423
-    },
-    "properties": {
-      "orgGuid": "E0550095-FD50-458F-8EE8-42D0A12DA5E3",
-      "orgName": "Herøysund menighet",
-      "orgType": "CONG",
-      "address": "Skulevegen 1\r\n5462  Herøysundet\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "95725007",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "6CCA358A-F8AE-4525-A867-6E16A93025A7",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 59.021206,
+   "longitude": 6.043302
   },
-  {
-    "geoId": "5167A240-48ED-4772-8278-25AA6E4BDB52",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.470808,
-      "longitude": 5.324648
-    },
-    "properties": {
-      "orgGuid": "5167A240-48ED-4772-8278-25AA6E4BDB52",
-      "orgName": "Arna menighet",
-      "orgType": "CONG",
-      "address": "Myrdalsveien 33\n5131  Nyborg\nNORWAY\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+47&nbsp;93244802",
-          "ext": ""
-        },
-        {
-          "phone": "+47&nbsp;93244802",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "6CCA358A-F8AE-4525-A867-6E16A93025A7",
+   "orgName": "Jørpeland menighet",
+   "orgType": "CONG",
+   "address": "Wallemsvegen 5\r\n4100  Jørpeland\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "40403134",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "50F1FACE-83C4-4503-9785-9969FBED9331",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.470808,
-      "longitude": 5.324648
-    },
-    "properties": {
-      "orgGuid": "50F1FACE-83C4-4503-9785-9969FBED9331",
-      "orgName": "Åsane menighet",
-      "orgType": "CONG",
-      "address": "Myrdalsveien 33\n5131  Nyborg\nNORWAY\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "90630059",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "BABF4552-EDDA-465B-BE01-C2BD89478BF5",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.143016,
+   "longitude": 7.076837
   },
-  {
-    "geoId": "36FEAC2D-C913-4EAF-AFDE-35B7D47AB53E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.547192,
-      "longitude": 5.280304
-    },
-    "properties": {
-      "orgGuid": "36FEAC2D-C913-4EAF-AFDE-35B7D47AB53E",
-      "orgName": "Knarvik menighet",
-      "orgType": "CONG",
-      "address": "Burkhovdane 3\r\n5914  Isdalstø\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+4797513060",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "BABF4552-EDDA-465B-BE01-C2BD89478BF5",
+   "orgName": "Lyngdal menighet",
+   "orgType": "CONG",
+   "address": "Gamle Kirkeveien 12\r\n4580  Lyngdal\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "90146159",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "68408640-9F87-4F74-A770-DC5B05E3CB64",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.147,
-      "longitude": 7.99483
-    },
-    "properties": {
-      "orgGuid": "68408640-9F87-4F74-A770-DC5B05E3CB64",
-      "orgName": "Lund menighet",
-      "orgType": "CONG",
-      "address": "Gyldenløvesgate 15\r\n4611  Kristiansand S\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 1,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+47&nbsp;46664383",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "68054228-3B1B-4013-BB0E-D30375AF97ED",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 59.787604,
+   "longitude": 5.490955
   },
-  {
-    "geoId": "A33C8055-268B-4A27-8A97-E21AA8CE8919",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.147,
-      "longitude": 7.99483
-    },
-    "properties": {
-      "orgGuid": "A33C8055-268B-4A27-8A97-E21AA8CE8919",
-      "orgName": "Randesund menighet",
-      "orgType": "CONG",
-      "address": "Gyldenløvesgate 15\r\n4611  Kristiansand S\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "U"
-      ],
-      "phones": [
-        {
-          "phone": "+4748881234",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "68054228-3B1B-4013-BB0E-D30375AF97ED",
+   "orgName": "Stord menighet",
+   "orgType": "CONG",
+   "address": "Kattatveit 120\n5417  Stord\nNORWAY\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "90560108",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "91FDB986-8978-47D2-8DB4-EB578AAA0D06",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.147,
-      "longitude": 7.99483
-    },
-    "properties": {
-      "orgGuid": "91FDB986-8978-47D2-8DB4-EB578AAA0D06",
-      "orgName": "Vågsbygd menighet",
-      "orgType": "CONG",
-      "address": "Gyldenløvesgate 15\r\n4611  Kristiansand S\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "900 61 619",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "6AE35320-2FA4-4FCF-A857-72BFA61DBB47",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.353554,
+   "longitude": 5.113488
   },
-  {
-    "geoId": "442A9D4B-089E-4E72-A1ED-EA6B7104F28A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.147,
-      "longitude": 7.99483
-    },
-    "properties": {
-      "orgGuid": "442A9D4B-089E-4E72-A1ED-EA6B7104F28A",
-      "orgName": "Kristiansand polske menighet",
-      "orgType": "CONG",
-      "address": "Gyldenløvesgate 15\r\n4611  Kristiansand S\r\nNORWAY\r\n",
-      "languageCode": "P",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+4740562990",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "6AE35320-2FA4-4FCF-A857-72BFA61DBB47",
+   "orgName": "Sotra menighet",
+   "orgType": "CONG",
+   "address": "Bjørkestølen 2, Bildøy\r\n5353  Straume\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "16:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "40230799",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "A51F5DB9-FBBD-4534-9072-42C0AA0A61DA",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.147,
-      "longitude": 7.99483
-    },
-    "properties": {
-      "orgGuid": "A51F5DB9-FBBD-4534-9072-42C0AA0A61DA",
-      "orgName": "Kristiansand russiske gruppe - Randesund menighet",
-      "orgType": "GROUP",
-      "address": "Gyldenløvesgate 15\r\n4611  Kristiansand S\r\nNORWAY\r\n",
-      "languageCode": "U",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "N"
-      ],
-      "phones": [
-        {
-          "phone": "+4748881234",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "FCE10062-349F-4146-96FE-046A682FACDF",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.02395,
+   "longitude": 7.473547
   },
-  {
-    "geoId": "B51B87C4-B51D-4616-9A29-0BEFFE994DBD",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.367607,
-      "longitude": 6.129274
-    },
-    "properties": {
-      "orgGuid": "B51B87C4-B51D-4616-9A29-0BEFFE994DBD",
-      "orgName": "Norheimsund menighet",
-      "orgType": "CONG",
-      "address": "Gamle Dalavegen 82\r\n5600  Norheimsund\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "90810177",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "FCE10062-349F-4146-96FE-046A682FACDF",
+   "orgName": "Mandal menighet",
+   "orgType": "CONG",
+   "address": "Kleveveien 12\n4515  Mandal\nNORWAY\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0047 90214313",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "E3AAB268-4763-4D6D-BE80-2B92BEBC29B6",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.063386,
-      "longitude": 6.549454
-    },
-    "properties": {
-      "orgGuid": "E3AAB268-4763-4D6D-BE80-2B92BEBC29B6",
-      "orgName": "Odda menighet",
-      "orgType": "CONG",
-      "address": "Hjøllovegen 3\r\n5750  Odda\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "97170976",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "60C0E325-58D7-4CD9-91CE-3B01B50B50D3",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.181508,
+   "longitude": 5.403111
   },
-  {
-    "geoId": "72EE8B95-C762-4F61-8B67-F30C7D569C89",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 61.602552,
-      "longitude": 5.134886
-    },
-    "properties": {
-      "orgGuid": "72EE8B95-C762-4F61-8B67-F30C7D569C89",
-      "orgName": "Florø menighet",
-      "orgType": "CONG",
-      "address": "Slettevollsholten 8, Brandsøy\r\n6908  Florø\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "99615656",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "60C0E325-58D7-4CD9-91CE-3B01B50B50D3",
+   "orgName": "Os menighet",
+   "orgType": "CONG",
+   "address": "Strønevegen 36\r\n5217  Hagavik\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "90669379",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "CC91E057-CD39-45CC-840C-44164256C123",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.61405,
-      "longitude": 6.536897
-    },
-    "properties": {
-      "orgGuid": "CC91E057-CD39-45CC-840C-44164256C123",
-      "orgName": "Voss menighet",
-      "orgType": "CONG",
-      "address": "Tymbrålsbakkane 5\r\n5700  Voss\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "46419477",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "8D5177C2-1041-430F-B928-CF7E77A35661",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.460405,
+   "longitude": 5.147764
   },
-  {
-    "geoId": "11AFC6EF-19F5-45AC-A056-5022920FE239",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 61.452121,
-      "longitude": 5.82997
-    },
-    "properties": {
-      "orgGuid": "11AFC6EF-19F5-45AC-A056-5022920FE239",
-      "orgName": "Førde menighet",
-      "orgType": "CONG",
-      "address": "Halbrendslia 28\r\n6800  Førde\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "15:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+47&nbsp;981 07 496",
-          "ext": ""
-        },
-        {
-          "phone": "+47&nbsp;981 07 496",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "8D5177C2-1041-430F-B928-CF7E77A35661",
+   "orgName": "Askøy menighet",
+   "orgType": "CONG",
+   "address": "Øvre Tveit 1\r\n5310  Hauglandshella\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "97573955",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "CB09AC9F-8E85-4DBD-8963-A387E92AF17F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 61.90216,
-      "longitude": 5.99639
-    },
-    "properties": {
-      "orgGuid": "CB09AC9F-8E85-4DBD-8963-A387E92AF17F",
-      "orgName": "Nordfjord menighet",
-      "orgType": "CONG",
-      "address": "Malakoff 5\n6770  Nordfjordeid\nNORWAY\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "46297310",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "91336A9A-DC15-4BB4-B24E-2DF8C6389540",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.32912,
+   "longitude": 5.30299
   },
-  {
-    "geoId": "E1021357-8AC4-454C-9C27-50B97AF0DE97",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 62.187321,
-      "longitude": 6.109398
-    },
-    "properties": {
-      "orgGuid": "E1021357-8AC4-454C-9C27-50B97AF0DE97",
-      "orgName": "Volda menighet",
-      "orgType": "CONG",
-      "address": "Leitevegen 2\r\n6155  Ørsta\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "40229450",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "91336A9A-DC15-4BB4-B24E-2DF8C6389540",
+   "orgName": "Bergen engelske menighet",
+   "orgType": "CONG",
+   "address": "Bønesskogen 28\r\n5154  Bønes\r\nNORWAY\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "M"
+   ],
+   "phones": [
+    {
+     "phone": "+4799346011",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "EFEE294F-5602-497E-8345-E1355137C5B8",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 62.468223,
-      "longitude": 6.250887
-    },
-    "properties": {
-      "orgGuid": "EFEE294F-5602-497E-8345-E1355137C5B8",
-      "orgName": "Ålesund menighet",
-      "orgType": "CONG",
-      "address": "Gåseidvika 22\r\n6015  Ålesund\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "91187827",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "C65A13D2-CED7-47AA-880A-8150EB904A7B",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.32912,
+   "longitude": 5.30299
   },
-  {
-    "geoId": "48788AA2-1F1C-440D-949A-12DD7B5DAB08",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 62.468223,
-      "longitude": 6.250887
-    },
-    "properties": {
-      "orgGuid": "48788AA2-1F1C-440D-949A-12DD7B5DAB08",
-      "orgName": "Borgund menighet",
-      "orgType": "CONG",
-      "address": "Gåseidvika 22\r\n6015  Ålesund\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+47&nbsp;905 47 726",
-          "ext": ""
-        },
-        {
-          "phone": "+47&nbsp;905 47 726",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "C65A13D2-CED7-47AA-880A-8150EB904A7B",
+   "orgName": "Fana menighet",
+   "orgType": "CONG",
+   "address": "Bønesskogen 28\r\n5154  Bønes\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "93202518",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "4E97A457-D955-4F71-8387-AC241722880B",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 62.772274,
-      "longitude": 7.289453
-    },
-    "properties": {
-      "orgGuid": "4E97A457-D955-4F71-8387-AC241722880B",
-      "orgName": "Molde menighet",
-      "orgType": "CONG",
-      "address": "Årøsetervegen 24\r\n6422  Molde\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "90832987",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "0EB5425D-D006-463E-9160-30F01B7C84F5",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.32912,
+   "longitude": 5.30299
   },
-  {
-    "geoId": "94B18F31-95D7-4F0A-9561-DE6EF9A5233C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 62.564814,
-      "longitude": 7.676148
-    },
-    "properties": {
-      "orgGuid": "94B18F31-95D7-4F0A-9561-DE6EF9A5233C",
-      "orgName": "Åndalsnes menighet",
-      "orgType": "CONG",
-      "address": "Gjerteigen 9\r\n6300  Åndalsnes\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+47 994 00 214",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "0EB5425D-D006-463E-9160-30F01B7C84F5",
+   "orgName": "Bergen sentrum menighet",
+   "orgType": "CONG",
+   "address": "Bønesskogen 28\r\n5154  Bønes\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "948 28 838",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "5AA7EEE0-3287-4F65-8638-50D6A733B4CD",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 63.094113,
-      "longitude": 7.838367
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "7E06E38B-C8E0-4775-8712-19088298CCDD",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.32912,
+   "longitude": 5.30299
+  },
+  "properties": {
+   "orgGuid": "7E06E38B-C8E0-4775-8712-19088298CCDD",
+   "orgName": "Laksevåg menighet",
+   "orgType": "CONG",
+   "address": "Bønesskogen 28\r\n5154  Bønes\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "S"
+   ],
+   "phones": [
+    {
+     "phone": "476 19 510",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "16FF905A-1B40-40EE-B1BF-8D67FD68FCEE",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.32912,
+   "longitude": 5.30299
+  },
+  "properties": {
+   "orgGuid": "16FF905A-1B40-40EE-B1BF-8D67FD68FCEE",
+   "orgName": "Nesttun menighet",
+   "orgType": "CONG",
+   "address": "Bønesskogen 28\r\n5154  Bønes\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 1,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "91767258 eller 90145372",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "CB1EAC9A-B504-4717-AF73-4182A93F916A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.32912,
+   "longitude": 5.30299
+  },
+  "properties": {
+   "orgGuid": "CB1EAC9A-B504-4717-AF73-4182A93F916A",
+   "orgName": "Bergen polske menighet",
+   "orgType": "CONG",
+   "address": "Bønesskogen 28\r\n5154  Bønes\r\nNORWAY\r\n",
+   "languageCode": "P",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:45"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+47&nbsp;9253 9241",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "D42E5570-9C37-4FF3-AF89-5B9E4FBE9A01",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.32912,
+   "longitude": 5.30299
+  },
+  "properties": {
+   "orgGuid": "D42E5570-9C37-4FF3-AF89-5B9E4FBE9A01",
+   "orgName": "Bergen spanske gruppe - Laksevåg menighet",
+   "orgType": "GROUP",
+   "address": "Bønesskogen 28\r\n5154  Bønes\r\nNORWAY\r\n",
+   "languageCode": "S",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": null,
+      "time": null
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "N"
+   ],
+   "phones": [
+    {
+     "phone": "476 19 510",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "E0550095-FD50-458F-8EE8-42D0A12DA5E3",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 59.923687,
+   "longitude": 5.796423
+  },
+  "properties": {
+   "orgGuid": "E0550095-FD50-458F-8EE8-42D0A12DA5E3",
+   "orgName": "Herøysund menighet",
+   "orgType": "CONG",
+   "address": "Skulevegen 1\r\n5462  Herøysundet\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "95725007",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "5167A240-48ED-4772-8278-25AA6E4BDB52",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.470808,
+   "longitude": 5.324648
+  },
+  "properties": {
+   "orgGuid": "5167A240-48ED-4772-8278-25AA6E4BDB52",
+   "orgName": "Arna menighet",
+   "orgType": "CONG",
+   "address": "Myrdalsveien 33\n5131  Nyborg\nNORWAY\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+47&nbsp;93244802",
+     "ext": ""
     },
-    "properties": {
-      "orgGuid": "5AA7EEE0-3287-4F65-8638-50D6A733B4CD",
-      "orgName": "Kristiansund menighet",
-      "orgType": "CONG",
-      "address": "Rådhusbakken 5\r\n6522  Frei\r\nNORWAY\r\n",
-      "languageCode": "N",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+47&nbsp;92641338",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
+    {
+     "phone": "+47&nbsp;93244802",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "50F1FACE-83C4-4503-9785-9969FBED9331",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.470808,
+   "longitude": 5.324648
+  },
+  "properties": {
+   "orgGuid": "50F1FACE-83C4-4503-9785-9969FBED9331",
+   "orgName": "Åsane menighet",
+   "orgType": "CONG",
+   "address": "Myrdalsveien 33\n5131  Nyborg\nNORWAY\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "90630059",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "36FEAC2D-C913-4EAF-AFDE-35B7D47AB53E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.547192,
+   "longitude": 5.280304
+  },
+  "properties": {
+   "orgGuid": "36FEAC2D-C913-4EAF-AFDE-35B7D47AB53E",
+   "orgName": "Knarvik menighet",
+   "orgType": "CONG",
+   "address": "Burkhovdane 3\r\n5914  Isdalstø\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+4797513060",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "68408640-9F87-4F74-A770-DC5B05E3CB64",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.147,
+   "longitude": 7.99483
+  },
+  "properties": {
+   "orgGuid": "68408640-9F87-4F74-A770-DC5B05E3CB64",
+   "orgName": "Lund menighet",
+   "orgType": "CONG",
+   "address": "Gyldenløvesgate 15\r\n4611  Kristiansand S\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+47&nbsp;46664383",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A33C8055-268B-4A27-8A97-E21AA8CE8919",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.147,
+   "longitude": 7.99483
+  },
+  "properties": {
+   "orgGuid": "A33C8055-268B-4A27-8A97-E21AA8CE8919",
+   "orgName": "Randesund menighet",
+   "orgType": "CONG",
+   "address": "Gyldenløvesgate 15\r\n4611  Kristiansand S\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "U"
+   ],
+   "phones": [
+    {
+     "phone": "+4748881234",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "91FDB986-8978-47D2-8DB4-EB578AAA0D06",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.147,
+   "longitude": 7.99483
+  },
+  "properties": {
+   "orgGuid": "91FDB986-8978-47D2-8DB4-EB578AAA0D06",
+   "orgName": "Vågsbygd menighet",
+   "orgType": "CONG",
+   "address": "Gyldenløvesgate 15\r\n4611  Kristiansand S\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "900 61 619",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "442A9D4B-089E-4E72-A1ED-EA6B7104F28A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.147,
+   "longitude": 7.99483
+  },
+  "properties": {
+   "orgGuid": "442A9D4B-089E-4E72-A1ED-EA6B7104F28A",
+   "orgName": "Kristiansand polske menighet",
+   "orgType": "CONG",
+   "address": "Gyldenløvesgate 15\r\n4611  Kristiansand S\r\nNORWAY\r\n",
+   "languageCode": "P",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 1,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+4740562990",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A51F5DB9-FBBD-4534-9072-42C0AA0A61DA",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.147,
+   "longitude": 7.99483
+  },
+  "properties": {
+   "orgGuid": "A51F5DB9-FBBD-4534-9072-42C0AA0A61DA",
+   "orgName": "Kristiansand russiske gruppe - Randesund menighet",
+   "orgType": "GROUP",
+   "address": "Gyldenløvesgate 15\r\n4611  Kristiansand S\r\nNORWAY\r\n",
+   "languageCode": "U",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "N"
+   ],
+   "phones": [
+    {
+     "phone": "+4748881234",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B51B87C4-B51D-4616-9A29-0BEFFE994DBD",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.367607,
+   "longitude": 6.129274
+  },
+  "properties": {
+   "orgGuid": "B51B87C4-B51D-4616-9A29-0BEFFE994DBD",
+   "orgName": "Norheimsund menighet",
+   "orgType": "CONG",
+   "address": "Gamle Dalavegen 82\r\n5600  Norheimsund\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "90810177",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "E3AAB268-4763-4D6D-BE80-2B92BEBC29B6",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.063386,
+   "longitude": 6.549454
+  },
+  "properties": {
+   "orgGuid": "E3AAB268-4763-4D6D-BE80-2B92BEBC29B6",
+   "orgName": "Odda menighet",
+   "orgType": "CONG",
+   "address": "Hjøllovegen 3\r\n5750  Odda\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "97170976",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "72EE8B95-C762-4F61-8B67-F30C7D569C89",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 61.602552,
+   "longitude": 5.134886
+  },
+  "properties": {
+   "orgGuid": "72EE8B95-C762-4F61-8B67-F30C7D569C89",
+   "orgName": "Florø menighet",
+   "orgType": "CONG",
+   "address": "Slettevollsholten 8, Brandsøy\r\n6908  Florø\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "99615656",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "CC91E057-CD39-45CC-840C-44164256C123",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.61405,
+   "longitude": 6.536897
+  },
+  "properties": {
+   "orgGuid": "CC91E057-CD39-45CC-840C-44164256C123",
+   "orgName": "Voss menighet",
+   "orgType": "CONG",
+   "address": "Tymbrålsbakkane 5\r\n5700  Voss\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "46419477",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "11AFC6EF-19F5-45AC-A056-5022920FE239",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 61.452121,
+   "longitude": 5.82997
+  },
+  "properties": {
+   "orgGuid": "11AFC6EF-19F5-45AC-A056-5022920FE239",
+   "orgName": "Førde menighet",
+   "orgType": "CONG",
+   "address": "Halbrendslia 28\r\n6800  Førde\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+47&nbsp;981 07 496",
+     "ext": ""
     },
-    "active": true,
-    "firstSeen": "2022-12-03T17:23:33.692Z"
-  }
+    {
+     "phone": "+47&nbsp;981 07 496",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "CB09AC9F-8E85-4DBD-8963-A387E92AF17F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 61.90216,
+   "longitude": 5.99639
+  },
+  "properties": {
+   "orgGuid": "CB09AC9F-8E85-4DBD-8963-A387E92AF17F",
+   "orgName": "Nordfjord menighet",
+   "orgType": "CONG",
+   "address": "Malakoff 5\n6770  Nordfjordeid\nNORWAY\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "46297310",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "E1021357-8AC4-454C-9C27-50B97AF0DE97",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 62.187321,
+   "longitude": 6.109398
+  },
+  "properties": {
+   "orgGuid": "E1021357-8AC4-454C-9C27-50B97AF0DE97",
+   "orgName": "Volda menighet",
+   "orgType": "CONG",
+   "address": "Leitevegen 2\r\n6155  Ørsta\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "40229450",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "EFEE294F-5602-497E-8345-E1355137C5B8",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 62.468223,
+   "longitude": 6.250887
+  },
+  "properties": {
+   "orgGuid": "EFEE294F-5602-497E-8345-E1355137C5B8",
+   "orgName": "Ålesund menighet",
+   "orgType": "CONG",
+   "address": "Gåseidvika 22\r\n6015  Ålesund\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "91187827",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "48788AA2-1F1C-440D-949A-12DD7B5DAB08",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 62.468223,
+   "longitude": 6.250887
+  },
+  "properties": {
+   "orgGuid": "48788AA2-1F1C-440D-949A-12DD7B5DAB08",
+   "orgName": "Borgund menighet",
+   "orgType": "CONG",
+   "address": "Gåseidvika 22\r\n6015  Ålesund\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+47&nbsp;905 47 726",
+     "ext": ""
+    },
+    {
+     "phone": "+47&nbsp;905 47 726",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4E97A457-D955-4F71-8387-AC241722880B",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 62.772274,
+   "longitude": 7.289453
+  },
+  "properties": {
+   "orgGuid": "4E97A457-D955-4F71-8387-AC241722880B",
+   "orgName": "Molde menighet",
+   "orgType": "CONG",
+   "address": "Årøsetervegen 24\r\n6422  Molde\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "90832987",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "94B18F31-95D7-4F0A-9561-DE6EF9A5233C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 62.564814,
+   "longitude": 7.676148
+  },
+  "properties": {
+   "orgGuid": "94B18F31-95D7-4F0A-9561-DE6EF9A5233C",
+   "orgName": "Åndalsnes menighet",
+   "orgType": "CONG",
+   "address": "Gjerteigen 9\r\n6300  Åndalsnes\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+47 994 00 214",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "5AA7EEE0-3287-4F65-8638-50D6A733B4CD",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 63.094113,
+   "longitude": 7.838367
+  },
+  "properties": {
+   "orgGuid": "5AA7EEE0-3287-4F65-8638-50D6A733B4CD",
+   "orgName": "Kristiansund menighet",
+   "orgType": "CONG",
+   "address": "Rådhusbakken 5\r\n6522  Frei\r\nNORWAY\r\n",
+   "languageCode": "N",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+47&nbsp;92641338",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-03T17:23:33.692Z"
+ }
 ]

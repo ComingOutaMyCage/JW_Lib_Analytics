@@ -1,2438 +1,2463 @@
 [
-  {
-    "geoId": "CB5037F0-CAB3-44E4-9BAF-157CB1794DEB",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.829127,
-      "longitude": 112.015854
-    },
-    "properties": {
-      "orgGuid": "CB5037F0-CAB3-44E4-9BAF-157CB1794DEB",
-      "orgName": "Kediri Bahasa Isyarat - Kediri Kota",
-      "orgType": "GROUP",
-      "address": "Jl. Brigjend. Katamso No. 88/96\r\nKEDIRI—64126  JAWA TIMUR\r\n\r\n",
-      "languageCode": "INI",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "17:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+62&nbsp;085736260085",
-          "ext": ""
-        },
-        {
-          "phone": "+62&nbsp;085736260085",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-03T17:23:33.692Z"
+ {
+  "geoId": "CB5037F0-CAB3-44E4-9BAF-157CB1794DEB",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.829127,
+   "longitude": 112.015854
   },
-  {
-    "geoId": "F5401627-C627-4A21-9FE9-9EA4CE7DDFB0",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.763759,
-      "longitude": 112.207827
+  "properties": {
+   "orgGuid": "CB5037F0-CAB3-44E4-9BAF-157CB1794DEB",
+   "orgName": "Kediri Bahasa Isyarat - Kediri Kota",
+   "orgType": "GROUP",
+   "address": "Jl. Brigjend. Katamso No. 88/96\r\nKEDIRI—64126  JAWA TIMUR\r\n\r\n",
+   "languageCode": "INI",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+62&nbsp;085736260085",
+     "ext": ""
     },
-    "properties": {
-      "orgGuid": "F5401627-C627-4A21-9FE9-9EA4CE7DDFB0",
-      "orgName": "Kediri Kota",
-      "orgType": "CONG",
-      "address": "Jl. Gajah Mada No. 88\r\nPare-Kediri\r\nPARE—64211  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "15:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+62&nbsp;085736260085",
-          "ext": ""
-        },
-        {
-          "phone": "+62&nbsp;085736260085",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-03T17:23:33.692Z"
+    {
+     "phone": "+62&nbsp;085736260085",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "E726CC4C-13ED-4F5C-841D-92D30DEDC14B",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.763759,
-      "longitude": 112.207827
-    },
-    "properties": {
-      "orgGuid": "E726CC4C-13ED-4F5C-841D-92D30DEDC14B",
-      "orgName": "Kediri Pare",
-      "orgType": "CONG",
-      "address": "Jl. Gajah Mada No. 88\r\nPare-Kediri\r\nPARE—64211  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081335241341",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-03T17:23:33.692Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-03T17:23:33.692Z"
+ },
+ {
+  "geoId": "F5401627-C627-4A21-9FE9-9EA4CE7DDFB0",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.763759,
+   "longitude": 112.207827
   },
-  {
-    "geoId": "C9126D1A-1C88-4351-85B3-C02F0A58BD1C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.874107,
-      "longitude": 112.511312
+  "properties": {
+   "orgGuid": "F5401627-C627-4A21-9FE9-9EA4CE7DDFB0",
+   "orgName": "Kediri Kota",
+   "orgType": "CONG",
+   "address": "Jl. Gajah Mada No. 88\r\nPare-Kediri\r\nPARE—64211  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+62&nbsp;085736260085",
+     "ext": ""
     },
-    "properties": {
-      "orgGuid": "C9126D1A-1C88-4351-85B3-C02F0A58BD1C",
-      "orgName": "Malang Batu",
-      "orgType": "CONG",
-      "address": "Jl. Suropati Gang Bengkel No. 22A\r\nPesanggrahan, Kota Batu\r\nBATU—65313  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "16:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081334998854/Sdr. Iid Wibowo",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-03T17:23:33.692Z"
+    {
+     "phone": "+62&nbsp;085736260085",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "09B4ED92-E1C5-49DC-9350-0542FF4228DC",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.952626,
-      "longitude": 112.636192
-    },
-    "properties": {
-      "orgGuid": "09B4ED92-E1C5-49DC-9350-0542FF4228DC",
-      "orgName": "Malang Kedung Kandang",
-      "orgType": "CONG",
-      "address": "1st floor auditorium, Hotel Bluebells Express\r\nJl. Kedawung No. 45\r\nKelurahan Tulusrejo, Kecamatan Lowokwaru\r\nMALANG—65141  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "085746919786",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-03T17:23:33.692Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-03T17:23:33.692Z"
+ },
+ {
+  "geoId": "E726CC4C-13ED-4F5C-841D-92D30DEDC14B",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.763759,
+   "longitude": 112.207827
   },
-  {
-    "geoId": "AA0ED67B-EB7F-4A0A-86D9-C3608669820D",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.952626,
-      "longitude": 112.636192
-    },
-    "properties": {
-      "orgGuid": "AA0ED67B-EB7F-4A0A-86D9-C3608669820D",
-      "orgName": "Malang Klojen",
-      "orgType": "CONG",
-      "address": "1st floor auditorium, Hotel Bluebells Express\r\nJl. Kedawung No. 45\r\nKelurahan Tulusrejo, Kecamatan Lowokwaru\r\nMALANG—65141  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "17:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "085233343222",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-03T17:23:33.692Z"
+  "properties": {
+   "orgGuid": "E726CC4C-13ED-4F5C-841D-92D30DEDC14B",
+   "orgName": "Kediri Pare",
+   "orgType": "CONG",
+   "address": "Jl. Gajah Mada No. 88\r\nPare-Kediri\r\nPARE—64211  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081335241341",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "D53A8C1D-8CE4-4548-8D59-633A0CF27496",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.952626,
-      "longitude": 112.636192
-    },
-    "properties": {
-      "orgGuid": "D53A8C1D-8CE4-4548-8D59-633A0CF27496",
-      "orgName": "Malang Blimbing",
-      "orgType": "CONG",
-      "address": "1st floor auditorium, Hotel Bluebells Express\r\nJl. Kedawung No. 45\r\nKelurahan Tulusrejo, Kecamatan Lowokwaru\r\nMALANG—65141  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "17:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "08383506133",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-03T17:23:33.692Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-03T17:23:33.692Z"
+ },
+ {
+  "geoId": "C9126D1A-1C88-4351-85B3-C02F0A58BD1C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.874107,
+   "longitude": 112.511312
   },
-  {
-    "geoId": "8521251F-AAE9-4B13-9115-9C85710943F8",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.952626,
-      "longitude": 112.636192
-    },
-    "properties": {
-      "orgGuid": "8521251F-AAE9-4B13-9115-9C85710943F8",
-      "orgName": "Malang Bahasa Isyarat",
-      "orgType": "CONG",
-      "address": "1st floor auditorium, Hotel Bluebells Express\r\nJl. Kedawung No. 45\r\nKelurahan Tulusrejo, Kecamatan Lowokwaru\r\nMALANG—65141  JAWA TIMUR\r\n\r\n",
-      "languageCode": "INI",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "17:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+6281346029565",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-03T17:23:33.692Z"
+  "properties": {
+   "orgGuid": "C9126D1A-1C88-4351-85B3-C02F0A58BD1C",
+   "orgName": "Malang Batu",
+   "orgType": "CONG",
+   "address": "Jl. Suropati Gang Bengkel No. 22A\r\nPesanggrahan, Kota Batu\r\nBATU—65313  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "16:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081334998854/Sdr. Iid Wibowo",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "F0D5EA5E-B24F-410E-99A8-E64CFBEFD5F2",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.849663,
-      "longitude": 112.695286
-    },
-    "properties": {
-      "orgGuid": "F0D5EA5E-B24F-410E-99A8-E64CFBEFD5F2",
-      "orgName": "Malang Lawang",
-      "orgType": "CONG",
-      "address": "Gedung KSP Berkah Sesama, Ruko Malang Permai 31-E\r\nJl. Dr. Wahidin 31 (Jalan Raya Malang-Surabaya)\r\nKelurahan Kalirejo, Kecamatan Lawang\r\nMALANG—65216  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0813 5905 8933 | 0813 3471 1337",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-03T17:23:33.692Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-03T17:23:33.692Z"
+ },
+ {
+  "geoId": "09B4ED92-E1C5-49DC-9350-0542FF4228DC",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.952626,
+   "longitude": 112.636192
   },
-  {
-    "geoId": "F9411090-6C51-4A14-A8AE-41A73440E593",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.502613,
-      "longitude": 112.363874
-    },
-    "properties": {
-      "orgGuid": "F9411090-6C51-4A14-A8AE-41A73440E593",
-      "orgName": "Jombang",
-      "orgType": "CONG",
-      "address": "Dusun Besuk Desa Curahmalang\r\nKecamatan Sumobito Kabupaten Jombang\r\nJawa Timur\r\nJOMBANG—61483  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0321877432",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "09B4ED92-E1C5-49DC-9350-0542FF4228DC",
+   "orgName": "Malang Kedung Kandang",
+   "orgType": "CONG",
+   "address": "1st floor auditorium, Hotel Bluebells Express\r\nJl. Kedawung No. 45\r\nKelurahan Tulusrejo, Kecamatan Lowokwaru\r\nMALANG—65141  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "085608895665",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "3883BC61-C71A-442F-A19B-9C9DDEC2F1C7",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.448273,
-      "longitude": 112.458082
-    },
-    "properties": {
-      "orgGuid": "3883BC61-C71A-442F-A19B-9C9DDEC2F1C7",
-      "orgName": "Mojokerto",
-      "orgType": "CONG",
-      "address": "Jl. Jatikulon I No. 37 Lengkong\r\nKecamatan Mojoanyar\r\nMOJOKERTO—61364  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "082244724499",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-03T17:23:33.692Z"
+ },
+ {
+  "geoId": "AA0ED67B-EB7F-4A0A-86D9-C3608669820D",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.952626,
+   "longitude": 112.636192
   },
-  {
-    "geoId": "B2252C56-C35E-4121-903D-8DDF7A18D9A1",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.448273,
-      "longitude": 112.458082
-    },
-    "properties": {
-      "orgGuid": "B2252C56-C35E-4121-903D-8DDF7A18D9A1",
-      "orgName": "Mojokerto Mojosari - Mojokerto",
-      "orgType": "GROUP",
-      "address": "Jl. Jatikulon I No. 37 Lengkong\r\nKecamatan Mojoanyar\r\nMOJOKERTO—61364  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "082244724499",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "AA0ED67B-EB7F-4A0A-86D9-C3608669820D",
+   "orgName": "Malang Klojen",
+   "orgType": "CONG",
+   "address": "1st floor auditorium, Hotel Bluebells Express\r\nJl. Kedawung No. 45\r\nKelurahan Tulusrejo, Kecamatan Lowokwaru\r\nMALANG—65141  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "17:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "085233343222",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "A6A06705-D649-453F-A87F-E07CE148A1D1",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.665158,
-      "longitude": 112.69825
-    },
-    "properties": {
-      "orgGuid": "A6A06705-D649-453F-A87F-E07CE148A1D1",
-      "orgName": "Pandaan",
-      "orgType": "CONG",
-      "address": "Gedung KSP Berkah Sesama, Jl. Palagan 100\r\n(Raya Bypass), Kali Tengah, Karang Jati, Pandaan\r\n(Perempatan gerbang Tol Pandaan-Malang)\r\nPASURUAN—67156  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081278230989",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-03T17:23:33.692Z"
+ },
+ {
+  "geoId": "D53A8C1D-8CE4-4548-8D59-633A0CF27496",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.952626,
+   "longitude": 112.636192
   },
-  {
-    "geoId": "894B2394-90D4-4FE2-836D-EE57197ADA11",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -6.896428,
-      "longitude": 112.047905
-    },
-    "properties": {
-      "orgGuid": "894B2394-90D4-4FE2-836D-EE57197ADA11",
-      "orgName": "Tuban",
-      "orgType": "CONG",
-      "address": "Jl. Pramuka IV Gg. Pasar No. 1\r\nSidorejo Kecamatan Tuban\r\nKabupaten Tuban, Jawa Timur\r\nTUBAN—62315  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081357357573",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "D53A8C1D-8CE4-4548-8D59-633A0CF27496",
+   "orgName": "Malang Blimbing",
+   "orgType": "CONG",
+   "address": "1st floor auditorium, Hotel Bluebells Express\r\nJl. Kedawung No. 45\r\nKelurahan Tulusrejo, Kecamatan Lowokwaru\r\nMALANG—65141  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "17:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "085746919786",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "FFB20EF6-13F0-4BBA-A2A9-C46C2016E6AA",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.644484,
-      "longitude": 112.897241
-    },
-    "properties": {
-      "orgGuid": "FFB20EF6-13F0-4BBA-A2A9-C46C2016E6AA",
-      "orgName": "Pasuruan",
-      "orgType": "CONG",
-      "address": "Jl. Raden Patah No. 1\r\nRuko Pondok Surya Kencana II\r\nPASURUAN—67135  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "082192874914",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-03T17:23:33.692Z"
+ },
+ {
+  "geoId": "8521251F-AAE9-4B13-9115-9C85710943F8",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.952626,
+   "longitude": 112.636192
   },
-  {
-    "geoId": "15534C70-56DB-4520-93AB-327E27218C66",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.369277,
-      "longitude": 112.727937
-    },
-    "properties": {
-      "orgGuid": "15534C70-56DB-4520-93AB-327E27218C66",
-      "orgName": "Sidoarjo Gedangan",
-      "orgType": "CONG",
-      "address": "Ruko Gateway D-9\r\nSawotratap\r\nGedangan\r\nSIDOARJO—61255  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081231401304",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "8521251F-AAE9-4B13-9115-9C85710943F8",
+   "orgName": "Malang Bahasa Isyarat",
+   "orgType": "CONG",
+   "address": "1st floor auditorium, Hotel Bluebells Express\r\nJl. Kedawung No. 45\r\nKelurahan Tulusrejo, Kecamatan Lowokwaru\r\nMALANG—65141  JAWA TIMUR\r\n\r\n",
+   "languageCode": "INI",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "17:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+6281346029565",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "85DC54EA-F430-48DA-AE0F-758AA8D737C5",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.326166,
-      "longitude": 112.737333
-    },
-    "properties": {
-      "orgGuid": "85DC54EA-F430-48DA-AE0F-758AA8D737C5",
-      "orgName": "Surabaya Juanda",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Raya Jemursari No. 20\r\nKelurahan Jemur Wonosari Kecamatan Wonocolo\r\nSURABAYA—60237  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+62&nbsp;85102344420",
-          "ext": ""
-        },
-        {
-          "phone": "+62&nbsp;85102344420",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-03T17:23:33.692Z"
+ },
+ {
+  "geoId": "F9411090-6C51-4A14-A8AE-41A73440E593",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.566906,
+   "longitude": 112.363874
   },
-  {
-    "geoId": "18CF3C6F-2B95-436A-B685-F296810002F7",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.326166,
-      "longitude": 112.737333
-    },
-    "properties": {
-      "orgGuid": "18CF3C6F-2B95-436A-B685-F296810002F7",
-      "orgName": "Surabaya Wonocolo",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Raya Jemursari No. 20\r\nKelurahan Jemur Wonosari Kecamatan Wonocolo\r\nSURABAYA—60237  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "085336875941",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "F9411090-6C51-4A14-A8AE-41A73440E593",
+   "orgName": "Jombang",
+   "orgType": "CONG",
+   "address": "Ruko Miagan\r\nDesa Miagan Kecamatan Mojoagung\r\nRaya Jombang Mojokerto\r\nJOMBANG—61482  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081330497536",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "FFB2E7AD-FCDD-461F-B3AB-A34E03838D29",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.326166,
-      "longitude": 112.737333
-    },
-    "properties": {
-      "orgGuid": "FFB2E7AD-FCDD-461F-B3AB-A34E03838D29",
-      "orgName": "Surabaya Tenggilis",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Raya Jemursari No. 20\r\nKelurahan Jemur Wonosari Kecamatan Wonocolo\r\nSURABAYA—60237  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "082111048842",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "F0D5EA5E-B24F-410E-99A8-E64CFBEFD5F2",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.849663,
+   "longitude": 112.695286
   },
-  {
-    "geoId": "2A279CB3-5FC3-4BC5-A573-F5AEAFCE4061",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.326166,
-      "longitude": 112.737333
-    },
-    "properties": {
-      "orgGuid": "2A279CB3-5FC3-4BC5-A573-F5AEAFCE4061",
-      "orgName": "Surabaya Bahasa Isyarat",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Raya Jemursari No. 20\r\nKelurahan Jemur Wonosari Kecamatan Wonocolo\r\nSURABAYA—60237  JAWA TIMUR\r\n\r\n",
-      "languageCode": "INI",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:15"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081919058001",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "F0D5EA5E-B24F-410E-99A8-E64CFBEFD5F2",
+   "orgName": "Malang Lawang",
+   "orgType": "CONG",
+   "address": "Gedung KSP Berkah Sesama, Ruko Malang Permai 31-E\r\nJl. Dr. Wahidin 31 (Jalan Raya Malang-Surabaya)\r\nKelurahan Kalirejo, Kecamatan Lawang\r\nMALANG—65216  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0813 5905 8933",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "7145F2DE-E195-4222-AA3E-8B740CB6EE2F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.326166,
-      "longitude": 112.737333
-    },
-    "properties": {
-      "orgGuid": "7145F2DE-E195-4222-AA3E-8B740CB6EE2F",
-      "orgName": "Surabaya Rungkut",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Raya Jemursari No. 20\r\nKelurahan Jemur Wonosari Kecamatan Wonocolo\r\nSURABAYA—60237  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "15:45"
-          },
-          "midweek": {
-            "weekday": 1,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "Hendra +62 81230747556",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-03T17:23:33.692Z"
+ },
+ {
+  "geoId": "3883BC61-C71A-442F-A19B-9C9DDEC2F1C7",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.448273,
+   "longitude": 112.458082
   },
-  {
-    "geoId": "DB0E5788-3979-4AF8-9AF7-A2900C3CCBB0",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.168783,
-      "longitude": 112.588869
-    },
-    "properties": {
-      "orgGuid": "DB0E5788-3979-4AF8-9AF7-A2900C3CCBB0",
-      "orgName": "Gresik",
-      "orgType": "CONG",
-      "address": "Jl. Dr. Wahidin Sudirohusodo No. 782\r\nKompleks Bunder Square Blok B1-2\r\nGresik - Jawa Timur\r\nGRESIK—61124  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0813-3139-4416",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "3883BC61-C71A-442F-A19B-9C9DDEC2F1C7",
+   "orgName": "Mojokerto",
+   "orgType": "CONG",
+   "address": "Jl. Jatikulon I No. 37 Lengkong\r\nKecamatan Mojoanyar\r\nMOJOKERTO—61364  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "082244724499",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "7386FBF5-C9AB-4A41-BB64-ABB9BCA58637",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.275256,
-      "longitude": 112.695964
-    },
-    "properties": {
-      "orgGuid": "7386FBF5-C9AB-4A41-BB64-ABB9BCA58637",
-      "orgName": "Surabaya Darmo Satelit",
-      "orgType": "CONG",
-      "address": "Jl. Patimura\r\nRuko Plaza Segi 8 Blok C801-802\r\nSURABAYA—60189  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081330267117",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B2252C56-C35E-4121-903D-8DDF7A18D9A1",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.448273,
+   "longitude": 112.458082
   },
-  {
-    "geoId": "2FABC351-4700-44DD-85C3-5F0DE1815256",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.275256,
-      "longitude": 112.695964
-    },
-    "properties": {
-      "orgGuid": "2FABC351-4700-44DD-85C3-5F0DE1815256",
-      "orgName": "Surabaya Royal Babatan",
-      "orgType": "CONG",
-      "address": "Jl. Patimura\r\nRuko Plaza Segi 8 Blok C801-802\r\nSURABAYA—60189  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "085733363039",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "B2252C56-C35E-4121-903D-8DDF7A18D9A1",
+   "orgName": "Mojokerto Mojosari - Mojokerto",
+   "orgType": "GROUP",
+   "address": "Jl. Jatikulon I No. 37 Lengkong\r\nKecamatan Mojoanyar\r\nMOJOKERTO—61364  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "082244724499",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "6F419DC1-476E-44B8-AE9C-698A4823CEA5",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.290984,
-      "longitude": 112.71859
-    },
-    "properties": {
-      "orgGuid": "6F419DC1-476E-44B8-AE9C-698A4823CEA5",
-      "orgName": "Surabaya Dukuh Kupang",
-      "orgType": "CONG",
-      "address": "Jl. Mayjen Sungkono\r\nKompleks Darmo Park 1 Blok V B No. 1\r\nSURABAYA—60225  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0811148229",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A6A06705-D649-453F-A87F-E07CE148A1D1",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.665158,
+   "longitude": 112.69825
   },
-  {
-    "geoId": "F4811A35-9613-4AAF-814E-7CCA50E3E8E1",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.290984,
-      "longitude": 112.71859
-    },
-    "properties": {
-      "orgGuid": "F4811A35-9613-4AAF-814E-7CCA50E3E8E1",
-      "orgName": "Surabaya Tandes",
-      "orgType": "CONG",
-      "address": "Jl. Mayjen Sungkono\r\nKompleks Darmo Park 1 Blok V B No. 1\r\nSURABAYA—60225  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:30"
-          },
-          "midweek": {
-            "weekday": 1,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "085102285848",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "A6A06705-D649-453F-A87F-E07CE148A1D1",
+   "orgName": "Pandaan",
+   "orgType": "CONG",
+   "address": "Gedung KSP Berkah Sesama, Jl. Palagan 100\r\n(Raya Bypass), Kali Tengah, Karang Jati, Pandaan\r\n(Perempatan gerbang Tol Pandaan-Malang)\r\nPASURUAN—67156  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081278230989",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "D072840B-B237-447F-9C95-44E70F2A0681",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.290984,
-      "longitude": 112.71859
-    },
-    "properties": {
-      "orgGuid": "D072840B-B237-447F-9C95-44E70F2A0681",
-      "orgName": "Surabaya Darmo",
-      "orgType": "CONG",
-      "address": "Jl. Mayjen Sungkono\r\nKompleks Darmo Park 1 Blok V B No. 1\r\nSURABAYA—60225  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "81515382998",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "894B2394-90D4-4FE2-836D-EE57197ADA11",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -6.896428,
+   "longitude": 112.047905
   },
-  {
-    "geoId": "E41123C4-84CD-4CBD-9010-1FA405E8FED5",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.290984,
-      "longitude": 112.71859
-    },
-    "properties": {
-      "orgGuid": "E41123C4-84CD-4CBD-9010-1FA405E8FED5",
-      "orgName": "Surabaya Bahasa Jawa",
-      "orgType": "CONG",
-      "address": "Jl. Mayjen Sungkono\r\nKompleks Darmo Park 1 Blok V B No. 1\r\nSURABAYA—60225  JAWA TIMUR\r\n\r\n",
-      "languageCode": "JA",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "085244881919",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "894B2394-90D4-4FE2-836D-EE57197ADA11",
+   "orgName": "Tuban",
+   "orgType": "CONG",
+   "address": "Jl. Pramuka IV Gg. Pasar No. 1\r\nSidorejo Kecamatan Tuban\r\nKabupaten Tuban, Jawa Timur\r\nTUBAN—62315  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081357357573",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "D01302BE-D938-4BDD-B218-E271A9FBB55D",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.748324,
-      "longitude": 113.220605
-    },
-    "properties": {
-      "orgGuid": "D01302BE-D938-4BDD-B218-E271A9FBB55D",
-      "orgName": "Probolinggo",
-      "orgType": "CONG",
-      "address": "Jl. Imam Bonjol, Ruko Blok A,\r\nKelurahan Mangunharjo, Kecamatan Mayangan\r\nPROBOLINGGO—67217  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "085230730321",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "FFB20EF6-13F0-4BBA-A2A9-C46C2016E6AA",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.644484,
+   "longitude": 112.897241
   },
-  {
-    "geoId": "7350B458-61DE-492F-BE90-D271B3300166",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.25122,
-      "longitude": 112.7831
-    },
-    "properties": {
-      "orgGuid": "7350B458-61DE-492F-BE90-D271B3300166",
-      "orgName": "Surabaya Sukolilo",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Kalijudan Madya II No. 9\r\nKalijudan, Mulyorejo\r\nSURABAYA—60133  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081230448880 &amp; 08123266019",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "FFB20EF6-13F0-4BBA-A2A9-C46C2016E6AA",
+   "orgName": "Pasuruan",
+   "orgType": "CONG",
+   "address": "Jl. Raden Patah No. 1\r\nRuko Pondok Surya Kencana II\r\nPASURUAN—67135  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "082192874914",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "0F008F70-926D-4FAC-ABDB-B7457DA201AE",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.25122,
-      "longitude": 112.7831
-    },
-    "properties": {
-      "orgGuid": "0F008F70-926D-4FAC-ABDB-B7457DA201AE",
-      "orgName": "Surabaya Kenjeran",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Kalijudan Madya II No. 9\r\nKalijudan, Mulyorejo\r\nSURABAYA—60133  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "085231299990",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "15534C70-56DB-4520-93AB-327E27218C66",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.369277,
+   "longitude": 112.727937
   },
-  {
-    "geoId": "0186B492-BB20-4EF4-88C9-B195B9E5DBA3",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -7.25122,
-      "longitude": 112.7831
-    },
-    "properties": {
-      "orgGuid": "0186B492-BB20-4EF4-88C9-B195B9E5DBA3",
-      "orgName": "Surabaya Undaan",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Kalijudan Madya II No. 9\r\nKalijudan, Mulyorejo\r\nSURABAYA—60133  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081332109811",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "15534C70-56DB-4520-93AB-327E27218C66",
+   "orgName": "Sidoarjo Gedangan",
+   "orgType": "CONG",
+   "address": "Ruko Gateway D-9\r\nSawotratap\r\nGedangan\r\nSIDOARJO—61255  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081231401304",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "9655FD9B-6D34-48E0-B07B-1EE59554B1E5",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -1.99126,
-      "longitude": 112.00057
-    },
-    "properties": {
-      "orgGuid": "9655FD9B-6D34-48E0-B07B-1EE59554B1E5",
-      "orgName": "Sambi",
-      "orgType": "CONG",
-      "address": "Jl. Desa Sambi RT 02\r\nSambi, Arut Utara, Kotawaringin Barat\r\nSAMBI—74152  KALIMANTAN TENGAH\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "18:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "82240187078",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "85DC54EA-F430-48DA-AE0F-758AA8D737C5",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.326166,
+   "longitude": 112.737333
   },
-  {
-    "geoId": "26C4DC79-4877-4DB5-AE7A-911CC42160AF",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -1.99126,
-      "longitude": 112.00057
-    },
-    "properties": {
-      "orgGuid": "26C4DC79-4877-4DB5-AE7A-911CC42160AF",
-      "orgName": "Rantau Pulut - Sambi",
-      "orgType": "GROUP",
-      "address": "Jl. Desa Sambi RT 02\r\nSambi, Arut Utara, Kotawaringin Barat\r\nSAMBI—74152  KALIMANTAN TENGAH\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 6,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "82240187078",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "85DC54EA-F430-48DA-AE0F-758AA8D737C5",
+   "orgName": "Surabaya Juanda",
+   "orgType": "CONG",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Raya Jemursari No. 20\r\nKelurahan Jemur Wonosari Kecamatan Wonocolo\r\nSURABAYA—60237  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "95907E7F-ADEC-4113-AB70-D43EFBD3850E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -2.5394,
-      "longitude": 112.94916
-    },
-    "properties": {
-      "orgGuid": "95907E7F-ADEC-4113-AB70-D43EFBD3850E",
-      "orgName": "Sampit",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. H. M. Arsyad No.3 RT. 19\r\nM.B Halu\r\nSAMPIT—74322  KALIMANTAN TENGAH\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "082165124896",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "18CF3C6F-2B95-436A-B685-F296810002F7",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.326166,
+   "longitude": 112.737333
   },
-  {
-    "geoId": "715B255A-E83F-4764-8D51-EB95E17D57AD",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -3.348435,
-      "longitude": 114.625013
-    },
-    "properties": {
-      "orgGuid": "715B255A-E83F-4764-8D51-EB95E17D57AD",
-      "orgName": "Banjarmasin",
-      "orgType": "CONG",
-      "address": "Jl. Jendral A. Yani Km. 6\r\nBANJARMASIN—70249  KALIMANTAN SELATAN\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081253995590 / 085348262000",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "18CF3C6F-2B95-436A-B685-F296810002F7",
+   "orgName": "Surabaya Wonocolo",
+   "orgType": "CONG",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Raya Jemursari No. 20\r\nKelurahan Jemur Wonosari Kecamatan Wonocolo\r\nSURABAYA—60237  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "085336875941",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "EF23A926-40D9-4FBF-BFF4-1D54F54ED6B1",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -3.436912,
-      "longitude": 114.828695
-    },
-    "properties": {
-      "orgGuid": "EF23A926-40D9-4FBF-BFF4-1D54F54ED6B1",
-      "orgName": "Banjarbaru Selatan",
-      "orgType": "CONG",
-      "address": "Jl. Gotong Royong No. 21\r\nKelurahan Loktabat Selatan\r\nKecamatan Banjarbaru Selatan\r\nBANJARBARU—70712  KALIMANTAN SELATAN\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081349643978",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "FFB2E7AD-FCDD-461F-B3AB-A34E03838D29",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.326166,
+   "longitude": 112.737333
   },
-  {
-    "geoId": "FF438BA1-34CC-4FC0-8AE9-D3B392235737",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -3.437058,
-      "longitude": 114.836896
-    },
-    "properties": {
-      "orgGuid": "FF438BA1-34CC-4FC0-8AE9-D3B392235737",
-      "orgName": "Banjarbaru Utara",
-      "orgType": "CONG",
-      "address": "Jl. Komet Raya Gg. Enam No. 40\r\nBANJARBARU—70711  KALIMANTAN SELATAN\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0813-4854-2099 / Jupri Supriyanto",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "FFB2E7AD-FCDD-461F-B3AB-A34E03838D29",
+   "orgName": "Surabaya Tenggilis",
+   "orgType": "CONG",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Raya Jemursari No. 20\r\nKelurahan Jemur Wonosari Kecamatan Wonocolo\r\nSURABAYA—60237  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "082111048842",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "19D487C1-3EDD-43FC-8CFF-891D2EBF0AA3",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -2.754101,
-      "longitude": 114.273156
-    },
-    "properties": {
-      "orgGuid": "19D487C1-3EDD-43FC-8CFF-891D2EBF0AA3",
-      "orgName": "Pulang Pisau",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Darung Bawan Km. 11.5, RT. 09\r\nKecamatan Kahayan Hilir, Kabupaten Pulang Pisau\r\nPULANG PISAU—74813  KALIMANTAN TENGAH\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "15:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "082195677655",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "2A279CB3-5FC3-4BC5-A573-F5AEAFCE4061",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.326166,
+   "longitude": 112.737333
   },
-  {
-    "geoId": "BDABF3D5-268B-4252-82FE-880290A9CB64",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -2.59556,
-      "longitude": 114.21549
-    },
-    "properties": {
-      "orgGuid": "BDABF3D5-268B-4252-82FE-880290A9CB64",
-      "orgName": "Kuala Kapuas",
-      "orgType": "CONG",
-      "address": "Jl. Kalimantan / Rajawali No. 18C\r\nProvinsi Kalimantan Tengah\r\nKUALA KAPUAS—73513  KALIMANTAN TENGAH\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081349119410",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "2A279CB3-5FC3-4BC5-A573-F5AEAFCE4061",
+   "orgName": "Surabaya Bahasa Isyarat",
+   "orgType": "CONG",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Raya Jemursari No. 20\r\nKelurahan Jemur Wonosari Kecamatan Wonocolo\r\nSURABAYA—60237  JAWA TIMUR\r\n\r\n",
+   "languageCode": "INI",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:15"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081919058001",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "CD4160E8-1127-4FE4-A857-3F608A59F898",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -2.235438,
-      "longitude": 113.919772
-    },
-    "properties": {
-      "orgGuid": "CD4160E8-1127-4FE4-A857-3F608A59F898",
-      "orgName": "Palangka Raya Selatan",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. RTA. Milono KM. 2.5, Kelurahan Langkai\r\nPalangkaraya\r\nPALANGKA RAYA—73111  KALIMANTAN TENGAH\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "08125096146",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "7145F2DE-E195-4222-AA3E-8B740CB6EE2F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.326166,
+   "longitude": 112.737333
   },
-  {
-    "geoId": "05B5D0F4-BF6A-4471-94CA-40B074034E69",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -2.235438,
-      "longitude": 113.919772
-    },
-    "properties": {
-      "orgGuid": "05B5D0F4-BF6A-4471-94CA-40B074034E69",
-      "orgName": "Palangka Raya Utara",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. RTA. Milono KM. 2.5, Kelurahan Langkai\r\nPalangkaraya\r\nPALANGKA RAYA—73111  KALIMANTAN TENGAH\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "085347648887",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "7145F2DE-E195-4222-AA3E-8B740CB6EE2F",
+   "orgName": "Surabaya Rungkut",
+   "orgType": "CONG",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Raya Jemursari No. 20\r\nKelurahan Jemur Wonosari Kecamatan Wonocolo\r\nSURABAYA—60237  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "15:45"
+     },
+     "midweek": {
+      "weekday": 1,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "Harlianto +62818521412",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "85A47CC2-AE9E-4B10-B309-1D5E1AF0A602",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -2.235438,
-      "longitude": 113.919772
-    },
-    "properties": {
-      "orgGuid": "85A47CC2-AE9E-4B10-B309-1D5E1AF0A602",
-      "orgName": "Masaran - Palangka Raya Selatan",
-      "orgType": "GROUP",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. RTA. Milono KM. 2.5, Kelurahan Langkai\r\nPalangkaraya\r\nPALANGKA RAYA—73111  KALIMANTAN TENGAH\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 6,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "08125096146",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "DB0E5788-3979-4AF8-9AF7-A2900C3CCBB0",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.168783,
+   "longitude": 112.588869
   },
-  {
-    "geoId": "F8529F81-10F1-4051-A3A7-E21CD25D5CB4",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -0.937324,
-      "longitude": 114.884793
-    },
-    "properties": {
-      "orgGuid": "F8529F81-10F1-4051-A3A7-E21CD25D5CB4",
-      "orgName": "Muara Teweh",
-      "orgType": "CONG",
-      "address": "Jl. Rapen RT. 25/25\r\n(Samping Depot Air Minum)\r\nMUARA TEWEH—73814  KALIMANTAN TENGAH\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081287630914",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "DB0E5788-3979-4AF8-9AF7-A2900C3CCBB0",
+   "orgName": "Gresik",
+   "orgType": "CONG",
+   "address": "Jl. Dr. Wahidin Sudirohusodo No. 782\r\nKompleks Bunder Square Blok B1-2\r\nGresik - Jawa Timur\r\nGRESIK—61124  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0813-3139-4416",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "68CF6250-637C-418F-82DD-3215A0C9736B",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -0.61967,
-      "longitude": 114.57166
-    },
-    "properties": {
-      "orgGuid": "68CF6250-637C-418F-82DD-3215A0C9736B",
-      "orgName": "Purukcahu Saripoi",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Tomanggung Thuong RT. IV\r\nKelurahan Saripoi, Kotak Pos 12\r\nPURUKCAHU—73911  KALIMANTAN TENGAH\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "14:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081351970871",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "7386FBF5-C9AB-4A41-BB64-ABB9BCA58637",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.290984,
+   "longitude": 112.71859
   },
-  {
-    "geoId": "32B49923-32E6-4750-B5C1-C034EF54ED2A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -5.158075,
-      "longitude": 119.444941
-    },
-    "properties": {
-      "orgGuid": "32B49923-32E6-4750-B5C1-C034EF54ED2A",
-      "orgName": "Makassar Utara",
-      "orgType": "CONG",
-      "address": "LOPI Hotel,\r\nJalan Bougenvile No. 26AB,\r\nMasale, Panakukkang\r\nMAKASSAR—90231  SULAWESI SELATAN\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "PR"
-      ],
-      "phones": [
-        {
-          "phone": "082191174788",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "7386FBF5-C9AB-4A41-BB64-ABB9BCA58637",
+   "orgName": "Surabaya Darmo Satelit",
+   "orgType": "CONG",
+   "address": "Jl. Mayjen Sungkono\r\nKompleks Darmo Park 1 Blok V B No. 1\r\nSURABAYA—60225  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081330267117",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "AE4E0C82-C3B9-4F00-9188-4F7063F64F24",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -5.158075,
-      "longitude": 119.444941
-    },
-    "properties": {
-      "orgGuid": "AE4E0C82-C3B9-4F00-9188-4F7063F64F24",
-      "orgName": "Makassar Tengah",
-      "orgType": "CONG",
-      "address": "LOPI Hotel,\r\nJalan Bougenvile No. 26AB,\r\nMasale, Panakukkang\r\nMAKASSAR—90231  SULAWESI SELATAN\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "18:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "CHM"
-      ],
-      "phones": [
-        {
-          "phone": "081218341771",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "2FABC351-4700-44DD-85C3-5F0DE1815256",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.290984,
+   "longitude": 112.71859
   },
-  {
-    "geoId": "298F2B99-E77E-420A-BF1A-DECFBE833D19",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -5.158075,
-      "longitude": 119.444941
-    },
-    "properties": {
-      "orgGuid": "298F2B99-E77E-420A-BF1A-DECFBE833D19",
-      "orgName": "Makassar Selatan",
-      "orgType": "CONG",
-      "address": "LOPI Hotel,\r\nJalan Bougenvile No. 26AB,\r\nMasale, Panakukkang\r\nMAKASSAR—90231  SULAWESI SELATAN\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+62&nbsp;85255613071",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "2FABC351-4700-44DD-85C3-5F0DE1815256",
+   "orgName": "Surabaya Royal Babatan",
+   "orgType": "CONG",
+   "address": "Jl. Mayjen Sungkono\r\nKompleks Darmo Park 1 Blok V B No. 1\r\nSURABAYA—60225  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "085733363039",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "73668CF0-6D41-4CD2-B7A5-67A374A66D36",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -1.760278,
-      "longitude": 116.073889
-    },
-    "properties": {
-      "orgGuid": "73668CF0-6D41-4CD2-B7A5-67A374A66D36",
-      "orgName": "Modang",
-      "orgType": "CONG",
-      "address": "Jl. Ahmad Yani Gg. Baru No. 69\r\nDesa Kerta Bumi, Tanah Gerogot\r\nKecamatan Kuaro, Kabupaten Paser\r\nMODANG—76281  KALIMANTAN TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "082260460708",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "6F419DC1-476E-44B8-AE9C-698A4823CEA5",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.290984,
+   "longitude": 112.71859
   },
-  {
-    "geoId": "ED9365F8-C5DD-443F-81E3-D13DC9E769C0",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -4.036881,
-      "longitude": 119.628484
-    },
-    "properties": {
-      "orgGuid": "ED9365F8-C5DD-443F-81E3-D13DC9E769C0",
-      "orgName": "Pare-Pare",
-      "orgType": "CONG",
-      "address": "Jl. Sudirman\r\n( Belakang kantor Departemen Agama Parepare )\r\nKelurahan Cappa Galung, Kecamatan Bacukiki Barat\r\nPARE-PARE—91122  SULAWESI SELATAN\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "082324444403",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "6F419DC1-476E-44B8-AE9C-698A4823CEA5",
+   "orgName": "Surabaya Dukuh Kupang",
+   "orgType": "CONG",
+   "address": "Jl. Mayjen Sungkono\r\nKompleks Darmo Park 1 Blok V B No. 1\r\nSURABAYA—60225  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0811148229",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "46B32BE8-74DF-4C4B-A3B9-C8B3A7DCD0FF",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -1.243056,
-      "longitude": 116.856944
-    },
-    "properties": {
-      "orgGuid": "46B32BE8-74DF-4C4B-A3B9-C8B3A7DCD0FF",
-      "orgName": "Balikpapan Barat",
-      "orgType": "CONG",
-      "address": "Komplek Pasar Segar Balikpapan Blok BMB-02\r\nJl. Sungai Ampal No. 90-100\r\nKel. Gunung Samarinda Baru. Kec. Balikpapan Utara\r\nBALIKPAPAN—76128  KALIMANTAN TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+6282288634466",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "F4811A35-9613-4AAF-814E-7CCA50E3E8E1",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.290984,
+   "longitude": 112.71859
   },
-  {
-    "geoId": "940307CC-5A70-40F9-ABF6-7448EBA44E36",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -1.243056,
-      "longitude": 116.856944
-    },
-    "properties": {
-      "orgGuid": "940307CC-5A70-40F9-ABF6-7448EBA44E36",
-      "orgName": "Balikpapan Tengah",
-      "orgType": "CONG",
-      "address": "Komplek Pasar Segar Balikpapan Blok BMB-02\r\nJl. Sungai Ampal No. 90-100\r\nKel. Gunung Samarinda Baru. Kec. Balikpapan Utara\r\nBALIKPAPAN—76128  KALIMANTAN TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "18:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "081332225697",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "F4811A35-9613-4AAF-814E-7CCA50E3E8E1",
+   "orgName": "Surabaya Tandes",
+   "orgType": "CONG",
+   "address": "Jl. Mayjen Sungkono\r\nKompleks Darmo Park 1 Blok V B No. 1\r\nSURABAYA—60225  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:30"
+     },
+     "midweek": {
+      "weekday": 1,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "085102285848",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "D3F2DDA8-8A62-47AD-AAD9-8B1DDECBE67D",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -1.243056,
-      "longitude": 116.856944
-    },
-    "properties": {
-      "orgGuid": "D3F2DDA8-8A62-47AD-AAD9-8B1DDECBE67D",
-      "orgName": "Balikpapan Timur",
-      "orgType": "CONG",
-      "address": "Komplek Pasar Segar Balikpapan Blok BMB-02\r\nJl. Sungai Ampal No. 90-100\r\nKel. Gunung Samarinda Baru. Kec. Balikpapan Utara\r\nBALIKPAPAN—76128  KALIMANTAN TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "INI"
-      ],
-      "phones": [
-        {
-          "phone": "08129045728",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "D01302BE-D938-4BDD-B218-E271A9FBB55D",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.748324,
+   "longitude": 113.220605
   },
-  {
-    "geoId": "1B33A1BD-56E3-4575-A900-2D813B6602EF",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -1.243056,
-      "longitude": 116.856944
-    },
-    "properties": {
-      "orgGuid": "1B33A1BD-56E3-4575-A900-2D813B6602EF",
-      "orgName": "Balikpapan Penajam - Balikpapan Barat",
-      "orgType": "GROUP",
-      "address": "Komplek Pasar Segar Balikpapan Blok BMB-02\r\nJl. Sungai Ampal No. 90-100\r\nKel. Gunung Samarinda Baru. Kec. Balikpapan Utara\r\nBALIKPAPAN—76128  KALIMANTAN TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+6282288634466",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "D01302BE-D938-4BDD-B218-E271A9FBB55D",
+   "orgName": "Probolinggo",
+   "orgType": "CONG",
+   "address": "Jl. Imam Bonjol, Ruko Blok A,\r\nKelurahan Mangunharjo, Kecamatan Mayangan\r\nPROBOLINGGO—67217  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "085230730321",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "55E39F79-46FB-43FE-BACC-5BF42547FA35",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -1.243056,
-      "longitude": 116.856944
-    },
-    "properties": {
-      "orgGuid": "55E39F79-46FB-43FE-BACC-5BF42547FA35",
-      "orgName": "Balikpapan Bahasa Isyarat - Balikpapan Timur",
-      "orgType": "GROUP",
-      "address": "Komplek Pasar Segar Balikpapan Blok BMB-02\r\nJl. Sungai Ampal No. 90-100\r\nKel. Gunung Samarinda Baru. Kec. Balikpapan Utara\r\nBALIKPAPAN—76128  KALIMANTAN TIMUR\r\n\r\n",
-      "languageCode": "INI",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "14:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "IN"
-      ],
-      "phones": [
-        {
-          "phone": "08129045728",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "D072840B-B237-447F-9C95-44E70F2A0681",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.255114,
+   "longitude": 112.741109
   },
-  {
-    "geoId": "6704A944-6835-490E-9998-A09123BED7BB",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -2.945436,
-      "longitude": 119.376847
-    },
-    "properties": {
-      "orgGuid": "6704A944-6835-490E-9998-A09123BED7BB",
-      "orgName": "Mamasa",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Buntu Kaaisi, Kampung Banggo\r\nKabupaten Mamasa, Kecamatan Mamasa\r\nMAMASA—91362  SULAWESI BARAT\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "085299991914",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "D072840B-B237-447F-9C95-44E70F2A0681",
+   "orgName": "Surabaya Darmo",
+   "orgType": "CONG",
+   "address": "Ruko Grand Ahmad Jais Blok B 5-6\r\nJl. Ahmad Jais No.34 RT.009\r\nKel. Peneleh, Kec. Genteng,\r\nSURABAYA—60274  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "085102248068",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "1861CF69-0900-43BC-B335-BF875A6D2C65",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -2.945436,
-      "longitude": 119.376847
-    },
-    "properties": {
-      "orgGuid": "1861CF69-0900-43BC-B335-BF875A6D2C65",
-      "orgName": "Mamuju - Mamasa",
-      "orgType": "GROUP",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Buntu Kaaisi, Kampung Banggo\r\nKabupaten Mamasa, Kecamatan Mamasa\r\nMAMASA—91362  SULAWESI BARAT\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "085299991914",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "E41123C4-84CD-4CBD-9010-1FA405E8FED5",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.255114,
+   "longitude": 112.741109
   },
-  {
-    "geoId": "808BD731-BB25-4F6E-9CF2-D7F45EC44860",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -0.47526,
-      "longitude": 117.1549
-    },
-    "properties": {
-      "orgGuid": "808BD731-BB25-4F6E-9CF2-D7F45EC44860",
-      "orgName": "Samarinda Timur",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Belatuk RT 18 No. 3\r\nKelurahan Temindung Permai\r\nSAMARINDA—75117  KALIMANTAN TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0811551287",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "E41123C4-84CD-4CBD-9010-1FA405E8FED5",
+   "orgName": "Surabaya Bahasa Jawa",
+   "orgType": "CONG",
+   "address": "Ruko Grand Ahmad Jais Blok B 5-6\r\nJl. Ahmad Jais No.34 RT.009\r\nKel. Peneleh, Kec. Genteng,\r\nSURABAYA—60274  JAWA TIMUR\r\n\r\n",
+   "languageCode": "JA",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "085244881919",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "4E537326-9ECE-411D-9240-F6A1D834048A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -0.47526,
-      "longitude": 117.1549
-    },
-    "properties": {
-      "orgGuid": "4E537326-9ECE-411D-9240-F6A1D834048A",
-      "orgName": "Samarinda Barat",
-      "orgType": "CONG",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Belatuk RT 18 No. 3\r\nKelurahan Temindung Permai\r\nSAMARINDA—75117  KALIMANTAN TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+62 813-4759-4995          +62 813-4620-2978",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "0186B492-BB20-4EF4-88C9-B195B9E5DBA3",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.255114,
+   "longitude": 112.741109
   },
-  {
-    "geoId": "B852365B-EEA0-40F8-9B66-1963486483BB",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -0.47526,
-      "longitude": 117.1549
-    },
-    "properties": {
-      "orgGuid": "B852365B-EEA0-40F8-9B66-1963486483BB",
-      "orgName": "Samarinda Muara Badak - Samarinda Timur",
-      "orgType": "GROUP",
-      "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Belatuk RT 18 No. 3\r\nKelurahan Temindung Permai\r\nSAMARINDA—75117  KALIMANTAN TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0811551287",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "0186B492-BB20-4EF4-88C9-B195B9E5DBA3",
+   "orgName": "Surabaya Undaan",
+   "orgType": "CONG",
+   "address": "Ruko Grand Ahmad Jais Blok B 5-6\r\nJl. Ahmad Jais No.34 RT.009\r\nKel. Peneleh, Kec. Genteng,\r\nSURABAYA—60274  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081332109811",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "2888FEF6-C86F-4605-88B4-BB85BB634D69",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -3.076009,
-      "longitude": 119.914201
-    },
-    "properties": {
-      "orgGuid": "2888FEF6-C86F-4605-88B4-BB85BB634D69",
-      "orgName": "Makale",
-      "orgType": "CONG",
-      "address": "Jl. Gualibasi No. 29 Kaloko, Desa Salualo\r\nKec. Sangalla Utara\r\nTana Toraja\r\nTANA TORAJA—91811  SULAWESI SELATAN\r\nTana Toraja\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "15:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+62&nbsp;082292296968",
-          "ext": ""
-        },
-        {
-          "phone": "+62&nbsp;081268442032",
-          "ext": ""
-        },
-        {
-          "phone": "081276829017",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "7350B458-61DE-492F-BE90-D271B3300166",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.25122,
+   "longitude": 112.7831
   },
-  {
-    "geoId": "B8BF5213-4626-4A72-AEC7-DAF924277111",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -2.988404,
-      "longitude": 119.887282
-    },
-    "properties": {
-      "orgGuid": "B8BF5213-4626-4A72-AEC7-DAF924277111",
-      "orgName": "Rantepao",
-      "orgType": "CONG",
-      "address": "Jl. Eran Batu no. 3\r\nRANTEPAO—91835  SULAWESI SELATAN\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "15:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "085240391859",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "7350B458-61DE-492F-BE90-D271B3300166",
+   "orgName": "Surabaya Sukolilo",
+   "orgType": "CONG",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Kalijudan Madya II No. 9\r\nKalijudan, Mulyorejo\r\nSURABAYA—60133  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081230448880 &amp; 08123266019",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "F05C2546-261D-434B-8452-F448ABDFFEE0",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -0.925018,
-      "longitude": 119.880521
-    },
-    "properties": {
-      "orgGuid": "F05C2546-261D-434B-8452-F448ABDFFEE0",
-      "orgName": "Palu",
-      "orgType": "CONG",
-      "address": "Jl. Towua Komp. Pertokoan Graha Towua Blok B No.9\r\nKelurahan Tatura Utara Kecamatan Palu Selatan\r\nPALU—  SULAWESI TENGAH\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "INI"
-      ],
-      "phones": [
-        {
-          "phone": "081349710930 -085395383530",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "0F008F70-926D-4FAC-ABDB-B7457DA201AE",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -7.25122,
+   "longitude": 112.7831
   },
-  {
-    "geoId": "E8CAFD6F-DFD2-4610-8A77-F7CFF428A725",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -0.925018,
-      "longitude": 119.880521
+  "properties": {
+   "orgGuid": "0F008F70-926D-4FAC-ABDB-B7457DA201AE",
+   "orgName": "Surabaya Kenjeran",
+   "orgType": "CONG",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Kalijudan Madya II No. 9\r\nKalijudan, Mulyorejo\r\nSURABAYA—60133  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "085231299990",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "9655FD9B-6D34-48E0-B07B-1EE59554B1E5",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -1.99126,
+   "longitude": 112.00057
+  },
+  "properties": {
+   "orgGuid": "9655FD9B-6D34-48E0-B07B-1EE59554B1E5",
+   "orgName": "Sambi",
+   "orgType": "CONG",
+   "address": "Jl. Desa Sambi RT 02\r\nSambi, Arut Utara, Kotawaringin Barat\r\nSAMBI—74152  KALIMANTAN TENGAH\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "18:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "82240187078",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "26C4DC79-4877-4DB5-AE7A-911CC42160AF",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -1.99126,
+   "longitude": 112.00057
+  },
+  "properties": {
+   "orgGuid": "26C4DC79-4877-4DB5-AE7A-911CC42160AF",
+   "orgName": "Rantau Pulut - Sambi",
+   "orgType": "GROUP",
+   "address": "Jl. Desa Sambi RT 02\r\nSambi, Arut Utara, Kotawaringin Barat\r\nSAMBI—74152  KALIMANTAN TENGAH\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 6,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "82240187078",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "95907E7F-ADEC-4113-AB70-D43EFBD3850E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -2.5394,
+   "longitude": 112.94916
+  },
+  "properties": {
+   "orgGuid": "95907E7F-ADEC-4113-AB70-D43EFBD3850E",
+   "orgName": "Sampit",
+   "orgType": "CONG",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. H. M. Arsyad No.3 RT. 19\r\nM.B Halu\r\nSAMPIT—74322  KALIMANTAN TENGAH\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "082165124896",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "715B255A-E83F-4764-8D51-EB95E17D57AD",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -3.348435,
+   "longitude": 114.625013
+  },
+  "properties": {
+   "orgGuid": "715B255A-E83F-4764-8D51-EB95E17D57AD",
+   "orgName": "Banjarmasin",
+   "orgType": "CONG",
+   "address": "Jl. Jendral A. Yani Km. 6\r\nBANJARMASIN—70249  KALIMANTAN SELATAN\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081253995590 / 085348262000",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "BDABF3D5-268B-4252-82FE-880290A9CB64",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -3.013759,
+   "longitude": 114.377188
+  },
+  "properties": {
+   "orgGuid": "BDABF3D5-268B-4252-82FE-880290A9CB64",
+   "orgName": "Kuala Kapuas",
+   "orgType": "CONG",
+   "address": "Jl. Kalimantan / Rajawali No. 18C\r\nProvinsi Kalimantan Tengah\r\nKUALA KAPUAS—73513  KALIMANTAN TENGAH\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081349119410",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "EF23A926-40D9-4FBF-BFF4-1D54F54ED6B1",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -3.436912,
+   "longitude": 114.828695
+  },
+  "properties": {
+   "orgGuid": "EF23A926-40D9-4FBF-BFF4-1D54F54ED6B1",
+   "orgName": "Banjarbaru Selatan",
+   "orgType": "CONG",
+   "address": "Jl. Gotong Royong No. 21\r\nKelurahan Loktabat Selatan\r\nKecamatan Banjarbaru Selatan\r\nBANJARBARU—70712  KALIMANTAN SELATAN\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081349643978",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "FF438BA1-34CC-4FC0-8AE9-D3B392235737",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -3.437058,
+   "longitude": 114.836896
+  },
+  "properties": {
+   "orgGuid": "FF438BA1-34CC-4FC0-8AE9-D3B392235737",
+   "orgName": "Banjarbaru Utara",
+   "orgType": "CONG",
+   "address": "Jl. Komet Raya Gg. Enam No. 40\r\nBANJARBARU—70711  KALIMANTAN SELATAN\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0813-4854-2099 / Jupri Supriyanto",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "19D487C1-3EDD-43FC-8CFF-891D2EBF0AA3",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -2.754101,
+   "longitude": 114.273156
+  },
+  "properties": {
+   "orgGuid": "19D487C1-3EDD-43FC-8CFF-891D2EBF0AA3",
+   "orgName": "Pulang Pisau",
+   "orgType": "CONG",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Darung Bawan Km. 11.5, RT. 09\r\nKecamatan Kahayan Hilir, Kabupaten Pulang Pisau\r\nPULANG PISAU—74813  KALIMANTAN TENGAH\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "15:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "082195677655",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "CD4160E8-1127-4FE4-A857-3F608A59F898",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -2.235438,
+   "longitude": 113.919772
+  },
+  "properties": {
+   "orgGuid": "CD4160E8-1127-4FE4-A857-3F608A59F898",
+   "orgName": "Palangka Raya Selatan",
+   "orgType": "CONG",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. RTA. Milono KM. 2.5, Kelurahan Langkai\r\nPalangkaraya\r\nPALANGKA RAYA—73111  KALIMANTAN TENGAH\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "08125096146",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "05B5D0F4-BF6A-4471-94CA-40B074034E69",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -2.235438,
+   "longitude": 113.919772
+  },
+  "properties": {
+   "orgGuid": "05B5D0F4-BF6A-4471-94CA-40B074034E69",
+   "orgName": "Palangka Raya Utara",
+   "orgType": "CONG",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. RTA. Milono KM. 2.5, Kelurahan Langkai\r\nPalangkaraya\r\nPALANGKA RAYA—73111  KALIMANTAN TENGAH\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "085347648887",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "85A47CC2-AE9E-4B10-B309-1D5E1AF0A602",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -2.235438,
+   "longitude": 113.919772
+  },
+  "properties": {
+   "orgGuid": "85A47CC2-AE9E-4B10-B309-1D5E1AF0A602",
+   "orgName": "Masaran - Palangka Raya Selatan",
+   "orgType": "GROUP",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. RTA. Milono KM. 2.5, Kelurahan Langkai\r\nPalangkaraya\r\nPALANGKA RAYA—73111  KALIMANTAN TENGAH\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 6,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "08125096146",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "F8529F81-10F1-4051-A3A7-E21CD25D5CB4",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -0.937324,
+   "longitude": 114.884793
+  },
+  "properties": {
+   "orgGuid": "F8529F81-10F1-4051-A3A7-E21CD25D5CB4",
+   "orgName": "Muara Teweh",
+   "orgType": "CONG",
+   "address": "Jl. Rapen RT. 25/25\r\n(Samping Depot Air Minum)\r\nMUARA TEWEH—73814  KALIMANTAN TENGAH\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081287630914",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "68CF6250-637C-418F-82DD-3215A0C9736B",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -0.61967,
+   "longitude": 114.57166
+  },
+  "properties": {
+   "orgGuid": "68CF6250-637C-418F-82DD-3215A0C9736B",
+   "orgName": "Purukcahu Saripoi",
+   "orgType": "CONG",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Tomanggung Thuong RT. IV\r\nKelurahan Saripoi, Kotak Pos 12\r\nPURUKCAHU—73911  KALIMANTAN TENGAH\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "14:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081351970871",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "32B49923-32E6-4750-B5C1-C034EF54ED2A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -5.158075,
+   "longitude": 119.444941
+  },
+  "properties": {
+   "orgGuid": "32B49923-32E6-4750-B5C1-C034EF54ED2A",
+   "orgName": "Makassar Utara",
+   "orgType": "CONG",
+   "address": "LOPI Hotel,\r\nJalan Bougenvile No. 26AB,\r\nMasale, Panakukkang\r\nMAKASSAR—90231  SULAWESI SELATAN\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "PR"
+   ],
+   "phones": [
+    {
+     "phone": "082191174788",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "AE4E0C82-C3B9-4F00-9188-4F7063F64F24",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -5.158075,
+   "longitude": 119.444941
+  },
+  "properties": {
+   "orgGuid": "AE4E0C82-C3B9-4F00-9188-4F7063F64F24",
+   "orgName": "Makassar Tengah",
+   "orgType": "CONG",
+   "address": "LOPI Hotel,\r\nJalan Bougenvile No. 26AB,\r\nMasale, Panakukkang\r\nMAKASSAR—90231  SULAWESI SELATAN\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "CHM"
+   ],
+   "phones": [
+    {
+     "phone": "081218341771",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "298F2B99-E77E-420A-BF1A-DECFBE833D19",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -5.158075,
+   "longitude": 119.444941
+  },
+  "properties": {
+   "orgGuid": "298F2B99-E77E-420A-BF1A-DECFBE833D19",
+   "orgName": "Makassar Selatan",
+   "orgType": "CONG",
+   "address": "LOPI Hotel,\r\nJalan Bougenvile No. 26AB,\r\nMasale, Panakukkang\r\nMAKASSAR—90231  SULAWESI SELATAN\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+62&nbsp;85255613071",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "73668CF0-6D41-4CD2-B7A5-67A374A66D36",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -1.760278,
+   "longitude": 116.073889
+  },
+  "properties": {
+   "orgGuid": "73668CF0-6D41-4CD2-B7A5-67A374A66D36",
+   "orgName": "Modang",
+   "orgType": "CONG",
+   "address": "Jl. Ahmad Yani Gg. Baru No. 69\r\nDesa Kerta Bumi, Tanah Gerogot\r\nKecamatan Kuaro, Kabupaten Paser\r\nMODANG—76281  KALIMANTAN TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "082260460708",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "ED9365F8-C5DD-443F-81E3-D13DC9E769C0",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -4.036881,
+   "longitude": 119.628484
+  },
+  "properties": {
+   "orgGuid": "ED9365F8-C5DD-443F-81E3-D13DC9E769C0",
+   "orgName": "Pare-Pare",
+   "orgType": "CONG",
+   "address": "Jl. Sudirman\r\n( Belakang kantor Departemen Agama Parepare )\r\nKelurahan Cappa Galung, Kecamatan Bacukiki Barat\r\nPARE-PARE—91122  SULAWESI SELATAN\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0823-2444-4403",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "46B32BE8-74DF-4C4B-A3B9-C8B3A7DCD0FF",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -1.243056,
+   "longitude": 116.856944
+  },
+  "properties": {
+   "orgGuid": "46B32BE8-74DF-4C4B-A3B9-C8B3A7DCD0FF",
+   "orgName": "Balikpapan Barat",
+   "orgType": "CONG",
+   "address": "Komplek Pasar Segar Balikpapan Blok BMB-02\r\nJl. Sungai Ampal No. 90-100\r\nKel. Gunung Samarinda Baru. Kec. Balikpapan Utara\r\nBALIKPAPAN—76128  KALIMANTAN TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+6282288634466",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "940307CC-5A70-40F9-ABF6-7448EBA44E36",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -1.243056,
+   "longitude": 116.856944
+  },
+  "properties": {
+   "orgGuid": "940307CC-5A70-40F9-ABF6-7448EBA44E36",
+   "orgName": "Balikpapan Tengah",
+   "orgType": "CONG",
+   "address": "Komplek Pasar Segar Balikpapan Blok BMB-02\r\nJl. Sungai Ampal No. 90-100\r\nKel. Gunung Samarinda Baru. Kec. Balikpapan Utara\r\nBALIKPAPAN—76128  KALIMANTAN TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "081332225697",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "D3F2DDA8-8A62-47AD-AAD9-8B1DDECBE67D",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -1.243056,
+   "longitude": 116.856944
+  },
+  "properties": {
+   "orgGuid": "D3F2DDA8-8A62-47AD-AAD9-8B1DDECBE67D",
+   "orgName": "Balikpapan Timur",
+   "orgType": "CONG",
+   "address": "Komplek Pasar Segar Balikpapan Blok BMB-02\r\nJl. Sungai Ampal No. 90-100\r\nKel. Gunung Samarinda Baru. Kec. Balikpapan Utara\r\nBALIKPAPAN—76128  KALIMANTAN TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "INI"
+   ],
+   "phones": [
+    {
+     "phone": "08129045728",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "1B33A1BD-56E3-4575-A900-2D813B6602EF",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -1.243056,
+   "longitude": 116.856944
+  },
+  "properties": {
+   "orgGuid": "1B33A1BD-56E3-4575-A900-2D813B6602EF",
+   "orgName": "Balikpapan Penajam - Balikpapan Barat",
+   "orgType": "GROUP",
+   "address": "Komplek Pasar Segar Balikpapan Blok BMB-02\r\nJl. Sungai Ampal No. 90-100\r\nKel. Gunung Samarinda Baru. Kec. Balikpapan Utara\r\nBALIKPAPAN—76128  KALIMANTAN TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+6282288634466",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "55E39F79-46FB-43FE-BACC-5BF42547FA35",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -1.243056,
+   "longitude": 116.856944
+  },
+  "properties": {
+   "orgGuid": "55E39F79-46FB-43FE-BACC-5BF42547FA35",
+   "orgName": "Balikpapan Bahasa Isyarat - Balikpapan Timur",
+   "orgType": "GROUP",
+   "address": "Komplek Pasar Segar Balikpapan Blok BMB-02\r\nJl. Sungai Ampal No. 90-100\r\nKel. Gunung Samarinda Baru. Kec. Balikpapan Utara\r\nBALIKPAPAN—76128  KALIMANTAN TIMUR\r\n\r\n",
+   "languageCode": "INI",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "18:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "18:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "IN"
+   ],
+   "phones": [
+    {
+     "phone": "08129045728",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "6704A944-6835-490E-9998-A09123BED7BB",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -2.945436,
+   "longitude": 119.376847
+  },
+  "properties": {
+   "orgGuid": "6704A944-6835-490E-9998-A09123BED7BB",
+   "orgName": "Mamasa",
+   "orgType": "CONG",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Buntu Kaaisi, Kampung Banggo\r\nKabupaten Mamasa, Kecamatan Mamasa\r\nMAMASA—91362  SULAWESI BARAT\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "085299991914",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "1861CF69-0900-43BC-B335-BF875A6D2C65",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -2.945436,
+   "longitude": 119.376847
+  },
+  "properties": {
+   "orgGuid": "1861CF69-0900-43BC-B335-BF875A6D2C65",
+   "orgName": "Mamuju - Mamasa",
+   "orgType": "GROUP",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Buntu Kaaisi, Kampung Banggo\r\nKabupaten Mamasa, Kecamatan Mamasa\r\nMAMASA—91362  SULAWESI BARAT\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "085299991914",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "808BD731-BB25-4F6E-9CF2-D7F45EC44860",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -0.47526,
+   "longitude": 117.1549
+  },
+  "properties": {
+   "orgGuid": "808BD731-BB25-4F6E-9CF2-D7F45EC44860",
+   "orgName": "Samarinda Timur",
+   "orgType": "CONG",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Belatuk RT 18 No. 3\r\nKelurahan Temindung Permai\r\nSAMARINDA—75117  KALIMANTAN TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0811551287",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "4E537326-9ECE-411D-9240-F6A1D834048A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -0.47526,
+   "longitude": 117.1549
+  },
+  "properties": {
+   "orgGuid": "4E537326-9ECE-411D-9240-F6A1D834048A",
+   "orgName": "Samarinda Barat",
+   "orgType": "CONG",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Belatuk RT 18 No. 3\r\nKelurahan Temindung Permai\r\nSAMARINDA—75117  KALIMANTAN TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "16:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+62 813-4759-4995          +62 813-4620-2978",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "B852365B-EEA0-40F8-9B66-1963486483BB",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -0.47526,
+   "longitude": 117.1549
+  },
+  "properties": {
+   "orgGuid": "B852365B-EEA0-40F8-9B66-1963486483BB",
+   "orgName": "Samarinda Muara Badak - Samarinda Timur",
+   "orgType": "GROUP",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Belatuk RT 18 No. 3\r\nKelurahan Temindung Permai\r\nSAMARINDA—75117  KALIMANTAN TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "16:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0811551287",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "2888FEF6-C86F-4605-88B4-BB85BB634D69",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -3.076009,
+   "longitude": 119.914201
+  },
+  "properties": {
+   "orgGuid": "2888FEF6-C86F-4605-88B4-BB85BB634D69",
+   "orgName": "Makale",
+   "orgType": "CONG",
+   "address": "Jl. Gualibasi No. 29 Kaloko, Desa Salualo\r\nKec. Sangalla Utara\r\nTana Toraja\r\nTANA TORAJA—91811  SULAWESI SELATAN\r\nTana Toraja\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+62&nbsp;082292296968",
+     "ext": ""
     },
-    "properties": {
-      "orgGuid": "E8CAFD6F-DFD2-4610-8A77-F7CFF428A725",
-      "orgName": "Palu Bahasa Isyarat - Palu",
-      "orgType": "GROUP",
-      "address": "Jl. Towua Komp. Pertokoan Graha Towua Blok B No.9\r\nKelurahan Tatura Utara Kecamatan Palu Selatan\r\nPALU—  SULAWESI TENGAH\r\n\r\n",
-      "languageCode": "INI",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "IN"
-      ],
-      "phones": [
-        {
-          "phone": "081349710930 -085395383530",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
+    {
+     "phone": "+62&nbsp;081268442032",
+     "ext": ""
     },
-    "active": true,
-    "firstSeen": "2022-12-04T03:24:55.715Z"
-  }
+    {
+     "phone": "081276829017",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "B8BF5213-4626-4A72-AEC7-DAF924277111",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -2.988404,
+   "longitude": 119.887282
+  },
+  "properties": {
+   "orgGuid": "B8BF5213-4626-4A72-AEC7-DAF924277111",
+   "orgName": "Rantepao",
+   "orgType": "CONG",
+   "address": "Jl. Eran Batu no. 3\r\nRANTEPAO—91835  SULAWESI SELATAN\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "085240391859",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "F05C2546-261D-434B-8452-F448ABDFFEE0",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -0.925018,
+   "longitude": 119.880521
+  },
+  "properties": {
+   "orgGuid": "F05C2546-261D-434B-8452-F448ABDFFEE0",
+   "orgName": "Palu",
+   "orgType": "CONG",
+   "address": "Jl. Towua Komp. Pertokoan Graha Towua Blok B No.9\r\nKelurahan Tatura Utara Kecamatan Palu Selatan\r\nPALU—  SULAWESI TENGAH\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "INI"
+   ],
+   "phones": [
+    {
+     "phone": "081349710930 -085395383530",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ },
+ {
+  "geoId": "E8CAFD6F-DFD2-4610-8A77-F7CFF428A725",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -0.925018,
+   "longitude": 119.880521
+  },
+  "properties": {
+   "orgGuid": "E8CAFD6F-DFD2-4610-8A77-F7CFF428A725",
+   "orgName": "Palu Bahasa Isyarat - Palu",
+   "orgType": "GROUP",
+   "address": "Jl. Towua Komp. Pertokoan Graha Towua Blok B No.9\r\nKelurahan Tatura Utara Kecamatan Palu Selatan\r\nPALU—  SULAWESI TENGAH\r\n\r\n",
+   "languageCode": "INI",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "IN"
+   ],
+   "phones": [
+    {
+     "phone": "081349710930 -085395383530",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T03:24:55.715Z"
+ }
 ]

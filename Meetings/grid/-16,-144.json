@@ -1,188 +1,193 @@
 [
-  {
-    "geoId": "16FB1A9A-0722-4B6B-B004-E3464A7EA4D0",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -9.36198,
-      "longitude": -140.05434
-    },
-    "properties": {
-      "orgGuid": "16FB1A9A-0722-4B6B-B004-E3464A7EA4D0",
-      "orgName": "Ua Pou",
-      "orgType": "CONG",
-      "address": "Quartier Kuatemumu\n98745 UA POU\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "87 29 75 56",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "16FB1A9A-0722-4B6B-B004-E3464A7EA4D0",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -9.36198,
+   "longitude": -140.05434
   },
-  {
-    "geoId": "28EF5B55-0AC7-4C64-9481-EC0AD5A67F10",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -8.914107,
-      "longitude": -140.092534
-    },
-    "properties": {
-      "orgGuid": "28EF5B55-0AC7-4C64-9481-EC0AD5A67F10",
-      "orgName": "Nuku Hiva",
-      "orgType": "CONG",
-      "address": "Quartier Administratif Hakapehi\r\n98742 TAIOHAE\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "17:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "MQN"
-      ],
-      "phones": [
-        {
-          "phone": "40920014",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "16FB1A9A-0722-4B6B-B004-E3464A7EA4D0",
+   "orgName": "Ua Pou",
+   "orgType": "CONG",
+   "address": "Quartier Kuatemumu\n98745 UA POU\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "87 29 75 56",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "C42349AA-280E-4BED-AB42-C1475420E827",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -8.914107,
-      "longitude": -140.092534
-    },
-    "properties": {
-      "orgGuid": "C42349AA-280E-4BED-AB42-C1475420E827",
-      "orgName": "Nuku Hiva (P-Gp Marquisien Nuku Hiva) - Nuku Hiva",
-      "orgType": "GROUP",
-      "address": "Quartier Administratif Hakapehi\r\n98742 TAIOHAE\r\n",
-      "languageCode": "MQN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "15:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "17:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "F"
-      ],
-      "phones": [
-        {
-          "phone": "40920014",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "28EF5B55-0AC7-4C64-9481-EC0AD5A67F10",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -8.914107,
+   "longitude": -140.092534
   },
-  {
-    "geoId": "71586F04-2407-433E-ADF4-7DDC5F07AD19",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -9.801472,
-      "longitude": -139.037554
-    },
-    "properties": {
-      "orgGuid": "71586F04-2407-433E-ADF4-7DDC5F07AD19",
-      "orgName": "Hiva Oa",
-      "orgType": "CONG",
-      "address": "Lotissement Kohetaa village\r\n98741 HIVA OA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "15:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "40.92.72.07",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "28EF5B55-0AC7-4C64-9481-EC0AD5A67F10",
+   "orgName": "Nuku Hiva",
+   "orgType": "CONG",
+   "address": "Quartier Administratif Hakapehi\r\n98742 TAIOHAE\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "17:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "MQN"
+   ],
+   "phones": [
+    {
+     "phone": "40920014",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "F3E6A916-F831-4B71-8E62-6A8E4190FAC0",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -8.920771,
-      "longitude": -139.559142
-    },
-    "properties": {
-      "orgGuid": "F3E6A916-F831-4B71-8E62-6A8E4190FAC0",
-      "orgName": "Ua Huka",
-      "orgType": "CONG",
-      "address": "98744 UA HUKA\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "C42349AA-280E-4BED-AB42-C1475420E827",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -8.914107,
+   "longitude": -140.092534
+  },
+  "properties": {
+   "orgGuid": "C42349AA-280E-4BED-AB42-C1475420E827",
+   "orgName": "Nuku Hiva (P-Gp Marquisien Nuku Hiva) - Nuku Hiva",
+   "orgType": "GROUP",
+   "address": "Quartier Administratif Hakapehi\r\n98742 TAIOHAE\r\n",
+   "languageCode": "MQN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "17:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "F"
+   ],
+   "phones": [
+    {
+     "phone": "40920014",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "71586F04-2407-433E-ADF4-7DDC5F07AD19",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -9.801472,
+   "longitude": -139.037554
+  },
+  "properties": {
+   "orgGuid": "71586F04-2407-433E-ADF4-7DDC5F07AD19",
+   "orgName": "Hiva Oa",
+   "orgType": "CONG",
+   "address": "Lotissement Kohetaa village\r\n98741 HIVA OA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "40.92.72.07",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "F3E6A916-F831-4B71-8E62-6A8E4190FAC0",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -8.920771,
+   "longitude": -139.559142
+  },
+  "properties": {
+   "orgGuid": "F3E6A916-F831-4B71-8E62-6A8E4190FAC0",
+   "orgName": "Ua Huka",
+   "orgType": "CONG",
+   "address": "98744 UA HUKA\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "16:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

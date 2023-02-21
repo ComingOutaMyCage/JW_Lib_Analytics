@@ -1,39 +1,40 @@
 [
-  {
-    "geoId": "A2F6C581-728F-423B-881C-200F5AB277ED",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -8.048323,
-      "longitude": 111.940589
-    },
-    "properties": {
-      "orgGuid": "A2F6C581-728F-423B-881C-200F5AB277ED",
-      "orgName": "Tulungagung",
-      "orgType": "CONG",
-      "address": "Dusun Krajan Desa Bangoan Kecamatan Kedungwaru\r\nTulungagung - Jawa Timur 66224\r\nTULUNGAGUNG—66224  JAWA TIMUR\r\n\r\n",
-      "languageCode": "IN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0895351540114,  082141419064",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+ {
+  "geoId": "A2F6C581-728F-423B-881C-200F5AB277ED",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -8.048323,
+   "longitude": 111.940589
+  },
+  "properties": {
+   "orgGuid": "A2F6C581-728F-423B-881C-200F5AB277ED",
+   "orgName": "Tulungagung",
+   "orgType": "CONG",
+   "address": "Dusun Krajan Desa Bangoan Kecamatan Kedungwaru\r\nTulungagung - Jawa Timur 66224\r\nTULUNGAGUNG—66224  JAWA TIMUR\r\n\r\n",
+   "languageCode": "IN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0895800017722,  082141419064",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

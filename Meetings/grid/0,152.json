@@ -1,39 +1,40 @@
 [
-  {
-    "geoId": "A9D0CA11-32AE-4FC4-AA7C-14E08C015F31",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 6.96635,
-      "longitude": 158.207181
-    },
-    "properties": {
-      "orgGuid": "A9D0CA11-32AE-4FC4-AA7C-14E08C015F31",
-      "orgName": "Pohnpei Congregation",
-      "orgType": "CONG",
-      "address": "KOLONIA\r\nPOHNPEI FM 96941\r\n",
-      "languageCode": "PP",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "691-320-2426",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+ {
+  "geoId": "A9D0CA11-32AE-4FC4-AA7C-14E08C015F31",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 6.96635,
+   "longitude": 158.207181
+  },
+  "properties": {
+   "orgGuid": "A9D0CA11-32AE-4FC4-AA7C-14E08C015F31",
+   "orgName": "Pohnpei Congregation",
+   "orgType": "CONG",
+   "address": "KOLONIA\r\nPOHNPEI FM 96941\r\n",
+   "languageCode": "PP",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "691-320-2426",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

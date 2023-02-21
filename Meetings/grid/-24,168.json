@@ -1,379 +1,384 @@
 [
-  {
-    "geoId": "0F68BE58-16CB-4519-AD4F-D046D85B72D8",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -21.46256,
-      "longitude": 168.07562
-    },
-    "properties": {
-      "orgGuid": "0F68BE58-16CB-4519-AD4F-D046D85B72D8",
-      "orgName": "MARÉ",
-      "orgType": "CONG",
-      "address": "Tribu de Wakone\n98878 LA ROCHE\n",
-      "languageCode": "RE",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "739409",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "0F68BE58-16CB-4519-AD4F-D046D85B72D8",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -21.46256,
+   "longitude": 168.07562
   },
-  {
-    "geoId": "DF76DD4D-E34D-4E73-AD3B-9E0FFA042412",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -19.508784,
-      "longitude": 169.292227
-    },
-    "properties": {
-      "orgGuid": "DF76DD4D-E34D-4E73-AD3B-9E0FFA042412",
-      "orgName": "TANNA - TAFEA",
-      "orgType": "CONG",
-      "address": "Louprisin\nTanna\n\n",
-      "languageCode": "LM",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "7607090 / 5353502",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "0F68BE58-16CB-4519-AD4F-D046D85B72D8",
+   "orgName": "MARÉ",
+   "orgType": "CONG",
+   "address": "Tribu de Wakone\n98878 LA ROCHE\n",
+   "languageCode": "RE",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "BBDBE366-8212-4148-8C6C-46F43DB33B51",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.770232,
-      "longitude": 168.317975
-    },
-    "properties": {
-      "orgGuid": "BBDBE366-8212-4148-8C6C-46F43DB33B51",
-      "orgName": "ERAKOR Bislama - PORT-VILA EFATE SHEFA",
-      "orgType": "CONG",
-      "address": "Erakor Haos Kingdom\r\nEfate Island\r\n\r\n",
-      "languageCode": "LM",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+6785545561 | +6787792287",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "DF76DD4D-E34D-4E73-AD3B-9E0FFA042412",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -19.508784,
+   "longitude": 169.292227
   },
-  {
-    "geoId": "7F94D2EF-1E17-4A34-BB3B-EB03900AB0AB",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.770232,
-      "longitude": 168.317975
-    },
-    "properties": {
-      "orgGuid": "7F94D2EF-1E17-4A34-BB3B-EB03900AB0AB",
-      "orgName": "ANEITYUM - ERAKOR Bislama - PORT-VILA EFATE SHEFA",
-      "orgType": "GROUP",
-      "address": "Erakor Haos Kingdom\r\nEfate Island\r\n\r\n",
-      "languageCode": "LM",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+6785545561 | +6787792287",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "DF76DD4D-E34D-4E73-AD3B-9E0FFA042412",
+   "orgName": "TANNA - TAFEA",
+   "orgType": "CONG",
+   "address": "Louprisin\nTanna\n\n",
+   "languageCode": "LM",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "7607090 / 5353502",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "5FFF8911-1AE4-4257-ADA4-0B6B923316BB",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.7581,
-      "longitude": 168.311393
-    },
-    "properties": {
-      "orgGuid": "5FFF8911-1AE4-4257-ADA4-0B6B923316BB",
-      "orgName": "VILA TAON - PORT-VILA EFATE SHEFA",
-      "orgType": "CONG",
-      "address": "Nambatri Area\r\n\r\n",
-      "languageCode": "LM",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+6787792287 or +6785257390",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "BBDBE366-8212-4148-8C6C-46F43DB33B51",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.770232,
+   "longitude": 168.317975
   },
-  {
-    "geoId": "1DE74B7D-AB50-4C4F-974C-4D0CFE60CACB",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.714897,
-      "longitude": 168.312019
-    },
-    "properties": {
-      "orgGuid": "1DE74B7D-AB50-4C4F-974C-4D0CFE60CACB",
-      "orgName": "TEBAKOR - PORT-VILA EFATE SHEFA",
-      "orgType": "CONG",
-      "address": "Agatis\nPORT-VILA EFATE\nVANUATU\n",
-      "languageCode": "LM",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+678&nbsp;5737406",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "BBDBE366-8212-4148-8C6C-46F43DB33B51",
+   "orgName": "ERAKOR Bislama - PORT-VILA EFATE SHEFA",
+   "orgType": "CONG",
+   "address": "Erakor Haos Kingdom\r\nEfate Island\r\n\r\n",
+   "languageCode": "LM",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+6785545561 | +6787792287",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "30D794BC-7B1F-4E58-B553-D4C8F15BFA06",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.714897,
-      "longitude": 168.312019
-    },
-    "properties": {
-      "orgGuid": "30D794BC-7B1F-4E58-B553-D4C8F15BFA06",
-      "orgName": "FRESWOTA - PORT-VILA EFATE SHEFA",
-      "orgType": "CONG",
-      "address": "Agatis\nPORT-VILA EFATE\nVANUATU\n",
-      "languageCode": "LM",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "AUS",
-        "E"
-      ],
-      "phones": [
-        {
-          "phone": "+678 5387771",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "7F94D2EF-1E17-4A34-BB3B-EB03900AB0AB",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.770232,
+   "longitude": 168.317975
   },
-  {
-    "geoId": "AAFEDE6F-9E23-45DE-9966-7530AD7ED957",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.714897,
-      "longitude": 168.312019
-    },
-    "properties": {
-      "orgGuid": "AAFEDE6F-9E23-45DE-9966-7530AD7ED957",
-      "orgName": "Freswota Sign Language Group - FRESWOTA - PORT-VILA EFATE SHEFA",
-      "orgType": "GROUP",
-      "address": "Agatis\nPORT-VILA EFATE\nVANUATU\n",
-      "languageCode": "AUS",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "LM"
-      ],
-      "phones": [
-        {
-          "phone": "+678 5387771",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "7F94D2EF-1E17-4A34-BB3B-EB03900AB0AB",
+   "orgName": "ANEITYUM - ERAKOR Bislama - PORT-VILA EFATE SHEFA",
+   "orgType": "GROUP",
+   "address": "Erakor Haos Kingdom\r\nEfate Island\r\n\r\n",
+   "languageCode": "LM",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+6785545561 | +6787792287",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "54A4662D-E46F-4B63-B354-29BE3C80E019",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.714897,
-      "longitude": 168.312019
-    },
-    "properties": {
-      "orgGuid": "54A4662D-E46F-4B63-B354-29BE3C80E019",
-      "orgName": "Ambrym - TEBAKOR - PORT-VILA EFATE SHEFA",
-      "orgType": "GROUP",
-      "address": "Agatis\nPORT-VILA EFATE\nVANUATU\n",
-      "languageCode": "LM",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+678&nbsp;5737406",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "5FFF8911-1AE4-4257-ADA4-0B6B923316BB",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.7581,
+   "longitude": 168.311393
   },
-  {
-    "geoId": "3DBF89A0-43C9-4056-A5B0-2854DE6850D7",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -17.569631,
-      "longitude": 168.259301
-    },
-    "properties": {
-      "orgGuid": "3DBF89A0-43C9-4056-A5B0-2854DE6850D7",
-      "orgName": "TANOLIU - TANALIU-VILEJ SHEFA",
-      "orgType": "CONG",
-      "address": "Tanoliu Village\r\n\r\n",
-      "languageCode": "LM",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+678 5411430",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "properties": {
+   "orgGuid": "5FFF8911-1AE4-4257-ADA4-0B6B923316BB",
+   "orgName": "VILA TAON - PORT-VILA EFATE SHEFA",
+   "orgType": "CONG",
+   "address": "Nambatri Area\r\n\r\n",
+   "languageCode": "LM",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+6787792287 or +6785257390",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "1DE74B7D-AB50-4C4F-974C-4D0CFE60CACB",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.714897,
+   "longitude": 168.312019
+  },
+  "properties": {
+   "orgGuid": "1DE74B7D-AB50-4C4F-974C-4D0CFE60CACB",
+   "orgName": "TEBAKOR - PORT-VILA EFATE SHEFA",
+   "orgType": "CONG",
+   "address": "Agatis\nPORT-VILA EFATE\nVANUATU\n",
+   "languageCode": "LM",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+678&nbsp;5737406",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "30D794BC-7B1F-4E58-B553-D4C8F15BFA06",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.714897,
+   "longitude": 168.312019
+  },
+  "properties": {
+   "orgGuid": "30D794BC-7B1F-4E58-B553-D4C8F15BFA06",
+   "orgName": "FRESWOTA - PORT-VILA EFATE SHEFA",
+   "orgType": "CONG",
+   "address": "Agatis\nPORT-VILA EFATE\nVANUATU\n",
+   "languageCode": "LM",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "15:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "AUS",
+    "E"
+   ],
+   "phones": [
+    {
+     "phone": "+678 5387771",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "AAFEDE6F-9E23-45DE-9966-7530AD7ED957",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.714897,
+   "longitude": 168.312019
+  },
+  "properties": {
+   "orgGuid": "AAFEDE6F-9E23-45DE-9966-7530AD7ED957",
+   "orgName": "Freswota Sign Language Group - FRESWOTA - PORT-VILA EFATE SHEFA",
+   "orgType": "GROUP",
+   "address": "Agatis\nPORT-VILA EFATE\nVANUATU\n",
+   "languageCode": "AUS",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "15:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "LM"
+   ],
+   "phones": [
+    {
+     "phone": "+678 5387771",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "54A4662D-E46F-4B63-B354-29BE3C80E019",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.714897,
+   "longitude": 168.312019
+  },
+  "properties": {
+   "orgGuid": "54A4662D-E46F-4B63-B354-29BE3C80E019",
+   "orgName": "Ambrym - TEBAKOR - PORT-VILA EFATE SHEFA",
+   "orgType": "GROUP",
+   "address": "Agatis\nPORT-VILA EFATE\nVANUATU\n",
+   "languageCode": "LM",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+678&nbsp;5737406",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3DBF89A0-43C9-4056-A5B0-2854DE6850D7",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -17.569631,
+   "longitude": 168.259301
+  },
+  "properties": {
+   "orgGuid": "3DBF89A0-43C9-4056-A5B0-2854DE6850D7",
+   "orgName": "TANOLIU - TANALIU-VILEJ SHEFA",
+   "orgType": "CONG",
+   "address": "Tanoliu Village\r\n\r\n",
+   "languageCode": "LM",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+678 5411430",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

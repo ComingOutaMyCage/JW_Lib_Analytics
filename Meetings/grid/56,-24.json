@@ -1,39 +1,40 @@
 [
-  {
-    "geoId": "B631CC83-7BEF-4C3E-9D5F-23E30CA23B00",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 63.941814,
-      "longitude": -21.004318
-    },
-    "properties": {
-      "orgGuid": "B631CC83-7BEF-4C3E-9D5F-23E30CA23B00",
-      "orgName": "Selfosssöfnuður",
-      "orgType": "CONG",
-      "address": "Miðtún 1\r\n800  Selfoss\r\nICELAND\r\n",
-      "languageCode": "IC",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "++354 6628180",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+ {
+  "geoId": "B631CC83-7BEF-4C3E-9D5F-23E30CA23B00",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 63.941814,
+   "longitude": -21.004318
+  },
+  "properties": {
+   "orgGuid": "B631CC83-7BEF-4C3E-9D5F-23E30CA23B00",
+   "orgName": "Selfosssöfnuður",
+   "orgType": "CONG",
+   "address": "Miðtún 1\r\n800  Selfoss\r\nICELAND\r\n",
+   "languageCode": "IC",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "++354 6628180",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

@@ -1,34 +1,35 @@
 [
-  {
-    "geoId": "6E1C2309-F30D-4FD6-A917-0269142CCCDB",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.069991,
-      "longitude": 114.522481
-    },
-    "properties": {
-      "orgGuid": "6E1C2309-F30D-4FD6-A917-0269142CCCDB",
-      "orgName": "Choibalsan Group, Bayanzurkh Congregation, Ulaanbaatar - Bayanzurkh",
-      "orgType": "GROUP",
-      "address": "2F,MOBICOM BLDG.7TH BAG\r\nHERLEN SAM DORNOD AIMAG\r\nCHOIBALSAN-CITY MONGOLIA\r\n\r\n",
-      "languageCode": "KHA",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+ {
+  "geoId": "6E1C2309-F30D-4FD6-A917-0269142CCCDB",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.069991,
+   "longitude": 114.522481
+  },
+  "properties": {
+   "orgGuid": "6E1C2309-F30D-4FD6-A917-0269142CCCDB",
+   "orgName": "Choibalsan Group, Bayanzurkh Congregation, Ulaanbaatar - Bayanzurkh",
+   "orgType": "GROUP",
+   "address": "2F,MOBICOM BLDG.7TH BAG\r\nHERLEN SAM DORNOD AIMAG\r\nCHOIBALSAN-CITY MONGOLIA\r\n\r\n",
+   "languageCode": "KHA",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

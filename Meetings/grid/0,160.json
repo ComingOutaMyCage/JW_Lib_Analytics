@@ -1,34 +1,35 @@
 [
-  {
-    "geoId": "287E1A11-74C0-4BBE-B1DC-4961D1C696F0",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 5.3168,
-      "longitude": 163.0198
-    },
-    "properties": {
-      "orgGuid": "287E1A11-74C0-4BBE-B1DC-4961D1C696F0",
-      "orgName": "Kosrae Congregation",
-      "orgType": "CONG",
-      "address": "TAFWEYAT, LELU\r\nKOSRAE FM 96944\r\n",
-      "languageCode": "OS",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+ {
+  "geoId": "287E1A11-74C0-4BBE-B1DC-4961D1C696F0",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 5.3168,
+   "longitude": 163.0198
+  },
+  "properties": {
+   "orgGuid": "287E1A11-74C0-4BBE-B1DC-4961D1C696F0",
+   "orgName": "Kosrae Congregation",
+   "orgType": "CONG",
+   "address": "TAFWEYAT, LELU\r\nKOSRAE FM 96944\r\n",
+   "languageCode": "OS",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

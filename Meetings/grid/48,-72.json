@@ -1,647 +1,648 @@
 [
-  {
-    "geoId": "503514CB-4634-4692-846A-3AB4D6B01C0E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.547755,
-      "longitude": -71.676041
-    },
-    "properties": {
-      "orgGuid": "503514CB-4634-4692-846A-3AB4D6B01C0E",
-      "orgName": "Alma, QC",
-      "orgType": "CONG",
-      "address": "1690 boulevard Auger O\r\nAlma QC  G8C 1H8\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "418-480-0675",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "503514CB-4634-4692-846A-3AB4D6B01C0E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.547755,
+   "longitude": -71.676041
   },
-  {
-    "geoId": "587BCBF9-6CC3-42B1-B0D7-E6DD4D71DF96",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.402081,
-      "longitude": -71.161209
-    },
-    "properties": {
-      "orgGuid": "587BCBF9-6CC3-42B1-B0D7-E6DD4D71DF96",
-      "orgName": "Est, Saguenay, QC",
-      "orgType": "CONG",
-      "address": "2515 rue Godbout\r\nJonquière QC  G7S 5S9\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(581) 544-0105",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "503514CB-4634-4692-846A-3AB4D6B01C0E",
+   "orgName": "Alma, QC",
+   "orgType": "CONG",
+   "address": "1690 boulevard Auger O\r\nAlma QC  G8C 1H8\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "418-480-0675",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "34C1F706-9B3F-4593-A500-F8768024D97A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.402081,
-      "longitude": -71.161209
-    },
-    "properties": {
-      "orgGuid": "34C1F706-9B3F-4593-A500-F8768024D97A",
-      "orgName": "Ouest, Saguenay, QC",
-      "orgType": "CONG",
-      "address": "2515 rue Godbout\r\nJonquière QC  G7S 5S9\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "13:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(581) 544-0105",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "587BCBF9-6CC3-42B1-B0D7-E6DD4D71DF96",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.402081,
+   "longitude": -71.161209
   },
-  {
-    "geoId": "189D2F88-2245-41C0-A2EB-368820DE708E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.361106,
-      "longitude": -70.921683
-    },
-    "properties": {
-      "orgGuid": "189D2F88-2245-41C0-A2EB-368820DE708E",
-      "orgName": "La Baie, QC",
-      "orgType": "CONG",
-      "address": "2625 boulevard de la Grande-Baie N\r\nLa Baie QC  G7B 3N8\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "418-544-7507",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "587BCBF9-6CC3-42B1-B0D7-E6DD4D71DF96",
+   "orgName": "Est, Saguenay, QC",
+   "orgType": "CONG",
+   "address": "2515 rue Godbout\r\nJonquière QC  G7S 5S9\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "13:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(581) 544-0105",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "DB8113B6-30C5-4353-BA6E-BDF4690DE299",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.525176,
-      "longitude": -68.446287
-    },
-    "properties": {
-      "orgGuid": "DB8113B6-30C5-4353-BA6E-BDF4690DE299",
-      "orgName": "Rimouski, QC",
-      "orgType": "CONG",
-      "address": "1483 boulevard Sainte-Anne\r\nRimouski QC  G5M 1W6\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "14:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(581) 805-0189",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "34C1F706-9B3F-4593-A500-F8768024D97A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.402081,
+   "longitude": -71.161209
   },
-  {
-    "geoId": "AD5BDE26-FD69-48BF-80C0-702D032B2793",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.525176,
-      "longitude": -68.446287
-    },
-    "properties": {
-      "orgGuid": "AD5BDE26-FD69-48BF-80C0-702D032B2793",
-      "orgName": "La Mitis, Rimouski, QC",
-      "orgType": "CONG",
-      "address": "1483 boulevard Sainte-Anne\r\nRimouski QC  G5M 1W6\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(581) 805-0189",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "34C1F706-9B3F-4593-A500-F8768024D97A",
+   "orgName": "Ouest, Saguenay, QC",
+   "orgType": "CONG",
+   "address": "2515 rue Godbout\r\nJonquière QC  G7S 5S9\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(581) 544-0105",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "33D4D07C-9C60-4980-B9A4-5FC8658DF81F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 49.188491,
-      "longitude": -68.255963
-    },
-    "properties": {
-      "orgGuid": "33D4D07C-9C60-4980-B9A4-5FC8658DF81F",
-      "orgName": "Baie-Comeau, QC",
-      "orgType": "CONG",
-      "address": "531 RUE JALBERT\r\nBaie-Comeau QC  G5C 0B7\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "418-589-7688",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "189D2F88-2245-41C0-A2EB-368820DE708E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.361106,
+   "longitude": -70.921683
   },
-  {
-    "geoId": "CA5EC960-1BC7-4DD6-B37C-B56911BC75F6",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.47801,
-      "longitude": -67.442048
-    },
-    "properties": {
-      "orgGuid": "CA5EC960-1BC7-4DD6-B37C-B56911BC75F6",
-      "orgName": "Amqui, QC",
-      "orgType": "CONG",
-      "address": "428 route 132 O\r\nAmqui QC  G5J 2G6\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(418) 631-0463",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "189D2F88-2245-41C0-A2EB-368820DE708E",
+   "orgName": "La Baie, QC",
+   "orgType": "CONG",
+   "address": "2625 boulevard de la Grande-Baie N\r\nLa Baie QC  G7B 3N8\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "581-545-0157",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "1B91BE37-1396-4BE8-B16B-10806E69B618",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.850228,
-      "longitude": -67.469147
-    },
-    "properties": {
-      "orgGuid": "1B91BE37-1396-4BE8-B16B-10806E69B618",
-      "orgName": "Matane, QC",
-      "orgType": "CONG",
-      "address": "77 chemin de la Gouèche\r\nPetit-Matane QC  G0J 1Y0\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(581) 631-0339",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "DB8113B6-30C5-4353-BA6E-BDF4690DE299",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.525176,
+   "longitude": -68.446287
   },
-  {
-    "geoId": "4AF2E2A9-BC37-4A88-BB56-60AAFA1F3187",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.028273,
-      "longitude": -66.535898
-    },
-    "properties": {
-      "orgGuid": "4AF2E2A9-BC37-4A88-BB56-60AAFA1F3187",
-      "orgName": "Mountainview, Campbellton, NB",
-      "orgType": "CONG",
-      "address": "30141 Highway 134\r\nDalhousie Junction NB  E3N 6A3\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "506-409-0007",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "DB8113B6-30C5-4353-BA6E-BDF4690DE299",
+   "orgName": "Rimouski, QC",
+   "orgType": "CONG",
+   "address": "1483 boulevard Sainte-Anne\r\nRimouski QC  G5M 1W6\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(581) 805-0189",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "9F4F6F71-5158-43CC-B2AA-818C4E1789AB",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.028273,
-      "longitude": -66.535898
-    },
-    "properties": {
-      "orgGuid": "9F4F6F71-5158-43CC-B2AA-818C4E1789AB",
-      "orgName": "Baie-des-Chaleurs, Campbellton, NB",
-      "orgType": "CONG",
-      "address": "30141 Highway 134\r\nDalhousie Junction NB  E3N 6A3\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "13:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(418) 788-2034",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "AD5BDE26-FD69-48BF-80C0-702D032B2793",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.525176,
+   "longitude": -68.446287
   },
-  {
-    "geoId": "DC9D4FCC-32DB-44D8-A07C-427E74E2AB7A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.142647,
-      "longitude": -65.830096
-    },
-    "properties": {
-      "orgGuid": "DC9D4FCC-32DB-44D8-A07C-427E74E2AB7A",
-      "orgName": "New Richmond, QC",
-      "orgType": "CONG",
-      "address": "271 boulevard Perron E\r\nNew Richmond QC  G0C 2B0\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(418) 392-8536",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "AD5BDE26-FD69-48BF-80C0-702D032B2793",
+   "orgName": "La Mitis, Rimouski, QC",
+   "orgType": "CONG",
+   "address": "1483 boulevard Sainte-Anne\r\nRimouski QC  G5M 1W6\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "14:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(581) 805-0189",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "D61E8ABC-ECA6-426A-B6EB-7662D1673800",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 49.122431,
-      "longitude": -66.481423
-    },
-    "properties": {
-      "orgGuid": "D61E8ABC-ECA6-426A-B6EB-7662D1673800",
-      "orgName": "Sainte-Anne-des-Monts, QC",
-      "orgType": "CONG",
-      "address": "188 route du Parc\r\nSainte-Anne-des-Monts QC  G4V 2C4\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(418) 764-0738",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "33D4D07C-9C60-4980-B9A4-5FC8658DF81F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 49.202121,
+   "longitude": -68.254623
   },
-  {
-    "geoId": "3F00B13A-16CE-49A7-A882-0A767F0B561F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.379183,
-      "longitude": -64.581207
-    },
-    "properties": {
-      "orgGuid": "3F00B13A-16CE-49A7-A882-0A767F0B561F",
-      "orgName": "Chandler, QC",
-      "orgType": "CONG",
-      "address": "639 route de Petit-Pabos\r\nGrande-Rivière-Ouest QC  G0C 1W0\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "418-385-5225",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "33D4D07C-9C60-4980-B9A4-5FC8658DF81F",
+   "orgName": "Baie-Comeau, QC",
+   "orgType": "CONG",
+   "address": "625 Boul laflèche local 900\r\nBaie-Comeau QC  G5C 1C5\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "418-589-7688",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "A313FFB2-DF65-494E-AE8D-422330A0DA31",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 50.218945,
-      "longitude": -66.397711
-    },
-    "properties": {
-      "orgGuid": "A313FFB2-DF65-494E-AE8D-422330A0DA31",
-      "orgName": "Sept-Îles, QC",
-      "orgType": "CONG",
-      "address": "72 rue Daigle\r\nSept-Îles QC  G4R 4Y6\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(581) 505-0993",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "CA5EC960-1BC7-4DD6-B37C-B56911BC75F6",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.47801,
+   "longitude": -67.442048
   },
-  {
-    "geoId": "D71A893A-2B14-4FE4-BF08-F40B0F42E578",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.837128,
-      "longitude": -64.583499
-    },
-    "properties": {
-      "orgGuid": "D71A893A-2B14-4FE4-BF08-F40B0F42E578",
-      "orgName": "Gaspé, QC",
-      "orgType": "CONG",
-      "address": "774 Montée de Wakeham\r\nGaspé QC  G4X 2A1\r\n\r\n",
-      "languageCode": "F",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(581) 880-1389",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "CA5EC960-1BC7-4DD6-B37C-B56911BC75F6",
+   "orgName": "Amqui, QC",
+   "orgType": "CONG",
+   "address": "428 route 132 O\r\nAmqui QC  G5J 2G6\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(418) 631-0463",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "81FCF403-2E03-426A-AEA1-2D24302D1CE2",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 52.940773,
-      "longitude": -66.902261
-    },
-    "properties": {
-      "orgGuid": "81FCF403-2E03-426A-AEA1-2D24302D1CE2",
-      "orgName": "Labrador City, NL",
-      "orgType": "CONG",
-      "address": "89 Tamarack Drive\r\nLabrador City NL  A2V 0A1\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "506-800-0136",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "1B91BE37-1396-4BE8-B16B-10806E69B618",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.850228,
+   "longitude": -67.469147
+  },
+  "properties": {
+   "orgGuid": "1B91BE37-1396-4BE8-B16B-10806E69B618",
+   "orgName": "Matane, QC",
+   "orgType": "CONG",
+   "address": "77 chemin de la Gouèche\r\nPetit-Matane QC  G0J 1Y0\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(581) 631-0339",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4AF2E2A9-BC37-4A88-BB56-60AAFA1F3187",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.028273,
+   "longitude": -66.535898
+  },
+  "properties": {
+   "orgGuid": "4AF2E2A9-BC37-4A88-BB56-60AAFA1F3187",
+   "orgName": "Mountainview, Campbellton, NB",
+   "orgType": "CONG",
+   "address": "30141 Highway 134\r\nDalhousie Junction NB  E3N 6A3\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "13:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "506-409-0007",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "9F4F6F71-5158-43CC-B2AA-818C4E1789AB",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.028273,
+   "longitude": -66.535898
+  },
+  "properties": {
+   "orgGuid": "9F4F6F71-5158-43CC-B2AA-818C4E1789AB",
+   "orgName": "Baie-des-Chaleurs, Campbellton, NB",
+   "orgType": "CONG",
+   "address": "30141 Highway 134\r\nDalhousie Junction NB  E3N 6A3\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(418) 788-2034",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "DC9D4FCC-32DB-44D8-A07C-427E74E2AB7A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.142647,
+   "longitude": -65.830096
+  },
+  "properties": {
+   "orgGuid": "DC9D4FCC-32DB-44D8-A07C-427E74E2AB7A",
+   "orgName": "New Richmond, QC",
+   "orgType": "CONG",
+   "address": "271 boulevard Perron E\r\nNew Richmond QC  G0C 2B0\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(418) 392-8536",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "D61E8ABC-ECA6-426A-B6EB-7662D1673800",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 49.122431,
+   "longitude": -66.481423
+  },
+  "properties": {
+   "orgGuid": "D61E8ABC-ECA6-426A-B6EB-7662D1673800",
+   "orgName": "Sainte-Anne-des-Monts, QC",
+   "orgType": "CONG",
+   "address": "188 route du Parc\r\nSainte-Anne-des-Monts QC  G4V 2C4\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(418) 764-0738",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3F00B13A-16CE-49A7-A882-0A767F0B561F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.379183,
+   "longitude": -64.581207
+  },
+  "properties": {
+   "orgGuid": "3F00B13A-16CE-49A7-A882-0A767F0B561F",
+   "orgName": "Chandler, QC",
+   "orgType": "CONG",
+   "address": "639 route de Petit-Pabos\r\nGrande-Rivière-Ouest QC  G0C 1W0\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "418-385-1763",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "A313FFB2-DF65-494E-AE8D-422330A0DA31",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 50.218945,
+   "longitude": -66.397711
+  },
+  "properties": {
+   "orgGuid": "A313FFB2-DF65-494E-AE8D-422330A0DA31",
+   "orgName": "Sept-Îles, QC",
+   "orgType": "CONG",
+   "address": "72 rue Daigle\r\nSept-Îles QC  G4R 4Y6\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(581) 505-0993",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "D71A893A-2B14-4FE4-BF08-F40B0F42E578",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.837128,
+   "longitude": -64.583499
+  },
+  "properties": {
+   "orgGuid": "D71A893A-2B14-4FE4-BF08-F40B0F42E578",
+   "orgName": "Gaspé, QC",
+   "orgType": "CONG",
+   "address": "774 Montée de Wakeham\r\nGaspé QC  G4X 2A1\r\n\r\n",
+   "languageCode": "F",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(581) 880-1389",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "81FCF403-2E03-426A-AEA1-2D24302D1CE2",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 52.940773,
+   "longitude": -66.902261
+  },
+  "properties": {
+   "orgGuid": "81FCF403-2E03-426A-AEA1-2D24302D1CE2",
+   "orgName": "Labrador City, NL",
+   "orgType": "CONG",
+   "address": "89 Tamarack Drive\r\nLabrador City NL  A2V 0A1\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "506-800-0136",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

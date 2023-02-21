@@ -1,2051 +1,2104 @@
 [
-  {
-    "geoId": "BBE1B979-F68E-44E3-873B-1F7C990B9117",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -15.45449,
-      "longitude": 48.206634
-    },
-    "properties": {
-      "orgGuid": "BBE1B979-F68E-44E3-873B-1F7C990B9117",
-      "orgName": "Antsakanalabe, Beanamalao",
-      "orgType": "CONG",
-      "address": "Beanamalao\r\n409\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "15:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0340140828",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "BBE1B979-F68E-44E3-873B-1F7C990B9117",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -15.45449,
+   "longitude": 48.206634
   },
-  {
-    "geoId": "37786EA4-ADB2-4BB2-A4E5-6AB2A672F91C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -15.257403,
-      "longitude": 48.529008
-    },
-    "properties": {
-      "orgGuid": "37786EA4-ADB2-4BB2-A4E5-6AB2A672F91C",
-      "orgName": "Befandriana Avaratra",
-      "orgType": "CONG",
-      "address": "Befandriana\r\n409 BEFANDRIANA NORD\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0330879959",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "BBE1B979-F68E-44E3-873B-1F7C990B9117",
+   "orgName": "Antsakanalabe, Beanamalao",
+   "orgType": "CONG",
+   "address": "Beanamalao\r\n409\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "15:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0340140828",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "7B56A96D-541D-4651-BDE9-632945A038A6",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.529094,
-      "longitude": 48.024439
-    },
-    "properties": {
-      "orgGuid": "7B56A96D-541D-4651-BDE9-632945A038A6",
-      "orgName": "Befotaka Avaratra",
-      "orgType": "CONG",
-      "address": "Mavozaza Befotaka Avaratra\r\n405\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "15:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0331527383-0333259976",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "37786EA4-ADB2-4BB2-A4E5-6AB2A672F91C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -15.257403,
+   "longitude": 48.529008
   },
-  {
-    "geoId": "08D5E173-F7B7-4884-9FE0-9AD3927D7E14",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -15.036795,
-      "longitude": 48.543898
-    },
-    "properties": {
-      "orgGuid": "08D5E173-F7B7-4884-9FE0-9AD3927D7E14",
-      "orgName": "Ambararata",
-      "orgType": "CONG",
-      "address": "Ambararata II\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "15:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0343301166",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "37786EA4-ADB2-4BB2-A4E5-6AB2A672F91C",
+   "orgName": "Befandriana Avaratra",
+   "orgType": "CONG",
+   "address": "Befandriana\r\n409 BEFANDRIANA NORD\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0330879959",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "C3A35583-AF60-44B1-89D6-6B1043B4078F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.205018,
-      "longitude": 48.082613
-    },
-    "properties": {
-      "orgGuid": "C3A35583-AF60-44B1-89D6-6B1043B4078F",
-      "orgName": "Maromandia",
-      "orgType": "CONG",
-      "address": "Makoany Maromandia\r\n405\r\n\r\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "15:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261345074157",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T02:43:02.995Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "7B56A96D-541D-4651-BDE9-632945A038A6",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.529094,
+   "longitude": 48.024439
   },
-  {
-    "geoId": "1169E459-9741-4D50-8342-22AC50973991",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -15.702198,
-      "longitude": 49.640321
-    },
-    "properties": {
-      "orgGuid": "1169E459-9741-4D50-8342-22AC50973991",
-      "orgName": "Rantabe",
-      "orgType": "CONG",
-      "address": "Rantabe Maroantsetra\r\n512\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "15:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;341341584",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "7B56A96D-541D-4651-BDE9-632945A038A6",
+   "orgName": "Befotaka Avaratra",
+   "orgType": "CONG",
+   "address": "Mavozaza Befotaka Avaratra\r\n405\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0331527383-0333259976",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "B086E997-DFBD-43E1-A377-989233689C7B",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.677965,
-      "longitude": 48.664383
-    },
-    "properties": {
-      "orgGuid": "B086E997-DFBD-43E1-A377-989233689C7B",
-      "orgName": "Ambatosia",
-      "orgType": "CONG",
-      "address": "Ampitan'ny CEG Ambatosia\r\n408 AMBATOSIA\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "14:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;331130589",
-          "ext": ""
-        },
-        {
-          "phone": "+261&nbsp;333701313",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "08D5E173-F7B7-4884-9FE0-9AD3927D7E14",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -15.036795,
+   "longitude": 48.543898
   },
-  {
-    "geoId": "9ADB6A5E-7A59-4DDB-A33B-9EE91214280E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -15.573889,
-      "longitude": 49.613049
-    },
-    "properties": {
-      "orgGuid": "9ADB6A5E-7A59-4DDB-A33B-9EE91214280E",
-      "orgName": "Voloina-Maroantsetra",
-      "orgType": "CONG",
-      "address": "Voloina Maroantsetra\r\n512\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "15:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0342206999",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "08D5E173-F7B7-4884-9FE0-9AD3927D7E14",
+   "orgName": "Ambararata",
+   "orgType": "CONG",
+   "address": "Ambararata II\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "15:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0343301166",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "267F7088-54E3-440C-9E7E-BE3333821CA6",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.978802,
-      "longitude": 48.176405
-    },
-    "properties": {
-      "orgGuid": "267F7088-54E3-440C-9E7E-BE3333821CA6",
-      "orgName": "Ankaramibe",
-      "orgType": "CONG",
-      "address": "Andrefan'ny Chambre Paulline\r\n405\r\n\r\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "15:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;322897452",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "C3A35583-AF60-44B1-89D6-6B1043B4078F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.205018,
+   "longitude": 48.082613
   },
-  {
-    "geoId": "06E69C81-4034-47FF-95DF-53D90194B79A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.540955,
-      "longitude": 48.744086
-    },
-    "properties": {
-      "orgGuid": "06E69C81-4034-47FF-95DF-53D90194B79A",
-      "orgName": "Bealanana",
-      "orgType": "CONG",
-      "address": "BEALANANA\n\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "16:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;333229763",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "C3A35583-AF60-44B1-89D6-6B1043B4078F",
+   "orgName": "Maromandia",
+   "orgType": "CONG",
+   "address": "Makoany Maromandia\r\n405\r\n\r\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "15:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261345074157",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "641A19BF-28A0-4B94-87C0-4E3B8398E76E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -15.348811,
-      "longitude": 49.579767
-    },
-    "properties": {
-      "orgGuid": "641A19BF-28A0-4B94-87C0-4E3B8398E76E",
-      "orgName": "Ambinanitelo",
-      "orgType": "CONG",
-      "address": "Ambinanitelo\r\n312\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;34 07 276 46",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T02:43:02.995Z"
+ },
+ {
+  "geoId": "1169E459-9741-4D50-8342-22AC50973991",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -15.702198,
+   "longitude": 49.640321
   },
-  {
-    "geoId": "BF515631-73A5-4677-8CF0-F2344ABE0591",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -15.430842,
-      "longitude": 49.736618
-    },
-    "properties": {
-      "orgGuid": "BF515631-73A5-4677-8CF0-F2344ABE0591",
-      "orgName": "Maroantsetra",
-      "orgType": "CONG",
-      "address": "Près Vatsy\r\nAnkiakandrefana\r\nTOAMASINA\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0347383380",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "1169E459-9741-4D50-8342-22AC50973991",
+   "orgName": "Rantabe",
+   "orgType": "CONG",
+   "address": "Rantabe Maroantsetra\r\n512\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;341341584",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "55EEB078-B47B-463F-8698-EDDE55EC3B7A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.463007,
-      "longitude": 48.947173
-    },
-    "properties": {
-      "orgGuid": "55EEB078-B47B-463F-8698-EDDE55EC3B7A",
-      "orgName": "Ambatoria",
-      "orgType": "CONG",
-      "address": "BEALANANA\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;332567151",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B086E997-DFBD-43E1-A377-989233689C7B",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.677965,
+   "longitude": 48.664383
   },
-  {
-    "geoId": "463493D4-451E-4CD9-8427-0F4E07C54A5D",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -15.414864,
-      "longitude": 49.914288
+  "properties": {
+   "orgGuid": "B086E997-DFBD-43E1-A377-989233689C7B",
+   "orgName": "Ambatosia",
+   "orgType": "CONG",
+   "address": "Ampitan'ny CEG Ambatosia\r\n408 AMBATOSIA\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "14:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;331130589",
+     "ext": ""
     },
-    "properties": {
-      "orgGuid": "463493D4-451E-4CD9-8427-0F4E07C54A5D",
-      "orgName": "Mahalevona",
-      "orgType": "CONG",
-      "address": "Ankiaka andrefana Mahalevona\r\n512\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "15:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;349172297",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+    {
+     "phone": "+261&nbsp;333701313",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "CA3B767C-B70C-472F-9D5B-D00BCC64B5D4",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.846029,
-      "longitude": 48.500888
-    },
-    "properties": {
-      "orgGuid": "CA3B767C-B70C-472F-9D5B-D00BCC64B5D4",
-      "orgName": "Bemaneviky Ambanja",
-      "orgType": "CONG",
-      "address": "Antanamanakana Ambadika Samson\r\n203\r\n\r\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "15:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0325176230 ,  0333221797, 0344213008",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "9ADB6A5E-7A59-4DDB-A33B-9EE91214280E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -15.573889,
+   "longitude": 49.613049
   },
-  {
-    "geoId": "B8406C7E-D9EE-4C9D-A795-4DB5B7788FBE",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.678649,
-      "longitude": 48.450558
-    },
-    "properties": {
-      "orgGuid": "B8406C7E-D9EE-4C9D-A795-4DB5B7788FBE",
-      "orgName": "Ambanja Tankarana",
-      "orgType": "CONG",
-      "address": "Lot 01-06 AC 0050\nAnkatafahely\n203 AMBANJA\n\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "15:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0324602707",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "9ADB6A5E-7A59-4DDB-A33B-9EE91214280E",
+   "orgName": "Voloina-Maroantsetra",
+   "orgType": "CONG",
+   "address": "Voloina Maroantsetra\r\n512\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0342206999",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "1A5BD0FC-ED5A-4516-B0D1-9A8307BE400F",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.678649,
-      "longitude": 48.450558
-    },
-    "properties": {
-      "orgGuid": "1A5BD0FC-ED5A-4516-B0D1-9A8307BE400F",
-      "orgName": "Ambanja",
-      "orgType": "CONG",
-      "address": "Lot 01-06 AC 0050\nAnkatafahely\n203 AMBANJA\n\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0346088449",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "267F7088-54E3-440C-9E7E-BE3333821CA6",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.978802,
+   "longitude": 48.176405
   },
-  {
-    "geoId": "65D1473D-D34B-4F01-8868-211A20B14CC8",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.641567,
-      "longitude": 48.455178
-    },
-    "properties": {
-      "orgGuid": "65D1473D-D34B-4F01-8868-211A20B14CC8",
-      "orgName": "Ambalavelona Ambanja",
-      "orgType": "CONG",
-      "address": "Mahavelona Avaratra\r\n203\r\n\r\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "14:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;330149490",
-          "ext": ""
-        },
-        {
-          "phone": "+261&nbsp;32 22 637 03",
-          "ext": ""
-        },
-        {
-          "phone": "+261&nbsp;32 11 012 81",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "267F7088-54E3-440C-9E7E-BE3333821CA6",
+   "orgName": "Ankaramibe",
+   "orgType": "CONG",
+   "address": "Andrefan'ny Chambre Paulline\r\n405\r\n\r\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "15:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;322897452",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "749E7A77-B956-4981-864E-EBF66FCA16DC",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.395919,
-      "longitude": 48.210666
-    },
-    "properties": {
-      "orgGuid": "749E7A77-B956-4981-864E-EBF66FCA16DC",
-      "orgName": "Ambatoloaka",
-      "orgType": "CONG",
-      "address": "Antorolava\nAmbatoloaka\n207 NOSY-BE\n\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;32 64 904 32",
-          "ext": ""
-        },
-        {
-          "phone": "+261&nbsp;334013127",
-          "ext": ""
-        },
-        {
-          "phone": "+261&nbsp;334013127",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "06E69C81-4034-47FF-95DF-53D90194B79A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.540955,
+   "longitude": 48.744086
   },
-  {
-    "geoId": "25E83069-7526-41F7-A1D2-3D33CABCF236",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.344377,
-      "longitude": 48.191357
-    },
-    "properties": {
-      "orgGuid": "25E83069-7526-41F7-A1D2-3D33CABCF236",
-      "orgName": "Djamandjary",
-      "orgType": "CONG",
-      "address": "NOSY-BE\r\n\r\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "O32 74 247 81 SY 034 4365478",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "06E69C81-4034-47FF-95DF-53D90194B79A",
+   "orgName": "Bealanana",
+   "orgType": "CONG",
+   "address": "BEALANANA\n\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "16:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;333229763",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "B4B15C52-58DD-4C52-99E5-E0E7D6A63797",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.392601,
-      "longitude": 48.264811
-    },
-    "properties": {
-      "orgGuid": "B4B15C52-58DD-4C52-99E5-E0E7D6A63797",
-      "orgName": "Nosy Be",
-      "orgType": "CONG",
-      "address": "NOSY-BE\n\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "07:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0328066313",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "641A19BF-28A0-4B94-87C0-4E3B8398E76E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -15.348811,
+   "longitude": 49.579767
   },
-  {
-    "geoId": "10296141-7B08-4636-8CDE-149D56158092",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.392601,
-      "longitude": 48.264811
-    },
-    "properties": {
-      "orgGuid": "10296141-7B08-4636-8CDE-149D56158092",
-      "orgName": "Nosy Be Teny Tankarana",
-      "orgType": "CONG",
-      "address": "NOSY-BE\n\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:45"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0327435981 - 0324298601",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "641A19BF-28A0-4B94-87C0-4E3B8398E76E",
+   "orgName": "Ambinanitelo",
+   "orgType": "CONG",
+   "address": "Ambinanitelo\r\n312\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;34 07 276 46",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "ADFF07A1-7B9C-456E-9CDF-EA252247E689",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.599426,
-      "longitude": 49.509833
-    },
-    "properties": {
-      "orgGuid": "ADFF07A1-7B9C-456E-9CDF-EA252247E689",
-      "orgName": "Ambodiangezoka",
-      "orgType": "CONG",
-      "address": "Ambodiangezoka\nANDAPA\n\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0324402141",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "BF515631-73A5-4677-8CF0-F2344ABE0591",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -15.430842,
+   "longitude": 49.736618
   },
-  {
-    "geoId": "CF2CE229-E152-43D7-8EF7-4CAB90D59033",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.652957,
-      "longitude": 49.647601
-    },
-    "properties": {
-      "orgGuid": "CF2CE229-E152-43D7-8EF7-4CAB90D59033",
-      "orgName": "Andapa",
-      "orgType": "CONG",
-      "address": "ANDAPA\n\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "16:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0333170384",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "BF515631-73A5-4677-8CF0-F2344ABE0591",
+   "orgName": "Maroantsetra",
+   "orgType": "CONG",
+   "address": "Près Vatsy\r\nAnkiakandrefana\r\nTOAMASINA\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0347383380",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "7F70367B-99A8-4DD9-8701-E79B1FBA4085",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.624268,
-      "longitude": 49.718697
-    },
-    "properties": {
-      "orgGuid": "7F70367B-99A8-4DD9-8701-E79B1FBA4085",
-      "orgName": "Maroambihy",
-      "orgType": "CONG",
-      "address": "Ampitan'i Bidany\r\n208 SAMBAVA\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "15:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;322220586",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "55EEB078-B47B-463F-8698-EDDE55EC3B7A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.463007,
+   "longitude": 48.947173
   },
-  {
-    "geoId": "DF10FA06-3454-4704-813E-D4810E06194E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.373867,
-      "longitude": 49.518923
-    },
-    "properties": {
-      "orgGuid": "DF10FA06-3454-4704-813E-D4810E06194E",
-      "orgName": "Doany",
-      "orgType": "CONG",
-      "address": "Andilampaka Doany Làlana mandeha Antsahamena\r\n205 ANDAPA\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "14:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;324715854",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "55EEB078-B47B-463F-8698-EDDE55EC3B7A",
+   "orgName": "Ambatoria",
+   "orgType": "CONG",
+   "address": "BEALANANA\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;332567151",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "86337F0D-8247-49E0-9D41-25C46A932F16",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.991873,
-      "longitude": 50.165222
-    },
-    "properties": {
-      "orgGuid": "86337F0D-8247-49E0-9D41-25C46A932F16",
-      "orgName": "Antombana Antalaha - Antalaha Andrefana",
-      "orgType": "GROUP",
-      "address": "Antombana Tanambaovao Atsimon'ny Hopitaly\r\n710 ANTALAHA\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": null,
-            "time": null
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;322862392",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "463493D4-451E-4CD9-8427-0F4E07C54A5D",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -15.414864,
+   "longitude": 49.914288
   },
-  {
-    "geoId": "2F7969BF-E659-43AC-BF3E-43114CD127B8",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.911356,
-      "longitude": 50.274579
-    },
-    "properties": {
-      "orgGuid": "2F7969BF-E659-43AC-BF3E-43114CD127B8",
-      "orgName": "Antalaha Andrefana",
-      "orgType": "CONG",
-      "address": "Ambatoratsy\nAntalaha Ouest\n206 ANTALAHA\n\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;322862392",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "463493D4-451E-4CD9-8427-0F4E07C54A5D",
+   "orgName": "Mahalevona",
+   "orgType": "CONG",
+   "address": "Ankiaka andrefana Mahalevona\r\n512\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;349172297",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "72FBFD12-8AC9-4332-AF07-959E18337E36",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.909649,
-      "longitude": 50.283128
-    },
-    "properties": {
-      "orgGuid": "72FBFD12-8AC9-4332-AF07-959E18337E36",
-      "orgName": "Antalaha Avaratra",
-      "orgType": "CONG",
-      "address": "Ankoalabe Analamboahangy\r\nAntalaha\r\n206 ANTSIRANANA\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "032 63 048 29",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "CA3B767C-B70C-472F-9D5B-D00BCC64B5D4",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.846029,
+   "longitude": 48.500888
   },
-  {
-    "geoId": "785B557C-388B-46AA-AD3A-6265487C1EBD",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.909649,
-      "longitude": 50.283128
-    },
-    "properties": {
-      "orgGuid": "785B557C-388B-46AA-AD3A-6265487C1EBD",
-      "orgName": "Antalaha Atsimo",
-      "orgType": "CONG",
-      "address": "Ankoalabe Analamboahangy\r\nAntalaha\r\n206 ANTSIRANANA\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "07:45"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;32 92 495 27",
-          "ext": ""
-        },
-        {
-          "phone": "+261&nbsp;32 92 495 27",
-          "ext": ""
-        },
-        {
-          "phone": "+261&nbsp;329249527",
-          "ext": ""
-        },
-        {
-          "phone": "+261&nbsp;34 19 728 19",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "CA3B767C-B70C-472F-9D5B-D00BCC64B5D4",
+   "orgName": "Bemaneviky Ambanja",
+   "orgType": "CONG",
+   "address": "Antanamanakana Ambadika Samson\r\n203\r\n\r\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "15:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0325176230 ,  0333221797, 0344213008",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "48FDA8E0-0FC7-4502-88DC-46633FBCE87E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.841546,
-      "longitude": 50.256914
-    },
-    "properties": {
-      "orgGuid": "48FDA8E0-0FC7-4502-88DC-46633FBCE87E",
-      "orgName": "Ambatofisaka Antalaha",
-      "orgType": "CONG",
-      "address": "Ambatofisaka Antalaha\r\nANTALAHA\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261324966359",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B8406C7E-D9EE-4C9D-A795-4DB5B7788FBE",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.678649,
+   "longitude": 48.450558
   },
-  {
-    "geoId": "4CA89EDE-2C84-4977-9C76-A1DA1A8F7589",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.613798,
-      "longitude": 50.119737
-    },
-    "properties": {
-      "orgGuid": "4CA89EDE-2C84-4977-9C76-A1DA1A8F7589",
-      "orgName": "Lanjarivo",
-      "orgType": "CONG",
-      "address": "EPP\nLanjarivo\n206 ANTALAHA\n\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "14:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "032 63 048 29",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "B8406C7E-D9EE-4C9D-A795-4DB5B7788FBE",
+   "orgName": "Ambanja Tankarana",
+   "orgType": "CONG",
+   "address": "Lot 01-06 AC 0050\nAnkatafahely\n203 AMBANJA\n\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "07:45"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0324602707",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "3B2C44DC-6130-4B1C-B8E9-03D88A17A861",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.212148,
-      "longitude": 49.946241
-    },
-    "properties": {
-      "orgGuid": "3B2C44DC-6130-4B1C-B8E9-03D88A17A861",
-      "orgName": "Analamaho",
-      "orgType": "CONG",
-      "address": "NOSIARINA\n\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "15:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;337000327",
-          "ext": ""
-        },
-        {
-          "phone": "+261&nbsp;32 71 692 85",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-04T02:43:02.995Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "1A5BD0FC-ED5A-4516-B0D1-9A8307BE400F",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.678649,
+   "longitude": 48.450558
   },
-  {
-    "geoId": "1BE73418-D64D-4EBA-A518-2360C9DD6527",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.090288,
-      "longitude": 48.925321
-    },
-    "properties": {
-      "orgGuid": "1BE73418-D64D-4EBA-A518-2360C9DD6527",
-      "orgName": "Sirama Ambilobe",
-      "orgType": "CONG",
-      "address": "Village Ylang\n204 AMBILOBE\n\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;327884875",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "1A5BD0FC-ED5A-4516-B0D1-9A8307BE400F",
+   "orgName": "Ambanja",
+   "orgType": "CONG",
+   "address": "Lot 01-06 AC 0050\nAnkatafahely\n203 AMBANJA\n\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0347571510",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "0A9EE9A0-D4B9-4BB7-BD31-23E1F1DF4E1B",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.208357,
-      "longitude": 50.050118
-    },
-    "properties": {
-      "orgGuid": "0A9EE9A0-D4B9-4BB7-BD31-23E1F1DF4E1B",
-      "orgName": "Nosiarina",
-      "orgType": "CONG",
-      "address": "Nosiarina\r\nNOSIARINA\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "15:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;342850721",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "65D1473D-D34B-4F01-8868-211A20B14CC8",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.641567,
+   "longitude": 48.455178
   },
-  {
-    "geoId": "8D0413EC-A4C3-41B3-AE8B-684B5ABBA1E5",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.190037,
-      "longitude": 49.050193
+  "properties": {
+   "orgGuid": "65D1473D-D34B-4F01-8868-211A20B14CC8",
+   "orgName": "Ambalavelona Ambanja",
+   "orgType": "CONG",
+   "address": "Mahavelona Avaratra\r\n203\r\n\r\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "14:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;330149490",
+     "ext": ""
     },
-    "properties": {
-      "orgGuid": "8D0413EC-A4C3-41B3-AE8B-684B5ABBA1E5",
-      "orgName": "Ambilobe Atsimo",
-      "orgType": "CONG",
-      "address": "AMBILOBE\n\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:15"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0334168888 na 0329049956",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
+    {
+     "phone": "+261&nbsp;32 22 637 03",
+     "ext": ""
     },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+    {
+     "phone": "+261&nbsp;32 11 012 81",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "FDB4E3F4-EAAE-40A6-82D8-A034560CB54D",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.190037,
-      "longitude": 49.050193
-    },
-    "properties": {
-      "orgGuid": "FDB4E3F4-EAAE-40A6-82D8-A034560CB54D",
-      "orgName": "Ambilobe Avaratra",
-      "orgType": "CONG",
-      "address": "AMBILOBE\n\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;32 42 132 77",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "749E7A77-B956-4981-864E-EBF66FCA16DC",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.395919,
+   "longitude": 48.210666
   },
-  {
-    "geoId": "4C155D28-01DB-4E63-BB2A-80D56E771774",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.259305,
-      "longitude": 50.140796
+  "properties": {
+   "orgGuid": "749E7A77-B956-4981-864E-EBF66FCA16DC",
+   "orgName": "Ambatoloaka",
+   "orgType": "CONG",
+   "address": "Antorolava\nAmbatoloaka\n207 NOSY-BE\n\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;32 64 904 32",
+     "ext": ""
     },
-    "properties": {
-      "orgGuid": "4C155D28-01DB-4E63-BB2A-80D56E771774",
-      "orgName": "Sambava Avaratra",
-      "orgType": "CONG",
-      "address": "Antanifotsy\n208 SAMBAVA\n\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0333701492",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
+    {
+     "phone": "+261&nbsp;334013127",
+     "ext": ""
     },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+    {
+     "phone": "+261&nbsp;334013127",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "EDB8216E-1F66-43A3-AAC9-CB1BA22E99EA",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -14.266281,
-      "longitude": 50.166356
-    },
-    "properties": {
-      "orgGuid": "EDB8216E-1F66-43A3-AAC9-CB1BA22E99EA",
-      "orgName": "Sambava Atsimo",
-      "orgType": "CONG",
-      "address": "Ampitan'ny Victoria Hotel\r\nAmbodisatrana\r\nSAMBAVA\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;32 04 720 43",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "25E83069-7526-41F7-A1D2-3D33CABCF236",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.344377,
+   "longitude": 48.191357
   },
-  {
-    "geoId": "20828F4B-F69C-41DB-987B-FE7C47745438",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.965665,
-      "longitude": 49.967951
-    },
-    "properties": {
-      "orgGuid": "20828F4B-F69C-41DB-987B-FE7C47745438",
-      "orgName": "Sambava Antsirabe Nord",
-      "orgType": "CONG",
-      "address": "Vavolombelon'i Jehovah\r\nEfitranon'ny Fanjakan'Andriamanitra\r\nAntsirabe Nord RN 5a\r\n209 SAMBAVA\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "15:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;32 53 373 38",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-03T17:23:33.692Z"
+  "properties": {
+   "orgGuid": "25E83069-7526-41F7-A1D2-3D33CABCF236",
+   "orgName": "Djamandjary",
+   "orgType": "CONG",
+   "address": "NOSY-BE\r\n\r\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "O32 74 247 81 SY 034 4365478",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "4A9F8470-B608-4D38-977E-317C8B6E723B",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.922457,
-      "longitude": 49.965349
-    },
-    "properties": {
-      "orgGuid": "4A9F8470-B608-4D38-977E-317C8B6E723B",
-      "orgName": "Tsarahahitra",
-      "orgType": "CONG",
-      "address": "ANTSIRABE AVARATRA\n\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "15:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0346601416",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-03T17:23:33.692Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B4B15C52-58DD-4C52-99E5-E0E7D6A63797",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.392601,
+   "longitude": 48.264811
   },
-  {
-    "geoId": "439ABD19-2E90-4BB3-9E16-221F6372B8C1",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.870899,
-      "longitude": 49.943064
-    },
-    "properties": {
-      "orgGuid": "439ABD19-2E90-4BB3-9E16-221F6372B8C1",
-      "orgName": "Ampanefena",
-      "orgType": "CONG",
-      "address": "Mahadera Ampanefena Atsimo\r\n209\r\n\r\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0329395523",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-03T17:23:33.692Z"
+  "properties": {
+   "orgGuid": "B4B15C52-58DD-4C52-99E5-E0E7D6A63797",
+   "orgName": "Nosy Be",
+   "orgType": "CONG",
+   "address": "NOSY-BE\n\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:45"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0328066313",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "ED780CDA-E201-4091-9D17-F00424437C16",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.160357,
-      "longitude": 49.234017
-    },
-    "properties": {
-      "orgGuid": "ED780CDA-E201-4091-9D17-F00424437C16",
-      "orgName": "Betsiaka",
-      "orgType": "CONG",
-      "address": "EPP Betsiaka\nAntafiankasaka\n204 AMBILOBE\n\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "16:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0329136933",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "10296141-7B08-4636-8CDE-149D56158092",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.392601,
+   "longitude": 48.264811
   },
-  {
-    "geoId": "FC0DFAC8-3F30-4ADE-B621-B78E50AE6274",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.021357,
-      "longitude": 49.423475
-    },
-    "properties": {
-      "orgGuid": "FC0DFAC8-3F30-4ADE-B621-B78E50AE6274",
-      "orgName": "Ambararata Lokia",
-      "orgType": "CONG",
-      "address": "C/O BP.26 Ambararata Lokia\r\n204 VOHEMAR\r\n\r\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+261&nbsp;322604119",
-          "ext": ""
-        },
-        {
-          "phone": "+261&nbsp;344258185",
-          "ext": ""
-        },
-        {
-          "phone": "+261&nbsp;334566685",
-          "ext": ""
-        },
-        {
-          "phone": "+261&nbsp;322604119",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "10296141-7B08-4636-8CDE-149D56158092",
+   "orgName": "Nosy Be Teny Tankarana",
+   "orgType": "CONG",
+   "address": "NOSY-BE\n\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "07:30"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0327435981 - 0324298601_0344477347",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "E2690EC8-D3F1-4684-B479-86026962FA9E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -12.743527,
-      "longitude": 49.232949
-    },
-    "properties": {
-      "orgGuid": "E2690EC8-D3F1-4684-B479-86026962FA9E",
-      "orgName": "Anivorano-Nord",
-      "orgType": "CONG",
-      "address": "CEG Anivorano Avaratra\n202 ANIVORANO AVARATRA\n\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0320471198",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "ADFF07A1-7B9C-456E-9CDF-EA252247E689",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.599426,
+   "longitude": 49.509833
   },
-  {
-    "geoId": "C5AB5560-8530-4197-A92E-44A1B4148A8E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -12.640989,
-      "longitude": 49.248722
-    },
-    "properties": {
-      "orgGuid": "C5AB5560-8530-4197-A92E-44A1B4148A8E",
-      "orgName": "Antsalaka",
-      "orgType": "CONG",
-      "address": "École Privée Les Petits Lutins\r\nAntsalaka AntsirananaII\r\n202 ANTSALAKA\r\n\r\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0345239632,0333797658",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "ADFF07A1-7B9C-456E-9CDF-EA252247E689",
+   "orgName": "Ambodiangezoka",
+   "orgType": "CONG",
+   "address": "Ambodiangezoka\nANDAPA\n\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0324402141",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "BC8D4FC3-35A7-4FC4-96FE-A5367D98C2A8",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -13.361209,
-      "longitude": 50.012531
-    },
-    "properties": {
-      "orgGuid": "BC8D4FC3-35A7-4FC4-96FE-A5367D98C2A8",
-      "orgName": "Vohemar",
-      "orgType": "CONG",
-      "address": "Vohemar\r\nVOHEMAR\r\n\r\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0329281178",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "CF2CE229-E152-43D7-8EF7-4CAB90D59033",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.652957,
+   "longitude": 49.647601
   },
-  {
-    "geoId": "13F914FD-4C62-4F46-8AA7-2EB02436E562",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -12.464197,
-      "longitude": 49.380069
-    },
-    "properties": {
-      "orgGuid": "13F914FD-4C62-4F46-8AA7-2EB02436E562",
-      "orgName": "Mahavanona",
-      "orgType": "CONG",
-      "address": "EPP Mahavanona\n202 MAHAVANONA\n\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "14:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0322584184",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": true
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "CF2CE229-E152-43D7-8EF7-4CAB90D59033",
+   "orgName": "Andapa",
+   "orgType": "CONG",
+   "address": "ANDAPA\n\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "16:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0333170384",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "99B0E682-F420-4FF7-A235-445FFBA335A3",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -12.308301,
-      "longitude": 49.289601
-    },
-    "properties": {
-      "orgGuid": "99B0E682-F420-4FF7-A235-445FFBA335A3",
-      "orgName": "Antsiranana Morafeno",
-      "orgType": "CONG",
-      "address": "Andrefan'ny Lycee Technique\r\nAmbohimitsinjo\r\nAmbalavola\r\n201 ANTSIRANANA I\r\n\r\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "07:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0326920874",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "7F70367B-99A8-4DD9-8701-E79B1FBA4085",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.624268,
+   "longitude": 49.718697
   },
-  {
-    "geoId": "398A0EE4-71B5-4CD1-9A0F-5F514D02A860",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -12.308301,
-      "longitude": 49.289601
-    },
-    "properties": {
-      "orgGuid": "398A0EE4-71B5-4CD1-9A0F-5F514D02A860",
-      "orgName": "Antsiranana Soafeno",
-      "orgType": "CONG",
-      "address": "Andrefan'ny Lycee Technique\r\nAmbohimitsinjo\r\nAmbalavola\r\n201 ANTSIRANANA I\r\n\r\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:15"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:15"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "033 37 965 65, 032 77 263 39 , 032 40 485 33",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "7F70367B-99A8-4DD9-8701-E79B1FBA4085",
+   "orgName": "Maroambihy",
+   "orgType": "CONG",
+   "address": "Ampitan'i Bidany\r\n208 SAMBAVA\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;322220586",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "95F8F948-B760-40E0-8E3E-2EE3096E74A6",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -12.291231,
-      "longitude": 49.297179
-    },
-    "properties": {
-      "orgGuid": "95F8F948-B760-40E0-8E3E-2EE3096E74A6",
-      "orgName": "Antsiranana Afovoany",
-      "orgType": "CONG",
-      "address": "Antsiranana\r\n201 ANTSIRANANA I\r\n\r\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "08:30"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "18:00"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "TTM"
-      ],
-      "phones": [
-        {
-          "phone": "0320451527, 0333776564, 0333701347, 0325158766",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "DF10FA06-3454-4704-813E-D4810E06194E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.373867,
+   "longitude": 49.518923
   },
-  {
-    "geoId": "C2D4B700-8954-475B-8660-C52D992BC73A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -12.291231,
-      "longitude": 49.297179
-    },
-    "properties": {
-      "orgGuid": "C2D4B700-8954-475B-8660-C52D992BC73A",
-      "orgName": "Antsiranana Atsinanana",
-      "orgType": "CONG",
-      "address": "Antsiranana\r\n201 ANTSIRANANA I\r\n\r\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "16:30"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "17:45"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0325151904",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "DF10FA06-3454-4704-813E-D4810E06194E",
+   "orgName": "Doany",
+   "orgType": "CONG",
+   "address": "Andilampaka Doany Làlana mandeha Antsahamena\r\n205 ANDAPA\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "14:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0324715854",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
   },
-  {
-    "geoId": "4EA936DD-2814-4BE1-8A6F-A4F4248A3916",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -12.291231,
-      "longitude": 49.297179
-    },
-    "properties": {
-      "orgGuid": "4EA936DD-2814-4BE1-8A6F-A4F4248A3916",
-      "orgName": "Antsiranana Avaratra",
-      "orgType": "CONG",
-      "address": "Antsiranana\r\n201 ANTSIRANANA I\r\n\r\n",
-      "languageCode": "MG",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "14:15"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "17:45"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0324004813 0338135041 0331381822",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "86337F0D-8247-49E0-9D41-25C46A932F16",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.991873,
+   "longitude": 50.165222
   },
-  {
-    "geoId": "BD413424-8AF6-41E0-AEF5-D2FE3A7964FE",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -12.291231,
-      "longitude": 49.297179
+  "properties": {
+   "orgGuid": "86337F0D-8247-49E0-9D41-25C46A932F16",
+   "orgName": "Antombana Antalaha - Antalaha Andrefana",
+   "orgType": "GROUP",
+   "address": "Antombana Tanambaovao Atsimon'ny Hopitaly\r\n710 ANTALAHA\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": null,
+      "time": null
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;330209427",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "2F7969BF-E659-43AC-BF3E-43114CD127B8",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.911356,
+   "longitude": 50.274579
+  },
+  "properties": {
+   "orgGuid": "2F7969BF-E659-43AC-BF3E-43114CD127B8",
+   "orgName": "Antalaha Andrefana",
+   "orgType": "CONG",
+   "address": "Ambatoratsy\nAntalaha Ouest\n206 ANTALAHA\n\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;330209427",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "72FBFD12-8AC9-4332-AF07-959E18337E36",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.909649,
+   "longitude": 50.283128
+  },
+  "properties": {
+   "orgGuid": "72FBFD12-8AC9-4332-AF07-959E18337E36",
+   "orgName": "Antalaha Avaratra",
+   "orgType": "CONG",
+   "address": "Ankoalabe Analamboahangy\r\nAntalaha\r\n206 ANTSIRANANA\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "15:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "032 63 048 29",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "785B557C-388B-46AA-AD3A-6265487C1EBD",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.909649,
+   "longitude": 50.283128
+  },
+  "properties": {
+   "orgGuid": "785B557C-388B-46AA-AD3A-6265487C1EBD",
+   "orgName": "Antalaha Atsimo",
+   "orgType": "CONG",
+   "address": "Ankoalabe Analamboahangy\r\nAntalaha\r\n206 ANTSIRANANA\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "07:45"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;32 92 495 27",
+     "ext": ""
     },
-    "properties": {
-      "orgGuid": "BD413424-8AF6-41E0-AEF5-D2FE3A7964FE",
-      "orgName": "Antsiranana Andrefana",
-      "orgType": "CONG",
-      "address": "Antsiranana\r\n201 ANTSIRANANA I\r\n\r\n",
-      "languageCode": "TNK",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "07:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "18:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "032 54 080 31; 032 57 738 14;",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
+    {
+     "phone": "+261&nbsp;32 92 495 27",
+     "ext": ""
     },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+    {
+     "phone": "+261&nbsp;329249527",
+     "ext": ""
+    },
+    {
+     "phone": "+261&nbsp;34 19 728 19",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "48FDA8E0-0FC7-4502-88DC-46633FBCE87E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.841546,
+   "longitude": 50.256914
+  },
+  "properties": {
+   "orgGuid": "48FDA8E0-0FC7-4502-88DC-46633FBCE87E",
+   "orgName": "Ambatofisaka Antalaha",
+   "orgType": "CONG",
+   "address": "Ambatofisaka Antalaha\r\nANTALAHA\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261324966359",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4CA89EDE-2C84-4977-9C76-A1DA1A8F7589",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.613798,
+   "longitude": 50.053455
+  },
+  "properties": {
+   "orgGuid": "4CA89EDE-2C84-4977-9C76-A1DA1A8F7589",
+   "orgName": "Lanjarivo",
+   "orgType": "CONG",
+   "address": "EPP\nLanjarivo\n206 ANTALAHA\n\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "14:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "032 63 048 29",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "3B2C44DC-6130-4B1C-B8E9-03D88A17A861",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.212148,
+   "longitude": 49.946241
+  },
+  "properties": {
+   "orgGuid": "3B2C44DC-6130-4B1C-B8E9-03D88A17A861",
+   "orgName": "Analamaho",
+   "orgType": "CONG",
+   "address": "NOSIARINA\n\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;337000327",
+     "ext": ""
+    },
+    {
+     "phone": "+261&nbsp;32 71 692 85",
+     "ext": ""
+    },
+    {
+     "phone": "+261&nbsp;33 70 003 27",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-04T02:43:02.995Z"
+ },
+ {
+  "geoId": "1BE73418-D64D-4EBA-A518-2360C9DD6527",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.090288,
+   "longitude": 48.925321
+  },
+  "properties": {
+   "orgGuid": "1BE73418-D64D-4EBA-A518-2360C9DD6527",
+   "orgName": "Sirama Ambilobe",
+   "orgType": "CONG",
+   "address": "Village Ylang\n204 AMBILOBE\n\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;327884875",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "0A9EE9A0-D4B9-4BB7-BD31-23E1F1DF4E1B",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.208357,
+   "longitude": 50.050118
+  },
+  "properties": {
+   "orgGuid": "0A9EE9A0-D4B9-4BB7-BD31-23E1F1DF4E1B",
+   "orgName": "Nosiarina",
+   "orgType": "CONG",
+   "address": "Nosiarina\r\nNOSIARINA\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "8D0413EC-A4C3-41B3-AE8B-684B5ABBA1E5",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.190037,
+   "longitude": 49.050193
+  },
+  "properties": {
+   "orgGuid": "8D0413EC-A4C3-41B3-AE8B-684B5ABBA1E5",
+   "orgName": "Ambilobe Atsimo",
+   "orgType": "CONG",
+   "address": "AMBILOBE\n\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:15"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0334168888 na 0329049956",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "FDB4E3F4-EAAE-40A6-82D8-A034560CB54D",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.190037,
+   "longitude": 49.050193
+  },
+  "properties": {
+   "orgGuid": "FDB4E3F4-EAAE-40A6-82D8-A034560CB54D",
+   "orgName": "Ambilobe Avaratra",
+   "orgType": "CONG",
+   "address": "AMBILOBE\n\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;32 42 132 77",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4C155D28-01DB-4E63-BB2A-80D56E771774",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.259305,
+   "longitude": 50.140796
+  },
+  "properties": {
+   "orgGuid": "4C155D28-01DB-4E63-BB2A-80D56E771774",
+   "orgName": "Sambava Avaratra",
+   "orgType": "CONG",
+   "address": "Antanifotsy\n208 SAMBAVA\n\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0333701492",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "EDB8216E-1F66-43A3-AAC9-CB1BA22E99EA",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -14.266281,
+   "longitude": 50.166356
+  },
+  "properties": {
+   "orgGuid": "EDB8216E-1F66-43A3-AAC9-CB1BA22E99EA",
+   "orgName": "Sambava Atsimo",
+   "orgType": "CONG",
+   "address": "Ampitan'ny Victoria Hotel\r\nAmbodisatrana\r\nSAMBAVA\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;32 04 720 43",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "20828F4B-F69C-41DB-987B-FE7C47745438",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.965665,
+   "longitude": 49.967951
+  },
+  "properties": {
+   "orgGuid": "20828F4B-F69C-41DB-987B-FE7C47745438",
+   "orgName": "Sambava Antsirabe Nord",
+   "orgType": "CONG",
+   "address": "Vavolombelon'i Jehovah\r\nEfitranon'ny Fanjakan'Andriamanitra\r\nAntsirabe Nord RN 5a\r\n209 SAMBAVA\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0327146403",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-03T17:23:33.692Z"
+ },
+ {
+  "geoId": "4A9F8470-B608-4D38-977E-317C8B6E723B",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.922457,
+   "longitude": 49.965349
+  },
+  "properties": {
+   "orgGuid": "4A9F8470-B608-4D38-977E-317C8B6E723B",
+   "orgName": "Tsarahahitra",
+   "orgType": "CONG",
+   "address": "ANTSIRABE AVARATRA\n\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0346601416",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-03T17:23:33.692Z"
+ },
+ {
+  "geoId": "439ABD19-2E90-4BB3-9E16-221F6372B8C1",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.870899,
+   "longitude": 49.943064
+  },
+  "properties": {
+   "orgGuid": "439ABD19-2E90-4BB3-9E16-221F6372B8C1",
+   "orgName": "Ampanefena",
+   "orgType": "CONG",
+   "address": "Mahadera Ampanefena Atsimo\r\n209\r\n\r\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0329395523",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-03T17:23:33.692Z"
+ },
+ {
+  "geoId": "ED780CDA-E201-4091-9D17-F00424437C16",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.160357,
+   "longitude": 49.234017
+  },
+  "properties": {
+   "orgGuid": "ED780CDA-E201-4091-9D17-F00424437C16",
+   "orgName": "Betsiaka",
+   "orgType": "CONG",
+   "address": "EPP Betsiaka\nAntafiankasaka\n204 AMBILOBE\n\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "16:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0329136933",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "FC0DFAC8-3F30-4ADE-B621-B78E50AE6274",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.021357,
+   "longitude": 49.423475
+  },
+  "properties": {
+   "orgGuid": "FC0DFAC8-3F30-4ADE-B621-B78E50AE6274",
+   "orgName": "Ambararata Lokia",
+   "orgType": "CONG",
+   "address": "C/O BP.26 Ambararata Lokia\r\n204 VOHEMAR\r\n\r\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+261&nbsp;322604119",
+     "ext": ""
+    },
+    {
+     "phone": "+261&nbsp;344258185",
+     "ext": ""
+    },
+    {
+     "phone": "+261&nbsp;334566685",
+     "ext": ""
+    },
+    {
+     "phone": "+261&nbsp;322604119",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "E2690EC8-D3F1-4684-B479-86026962FA9E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -12.743527,
+   "longitude": 49.232949
+  },
+  "properties": {
+   "orgGuid": "E2690EC8-D3F1-4684-B479-86026962FA9E",
+   "orgName": "Anivorano-Nord",
+   "orgType": "CONG",
+   "address": "CEG Anivorano Avaratra\n202 ANIVORANO AVARATRA\n\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0320471198",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "C5AB5560-8530-4197-A92E-44A1B4148A8E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -12.640989,
+   "longitude": 49.248722
+  },
+  "properties": {
+   "orgGuid": "C5AB5560-8530-4197-A92E-44A1B4148A8E",
+   "orgName": "Antsalaka",
+   "orgType": "CONG",
+   "address": "École Privée Les Petits Lutins\r\nAntsalaka AntsirananaII\r\n202 ANTSALAKA\r\n\r\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "16:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0345239632  0333797658",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "BC8D4FC3-35A7-4FC4-96FE-A5367D98C2A8",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -13.361209,
+   "longitude": 50.012531
+  },
+  "properties": {
+   "orgGuid": "BC8D4FC3-35A7-4FC4-96FE-A5367D98C2A8",
+   "orgName": "Vohemar",
+   "orgType": "CONG",
+   "address": "Vohemar\r\nVOHEMAR\r\n\r\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0329281178",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "13F914FD-4C62-4F46-8AA7-2EB02436E562",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -12.464197,
+   "longitude": 49.380069
+  },
+  "properties": {
+   "orgGuid": "13F914FD-4C62-4F46-8AA7-2EB02436E562",
+   "orgName": "Mahavanona",
+   "orgType": "CONG",
+   "address": "EPP Mahavanona\n202 MAHAVANONA\n\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "08:30"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "14:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0328208244",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "99B0E682-F420-4FF7-A235-445FFBA335A3",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -12.308301,
+   "longitude": 49.289601
+  },
+  "properties": {
+   "orgGuid": "99B0E682-F420-4FF7-A235-445FFBA335A3",
+   "orgName": "Antsiranana Morafeno",
+   "orgType": "CONG",
+   "address": "Andrefan'ny Lycee Technique\r\nAmbohimitsinjo\r\nAmbalavola\r\n201 ANTSIRANANA I\r\n\r\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "07:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0326920874",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "398A0EE4-71B5-4CD1-9A0F-5F514D02A860",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -12.308301,
+   "longitude": 49.289601
+  },
+  "properties": {
+   "orgGuid": "398A0EE4-71B5-4CD1-9A0F-5F514D02A860",
+   "orgName": "Antsiranana Soafeno",
+   "orgType": "CONG",
+   "address": "Andrefan'ny Lycee Technique\r\nAmbohimitsinjo\r\nAmbalavola\r\n201 ANTSIRANANA I\r\n\r\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "07:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:15"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "033 37 965 65, 032 77 263 39 , 032 40 485 33",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "95F8F948-B760-40E0-8E3E-2EE3096E74A6",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -12.291231,
+   "longitude": 49.297179
+  },
+  "properties": {
+   "orgGuid": "95F8F948-B760-40E0-8E3E-2EE3096E74A6",
+   "orgName": "Antsiranana Afovoany",
+   "orgType": "CONG",
+   "address": "Antsiranana\r\n201 ANTSIRANANA I\r\n\r\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:20"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:30"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "TTM"
+   ],
+   "phones": [
+    {
+     "phone": "0321101450, 0333776564, 0333701347, 0325158766",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "C2D4B700-8954-475B-8660-C52D992BC73A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -12.291231,
+   "longitude": 49.297179
+  },
+  "properties": {
+   "orgGuid": "C2D4B700-8954-475B-8660-C52D992BC73A",
+   "orgName": "Antsiranana Atsinanana",
+   "orgType": "CONG",
+   "address": "Antsiranana\r\n201 ANTSIRANANA I\r\n\r\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "07:00"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "17:45"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0325151904",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "4EA936DD-2814-4BE1-8A6F-A4F4248A3916",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -12.291231,
+   "longitude": 49.297179
+  },
+  "properties": {
+   "orgGuid": "4EA936DD-2814-4BE1-8A6F-A4F4248A3916",
+   "orgName": "Antsiranana Avaratra",
+   "orgType": "CONG",
+   "address": "Antsiranana\r\n201 ANTSIRANANA I\r\n\r\n",
+   "languageCode": "MG",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "16:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "17:45"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0324004813 0338135041 0331381822",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "BD413424-8AF6-41E0-AEF5-D2FE3A7964FE",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -12.291231,
+   "longitude": 49.297179
+  },
+  "properties": {
+   "orgGuid": "BD413424-8AF6-41E0-AEF5-D2FE3A7964FE",
+   "orgName": "Antsiranana Andrefana",
+   "orgType": "CONG",
+   "address": "Antsiranana\r\n201 ANTSIRANANA I\r\n\r\n",
+   "languageCode": "TNK",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "07:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "18:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "032 54 080 31; 032 57 738 14;",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

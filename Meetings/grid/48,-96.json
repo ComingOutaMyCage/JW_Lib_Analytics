@@ -1,382 +1,382 @@
 [
-  {
-    "geoId": "232E4599-063E-4D03-8FF2-1F57862656D4",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.839378,
-      "longitude": -95.770249
-    },
-    "properties": {
-      "orgGuid": "232E4599-063E-4D03-8FF2-1F57862656D4",
-      "orgName": "Roseau - MN (USA)",
-      "orgType": "CONG",
-      "address": "607 5th Ave S W\nRoseau MN  56757\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "218-463-3017",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+ {
+  "geoId": "232E4599-063E-4D03-8FF2-1F57862656D4",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.839378,
+   "longitude": -95.770249
   },
-  {
-    "geoId": "0D16BA01-AB1A-495D-886E-BDCB489BDE42",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.710298,
-      "longitude": -94.590828
-    },
-    "properties": {
-      "orgGuid": "0D16BA01-AB1A-495D-886E-BDCB489BDE42",
-      "orgName": "Baudette - MN (USA)",
-      "orgType": "CONG",
-      "address": "210 4th Ave SE\nBaudette MN  56623\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(218) 202-0055",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "232E4599-063E-4D03-8FF2-1F57862656D4",
+   "orgName": "Roseau - MN (USA)",
+   "orgType": "CONG",
+   "address": "607 5th Ave S W\nRoseau MN  56757\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "218-463-3017",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "6AD78C7A-E52A-48F6-B921-5DC18913B33D",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.620454,
-      "longitude": -93.583598
-    },
-    "properties": {
-      "orgGuid": "6AD78C7A-E52A-48F6-B921-5DC18913B33D",
-      "orgName": "Fort Frances, ON",
-      "orgType": "CONG",
-      "address": "Heward Road & Highway 11\r\nRR 1\r\nFort Frances ON  P9A 3M3\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "807-709-8484",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "0D16BA01-AB1A-495D-886E-BDCB489BDE42",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.710298,
+   "longitude": -94.590828
   },
-  {
-    "geoId": "406FAA1A-413E-4F5C-8157-7D7EEA13E8D5",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.590606,
-      "longitude": -93.40455
-    },
-    "properties": {
-      "orgGuid": "406FAA1A-413E-4F5C-8157-7D7EEA13E8D5",
-      "orgName": "International Falls - MN (USA)",
-      "orgType": "CONG",
-      "address": "1500 3rd Ave W\nInternational Falls MN  56649\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "218 283-4684",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "0D16BA01-AB1A-495D-886E-BDCB489BDE42",
+   "orgName": "Baudette - MN (USA)",
+   "orgType": "CONG",
+   "address": "210 4th Ave SE\nBaudette MN  56623\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(218) 202-0055",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "932C171A-4611-4753-B0DE-4CDD288F4CD9",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 49.783337,
-      "longitude": -94.438645
-    },
-    "properties": {
-      "orgGuid": "932C171A-4611-4753-B0DE-4CDD288F4CD9",
-      "orgName": "Kenora, ON",
-      "orgType": "CONG",
-      "address": "68 Donbrock Drive\r\nKenora ON  P9N 0A2\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "807-407-8360",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "6AD78C7A-E52A-48F6-B921-5DC18913B33D",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.620454,
+   "longitude": -93.583598
   },
-  {
-    "geoId": "1423C574-52C8-43C0-A2E2-A360206A9137",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 49.802653,
-      "longitude": -92.84472
-    },
-    "properties": {
-      "orgGuid": "1423C574-52C8-43C0-A2E2-A360206A9137",
-      "orgName": "Dryden, ON",
-      "orgType": "CONG",
-      "address": "43 Boyd Road\r\nDryden ON  P8N 2Y5\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(866) 399-7888",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "6AD78C7A-E52A-48F6-B921-5DC18913B33D",
+   "orgName": "Fort Frances, ON",
+   "orgType": "CONG",
+   "address": "Heward Road & Highway 11\r\nRR 1\r\nFort Frances ON  P9A 3M3\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "807-709-8484",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "49E5B026-CD01-4CE5-9F17-10EB2E4C81F7",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.753307,
-      "longitude": -91.59608
-    },
-    "properties": {
-      "orgGuid": "49E5B026-CD01-4CE5-9F17-10EB2E4C81F7",
-      "orgName": "Atikokan, ON",
-      "orgType": "CONG",
-      "address": "206 Dorothy Street\r\nAtikokan ON  P0T 1C0\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(807) 276-7985",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "406FAA1A-413E-4F5C-8157-7D7EEA13E8D5",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.590606,
+   "longitude": -93.40455
   },
-  {
-    "geoId": "FFBF8840-C62A-4890-9EFD-0055F1C98DDA",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 51.017204,
-      "longitude": -93.811542
-    },
-    "properties": {
-      "orgGuid": "FFBF8840-C62A-4890-9EFD-0055F1C98DDA",
-      "orgName": "Red Lake, ON",
-      "orgType": "CONG",
-      "address": "60 Young Street\r\nRed Lake ON  P0V 2M0\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "807 727 1914",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z",
-    "lastSeen": "2022-12-04T03:24:55.715Z"
+  "properties": {
+   "orgGuid": "406FAA1A-413E-4F5C-8157-7D7EEA13E8D5",
+   "orgName": "International Falls - MN (USA)",
+   "orgType": "CONG",
+   "address": "1500 3rd Ave W\nInternational Falls MN  56649\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "218 283-4684",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "FF90B29E-5134-4457-9632-DA3C62FB38AD",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.421257,
-      "longitude": -89.270551
-    },
-    "properties": {
-      "orgGuid": "FF90B29E-5134-4457-9632-DA3C62FB38AD",
-      "orgName": "Lakeshore, Thunder Bay, ON",
-      "orgType": "CONG",
-      "address": "1034 Oliver Road\r\nRR 17\r\nThunder Bay ON  P7B 7A5\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "807-697-3381",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "932C171A-4611-4753-B0DE-4CDD288F4CD9",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 49.783337,
+   "longitude": -94.438645
   },
-  {
-    "geoId": "0487F84D-5885-42CD-A251-811053397E90",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 48.421257,
-      "longitude": -89.270551
-    },
-    "properties": {
-      "orgGuid": "0487F84D-5885-42CD-A251-811053397E90",
-      "orgName": "Silver Falls, Thunder Bay, ON",
-      "orgType": "CONG",
-      "address": "1034 Oliver Road\r\nRR 17\r\nThunder Bay ON  P7B 7A5\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "807-697-3380",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "lastSeen": "2022-12-04T01:49:25.241Z",
-    "active": false,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "properties": {
+   "orgGuid": "932C171A-4611-4753-B0DE-4CDD288F4CD9",
+   "orgName": "Kenora, ON",
+   "orgType": "CONG",
+   "address": "68 Donbrock Drive\r\nKenora ON  P9N 0A2\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "807-407-8360",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "1423C574-52C8-43C0-A2E2-A360206A9137",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 49.802653,
+   "longitude": -92.84472
+  },
+  "properties": {
+   "orgGuid": "1423C574-52C8-43C0-A2E2-A360206A9137",
+   "orgName": "Dryden, ON",
+   "orgType": "CONG",
+   "address": "43 Boyd Road\r\nDryden ON  P8N 2Y5\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(866) 399-7888",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "49E5B026-CD01-4CE5-9F17-10EB2E4C81F7",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.753307,
+   "longitude": -91.59608
+  },
+  "properties": {
+   "orgGuid": "49E5B026-CD01-4CE5-9F17-10EB2E4C81F7",
+   "orgName": "Atikokan, ON",
+   "orgType": "CONG",
+   "address": "206 Dorothy Street\r\nAtikokan ON  P0T 1C0\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(807) 276-7985",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "FFBF8840-C62A-4890-9EFD-0055F1C98DDA",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 51.017204,
+   "longitude": -93.811542
+  },
+  "properties": {
+   "orgGuid": "FFBF8840-C62A-4890-9EFD-0055F1C98DDA",
+   "orgName": "Red Lake, ON",
+   "orgType": "CONG",
+   "address": "60 Young Street\r\nRed Lake ON  P0V 2M0\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "807 727 1914",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "FF90B29E-5134-4457-9632-DA3C62FB38AD",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.421257,
+   "longitude": -89.270551
+  },
+  "properties": {
+   "orgGuid": "FF90B29E-5134-4457-9632-DA3C62FB38AD",
+   "orgName": "Lakeshore, Thunder Bay, ON",
+   "orgType": "CONG",
+   "address": "1034 Oliver Road\r\nRR 17\r\nThunder Bay ON  P7B 7A5\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "807-697-3381",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "0487F84D-5885-42CD-A251-811053397E90",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 48.421257,
+   "longitude": -89.270551
+  },
+  "properties": {
+   "orgGuid": "0487F84D-5885-42CD-A251-811053397E90",
+   "orgName": "Silver Falls, Thunder Bay, ON",
+   "orgType": "CONG",
+   "address": "1034 Oliver Road\r\nRR 17\r\nThunder Bay ON  P7B 7A5\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "807-697-3380",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

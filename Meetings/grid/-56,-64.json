@@ -1,37 +1,38 @@
 [
-  {
-    "geoId": "C13D3103-EB5E-426A-84F3-F199F5D30C53",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": -51.693837,
-      "longitude": -57.859604
-    },
-    "properties": {
-      "orgGuid": "C13D3103-EB5E-426A-84F3-F199F5D30C53",
-      "orgName": "Falkland Islands - Stanley",
-      "orgType": "CONG",
-      "address": "Dean Street\nPort Stanley\nSTANLEY\nFALKLAND ISLANDS\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "18:15"
-          }
-        }
-      },
-      "relatedLanguageCodes": [
-        "S"
-      ],
-      "phones": [],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+ {
+  "geoId": "C13D3103-EB5E-426A-84F3-F199F5D30C53",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -51.693837,
+   "longitude": -57.859604
+  },
+  "properties": {
+   "orgGuid": "C13D3103-EB5E-426A-84F3-F199F5D30C53",
+   "orgName": "Falkland Islands - Stanley",
+   "orgType": "CONG",
+   "address": "Dean Street\nPort Stanley\nSTANLEY\nFALKLAND ISLANDS\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "18:15"
+     }
+    }
+   },
+   "relatedLanguageCodes": [
+    "S"
+   ],
+   "phones": [],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

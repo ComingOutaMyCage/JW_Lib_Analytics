@@ -1,150 +1,154 @@
 [
-  {
-    "geoId": "76720A2B-F434-46F3-B99A-2125E0B0796E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 56.244571,
-      "longitude": -117.295002
-    },
-    "properties": {
-      "orgGuid": "76720A2B-F434-46F3-B99A-2125E0B0796E",
-      "orgName": "Peace River, AB",
-      "orgType": "CONG",
-      "address": "9710 89 Avenue\r\nPeace River AB  T8S 1G8\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "19:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(825) 255-5654",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "76720A2B-F434-46F3-B99A-2125E0B0796E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 56.244571,
+   "longitude": -117.295002
   },
-  {
-    "geoId": "F7FE1B62-9791-4A44-967F-BDCEB6DB049E",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 58.516276,
-      "longitude": -117.140925
-    },
-    "properties": {
-      "orgGuid": "F7FE1B62-9791-4A44-967F-BDCEB6DB049E",
-      "orgName": "High Level, AB",
-      "orgType": "CONG",
-      "address": "10310 102 Street\r\nHigh Level AB  T0H 1Z0\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 2,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(825) 516-7086",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "properties": {
+   "orgGuid": "76720A2B-F434-46F3-B99A-2125E0B0796E",
+   "orgName": "Peace River, AB",
+   "orgType": "CONG",
+   "address": "9710 89 Avenue\r\nPeace River AB  T8S 1G8\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "19:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(825) 255-5654",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
   },
-  {
-    "geoId": "C29FA4B0-55DF-4244-9243-B44123B1718C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 60.774457,
-      "longitude": -115.839939
-    },
-    "properties": {
-      "orgGuid": "C29FA4B0-55DF-4244-9243-B44123B1718C",
-      "orgName": "Hay River, NT",
-      "orgType": "CONG",
-      "address": "458 Miron Drirve\r\nHay River NT  X0E 0R2\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "867-875-7935",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "F7FE1B62-9791-4A44-967F-BDCEB6DB049E",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 58.516276,
+   "longitude": -117.140925
   },
-  {
-    "geoId": "9EE1C3AF-9A0B-4DFF-9D8A-E80CC81B9A27",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 62.463343,
-      "longitude": -114.375752
-    },
-    "properties": {
-      "orgGuid": "9EE1C3AF-9A0B-4DFF-9D8A-E80CC81B9A27",
-      "orgName": "Yellowknife, NT",
-      "orgType": "CONG",
-      "address": "100 Niven Gate\r\nYellowknife NT  X1A OA1\r\n\r\n",
-      "languageCode": "E",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "(867) 675-1336",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "properties": {
+   "orgGuid": "F7FE1B62-9791-4A44-967F-BDCEB6DB049E",
+   "orgName": "High Level, AB",
+   "orgType": "CONG",
+   "address": "10310 102 Street\r\nHigh Level AB  T0H 1Z0\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 2,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(825) 516-7086",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "C29FA4B0-55DF-4244-9243-B44123B1718C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 60.774457,
+   "longitude": -115.839939
+  },
+  "properties": {
+   "orgGuid": "C29FA4B0-55DF-4244-9243-B44123B1718C",
+   "orgName": "Hay River, NT",
+   "orgType": "CONG",
+   "address": "458 Miron Drirve\r\nHay River NT  X0E 0R2\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "867-875-7935",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "9EE1C3AF-9A0B-4DFF-9D8A-E80CC81B9A27",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 62.463343,
+   "longitude": -114.375752
+  },
+  "properties": {
+   "orgGuid": "9EE1C3AF-9A0B-4DFF-9D8A-E80CC81B9A27",
+   "orgName": "Yellowknife, NT",
+   "orgType": "CONG",
+   "address": "100 Niven Gate\r\nYellowknife NT  X1A OA1\r\n\r\n",
+   "languageCode": "E",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "(867) 675-1336",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

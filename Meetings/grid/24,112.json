@@ -1,41 +1,42 @@
 [
-  {
-    "geoId": "F5A7B77A-7E6D-4EE8-8E77-283CEFE3B55C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 24.442475,
-      "longitude": 118.414357
-    },
-    "properties": {
-      "orgGuid": "F5A7B77A-7E6D-4EE8-8E77-283CEFE3B55C",
-      "orgName": "金門縣金湖鎮金湖會眾",
-      "orgType": "CONG",
-      "orgTransliteratedName": "Jinhu Congregation, Jinhu Township, Kinmen County",
-      "address": "89141\r\n金門縣 金湖鎮 復興西路2號7樓\r\n\r\n",
-      "transliteratedAddress": "89141\r\nKinmen County Jinhu Township, Kinmen County 7F., No. 2, Fuxing W. Rd.\r\n\r\n",
-      "languageCode": "CHM",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "09:30"
-          },
-          "midweek": {
-            "weekday": 5,
-            "time": "19:30"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0987873563 / 0922418182",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+ {
+  "geoId": "F5A7B77A-7E6D-4EE8-8E77-283CEFE3B55C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 24.442475,
+   "longitude": 118.414357
+  },
+  "properties": {
+   "orgGuid": "F5A7B77A-7E6D-4EE8-8E77-283CEFE3B55C",
+   "orgName": "金門縣金湖鎮金湖會眾",
+   "orgType": "CONG",
+   "orgTransliteratedName": "Jinhu Congregation, Jinhu Township, Kinmen County",
+   "address": "89141\r\n金門縣 金湖鎮 復興西路2號7樓\r\n\r\n",
+   "transliteratedAddress": "89141\r\nKinmen County Jinhu Township, Kinmen County 7F., No. 2, Fuxing W. Rd.\r\n\r\n",
+   "languageCode": "CHM",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "09:30"
+     },
+     "midweek": {
+      "weekday": 5,
+      "time": "19:30"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0987873563 / 0922418182",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

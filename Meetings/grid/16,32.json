@@ -1,39 +1,40 @@
 [
-  {
-    "geoId": "EE090FDA-B59C-4BB5-A669-551CE956FA1A",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 19.577882,
-      "longitude": 37.177387
-    },
-    "properties": {
-      "orgGuid": "EE090FDA-B59C-4BB5-A669-551CE956FA1A",
-      "orgName": "Port Sudan - RS - Takamol - Khartoum North KH",
-      "orgType": "GROUP",
-      "address": "Port Sudan South-Hai Al Neel PortSudan\r\nBlock 2\r\nPlot no. 23 and 24\r\nPort Sudan\r\nSudan\r\n",
-      "languageCode": "ASN",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 5,
-            "time": "10:00"
-          },
-          "midweek": {
-            "weekday": 7,
-            "time": "15:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "0922971757",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+ {
+  "geoId": "EE090FDA-B59C-4BB5-A669-551CE956FA1A",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 19.577882,
+   "longitude": 37.177387
+  },
+  "properties": {
+   "orgGuid": "EE090FDA-B59C-4BB5-A669-551CE956FA1A",
+   "orgName": "Port Sudan - RS - Takamol - Khartoum North KH",
+   "orgType": "GROUP",
+   "address": "Port Sudan South-Hai Al Neel PortSudan\r\nBlock 2\r\nPlot no. 23 and 24\r\nPort Sudan\r\nSudan\r\n",
+   "languageCode": "ASN",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 5,
+      "time": "10:00"
+     },
+     "midweek": {
+      "weekday": 7,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "0922971757",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]

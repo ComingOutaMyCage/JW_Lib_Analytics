@@ -1,80 +1,82 @@
 [
-  {
-    "geoId": "4E0C721F-DA73-4678-B4ED-2BC14E9FACCB",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 39.849542,
-      "longitude": 44.696347
-    },
-    "properties": {
-      "orgGuid": "4E0C721F-DA73-4678-B4ED-2BC14E9FACCB",
-      "orgName": "ԱՐԱՐԱՏ, ՀԱՐԱՎԱՅԻՆ",
-      "orgType": "CONG",
-      "orgTransliteratedName": "Ararat, Haravayin",
-      "address": "ք. Արարատ, Խանջյան 18/1 շենք\r\nԱրարատ ք. 370602\r\n",
-      "transliteratedAddress": "18/1 Khanjyan Street\r\nArarat (city) 370602\r\n",
-      "languageCode": "REA",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 6,
-            "time": "11:00"
-          },
-          "midweek": {
-            "weekday": 3,
-            "time": "17:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+374-55-282-335",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
+ {
+  "geoId": "4E0C721F-DA73-4678-B4ED-2BC14E9FACCB",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 39.849542,
+   "longitude": 44.696347
   },
-  {
-    "geoId": "998D4BE7-32C0-4170-8EA7-F51BB290924C",
-    "type": "weekly",
-    "isPrimary": true,
-    "location": {
-      "latitude": 39.849542,
-      "longitude": 44.696347
-    },
-    "properties": {
-      "orgGuid": "998D4BE7-32C0-4170-8EA7-F51BB290924C",
-      "orgName": "ԱՐԱՐԱՏ, ՀՅՈՒՍԻՍԱՅԻՆ",
-      "orgType": "CONG",
-      "orgTransliteratedName": "Ararat, Hyusisayin",
-      "address": "ք. Արարատ, Խանջյան 18/1 շենք\r\nԱրարատ ք. 370602\r\n",
-      "transliteratedAddress": "18/1 Khanjyan Street\r\nArarat (city) 370602\r\n",
-      "languageCode": "REA",
-      "schedule": {
-        "current": {
-          "weekend": {
-            "weekday": 7,
-            "time": "12:30"
-          },
-          "midweek": {
-            "weekday": 4,
-            "time": "15:00"
-          }
-        }
-      },
-      "phones": [
-        {
-          "phone": "+37443880344",
-          "ext": ""
-        }
-      ],
-      "isPrivateMtgPlace": false
-    },
-    "active": true,
-    "firstSeen": "2022-12-02T17:31:33.254Z"
-  }
+  "properties": {
+   "orgGuid": "4E0C721F-DA73-4678-B4ED-2BC14E9FACCB",
+   "orgName": "ԱՐԱՐԱՏ, ՀԱՐԱՎԱՅԻՆ",
+   "orgType": "CONG",
+   "orgTransliteratedName": "Ararat, Haravayin",
+   "address": "ք. Արարատ, Խանջյան 18/1 շենք\r\nԱրարատ ք. 370602\r\n",
+   "transliteratedAddress": "18/1 Khanjyan Street\r\nArarat (city) 370602\r\n",
+   "languageCode": "REA",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 6,
+      "time": "11:00"
+     },
+     "midweek": {
+      "weekday": 3,
+      "time": "17:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+374-55-282-335",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "998D4BE7-32C0-4170-8EA7-F51BB290924C",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": 39.849542,
+   "longitude": 44.696347
+  },
+  "properties": {
+   "orgGuid": "998D4BE7-32C0-4170-8EA7-F51BB290924C",
+   "orgName": "ԱՐԱՐԱՏ, ՀՅՈՒՍԻՍԱՅԻՆ",
+   "orgType": "CONG",
+   "orgTransliteratedName": "Ararat, Hyusisayin",
+   "address": "ք. Արարատ, Խանջյան 18/1 շենք\r\nԱրարատ ք. 370602\r\n",
+   "transliteratedAddress": "18/1 Khanjyan Street\r\nArarat (city) 370602\r\n",
+   "languageCode": "REA",
+   "schedule": {
+    "current": {
+     "weekend": {
+      "weekday": 7,
+      "time": "12:30"
+     },
+     "midweek": {
+      "weekday": 4,
+      "time": "15:00"
+     }
+    }
+   },
+   "phones": [
+    {
+     "phone": "+37443880344",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "active": true,
+  "firstSeen": "2022-12-02T17:31:33.254Z"
+ }
 ]
