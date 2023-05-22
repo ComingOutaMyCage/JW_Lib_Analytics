@@ -116,6 +116,7 @@
 
         $('#normal').val(normal ?? 1);
 
+        let normalsLabel = "";
         let normals = normalsJson[normal] ?? null;
         if(normals) {
             let normalsDisplay = $("#normals-display");
@@ -124,6 +125,7 @@
             Object.keys(normals).forEach((key) => {
                 normalsDisplay.append(`<span><b>${key}</b> ${normals[key]}</span>`);
             });
+            normalsLabel = "Normalized by " + normal;
         }
 
         function getFirstLetterOfWord(word){
@@ -224,6 +226,7 @@
                 if(publication === "Watchtower")
                     publicationDisplay = "The Watchtower";
 
+
                 $("#btnDownload").removeClass('d-none');
                 chart = Highcharts.chart('container', {
 
@@ -247,7 +250,7 @@
                     },
 
                     title: {
-                        text: `<h1>Usage of (${wordsFormatted}) in ${publicationDisplay} from ${seriesX[0]} to ${seriesX[seriesX.length - 1]}</h1>`
+                        text: `<h1>Usage of (${wordsFormatted}) in ${publicationDisplay} from ${seriesX[0]} to ${seriesX[seriesX.length - 1]}<br/>${normalsLabel}</h1>`
                     },
 
                     xAxis: {
