@@ -63,6 +63,13 @@
                     </select>
                 </div>
                 <div class="col-12 col-md-4">
+                    <label>Chart Type</label>
+                    <select name="charttype" id="charttype" class="form-control">
+                        <option value="heatmap">Heat Map</option>
+                        <option value="line">Line</option>
+                    </select>
+                </div>
+                <div class="col-12 col-md-4">
                     <button type="submit" class="btn btn-primary mt-4">Load Data</button>
                 </div>
                 <div class="col-12 col-md-4 d-none" id="btnDownload">
@@ -83,12 +90,14 @@
 <script>
     const urlParams = new URLSearchParams(window.location.search);
     let publication = urlParams.get('publication') ?? 'All';
+    let charttype = urlParams.get('charttype') ?? 'heatmap';
     let words = urlParams.get('words') ?? 'Obey,Governing Body';
     words = words.replace(/['"]/, "");
     words = words.replace(/(\w+\s+\w+)\s+/ig, '$1,').replace(/,+/g, ',').replace(/,\s+/g, ',');
     let wordsRaw = words;
     let normal = urlParams.get('normal');
     $('#publication').val(publication);
+    $('#charttype').val(charttype);
     $('#words').val(words);
     $('#words').change(function(){
        if($('#words').val().match(/["']/))
@@ -119,6 +128,9 @@
 
         function getFirstLetterOfWord(word){
             let result = word[0].trim().toUpperCase();
+            if (!(/[A-Z]/.test(result) || /[0-9]/.test(result))) {
+                result = 'Other';
+            }
             if(word.indexOf(' ') > 0)
                 result += "_pair";
             return result;
@@ -146,22 +158,64 @@
                     seriesX.push(year);
                 });
 
-                let x = 0;
-                seriesX.forEach(function (year) {
-                    let verseData = [];
-                    let y = 0;
+                console.log("seriesX", seriesX);
+                console.log("seriesY", seriesY);
+
+                let chartWidth = !isTouchDevice() ? undefined : Math.min(1500, Math.max(window.innerWidth, (seriesX.length * 10) + 150));
+                let chartHeight = (seriesY.length * 15) + 250;
+                if (charttype === 'line'){
                     seriesY.forEach(function (word) {
-                        let data = 0;
                         let category = jsonForLetters[getFirstLetterOfWord(word)];
-                        if(category && category[word]) {
-                            data = category[word][year] ?? 0;
+                        let word_data = category[word];
+                        let series_data = [];
+                        seriesX.forEach(function (year) {
+                            let data = word_data[year] ?? 0;
                             if (normals) data = (data / normals[year]);
-                        }
-                        seriesData.push([x, y++, data]);
+                            series_data.push(data);
+                        });
+                        seriesData.push({
+                            name: word,
+                            data: series_data
+                        });
                     });
-                    x++;
-                    //seriesData.push(verseData);
-                });
+                    console.log("seriesData", seriesData);
+                    chartHeight = window.innerHeight * 0.8;
+                    chartWidth = undefined;// !isTouchDevice() ? undefined : window.innerWidth;
+                }else{
+                    let x = 0;
+                    seriesX.forEach(function (year) {
+                        let verseData = [];
+                        let y = 0;
+                        seriesY.forEach(function (word) {
+                            let data = 0;
+                            let category = jsonForLetters[getFirstLetterOfWord(word)];
+                            if(category && category[word]) {
+                                data = category[word][year] ?? 0;
+                                if (normals) data = (data / normals[year]);
+                            }
+                            seriesData.push([x, y++, data]);
+                        });
+                        x++;
+                        //seriesData.push(verseData);
+                    });
+                    seriesData = [{
+                        name: '',
+                        data: seriesData,
+
+                        cropThreshold: 10000000,
+                        boostThreshold: 1,
+                        borderWidth: 1,
+                        nullColor: '#EFEFEF',
+                        //colsize: 24 * 36e5, // one day
+                        tooltip: {
+                            headerFormat: 'Mentions<br/>',
+                            pointFormat: '{point.x} <b>{point.value}</b>'
+                        },
+                        //turboThreshold: Number.MAX_VALUE // #3404, remove after 4.0.5 release
+                        // colsize: 32,
+                        turboThreshold: 0 //larger threshold or set to 0 to disable
+                    }];
+                }
                 // console.log(seriesX);
                 // console.log(seriesY);
                 // console.log(seriesData);
@@ -174,14 +228,14 @@
                 chart = Highcharts.chart('container', {
 
                     chart: {
-                        type: 'heatmap',
+                        type: charttype,
                         marginTop: 160,
                         marginBottom: 80,
                         marginRight: 20,
                         plotBorderWidth: 1,
-                        height: (seriesY.length * 15) + 250,
-                        width: !isTouchDevice() ? undefined : Math.min(1500, Math.max(window.innerWidth, (seriesX.length * 10) + 150)),
-                        scrollablePlotArea: isTouchDevice() ? {} : {
+                        height: chartHeight,
+                        width: chartWidth,
+                        scrollablePlotArea: charttype != "heatmap" || isTouchDevice() ? null : {
                             minWidth: (seriesX.length * 12) + 100,
                             //minHeight: (seriesY.length * 10) + 200,
                             scrollPositionX: 1,
@@ -200,16 +254,18 @@
                         categories: seriesX,
                         opposite: true,
                         angle: 20,
+                        gridLineWidth: 1,
                     },
 
-                    yAxis: {
+                    yAxis: charttype !== 'heatmap' ? null : {
                         categories: seriesY,
                         title: null,
                         reversed: true,
                         labels: {
                             rotation: -25,
                             step: 1,
-                        }
+                        },
+                        gridLineWidth: 1,
                     },
 
                     // accessibility: {
@@ -235,10 +291,10 @@
 
                     tooltip: {
                         formatter: function () {
-                            //console.log(this.point.x);
-                            let year = seriesX[this.point.x];
-                            let name = seriesY[this.point.y];
-                            let value = this.point.value;
+                            console.log(this);
+                            let year = this.point.category ?? seriesX[this.point.x];
+                            let name = this.series.name || seriesY[this.point.y];
+                            let value = this.point.value || this.y;
                             let result = '<b>' + year + " - " + name + '</b><br>';
                             if(normals){
                                 if(value > 1) value = Round2Places(value);
@@ -251,25 +307,9 @@
                         }
                     },
 
-                    series: [{
-                        name: 'Words',
-                        data: seriesData,
+                    series: seriesData,
 
-                        cropThreshold: 10000000,
-                        boostThreshold: 1,
-                        borderWidth: 1,
-                        nullColor: '#EFEFEF',
-                        //colsize: 24 * 36e5, // one day
-                        tooltip: {
-                            headerFormat: 'Mentions<br/>',
-                            pointFormat: '{point.x} <b>{point.value}</b>'
-                        },
-                        //turboThreshold: Number.MAX_VALUE // #3404, remove after 4.0.5 release
-                        // colsize: 32,
-                        turboThreshold: 0 //larger threshold or set to 0 to disable
-                    }],
-
-                    colorAxis: {
+                    colorAxis: charttype !== 'heatmap' ? null : {
                         min: 0,
                         stops: [
                             [0, '#f1f4ff'],
