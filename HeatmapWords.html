@@ -298,12 +298,13 @@
                             let year = this.point.category ?? seriesX[this.point.x];
                             let name = this.series.name || seriesY[this.point.y];
                             let value = this.point.value || this.y;
+                            let orig_value = value;
                             let result = '<b>' + year + " - " + name + '</b><br>';
                             if(normals){
                                 if(value > 1) value = Round2Places(value);
                                 result += Round4Places(value) + " in each " + normal;
                                 let n = normals[year];
-                                result += `<br/><b>Raw Count</b>: ` + Round2Places(n * this.point.value);
+                                result += `<br/><b>Raw Count</b>: ` + Round2Places(n * orig_value);
                                 result += `<br/><b>Total ${normal}</b>: ${n}`;
                             }else result += value;
                             return result;
