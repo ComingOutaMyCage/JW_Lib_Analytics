@@ -89,7 +89,7 @@
 </div>
 <div class="card d-none" id="normals-display">
 </div>
-<div class="highcharts-div">
+<div class="highcharts-div" style="max-width: 1000px; margin-left: auto; margin-right: auto;">
     <figure class="highcharts-figure">
         <div class="highcharts-container" id="container1"></div>
     </figure>
@@ -105,7 +105,7 @@
 
     const urlParams = new URLSearchParams(window.location.search);
     let publication = urlParams.get('publication') ?? 'All';
-    let book = urlParams.get('book') ?? 'Genesis';
+    let book = urlParams.get('book') ?? 'Mark';
     let normal = urlParams.get('normal') ?? 1;
     let minYear = urlParams.get('minYear') ?? 1950;
     $('#publication').val(publication);
@@ -177,10 +177,11 @@
                             marginBottom: 80,
                             marginRight: 20,
                             plotBorderWidth: 1,
-                            height: (seriesY.length * 15) + 200,
-                            width: !isTouchDevice() ? undefined : Math.min(1500, Math.max(window.innerWidth, (seriesX.length * 10) + 150)),
+                            height: (seriesY.length * 12) + 200,
+                            //width: !isTouchDevice() ? undefined : Math.min(1500, Math.max(window.innerWidth, (seriesX.length * 8) + 150)),
+                            width: Math.min(1000, Math.max(window.innerWidth, (seriesX.length * 8) + 150)),
                             scrollablePlotArea: isTouchDevice() ? {} : {
-                                 minWidth: (seriesX.length * 15) + 100,
+                                 minWidth: (seriesX.length * 12) + 100,
                                  //minHeight: (seriesY.length * 10) + 200,
                                  scrollPositionX: 1,
                             }
@@ -210,6 +211,9 @@
                             labels: {
                                 //rotation: -25,
                                 step: 1,
+                                style: {
+                                    fontSize: '0.7em'
+                                }
                             }
                         },
 

@@ -90,10 +90,10 @@ function InsertNav(){
         <div class="navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 flex-row gap-1">
                 <li class="nav-item d-block d-none d-xl-block"><a class="nav-link active" aria-current="page" href="index.html">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="HeatmapWords.html"><img src="images/heatmap.png"> By Words</a></li>
-                <li class="nav-item"><a class="nav-link" href="HeatmapBibleVerses.html"><img src="images/heatmap.png"> By Verses</a></li>
-                <li class="nav-item"><a class="nav-link" href="HeatmapBibleBooks.html"><img src="images/heatmap.png"> By Bible Books</a></li>
-                <li class="nav-item"><a class="nav-link" href="ViewWordPopularity.html"><img src="images/sort.png"> Word Popularity</a></li>
+                <li class="nav-item"><a class="nav-link" href="HeatmapWords.html"><img src="images/heatmap.png"> Search Words</a></li>
+                <li class="nav-item"><a class="nav-link" href="HeatmapBibleVerses.html"><img src="images/heatmap.png"> Bible Book Heatmap</a></li>
+                <li class="nav-item"><a class="nav-link" href="HeatmapBibleBooks.html"><img src="images/heatmap.png"> Bible Heatmap</a></li>
+                <li class="nav-item"><a class="nav-link" href="ViewWordPopularity.html"><img src="images/sort.png"> Word Trends</a></li>
                 <li class="nav-item"><a class="nav-link" href="ViewTopWords.html"><img src="images/sort.png"> Most Common Words</a></li>
                 <li class="nav-item"><a class="nav-link" href="ViewTopScriptures.html"><img src="images/sort.png"> Most Common Scriptures</a></li>
                 <li class="nav-item"><a class="nav-link" href="ViewWordsPerYear.html"><img src="images/sort.png"> Words Per Year</a></li>
