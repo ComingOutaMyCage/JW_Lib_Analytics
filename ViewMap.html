@@ -264,7 +264,9 @@
         $("#mapHeader button").removeClass('active');
         $(this).addClass('active');
         clearMarkers();
-        init();
+        available_grids = init_data.grids;
+        grids = [];
+        BoundsUpdated();
     }
     function LoadAll(){
         $("#mapHeader button").removeClass('active');
