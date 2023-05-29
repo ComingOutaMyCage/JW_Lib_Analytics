@@ -23,6 +23,18 @@ function sanitize(input, replacement) {
         .replace(windowsReservedRe, replacement);
     return sanitized;//truncate(sanitized, 255);
 }
+function renameFileWithModificationDate(filePath) {
+    const basename = path.basename(filePath, path.extname(filePath));
+    const extension = path.extname(filePath);
+    const stats = fs.statSync(filePath);
+    const modificationDate = stats.mtime.toISOString().replace(/:/g, '');
+
+    const newFileName = `${basename}_${modificationDate}${extension}`;
+    const newPath = path.join(path.dirname(filePath), newFileName);
+
+    fs.renameSync(filePath, newPath);
+    console.log(`File renamed to: ${newFileName}`);
+}
 
 const vttToPlainText = (vttCaption) => {
     if (vttCaption.length === 0) {
@@ -156,7 +168,10 @@ async function DownloadAll() {
                 console.log("Downloading " + videoURL);
                 let startTime = new Date();
                 let downloadPromise = downloadFile(videoURL, mp4Path + ".tmp").then(() => {
-                    if(fs.existsSync(mp4Path)) fs.unlinkSync(mp4Path);
+                    if(fs.existsSync(mp4Path)) {
+                        //Rename to the original file mod date
+                        renameFileWithModificationDate(mp4Path);
+                    }
                     fs.renameSync(mp4Path + ".tmp", mp4Path);
                     let secondsTaken = (new Date() - startTime) / 1000;
                     let fileSize = (fs.statSync(mp4Path).size / MB);

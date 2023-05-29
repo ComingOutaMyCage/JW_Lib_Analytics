@@ -13,34 +13,52 @@
    "orgType": "CONG",
    "address": "                                                         \r\nTeniente Merino 878 sitio 3A -1\r\nCOCHRANE  (XI. AYSEN\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Wed 19:30",
    "phones": [
     {
-     "phone": "+56 9 8969 2269",
+     "phone": "+56975132543",
      "ext": ""
     }
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
+ },
+ {
+  "geoId": "FF02D508-DAAC-4899-A4AC-1985C64AB78B",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -47.254079,
+   "longitude": -72.567978
+  },
+  "properties": {
+   "orgGuid": "FF02D508-DAAC-4899-A4AC-1985C64AB78B",
+   "orgName": "Río Tranquilo - Cochrane",
+   "orgType": "GROUP",
+   "address": "                                                         \r\nTeniente Merino 878 sitio 3A -1\r\nCOCHRANE  (XI. AYSEN\r\n",
+   "languageCode": "S",
+   "schedule": "Sun 11:00 Wed 19:30",
+   "phones": [
+    {
+     "phone": "+56975132543",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
+  "active": true,
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "DE7D0144-165B-4375-940D-B0F5E5980F94",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": false,
   "location": {
    "latitude": -45.400283,
    "longitude": -72.68283
@@ -51,32 +69,22 @@
    "orgType": "CONG",
    "address": "                                                         \r\nSargento Aldea 1780\r\nPUERTO AYSÉN  (XI. AYSEN\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "19:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 19:00 Thu 19:30",
    "relatedLanguageCodes": [
     "CR"
    ],
    "phones": [
     {
-     "phone": "982692077",
+     "phone": "931121159",
      "ext": ""
     }
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T11:11:43.287Z",
+  "lastSeen": "2023-05-29T11:11:43.287Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:21:07.950Z"
  },
  {
   "geoId": "650B079C-4E62-40D8-B2EC-416C993BADB8",
@@ -92,18 +100,7 @@
    "orgType": "GROUP",
    "address": "                                                         \r\nSargento Aldea 1780\r\nPUERTO AYSÉN  (XI. AYSEN\r\n",
    "languageCode": "CR",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "17:00"
-     },
-     "midweek": {
-      "weekday": 5,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 17:00 Fri 19:30",
    "relatedLanguageCodes": [
     "S"
    ],
@@ -116,8 +113,36 @@
    "isPrivateMtgPlace": false
   },
   "lastSeen": "2023-02-20T11:16:32.171Z",
-  "active": true,
+  "active": false,
   "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "D5517ABC-70CF-4E87-9334-3F3918DE88C1",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -43.895735,
+   "longitude": -73.747731
+  },
+  "properties": {
+   "orgGuid": "D5517ABC-70CF-4E87-9334-3F3918DE88C1",
+   "orgName": "Melinka - Quellón",
+   "orgType": "GROUP",
+   "address": "                                                         \r\nTocopilla S/N\r\nEntre Gabriela Mistral y Westhof\r\nQUELLÓN  (X. LAGOS)\r\n",
+   "languageCode": "S",
+   "schedule": "Sat 18:00 Wed 19:30",
+   "phones": [
+    {
+     "phone": "+56 9 9092 3675",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": true
+  },
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
+  "active": true,
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "11D07217-8C17-4BF9-9912-A50A54B4571F",
@@ -133,18 +158,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nHéctor Monreal 62\r\nCOYHAIQUE  (XI. AYSEN\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "19:30"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Wed 19:30",
    "relatedLanguageCodes": [
     "SCH"
    ],
@@ -156,9 +170,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "8DE477CC-7DB1-461A-AC2A-839690FAC50D",
@@ -174,18 +189,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nHéctor Monreal 62\r\nCOYHAIQUE  (XI. AYSEN\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "11:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 19:00 Thu 19:30",
    "phones": [
     {
      "phone": "+56 9 79661069",
@@ -194,9 +198,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "E68D668A-3EBA-4890-912B-CB18A06A35B1",
@@ -212,18 +217,7 @@
    "orgType": "GROUP",
    "address": "                                                         \r\nHéctor Monreal 62\r\nCOYHAIQUE  (XI. AYSEN\r\n",
    "languageCode": "SCH",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "19:30"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Wed 19:30",
    "relatedLanguageCodes": [
     "S"
    ],
@@ -235,9 +229,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "1A10F8CA-7DD8-40AE-8303-DE2B86F69E7F",
@@ -253,18 +248,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nGabriela Mistral con esquina Septimo de Linea s/n\r\nPUERTO CISNE  (XI. AYSEN\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "11:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 11:00 Thu 19:30",
    "phones": [
     {
      "phone": "+56974668284",
@@ -273,14 +257,15 @@
    ],
    "isPrivateMtgPlace": true
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "E3015EAD-9009-4075-9C91-8B825528B574",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": false,
   "location": {
    "latitude": -45.18194,
    "longitude": -72.149448
@@ -291,29 +276,19 @@
    "orgType": "CONG",
    "address": "                                                         \r\nArturo Prat 712, Villa Mañihuales\r\nMAÑIHUALES  (XI. AYSEN\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "11:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 11:00 Thu 19:30",
    "phones": [
     {
-     "phone": "+56&nbsp;9 9480 3480",
+     "phone": "+56&nbsp;9 95108800",
      "ext": ""
     }
    ],
    "isPrivateMtgPlace": true
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T11:11:43.287Z",
+  "lastSeen": "2023-05-29T11:11:43.287Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:21:07.950Z"
  },
  {
   "geoId": "39C47917-5E13-4965-BA15-AD33CB92983A",
@@ -329,18 +304,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nDoctor Ahues 387\r\nQUELLÓN  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 19:30",
    "relatedLanguageCodes": [
     "SCH"
    ],
@@ -352,9 +316,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "298A2BDF-C3CB-4824-9AEC-7ECF5C0A081C",
@@ -370,18 +335,7 @@
    "orgType": "GROUP",
    "address": "                                                         \r\nDoctor Ahues 387\r\nQUELLÓN  (X. LAGOS)\r\n",
    "languageCode": "SCH",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 19:30",
    "relatedLanguageCodes": [
     "S"
    ],
@@ -393,9 +347,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "C068778D-8B84-4693-A218-172F2D96A7E6",
@@ -411,18 +366,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nCentenario 432\r\nCHONCHI  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 19:00",
    "phones": [
     {
      "phone": "982153079",
@@ -431,9 +375,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "8575F9C7-BA56-41EB-B86D-4B1B2F9CF211",
@@ -449,29 +394,19 @@
    "orgType": "CONG",
    "address": "                                                         \r\nCalle Angamos s/n\r\nEntre calles Manuel Montt y Antonio Varas\r\nLA JUNTA  (XI. AYSEN\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "11:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 11:00 Wed 19:30",
    "phones": [
     {
-     "phone": "+56950039480",
+     "phone": "+56994008876",
      "ext": ""
     }
    ],
    "isPrivateMtgPlace": true
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "0FF6C358-DA38-4F63-BEF1-8A95033FDCDF",
@@ -487,18 +422,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nBernardo O' Higgins 39\r\nQUEILÉN  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 19:00",
    "phones": [
     {
      "phone": "9 86935192",
@@ -507,9 +431,10 @@
    ],
    "isPrivateMtgPlace": true
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "6ADF74E5-5049-41A0-BC46-51CF52682BDE",
@@ -525,18 +450,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nTeniente Merino S/N°\r\nCruce Lincay, Isla Lemuy\r\nPUQUELDÓN  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "18:00"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 18:00",
    "phones": [
     {
      "phone": "972877523, 93153675",
@@ -545,9 +459,10 @@
    ],
    "isPrivateMtgPlace": true
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "83BA12DA-9FC2-459C-B011-EC54EBE484EE",
@@ -563,24 +478,14 @@
    "orgType": "CONG",
    "address": "                                                         \r\nAvenida Galvarino Riveros 1696\r\nCASTRO  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 19:30",
    "phones": [],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "F6D84B99-4AE8-49D5-B4D9-7C02A1FC53AF",
@@ -596,32 +501,22 @@
    "orgType": "GROUP",
    "address": "                                                         \r\nAvenida Galvarino Riveros 1696\r\nCASTRO  (X. LAGOS)\r\n",
    "languageCode": "SCH",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Thu 19:30",
    "relatedLanguageCodes": [
     "S"
    ],
    "phones": [
     {
-     "phone": "+569 96123621",
+     "phone": "+569 30737707",
      "ext": ""
     }
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "812452D1-C286-416C-BA73-58187AAAFC67",
@@ -637,32 +532,22 @@
    "orgType": "CONG",
    "address": "                                                         \r\nAvenida Galvarino Riveros 1696\r\nCASTRO  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Thu 19:30",
    "relatedLanguageCodes": [
     "SCH"
    ],
    "phones": [
     {
-     "phone": "+569 96123621",
+     "phone": "+569 30737707",
      "ext": ""
     }
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "DB73EE6B-7795-4049-B1CC-3BCF8D5B750F",
@@ -678,29 +563,19 @@
    "orgType": "CONG",
    "address": "                                                         \r\nRamón Freire 005\r\nDALCAHUE  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 19:30",
    "phones": [
     {
-     "phone": "+56984069024",
+     "phone": "+56984069204",
      "ext": ""
     }
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "313D371C-08AE-4EAA-8232-61DACE9F2104",
@@ -716,29 +591,19 @@
    "orgType": "CONG",
    "address": "                                                         \r\nPedro Montt 13\r\n(al lado de Colegio Básico \"Liceo Insular\"), Quinchao\r\nACHAO  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Thu 19:00",
    "phones": [
     {
-     "phone": "996466925",
+     "phone": "+56&nbsp;9 6871 9005",
      "ext": ""
     }
    ],
    "isPrivateMtgPlace": true
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "ADDF3152-26B2-4A10-8754-47C918E5D9DE",
@@ -754,18 +619,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nGoycolea 535\r\nANCUD  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 19:30",
    "relatedLanguageCodes": [
     "SCH"
    ],
@@ -777,36 +631,26 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "459EFEB5-AD42-4BA6-A319-C4EE4F81498C",
   "type": "weekly",
   "isPrimary": true,
   "location": {
-   "latitude": -42.914733,
-   "longitude": -72.707697
+   "latitude": -42.91583,
+   "longitude": -72.70927
   },
   "properties": {
    "orgGuid": "459EFEB5-AD42-4BA6-A319-C4EE4F81498C",
    "orgName": "Chaitén",
    "orgType": "CONG",
-   "address": "                                                         \r\nErcilla 290\r\nCHAITÉN  (X. LAGOS)\r\n",
+   "address": "                                                         \r\nAlmirante Riveros 451B\r\nCHAITÉN  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "19:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 19:00 Thu 19:30",
    "phones": [
     {
      "phone": "+56&nbsp;9 32095657",
@@ -815,9 +659,10 @@
    ],
    "isPrivateMtgPlace": true
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "2BD8F9FE-2F47-417E-9F48-A8646534E1A0",
@@ -833,18 +678,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nAvda. Johnstone s/n\r\nQUEMCHI  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:30"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:30 Wed 19:30",
    "phones": [
     {
      "phone": "+569 9733 7165",
@@ -853,9 +687,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "3B53B61B-A7F3-4469-BFB3-D84AF4B51703",
@@ -871,24 +706,14 @@
    "orgType": "CONG",
    "address": "                                                         \r\nLas Palmeras Lt 1, Lapahué\r\nLINAO  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 19:00",
    "phones": [],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "079062E8-1D44-4489-9705-4133A3E1CB4F",
@@ -904,18 +729,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nDagoberto Godoy 22\r\nCARELMAPU  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Wed 19:00",
    "phones": [
     {
      "phone": "982439907",
@@ -924,9 +738,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "DE409725-8541-46CB-B731-2794E39D62BB",
@@ -942,18 +757,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nArturo Prat 205\r\nPARGUA  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "19:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sat 19:00 Wed 19:00",
    "phones": [
     {
      "phone": "0988671280",
@@ -962,9 +766,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "6F1DA8A1-C7CC-467F-BE26-8F6A19DE6C9C",
@@ -980,18 +785,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nPedro Montt 216\r\nMAULLÍN  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Thu 19:00",
    "phones": [
     {
      "phone": "+56963143942",
@@ -1000,9 +794,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "19E69444-E9B4-449D-BAD5-7C108C13C582",
@@ -1018,18 +813,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nEstaquilla Alto, Cruce Las Malvinas\r\nESTAQUILLA  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:30"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "18:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:30 Wed 18:30",
    "phones": [
     {
      "phone": "+56997624090",
@@ -1038,9 +822,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "08A8C985-B525-4AC2-BFE4-8A737F835230",
@@ -1056,18 +841,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nArturo Prat 211\r\nCALBUCO  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Thu 19:00",
    "relatedLanguageCodes": [
     "SCH"
    ],
@@ -1079,9 +853,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "CDAA29DB-3FA8-445B-BD3C-C315D3DC98C2",
@@ -1097,18 +872,7 @@
    "orgType": "GROUP",
    "address": "                                                         \r\nArturo Prat 211\r\nCALBUCO  (X. LAGOS)\r\n",
    "languageCode": "SCH",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Thu 19:00",
    "relatedLanguageCodes": [
     "S"
    ],
@@ -1120,9 +884,38 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
+ },
+ {
+  "geoId": "71728536-9F16-4243-A1DA-D32762641E37",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -41.769335,
+   "longitude": -73.132051
+  },
+  "properties": {
+   "orgGuid": "71728536-9F16-4243-A1DA-D32762641E37",
+   "orgName": "El Rosario - Calbuco",
+   "orgType": "GROUP",
+   "address": "                                                         \r\nArturo Prat 211\r\nCALBUCO  (X. LAGOS)\r\n",
+   "languageCode": "S",
+   "schedule": "Sat 17:00 Wed 19:00",
+   "phones": [
+    {
+     "phone": "+56961056774",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
+  "active": true,
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "81F4AED5-2682-452B-B303-CDD99A020988",
@@ -1138,18 +931,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nReinhard Westermeier 123\r\nLOS MUERMOS  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 19:00",
    "phones": [
     {
      "phone": "+56984231273",
@@ -1158,9 +940,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "A2F7B0AE-9BC1-456C-A836-245DF69F8783",
@@ -1176,18 +959,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nSector San Ramón s/n, Isla Puluqui\r\nCALBUCO  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "11:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 11:00 Fri 19:00",
    "phones": [
     {
      "phone": "994047256",
@@ -1196,9 +968,10 @@
    ],
    "isPrivateMtgPlace": true
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "877350F6-4270-435A-A6C7-F20F61EF608F",
@@ -1214,18 +987,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nIrarrázabal 110\r\nFRESIA  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 19:30",
    "phones": [
     {
      "phone": "+56&nbsp;9 5341 9670",
@@ -1234,9 +996,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "B5D81D48-6D55-4AAD-8AA2-00C379184841",
@@ -1252,18 +1015,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nAvenida Ingenieros Militares, sitio 163\r\nHORNOPIRÉN  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:30 Thu 19:30",
    "phones": [
     {
      "phone": "965952627",
@@ -1272,9 +1024,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "E3530343-D1C9-42FE-9C12-B6619A18906C",
@@ -1290,18 +1043,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nSanta Cecilia 939\r\nPUERTO MONTT  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 5,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Fri 19:30",
    "relatedLanguageCodes": [
     "SCH"
    ],
@@ -1313,9 +1055,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "2407D2C4-A80D-48D6-BB71-0557E9E58E70",
@@ -1331,24 +1074,14 @@
    "orgType": "CONG",
    "address": "                                                         \r\nSanta Cecilia 939\r\nPUERTO MONTT  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "11:00"
-     },
-     "midweek": {
-      "weekday": 1,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 11:00 Mon 19:30",
    "phones": [],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "7805B7EC-88D1-4166-8AFC-F69DA93389F4",
@@ -1364,27 +1097,17 @@
    "orgType": "CONG",
    "address": "                                                         \r\nSanta Cecilia 939\r\nPUERTO MONTT  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "16:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:45"
-     }
-    }
-   },
+   "schedule": "Sat 16:00 Wed 19:45",
    "relatedLanguageCodes": [
     "CR"
    ],
    "phones": [],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "32269CD5-70A2-46DD-AD38-702F0867D17E",
@@ -1400,29 +1123,14 @@
    "orgType": "CONG",
    "address": "                                                         \r\nSanta Cecilia 939\r\nPUERTO MONTT  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "19:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "20:00"
-     }
-    }
-   },
-   "phones": [
-    {
-     "phone": "+56963922288",
-     "ext": ""
-    }
-   ],
+   "schedule": "Sun 19:00 Tue 20:00",
+   "phones": [],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "780B2A48-5699-4CFE-B555-C5EBFF5ACB82",
@@ -1438,32 +1146,22 @@
    "orgType": "GROUP",
    "address": "                                                         \r\nSanta Cecilia 939\r\nPUERTO MONTT  (X. LAGOS)\r\n",
    "languageCode": "CR",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "16:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:45"
-     }
-    }
-   },
+   "schedule": "Sun 16:00 Wed 19:45",
    "relatedLanguageCodes": [
     "S"
    ],
    "phones": [],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "AFD11BBB-28F0-44D9-AFB7-13B71810DBF8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": false,
   "location": {
    "latitude": -41.46789,
    "longitude": -72.961836
@@ -1474,18 +1172,7 @@
    "orgType": "GROUP",
    "address": "                                                         \r\nSanta Cecilia 939\r\nPUERTO MONTT  (X. LAGOS)\r\n",
    "languageCode": "SCH",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 5,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Fri 19:30",
    "relatedLanguageCodes": [
     "S"
    ],
@@ -1497,9 +1184,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "AACC64F9-FB5E-4EA5-BC59-17860E2603C9",
@@ -1515,18 +1203,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nSanta Cecilia 939\r\nPUERTO MONTT  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "19:15"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:45"
-     }
-    }
-   },
+   "schedule": "Sat 19:15 Thu 19:45",
    "phones": [
     {
      "phone": "+56968320186",
@@ -1535,9 +1212,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "7FEBA8CF-267B-4FD5-93E0-659B37767102",
@@ -1553,18 +1231,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nO'Higgins 1442\r\nVilla Alerce\r\nPUERTO MONTT  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "16:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "20:00"
-     }
-    }
-   },
+   "schedule": "Sat 16:00 Tue 20:00",
    "phones": [
     {
      "phone": "999209677",
@@ -1573,9 +1240,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "2C0836E9-1867-467F-A65E-B07116517B0F",
@@ -1591,29 +1259,19 @@
    "orgType": "CONG",
    "address": "                                                         \r\nO'Higgins 1442\r\nVilla Alerce\r\nPUERTO MONTT  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:30",
    "phones": [
     {
-     "phone": "±569 94251114",
+     "phone": "±569 41254831",
      "ext": ""
     }
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "5975513D-AC0F-46BB-93A7-28F54E2CCD62",
@@ -1629,18 +1287,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nO'Higgins 1442\r\nVilla Alerce\r\nPUERTO MONTT  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "19:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 19:00 Wed 19:30",
    "phones": [
     {
      "phone": "+56982779009",
@@ -1649,9 +1296,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "1EBD5B98-2FD3-4555-B7F3-4A989EAD5A2E",
@@ -1667,18 +1315,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nPasaje Abuelito Huentellao s/n\r\nSector Fundación, Bahía Mansa, San Juan de la Costa\r\nSAN JUAN DE LA COSTA  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Tue 19:00",
    "phones": [
     {
      "phone": "9-78409619",
@@ -1687,9 +1324,10 @@
    ],
    "isPrivateMtgPlace": true
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "81765848-FDDE-4FBE-85D2-72137D303C37",
@@ -1705,18 +1343,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nErrázuriz 0875\r\nPUERTO VARAS  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "11:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 11:00 Thu 19:30",
    "phones": [
     {
      "phone": "+56&nbsp;9 81881327",
@@ -1725,9 +1352,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "419F88CA-3482-418C-A35D-D45AE6635220",
@@ -1743,18 +1371,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nErrázuriz 0875\r\nPUERTO VARAS  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 10:30 Tue 19:30",
    "phones": [
     {
      "phone": "+56&nbsp;9 88344698",
@@ -1763,9 +1380,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "45042FFE-321C-4DBD-A85D-FDF2620632A5",
@@ -1781,18 +1399,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nErrázuriz 0875\r\nPUERTO VARAS  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:30"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:30 Wed 19:30",
    "phones": [
     {
      "phone": "+56&nbsp;9 8769 3706",
@@ -1801,9 +1408,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "015D1B53-1EF0-4289-9EC0-023A18ADA610",
@@ -1819,18 +1427,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nAvenida Eduardo Frei M. 963\r\nPoblación Los Volcanes\r\nLLANQUIHUE  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:30"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:30 Wed 19:30",
    "phones": [
     {
      "phone": "+56965721580",
@@ -1839,9 +1436,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "8CA89F3E-D95F-4FA7-BA8A-639F2A523FD9",
@@ -1857,18 +1455,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nO'Higgins 10\r\nFrutillar Alto\r\nFRUTILLAR  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Thu 19:30",
    "phones": [
     {
      "phone": "+56956175344",
@@ -1877,9 +1464,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "18770F35-76F9-4719-96A2-8DAA49DF049B",
@@ -1895,24 +1483,19 @@
    "orgType": "CONG",
    "address": "                                                         \r\nO'Higgins 10\r\nFrutillar Alto\r\nFRUTILLAR  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
+   "schedule": "Sat 18:00 Wed 19:30",
+   "phones": [
+    {
+     "phone": "984846658",
+     "ext": ""
     }
-   },
-   "phones": [],
+   ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "5A503BCA-5342-4A44-BC95-9650BFE131A9",
@@ -1928,18 +1511,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nAvenida Circunvalación 526\r\nPURRANQUE  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Thu 19:30",
    "phones": [
     {
      "phone": "996435820-999032200",
@@ -1948,9 +1520,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "26D77769-2A87-4456-A428-BAB93BC97C50",
@@ -1966,18 +1539,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nPedro Montt 555\r\nRÍO NEGRO  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 19:00",
    "phones": [
     {
      "phone": "941634982  -  973896537",
@@ -1986,9 +1548,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "41259821-FBF0-48CB-971F-C682791FA990",
@@ -2004,18 +1567,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nUrmeneta 515\r\nPUERTO OCTAY  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 19:00",
    "phones": [
     {
      "phone": "+56983953473",
@@ -2024,9 +1576,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "B4B369E4-19BB-4B29-959D-6378F7BF6593",
@@ -2042,18 +1595,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nAv. Aeropuerto 29\r\nCOCHAMÓ  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "18:00"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 18:00",
    "phones": [
     {
      "phone": "9 40433198",
@@ -2062,9 +1604,10 @@
    ],
    "isPrivateMtgPlace": true
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "B67F8AA8-2142-4511-B7AE-67563FF84EF5",
@@ -2080,18 +1623,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nAntofagasta 670\r\nRahue\r\nOSORNO  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "17:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 17:00 Thu 19:30",
    "phones": [
     {
      "phone": "978215640",
@@ -2100,9 +1632,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "614E1FE0-3781-4DD1-BE06-EB35892BF492",
@@ -2118,18 +1651,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nAntofagasta 670\r\nRahue\r\nOSORNO  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Wed 19:30",
    "phones": [
     {
      "phone": "+56&nbsp;9 5066 5842",
@@ -2138,9 +1660,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "F4F14661-38C4-4E42-AA47-34A2C1EF2E8E",
@@ -2156,18 +1679,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nAntofagasta 670\r\nRahue\r\nOSORNO  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Tue 19:30",
    "phones": [
     {
      "phone": "+56&nbsp;9 97155456",
@@ -2176,9 +1688,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "BA713383-3B4B-4BFD-A6E3-10B8DAA4C350",
@@ -2192,20 +1705,9 @@
    "orgGuid": "BA713383-3B4B-4BFD-A6E3-10B8DAA4C350",
    "orgName": "Francke - Osorno",
    "orgType": "CONG",
-   "address": "                                                         \r\nLos Sauces 1465\r\nPoblación Carlos Follert\r\nOSORNO  (X. LAGOS)\r\n",
+   "address": "                                                         \r\nLos Damascos 153\r\nPoblación Carlos Follert\r\nOSORNO  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 19:30",
    "phones": [
     {
      "phone": "+569 65507892",
@@ -2214,9 +1716,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "F9D271BF-B81F-4B55-A6B7-10CFA8CAE3E4",
@@ -2232,18 +1735,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nManuel Rodríguez 1059\r\nOSORNO  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:30"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 17:00 Tue 19:30",
    "relatedLanguageCodes": [
     "SCH"
    ],
@@ -2255,9 +1747,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "2E5651AB-CE29-441F-AF75-E4021557BF18",
@@ -2273,18 +1766,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nManuel Rodríguez 1059\r\nOSORNO  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 18:00 Wed 19:30",
    "phones": [
     {
      "phone": "997182687",
@@ -2293,9 +1775,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "D7A425C2-D2D3-488E-914B-0433BFF06E83",
@@ -2311,29 +1794,19 @@
    "orgType": "CONG",
    "address": "                                                         \r\nManuel Rodríguez 1059\r\nOSORNO  (X. LAGOS)\r\n",
    "languageCode": "CR",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "20:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Thu 19:30",
    "phones": [
     {
-     "phone": "+56&nbsp;9 5510 3213",
+     "phone": "+56&nbsp;9 8546 4890",
      "ext": ""
     }
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "E21485AD-ED9A-4A10-BCAF-F11EEC08B4D6",
@@ -2349,18 +1822,7 @@
    "orgType": "GROUP",
    "address": "                                                         \r\nManuel Rodríguez 1059\r\nOSORNO  (X. LAGOS)\r\n",
    "languageCode": "SCH",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:30"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 17:00 Tue 19:30",
    "relatedLanguageCodes": [
     "S"
    ],
@@ -2372,9 +1834,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "56094A25-2C1E-4423-AF01-448526B4919F",
@@ -2390,18 +1853,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nPaglieta 340\r\nSAN PABLO  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 19:30",
    "phones": [
     {
      "phone": "989211692",
@@ -2410,9 +1862,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "D841D0DD-007A-4E07-8E65-717E14CF3ED0",
@@ -2428,18 +1881,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nLos Carrera 344\r\nLA UNIÓN  (XIV. RIOS\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "19:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 19:00 Wed 19:30",
    "phones": [
     {
      "phone": "988643745",
@@ -2448,9 +1890,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "922D59EB-E207-4058-870A-F45E929173FA",
@@ -2466,18 +1909,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nIndependencia 1845\r\nPoblación Los Treinta y Cinco\r\nRÍO BUENO  (XIV. RIOS\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Wed 19:30",
    "phones": [
     {
      "phone": "+56&nbsp;994614560",
@@ -2486,9 +1918,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "4927839D-DC2A-43B9-AFC8-97FEB4F8F3E6",
@@ -2504,29 +1937,19 @@
    "orgType": "CONG",
    "address": "                                                         \r\nIndependencia 1845\r\nPoblación Los Treinta y Cinco\r\nRÍO BUENO  (XIV. RIOS\r\n",
    "languageCode": "SCH",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Thu 19:00",
    "phones": [
     {
-     "phone": "+56920995255",
+     "phone": "+56997760205",
      "ext": ""
     }
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "62CC606E-069C-4BF8-8ECB-CABED97CB22F",
@@ -2542,18 +1965,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nDiego de la Rivera 211\r\nPoblación El Colorado\r\nENTRE LAGOS  (X. LAGOS)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:30",
    "phones": [
     {
      "phone": "+56971512339",
@@ -2562,9 +1974,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "27CBC92B-D6AC-4D83-B17C-763508E57BFB",
@@ -2580,29 +1993,19 @@
    "orgType": "CONG",
    "address": "                                                         \r\nCaupolicán 67\r\nPAILLACO  (XIV. RIOS\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Thu 19:30",
    "phones": [
     {
-     "phone": "9 75366001",
+     "phone": "09-61561856",
      "ext": ""
     }
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "1D0A66AE-51B9-4784-8A71-62CF86386A32",
@@ -2618,18 +2021,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nRancagua 22\r\nPoblación Juan Antonio Ríos\r\nLAGO RANCO  (XIV. RIOS\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "09:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 09:00 Wed 19:30",
    "phones": [
     {
      "phone": "988617902",
@@ -2638,9 +2030,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "3FEA70D4-2732-41E1-ADAF-075D7A0FB618",
@@ -2656,18 +2049,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nJuan Luis San Fuentes 1035\r\nFUTRONO  (XIV. RIOS\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:30"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 18:30 Wed 19:30",
    "phones": [
     {
      "phone": "+56 9 4091 4884",
@@ -2676,9 +2058,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "621B89D3-3866-4A67-AD48-CB171E620278",
@@ -2694,18 +2077,7 @@
    "orgType": "CONG",
    "address": "                                                         \r\nLlifén, Caunahue s/n\r\nFUTRONO  (XIV. RIOS\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:30 Thu 19:30",
    "phones": [
     {
      "phone": "+569 62725989",
@@ -2714,8 +2086,9 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  }
 ]

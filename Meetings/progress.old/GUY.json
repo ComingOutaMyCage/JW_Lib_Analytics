@@ -1,0 +1,44 @@
+{
+  "E3733817-A300-4DDD-9BC6-BB316E4CBA68": {
+    "geoId": "E3733817-A300-4DDD-9BC6-BB316E4CBA68",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 8.205265,
+      "longitude": -59.775914
+    },
+    "properties": {
+      "orgGuid": "E3733817-A300-4DDD-9BC6-BB316E4CBA68",
+      "orgName": "Mabaruma",
+      "orgType": "CONG",
+      "address": "Grant 4051, Hubo Hill Mabaruma,\r\nBarima/Waini\r\nMABARUMA\r\nNorth West District\r\n",
+      "languageCode": "E",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "10:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "17:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "+592 619-3099",
+          "ext": ""
+        },
+        {
+          "phone": "+592 6193099",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2023-02-20T07:01:58.072Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
+}

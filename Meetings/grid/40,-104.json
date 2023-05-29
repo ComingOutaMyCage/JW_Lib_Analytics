@@ -13,18 +13,7 @@
    "orgType": "CONG",
    "address": "18918 County Rd 16\nFort Morgan CO  80701-8805\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "9708673700",
@@ -33,9 +22,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "B1AAE2B4-7E19-4AD8-9072-F82D59A49EE7",
@@ -51,18 +41,7 @@
    "orgType": "CONG",
    "address": "18918 County Rd 16\nFort Morgan CO  80701-8805\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Wed 19:00",
    "phones": [
     {
      "phone": "(970) 483-6533",
@@ -71,14 +50,15 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T11:11:43.287Z",
+  "lastSeen": "2023-05-29T11:11:43.287Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:21:07.950Z"
  },
  {
   "geoId": "AC42F87A-7B77-4BAE-8EAC-228641CDA575",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": false,
   "location": {
    "latitude": 40.132626,
    "longitude": -102.718976
@@ -89,18 +69,7 @@
    "orgType": "CONG",
    "address": "720 N Detroit St\nYuma CO  80759-1216\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "970-630-0998",
@@ -109,9 +78,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T11:11:43.287Z",
+  "lastSeen": "2023-05-29T11:11:43.287Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:21:07.950Z"
  },
  {
   "geoId": "C93C9ECC-4B00-4984-A143-7C708D4E0027",
@@ -127,18 +97,7 @@
    "orgType": "CONG",
    "address": "720 N Detroit St\nYuma CO  80759-1216\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "12:30"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 12:30 Wed 19:00",
    "phones": [
     {
      "phone": "1-970-597-9929",
@@ -154,7 +113,7 @@
  {
   "geoId": "9C17B67D-0B78-4C5E-ADD6-C55762940520",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": false,
   "location": {
    "latitude": 40.637787,
    "longitude": -103.21047
@@ -165,18 +124,7 @@
    "orgType": "CONG",
    "address": "1162 N 8th St\nSterling CO  80751-2514\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "(970) 526-3060",
@@ -185,9 +133,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T11:11:43.287Z",
+  "lastSeen": "2023-05-29T11:11:43.287Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:21:07.950Z"
  },
  {
   "geoId": "8964FB81-9E3F-4100-AC2B-AD235D7D8E2F",
@@ -203,18 +152,7 @@
    "orgType": "CONG",
    "address": "910 S Chestnut St\nKimball NE  69145\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "308-230-2145",
@@ -223,9 +161,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "EF49894F-0EFE-49E6-91E6-F31984ED9ED0",
@@ -241,18 +180,7 @@
    "orgType": "CONG",
    "address": "484 Deaver Dr\nSidney NE  69162\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
      "phone": "(308) 254-4223",
@@ -261,9 +189,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "24249E7E-9091-4DAB-BA31-0828E236CA6B",
@@ -279,18 +208,7 @@
    "orgType": "CONG",
    "address": "410 Hillcrest Dr\nScottsbluff NE  69361\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "308-310-4400",
@@ -299,9 +217,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "D00231D5-EF13-4432-B111-E439E4E42425",
@@ -317,18 +236,7 @@
    "orgType": "CONG",
    "address": "410 Hillcrest Dr\nScottsbluff NE  69361\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Wed 19:00",
    "phones": [
     {
      "phone": "308-310-4400",
@@ -337,9 +245,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "9B4D3C52-B9C6-42E8-9C70-FEF7F60F71EB",
@@ -355,18 +264,7 @@
    "orgType": "CONG",
    "address": "521 Cody Ave\nAlliance NE  69301-4310\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
      "phone": "308-762-5160",
@@ -375,9 +273,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "255CAC5C-65C1-4016-A7CE-E6DE60333BCA",
@@ -393,18 +292,7 @@
    "orgType": "CONG",
    "address": "1206 N Spruce St\nOgallala NE  69153-1202\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "308-284-0883",
@@ -413,9 +301,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "CFC1DC81-4BA8-4067-B587-2402E1107623",
@@ -431,18 +320,7 @@
    "orgType": "CONG",
    "address": "2100 W J St\nMcCook NE  69001\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [
     {
      "phone": "308-737-2800",
@@ -451,9 +329,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "53559748-52B9-44EC-BEDD-7BB7A6136670",
@@ -469,18 +348,7 @@
    "orgType": "CONG",
    "address": "2600 SD-71 S\r\nHot Springs SD  57747\r\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [
     {
      "phone": "605-210-0267",
@@ -489,9 +357,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "5A300BFC-055C-4B7F-9DA5-82F1C6AF6371",
@@ -507,18 +376,7 @@
    "orgType": "CONG",
    "address": "12638 US-16A\nCuster SD  57730\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [
     {
      "phone": "605 545-9100",
@@ -527,9 +385,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "FDE9C5AE-0F79-43FD-A375-FFD6AAE53A1A",
@@ -545,18 +404,7 @@
    "orgType": "CONG",
    "address": "621 W Philip Ave\nNorth Platte NE  69101-6523\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [
     {
      "phone": "308-534-5723",
@@ -565,9 +413,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "2C841AC2-C90D-4771-BFAC-B0E11DE9153E",
@@ -583,18 +432,7 @@
    "orgType": "CONG",
    "address": "901 N Spruce St\nGordon NE  69343-1116\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [
     {
      "phone": "308-230-8100",
@@ -603,9 +441,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "B0CA6C2F-156A-4ED9-85EF-EB131F500F23",
@@ -621,18 +460,7 @@
    "orgType": "CONG",
    "address": "1900 Windmill Dr\nSpearfish SD  57783-9535\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "605-641-7648",
@@ -641,9 +469,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "52A21AB7-7FC7-4C6A-B009-DEABCB439269",
@@ -659,18 +488,7 @@
    "orgType": "CONG",
    "address": "1900 Windmill Dr\nSpearfish SD  57783-9535\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Tue 19:00",
    "phones": [
     {
      "phone": "605-892-4820",
@@ -679,9 +497,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "51859C6E-AFCF-4751-9522-0D98024E5F95",
@@ -697,18 +516,7 @@
    "orgType": "CONG",
    "address": "1111 Oriole Dr\nRapid City SD  57701-8050\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [
     {
      "phone": "605-394-9518",
@@ -717,9 +525,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "A40DBF5F-505D-4B37-BF1E-8E6B92547867",
@@ -735,18 +544,7 @@
    "orgType": "CONG",
    "address": "1111 Oriole Dr\nRapid City SD  57701-8050\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Tue 19:00",
    "phones": [
     {
      "phone": "605-394-9518",
@@ -755,9 +553,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "5BF8D2A1-6A18-473B-A4F4-BD267913969E",
@@ -773,18 +572,7 @@
    "orgType": "CONG",
    "address": "2255 Moose Dr\nSturgis SD  57785\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "(605) 347-5855",
@@ -793,9 +581,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "AAB3E0FA-F4C7-4C33-A672-B841094BA2BB",
@@ -811,18 +600,7 @@
    "orgType": "CONG",
    "address": "705 W 20th St\nLexington NE  68850\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "11:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 11:00 Wed 19:00",
    "phones": [
     {
      "phone": "308-238-4940",
@@ -831,9 +609,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "A616D417-3BBE-4463-BBB4-6B89E1E1E697",
@@ -849,18 +628,7 @@
    "orgType": "CONG",
    "address": "743 Burlington St\nHoldrege NE  68949-2166\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "308-248-7790",
@@ -869,9 +637,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "21297627-EE13-4429-A073-2931720B1A21",
@@ -887,18 +656,7 @@
    "orgType": "CONG",
    "address": "728 W 4th Ave\nRed Cloud NE  68970\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [
     {
      "phone": "402-746-2291",
@@ -907,9 +665,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "A8D91420-9E71-4F6A-8C4A-588D1858ECFE",
@@ -925,18 +684,7 @@
    "orgType": "CONG",
    "address": "3908 I Ave\nKearney NE  68847-2679\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [
     {
      "phone": "308-237-5839",
@@ -945,9 +693,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "AD379A84-7647-44AC-878A-85D08C9C2861",
@@ -963,18 +712,7 @@
    "orgType": "CONG",
    "address": "152 Memorial Dr\nBroken Bow NE  68822\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [
     {
      "phone": "308-530-4102",
@@ -983,9 +721,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "5CA8D9FA-7587-4668-9642-A2074F8FEE85",
@@ -1001,18 +740,7 @@
    "orgType": "CONG",
    "address": "216 W G St\nHastings NE  68901\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [
     {
      "phone": "402-463-5737",
@@ -1021,9 +749,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "C136C5FC-8C5A-4FCD-994A-C6DE1C8D280D",
@@ -1039,18 +768,7 @@
    "orgType": "CONG",
    "address": "216 W G St\nHastings NE  68901\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Wed 19:00",
    "phones": [
     {
      "phone": "(308) 390-1748",
@@ -1059,9 +777,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "D12DE524-1926-4281-87E2-F38113DD604F",
@@ -1077,18 +796,7 @@
    "orgType": "CONG",
    "address": "2425 S Webb Rd\nGrand Island NE  68803-5653\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "15:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 15:00 Tue 19:30",
    "phones": [
     {
      "phone": "(308) 382-6790",
@@ -1097,9 +805,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "99426F92-96D4-4DA4-83C1-6BDFAE0ED911",
@@ -1115,18 +824,7 @@
    "orgType": "CONG",
    "address": "2425 S Webb Rd\nGrand Island NE  68803-5653\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "12:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 12:30 Thu 19:00",
    "phones": [
     {
      "phone": "308-382-6790",
@@ -1135,9 +833,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "82FC2F32-D8B6-4006-B7CF-655793E7E628",
@@ -1153,18 +852,7 @@
    "orgType": "CONG",
    "address": "2425 S Webb Rd\nGrand Island NE  68803-5653\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
      "phone": "(308)382-6790",
@@ -1173,9 +861,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "4E916266-692A-4B8F-AC7A-B2802A48D1CD",
@@ -1191,18 +880,7 @@
    "orgType": "CONG",
    "address": "230 N Osborne St\nAinsworth NE  69210-1335\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [
     {
      "phone": "402-387-0608",
@@ -1211,9 +889,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "5E12E10D-DD5F-46C9-A945-5B22FB84D4DF",
@@ -1229,18 +908,7 @@
    "orgType": "CONG",
    "address": "1914 S Lincoln Ave\nYork NE  68467\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:30",
    "phones": [
     {
      "phone": "402-710-3000",
@@ -1249,9 +917,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "5EBC98D7-98E6-4C34-856E-E7C8FA7D418A",
@@ -1267,18 +936,7 @@
    "orgType": "CONG",
    "address": "2324 Lincoln St\nBeatrice NE  68310-3305\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
      "phone": "1402-228-2330",
@@ -1287,9 +945,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "420A6864-4397-48A1-8C37-16FFC6BD8D99",
@@ -1305,18 +964,7 @@
    "orgType": "CONG",
    "address": "1200 5th St\nMilford NE  68405\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "4027614420",
@@ -1325,9 +973,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "EBBDEF83-424E-46D3-982E-7B7DCAF57894",
@@ -1343,18 +992,7 @@
    "orgType": "CONG",
    "address": "28671 SD-47\nGregory SD  57533\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:30",
    "phones": [
     {
      "phone": "(605) 734-2525",
@@ -1363,9 +1001,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "4402F223-1CA4-4665-8082-C09CA90B2E11",
@@ -1381,18 +1020,7 @@
    "orgType": "CONG",
    "address": "409 Holt Blvd\r\nO'Neill NE  68763-1042\r\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [
     {
      "phone": "402-961-5200",
@@ -1401,9 +1029,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "D1F780B1-95CB-453F-B6EB-FB041072B4CE",
@@ -1419,18 +1048,7 @@
    "orgType": "CONG",
    "address": "4726 27th St\nColumbus NE  68601-2170\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [
     {
      "phone": "402-606-3021",
@@ -1439,9 +1057,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "C1593884-0063-4935-99D7-FD659CE4098E",
@@ -1457,18 +1076,7 @@
    "orgType": "CONG",
    "address": "4726 27th St\nColumbus NE  68601-2170\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Wed 19:00",
    "phones": [
     {
      "phone": "402-606-3021",
@@ -1477,9 +1085,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "A9705302-BB68-4753-AEBE-5180BD4BBD5D",
@@ -1495,18 +1104,7 @@
    "orgType": "CONG",
    "address": "731 S Main Ave\nDickinson ND  58601-5969\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "relatedLanguageCodes": [
     "S"
    ],
@@ -1518,9 +1116,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "8F4E29E8-16A9-4753-9017-AA8D4E49E432",
@@ -1536,18 +1135,7 @@
    "orgType": "GROUP",
    "address": "731 S Main Ave\nDickinson ND  58601-5969\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": null,
-      "time": null
-     }
-    }
-   },
+   "schedule": "Sun 10:00 undefined null",
    "relatedLanguageCodes": [
     "E"
    ],
@@ -1559,9 +1147,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "59E9CF18-604A-4C15-AA31-48F7027F7712",
@@ -1577,18 +1166,7 @@
    "orgType": "CONG",
    "address": "2002 US-14\nPierre SD  57501\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [
     {
      "phone": "605 280 0696",
@@ -1597,9 +1175,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "B01B3CA0-5C87-47A6-9ED0-358F805A5030",
@@ -1615,18 +1194,7 @@
    "orgType": "CONG",
    "address": "6800 Pine Lake Rd\nLincoln NE  68516-3636\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sat 10:00 Thu 19:00",
    "phones": [
     {
      "phone": "402-420-2144",
@@ -1635,9 +1203,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "38A57326-3CC2-4A68-B14B-95D84C8A2F95",
@@ -1653,18 +1222,7 @@
    "orgType": "CONG",
    "address": "6800 Pine Lake Rd\nLincoln NE  68516-3636\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
      "phone": "402.560.1014",
@@ -1673,9 +1231,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "31F68795-7441-4855-B718-6E513B8BD399",
@@ -1691,18 +1250,7 @@
    "orgType": "CONG",
    "address": "6800 Pine Lake Rd\nLincoln NE  68516-3636\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Tue 19:00",
    "phones": [
     {
      "phone": "402-420-2144",
@@ -1711,9 +1259,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "8C643E78-AD48-4247-92CB-4BFD2E44F004",
@@ -1729,18 +1278,7 @@
    "orgType": "CONG",
    "address": "3606 N 1St St\nLincoln NE  68521-2702\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [
     {
      "phone": "402-474-3606",
@@ -1749,9 +1287,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "41AD9BC1-1407-4D43-B37E-CED16F1C9D5E",
@@ -1767,18 +1306,7 @@
    "orgType": "CONG",
    "address": "3606 N 1St St\nLincoln NE  68521-2702\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Thu 19:00",
    "phones": [
     {
      "phone": "402-474-3606",
@@ -1787,9 +1315,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "3A977C2B-67BE-4472-A43F-5A76C3A8D151",
@@ -1805,18 +1334,7 @@
    "orgType": "CONG",
    "address": "3606 N 1St St\nLincoln NE  68521-2702\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "16:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 16:00 Wed 19:00",
    "phones": [
     {
      "phone": "402-474-3606",
@@ -1825,9 +1343,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "4D21E077-E2FB-4F33-8ED6-384CA523A840",
@@ -1843,18 +1362,7 @@
    "orgType": "CONG",
    "address": "822 S Main St\nChamberlain SD  57325\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:30",
    "phones": [
     {
      "phone": "1-605-680-5656",
@@ -1863,9 +1371,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "D3BE32AA-16AF-4A0A-86F6-618650A880AA",
@@ -1881,18 +1390,7 @@
    "orgType": "CONG",
    "address": "606 Channel Rd\nNorfolk NE  68701-9075\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Tue 19:00",
    "phones": [
     {
      "phone": "1-402-375-3427",
@@ -1901,9 +1399,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "963E200B-D674-45D7-8C85-C3D243121318",
@@ -1919,18 +1418,7 @@
    "orgType": "CONG",
    "address": "606 Channel Rd\nNorfolk NE  68701-9075\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
      "phone": "402-992-5527",
@@ -1939,9 +1427,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "F1748A58-1FAA-4455-9D85-752606B2F749",
@@ -1957,18 +1446,7 @@
    "orgType": "CONG",
    "address": "1833 Furnas St\nAshland NE  68003\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:30",
    "relatedLanguageCodes": [
     "U"
    ],
@@ -1980,9 +1458,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "6F1A6A46-DB28-42ED-83A0-14107DC4DBCA",
@@ -1998,18 +1477,7 @@
    "orgType": "GROUP",
    "address": "1833 Furnas St\nAshland NE  68003\n",
    "languageCode": "U",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:30",
    "relatedLanguageCodes": [
     "E"
    ],
@@ -2021,9 +1489,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "93FAE695-110A-4BFF-A2AC-F3B21D8DBC37",
@@ -2039,18 +1508,7 @@
    "orgType": "CONG",
    "address": "432 N West St\nHebron ND  58638\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [
     {
      "phone": "701-260-4936",
@@ -2059,9 +1517,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "CD7DDC2E-8EFD-459E-904B-5C74C2221B29",
@@ -2077,18 +1536,7 @@
    "orgType": "CONG",
    "address": "2530 Old Hwy 8\nFremont NE  68025\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [
     {
      "phone": "402 816 4222",
@@ -2097,9 +1545,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "14D3B966-3B66-4B45-9272-D1DB43E38149",
@@ -2115,18 +1564,7 @@
    "orgType": "CONG",
    "address": "2530 Old Hwy 8\nFremont NE  68025\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Wed 19:00",
    "phones": [
     {
      "phone": "402-512-3336",
@@ -2135,9 +1573,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "F5784D97-47DA-4BF1-B425-C46F82F7B3A3",
@@ -2153,18 +1592,7 @@
    "orgType": "CONG",
    "address": "401 N 168th Cir\nOmaha NE  68118\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "16:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 16:00 Thu 19:00",
    "phones": [
     {
      "phone": "(402) 758-0497",
@@ -2173,9 +1601,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "2CEE5F10-5920-4657-B05B-A4B134643B44",
@@ -2191,18 +1620,7 @@
    "orgType": "CONG",
    "address": "401 N 168th Cir\nOmaha NE  68118\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
      "phone": "402-819-4119",
@@ -2211,9 +1629,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "D3487AEF-9DB6-4973-A43A-CA17402E63CC",
@@ -2229,18 +1648,7 @@
    "orgType": "CONG",
    "address": "401 N 168th Cir\nOmaha NE  68118\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Tue 19:00",
    "phones": [
     {
      "phone": "402-758-0497",
@@ -2249,9 +1657,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "7F1E81BE-BF3E-44FF-BC13-B3E637BD4C2A",
@@ -2267,18 +1676,7 @@
    "orgType": "CONG",
    "address": "809 3rd St E\nMobridge SD  57601-2809\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [
     {
      "phone": "605-848-1222",
@@ -2287,9 +1685,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "ADAE1A24-B7CA-45FC-83E5-0AD6C37504D6",
@@ -2305,18 +1704,7 @@
    "orgType": "CONG",
    "address": "9201 Q St\nOmaha NE  68127-3563\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Tue 19:00",
    "phones": [
     {
      "phone": "402-214-1340",
@@ -2325,9 +1713,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "562BF3FE-05E3-4413-B1D3-7A1BE88D2AEC",
@@ -2343,18 +1732,7 @@
    "orgType": "CONG",
    "address": "9201 Q St\nOmaha NE  68127-3563\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
      "phone": "(402) 522-6436",
@@ -2363,9 +1741,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "2FBF1A33-2CA2-41A5-AE37-37E014835DC9",
@@ -2381,18 +1760,7 @@
    "orgType": "CONG",
    "address": "5911 Ville De Sante Dr\nOmaha NE  68104-1136\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "15:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 15:30 Thu 19:30",
    "phones": [
     {
      "phone": "402-573-1556",
@@ -2401,9 +1769,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "39032F80-06E2-4146-A490-54B392311FD9",
@@ -2419,18 +1788,7 @@
    "orgType": "CONG",
    "address": "5911 Ville De Sante Dr\nOmaha NE  68104-1136\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "12:30"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 12:30 Tue 19:30",
    "phones": [
     {
      "phone": "402 5731556",
@@ -2439,9 +1797,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "DCE21C58-4EAB-4C50-9883-BC259BDD4183",
@@ -2457,18 +1816,7 @@
    "orgType": "CONG",
    "address": "5911 Ville De Sante Dr\nOmaha NE  68104-1136\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "15:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 15:30 Thu 19:30",
    "phones": [
     {
      "phone": "402-573-1556",
@@ -2477,9 +1825,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "DC1AA887-781C-49C9-B326-D6250193391D",
@@ -2495,18 +1844,7 @@
    "orgType": "CONG",
    "address": "5911 Ville De Sante Dr\nOmaha NE  68104-1136\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "09:30"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 09:30 Wed 19:30",
    "phones": [
     {
      "phone": "402 573 1556",
@@ -2515,9 +1853,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "10FEE804-FAE6-4E28-A8A7-7BA7014BFDEC",
@@ -2533,18 +1872,7 @@
    "orgType": "CONG",
    "address": "5911 Ville De Sante Dr\nOmaha NE  68104-1136\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "12:30"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 12:30 Tue 19:30",
    "phones": [
     {
      "phone": "402-573-1556",
@@ -2553,9 +1881,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "2D52A1D1-17AE-46D3-B0BA-528646786983",
@@ -2571,18 +1900,7 @@
    "orgType": "CONG",
    "address": "5911 Ville De Sante Dr\nOmaha NE  68104-1136\n",
    "languageCode": "F",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "10:30"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 10:30 Wed 19:30",
    "phones": [
     {
      "phone": "1 (402) 573-1556",
@@ -2591,9 +1909,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "FDA1F856-AAFA-4B31-B1B5-1A27104B7361",
@@ -2609,18 +1928,7 @@
    "orgType": "CONG",
    "address": "5911 Ville De Sante Dr\nOmaha NE  68104-1136\n",
    "languageCode": "KR",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "09:30"
-     },
-     "midweek": {
-      "weekday": 5,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 09:30 Fri 19:00",
    "phones": [
     {
      "phone": "402-573-1556",
@@ -2629,9 +1937,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "00EA9CC6-FA6D-4959-8C3C-D4768C53BB7E",
@@ -2647,18 +1956,7 @@
    "orgType": "CONG",
    "address": "1002 Deerfield Blvd\nBlair NE  68008\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [
     {
      "phone": "402-218-8785",
@@ -2667,9 +1965,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "AC5A20FB-1847-4321-A24A-41F6E90FE437",
@@ -2685,18 +1984,7 @@
    "orgType": "CONG",
    "address": "2215 Douglas Ave\nYankton SD  57078-1708\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
      "phone": "605-665-2445",
@@ -2705,9 +1993,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "8EC7895D-D882-493E-9450-187CD4B03994",
@@ -2723,18 +2012,7 @@
    "orgType": "CONG",
    "address": "2707 SD-37\nMitchell SD  57301\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
      "phone": "605-996-7481",
@@ -2743,9 +2021,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "FA225FE4-BB51-4CEF-97FF-1348D115C51D",
@@ -2761,18 +2040,7 @@
    "orgType": "CONG",
    "address": "609 Kennedy St\nVermillion SD  57069\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [
     {
      "phone": "605-624-4231",
@@ -2781,9 +2049,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "865B527D-9854-4CE6-B768-861206695980",
@@ -2799,18 +2068,7 @@
    "orgType": "CONG",
    "address": "1006 Lucas St\nOnawa IA  51040-1762\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:30",
    "phones": [
     {
      "phone": "712-433-0562",
@@ -2819,9 +2077,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "0B0A717E-3441-4C89-9B1B-EEEAC934E3B7",
@@ -2837,18 +2096,7 @@
    "orgType": "CONG",
    "address": "2620 Old Red Trl\nMandan ND  58554-1447\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Thu 19:30",
    "phones": [
     {
      "phone": "(701) 891-8891",
@@ -2857,9 +2105,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "B4B2C8A6-4EF7-407D-9D25-8238FEFEE697",
@@ -2875,18 +2124,7 @@
    "orgType": "CONG",
    "address": "2620 Old Red Trl\nMandan ND  58554-1447\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "relatedLanguageCodes": [
     "S"
    ],
@@ -2898,9 +2136,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "E2F5DBDC-0C9E-4C5A-AF0E-3FAB5C806A83",
@@ -2916,18 +2155,7 @@
    "orgType": "GROUP",
    "address": "2620 Old Red Trl\nMandan ND  58554-1447\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "15:30"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 15:30 Tue 19:00",
    "relatedLanguageCodes": [
     "E"
    ],
@@ -2939,9 +2167,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "9E2C0A3A-446D-42C9-B8E9-847F1028D3A6",
@@ -2957,18 +2186,7 @@
    "orgType": "CONG",
    "address": "4130 War Eagle Dr\nSioux City IA  51109-1706\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [
     {
      "phone": "712-255-0680",
@@ -2977,9 +2195,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "5951571D-033C-4943-8AAD-356E8D9ECB4D",
@@ -2995,18 +2214,7 @@
    "orgType": "CONG",
    "address": "4130 War Eagle Dr\nSioux City IA  51109-1706\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Tue 19:00",
    "phones": [
     {
      "phone": "7122532360",
@@ -3015,14 +2223,15 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "53A06FC1-6C5E-4663-951C-2434F31F34BB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": false,
   "location": {
    "latitude": 44.311163,
    "longitude": -98.214646
@@ -3033,18 +2242,7 @@
    "orgType": "CONG",
    "address": "4603 Dakota Ave S\r\nHuron SD  57350-6541\r\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:30",
    "relatedLanguageCodes": [
     "KR"
    ],
@@ -3056,14 +2254,15 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "9EF0BA0C-0CE1-4122-B257-90D21F29DDE2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": false,
   "location": {
    "latitude": 44.311163,
    "longitude": -98.214646
@@ -3074,18 +2273,7 @@
    "orgType": "CONG",
    "address": "4603 Dakota Ave S\r\nHuron SD  57350-6541\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sat 15:00 Wed 19:30",
    "phones": [
     {
      "phone": "(605) 731-8728",
@@ -3094,9 +2282,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "BB24E433-B3BB-4E9C-B2FB-18432DE26463",
@@ -3112,18 +2301,7 @@
    "orgType": "GROUP",
    "address": "4603 Dakota Ave S\r\nHuron SD  57350-6541\r\n",
    "languageCode": "KR",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "16:00"
-     },
-     "midweek": {
-      "weekday": 5,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 16:00 Fri 19:00",
    "relatedLanguageCodes": [
     "E"
    ],
@@ -3135,9 +2313,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "6CFB75AD-C36F-4E19-81CE-9D0C7F3C5ED1",
@@ -3153,18 +2332,7 @@
    "orgType": "CONG",
    "address": "3713 Green Ave\nSioux City IA  51106-5342\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:30",
    "phones": [
     {
      "phone": "712-252-5212",
@@ -3173,9 +2341,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "30A8118C-88BA-4852-A7B7-0B86D86A2FAD",
@@ -3191,18 +2360,7 @@
    "orgType": "CONG",
    "address": "3713 Green Ave\nSioux City IA  51106-5342\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Wed 19:00",
    "phones": [
     {
      "phone": "712-252-5212",
@@ -3211,9 +2369,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "010F69E2-D75A-456C-9712-2CBAF5AF2B7B",
@@ -3229,18 +2388,7 @@
    "orgType": "CONG",
    "address": "4900 W 49th St\nSioux Falls SD  57106-2102\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "605-361-9437",
@@ -3249,9 +2397,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "ABD80787-6E6E-4DC5-BBF0-094A931570F5",
@@ -3267,18 +2416,7 @@
    "orgType": "CONG",
    "address": "4900 W 49th St\nSioux Falls SD  57106-2102\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Wed 19:00",
    "phones": [
     {
      "phone": "605-759-4320",
@@ -3287,9 +2425,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "B183416E-D0D0-449B-92A8-AD48D2EEB87A",
@@ -3305,18 +2444,7 @@
    "orgType": "CONG",
    "address": "4900 W 49th St\nSioux Falls SD  57106-2102\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "16:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 16:00 Thu 19:00",
    "phones": [
     {
      "phone": "6053619437",
@@ -3325,9 +2453,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "3D2DC4EA-76AC-48AB-B70E-A3EAC344A212",
@@ -3343,18 +2472,7 @@
    "orgType": "CONG",
    "address": "3200 E 6th St\nSioux Falls SD  57103-1103\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Thu 19:00",
    "phones": [
     {
      "phone": "16052127280",
@@ -3363,9 +2481,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "625D76AA-DD68-471D-8E6D-D745CC867D9F",
@@ -3381,18 +2500,7 @@
    "orgType": "CONG",
    "address": "3200 E 6th St\nSioux Falls SD  57103-1103\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
      "phone": "605-595-2341",
@@ -3401,9 +2509,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "6C91A211-A420-46D6-9E6D-B6D5216481A1",
@@ -3419,18 +2528,7 @@
    "orgType": "CONG",
    "address": "3200 E 6th St\nSioux Falls SD  57103-1103\n",
    "languageCode": "ASL",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "14:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sat 10:30 Tue 19:00",
    "phones": [
     {
      "phone": "605-413-1425",
@@ -3439,9 +2537,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "59B88966-98C2-4EED-AAA3-0AD44E3F4B8D",
@@ -3457,18 +2556,7 @@
    "orgType": "CONG",
    "address": "1757 S Lawson St\nAberdeen SD  57401-7744\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:30",
    "relatedLanguageCodes": [
     "KR",
     "S"
@@ -3481,9 +2569,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "0EFF8D92-A548-4409-A6EE-A5E32FD17FBC",
@@ -3499,18 +2588,7 @@
    "orgType": "GROUP",
    "address": "1757 S Lawson St\nAberdeen SD  57401-7744\n",
    "languageCode": "KR",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:30",
    "relatedLanguageCodes": [
     "E"
    ],
@@ -3522,9 +2600,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "8C294BEA-017A-4E0B-8FBF-3D2D4D5FD1A4",
@@ -3540,18 +2619,7 @@
    "orgType": "CONG",
    "address": "1503 County Hwy 4\nLuverne MN  56156\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "507-283-4569",
@@ -3560,9 +2628,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "03D712EE-4FB9-431D-AE31-FC3210BF778E",
@@ -3578,18 +2647,7 @@
    "orgType": "CONG",
    "address": "3521 US-14\nBrookings SD  57006\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "605 961-2500",
@@ -3598,9 +2656,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "618D7ED6-7EAC-469A-A3CF-A1375B040A41",
@@ -3616,18 +2675,7 @@
    "orgType": "CONG",
    "address": "3000 9th Ave SE\nWatertown SD  57201-9116\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
      "phone": "1 316 737-0659",
@@ -3636,9 +2684,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "44C2A790-04A6-4284-A805-A3C3B6E90039",
@@ -3654,18 +2703,7 @@
    "orgType": "CONG",
    "address": "407 E Benton St\nLake Benton MN  56149\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "(507) 487-4300",
@@ -3674,9 +2712,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "C1C067BA-7EE3-468C-B838-6E04126BD70E",
@@ -3692,18 +2731,7 @@
    "orgType": "CONG",
    "address": "9018 ND-1\nOakes ND  58474-9111\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:30",
    "phones": [
     {
      "phone": "701-710-0036",
@@ -3712,9 +2740,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "DCE3E338-6686-4D30-A2B7-9FB0F0ECF175",
@@ -3730,18 +2759,7 @@
    "orgType": "CONG",
    "address": "1415 12th Ave NE\nJamestown ND  58401-2847\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [
     {
      "phone": "1-701-952-9332",
@@ -3750,9 +2768,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "1E995297-E355-492B-BE0D-8FD641A557EA",
@@ -3768,18 +2787,7 @@
    "orgType": "CONG",
    "address": "1917 SD-10\nSisseton SD  57262\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [
     {
      "phone": "605-971-9100",
@@ -3788,9 +2796,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "244BFDEC-3983-4A24-B8F2-D91FC468C8C6",
@@ -3806,18 +2815,7 @@
    "orgType": "CONG",
    "address": "861 Oak Ave\nOrtonville MN  56278-9408\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "320-839-2071",
@@ -3826,9 +2824,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "54611DBC-6C6B-4AC8-BCB4-BAB499FC5CD7",
@@ -3844,18 +2843,7 @@
    "orgType": "CONG",
    "address": "367 Oehlke Ave\nEnderlin ND  58027-1134\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:30",
    "phones": [
     {
      "phone": "701-977-9771",
@@ -3864,9 +2852,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "35739EEE-CC56-461E-8F1F-A3CE03C4239B",
@@ -3882,18 +2871,7 @@
    "orgType": "CONG",
    "address": "611 5th St N\nBreckenridge MN  56520-1101\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "320 250 7359",
@@ -3902,9 +2880,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "15CDF870-A7E5-46F5-92A2-618297256DC2",
@@ -3920,18 +2899,7 @@
    "orgType": "CONG",
    "address": "2207 18th St S\nFargo ND  58103-5105\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Thu 19:00",
    "phones": [
     {
      "phone": "701-866-0342",
@@ -3940,9 +2908,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "2D6D15EA-1ED0-44F1-876B-9CB8D0208C0A",
@@ -3958,18 +2927,7 @@
    "orgType": "CONG",
    "address": "2207 18th St S\nFargo ND  58103-5105\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "701-361-1143",
@@ -3978,9 +2936,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "D6A2E97A-3A68-428A-A206-CADC6EEE17FA",
@@ -3996,18 +2955,7 @@
    "orgType": "CONG",
    "address": "2207 18th St S\nFargo ND  58103-5105\n",
    "languageCode": "ASL",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sat 13:00 Wed 19:00",
    "phones": [
     {
      "phone": "701-478-6819",
@@ -4016,9 +2964,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "7B9A5DB7-ADC5-4953-818D-036511558F4D",
@@ -4034,18 +2983,7 @@
    "orgType": "CONG",
    "address": "490 30th St N\nMoorhead MN  56560-2568\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
      "phone": "701-388-8068",
@@ -4054,9 +2992,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "640DDD0F-5AAB-4E62-A12A-5EC50A080F2F",
@@ -4072,29 +3011,19 @@
    "orgType": "CONG",
    "address": "490 30th St N\nMoorhead MN  56560-2568\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Tue 19:30",
    "phones": [
     {
-     "phone": "(218) 287-4200",
+     "phone": "701-238-3186",
      "ext": ""
     }
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "42D69039-E954-4AD2-836C-5258850A49D3",
@@ -4110,18 +3039,7 @@
    "orgType": "CONG",
    "address": "3111 E Fir Ave\nFergus Falls MN  56537-3966\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
      "phone": "218-731-5211",
@@ -4130,9 +3048,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "6D3242A7-BC8A-41A3-94CF-B06F886B48CE",
@@ -4148,32 +3067,22 @@
    "orgType": "CONG",
    "address": "2311 River Rd NW\nEast Grand Forks MN  56721-1083\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:00",
    "relatedLanguageCodes": [
     "S"
    ],
    "phones": [
     {
-     "phone": "701-367-1106",
+     "phone": "218-773-3185",
      "ext": ""
     }
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "1A89A705-E9EE-4296-B3C0-03E9FD5D3A04",
@@ -4189,18 +3098,7 @@
    "orgType": "CONG",
    "address": "2311 River Rd NW\nEast Grand Forks MN  56721-1083\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:00 Tue 19:00",
    "phones": [
     {
      "phone": "701-740-5671",
@@ -4209,9 +3107,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "D8990A84-27AB-4B0D-9252-73638785AC4E",
@@ -4227,32 +3126,22 @@
    "orgType": "GROUP",
    "address": "2311 River Rd NW\nEast Grand Forks MN  56721-1083\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "13:00"
-     },
-     "midweek": {
-      "weekday": null,
-      "time": null
-     }
-    }
-   },
+   "schedule": "Sat 13:00 undefined null",
    "relatedLanguageCodes": [
     "E"
    ],
    "phones": [
     {
-     "phone": "701-367-1106",
+     "phone": "218-773-3185",
      "ext": ""
     }
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "ED9ABDE2-DE6B-4144-A656-BDCC7D956750",
@@ -4268,18 +3157,7 @@
    "orgType": "CONG",
    "address": "1727 Widman Ln\nCrookston MN  56716-1066\n",
    "languageCode": "E",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [
     {
      "phone": "218 280 2078",
@@ -4288,8 +3166,9 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  }
 ]

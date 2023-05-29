@@ -1,0 +1,122 @@
+{
+  "F6A0B651-D893-4278-8180-1AB7C7A3AB54": {
+    "geoId": "F6A0B651-D893-4278-8180-1AB7C7A3AB54",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 36.193206,
+      "longitude": 36.157212
+    },
+    "properties": {
+      "orgGuid": "F6A0B651-D893-4278-8180-1AB7C7A3AB54",
+      "orgName": "Hatay - Antakya",
+      "orgType": "CONG",
+      "address": "Sümerler Mah.\r\nDere Sok. No: 3a\r\nSinem Apt. Giriş Kat\r\nDefne, HATAY\r\n",
+      "languageCode": "TK",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "11:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "05302059414",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2023-02-20T07:01:58.072Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  "C91C7906-4D7E-4C76-AF2B-5067DEF9A812": {
+    "geoId": "C91C7906-4D7E-4C76-AF2B-5067DEF9A812",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 37.065978,
+      "longitude": 37.377981
+    },
+    "properties": {
+      "orgGuid": "C91C7906-4D7E-4C76-AF2B-5067DEF9A812",
+      "orgName": "Konak Arapça - Gaziantep - Konak - Gaziantep",
+      "orgType": "GROUP",
+      "address": "Gaziantep\r\n",
+      "languageCode": "A",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "17:00"
+          },
+          "midweek": {
+            "weekday": null,
+            "time": null
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "TK"
+      ],
+      "phones": [
+        {
+          "phone": "+905536769979",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2023-02-20T07:01:58.072Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  },
+  "9E59D85B-BED4-4848-8DAF-3B600E7EBE8B": {
+    "geoId": "9E59D85B-BED4-4848-8DAF-3B600E7EBE8B",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 37.065978,
+      "longitude": 37.377981
+    },
+    "properties": {
+      "orgGuid": "9E59D85B-BED4-4848-8DAF-3B600E7EBE8B",
+      "orgName": "Konak - Gaziantep",
+      "orgType": "CONG",
+      "address": "Gaziantep\r\n",
+      "languageCode": "TK",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "17:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "A"
+      ],
+      "phones": [
+        {
+          "phone": "+905536769979",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2023-02-20T07:01:58.072Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "B546B368-02B2-47C4-9031-E139E057B643": {
+    "geoId": "B546B368-02B2-47C4-9031-E139E057B643",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 16.025542,
+      "longitude": -16.487982
+    },
+    "properties": {
+      "orgGuid": "B546B368-02B2-47C4-9031-E139E057B643",
+      "orgName": "Saint-Louis",
+      "orgType": "CONG",
+      "address": "147, Route de Khor\r\nà côté du garage municipal, côté SAED\r\nSaint-Louis\r\nSENEGAL\r\n",
+      "transliteratedAddress": "147, Route de Khor\r\nà côté du garage municipal, côté SAED\r\nSaint-Louis\r\n\r\n",
+      "languageCode": "F",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 6,
+            "time": "17:00"
+          },
+          "midweek": {
+            "weekday": 3,
+            "time": "19:00"
+          }
+        }
+      },
+      "phones": [
+        {
+          "phone": "(+221) 77 640 37 96",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2023-02-20T07:01:58.072Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
+}

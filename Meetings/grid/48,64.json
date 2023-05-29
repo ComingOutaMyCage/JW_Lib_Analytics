@@ -13,18 +13,7 @@
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 111300\r\n(KOS) Костанайская область, Боровское (Мендыкаринский р-н) (село)\r\nул. Ауэзова, д. 126\r\n",
    "languageCode": "U",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "11:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "18:30"
-     }
-    }
-   },
+   "schedule": "Sun 11:00 Wed 18:30",
    "phones": [
     {
      "phone": "+77776393233",
@@ -33,9 +22,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "ED260ECF-684A-4308-A99B-870D8B2C01D3",
@@ -52,18 +42,7 @@
    "address": "КАЗАХСТАН, 010000\r\n(AKM) Акмолинская область, Астана\r\nул. Мәскеу д. 6/1 (р-н Сарыарка)\r\n",
    "transliteratedAddress": "010000\r\n(AKM) Akmolinskaya oblast, Astana\r\n6/1 Maskey Street (Saryarka distr.)\r\n",
    "languageCode": "U",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "12:45"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:45 Thu 19:00",
    "phones": [
     {
      "phone": "(7172) 49-26-37",
@@ -72,9 +51,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "8354ADC0-9B91-4F0C-9477-1FD57438FC3E",
@@ -91,18 +71,7 @@
    "address": "КАЗАХСТАН, 010000\r\n(AKM) Акмолинская область, Астана\r\nул. Мәскеу д. 6/1 (р-н Сарыарка)\r\n",
    "transliteratedAddress": "010000\r\n(AKM) Akmolinskaya oblast, Astana\r\n6/1 Maskey Street (Saryarka distr.)\r\n",
    "languageCode": "U",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "15:30"
-     },
-     "midweek": {
-      "weekday": 5,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 11:00 Fri 19:00",
    "phones": [
     {
      "phone": "+77057603758",
@@ -111,9 +80,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "CCBC7B76-500E-4651-BCA7-A358B530B7B2",
@@ -130,18 +100,7 @@
    "address": "КАЗАХСТАН, 010000\r\n(AKM) Акмолинская область, Астана\r\nул. Мәскеу д. 6/1 (р-н Сарыарка)\r\n",
    "transliteratedAddress": "010000\r\n(AKM) Akmolinskaya oblast, Astana\r\n6/1 Maskey Street (Saryarka distr.)\r\n",
    "languageCode": "AZ",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "18:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sat 18:00 Thu 19:00",
    "phones": [
     {
      "phone": "87773048707",
@@ -150,14 +109,15 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "7EACC379-16FE-43FD-BBB9-8C1D98A3C134",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": false,
   "location": {
    "latitude": 51.179494,
    "longitude": 71.39263
@@ -169,18 +129,7 @@
    "address": "КАЗАХСТАН, 010000\r\n(AKM) Акмолинская область, Астана\r\nул. Мәскеу д. 6/1 (р-н Сарыарка)\r\n",
    "transliteratedAddress": "010000\r\n(AKM) Akmolinskaya oblast, Astana\r\n6/1 Maskey Street (Saryarka distr.)\r\n",
    "languageCode": "U",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 5,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 13:45 Tue 19:00",
    "phones": [
     {
      "phone": "+7 705 232 7204",
@@ -189,9 +138,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "273A524E-9D67-4BB3-8738-C55FD136B66D",
@@ -208,18 +158,7 @@
    "address": "КАЗАХСТАН, 010000\r\n(AKM) Акмолинская область, Астана\r\nул. Мәскеу д. 6/1 (р-н Сарыарка)\r\n",
    "transliteratedAddress": "010000\r\n(AKM) Akmolinskaya oblast, Astana\r\n6/1 Maskey Street (Saryarka distr.)\r\n",
    "languageCode": "AZ",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "15:30"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 11:00 Wed 19:00",
    "phones": [
     {
      "phone": "+77057818589",
@@ -228,14 +167,15 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "F200773D-8778-4646-A13E-85255EB9F38F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": false,
   "location": {
    "latitude": 51.179494,
    "longitude": 71.39263
@@ -247,24 +187,14 @@
    "address": "КАЗАХСТАН, 010000\r\n(AKM) Акмолинская область, Астана\r\nул. Мәскеу д. 6/1 (р-н Сарыарка)\r\n",
    "transliteratedAddress": "010000\r\n(AKM) Akmolinskaya oblast, Astana\r\n6/1 Maskey Street (Saryarka distr.)\r\n",
    "languageCode": "U",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "12:45"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
-    }
-   },
+   "schedule": "Sun 16:30 Fri 19:30",
    "phones": [],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "3125D544-9D67-4BED-8225-899D9C5CACB1",
@@ -281,18 +211,7 @@
    "address": "КАЗАХСТАН, 010000\r\n(AKM) Акмолинская область, Астана\r\nул. Мәскеу д. 6/1 (р-н Сарыарка)\r\n",
    "transliteratedAddress": "010000\r\n(AKM) Akmolinskaya oblast, Astana\r\n6/1 Maskey Street (Saryarka distr.)\r\n",
    "languageCode": "RSL",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "12:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "16:30"
-     }
-    }
-   },
+   "schedule": "Sat 12:30 Tue 16:30",
    "phones": [
     {
      "phone": "87770400439",
@@ -301,9 +220,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "7BF2E3C3-90B4-44D1-B1A0-FBBD2E838A78",
@@ -315,29 +235,24 @@
   },
   "properties": {
    "orgGuid": "7BF2E3C3-90B4-44D1-B1A0-FBBD2E838A78",
-   "orgName": "Солтустик Астана",
+   "orgName": "Солтустик, Астана",
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 010000\r\n(AKM) Акмолинская область, Астана\r\nул. Мәскеу д. 6/1 (р-н Сарыарка)\r\n",
    "transliteratedAddress": "010000\r\n(AKM) Akmolinskaya oblast, Astana\r\n6/1 Maskey Street (Saryarka distr.)\r\n",
    "languageCode": "AZ",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "10:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:30"
-     }
+   "schedule": "Sat 18:00 Wed 19:00",
+   "phones": [
+    {
+     "phone": "+7&nbsp;705 166 6232",
+     "ext": ""
     }
-   },
-   "phones": [],
+   ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "005A603F-A466-4070-8B73-F76347FCBA17",
@@ -354,18 +269,7 @@
    "address": "КАЗАХСТАН, 020000\r\n(AKM) Акмолинская область, Кокшетау\r\nул. Садуакасова, д. 49\r\n",
    "transliteratedAddress": "020000\r\n(AKM) Akmolinskaya oblast, Kokshetau\r\n49, Saduakasov street\r\n",
    "languageCode": "U",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 6,
-      "time": "17:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sat 17:00 Wed 19:00",
    "phones": [
     {
      "phone": "87054045609",
@@ -374,9 +278,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "6FF7AB7F-4048-4E8E-A7AA-14CCBC2F69D9",
@@ -393,18 +298,7 @@
    "address": "КАЗАХСТАН, 020000\r\n(AKM) Акмолинская область, Кокшетау\r\nул. Садуакасова, д. 49\r\n",
    "transliteratedAddress": "020000\r\n(AKM) Akmolinskaya oblast, Kokshetau\r\n49, Saduakasov street\r\n",
    "languageCode": "U",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "11:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 11:00 Thu 19:00",
    "phones": [
     {
      "phone": "+77055819566",
@@ -413,9 +307,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "7FD7E85C-7386-43F9-AFE8-7DABB62CC5B0",
@@ -432,18 +327,7 @@
    "address": "КАЗАХСТАН, 020000\r\n(AKM) Акмолинская область, Кокшетау\r\nул. Садуакасова, д. 49\r\n",
    "transliteratedAddress": "020000\r\n(AKM) Akmolinskaya oblast, Kokshetau\r\n49, Saduakasov street\r\n",
    "languageCode": "AZ",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "14:00"
-     },
-     "midweek": {
-      "weekday": 5,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 14:00 Fri 18:30",
    "phones": [
     {
      "phone": "87054540039",
@@ -452,9 +336,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "F04E6BEB-76F0-4EA4-9310-7E978FF58891",
@@ -470,18 +355,7 @@
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 150009\r\n(SKO) Северо-Казахстанская область, Петропавловск\r\nул. Аягана Шажимбаева 74\r\n",
    "languageCode": "U",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "17:00"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "18:00"
-     }
-    }
-   },
+   "schedule": "Sun 17:00 Thu 18:00",
    "phones": [
     {
      "phone": "87711748856",
@@ -490,9 +364,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "10FBA6E9-892A-4440-82C2-171570760237",
@@ -508,18 +383,7 @@
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 150009\r\n(SKO) Северо-Казахстанская область, Петропавловск\r\nул. Аягана Шажимбаева 74\r\n",
    "languageCode": "U",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "11:00"
-     },
-     "midweek": {
-      "weekday": 3,
-      "time": "19:00"
-     }
-    }
-   },
+   "schedule": "Sun 11:00 Wed 19:00",
    "phones": [
     {
      "phone": "8 7056603360",
@@ -528,9 +392,10 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
   "geoId": "5519086D-325D-48BC-B0E6-FB42388A6547",
@@ -546,18 +411,7 @@
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 150009\r\n(SKO) Северо-Казахстанская область, Петропавловск\r\nул. Аягана Шажимбаева 74\r\n",
    "languageCode": "AZ",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "14:00"
-     },
-     "midweek": {
-      "weekday": 2,
-      "time": "18:00"
-     }
-    }
-   },
+   "schedule": "Sun 14:00 Tue 18:00",
    "phones": [
     {
      "phone": "+7 (7152) 31-62-26",
@@ -566,8 +420,9 @@
    ],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T08:51:22.701Z",
+  "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:11:43.287Z"
  }
 ]

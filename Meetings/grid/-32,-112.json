@@ -2,7 +2,7 @@
  {
   "geoId": "29D29BDF-F493-41EA-948E-B15D91D04D13",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": false,
   "location": {
    "latitude": -27.160393,
    "longitude": -109.412848
@@ -13,32 +13,14 @@
    "orgType": "CONG",
    "address": "                                                         \r\nIsla de Pascua, Camino público a Vaitea, Parc. 130\r\nISLA DE PASCUA  (V. VALPO)\r\n",
    "languageCode": "S",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": 7,
-      "time": "09:30"
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "20:00"
-     }
-    }
-   },
-   "relatedLanguageCodes": [
-    "RPN"
-   ],
-   "phones": [
-    {
-     "phone": "+569 84192594",
-     "ext": ""
-    }
-   ],
+   "schedule": "Sun 09:30 Thu 20:00",
+   "phones": [],
    "isPrivateMtgPlace": false
   },
-  "lastSeen": "2023-02-20T11:16:32.171Z",
+  "lastVisit": "2023-05-29T11:11:43.287Z",
+  "lastSeen": "2023-05-29T11:11:43.287Z",
   "active": true,
-  "firstSeen": "2022-12-02T17:31:33.254Z"
+  "firstSeen": "2023-05-29T11:21:07.950Z"
  },
  {
   "geoId": "84C743F3-4060-4952-8081-9B2662434F88",
@@ -54,18 +36,7 @@
    "orgType": "GROUP",
    "address": "                                                         \r\nIsla de Pascua, Camino público a Vaitea, Parc. 130\r\nISLA DE PASCUA  (V. VALPO)\r\n",
    "languageCode": "RPN",
-   "schedule": {
-    "current": {
-     "weekend": {
-      "weekday": null,
-      "time": null
-     },
-     "midweek": {
-      "weekday": 4,
-      "time": "20:00"
-     }
-    }
-   },
+   "schedule": "undefined null Thu 20:00",
    "relatedLanguageCodes": [
     "S"
    ],
@@ -78,7 +49,35 @@
    "isPrivateMtgPlace": false
   },
   "lastSeen": "2023-02-20T11:16:32.171Z",
-  "active": true,
+  "active": false,
   "firstSeen": "2022-12-02T17:31:33.254Z"
+ },
+ {
+  "geoId": "B957AF9E-8CDC-4B93-90AE-26CA34F03750",
+  "type": "weekly",
+  "isPrimary": true,
+  "location": {
+   "latitude": -27.160393,
+   "longitude": -109.412848
+  },
+  "properties": {
+   "orgGuid": "B957AF9E-8CDC-4B93-90AE-26CA34F03750",
+   "orgName": "Rapa Nui - Isla de Pascua",
+   "orgType": "CONG",
+   "address": "                                                         \r\nIsla de Pascua, Camino público a Vaitea, Parc. 130\r\nISLA DE PASCUA  (V. VALPO)\r\n",
+   "languageCode": "RPN",
+   "schedule": "Sat 19:30 Wed 19:30",
+   "phones": [
+    {
+     "phone": "+56990911340",
+     "ext": ""
+    }
+   ],
+   "isPrivateMtgPlace": false
+  },
+  "lastVisit": "2023-05-29T11:11:43.287Z",
+  "lastSeen": "2023-05-29T11:11:43.287Z",
+  "active": true,
+  "firstSeen": "2023-05-29T11:21:07.950Z"
  }
 ]

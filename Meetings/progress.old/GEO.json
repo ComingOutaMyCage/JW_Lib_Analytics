@@ -1,0 +1,43 @@
+{
+  "FB1DE5AF-C71C-45C3-8B09-592407D8BDB0": {
+    "geoId": "FB1DE5AF-C71C-45C3-8B09-592407D8BDB0",
+    "type": "weekly",
+    "isPrimary": true,
+    "location": {
+      "latitude": 41.331817,
+      "longitude": 36.266269
+    },
+    "properties": {
+      "orgGuid": "FB1DE5AF-C71C-45C3-8B09-592407D8BDB0",
+      "orgName": "Atakum - Samsun",
+      "orgType": "CONG",
+      "address": "Cumhuriyet Mah.\r\n95 Sok. No: 3\r\n55200, Atakum, SAMSUN\r\n",
+      "languageCode": "TK",
+      "schedule": {
+        "current": {
+          "weekend": {
+            "weekday": 7,
+            "time": "11:00"
+          },
+          "midweek": {
+            "weekday": 4,
+            "time": "19:00"
+          }
+        }
+      },
+      "relatedLanguageCodes": [
+        "A"
+      ],
+      "phones": [
+        {
+          "phone": "05305517473",
+          "ext": ""
+        }
+      ],
+      "isPrivateMtgPlace": false
+    },
+    "lastSeen": "2023-02-20T07:01:58.072Z",
+    "active": true,
+    "firstSeen": "2022-12-02T17:31:33.254Z"
+  }
+}
