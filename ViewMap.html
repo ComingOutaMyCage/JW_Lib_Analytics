@@ -373,13 +373,14 @@
         return marker;
     }
     function htmlForMeeting(meeting){
+        let properties = meeting.properties;
         let html = `
 <div style="text-align: left">
-    ${meeting.properties.orgType}<br/>
-    <b>${meeting.properties.orgName}</b><br/>
-    <b>Language:</b> ${meeting.properties.languageCode}<br/>
-    <b>Frequency:</b> ${meeting.type}<br/>
-    <b>Address:</b> ${meeting.properties.address}<br/>
+    ${properties.orgType}<br/>
+    <b>${properties.orgName}</b><br/>
+    <b>Language:</b> ${properties.languageCode}<br/>
+    <b>Schedule:</b> ${properties.schedule}<br/>
+    <b>Address:</b> ${properties.address}<br/>
 </div>`;
         return html;
     }
