@@ -179,7 +179,7 @@ async function getMeetings(lowerLat, lowerLon, upperLat, upperLon){
     });//.then((data) => data.category.subcategories.map(ele => ele.key))
 }
 function cleanMeeting(meeting){
-    if (meeting.properties.schedule !== undefined && !(meeting.properties.schedule instanceof String)){
+    if (meeting.properties.schedule !== undefined && Object.is(meeting.properties.schedule)){
         meeting.properties.schedule = formatSchedule(meeting.properties.schedule);
     }
 
@@ -563,6 +563,17 @@ async function SaveAllMeetings(allMeetings){
         else
             totalInactive++;
     }
+    let orphanHalls = [];
+    let orphanCount = 0;
+    for(const [key, meetings] of locations){
+        const anyActive = meetings.some(m => m.active);
+        if(anyActive) continue;
+        orphanCount++;
+        for(const meeting of meetings){
+            orphanHalls.push(meeting);
+        }
+    }
+    grids['orphans'] = orphanHalls;
     languages = [...languages];
     languages.sort();
     let stats = {
@@ -571,6 +582,7 @@ async function SaveAllMeetings(allMeetings){
         totalActive: totalActive,
         totalInactive: totalInactive,
         totalLocations: totalLocations,
+        totalOrphans: orphanCount,
         languages: [...languages],
         grids: Object.keys(available_grids),
     };

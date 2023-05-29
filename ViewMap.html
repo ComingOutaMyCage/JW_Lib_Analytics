@@ -77,15 +77,18 @@
 <!--<script src="https://unpkg.com/supercluster@7.1.2/dist/supercluster.min.js"></script>-->
 
 <div style="overflow: hidden;">
-    <div id="mapHeader" style="display: flex; gap: 0.3rem; flex-flow: wrap;">
+    <div style="display: flex; gap: 0.3rem; flex-flow: wrap;">
         <div id="stats" style="display: flex; align-items: center; gap: 1rem; flex: 1; flex-flow: wrap; min-width: 300px">
             <h3 style="background: darkgreen; border-radius: 0.2rem; padding:0.2rem; color: white;">Active <span id="total">...</span></h3>
             <h3 style="background: darkred; border-radius: 0.2rem; padding:0.2rem; color: white;">Deleted <span id="totalDeleted">...</span></h3>
+            <h3 style="background: darkred; border-radius: 0.2rem; padding:0.2rem; color: white;">Orphan Halls <span id="totalOrphans">...</span></h3>
         </div>
-
+    </div>
+    <div id="mapHeader" style="display: flex; gap: 0.3rem; flex-flow: wrap;">
         <button class="btn btn-outline-success active" onclick="NormalMode()">Normal Mode</button>
-        <button class="btn btn-outline-dark d-none d-lg-block" onclick="LoadAll()">Load All Active (HEAVY)</button>
+        <button class="btn btn-outline-dark d-none d-lg-block" onclick="LoadAll()">Load All (HEAVY)</button>
         <button class="btn btn-outline-danger" onclick="LoadDeleted()">Load All Deleted</button>
+        <button class="btn btn-outline-danger" onclick="LoadOrphans()">Orphan Halls</button>
     </div>
     <div style="height: 90vh; width: 100%;">
         <div id="map" style="width: 100%; height: 100%"></div>
@@ -113,6 +116,7 @@
             available_grids = init_data.grids;
             $("#total").text(init_data.totalActive);
             $("#totalDeleted").text(init_data.totalInactive);
+            $("#totalOrphans").text(init_data.totalOrphans);
             $("#stats").append(`<h3>Congregations: ${init_data.typeTotals.CONG}</h3> <h3>Groups: ${init_data.typeTotals.GROUP}</h3>`);
             load();
         });
@@ -280,6 +284,15 @@
             addMarkers(Object.values(meetings));
         });
     }
+    function LoadOrphans(){
+        $("#mapHeader button").removeClass('active');
+        $(this).addClass('active');
+        clearMarkers();
+        available_grids = [];
+        $.getJSON('./Meetings/grid/orphans.json', function(meetings){
+            addMarkers(Object.values(meetings));
+        });
+    }
 
     var grids = {};
     function LoadInMarkers(latMin, lonMin, latMax, lonMax){
@@ -374,10 +387,12 @@
     }
     function htmlForMeeting(meeting){
         let properties = meeting.properties;
+        let state = meeting.active ? "" : " - Deleted<br/><b>Last Seen:</b> " + new Date(meeting.lastSeen).toLocaleDateString();
+        let style = meeting.active ? "" : "color:red;";
         let html = `
-<div style="text-align: left">
+<div style="text-align: left; ${style}">
     ${properties.orgType}<br/>
-    <b>${properties.orgName}</b><br/>
+    <b>${properties.orgName}</b>${state}<br/>
     <b>Language:</b> ${properties.languageCode}<br/>
     <b>Schedule:</b> ${properties.schedule}<br/>
     <b>Address:</b> ${properties.address}<br/>
