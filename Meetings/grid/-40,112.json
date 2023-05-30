@@ -8,7 +8,6 @@
    "longitude": 115.074816
   },
   "properties": {
-   "orgGuid": "0AD99B39-A07F-4F6E-8303-61430E7713B8",
    "orgName": "Margaret River - WA",
    "orgType": "CONG",
    "address": "177 Bussell Highway\nMARGARET RIVER  WA  6285\n",
@@ -16,8 +15,7 @@
    "schedule": "Sat 10:00 Wed 19:00",
    "phones": [
     {
-     "phone": "0404838232",
-     "ext": ""
+     "phone": "0404838232"
     }
    ],
    "isPrivateMtgPlace": false
@@ -36,7 +34,6 @@
    "longitude": 115.331324
   },
   "properties": {
-   "orgGuid": "AB9467DC-D475-47AA-9E92-0DE7E4EED865",
    "orgName": "Busselton South - Busselton WA",
    "orgType": "CONG",
    "address": "38-40 South Street\r\nWEST BUSSELTON  WA  6280\r\n",
@@ -44,8 +41,7 @@
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
-     "phone": "0434 772 676",
-     "ext": ""
+     "phone": "0434 772 676"
     }
    ],
    "isPrivateMtgPlace": false
@@ -64,7 +60,6 @@
    "longitude": 115.331324
   },
   "properties": {
-   "orgGuid": "00047A10-F9FF-4881-A692-A97AD22DEEEA",
    "orgName": "Busselton North - Busselton WA",
    "orgType": "CONG",
    "address": "38-40 South Street\r\nWEST BUSSELTON  WA  6280\r\n",
@@ -72,8 +67,7 @@
    "schedule": "Sat 10:00 Wed 19:00",
    "phones": [
     {
-     "phone": "0493 032 465",
-     "ext": ""
+     "phone": "0493 032 465"
     }
    ],
    "isPrivateMtgPlace": false
@@ -92,7 +86,6 @@
    "longitude": 116.13267
   },
   "properties": {
-   "orgGuid": "5C8C157D-F4D9-45A6-B68E-4070515FDD42",
    "orgName": "Manjimup - WA",
    "orgType": "CONG",
    "address": "Cnr Pritchard & Cronin Streets\r\nMANJIMUP  WA  6258\r\n",
@@ -100,8 +93,7 @@
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
-     "phone": "0427 761 240",
-     "ext": ""
+     "phone": "0427 761 240"
     }
    ],
    "isPrivateMtgPlace": false
@@ -112,6 +104,24 @@
   "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
+  "geoId": "acnc.gov.au-EB6EA047-EB6EA0471BD8-3FA9D4FF9799",
+  "type": "weekly",
+  "location": {
+   "latitude": -33.9497507,
+   "longitude": 116.1274263
+  },
+  "properties": {
+   "orgName": "Bridgetown",
+   "orgType": "CONG",
+   "address": "1 Corriedale Court, Bridgetown, WA",
+   "languageCode": "E"
+  },
+  "lastVisit": "2023-05-30T11:27:54.011Z",
+  "lastSeen": "2022-05-15",
+  "active": false,
+  "firstSeen": "2022-05-15"
+ },
+ {
   "geoId": "BD3B4FE6-CDC2-4D41-9B33-8F44127850AE",
   "type": "weekly",
   "isPrimary": true,
@@ -120,7 +130,6 @@
    "longitude": 115.81456
   },
   "properties": {
-   "orgGuid": "BD3B4FE6-CDC2-4D41-9B33-8F44127850AE",
    "orgName": "Donnybrook - WA",
    "orgType": "CONG",
    "address": "Lot 3 Bentley Street\nDONNYBROOK  WA  6239\n",
@@ -128,8 +137,7 @@
    "schedule": "Sat 14:30 Wed 19:00",
    "phones": [
     {
-     "phone": "0417933925",
-     "ext": ""
+     "phone": "0417933925"
     }
    ],
    "isPrivateMtgPlace": false
@@ -148,7 +156,6 @@
    "longitude": 115.65751
   },
   "properties": {
-   "orgGuid": "0D52D75E-65F9-4878-8944-ED80F426F713",
    "orgName": "Bunbury East - Bunbury WA",
    "orgType": "CONG",
    "address": "27 Milligan Street\nCAREY PARK  WA  6230\n",
@@ -156,8 +163,7 @@
    "schedule": "Sat 10:00 Wed 19:00",
    "phones": [
     {
-     "phone": "97212470",
-     "ext": ""
+     "phone": "97212470"
     }
    ],
    "isPrivateMtgPlace": false
@@ -176,7 +182,6 @@
    "longitude": 115.65751
   },
   "properties": {
-   "orgGuid": "6873D8A7-C98E-48E0-8DF2-2BA4456627EA",
    "orgName": "Bunbury South - Bunbury WA",
    "orgType": "CONG",
    "address": "27 Milligan Street\nCAREY PARK  WA  6230\n",
@@ -184,8 +189,7 @@
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
-     "phone": "0897212470",
-     "ext": ""
+     "phone": "0897212470"
     }
    ],
    "isPrivateMtgPlace": false
@@ -204,7 +208,6 @@
    "longitude": 117.35861
   },
   "properties": {
-   "orgGuid": "E1E6BC74-55F2-4834-B787-38F0EDFDA929",
    "orgName": "Denmark - WA",
    "orgType": "CONG",
    "address": "80 Brazier Street\nDENMARK  WA  6333\n",
@@ -212,8 +215,7 @@
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
-     "phone": "0427904783",
-     "ext": ""
+     "phone": "0427904783"
     }
    ],
    "isPrivateMtgPlace": false
@@ -232,7 +234,6 @@
    "longitude": 115.72825
   },
   "properties": {
-   "orgGuid": "0017AD54-7264-4FC6-94DA-BC11E84674BA",
    "orgName": "Australind - Bunbury WA",
    "orgType": "CONG",
    "address": "8 Break O'Day Drive\r\nAUSTRALIND  WA  6233\r\n",
@@ -240,8 +241,7 @@
    "schedule": "Sat 14:30 Tue 19:00",
    "phones": [
     {
-     "phone": "0412 856 033",
-     "ext": ""
+     "phone": "0412 856 033"
     }
    ],
    "isPrivateMtgPlace": false
@@ -260,7 +260,6 @@
    "longitude": 115.72825
   },
   "properties": {
-   "orgGuid": "FC1E795D-AF5E-4116-8B7E-BA777CA80A03",
    "orgName": "Eaton - Bunbury WA",
    "orgType": "CONG",
    "address": "8 Break O'Day Drive\r\nAUSTRALIND  WA  6233\r\n",
@@ -268,8 +267,7 @@
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
-     "phone": "0447 693 097",
-     "ext": ""
+     "phone": "0447 693 097"
     }
    ],
    "isPrivateMtgPlace": false
@@ -288,7 +286,6 @@
    "longitude": 116.1448
   },
   "properties": {
-   "orgGuid": "7988F3C7-537C-48B2-9304-B3EDBA27CD51",
    "orgName": "Collie - WA",
    "orgType": "CONG",
    "address": "Lot 2809 Patstone Road\nCOLLIE  WA  6225\n",
@@ -296,8 +293,7 @@
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
-     "phone": "0412763413",
-     "ext": ""
+     "phone": "0412763413"
     }
    ],
    "isPrivateMtgPlace": false
@@ -316,7 +312,6 @@
    "longitude": 115.89667
   },
   "properties": {
-   "orgGuid": "64292667-0473-4203-97CC-E4164CF1FE1E",
    "orgName": "Harvey - WA",
    "orgType": "CONG",
    "address": "7 Hackett Road\nHARVEY  WA  6220\n",
@@ -324,8 +319,7 @@
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
-     "phone": "0408901322",
-     "ext": ""
+     "phone": "0408901322"
     }
    ],
    "isPrivateMtgPlace": false
@@ -344,7 +338,6 @@
    "longitude": 117.873536
   },
   "properties": {
-   "orgGuid": "1139CCA6-E4E4-4D44-A6A1-B4D479E50A59",
    "orgName": "Albany - WA",
    "orgType": "CONG",
    "address": "42 Wellington Street\nALBANY  WA  6330\n",
@@ -352,8 +345,7 @@
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
-     "phone": "98415248",
-     "ext": ""
+     "phone": "98415248"
     }
    ],
    "isPrivateMtgPlace": false
@@ -364,6 +356,24 @@
   "firstSeen": "2023-05-29T11:21:07.950Z"
  },
  {
+  "geoId": "acnc.gov.au-6D842249-6D84224987F2-AEEE01343B6A",
+  "type": "weekly",
+  "location": {
+   "latitude": -35.00959,
+   "longitude": 117.873536
+  },
+  "properties": {
+   "orgName": "Albany West",
+   "orgType": "CONG",
+   "address": "42 Wellington Street, Centennial Park, WA",
+   "languageCode": "E"
+  },
+  "lastVisit": "2023-05-30T11:27:48.812Z",
+  "lastSeen": "2019-06-01",
+  "active": false,
+  "firstSeen": "2019-06-01"
+ },
+ {
   "geoId": "50C61F21-D480-43DC-B48E-75BD78C83F5C",
   "type": "weekly",
   "isPrimary": true,
@@ -372,7 +382,6 @@
    "longitude": 115.639427
   },
   "properties": {
-   "orgGuid": "50C61F21-D480-43DC-B48E-75BD78C83F5C",
    "orgName": "Halls Head - Mandurah WA",
    "orgType": "CONG",
    "address": "50 Tims Thicket Road\nDAWESVILLE  WA  6211\n",
@@ -380,8 +389,7 @@
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
-     "phone": "0419 839 916",
-     "ext": ""
+     "phone": "0419 839 916"
     }
    ],
    "isPrivateMtgPlace": false
@@ -400,7 +408,6 @@
    "longitude": 115.639427
   },
   "properties": {
-   "orgGuid": "86C1CD40-B50E-4B23-835D-17C6BD5B5530",
    "orgName": "Dawesville - Mandurah WA",
    "orgType": "CONG",
    "address": "50 Tims Thicket Road\nDAWESVILLE  WA  6211\n",
@@ -408,8 +415,7 @@
    "schedule": "Sat 14:00 Tue 19:00",
    "phones": [
     {
-     "phone": "0433 925 177",
-     "ext": ""
+     "phone": "0433 925 177"
     }
    ],
    "isPrivateMtgPlace": false
@@ -428,7 +434,6 @@
    "longitude": 117.666978
   },
   "properties": {
-   "orgGuid": "8E76C6AE-6755-4AB5-9EEE-A098F64F84F7",
    "orgName": "Mount Barker - WA",
    "orgType": "CONG",
    "address": "33 Warburton Rd\nMOUNT BARKER  WA  6324\n",
@@ -436,8 +441,7 @@
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
-     "phone": "08 98 415 248",
-     "ext": ""
+     "phone": "08 98 415 248"
     }
    ],
    "isPrivateMtgPlace": false
@@ -455,7 +459,6 @@
    "longitude": 115.7614
   },
   "properties": {
-   "orgGuid": "40FA3FA6-4CCD-41DD-B7D8-DF8F288CF0D6",
    "orgName": "Mandurah Central - Mandurah WA",
    "orgType": "CONG",
    "address": "2-4 Old Pinjarra Road\r\nGREENFIELDS  WA  6210\r\n",
@@ -463,8 +466,7 @@
    "schedule": "Sat 10:00 Thu 19:00",
    "phones": [
     {
-     "phone": "0404787005",
-     "ext": ""
+     "phone": "0404787005"
     }
    ],
    "isPrivateMtgPlace": false
@@ -483,7 +485,6 @@
    "longitude": 115.7614
   },
   "properties": {
-   "orgGuid": "B6E0802D-35BA-4639-A3AD-22F89F93DB57",
    "orgName": "Mandurah North - Mandurah WA",
    "orgType": "CONG",
    "address": "2-4 Old Pinjarra Road\r\nGREENFIELDS  WA  6210\r\n",
@@ -491,8 +492,7 @@
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [
     {
-     "phone": "0407198224",
-     "ext": ""
+     "phone": "0407198224"
     }
    ],
    "isPrivateMtgPlace": false
@@ -511,7 +511,6 @@
    "longitude": 115.7614
   },
   "properties": {
-   "orgGuid": "A7F2AB33-EA0B-41E2-B535-BF4566E1FF97",
    "orgName": "Mandurah East - Mandurah WA",
    "orgType": "CONG",
    "address": "2-4 Old Pinjarra Road\r\nGREENFIELDS  WA  6210\r\n",
@@ -519,8 +518,7 @@
    "schedule": "Sat 13:30 Tue 19:00",
    "phones": [
     {
-     "phone": "(08) 9582 8926",
-     "ext": ""
+     "phone": "(08) 9582 8926"
     }
    ],
    "isPrivateMtgPlace": false
@@ -539,7 +537,6 @@
    "longitude": 115.859591
   },
   "properties": {
-   "orgGuid": "E79CF793-4A5C-458B-9EA4-F7F79BA393C2",
    "orgName": "Pinjarra - WA",
    "orgType": "CONG",
    "address": "25 Tuckey Street\nPINJARRA  WA  6208\n",
@@ -547,8 +544,7 @@
    "schedule": "Sun 13:30 Wed 19:00",
    "phones": [
     {
-     "phone": "0418869874",
-     "ext": ""
+     "phone": "0418869874"
     }
    ],
    "isPrivateMtgPlace": false
@@ -567,7 +563,6 @@
    "longitude": 115.76163
   },
   "properties": {
-   "orgGuid": "02E59363-7D6B-41BF-BE56-F87320F515B7",
    "orgName": "Port Kennedy - Perth WA",
    "orgType": "CONG",
    "address": "12 Bakewell Drive\nPORT KENNEDY  WA  6172\n",
@@ -575,8 +570,7 @@
    "schedule": "Sat 14:00 Wed 19:30",
    "phones": [
     {
-     "phone": "0433 381 864",
-     "ext": ""
+     "phone": "0433 381 864"
     }
    ],
    "isPrivateMtgPlace": false
@@ -595,7 +589,6 @@
    "longitude": 115.76163
   },
   "properties": {
-   "orgGuid": "5BA5304E-4504-4B52-B898-E7C31A4FC002",
    "orgName": "Warnbro - Perth WA",
    "orgType": "CONG",
    "address": "12 Bakewell Drive\nPORT KENNEDY  WA  6172\n",
@@ -603,8 +596,7 @@
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [
     {
-     "phone": "0478143411",
-     "ext": ""
+     "phone": "0478143411"
     }
    ],
    "isPrivateMtgPlace": false
@@ -623,7 +615,6 @@
    "longitude": 115.76163
   },
   "properties": {
-   "orgGuid": "010669C1-CED5-4798-8486-D67413FBB2D9",
    "orgName": "Baldivis South - Perth WA",
    "orgType": "CONG",
    "address": "12 Bakewell Drive\nPORT KENNEDY  WA  6172\n",
@@ -631,8 +622,7 @@
    "schedule": "Sun 13:30 Thu 19:30",
    "phones": [
     {
-     "phone": "0417 970 701",
-     "ext": ""
+     "phone": "0417 970 701"
     }
    ],
    "isPrivateMtgPlace": false
@@ -651,7 +641,6 @@
    "longitude": 115.738142
   },
   "properties": {
-   "orgGuid": "532B7B6F-0ADC-40E4-A08D-DFACD8EB2F36",
    "orgName": "Rockingham - Perth WA",
    "orgType": "CONG",
    "address": "Cnr Wanliss Street and Patterson Road\nROCKINGHAM  WA  6168\n",
@@ -659,8 +648,7 @@
    "schedule": "Sat 14:00 Tue 19:00",
    "phones": [
     {
-     "phone": "0412615772",
-     "ext": ""
+     "phone": "0412615772"
     }
    ],
    "isPrivateMtgPlace": false
@@ -679,7 +667,6 @@
    "longitude": 115.738142
   },
   "properties": {
-   "orgGuid": "14E1A9E1-C942-44B1-99E9-71237E9EEE1E",
    "orgName": "Safety Bay - Perth WA",
    "orgType": "CONG",
    "address": "Cnr Wanliss Street and Patterson Road\nROCKINGHAM  WA  6168\n",
@@ -687,12 +674,10 @@
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [
     {
-     "phone": "+61&nbsp;0417 500 973",
-     "ext": ""
+     "phone": "+61&nbsp;0417 500 973"
     },
     {
-     "phone": "+61&nbsp;0417 500 973",
-     "ext": ""
+     "phone": "+61&nbsp;0417 500 973"
     }
    ],
    "isPrivateMtgPlace": false
@@ -711,7 +696,6 @@
    "longitude": 115.738142
   },
   "properties": {
-   "orgGuid": "67C3531C-41EC-4386-9C5F-6A5FF8454345",
    "orgName": "Baldivis North - Perth WA",
    "orgType": "CONG",
    "address": "Cnr Wanliss Street and Patterson Road\nROCKINGHAM  WA  6168\n",
@@ -719,8 +703,7 @@
    "schedule": "Sat 10:00 Wed 19:00",
    "phones": [
     {
-     "phone": "0403616135",
-     "ext": ""
+     "phone": "0403616135"
     }
    ],
    "isPrivateMtgPlace": false
@@ -739,7 +722,6 @@
    "longitude": 115.82274
   },
   "properties": {
-   "orgGuid": "08F5F8B5-A788-4785-BB01-E81362D8A011",
    "orgName": "Medina - Perth WA",
    "orgType": "CONG",
    "address": "3 Hennessy Avenue\nORELIA  WA  6167\n",
@@ -747,8 +729,7 @@
    "schedule": "Sun 14:00 Wed 19:00",
    "phones": [
     {
-     "phone": "0438933736",
-     "ext": ""
+     "phone": "0438933736"
     }
    ],
    "isPrivateMtgPlace": false
@@ -767,7 +748,6 @@
    "longitude": 115.82274
   },
   "properties": {
-   "orgGuid": "AE7E2EE9-2E3E-4F3A-9263-0F562E571443",
    "orgName": "Parmelia - Perth WA",
    "orgType": "CONG",
    "address": "3 Hennessy Avenue\nORELIA  WA  6167\n",
@@ -778,8 +758,7 @@
    ],
    "phones": [
     {
-     "phone": "0420 591 642",
-     "ext": ""
+     "phone": "0420 591 642"
     }
    ],
    "isPrivateMtgPlace": false
@@ -798,7 +777,6 @@
    "longitude": 115.82274
   },
   "properties": {
-   "orgGuid": "23796041-24A9-439E-8DF4-0B2112CEAEFF",
    "orgName": "Wellard - Perth WA",
    "orgType": "CONG",
    "address": "3 Hennessy Avenue\nORELIA  WA  6167\n",
@@ -806,8 +784,7 @@
    "schedule": "Sat 14:00 Thu 19:30",
    "phones": [
     {
-     "phone": "0413 373 910",
-     "ext": ""
+     "phone": "0413 373 910"
     }
    ],
    "isPrivateMtgPlace": false
@@ -826,7 +803,6 @@
    "longitude": 115.82274
   },
   "properties": {
-   "orgGuid": "1A257A90-ED3B-40AE-9534-4368CD2BAF8D",
    "orgName": "Parmelia Mandarin - Parmelia - Perth WA",
    "orgType": "GROUP",
    "address": "3 Hennessy Avenue\nORELIA  WA  6167\n",
@@ -837,8 +813,7 @@
    ],
    "phones": [
     {
-     "phone": "0420 591 642",
-     "ext": ""
+     "phone": "0420 591 642"
     }
    ],
    "isPrivateMtgPlace": false
@@ -857,7 +832,6 @@
    "longitude": 115.82274
   },
   "properties": {
-   "orgGuid": "3134095B-EBA3-48CC-89A0-06ABC9007AF1",
    "orgName": "Kwinana Filipino - Perth WA",
    "orgType": "CONG",
    "address": "3 Hennessy Avenue\nORELIA  WA  6167\n",
@@ -865,8 +839,7 @@
    "schedule": "Sat 17:00 Mon 19:00",
    "phones": [
     {
-     "phone": "0405907189",
-     "ext": ""
+     "phone": "0405907189"
     }
    ],
    "isPrivateMtgPlace": false
@@ -885,7 +858,6 @@
    "longitude": 115.78958
   },
   "properties": {
-   "orgGuid": "3C79873B-5F76-4E5D-A4A3-E87261FC29AC",
    "orgName": "Spearwood - Perth WA",
    "orgType": "CONG",
    "address": "2 Caffery Place\r\nHAMILTON HILL  WA  6163\r\n",
@@ -893,8 +865,7 @@
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [
     {
-     "phone": "0422619718",
-     "ext": ""
+     "phone": "0422619718"
     }
    ],
    "isPrivateMtgPlace": false
@@ -913,7 +884,6 @@
    "longitude": 115.78958
   },
   "properties": {
-   "orgGuid": "449BDE7B-2848-4863-AC45-46E880914FE8",
    "orgName": "Melville - Perth WA",
    "orgType": "CONG",
    "address": "2 Caffery Place\r\nHAMILTON HILL  WA  6163\r\n",
@@ -921,12 +891,10 @@
    "schedule": "Sat 14:30 Tue 19:30",
    "phones": [
     {
-     "phone": "+61&nbsp;434947806",
-     "ext": ""
+     "phone": "+61&nbsp;434947806"
     },
     {
-     "phone": "+61&nbsp;0894147609",
-     "ext": ""
+     "phone": "+61&nbsp;0894147609"
     }
    ],
    "isPrivateMtgPlace": false
@@ -945,7 +913,6 @@
    "longitude": 115.76187
   },
   "properties": {
-   "orgGuid": "C9FF83B9-51FD-4C0F-ACA2-80B1B125DF00",
    "orgName": "South Fremantle - Perth WA",
    "orgType": "CONG",
    "address": "90-92 Edmund Street\nWHITE GUM VALLEY  WA  6162\n",
@@ -953,8 +920,7 @@
    "schedule": "Sat 10:00 Tue 19:00",
    "phones": [
     {
-     "phone": "0403 272 521",
-     "ext": ""
+     "phone": "0403 272 521"
     }
    ],
    "isPrivateMtgPlace": false
@@ -973,7 +939,6 @@
    "longitude": 115.76187
   },
   "properties": {
-   "orgGuid": "CF3F1801-EC9F-44F6-91AB-78AF7889DFFB",
    "orgName": "East Fremantle - Perth WA",
    "orgType": "CONG",
    "address": "90-92 Edmund Street\nWHITE GUM VALLEY  WA  6162\n",
@@ -981,8 +946,7 @@
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [
     {
-     "phone": "1300938695",
-     "ext": ""
+     "phone": "1300938695"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1001,7 +965,6 @@
    "longitude": 115.8972
   },
   "properties": {
-   "orgGuid": "A024A976-66E7-4F27-8090-BE4E829133F1",
    "orgName": "Willetton - Perth WA",
    "orgType": "CONG",
    "address": "86 Portcullis Drive\nWILLETTON  WA  6155\n",
@@ -1012,8 +975,7 @@
    ],
    "phones": [
     {
-     "phone": "08 9354 4792",
-     "ext": ""
+     "phone": "08 9354 4792"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1032,7 +994,6 @@
    "longitude": 115.8972
   },
   "properties": {
-   "orgGuid": "A550D428-3E0D-4ECC-8C0A-F03EFCC09DEB",
    "orgName": "Willetton Korean - Willetton - Perth WA",
    "orgType": "GROUP",
    "address": "86 Portcullis Drive\nWILLETTON  WA  6155\n",
@@ -1043,8 +1004,7 @@
    ],
    "phones": [
     {
-     "phone": "08 9354 4792",
-     "ext": ""
+     "phone": "08 9354 4792"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1055,6 +1015,24 @@
   "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
+  "geoId": "acnc.gov.au-33BD549E-33BD549E93DA-5BB64C68B585",
+  "type": "weekly",
+  "location": {
+   "latitude": -32.05932,
+   "longitude": 115.8972
+  },
+  "properties": {
+   "orgName": "Canning Vale",
+   "orgType": "CONG",
+   "address": "86 Portcullis Drive, Willetton, WA",
+   "languageCode": "E"
+  },
+  "lastVisit": "2023-05-30T11:27:55.489Z",
+  "lastSeen": "2017-10-01",
+  "active": false,
+  "firstSeen": "2017-10-01"
+ },
+ {
   "geoId": "58A10D65-2A7F-4F1E-A663-D60D494FFF86",
   "type": "weekly",
   "isPrimary": true,
@@ -1063,7 +1041,6 @@
    "longitude": 115.99569
   },
   "properties": {
-   "orgGuid": "58A10D65-2A7F-4F1E-A663-D60D494FFF86",
    "orgName": "Roleystone - Perth WA",
    "orgType": "CONG",
    "address": "89 Braemore Street\nARMADALE  WA  6112\n",
@@ -1071,8 +1048,7 @@
    "schedule": "Sat 14:00 Tue 19:30",
    "phones": [
     {
-     "phone": "0493445022",
-     "ext": ""
+     "phone": "0493445022"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1091,7 +1067,6 @@
    "longitude": 115.99569
   },
   "properties": {
-   "orgGuid": "098749CB-5437-4F7C-B099-3A778A43941B",
    "orgName": "Kelmscott - Perth WA",
    "orgType": "CONG",
    "address": "89 Braemore Street\nARMADALE  WA  6112\n",
@@ -1099,8 +1074,7 @@
    "schedule": "Sun 13:30 Thu 19:30",
    "phones": [
     {
-     "phone": "0429645000",
-     "ext": ""
+     "phone": "0429645000"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1119,7 +1093,6 @@
    "longitude": 115.99569
   },
   "properties": {
-   "orgGuid": "11F86FB3-B27A-4993-BE06-44B976DADB38",
    "orgName": "Armadale - Perth WA",
    "orgType": "CONG",
    "address": "89 Braemore Street\nARMADALE  WA  6112\n",
@@ -1127,8 +1100,7 @@
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [
     {
-     "phone": "08 93979773",
-     "ext": ""
+     "phone": "08 93979773"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1147,7 +1119,6 @@
    "longitude": 117.55214
   },
   "properties": {
-   "orgGuid": "15BDC4C2-751D-47BB-9AC1-FCA803A0BE15",
    "orgName": "Katanning - WA",
    "orgType": "CONG",
    "address": "19 Bond Street\nKATANNING  WA  6317\n",
@@ -1155,8 +1126,7 @@
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [
     {
-     "phone": "0898212794",
-     "ext": ""
+     "phone": "0898212794"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1175,7 +1145,6 @@
    "longitude": 115.88686
   },
   "properties": {
-   "orgGuid": "08286AC6-22AA-4B3C-9755-562B2742882F",
    "orgName": "Kensington - Perth WA",
    "orgType": "CONG",
    "address": "211 Kent Street\nKARAWARA  WA  6152\n",
@@ -1183,8 +1152,7 @@
    "schedule": "Sat 10:00 Tue 19:00",
    "phones": [
     {
-     "phone": "0403124582",
-     "ext": ""
+     "phone": "0403124582"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1203,7 +1171,6 @@
    "longitude": 115.88686
   },
   "properties": {
-   "orgGuid": "2E4A11C3-9098-4B62-B77E-4C5E9C30C826",
    "orgName": "Waterford - Perth WA",
    "orgType": "CONG",
    "address": "211 Kent Street\nKARAWARA  WA  6152\n",
@@ -1214,8 +1181,7 @@
    ],
    "phones": [
     {
-     "phone": "+61&nbsp;468 944 607",
-     "ext": ""
+     "phone": "+61&nbsp;468 944 607"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1234,7 +1200,6 @@
    "longitude": 115.88686
   },
   "properties": {
-   "orgGuid": "D6B21344-1F97-4933-B02F-A45BB150465C",
    "orgName": "Perth South Mandarin - Perth WA",
    "orgType": "CONG",
    "address": "211 Kent Street\nKARAWARA  WA  6152\n",
@@ -1242,8 +1207,7 @@
    "schedule": "Sat 14:30 Thu 19:30",
    "phones": [
     {
-     "phone": "+61&nbsp;413 476 921",
-     "ext": ""
+     "phone": "+61&nbsp;413 476 921"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1262,7 +1226,6 @@
    "longitude": 115.88686
   },
   "properties": {
-   "orgGuid": "C72FC45D-4E8C-4A69-B7F1-9533AA4B9A42",
    "orgName": "Waterford Indonesian - Waterford - Perth WA",
    "orgType": "GROUP",
    "address": "211 Kent Street\nKARAWARA  WA  6152\n",
@@ -1273,8 +1236,7 @@
    ],
    "phones": [
     {
-     "phone": "+61&nbsp;468 944 607",
-     "ext": ""
+     "phone": "+61&nbsp;468 944 607"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1293,7 +1255,6 @@
    "longitude": 115.9485
   },
   "properties": {
-   "orgGuid": "CD516B1F-3191-4DD9-A5F8-4963BCA89477",
    "orgName": "Cannington - Perth WA",
    "orgType": "CONG",
    "address": "15 Wilfred Road\nTHORNLIE  WA  6108\n",
@@ -1301,8 +1262,7 @@
    "schedule": "Sat 14:00 Tue 19:00",
    "phones": [
     {
-     "phone": "0483 829 275",
-     "ext": ""
+     "phone": "0483 829 275"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1321,7 +1281,6 @@
    "longitude": 115.9485
   },
   "properties": {
-   "orgGuid": "368A86F2-2B8A-4C84-929A-CBF3043E1866",
    "orgName": "Ferndale - Perth WA",
    "orgType": "CONG",
    "address": "15 Wilfred Road\nTHORNLIE  WA  6108\n",
@@ -1329,8 +1288,7 @@
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
-     "phone": "0491983712",
-     "ext": ""
+     "phone": "0491983712"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1341,6 +1299,24 @@
   "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
+  "geoId": "acnc.gov.au-818ABCA7-818ABCA74691-25FA0BA85E97",
+  "type": "weekly",
+  "location": {
+   "latitude": -32.04527,
+   "longitude": 115.9485
+  },
+  "properties": {
+   "orgName": "Huntingdale",
+   "orgType": "CONG",
+   "address": "15 Wilfred Road, Thornlie, WA 6108",
+   "languageCode": "E"
+  },
+  "lastVisit": "2023-05-30T11:28:03.254Z",
+  "lastSeen": "2015-07-01",
+  "active": false,
+  "firstSeen": "2015-07-01"
+ },
+ {
   "geoId": "2EE5460F-D9BB-4D17-ADDC-2F706A83432D",
   "type": "weekly",
   "isPrimary": true,
@@ -1349,7 +1325,6 @@
    "longitude": 115.98481
   },
   "properties": {
-   "orgGuid": "2EE5460F-D9BB-4D17-ADDC-2F706A83432D",
    "orgName": "Gosnells - Perth WA",
    "orgType": "CONG",
    "address": "1 Glennis Close\nGOSNELLS  WA  6110\n",
@@ -1357,8 +1332,7 @@
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [
     {
-     "phone": "0427700317",
-     "ext": ""
+     "phone": "0427700317"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1377,7 +1351,6 @@
    "longitude": 115.98481
   },
   "properties": {
-   "orgGuid": "080615FA-19BD-4D4D-9991-739A6D933038",
    "orgName": "Carlisle Filipino - Perth WA",
    "orgType": "CONG",
    "address": "1 Glennis Close\nGOSNELLS  WA  6110\n",
@@ -1385,8 +1358,7 @@
    "schedule": "Sun 16:00 Fri 19:00",
    "phones": [
     {
-     "phone": "0448-462-029",
-     "ext": ""
+     "phone": "0448-462-029"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1397,6 +1369,24 @@
   "firstSeen": "2023-05-29T11:11:43.287Z"
  },
  {
+  "geoId": "acnc.gov.au-19D7EB18-19D7EB18434F-B04F8E26556C",
+  "type": "weekly",
+  "location": {
+   "latitude": -32.07686,
+   "longitude": 115.98481
+  },
+  "properties": {
+   "orgName": "Maddington",
+   "orgType": "CONG",
+   "address": "1 Glennis Close, Gosnells, WA",
+   "languageCode": "E"
+  },
+  "lastVisit": "2023-05-30T11:28:22.792Z",
+  "lastSeen": "2022-10-01",
+  "active": false,
+  "firstSeen": "2022-10-01"
+ },
+ {
   "geoId": "24B67EE3-2771-443F-90BC-7E3136EF5D20",
   "type": "weekly",
   "isPrimary": true,
@@ -1405,7 +1395,6 @@
    "longitude": 117.18418
   },
   "properties": {
-   "orgGuid": "24B67EE3-2771-443F-90BC-7E3136EF5D20",
    "orgName": "Narrogin - WA",
    "orgType": "CONG",
    "address": "Corner Herald and Havelock Streets\nNARROGIN  WA  6312\n",
@@ -1413,8 +1402,7 @@
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
-     "phone": "0439003907",
-     "ext": ""
+     "phone": "0439003907"
     }
    ],
    "isPrivateMtgPlace": false
@@ -1433,7 +1421,6 @@
    "longitude": 117.00705
   },
   "properties": {
-   "orgGuid": "F390D354-3CB5-4522-8E4B-E0515D506A39",
    "orgName": "Brookton - WA",
    "orgType": "CONG",
    "address": "74-76 Brookton Highway & White Street\r\nBROOKTON  WA  6306\r\n",
@@ -1441,8 +1428,7 @@
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [
     {
-     "phone": "0417664490",
-     "ext": ""
+     "phone": "0417664490"
     }
    ],
    "isPrivateMtgPlace": false

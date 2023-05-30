@@ -66,10 +66,16 @@ await SaveFile(__dirname + `/Search.csv`, resultsCSV);
 
 function SaveFile(filename, contents){
     return fs.writeFile(filename + ".new", contents, (err) => {
-        if (err) { console.error(err); return; }
+        if (err) {
+            console.error(err); return;
+        }
         try
         {
+            if (fs.existsSync(filename + ".old"))
+                fs.renameSync(filename, filename + ".old");
             fs.renameSync(filename + ".new", filename);
+            if (fs.existsSync(filename + ".old"))
+                fs.unlinkSync(filename + ".old");
             console.log(`${filename} has been created`);
         } catch (ex) { console.error(ex); }
     });

@@ -8,7 +8,6 @@
    "longitude": 122.21748
   },
   "properties": {
-   "orgGuid": "B3971D6E-88F9-4564-9264-140A022E7991",
    "orgName": "Broome - WA",
    "orgType": "CONG",
    "address": "2 Palmer Road\nBROOME  WA  6725\n",
@@ -16,8 +15,7 @@
    "schedule": "Sat 14:00 Wed 19:00",
    "phones": [
     {
-     "phone": "0891936588",
-     "ext": ""
+     "phone": "0891936588"
     }
    ],
    "isPrivateMtgPlace": false
@@ -26,5 +24,23 @@
   "lastSeen": "2023-05-29T08:51:22.701Z",
   "active": true,
   "firstSeen": "2023-05-29T11:11:43.287Z"
+ },
+ {
+  "geoId": "acnc.gov.au-5C80F4C3-5C80F4C35FEF-9F3830C6BFCA",
+  "type": "weekly",
+  "location": {
+   "latitude": -17.3177108,
+   "longitude": 123.6495488
+  },
+  "properties": {
+   "orgName": "Derby",
+   "orgType": "CONG",
+   "address": "13 Millard Street, Derby, WA 6728",
+   "languageCode": "E"
+  },
+  "lastVisit": "2023-05-30T11:27:57.632Z",
+  "lastSeen": "2016-09-01",
+  "active": false,
+  "firstSeen": "2016-09-01"
  }
 ]

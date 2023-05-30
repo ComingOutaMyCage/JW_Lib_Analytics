@@ -19,6 +19,9 @@ for (const meeting of Object.values(allMeetings)){
         meeting.firstSeen = scriptStartedTS;
     if (!meeting.lastSeen)
         meeting.lastSeen = scriptStartedTS;
+    if(meeting.geoId === meeting.properties.orgGuid){
+        delete meeting.properties.orgGuid;
+    }
 }
 // SaveAllMeetings(allMeetings);
 // throw '';
@@ -198,18 +201,34 @@ function cleanMeeting(meeting){
     delete meeting.properties.memorialAddress;
     delete meeting.properties.memorialTime;
 
+    if (meeting.geoId && meeting.geoId === meeting.properties.orgGuid) {
+        delete meeting.properties.orgGuid;
+    }
 
+    let phones = meeting.properties.phones;
+    if(phones && phones.length) {
+        //Filter phones.phone is empty
+        phones = phones.filter(phone => phone.phone);
+        for (const phone of phones) {
+            if (!phone.ext) {
+                delete phone.ext;
+            }
+        }
+        meeting.properties.phones = phones;
+    }
 }
 function formatSchedule(schedule) {
     const days = ['None', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
 
+    if(schedule.current === undefined) return '';
     const weekend = schedule.current.weekend;
     const midweek = schedule.current.midweek;
 
-    let weekendString = `${days[weekend.weekday]} ${weekend.time} `;
-    let midweekString = `${days[midweek.weekday]} ${midweek.time}`;
-    if(weekend.weekday === 0) weekendString = '';
-    if(midweek.weekday === 0) midweekString = '';
+    let weekendString = '', midweekString = '';
+    if(weekend !== undefined && weekend.weekday !== 0)
+        weekendString = `${days[weekend.weekday]} ${weekend.time} `;
+    if(midweek !== undefined && midweek.weekday !== 0)
+        midweekString = `${days[midweek.weekday]} ${midweek.time}`;
 
     return `${weekendString}${midweekString}`;
 }
@@ -551,7 +570,8 @@ async function SaveAllMeetings(allMeetings){
         if (!meeting.active)
             grids['deleted'].push(meeting);
         available_grids[key] = true;
-        typeTotals[meeting.properties.orgType] = (typeTotals[meeting.properties.orgType] ?? 0) + 1;
+        let type = getMeetingType(meeting);
+        typeTotals[type] = (typeTotals[meeting.properties.orgType] ?? 0) + 1;
         languages.add(meeting.properties.languageCode);
         if(meeting.properties.relatedLanguageCodes) {
             for (const otherLang of meeting.properties.relatedLanguageCodes) {
@@ -597,6 +617,27 @@ async function SaveAllMeetings(allMeetings){
     await Promise.all(savePromises);
     await delay(1000);
 }
+const pregroupTranslations = [
+    "pregroup",
+    "pre group",
+    "pre-group",
+    "pregrupo",
+    "pré-groupe",
+    "vorguppen"
+];
+function getMeetingType(meeting){
+    let type =  meeting.properties.orgType;
+    if(type === "GROUP") {
+        let name = meeting.properties.orgName;
+        //scan pregroupTranslations
+        for (const pregroupTranslation of pregroupTranslations) {
+            if (name.toLowerCase().includes(pregroupTranslation))
+                return meeting.properties.orgType = "PREGROUP";
+        }
+    }
+    return type;
+}
+
 async function _SaveAllMeetings(allMeetings){
     const filePath = `./Meetings/Meetings.json`; // Replace with the actual file path
     // Get the last modified date of the file
