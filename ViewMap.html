@@ -71,7 +71,7 @@
 <script async src="//static.getclicky.com/101371960.js"></script>
 <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101371960ns.gif" /></p></noscript>
 
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyCb4cJ1PN3KmgQw8Kaxt-XIUvXbbFCZsC0" type="text/javascript"></script>
+<script src="https://maps.google.com/maps/api/js?key=AIzaSyCb4cJ1PN3KmgQw8Kaxt-XIUvXbbFCZsC0&libraries=geometry,marker&callback=initMap" type="text/javascript"></script>
 <!--<script src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>-->
 <script src="node_modules/@googlemaps/markerclustererplus/dist/index.min.js"></script>
 <!--<script src="https://unpkg.com/supercluster@7.1.2/dist/supercluster.min.js"></script>-->
@@ -110,7 +110,14 @@
     var gridSize = 8;
     var available_grids = [];
     var init_data = {};
-    function init() {
+    const dead_icon = {
+        url: "images/tombstone.png", // url
+        scaledSize: new google.maps.Size(27, 38), // scaled size
+        origin: new google.maps.Point(0,0), // origin
+        anchor: new google.maps.Point(13, 30) // anchor
+    };
+
+    function initMap() {
         $.getJSON('./Meetings/init_data.json', (data) => {
             init_data = data;
             available_grids = init_data.grids;
@@ -125,9 +132,11 @@
             load();
         });
     }
-    init();
 
     function load() {
+        pinBlue = new google.maps.marker.PinElement({
+            background: '#003563',
+        });
         map = new google.maps.Map(document.getElementById("map"), {
             gestureHandling: 'greedy',
             center: new google.maps.LatLng(37, -101),
@@ -143,11 +152,11 @@
             render: function ({ count, position }, stats) {
                 // use d3-interpolateRgb to interpolate between red and blue
                 const color = count > Math.max(10, stats.clusters.markers.mean) ? "#ff0000" : "#0000ff";
-                // create svg url with fill color
                 const svg = window.btoa(`
-  <svg fill="${color}" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
-    <circle cx="120" cy="120" opacity=".8" r="50" />
-  </svg>`);
+                  <svg fill="${color}" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+                    <circle cx="120" cy="120" opacity=".8" r="50" />
+                  </svg>`);
+                // create svg url with fill color
                 // create marker using svg icon
                 return new google.maps.Marker({
                     position,
@@ -376,13 +385,18 @@
             parseFloat(meeting.location.latitude),
             parseFloat(meeting.location.longitude));
 
-        var marker = new google.maps.Marker({
+        let options = {
             //map: map,
             //icon: "../images/mapicon3.png",
             position: latlng,
             title: name,
             geoId: meeting.geoId,
-        });
+            optimized: true,
+        };
+        if(!meeting.active){
+            options.icon = dead_icon;
+        }
+        var marker = new google.maps.Marker(options);
         google.maps.event.addListener(marker, 'click', function() {
             let html = htmlForMeeting(meeting);
             infoWindow.setContent(html);
