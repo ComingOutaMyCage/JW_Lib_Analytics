@@ -24,6 +24,11 @@
     <script src="js/functions.js"></script>
     <script src="node_modules/jquery-throttle-debounce/jquery.ba-throttle-debounce.min.js"></script>
     <style>
+        .custom-clustericon.has-deleted {
+            outline:2px solid rgba(255, 0, 0, 0.85);
+            min-width: 30px;
+            min-height: 30px;
+        }
         .custom-clustericon {
             background: var(--cluster-color);
             color: #fff;
@@ -111,12 +116,13 @@
     var available_grids = [];
     var init_data = {};
     const dead_icon = {
+        // url: "images/match-dead.png", // url
+        // scaledSize: new google.maps.Size(19, 50), // scaled size
+        // anchor: new google.maps.Point(13,50) // anchor
         url: "images/tombstone.png", // url
         scaledSize: new google.maps.Size(27, 38), // scaled size
-        origin: new google.maps.Point(0,0), // origin
         anchor: new google.maps.Point(13, 30) // anchor
     };
-
     function initMap() {
         $.getJSON('./Meetings/init_data.json', (data) => {
             init_data = data;
@@ -134,9 +140,6 @@
     }
 
     function load() {
-        pinBlue = new google.maps.marker.PinElement({
-            background: '#003563',
-        });
         map = new google.maps.Map(document.getElementById("map"), {
             gestureHandling: 'greedy',
             center: new google.maps.LatLng(37, -101),
@@ -148,53 +151,58 @@
 
         infoWindow = new google.maps.InfoWindow();
 
-        const renderer = {
-            render: function ({ count, position }, stats) {
-                // use d3-interpolateRgb to interpolate between red and blue
-                const color = count > Math.max(10, stats.clusters.markers.mean) ? "#ff0000" : "#0000ff";
-                const svg = window.btoa(`
-                  <svg fill="${color}" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
-                    <circle cx="120" cy="120" opacity=".8" r="50" />
-                  </svg>`);
-                // create svg url with fill color
-                // create marker using svg icon
-                return new google.maps.Marker({
-                    position,
-                    icon: {
-                        url: `data:image/svg+xml;base64,${svg}`,
-                        scaledSize: new google.maps.Size(75, 75),
-                    },
-                    label: {
-                        text: String(count),
-                        color: "rgba(255,255,255,0.9)",
-                        fontSize: "12px",
-                    },
-                    // adjust zIndex to be above other markers
-                    zIndex: Number(google.maps.Marker.MAX_ZINDEX) + count,
-                });
-            }
-        };
+        // const renderer = {
+        //     render: function ({ count, position }, stats) {
+        //         // use d3-interpolateRgb to interpolate between red and blue
+        //         const color = count > Math.max(10, stats.clusters.markers.mean) ? "#ff0000" : "#0000ff";
+        //         const stroke = ' stroke="#ffffff" stroke-width="2"';
+        //         const svg = window.btoa(`
+        //           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+        //             <circle fill="red" ${stroke} cx="120" cy="120" opacity=".8" r="50" />
+        //           </svg>`);
+        //         // create svg url with fill color
+        //         // create marker using svg icon
+        //         return new google.maps.Marker({
+        //             position,
+        //             icon: {
+        //                 url: `data:image/svg+xml;base64,${svg}`,
+        //                 scaledSize: new google.maps.Size(75, 75),
+        //             },
+        //             label: {
+        //                 text: String(count),
+        //                 color: "rgba(255,255,255,0.9)",
+        //                 fontSize: "12px",
+        //             },
+        //             // adjust zIndex to be above other markers
+        //             zIndex: Number(google.maps.Marker.MAX_ZINDEX) + count,
+        //         });
+        //     }
+        // };
+        var styles1 = [
+            {
+                width: 30,
+                height: 30,
+                className: "custom-clustericon-1",
+            },
+            {
+                width: 35,
+                height: 35,
+                className: "custom-clustericon-2",
+            },
+            {
+                width: 40,
+                height: 40,
+                className: "custom-clustericon-3",
+            },
+        ];
+        var styles2 = JSON.parse(JSON.stringify(styles1));
+        for (const style of styles2) style.className = style.className + " has-deleted";
+
         markerCluster = new MarkerClusterer(map, markers,{
             // imagePath: 'images/map-cluster',
             // imageExtension: 'svg',
             gridSize: 40,
-            styles: [
-                {
-                    width: 30,
-                    height: 30,
-                    className: "custom-clustericon-1",
-                },
-                {
-                    width: 35,
-                    height: 35,
-                    className: "custom-clustericon-2",
-                },
-                {
-                    width: 40,
-                    height: 40,
-                    className: "custom-clustericon-3",
-                },
-            ],
+            styles: styles1,
             clusterClass: "custom-clustericon",
         });
         setTimeout(function() {
@@ -218,6 +226,20 @@
             google.maps.event.addListener(markerCluster, "mouseover", function (c) {
                 markerCluster.zoomOnClick_ = !markersSamePosition(c.getMarkers());
                 console.log("zoomOnClick", markerCluster.zoomOnClick_);
+            });
+            google.maps.event.addListener(markerCluster, 'clusteringend', function() {
+                setTimeout(()=> {
+                    markerCluster.getClusters().forEach(function (cluster) {
+                        let anyDead = cluster.getMarkers().some(m =>
+                            m.dead
+                        );
+                        if (anyDead) {
+                            let clusterDiv = cluster.clusterIcon_.div_;
+                            if (clusterDiv)
+                                clusterDiv.classList.add('has-deleted');
+                        }
+                    });
+                }, 200);
             });
             function markersSamePosition(markers){
                 if(!markers || markers.length <= 1) return true;
@@ -391,6 +413,7 @@
             position: latlng,
             title: name,
             geoId: meeting.geoId,
+            dead: !meeting.active,
             optimized: true,
         };
         if(!meeting.active){
