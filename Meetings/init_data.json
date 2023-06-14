@@ -1,793 +1,4631 @@
 {
  "typeTotals": {
-  "CONG": 112759,
+  "CONG": 112770,
   "GROUP": 6702,
   "PREGROUP": 75
  },
- "total": 119536,
- "totalActive": 118161,
- "totalInactive": 1375,
- "totalLocations": 65128,
+ "total": 119547,
+ "totalActive": 118173,
+ "totalInactive": 1374,
+ "totalLocations": 65133,
  "totalOrphans": 292,
- "languages": [
-  "A",
-  "AA",
-  "AB",
-  "ABB",
-  "ABJ",
-  "ABR",
-  "AC",
-  "ACC",
-  "ACH",
-  "ACR",
-  "ACS",
-  "ADH",
-  "AE",
-  "AF",
-  "AGC",
-  "AH",
-  "AHK",
-  "AHN",
-  "AI",
-  "AJG",
-  "AJR",
-  "AK",
-  "AKA",
-  "AKN",
-  "AL",
-  "ALN",
-  "ALS",
-  "ALU",
-  "AM",
-  "AMG",
-  "AN",
-  "AO",
-  "AP",
-  "APH",
-  "AR",
-  "ARH",
-  "ASL",
-  "ASN",
-  "ATI",
-  "AU",
-  "AUS",
-  "AW",
-  "AWA",
-  "AWN",
-  "AYI",
-  "AYN",
-  "AZ",
-  "AZG",
-  "B",
-  "BA",
-  "BB",
-  "BDZ",
-  "BE",
-  "BEL",
-  "BH",
-  "BHL",
-  "BHM",
-  "BI",
-  "BIM",
-  "BJN",
-  "BKK",
-  "BKY",
-  "BL",
-  "BLB",
-  "BLF",
-  "BLL",
-  "BLS",
-  "BMB",
-  "BNS",
-  "BO",
-  "BQ",
-  "BRI",
-  "BS",
-  "BSA",
-  "BSG",
-  "BSL",
-  "BT",
-  "BU",
-  "BUR",
-  "BUS",
-  "BVL",
-  "BZK",
-  "C",
-  "CA",
-  "CAB",
-  "CB",
-  "CBC",
-  "CBE",
-  "CBL",
-  "CC",
-  "CE",
-  "CEC",
-  "CG",
-  "CGA",
-  "CGM",
-  "CGS",
-  "CGW",
-  "CHD",
-  "CHE",
-  "CHF",
-  "CHJ",
-  "CHL",
-  "CHM",
-  "CHN",
-  "CHT",
-  "CHW",
-  "CI",
-  "CIN",
-  "CK",
-  "CKE",
-  "CLC",
-  "CLE",
-  "CLO",
-  "CLX",
-  "CML",
-  "CN",
-  "CNL",
-  "CNO",
-  "CNQ",
-  "CNU",
-  "CNV",
-  "CO",
-  "COR",
-  "CPC",
-  "CPI",
-  "CPL",
-  "CQ",
-  "CQC",
-  "CQE",
-  "CQS",
-  "CR",
-  "CRB",
-  "CRS",
-  "CSC",
-  "CSE",
-  "CSL",
-  "CT",
-  "CTW",
-  "CV",
-  "CW",
-  "CYO",
-  "D",
-  "DA",
-  "DG",
-  "DGA",
-  "DGB",
-  "DGS",
-  "DI",
-  "DM",
-  "DMR",
-  "DNS",
-  "DR",
-  "DSL",
-  "DTM",
-  "E",
-  "EBA",
-  "EBR",
-  "ED",
-  "EF",
-  "EG",
-  "ELI",
-  "EMB",
-  "EMC",
-  "EMP",
-  "ENG",
-  "ENW",
-  "ESL",
-  "ET",
-  "ETN",
-  "EW",
-  "EWN",
-  "F",
-  "FA",
-  "FD",
-  "FF",
-  "FGN",
-  "FI",
-  "FID",
-  "FJS",
-  "FN",
-  "FO",
-  "FR",
-  "FSL",
-  "FT",
-  "FTK",
-  "FTL",
-  "G",
-  "GA",
-  "GAA",
-  "GB",
-  "GBA",
-  "GBM",
-  "GBR",
-  "GC",
-  "GCR",
-  "GDE",
-  "GE",
-  "GG",
-  "GHB",
-  "GHM",
-  "GHS",
-  "GI",
-  "GIB",
-  "GJJ",
-  "GK",
-  "GL",
-  "GLC",
-  "GN",
-  "GNC",
-  "GRB",
-  "GRC",
-  "GRF",
-  "GRZ",
-  "GSL",
-  "GTN",
-  "GU",
-  "GUR",
-  "H",
-  "HA",
-  "HCH",
-  "HDF",
-  "HI",
-  "HK",
-  "HM",
-  "HPI",
-  "HR",
-  "HSK",
-  "HST",
-  "HSV",
-  "HUV",
-  "HV",
-  "HW",
-  "HWI",
-  "HWP",
-  "HZJ",
-  "I",
-  "IA",
-  "IB",
-  "IBI",
-  "IBL",
-  "IC",
-  "ID",
-  "IE",
-  "IG",
-  "IGE",
-  "IH",
-  "II",
-  "IJ",
-  "IK",
-  "IKN",
-  "IL",
-  "IMN",
-  "IN",
-  "INI",
-  "INS",
-  "IS",
-  "ISG",
-  "ISL",
-  "IT",
-  "ITW",
-  "IXL",
-  "J",
-  "JA",
-  "JAR",
-  "JC",
-  "JCR",
-  "JL",
-  "JML",
-  "JSL",
-  "JWK",
-  "K",
-  "KA",
-  "KAA",
-  "KAB",
-  "KAN",
-  "KB",
-  "KBK",
-  "KBL",
-  "KBV",
-  "KBY",
-  "KD",
-  "KDA",
-  "KFL",
-  "KG",
-  "KGG",
-  "KGL",
-  "KH",
-  "KHA",
-  "KHB",
-  "KHN",
-  "KI",
-  "KIM",
-  "KIN",
-  "KIP",
-  "KIT",
-  "KJ",
-  "KK",
-  "KKB",
-  "KKL",
-  "KL",
-  "KLB",
-  "KLG",
-  "KMR",
-  "KMY",
-  "KN",
-  "KND",
-  "KNR",
-  "KNY",
-  "KO",
-  "KP",
-  "KQ",
-  "KR",
-  "KRI",
-  "KRJ",
-  "KS",
-  "KSI",
-  "KSL",
-  "KSM",
-  "KSN",
-  "KT",
-  "KU",
-  "KUS",
-  "KVM",
-  "KW",
-  "KWA",
-  "KWS",
-  "KY",
-  "KYK",
-  "KZ",
-  "L",
-  "LA",
-  "LAD",
-  "LAH",
-  "LAS",
-  "LBI",
-  "LCE",
-  "LD",
-  "LE",
-  "LF",
-  "LG",
-  "LGA",
-  "LGP",
-  "LHK",
-  "LI",
-  "LJ",
-  "LK",
-  "LL",
-  "LLB",
-  "LLO",
-  "LM",
-  "LMB",
-  "LMG",
-  "LN",
-  "LND",
-  "LO",
-  "LOM",
-  "LR",
-  "LS",
-  "LSA",
-  "LSB",
-  "LSC",
-  "LSE",
-  "LSF",
-  "LSG",
-  "LSI",
-  "LSL",
-  "LSM",
-  "LSN",
-  "LSP",
-  "LSQ",
-  "LSS",
-  "LSU",
-  "LSV",
-  "LT",
-  "LTS",
-  "LU",
-  "LUC",
-  "LV",
-  "LVA",
-  "LWX",
-  "M",
-  "MAC",
-  "MAI",
-  "MAJ",
-  "MAN",
-  "MAP",
-  "MAS",
-  "MAY",
-  "MAZ",
-  "MBA",
-  "MBD",
-  "MBL",
-  "MBN",
-  "MC",
-  "MCS",
-  "MDO",
-  "MG",
-  "MGB",
-  "MGL",
-  "MH",
-  "MHM",
-  "MHS",
-  "MI",
-  "MIS",
-  "MJK",
-  "MK",
-  "MKA",
-  "MKD",
-  "ML",
-  "MM",
-  "MNB",
-  "MNC",
-  "MNJ",
-  "MNN",
-  "MNO",
-  "MNS",
-  "MNT",
-  "MO",
-  "MOU",
-  "MP",
-  "MPD",
-  "MQN",
-  "MQR",
-  "MR",
-  "MRJ",
-  "MRU",
-  "MSH",
-  "MSL",
-  "MSR",
-  "MSS",
-  "MT",
-  "MTA",
-  "MTC",
-  "MTI",
-  "MTN",
-  "MTS",
-  "MTU",
-  "MWL",
-  "MWM",
-  "MX",
-  "MXA",
-  "MXC",
-  "MXE",
-  "MXG",
-  "MXH",
-  "MXI",
-  "MXN",
-  "MXO",
-  "MXP",
-  "MXT",
-  "MY",
-  "MYG",
-  "MYO",
-  "MYW",
-  "MZ",
-  "MZH",
-  "N",
-  "NA",
-  "NBL",
-  "NBZ",
-  "NC",
-  "NDA",
-  "NDF",
-  "NDV",
-  "NDW",
-  "NEN",
-  "NG",
-  "NGB",
-  "NGD",
-  "NGK",
-  "NGL",
-  "NGM",
-  "NGN",
-  "NGP",
-  "NGT",
-  "NHC",
-  "NHG",
-  "NHH",
-  "NHT",
-  "NHV",
-  "NI",
-  "NJB",
-  "NK",
-  "NKN",
-  "NKY",
-  "NM",
-  "NN",
-  "NNS",
-  "NP",
-  "NR",
-  "NSL",
-  "NSM",
-  "NV",
-  "NVC",
-  "NYG",
-  "NYU",
-  "NZ",
-  "NZS",
-  "O",
-  "OA",
-  "OB",
-  "OBL",
-  "OD",
-  "ODW",
-  "OG",
-  "OGS",
-  "OI",
-  "OKP",
-  "OM",
-  "ORK",
-  "ORR",
-  "OS",
-  "OT",
-  "OTE",
-  "OTM",
-  "OTS",
-  "OU",
-  "P",
-  "PA",
-  "PAA",
-  "PAM",
-  "PAZ",
-  "PDF",
-  "PGW",
-  "PH",
-  "PHM",
-  "PHN",
-  "PJ",
-  "PJN",
-  "PLG",
-  "PLK",
-  "PLR",
-  "PMN",
-  "PMR",
-  "PN",
-  "PP",
-  "PPG",
-  "PPS",
-  "PPU",
-  "PQM",
-  "PR",
-  "PRA",
-  "PSL",
-  "PTG",
-  "PU",
-  "PUN",
-  "Q",
-  "QC",
-  "QCC",
-  "QIB",
-  "QIC",
-  "QII",
-  "QIP",
-  "QIS",
-  "QIT",
-  "QIX",
-  "QNJ",
-  "QSL",
-  "QU",
-  "QUA",
-  "QUB",
-  "QUC",
-  "QUH",
-  "QUL",
-  "QUM",
-  "QUN",
-  "RA",
-  "RBH",
-  "RCR",
-  "RD",
-  "RDC",
-  "RDU",
-  "RE",
-  "REA",
-  "RHS",
-  "RM",
-  "RMA",
-  "RMB",
-  "RMC",
-  "RME",
-  "RMF",
-  "RMG",
-  "RMH",
-  "RML",
-  "RMN",
-  "RMR",
-  "RMS",
-  "RMT",
-  "RMU",
-  "RMX",
-  "RN",
-  "RNN",
-  "RNY",
-  "RO",
-  "RPN",
-  "RR",
-  "RSC",
-  "RSL",
-  "RT",
-  "RU",
-  "RVM",
-  "S",
-  "SA",
-  "SAR",
-  "SAS",
-  "SB",
-  "SBF",
-  "SBN",
-  "SBR",
-  "SBS",
-  "SC",
-  "SCH",
-  "SCR",
-  "SDR",
-  "SE",
-  "SEC",
-  "SEN",
-  "SFC",
-  "SG",
-  "SGA",
-  "SGM",
-  "SGO",
-  "SGS",
-  "SH",
-  "SHD",
-  "SHO",
-  "SHU",
-  "SHW",
-  "SI",
-  "SIE",
-  "SIL",
-  "SK",
-  "SL",
-  "SLM",
-  "SLN",
-  "SLP",
-  "SLS",
-  "SLV",
-  "SM",
-  "SMS",
-  "SN",
-  "SO",
-  "SOL",
-  "SP",
-  "SPE",
-  "SPL",
-  "SR",
-  "SRM",
-  "SSA",
-  "SSL",
-  "SSU",
-  "ST",
-  "STD",
-  "STM",
-  "STN",
-  "SU",
-  "SV",
-  "SW",
-  "SWI",
-  "SWS",
-  "SYL",
-  "SZJ",
-  "T",
-  "TAL",
-  "TB",
-  "TBW",
-  "TCN",
-  "TCR",
-  "TE",
-  "TEW",
-  "TFM",
-  "TG",
-  "TH",
-  "TI",
-  "TJO",
-  "TK",
-  "TKL",
-  "TKW",
-  "TL",
-  "TLB",
-  "TLN",
-  "TMR",
-  "TN",
-  "TND",
-  "TNK",
-  "TO",
-  "TOB",
-  "TOT",
-  "TP",
-  "TPN",
-  "TPO",
-  "TPR",
-  "TQ",
-  "TRH",
-  "TRS",
-  "TRW",
-  "TS",
-  "TSL",
-  "TSM",
-  "TTM",
-  "TTP",
-  "TU",
-  "TV",
-  "TW",
-  "TYW",
-  "TZE",
-  "TZL",
-  "TZO",
-  "U",
-  "UB",
-  "UD",
-  "UE",
-  "UG",
-  "UN",
-  "UR",
-  "USL",
-  "UU",
-  "UZ",
-  "V",
-  "VCR",
-  "VE",
-  "VGT",
-  "VL",
-  "VLC",
-  "VSL",
-  "VT",
-  "VZ",
-  "W",
-  "WA",
-  "WCH",
-  "WG",
-  "WL",
-  "WMM",
-  "WNZ",
-  "WO",
-  "WPH",
-  "WRN",
-  "WRO",
-  "WSL",
-  "WY",
-  "X",
-  "XO",
-  "XPA",
-  "XSW",
-  "XV",
-  "YA",
-  "YAK",
-  "YBS",
-  "YCB",
-  "YG",
-  "YKP",
-  "YMB",
-  "YNX",
-  "YP",
-  "YQ",
-  "YR",
-  "YU",
-  "YW",
-  "Z",
-  "ZAS",
-  "ZN",
-  "ZO",
-  "ZPA",
-  "ZPC",
-  "ZPD",
-  "ZPG",
-  "ZPI",
-  "ZPL",
-  "ZPM",
-  "ZPS",
-  "ZPT",
-  "ZPV",
-  "ZPX",
-  "ZR",
-  "ZS",
-  "ZSL",
-  "ZU"
- ],
+ "totalWithSchedules": 104260,
+ "languages": {
+  "A": {
+   "count": 244,
+   "name": "Arabic",
+   "signLang": false,
+   "writeLang": [ "A" ]
+  },
+  "AA": {
+   "count": 6,
+   "name": "Igala",
+   "signLang": false,
+   "writeLang": [ "AA" ]
+  },
+  "AB": {
+   "count": 55,
+   "name": "Lamba",
+   "signLang": false,
+   "writeLang": [ "AB" ]
+  },
+  "ABB": {
+   "count": 2,
+   "name": "Abbey",
+   "signLang": false,
+   "writeLang": [ "ABB" ]
+  },
+  "ABJ": {
+   "count": 1,
+   "name": "Abidji",
+   "signLang": false,
+   "writeLang": [ "ABJ" ]
+  },
+  "ABR": {
+   "count": 1,
+   "name": "Abron",
+   "signLang": false,
+   "writeLang": [ "ABR" ]
+  },
+  "AC": {
+   "count": 4,
+   "name": "Acholi",
+   "signLang": false,
+   "writeLang": [ "AC" ]
+  },
+  "ACC": {
+   "count": 1,
+   "name": "Achi (Cubulco)",
+   "signLang": false,
+   "writeLang": [ "ACC" ]
+  },
+  "ACR": {
+   "count": 1,
+   "name": "Achi (Rabinal)",
+   "signLang": false,
+   "writeLang": [ "ACR" ]
+  },
+  "ACS": {
+   "count": 1,
+   "name": "Assyro-Chaldean (Silopi)",
+   "signLang": false,
+   "writeLang": [ "ACS" ]
+  },
+  "ADH": {
+   "count": 2,
+   "name": "Adhola",
+   "signLang": false,
+   "writeLang": [ "ADH" ]
+  },
+  "AE": {
+   "count": 8,
+   "name": "Assamese",
+   "signLang": false,
+   "writeLang": [ "AE" ]
+  },
+  "AF": {
+   "count": 154,
+   "name": "Afrikaans",
+   "signLang": false,
+   "writeLang": [ "AF" ]
+  },
+  "AGC": {
+   "count": 1,
+   "name": "Chalchitec",
+   "signLang": false,
+   "writeLang": [ "AGC" ]
+  },
+  "AH": {
+   "count": 2,
+   "name": "Kachin",
+   "signLang": false,
+   "writeLang": [ "AH" ]
+  },
+  "AHK": {
+   "count": 5,
+   "name": "Ashaninka",
+   "signLang": false,
+   "writeLang": [ "AHK" ]
+  },
+  "AHN": {
+   "count": 10,
+   "name": "Ahanta",
+   "signLang": false,
+   "writeLang": [ "AHN" ]
+  },
+  "AI": {
+   "count": 4,
+   "name": "Amis",
+   "signLang": false,
+   "writeLang": [ "AI" ]
+  },
+  "AJG": {
+   "count": 38,
+   "name": "Aja",
+   "signLang": false,
+   "writeLang": [ "AJG" ]
+  },
+  "AJR": {
+   "count": 25,
+   "name": "Azerbaijani",
+   "signLang": false,
+   "writeLang": [ "AJR" ]
+  },
+  "AK": {
+   "count": 5,
+   "name": "Batak (Karo)",
+   "signLang": false,
+   "writeLang": [ "AK" ]
+  },
+  "AKA": {
+   "count": 1,
+   "name": "Akha",
+   "signLang": false,
+   "writeLang": [ "AKA" ]
+  },
+  "AKN": {
+   "count": 17,
+   "name": "Aukan",
+   "signLang": false,
+   "writeLang": [ "AKN" ]
+  },
+  "AL": {
+   "count": 261,
+   "name": "Albanian",
+   "signLang": false,
+   "writeLang": [ "AL" ]
+  },
+  "ALN": {
+   "count": 4,
+   "name": "Arabic (Lebanon)",
+   "signLang": false,
+   "writeLang": [ "ALN" ]
+  },
+  "ALS": {
+   "count": 2,
+   "name": "Albanian Sign Language",
+   "signLang": true,
+   "writeLang": [ "ALS" ]
+  },
+  "ALU": {
+   "count": 50,
+   "name": "Alur",
+   "signLang": false,
+   "writeLang": [ "ALU" ]
+  },
+  "AM": {
+   "count": 167,
+   "name": "Amharic",
+   "signLang": false,
+   "writeLang": [ "AM" ]
+  },
+  "AMG": {
+   "count": 3,
+   "name": "Amuzgo (Guerrero)",
+   "signLang": false,
+   "writeLang": [ "AMG" ]
+  },
+  "AN": {
+   "count": 34,
+   "name": "Catalan",
+   "signLang": false,
+   "writeLang": [ "AN" ]
+  },
+  "AO": {
+   "count": 34,
+   "name": "Baoule",
+   "signLang": false,
+   "writeLang": [ "AO" ]
+  },
+  "AP": {
+   "count": 81,
+   "name": "Aymara",
+   "signLang": false,
+   "writeLang": [ "AP" ]
+  },
+  "APH": {
+   "count": 1,
+   "name": "Apache",
+   "signLang": false,
+   "writeLang": [ "APH" ]
+  },
+  "AR": {
+   "count": 5,
+   "name": "Bambara",
+   "signLang": false,
+   "writeLang": [ "AR" ]
+  },
+  "ARH": {
+   "count": 1,
+   "name": "Arhuaco",
+   "signLang": false,
+   "writeLang": [ "ARH" ]
+  },
+  "ASL": {
+   "count": 390,
+   "name": "American Sign Language",
+   "signLang": true,
+   "writeLang": [ "ASL" ]
+  },
+  "ASN": {
+   "count": 26,
+   "name": "Arabic (Sudanese)",
+   "signLang": false,
+   "writeLang": [ "ASN" ]
+  },
+  "ATI": {
+   "count": 7,
+   "name": "Attié",
+   "signLang": false,
+   "writeLang": [ "ATI" ]
+  },
+  "AU": {
+   "count": 8,
+   "name": "Abua",
+   "signLang": false,
+   "writeLang": [ "AU" ]
+  },
+  "AUS": {
+   "count": 29,
+   "name": "Australian Sign Language",
+   "signLang": true,
+   "writeLang": [ "AUS" ]
+  },
+  "AW": {
+   "count": 49,
+   "name": "Tshwa",
+   "signLang": false,
+   "writeLang": [ "AW" ]
+  },
+  "AWA": {
+   "count": 1,
+   "name": "Awapit",
+   "signLang": false,
+   "writeLang": [ "AWA" ]
+  },
+  "AWN": {
+   "count": 3,
+   "name": "Awing",
+   "signLang": false,
+   "writeLang": [ "AWN" ]
+  },
+  "AYI": {
+   "count": 5,
+   "name": "Anyin (Indenie)",
+   "signLang": false,
+   "writeLang": [ "AYI" ]
+  },
+  "AYN": {
+   "count": 3,
+   "name": "Anyin (Sanvi)",
+   "signLang": false,
+   "writeLang": [ "AYN" ]
+  },
+  "AZ": {
+   "count": 58,
+   "name": "Kazakh",
+   "signLang": false,
+   "writeLang": [ "AZ" ]
+  },
+  "AZG": {
+   "count": 2,
+   "name": "Amuzgo (Oaxaca)",
+   "signLang": false,
+   "writeLang": [ "AZG" ]
+  },
+  "B": {
+   "count": 213,
+   "name": "Czech",
+   "signLang": false,
+   "writeLang": [ "B" ]
+  },
+  "BA": {
+   "count": 2,
+   "name": "Bassa (Liberia)",
+   "signLang": false,
+   "writeLang": [ "BA" ]
+  },
+  "BB": {
+   "count": 2,
+   "name": "Bariba",
+   "signLang": false,
+   "writeLang": [ "BB" ]
+  },
+  "BDZ": {
+   "count": 1,
+   "name": "Budza",
+   "signLang": false,
+   "writeLang": [ "BDZ" ]
+  },
+  "BE": {
+   "count": 27,
+   "name": "Bengali",
+   "signLang": false,
+   "writeLang": [ "BE" ]
+  },
+  "BEL": {
+   "count": 2,
+   "name": "Belorussian",
+   "signLang": false,
+   "writeLang": [ "BEL" ]
+  },
+  "BH": {
+   "count": 2,
+   "name": "Bari",
+   "signLang": false,
+   "writeLang": [ "BH" ]
+  },
+  "BHL": {
+   "count": 7,
+   "name": "Bashilele",
+   "signLang": false,
+   "writeLang": [ "BHL" ]
+  },
+  "BHM": {
+   "count": 4,
+   "name": "Bhojpuri (Mauritius)",
+   "signLang": false,
+   "writeLang": [ "BHM" ]
+  },
+  "BI": {
+   "count": 101,
+   "name": "Bicol",
+   "signLang": false,
+   "writeLang": [ "BI" ]
+  },
+  "BIM": {
+   "count": 10,
+   "name": "Malaysian Sign Language",
+   "signLang": true,
+   "writeLang": [ "BIM" ]
+  },
+  "BKK": {
+   "count": 2,
+   "name": "Bakoko",
+   "signLang": false,
+   "writeLang": [ "BKK" ]
+  },
+  "BKY": {
+   "count": 1,
+   "name": "Bokyi",
+   "signLang": false,
+   "writeLang": [ "BKY" ]
+  },
+  "BL": {
+   "count": 153,
+   "name": "Bulgarian",
+   "signLang": false,
+   "writeLang": [ "BL" ]
+  },
+  "BLB": {
+   "count": 1,
+   "name": "Bisa (Lebir)",
+   "signLang": false,
+   "writeLang": [ "BLB" ]
+  },
+  "BLF": {
+   "count": 1,
+   "name": "Blackfoot",
+   "signLang": false,
+   "writeLang": [ "BLF" ]
+  },
+  "BLL": {
+   "count": 6,
+   "name": "Baelelea",
+   "signLang": false,
+   "writeLang": [ "BLL" ]
+  },
+  "BLS": {
+   "count": 8,
+   "name": "Bulgarian Sign Language",
+   "signLang": true,
+   "writeLang": [ "BLS" ]
+  },
+  "BMB": {
+   "count": 4,
+   "name": "Bembe",
+   "signLang": false,
+   "writeLang": [ "BMB" ]
+  },
+  "BNS": {
+   "count": 2,
+   "name": "Blaan (Sarangani)",
+   "signLang": false,
+   "writeLang": [ "BNS" ]
+  },
+  "BO": {
+   "count": 22,
+   "name": "Boulou",
+   "signLang": false,
+   "writeLang": [ "BO" ]
+  },
+  "BQ": {
+   "count": 10,
+   "name": "Basque",
+   "signLang": false,
+   "writeLang": [ "BQ" ]
+  },
+  "BS": {
+   "count": 32,
+   "name": "Bassa (Cameroon)",
+   "signLang": false,
+   "writeLang": [ "BS" ]
+  },
+  "BSA": {
+   "count": 1,
+   "name": "Barí (South America)",
+   "signLang": false,
+   "writeLang": [ "BSA" ]
+  },
+  "BSG": {
+   "count": 1,
+   "name": "Bushoong",
+   "signLang": false,
+   "writeLang": [ "BSG" ]
+  },
+  "BSL": {
+   "count": 16,
+   "name": "British Sign Language",
+   "signLang": true,
+   "writeLang": [ "BSL" ]
+  },
+  "BT": {
+   "count": 10,
+   "name": "Batak (Toba)",
+   "signLang": false,
+   "writeLang": [ "BT" ]
+  },
+  "BU": {
+   "count": 119,
+   "name": "Myanmar",
+   "signLang": false,
+   "writeLang": [ "BU" ]
+  },
+  "BUR": {
+   "count": 1,
+   "name": "Bura",
+   "signLang": false,
+   "writeLang": [ "BUR" ]
+  },
+  "BUS": {
+   "count": 7,
+   "name": "Myanmar Sign Language",
+   "signLang": true,
+   "writeLang": [ "BUS" ]
+  },
+  "BVL": {
+   "count": 26,
+   "name": "Bolivian Sign Language",
+   "signLang": true,
+   "writeLang": [ "BVL" ]
+  },
+  "BZK": {
+   "count": 24,
+   "name": "Belize Kriol",
+   "signLang": false,
+   "writeLang": [ "BZK" ]
+  },
+  "C": {
+   "count": 171,
+   "name": "Croatian",
+   "signLang": false,
+   "writeLang": [ "C" ]
+  },
+  "CA": {
+   "count": 992,
+   "name": "Shona",
+   "signLang": false,
+   "writeLang": [ "CA" ]
+  },
+  "CAB": {
+   "count": 1,
+   "name": "Cabécar (Tayní)",
+   "signLang": false,
+   "writeLang": [ "CAB" ]
+  },
+  "CB": {
+   "count": 69,
+   "name": "Cambodian",
+   "signLang": false,
+   "writeLang": [ "CB" ]
+  },
+  "CBC": {
+   "count": 1,
+   "name": "Cabécar (Chirripó)",
+   "signLang": false,
+   "writeLang": [ "CBC" ]
+  },
+  "CBE": {
+   "count": 1,
+   "name": "Cubeo",
+   "signLang": false,
+   "writeLang": [ "CBE" ]
+  },
+  "CBL": {
+   "count": 2,
+   "name": "Cambodian Sign Language",
+   "signLang": true,
+   "writeLang": [ "CBL" ]
+  },
+  "CC": {
+   "count": 9,
+   "name": "Chavacano",
+   "signLang": false,
+   "writeLang": [ "CC" ]
+  },
+  "CE": {
+   "count": 41,
+   "name": "Mauritian Creole",
+   "signLang": false,
+   "writeLang": [ "CE" ]
+  },
+  "CEC": {
+   "count": 6,
+   "name": "Central American English Creole",
+   "signLang": false,
+   "writeLang": [ "CEC" ]
+  },
+  "CG": {
+   "count": 108,
+   "name": "Chitonga",
+   "signLang": false,
+   "writeLang": [ "CG" ]
+  },
+  "CGA": {
+   "count": 1,
+   "name": "Changana (Zimbabwe)",
+   "signLang": false,
+   "writeLang": [ "CGA" ]
+  },
+  "CGM": {
+   "count": 160,
+   "name": "Changana (Mozambique)",
+   "signLang": false,
+   "writeLang": [ "CGM" ]
+  },
+  "CGS": {
+   "count": 95,
+   "name": "Congolese Sign Language",
+   "signLang": true,
+   "writeLang": [ "CGS" ]
+  },
+  "CGW": {
+   "count": 13,
+   "name": "Chitonga (Zimbabwe)",
+   "signLang": false,
+   "writeLang": [ "CGW" ]
+  },
+  "CHD": {
+   "count": 2,
+   "name": "Teochew",
+   "signLang": false,
+   "writeLang": [ "CHD" ]
+  },
+  "CHE": {
+   "count": 103,
+   "name": "Chinese (Cantonese)",
+   "signLang": false,
+   "writeLang": [
+    "CHC",
+    "CNS"
+   ]
+  },
+  "CHF": {
+   "count": 1,
+   "name": "Chinese (Fuzhounese)",
+   "signLang": false,
+   "writeLang": [ "CHF" ]
+  },
+  "CHJ": {
+   "count": 5,
+   "name": "Chuj",
+   "signLang": false,
+   "writeLang": [ "CHJ" ]
+  },
+  "CHL": {
+   "count": 26,
+   "name": "Chol",
+   "signLang": false,
+   "writeLang": [ "CHL" ]
+  },
+  "CHM": {
+   "count": 879,
+   "name": "Chinese (Mandarin)",
+   "signLang": false,
+   "writeLang": [
+    "CH",
+    "CHS"
+   ]
+  },
+  "CHN": {
+   "count": 1,
+   "name": "Min Nan (Quanzhou)",
+   "signLang": false,
+   "writeLang": [ "CHN" ]
+  },
+  "CHT": {
+   "count": 1,
+   "name": "Chatino",
+   "signLang": false,
+   "writeLang": [ "CHT" ]
+  },
+  "CHW": {
+   "count": 22,
+   "name": "Min Nan (Taiwan)",
+   "signLang": false,
+   "writeLang": [ "CHW" ]
+  },
+  "CI": {
+   "count": 1,
+   "name": "Chin (Tiddim)",
+   "signLang": false,
+   "writeLang": [ "CI" ]
+  },
+  "CIN": {
+   "count": 604,
+   "name": "Cinyanja",
+   "signLang": false,
+   "writeLang": [ "CIN" ]
+  },
+  "CK": {
+   "count": 50,
+   "name": "Chokwe",
+   "signLang": false,
+   "writeLang": [ "CK" ]
+  },
+  "CKE": {
+   "count": 1,
+   "name": "Cherokee",
+   "signLang": false,
+   "writeLang": [ "CKE" ]
+  },
+  "CLC": {
+   "count": 2,
+   "name": "Chontal (Tabasco, Central)",
+   "signLang": false,
+   "writeLang": [ "CLC" ]
+  },
+  "CLE": {
+   "count": 1,
+   "name": "Chontal (Tabasco, East)",
+   "signLang": false,
+   "writeLang": [ "CLE" ]
+  },
+  "CLO": {
+   "count": 3,
+   "name": "Caló",
+   "signLang": false,
+   "writeLang": [ "CLO" ]
+  },
+  "CLX": {
+   "count": 3,
+   "name": "Chontal (Oaxaca)",
+   "signLang": false,
+   "writeLang": [ "CLX" ]
+  },
+  "CML": {
+   "count": 9,
+   "name": "Cameroon Sign Language",
+   "signLang": true,
+   "writeLang": [ "CML" ]
+  },
+  "CN": {
+   "count": 2378,
+   "name": "Chichewa",
+   "signLang": false,
+   "writeLang": [ "CN" ]
+  },
+  "CNL": {
+   "count": 2,
+   "name": "Chinantec (San Juan Lalana)",
+   "signLang": false,
+   "writeLang": [ "CNL" ]
+  },
+  "CNO": {
+   "count": 2,
+   "name": "Chinantec (Ojitlan)",
+   "signLang": false,
+   "writeLang": [ "CNO" ]
+  },
+  "CNQ": {
+   "count": 1,
+   "name": "Chinantec (San Juan Quiotepec)",
+   "signLang": false,
+   "writeLang": [ "CNQ" ]
+  },
+  "CNU": {
+   "count": 1,
+   "name": "Chinantec (Usila)",
+   "signLang": false,
+   "writeLang": [ "CNU" ]
+  },
+  "CNV": {
+   "count": 2,
+   "name": "Chinantec (Valle Nacional)",
+   "signLang": false,
+   "writeLang": [ "CNV" ]
+  },
+  "CO": {
+   "count": 20,
+   "name": "Chuabo",
+   "signLang": false,
+   "writeLang": [ "CO" ]
+  },
+  "COR": {
+   "count": 4,
+   "name": "Cora (El Nayar)",
+   "signLang": false,
+   "writeLang": [ "COR" ]
+  },
+  "CPC": {
+   "count": 1,
+   "name": "Curripaco",
+   "signLang": false,
+   "writeLang": [ "CPC" ]
+  },
+  "CPI": {
+   "count": 12,
+   "name": "Chopi",
+   "signLang": false,
+   "writeLang": [ "CPI" ]
+  },
+  "CPL": {
+   "count": 2,
+   "name": "Cha’palaa",
+   "signLang": false,
+   "writeLang": [ "CPL" ]
+  },
+  "CQ": {
+   "count": 7,
+   "name": "Cakchiquel (Western)",
+   "signLang": false,
+   "writeLang": [ "CQ" ]
+  },
+  "CQC": {
+   "count": 5,
+   "name": "Cakchiquel (Central)",
+   "signLang": false,
+   "writeLang": [ "CQC" ]
+  },
+  "CQE": {
+   "count": 4,
+   "name": "Cakchiquel (Eastern)",
+   "signLang": false,
+   "writeLang": [ "CQE" ]
+  },
+  "CR": {
+   "count": 722,
+   "name": "Haitian Creole",
+   "signLang": false,
+   "writeLang": [ "CR" ]
+  },
+  "CRB": {
+   "count": 1,
+   "name": "Carib",
+   "signLang": false,
+   "writeLang": [ "CRB" ]
+  },
+  "CRS": {
+   "count": 1,
+   "name": "Central African Republic Sign Language",
+   "signLang": true,
+   "writeLang": [ "CRS" ]
+  },
+  "CSC": {
+   "count": 4,
+   "name": "Corsican",
+   "signLang": false,
+   "writeLang": [ "CSC" ]
+  },
+  "CSE": {
+   "count": 11,
+   "name": "Czech Sign Language",
+   "signLang": true,
+   "writeLang": [ "CSE" ]
+  },
+  "CSL": {
+   "count": 3,
+   "name": "Chinese Sign Language",
+   "signLang": true,
+   "writeLang": [ "CSL" ]
+  },
+  "CT": {
+   "count": 68,
+   "name": "Chitonga (Malawi)",
+   "signLang": false,
+   "writeLang": [ "CT" ]
+  },
+  "CV": {
+   "count": 1188,
+   "name": "Cebuano",
+   "signLang": false,
+   "writeLang": [ "CV" ]
+  },
+  "CW": {
+   "count": 1926,
+   "name": "Cibemba",
+   "signLang": false,
+   "writeLang": [ "CW" ]
+  },
+  "CYO": {
+   "count": 1,
+   "name": "Cuyunon",
+   "signLang": false,
+   "writeLang": [ "CYO" ]
+  },
+  "D": {
+   "count": 167,
+   "name": "Danish",
+   "signLang": false,
+   "writeLang": [ "D" ]
+  },
+  "DA": {
+   "count": 17,
+   "name": "Douala",
+   "signLang": false,
+   "writeLang": [ "DA" ]
+  },
+  "DG": {
+   "count": 88,
+   "name": "Dangme",
+   "signLang": false,
+   "writeLang": [ "DG" ]
+  },
+  "DGA": {
+   "count": 8,
+   "name": "Dagaare",
+   "signLang": false,
+   "writeLang": [ "DGA" ]
+  },
+  "DGB": {
+   "count": 3,
+   "name": "Dagbani",
+   "signLang": false,
+   "writeLang": [ "DGB" ]
+  },
+  "DGS": {
+   "count": 52,
+   "name": "German Sign Language",
+   "signLang": true,
+   "writeLang": [ "DGS" ]
+  },
+  "DI": {
+   "count": 4,
+   "name": "Dinka",
+   "signLang": false,
+   "writeLang": [ "DI" ]
+  },
+  "DM": {
+   "count": 7,
+   "name": "Sidama",
+   "signLang": false,
+   "writeLang": [ "DM" ]
+  },
+  "DMR": {
+   "count": 4,
+   "name": "Damara",
+   "signLang": false,
+   "writeLang": [ "DMR" ]
+  },
+  "DNS": {
+   "count": 14,
+   "name": "Dengese",
+   "signLang": false,
+   "writeLang": [ "DNS" ]
+  },
+  "DR": {
+   "count": 22,
+   "name": "Uruund",
+   "signLang": false,
+   "writeLang": [ "DR" ]
+  },
+  "DSL": {
+   "count": 1,
+   "name": "Danish Sign Language",
+   "signLang": true,
+   "writeLang": [ "DSL" ]
+  },
+  "DTM": {
+   "count": 2,
+   "name": "Ditammari",
+   "signLang": false,
+   "writeLang": [ "DTM" ]
+  },
+  "E": {
+   "count": 16485,
+   "name": "English",
+   "signLang": false,
+   "writeLang": [ "E" ]
+  },
+  "EBA": {
+   "count": 2,
+   "name": "Ebira",
+   "signLang": false,
+   "writeLang": [ "EBA" ]
+  },
+  "EBR": {
+   "count": 1,
+   "name": "Ebrié",
+   "signLang": false,
+   "writeLang": [ "EBR" ]
+  },
+  "ED": {
+   "count": 27,
+   "name": "Edo",
+   "signLang": false,
+   "writeLang": [ "ED" ]
+  },
+  "EF": {
+   "count": 477,
+   "name": "Efik",
+   "signLang": false,
+   "writeLang": [ "EF" ]
+  },
+  "EG": {
+   "count": 105,
+   "name": "Gun",
+   "signLang": false,
+   "writeLang": [ "EG" ]
+  },
+  "ELI": {
+   "count": 111,
+   "name": "Liberian English",
+   "signLang": false,
+   "writeLang": [ "ELI" ]
+  },
+  "EMB": {
+   "count": 4,
+   "name": "Emberá (Catío)",
+   "signLang": false,
+   "writeLang": [ "EMB" ]
+  },
+  "EMC": {
+   "count": 4,
+   "name": "Emberá (Chamí)",
+   "signLang": false,
+   "writeLang": [ "EMC" ]
+  },
+  "EMP": {
+   "count": 3,
+   "name": "Emberá (Northern)",
+   "signLang": false,
+   "writeLang": [ "EMP" ]
+  },
+  "ENG": {
+   "count": 1,
+   "name": "English (Nigeria)",
+   "signLang": false,
+   "writeLang": [ "ENG" ]
+  },
+  "ENW": {
+   "count": 1,
+   "name": "E’ñapa Woromaipu",
+   "signLang": false,
+   "writeLang": [ "ENW" ]
+  },
+  "ESL": {
+   "count": 1,
+   "name": "Ethiopian Sign Language",
+   "signLang": true,
+   "writeLang": [ "ESL" ]
+  },
+  "ET": {
+   "count": 5,
+   "name": "Bété",
+   "signLang": false,
+   "writeLang": [ "ET" ]
+  },
+  "ETN": {
+   "count": 9,
+   "name": "Eton",
+   "signLang": false,
+   "writeLang": [ "ETN" ]
+  },
+  "EW": {
+   "count": 545,
+   "name": "Ewe",
+   "signLang": false,
+   "writeLang": [ "EW" ]
+  },
+  "EWN": {
+   "count": 6,
+   "name": "Ewondo",
+   "signLang": false,
+   "writeLang": [ "EWN" ]
+  },
+  "F": {
+   "count": 3807,
+   "name": "French",
+   "signLang": false,
+   "writeLang": [ "F" ]
+  },
+  "FA": {
+   "count": 156,
+   "name": "Fante",
+   "signLang": false,
+   "writeLang": [ "FA" ]
+  },
+  "FD": {
+   "count": 2,
+   "name": "Fulfulde (Cameroon)",
+   "signLang": false,
+   "writeLang": [ "FD" ]
+  },
+  "FF": {
+   "count": 12,
+   "name": "Frafra",
+   "signLang": false,
+   "writeLang": [ "FF" ]
+  },
+  "FGN": {
+   "count": 23,
+   "name": "Fang",
+   "signLang": false,
+   "writeLang": [ "FGN" ]
+  },
+  "FI": {
+   "count": 296,
+   "name": "Finnish",
+   "signLang": false,
+   "writeLang": [ "FI" ]
+  },
+  "FID": {
+   "count": 7,
+   "name": "Finnish Sign Language",
+   "signLang": true,
+   "writeLang": [ "FID" ]
+  },
+  "FJS": {
+   "count": 3,
+   "name": "Fiji Sign Language",
+   "signLang": true,
+   "writeLang": [ "FJS" ]
+  },
+  "FN": {
+   "count": 51,
+   "name": "Fijian",
+   "signLang": false,
+   "writeLang": [ "FN" ]
+  },
+  "FO": {
+   "count": 70,
+   "name": "Fon",
+   "signLang": false,
+   "writeLang": [ "FO" ]
+  },
+  "FR": {
+   "count": 4,
+   "name": "Faroese",
+   "signLang": false,
+   "writeLang": [ "FR" ]
+  },
+  "FSL": {
+   "count": 137,
+   "name": "Filipino Sign Language",
+   "signLang": true,
+   "writeLang": [ "FSL" ]
+  },
+  "FT": {
+   "count": 2,
+   "name": "Futuna (East)",
+   "signLang": false,
+   "writeLang": [ "FT" ]
+  },
+  "FTK": {
+   "count": 2,
+   "name": "Fataleka",
+   "signLang": false,
+   "writeLang": [ "FTK" ]
+  },
+  "FTL": {
+   "count": 1,
+   "name": "Fataluku",
+   "signLang": false,
+   "writeLang": [ "FTL" ]
+  },
+  "G": {
+   "count": 406,
+   "name": "Greek",
+   "signLang": false,
+   "writeLang": [ "G" ]
+  },
+  "GA": {
+   "count": 164,
+   "name": "Ga",
+   "signLang": false,
+   "writeLang": [ "GA" ]
+  },
+  "GAA": {
+   "count": 1,
+   "name": "Garo (Achik)",
+   "signLang": false,
+   "writeLang": [ "GAA" ]
+  },
+  "GB": {
+   "count": 6,
+   "name": "Kiribati",
+   "signLang": false,
+   "writeLang": [ "GB" ]
+  },
+  "GBA": {
+   "count": 3,
+   "name": "Gbaya",
+   "signLang": false,
+   "writeLang": [ "GBA" ]
+  },
+  "GBM": {
+   "count": 3,
+   "name": "Guambiano",
+   "signLang": false,
+   "writeLang": [ "GBM" ]
+  },
+  "GBR": {
+   "count": 3,
+   "name": "Jiw",
+   "signLang": false,
+   "writeLang": [ "GBR" ]
+  },
+  "GC": {
+   "count": 10,
+   "name": "Irish",
+   "signLang": false,
+   "writeLang": [ "GC" ]
+  },
+  "GCR": {
+   "count": 47,
+   "name": "Guadeloupean Creole",
+   "signLang": false,
+   "writeLang": [ "GCR" ]
+  },
+  "GDE": {
+   "count": 2,
+   "name": "Gedeufa",
+   "signLang": false,
+   "writeLang": [ "GDE" ]
+  },
+  "GE": {
+   "count": 195,
+   "name": "Georgian",
+   "signLang": false,
+   "writeLang": [ "GE" ]
+  },
+  "GG": {
+   "count": 1,
+   "name": "Gogo",
+   "signLang": false,
+   "writeLang": [ "GG" ]
+  },
+  "GHB": {
+   "count": 7,
+   "name": "Guahibo",
+   "signLang": false,
+   "writeLang": [ "GHB" ]
+  },
+  "GHM": {
+   "count": 2,
+   "name": "Ghomálá’",
+   "signLang": false,
+   "writeLang": [ "GHM" ]
+  },
+  "GHS": {
+   "count": 100,
+   "name": "Ghanaian Sign Language",
+   "signLang": true,
+   "writeLang": [ "GHS" ]
+  },
+  "GI": {
+   "count": 180,
+   "name": "Guarani",
+   "signLang": false,
+   "writeLang": [ "GI" ]
+  },
+  "GIB": {
+   "count": 5,
+   "name": "Guarani (Bolivia)",
+   "signLang": false,
+   "writeLang": [ "GIB" ]
+  },
+  "GJJ": {
+   "count": 1,
+   "name": "Guajajara",
+   "signLang": false,
+   "writeLang": [ "GJJ" ]
+  },
+  "GK": {
+   "count": 26,
+   "name": "Kekchi",
+   "signLang": false,
+   "writeLang": [ "GK" ]
+  },
+  "GL": {
+   "count": 6,
+   "name": "Greenlandic",
+   "signLang": false,
+   "writeLang": [ "GL" ]
+  },
+  "GLC": {
+   "count": 18,
+   "name": "Galician",
+   "signLang": false,
+   "writeLang": [ "GLC" ]
+  },
+  "GN": {
+   "count": 15,
+   "name": "Gokana",
+   "signLang": false,
+   "writeLang": [ "GN" ]
+  },
+  "GNC": {
+   "count": 9,
+   "name": "Guianese Creole",
+   "signLang": false,
+   "writeLang": [ "GNC" ]
+  },
+  "GRB": {
+   "count": 1,
+   "name": "Grebo",
+   "signLang": false,
+   "writeLang": [ "GRB" ]
+  },
+  "GRC": {
+   "count": 3,
+   "name": "Gourmanchéma",
+   "signLang": false,
+   "writeLang": [ "GRC" ]
+  },
+  "GRF": {
+   "count": 16,
+   "name": "Garifuna",
+   "signLang": false,
+   "writeLang": [ "GRF" ]
+  },
+  "GRZ": {
+   "count": 2,
+   "name": "Guerze",
+   "signLang": false,
+   "writeLang": [ "GRZ" ]
+  },
+  "GSL": {
+   "count": 7,
+   "name": "Greek Sign Language",
+   "signLang": true,
+   "writeLang": [ "GSL" ]
+  },
+  "GTN": {
+   "count": 17,
+   "name": "Gitonga",
+   "signLang": false,
+   "writeLang": [ "GTN" ]
+  },
+  "GU": {
+   "count": 26,
+   "name": "Gujarati",
+   "signLang": false,
+   "writeLang": [ "GU" ]
+  },
+  "GUR": {
+   "count": 5,
+   "name": "Guéré",
+   "signLang": false,
+   "writeLang": [ "GUR" ]
+  },
+  "H": {
+   "count": 485,
+   "name": "Hungarian",
+   "signLang": false,
+   "writeLang": [ "H" ]
+  },
+  "HA": {
+   "count": 33,
+   "name": "Hausa",
+   "signLang": false,
+   "writeLang": [ "HA" ]
+  },
+  "HCH": {
+   "count": 9,
+   "name": "Wixárika",
+   "signLang": false,
+   "writeLang": [ "HCH" ]
+  },
+  "HDF": {
+   "count": 3,
+   "name": "Hungarian Sign Language",
+   "signLang": true,
+   "writeLang": [ "HDF" ]
+  },
+  "HI": {
+   "count": 249,
+   "name": "Hindi",
+   "signLang": false,
+   "writeLang": [ "HI" ]
+  },
+  "HK": {
+   "count": 9,
+   "name": "Chin (Hakha)",
+   "signLang": false,
+   "writeLang": [ "HK" ]
+  },
+  "HM": {
+   "count": 24,
+   "name": "Hmong (White)",
+   "signLang": false,
+   "writeLang": [ "HM" ]
+  },
+  "HR": {
+   "count": 6,
+   "name": "Herero",
+   "signLang": false,
+   "writeLang": [ "HR" ]
+  },
+  "HSK": {
+   "count": 23,
+   "name": "Hunsrik",
+   "signLang": false,
+   "writeLang": [ "HSK" ]
+  },
+  "HST": {
+   "count": 14,
+   "name": "Huastec (San Luis Potosi)",
+   "signLang": false,
+   "writeLang": [ "HST" ]
+  },
+  "HSV": {
+   "count": 6,
+   "name": "Huastec (Veracruz)",
+   "signLang": false,
+   "writeLang": [ "HSV" ]
+  },
+  "HUV": {
+   "count": 2,
+   "name": "Huave (San Mateo del Mar)",
+   "signLang": false,
+   "writeLang": [ "HUV" ]
+  },
+  "HV": {
+   "count": 204,
+   "name": "Hiligaynon",
+   "signLang": false,
+   "writeLang": [ "HV" ]
+  },
+  "HW": {
+   "count": 1,
+   "name": "Hawaiian",
+   "signLang": false,
+   "writeLang": [ "HW" ]
+  },
+  "HWI": {
+   "count": 1,
+   "name": "Shawi",
+   "signLang": false,
+   "writeLang": [ "HWI" ]
+  },
+  "HWP": {
+   "count": 31,
+   "name": "Hawai’i Pidgin",
+   "signLang": false,
+   "writeLang": [ "HWP" ]
+  },
+  "HZJ": {
+   "count": 11,
+   "name": "Croatian Sign Language",
+   "signLang": true,
+   "writeLang": [ "HZJ" ]
+  },
+  "I": {
+   "count": 3065,
+   "name": "Italian",
+   "signLang": false,
+   "writeLang": [ "I" ]
+  },
+  "IA": {
+   "count": 13,
+   "name": "Iban",
+   "signLang": false,
+   "writeLang": [ "IA" ]
+  },
+  "IB": {
+   "count": 1103,
+   "name": "Igbo",
+   "signLang": false,
+   "writeLang": [ "IB" ]
+  },
+  "IBI": {
+   "count": 18,
+   "name": "Ibinda",
+   "signLang": false,
+   "writeLang": [ "IBI" ]
+  },
+  "IBL": {
+   "count": 9,
+   "name": "Ibaloi",
+   "signLang": false,
+   "writeLang": [ "IBL" ]
+  },
+  "IC": {
+   "count": 5,
+   "name": "Icelandic",
+   "signLang": false,
+   "writeLang": [ "IC" ]
+  },
+  "ID": {
+   "count": 10,
+   "name": "Idoma",
+   "signLang": false,
+   "writeLang": [ "ID" ]
+  },
+  "IE": {
+   "count": 5,
+   "name": "Ateso",
+   "signLang": false,
+   "writeLang": [ "IE" ]
+  },
+  "IG": {
+   "count": 15,
+   "name": "Ibanag",
+   "signLang": false,
+   "writeLang": [ "IG" ]
+  },
+  "IGE": {
+   "count": 8,
+   "name": "Igede",
+   "signLang": false,
+   "writeLang": [ "IGE" ]
+  },
+  "IH": {
+   "count": 11,
+   "name": "Esan",
+   "signLang": false,
+   "writeLang": [ "IH" ]
+  },
+  "II": {
+   "count": 4,
+   "name": "Kisii",
+   "signLang": false,
+   "writeLang": [ "II" ]
+  },
+  "IJ": {
+   "count": 39,
+   "name": "Ijaw",
+   "signLang": false,
+   "writeLang": [ "IJ" ]
+  },
+  "IK": {
+   "count": 2,
+   "name": "Biak",
+   "signLang": false,
+   "writeLang": [ "IK" ]
+  },
+  "IKN": {
+   "count": 20,
+   "name": "Inakeanon",
+   "signLang": false,
+   "writeLang": [ "IKN" ]
+  },
+  "IL": {
+   "count": 697,
+   "name": "Iloko",
+   "signLang": false,
+   "writeLang": [ "IL" ]
+  },
+  "IMN": {
+   "count": 2,
+   "name": "Iu Mien",
+   "signLang": false,
+   "writeLang": [ "IMN" ]
+  },
+  "IN": {
+   "count": 570,
+   "name": "Indonesian",
+   "signLang": false,
+   "writeLang": [ "IN" ]
+  },
+  "INI": {
+   "count": 59,
+   "name": "Indonesian Sign Language",
+   "signLang": true,
+   "writeLang": [ "INI" ]
+  },
+  "INS": {
+   "count": 92,
+   "name": "Indian Sign Language",
+   "signLang": true,
+   "writeLang": [ "INS" ]
+  },
+  "IS": {
+   "count": 58,
+   "name": "Isoko",
+   "signLang": false,
+   "writeLang": [ "IS" ]
+  },
+  "ISG": {
+   "count": 1,
+   "name": "Irish Sign Language",
+   "signLang": true,
+   "writeLang": [ "ISG" ]
+  },
+  "ISL": {
+   "count": 62,
+   "name": "Italian Sign Language",
+   "signLang": true,
+   "writeLang": [ "ISL" ]
+  },
+  "IT": {
+   "count": 5,
+   "name": "Itsekiri",
+   "signLang": false,
+   "writeLang": [ "IT" ]
+  },
+  "ITW": {
+   "count": 15,
+   "name": "Itawit",
+   "signLang": false,
+   "writeLang": [ "ITW" ]
+  },
+  "IXL": {
+   "count": 3,
+   "name": "Ixil",
+   "signLang": false,
+   "writeLang": [ "IXL" ]
+  },
+  "J": {
+   "count": 2999,
+   "name": "Japanese",
+   "signLang": false,
+   "writeLang": [ "J" ]
+  },
+  "JA": {
+   "count": 14,
+   "name": "Javanese",
+   "signLang": false,
+   "writeLang": [ "JA" ]
+  },
+  "JAR": {
+   "count": 2,
+   "name": "Jarai",
+   "signLang": false,
+   "writeLang": [ "JAR" ]
+  },
+  "JC": {
+   "count": 4,
+   "name": "Popti'",
+   "signLang": false,
+   "writeLang": [ "JC" ]
+  },
+  "JCR": {
+   "count": 59,
+   "name": "Jamaican Creole",
+   "signLang": false,
+   "writeLang": [ "JCR" ]
+  },
+  "JL": {
+   "count": 15,
+   "name": "Jula",
+   "signLang": false,
+   "writeLang": [ "JL" ]
+  },
+  "JML": {
+   "count": 14,
+   "name": "Jamaican Sign Language",
+   "signLang": true,
+   "writeLang": [ "JML" ]
+  },
+  "JSL": {
+   "count": 50,
+   "name": "Japanese Sign Language",
+   "signLang": true,
+   "writeLang": [ "JSL" ]
+  },
+  "JWK": {
+   "count": 6,
+   "name": "Jiwaka",
+   "signLang": false,
+   "writeLang": [ "JWK" ]
+  },
+  "K": {
+   "count": 744,
+   "name": "Ukrainian",
+   "signLang": false,
+   "writeLang": [ "K" ]
+  },
+  "KA": {
+   "count": 57,
+   "name": "Kannada",
+   "signLang": false,
+   "writeLang": [ "KA" ]
+  },
+  "KAA": {
+   "count": 6,
+   "name": "Kaiwá",
+   "signLang": false,
+   "writeLang": [ "KAA" ]
+  },
+  "KAB": {
+   "count": 26,
+   "name": "Kabiye",
+   "signLang": false,
+   "writeLang": [ "KAB" ]
+  },
+  "KAN": {
+   "count": 2,
+   "name": "Akateko",
+   "signLang": false,
+   "writeLang": [ "KAN" ]
+  },
+  "KB": {
+   "count": 64,
+   "name": "Kamba",
+   "signLang": false,
+   "writeLang": [ "KB" ]
+  },
+  "KBK": {
+   "count": 2,
+   "name": "Kokborok",
+   "signLang": false,
+   "writeLang": [ "KBK" ]
+  },
+  "KBL": {
+   "count": 3,
+   "name": "Kibala",
+   "signLang": false,
+   "writeLang": [ "KBL" ]
+  },
+  "KBV": {
+   "count": 69,
+   "name": "Kabuverdianu",
+   "signLang": false,
+   "writeLang": [ "KBV" ]
+  },
+  "KBY": {
+   "count": 6,
+   "name": "Kabyle",
+   "signLang": false,
+   "writeLang": [ "KBY" ]
+  },
+  "KD": {
+   "count": 138,
+   "name": "Kikaonde",
+   "signLang": false,
+   "writeLang": [ "KD" ]
+  },
+  "KDA": {
+   "count": 3,
+   "name": "Kunda",
+   "signLang": false,
+   "writeLang": [ "KDA" ]
+  },
+  "KFL": {
+   "count": 1,
+   "name": "Kifulero",
+   "signLang": false,
+   "writeLang": [ "KFL" ]
+  },
+  "KG": {
+   "count": 62,
+   "name": "Kikongo",
+   "signLang": false,
+   "writeLang": [ "KG" ]
+  },
+  "KGG": {
+   "count": 5,
+   "name": "Kaingang",
+   "signLang": false,
+   "writeLang": [ "KGG" ]
+  },
+  "KGL": {
+   "count": 14,
+   "name": "Kikongo ya Leta",
+   "signLang": false,
+   "writeLang": [ "KGL" ]
+  },
+  "KH": {
+   "count": 14,
+   "name": "Kwale",
+   "signLang": false,
+   "writeLang": [ "KH" ]
+  },
+  "KHA": {
+   "count": 13,
+   "name": "Mongolian",
+   "signLang": false,
+   "writeLang": [ "KHA" ]
+  },
+  "KHB": {
+   "count": 11,
+   "name": "Kihemba",
+   "signLang": false,
+   "writeLang": [ "KHB" ]
+  },
+  "KHN": {
+   "count": 3,
+   "name": "Kuhane (Subiya)",
+   "signLang": false,
+   "writeLang": [ "KHN" ]
+  },
+  "KI": {
+   "count": 26,
+   "name": "Kisi",
+   "signLang": false,
+   "writeLang": [ "KI" ]
+  },
+  "KIM": {
+   "count": 73,
+   "name": "Kimbundu",
+   "signLang": false,
+   "writeLang": [ "KIM" ]
+  },
+  "KIN": {
+   "count": 53,
+   "name": "Kinande",
+   "signLang": false,
+   "writeLang": [ "KIN" ]
+  },
+  "KIP": {
+   "count": 101,
+   "name": "Kipende",
+   "signLang": false,
+   "writeLang": [ "KIP" ]
+  },
+  "KIT": {
+   "count": 35,
+   "name": "Kituba",
+   "signLang": false,
+   "writeLang": [ "KIT" ]
+  },
+  "KJ": {
+   "count": 3,
+   "name": "Kalenjin",
+   "signLang": false,
+   "writeLang": [ "KJ" ]
+  },
+  "KK": {
+   "count": 3,
+   "name": "Kinyakyusa",
+   "signLang": false,
+   "writeLang": [ "KK" ]
+  },
+  "KKB": {
+   "count": 2,
+   "name": "Konkomba",
+   "signLang": false,
+   "writeLang": [ "KKB" ]
+  },
+  "KKL": {
+   "count": 43,
+   "name": "Kokola",
+   "signLang": false,
+   "writeLang": [ "KKL" ]
+  },
+  "KL": {
+   "count": 2,
+   "name": "Kalanga (Botswana)",
+   "signLang": false,
+   "writeLang": [ "KL" ]
+  },
+  "KLG": {
+   "count": 3,
+   "name": "Kalanguya",
+   "signLang": false,
+   "writeLang": [ "KLG" ]
+  },
+  "KMR": {
+   "count": 2,
+   "name": "Kanamarí",
+   "signLang": false,
+   "writeLang": [ "KMR" ]
+  },
+  "KMY": {
+   "count": 14,
+   "name": "Kamayo",
+   "signLang": false,
+   "writeLang": [ "KMY" ]
+  },
+  "KN": {
+   "count": 1,
+   "name": "Konkani (Kannada)",
+   "signLang": false,
+   "writeLang": [ "KN" ]
+  },
+  "KND": {
+   "count": 1,
+   "name": "Konkani (Devanagari)",
+   "signLang": false,
+   "writeLang": [ "KND" ]
+  },
+  "KNR": {
+   "count": 18,
+   "name": "Kinaray-a",
+   "signLang": false,
+   "writeLang": [ "KNR" ]
+  },
+  "KNY": {
+   "count": 25,
+   "name": "Kankanaey",
+   "signLang": false,
+   "writeLang": [ "KNY" ]
+  },
+  "KO": {
+   "count": 1396,
+   "name": "Korean",
+   "signLang": false,
+   "writeLang": [ "KO" ]
+  },
+  "KP": {
+   "count": 4,
+   "name": "Kpelle",
+   "signLang": false,
+   "writeLang": [ "KP" ]
+  },
+  "KQ": {
+   "count": 111,
+   "name": "Kikuyu",
+   "signLang": false,
+   "writeLang": [ "KQ" ]
+  },
+  "KR": {
+   "count": 37,
+   "name": "Karen (S'gaw)",
+   "signLang": false,
+   "writeLang": [ "KR" ]
+  },
+  "KRI": {
+   "count": 34,
+   "name": "Krio",
+   "signLang": false,
+   "writeLang": [ "KRI" ]
+  },
+  "KRJ": {
+   "count": 3,
+   "name": "Karajá",
+   "signLang": false,
+   "writeLang": [ "KRJ" ]
+  },
+  "KS": {
+   "count": 1,
+   "name": "Khasi",
+   "signLang": false,
+   "writeLang": [ "KS" ]
+  },
+  "KSI": {
+   "count": 11,
+   "name": "Kenyan Sign Language",
+   "signLang": true,
+   "writeLang": [ "KSI" ]
+  },
+  "KSL": {
+   "count": 38,
+   "name": "Korean Sign Language",
+   "signLang": true,
+   "writeLang": [ "KSL" ]
+  },
+  "KSM": {
+   "count": 2,
+   "name": "Kasem",
+   "signLang": false,
+   "writeLang": [ "KSM" ]
+  },
+  "KSN": {
+   "count": 37,
+   "name": "Kisonge",
+   "signLang": false,
+   "writeLang": [ "KSN" ]
+  },
+  "KT": {
+   "count": 5,
+   "name": "Konkani (Roman)",
+   "signLang": false,
+   "writeLang": [ "KT" ]
+  },
+  "KU": {
+   "count": 186,
+   "name": "Kiluba",
+   "signLang": false,
+   "writeLang": [ "KU" ]
+  },
+  "KUS": {
+   "count": 3,
+   "name": "Kusaal",
+   "signLang": false,
+   "writeLang": [ "KUS" ]
+  },
+  "KVM": {
+   "count": 4,
+   "name": "Kuvale (Mucubal)",
+   "signLang": false,
+   "writeLang": [ "KVM" ]
+  },
+  "KW": {
+   "count": 11,
+   "name": "Kwara'ae",
+   "signLang": false,
+   "writeLang": [ "KW" ]
+  },
+  "KWA": {
+   "count": 3,
+   "name": "Kwaio",
+   "signLang": false,
+   "writeLang": [ "KWA" ]
+  },
+  "KWS": {
+   "count": 2,
+   "name": "Kwasio",
+   "signLang": false,
+   "writeLang": [ "KWS" ]
+  },
+  "KY": {
+   "count": 19,
+   "name": "Kwanyama",
+   "signLang": false,
+   "writeLang": [ "KY" ]
+  },
+  "KYK": {
+   "count": 13,
+   "name": "Kanyok",
+   "signLang": false,
+   "writeLang": [ "KYK" ]
+  },
+  "KZ": {
+   "count": 41,
+   "name": "Kirghiz",
+   "signLang": false,
+   "writeLang": [ "KZ" ]
+  },
+  "L": {
+   "count": 46,
+   "name": "Lithuanian",
+   "signLang": false,
+   "writeLang": [ "L" ]
+  },
+  "LA": {
+   "count": 3,
+   "name": "Laotian",
+   "signLang": false,
+   "writeLang": [ "LA" ]
+  },
+  "LAD": {
+   "count": 1,
+   "name": "Ladin (Gardenese)",
+   "signLang": false,
+   "writeLang": [ "LAD" ]
+  },
+  "LAH": {
+   "count": 2,
+   "name": "Lahu",
+   "signLang": false,
+   "writeLang": [ "LAH" ]
+  },
+  "LAS": {
+   "count": 52,
+   "name": "Angolan Sign Language",
+   "signLang": true,
+   "writeLang": [ "LAS" ]
+  },
+  "LBI": {
+   "count": 1,
+   "name": "Lobi",
+   "signLang": false,
+   "writeLang": [ "LBI" ]
+  },
+  "LCE": {
+   "count": 2,
+   "name": "Limón Creole",
+   "signLang": false,
+   "writeLang": [ "LCE" ]
+  },
+  "LD": {
+   "count": 32,
+   "name": "Lunda",
+   "signLang": false,
+   "writeLang": [ "LD" ]
+  },
+  "LE": {
+   "count": 74,
+   "name": "Lomwe",
+   "signLang": false,
+   "writeLang": [ "LE" ]
+  },
+  "LF": {
+   "count": 7,
+   "name": "Drehu",
+   "signLang": false,
+   "writeLang": [ "LF" ]
+  },
+  "LG": {
+   "count": 3,
+   "name": "Lugbara",
+   "signLang": false,
+   "writeLang": [ "LG" ]
+  },
+  "LGA": {
+   "count": 2,
+   "name": "Lega",
+   "signLang": false,
+   "writeLang": [ "LGA" ]
+  },
+  "LGP": {
+   "count": 20,
+   "name": "Portuguese Sign Language",
+   "signLang": true,
+   "writeLang": [ "LGP" ]
+  },
+  "LHK": {
+   "count": 9,
+   "name": "Lhukonzo",
+   "signLang": false,
+   "writeLang": [ "LHK" ]
+  },
+  "LI": {
+   "count": 1595,
+   "name": "Lingala",
+   "signLang": false,
+   "writeLang": [ "LI" ]
+  },
+  "LJ": {
+   "count": 31,
+   "name": "Lenje",
+   "signLang": false,
+   "writeLang": [ "LJ" ]
+  },
+  "LK": {
+   "count": 1,
+   "name": "Bukusu",
+   "signLang": false,
+   "writeLang": [ "LK" ]
+  },
+  "LL": {
+   "count": 5,
+   "name": "Lele",
+   "signLang": false,
+   "writeLang": [ "LL" ]
+  },
+  "LLB": {
+   "count": 22,
+   "name": "Lala-Bisa",
+   "signLang": false,
+   "writeLang": [ "LLB" ]
+  },
+  "LLO": {
+   "count": 12,
+   "name": "Lolo",
+   "signLang": false,
+   "writeLang": [ "LLO" ]
+  },
+  "LM": {
+   "count": 19,
+   "name": "Bislama",
+   "signLang": false,
+   "writeLang": [ "LM" ]
+  },
+  "LMB": {
+   "count": 6,
+   "name": "Lambya",
+   "signLang": false,
+   "writeLang": [ "LMB" ]
+  },
+  "LMG": {
+   "count": 20,
+   "name": "Romanian Sign Language",
+   "signLang": true,
+   "writeLang": [ "LMG" ]
+  },
+  "LN": {
+   "count": 8,
+   "name": "Lango",
+   "signLang": false,
+   "writeLang": [ "LN" ]
+  },
+  "LND": {
+   "count": 8,
+   "name": "Lendu",
+   "signLang": false,
+   "writeLang": [ "LND" ]
+  },
+  "LO": {
+   "count": 59,
+   "name": "Luo",
+   "signLang": false,
+   "writeLang": [ "LO" ]
+  },
+  "LOM": {
+   "count": 2,
+   "name": "Lomongo",
+   "signLang": false,
+   "writeLang": [ "LOM" ]
+  },
+  "LR": {
+   "count": 8,
+   "name": "Lari",
+   "signLang": false,
+   "writeLang": [ "LR" ]
+  },
+  "LS": {
+   "count": 5,
+   "name": "Mizo",
+   "signLang": false,
+   "writeLang": [ "LS" ]
+  },
+  "LSA": {
+   "count": 120,
+   "name": "Argentinean Sign Language",
+   "signLang": true,
+   "writeLang": [ "LSA" ]
+  },
+  "LSB": {
+   "count": 898,
+   "name": "Brazilian Sign Language",
+   "signLang": true,
+   "writeLang": [ "LSB" ]
+  },
+  "LSC": {
+   "count": 52,
+   "name": "Colombian Sign Language",
+   "signLang": true,
+   "writeLang": [ "LSC" ]
+  },
+  "LSE": {
+   "count": 55,
+   "name": "Spanish Sign Language",
+   "signLang": true,
+   "writeLang": [ "LSE" ]
+  },
+  "LSF": {
+   "count": 80,
+   "name": "French Sign Language",
+   "signLang": true,
+   "writeLang": [ "LSF" ]
+  },
+  "LSG": {
+   "count": 44,
+   "name": "Guatemalan Sign Language",
+   "signLang": true,
+   "writeLang": [ "LSG" ]
+  },
+  "LSI": {
+   "count": 16,
+   "name": "Ivorian Sign Language",
+   "signLang": true,
+   "writeLang": [ "LSI" ]
+  },
+  "LSL": {
+   "count": 3,
+   "name": "Latvian Sign Language",
+   "signLang": true,
+   "writeLang": [ "LSL" ]
+  },
+  "LSM": {
+   "count": 411,
+   "name": "Mexican Sign Language",
+   "signLang": true,
+   "writeLang": [ "LSM" ]
+  },
+  "LSN": {
+   "count": 22,
+   "name": "Nicaraguan Sign Language",
+   "signLang": true,
+   "writeLang": [ "LSN" ]
+  },
+  "LSP": {
+   "count": 8,
+   "name": "Paraguayan Sign Language",
+   "signLang": true,
+   "writeLang": [ "LSP" ]
+  },
+  "LSQ": {
+   "count": 3,
+   "name": "Quebec Sign Language",
+   "signLang": true,
+   "writeLang": [ "LSQ" ]
+  },
+  "LSS": {
+   "count": 24,
+   "name": "Salvadoran Sign Language",
+   "signLang": true,
+   "writeLang": [ "LSS" ]
+  },
+  "LSU": {
+   "count": 14,
+   "name": "Uruguayan Sign Language",
+   "signLang": true,
+   "writeLang": [ "LSU" ]
+  },
+  "LSV": {
+   "count": 84,
+   "name": "Venezuelan Sign Language",
+   "signLang": true,
+   "writeLang": [ "LSV" ]
+  },
+  "LT": {
+   "count": 26,
+   "name": "Latvian",
+   "signLang": false,
+   "writeLang": [ "LT" ]
+  },
+  "LTS": {
+   "count": 6,
+   "name": "Lithuanian Sign Language",
+   "signLang": true,
+   "writeLang": [ "LTS" ]
+  },
+  "LU": {
+   "count": 65,
+   "name": "Luganda",
+   "signLang": false,
+   "writeLang": [ "LU" ]
+  },
+  "LUC": {
+   "count": 2,
+   "name": "Saint Lucian Creole",
+   "signLang": false,
+   "writeLang": [ "LUC" ]
+  },
+  "LV": {
+   "count": 47,
+   "name": "Luvale",
+   "signLang": false,
+   "writeLang": [ "LV" ]
+  },
+  "LVA": {
+   "count": 5,
+   "name": "Romany (Lovari, Hungary)",
+   "signLang": false,
+   "writeLang": [ "LVA" ]
+  },
+  "LWX": {
+   "count": 18,
+   "name": "Low German",
+   "signLang": false,
+   "writeLang": [ "LWX" ]
+  },
+  "M": {
+   "count": 1003,
+   "name": "Romanian",
+   "signLang": false,
+   "writeLang": [ "M" ]
+  },
+  "MAC": {
+   "count": 49,
+   "name": "Macua",
+   "signLang": false,
+   "writeLang": [ "MAC" ]
+  },
+  "MAI": {
+   "count": 4,
+   "name": "Mazatec (Ixcatlán)",
+   "signLang": false,
+   "writeLang": [ "MAI" ]
+  },
+  "MAJ": {
+   "count": 4,
+   "name": "Mazatec (Jalapa de Díaz)",
+   "signLang": false,
+   "writeLang": [ "MAJ" ]
+  },
+  "MAN": {
+   "count": 3,
+   "name": "Mazatec (Mazatlán)",
+   "signLang": false,
+   "writeLang": [ "MAN" ]
+  },
+  "MAP": {
+   "count": 3,
+   "name": "Maya (Mopán)",
+   "signLang": false,
+   "writeLang": [ "MAP" ]
+  },
+  "MAS": {
+   "count": 3,
+   "name": "Mazatec (Soyaltepec)",
+   "signLang": false,
+   "writeLang": [ "MAS" ]
+  },
+  "MAY": {
+   "count": 141,
+   "name": "Maya",
+   "signLang": false,
+   "writeLang": [ "MAY" ]
+  },
+  "MAZ": {
+   "count": 45,
+   "name": "Mazatec (Huautla)",
+   "signLang": false,
+   "writeLang": [ "MAZ" ]
+  },
+  "MBA": {
+   "count": 4,
+   "name": "Moba",
+   "signLang": false,
+   "writeLang": [ "MBA" ]
+  },
+  "MBD": {
+   "count": 29,
+   "name": "Mbunda",
+   "signLang": false,
+   "writeLang": [ "MBD" ]
+  },
+  "MBL": {
+   "count": 11,
+   "name": "Mbala",
+   "signLang": false,
+   "writeLang": [ "MBL" ]
+  },
+  "MBN": {
+   "count": 3,
+   "name": "Mbangala",
+   "signLang": false,
+   "writeLang": [ "MBN" ]
+  },
+  "MC": {
+   "count": 19,
+   "name": "Macedonian",
+   "signLang": false,
+   "writeLang": [ "MC" ]
+  },
+  "MCS": {
+   "count": 3,
+   "name": "Macushi",
+   "signLang": false,
+   "writeLang": [ "MCS" ]
+  },
+  "MDO": {
+   "count": 1,
+   "name": "Maindo",
+   "signLang": false,
+   "writeLang": [ "MDO" ]
+  },
+  "MG": {
+   "count": 595,
+   "name": "Malagasy",
+   "signLang": false,
+   "writeLang": [ "MG" ]
+  },
+  "MGB": {
+   "count": 2,
+   "name": "Mangbetu",
+   "signLang": false,
+   "writeLang": [ "MGB" ]
+  },
+  "MGL": {
+   "count": 6,
+   "name": "Mingrelian",
+   "signLang": false,
+   "writeLang": [ "MGL" ]
+  },
+  "MH": {
+   "count": 17,
+   "name": "Marshallese",
+   "signLang": false,
+   "writeLang": [ "MH" ]
+  },
+  "MHM": {
+   "count": 6,
+   "name": "Makhuwa-Marrevone",
+   "signLang": false,
+   "writeLang": [ "MHM" ]
+  },
+  "MHS": {
+   "count": 22,
+   "name": "Makhuwa-Shirima",
+   "signLang": false,
+   "writeLang": [ "MHS" ]
+  },
+  "MI": {
+   "count": 2,
+   "name": "Manipuri",
+   "signLang": false,
+   "writeLang": [ "MI" ]
+  },
+  "MIS": {
+   "count": 21,
+   "name": "Miskito",
+   "signLang": false,
+   "writeLang": [ "MIS" ]
+  },
+  "MJK": {
+   "count": 2,
+   "name": "Mandjak",
+   "signLang": false,
+   "writeLang": [ "MJK" ]
+  },
+  "MK": {
+   "count": 299,
+   "name": "Kongo",
+   "signLang": false,
+   "writeLang": [ "MK" ]
+  },
+  "MKA": {
+   "count": 3,
+   "name": "Makaa",
+   "signLang": false,
+   "writeLang": [ "MKA" ]
+  },
+  "MKD": {
+   "count": 5,
+   "name": "Makonde",
+   "signLang": false,
+   "writeLang": [ "MKD" ]
+  },
+  "ML": {
+   "count": 50,
+   "name": "Malay",
+   "signLang": false,
+   "writeLang": [ "ML" ]
+  },
+  "MM": {
+   "count": 21,
+   "name": "Moore",
+   "signLang": false,
+   "writeLang": [ "MM" ]
+  },
+  "MNB": {
+   "count": 1,
+   "name": "Manobo (Sarangani)",
+   "signLang": false,
+   "writeLang": [ "MNB" ]
+  },
+  "MNC": {
+   "count": 2,
+   "name": "Mnong (Central)",
+   "signLang": false,
+   "writeLang": [ "MNC" ]
+  },
+  "MNJ": {
+   "count": 3,
+   "name": "Mandja",
+   "signLang": false,
+   "writeLang": [ "MNJ" ]
+  },
+  "MNN": {
+   "count": 1,
+   "name": "Kimanyanga",
+   "signLang": false,
+   "writeLang": [ "MNN" ]
+  },
+  "MNO": {
+   "count": 2,
+   "name": "Mano",
+   "signLang": false,
+   "writeLang": [ "MNO" ]
+  },
+  "MNS": {
+   "count": 2,
+   "name": "Melanesian Sign Language",
+   "signLang": true,
+   "writeLang": [ "MNS" ]
+  },
+  "MNT": {
+   "count": 5,
+   "name": "Montenegrin",
+   "signLang": false,
+   "writeLang": [ "MNT" ]
+  },
+  "MO": {
+   "count": 21,
+   "name": "Hiri Motu",
+   "signLang": false,
+   "writeLang": [ "MO" ]
+  },
+  "MOU": {
+   "count": 2,
+   "name": "Moussey",
+   "signLang": false,
+   "writeLang": [ "MOU" ]
+  },
+  "MP": {
+   "count": 82,
+   "name": "Tok Pisin",
+   "signLang": false,
+   "writeLang": [ "MP" ]
+  },
+  "MPD": {
+   "count": 20,
+   "name": "Mapudungun",
+   "signLang": false,
+   "writeLang": [ "MPD" ]
+  },
+  "MQN": {
+   "count": 2,
+   "name": "Marquesian (Nuku Hiva)",
+   "signLang": false,
+   "writeLang": [ "MQN" ]
+  },
+  "MQR": {
+   "count": 1,
+   "name": "Ye’kuana",
+   "signLang": false,
+   "writeLang": [ "MQR" ]
+  },
+  "MR": {
+   "count": 43,
+   "name": "Marathi",
+   "signLang": false,
+   "writeLang": [ "MR" ]
+  },
+  "MRJ": {
+   "count": 7,
+   "name": "Marenje",
+   "signLang": false,
+   "writeLang": [ "MRJ" ]
+  },
+  "MRU": {
+   "count": 1,
+   "name": "Marúbo",
+   "signLang": false,
+   "writeLang": [ "MRU" ]
+  },
+  "MSH": {
+   "count": 3,
+   "name": "Mashi",
+   "signLang": false,
+   "writeLang": [ "MSH" ]
+  },
+  "MSL": {
+   "count": 33,
+   "name": "Malawi Sign Language",
+   "signLang": true,
+   "writeLang": [ "MSL" ]
+  },
+  "MSR": {
+   "count": 1,
+   "name": "Mongolian Sign Language",
+   "signLang": true,
+   "writeLang": [ "MSR" ]
+  },
+  "MSS": {
+   "count": 1,
+   "name": "Matses",
+   "signLang": false,
+   "writeLang": [ "MSS" ]
+  },
+  "MT": {
+   "count": 8,
+   "name": "Maltese",
+   "signLang": false,
+   "writeLang": [ "MT" ]
+  },
+  "MTA": {
+   "count": 2,
+   "name": "Meta'",
+   "signLang": false,
+   "writeLang": [ "MTA" ]
+  },
+  "MTC": {
+   "count": 30,
+   "name": "Martiniquan Creole",
+   "signLang": false,
+   "writeLang": [ "MTC" ]
+  },
+  "MTI": {
+   "count": 1,
+   "name": "Matís",
+   "signLang": false,
+   "writeLang": [ "MTI" ]
+  },
+  "MTN": {
+   "count": 12,
+   "name": "Matengo",
+   "signLang": false,
+   "writeLang": [ "MTN" ]
+  },
+  "MTS": {
+   "count": 2,
+   "name": "Mauritian Sign Language",
+   "signLang": true,
+   "writeLang": [ "MTS" ]
+  },
+  "MTU": {
+   "count": 4,
+   "name": "Motu",
+   "signLang": false,
+   "writeLang": [ "MTU" ]
+  },
+  "MWL": {
+   "count": 59,
+   "name": "Mambwe-Lungu",
+   "signLang": false,
+   "writeLang": [ "MWL" ]
+  },
+  "MWM": {
+   "count": 13,
+   "name": "Makhuwa-Meetto",
+   "signLang": false,
+   "writeLang": [ "MWM" ]
+  },
+  "MX": {
+   "count": 11,
+   "name": "Mixe (North Central)",
+   "signLang": false,
+   "writeLang": [ "MX" ]
+  },
+  "MXA": {
+   "count": 3,
+   "name": "Mixtec (Apoala)",
+   "signLang": false,
+   "writeLang": [ "MXA" ]
+  },
+  "MXC": {
+   "count": 7,
+   "name": "Mixtec (Costa)",
+   "signLang": false,
+   "writeLang": [ "MXC" ]
+  },
+  "MXE": {
+   "count": 1,
+   "name": "Mixtec (Mixtepec)",
+   "signLang": false,
+   "writeLang": [ "MXE" ]
+  },
+  "MXG": {
+   "count": 20,
+   "name": "Mixtec (Guerrero)",
+   "signLang": false,
+   "writeLang": [ "MXG" ]
+  },
+  "MXH": {
+   "count": 3,
+   "name": "Mixe (Tlahuitoltepec)",
+   "signLang": false,
+   "writeLang": [ "MXH" ]
+  },
+  "MXI": {
+   "count": 5,
+   "name": "Mixe (Isthmus)",
+   "signLang": false,
+   "writeLang": [ "MXI" ]
+  },
+  "MXN": {
+   "count": 4,
+   "name": "Mixtec (Tilantongo)",
+   "signLang": false,
+   "writeLang": [ "MXN" ]
+  },
+  "MXO": {
+   "count": 8,
+   "name": "Mixtec (Huajuapan)",
+   "signLang": false,
+   "writeLang": [ "MXO" ]
+  },
+  "MXP": {
+   "count": 4,
+   "name": "Mixtec (Peñoles)",
+   "signLang": false,
+   "writeLang": [ "MXP" ]
+  },
+  "MXT": {
+   "count": 16,
+   "name": "Mixtec (Tlaxiaco)",
+   "signLang": false,
+   "writeLang": [ "MXT" ]
+  },
+  "MY": {
+   "count": 223,
+   "name": "Malayalam",
+   "signLang": false,
+   "writeLang": [ "MY" ]
+  },
+  "MYG": {
+   "count": 1,
+   "name": "Mayangna",
+   "signLang": false,
+   "writeLang": [ "MYG" ]
+  },
+  "MYO": {
+   "count": 12,
+   "name": "Mayo",
+   "signLang": false,
+   "writeLang": [ "MYO" ]
+  },
+  "MYW": {
+   "count": 13,
+   "name": "Manyawa",
+   "signLang": false,
+   "writeLang": [ "MYW" ]
+  },
+  "MZ": {
+   "count": 21,
+   "name": "Mam",
+   "signLang": false,
+   "writeLang": [ "MZ" ]
+  },
+  "MZH": {
+   "count": 15,
+   "name": "Mazahua",
+   "signLang": false,
+   "writeLang": [ "MZH" ]
+  },
+  "N": {
+   "count": 155,
+   "name": "Norwegian",
+   "signLang": false,
+   "writeLang": [ "N" ]
+  },
+  "NA": {
+   "count": 1,
+   "name": "Nama",
+   "signLang": false,
+   "writeLang": [ "NA" ]
+  },
+  "NBL": {
+   "count": 28,
+   "name": "Ndebele",
+   "signLang": false,
+   "writeLang": [ "NBL" ]
+  },
+  "NBZ": {
+   "count": 152,
+   "name": "Ndebele (Zimbabwe)",
+   "signLang": false,
+   "writeLang": [ "NBZ" ]
+  },
+  "NC": {
+   "count": 3,
+   "name": "Nicobarese",
+   "signLang": false,
+   "writeLang": [ "NC" ]
+  },
+  "NDA": {
+   "count": 21,
+   "name": "Ndau",
+   "signLang": false,
+   "writeLang": [ "NDA" ]
+  },
+  "NDF": {
+   "count": 1,
+   "name": "Norwegian Sign Language",
+   "signLang": true,
+   "writeLang": [ "NDF" ]
+  },
+  "NDV": {
+   "count": 1,
+   "name": "Sindhi (Devanagari)",
+   "signLang": false,
+   "writeLang": [ "NDV" ]
+  },
+  "NDW": {
+   "count": 15,
+   "name": "Ndau (Western)",
+   "signLang": false,
+   "writeLang": [ "NDW" ]
+  },
+  "NEN": {
+   "count": 147,
+   "name": "Nsenga (Zambia)",
+   "signLang": false,
+   "writeLang": [ "NEN" ]
+  },
+  "NG": {
+   "count": 7,
+   "name": "Ngambaye",
+   "signLang": false,
+   "writeLang": [ "NG" ]
+  },
+  "NGB": {
+   "count": 36,
+   "name": "Ngabere",
+   "signLang": false,
+   "writeLang": [ "NGB" ]
+  },
+  "NGD": {
+   "count": 1,
+   "name": "Nagamese",
+   "signLang": false,
+   "writeLang": [ "NGD" ]
+  },
+  "NGK": {
+   "count": 6,
+   "name": "Ngbaka",
+   "signLang": false,
+   "writeLang": [ "NGK" ]
+  },
+  "NGL": {
+   "count": 12,
+   "name": "Ngangela",
+   "signLang": false,
+   "writeLang": [ "NGL" ]
+  },
+  "NGM": {
+   "count": 4,
+   "name": "Ngigua (San Marcos Tlacoyalco)",
+   "signLang": false,
+   "writeLang": [ "NGM" ]
+  },
+  "NGN": {
+   "count": 29,
+   "name": "Ngbandi (Northern)",
+   "signLang": false,
+   "writeLang": [ "NGN" ]
+  },
+  "NGP": {
+   "count": 2,
+   "name": "Nigerian Pidgin",
+   "signLang": false,
+   "writeLang": [ "NGP" ]
+  },
+  "NGT": {
+   "count": 5,
+   "name": "Dutch Sign Language",
+   "signLang": true,
+   "writeLang": [ "NGT" ]
+  },
+  "NHC": {
+   "count": 67,
+   "name": "Nahuatl (Central)",
+   "signLang": false,
+   "writeLang": [ "NHC" ]
+  },
+  "NHG": {
+   "count": 49,
+   "name": "Nahuatl (Guerrero)",
+   "signLang": false,
+   "writeLang": [ "NHG" ]
+  },
+  "NHH": {
+   "count": 90,
+   "name": "Nahuatl (Huasteca)",
+   "signLang": false,
+   "writeLang": [ "NHH" ]
+  },
+  "NHT": {
+   "count": 30,
+   "name": "Nahuatl (Northern Puebla)",
+   "signLang": false,
+   "writeLang": [ "NHT" ]
+  },
+  "NHV": {
+   "count": 12,
+   "name": "Nahuatl (Veracruz)",
+   "signLang": false,
+   "writeLang": [ "NHV" ]
+  },
+  "NI": {
+   "count": 5,
+   "name": "Nias",
+   "signLang": false,
+   "writeLang": [ "NI" ]
+  },
+  "NJB": {
+   "count": 2,
+   "name": "Njebi",
+   "signLang": false,
+   "writeLang": [ "NJB" ]
+  },
+  "NK": {
+   "count": 62,
+   "name": "Nyaneka",
+   "signLang": false,
+   "writeLang": [ "NK" ]
+  },
+  "NKN": {
+   "count": 8,
+   "name": "Kyangonde",
+   "signLang": false,
+   "writeLang": [ "NKN" ]
+  },
+  "NKY": {
+   "count": 10,
+   "name": "Nkoya",
+   "signLang": false,
+   "writeLang": [ "NKY" ]
+  },
+  "NM": {
+   "count": 51,
+   "name": "Cinamwanga",
+   "signLang": false,
+   "writeLang": [ "NM" ]
+  },
+  "NN": {
+   "count": 2,
+   "name": "Niuean",
+   "signLang": false,
+   "writeLang": [ "NN" ]
+  },
+  "NNS": {
+   "count": 121,
+   "name": "Nigerian Sign Language",
+   "signLang": true,
+   "writeLang": [ "NNS" ]
+  },
+  "NP": {
+   "count": 141,
+   "name": "Nepali",
+   "signLang": false,
+   "writeLang": [ "NP" ]
+  },
+  "NR": {
+   "count": 1,
+   "name": "Nauruan",
+   "signLang": false,
+   "writeLang": [ "NR" ]
+  },
+  "NSL": {
+   "count": 1,
+   "name": "Nepali Sign Language",
+   "signLang": true,
+   "writeLang": [ "NSL" ]
+  },
+  "NSM": {
+   "count": 50,
+   "name": "Nsenga (Mozambique)",
+   "signLang": false,
+   "writeLang": [ "NSM" ]
+  },
+  "NV": {
+   "count": 12,
+   "name": "Navajo",
+   "signLang": false,
+   "writeLang": [ "NV" ]
+  },
+  "NVC": {
+   "count": 2,
+   "name": "Nivaclé",
+   "signLang": false,
+   "writeLang": [ "NVC" ]
+  },
+  "NYG": {
+   "count": 1,
+   "name": "Nyengo",
+   "signLang": false,
+   "writeLang": [ "NYG" ]
+  },
+  "NYU": {
+   "count": 61,
+   "name": "Nyungwe",
+   "signLang": false,
+   "writeLang": [ "NYU" ]
+  },
+  "NZ": {
+   "count": 36,
+   "name": "Nzema",
+   "signLang": false,
+   "writeLang": [ "NZ" ]
+  },
+  "NZS": {
+   "count": 13,
+   "name": "New Zealand Sign Language",
+   "signLang": true,
+   "writeLang": [ "NZS" ]
+  },
+  "O": {
+   "count": 555,
+   "name": "Dutch",
+   "signLang": false,
+   "writeLang": [ "O" ]
+  },
+  "OA": {
+   "count": 35,
+   "name": "Afan Oromo",
+   "signLang": false,
+   "writeLang": [ "OA" ]
+  },
+  "OB": {
+   "count": 8,
+   "name": "To'abaita",
+   "signLang": false,
+   "writeLang": [ "OB" ]
+  },
+  "OBL": {
+   "count": 2,
+   "name": "Obolo",
+   "signLang": false,
+   "writeLang": [ "OBL" ]
+  },
+  "OD": {
+   "count": 4,
+   "name": "Ndonga",
+   "signLang": false,
+   "writeLang": [ "OD" ]
+  },
+  "ODW": {
+   "count": 1,
+   "name": "Odawa",
+   "signLang": false,
+   "writeLang": [ "ODW" ]
+  },
+  "OG": {
+   "count": 22,
+   "name": "Khana",
+   "signLang": false,
+   "writeLang": [ "OG" ]
+  },
+  "OGS": {
+   "count": 7,
+   "name": "Austrian Sign Language",
+   "signLang": true,
+   "writeLang": [ "OGS" ]
+  },
+  "OI": {
+   "count": 5,
+   "name": "Odia",
+   "signLang": false,
+   "writeLang": [ "OI" ]
+  },
+  "OKP": {
+   "count": 21,
+   "name": "Okpe",
+   "signLang": false,
+   "writeLang": [ "OKP" ]
+  },
+  "OM": {
+   "count": 2,
+   "name": "Loma",
+   "signLang": false,
+   "writeLang": [ "OM" ]
+  },
+  "ORK": {
+   "count": 2,
+   "name": "Orokaiva",
+   "signLang": false,
+   "writeLang": [ "ORK" ]
+  },
+  "ORR": {
+   "count": 4,
+   "name": "Mahorian (Roman)",
+   "signLang": false,
+   "writeLang": [ "ORR" ]
+  },
+  "OS": {
+   "count": 2,
+   "name": "Kosraean",
+   "signLang": false,
+   "writeLang": [ "OS" ]
+  },
+  "OT": {
+   "count": 205,
+   "name": "Otetela",
+   "signLang": false,
+   "writeLang": [ "OT" ]
+  },
+  "OTE": {
+   "count": 6,
+   "name": "Otomi (Eastern Highland)",
+   "signLang": false,
+   "writeLang": [ "OTE" ]
+  },
+  "OTM": {
+   "count": 11,
+   "name": "Otomi (Mezquital Valley)",
+   "signLang": false,
+   "writeLang": [ "OTM" ]
+  },
+  "OTS": {
+   "count": 9,
+   "name": "Otomi (State of Mexico)",
+   "signLang": false,
+   "writeLang": [ "OTS" ]
+  },
+  "OU": {
+   "count": 3,
+   "name": "Moundang",
+   "signLang": false,
+   "writeLang": [ "OU" ]
+  },
+  "P": {
+   "count": 1472,
+   "name": "Polish",
+   "signLang": false,
+   "writeLang": [ "P" ]
+  },
+  "PA": {
+   "count": 42,
+   "name": "Papiamento (Curaçao)",
+   "signLang": false,
+   "writeLang": [ "PA" ]
+  },
+  "PAA": {
+   "count": 7,
+   "name": "Papiamento (Aruba)",
+   "signLang": false,
+   "writeLang": [ "PAA" ]
+  },
+  "PAM": {
+   "count": 2,
+   "name": "Pame (South)",
+   "signLang": false,
+   "writeLang": [ "PAM" ]
+  },
+  "PAZ": {
+   "count": 1,
+   "name": "Páez",
+   "signLang": false,
+   "writeLang": [ "PAZ" ]
+  },
+  "PDF": {
+   "count": 47,
+   "name": "Polish Sign Language",
+   "signLang": true,
+   "writeLang": [ "PDF" ]
+  },
+  "PGW": {
+   "count": 1523,
+   "name": "Pidgin (West Africa)",
+   "signLang": false,
+   "writeLang": [ "PGW" ]
+  },
+  "PH": {
+   "count": 1,
+   "name": "Pashto",
+   "signLang": false,
+   "writeLang": [ "PH" ]
+  },
+  "PHM": {
+   "count": 17,
+   "name": "Phimbi",
+   "signLang": false,
+   "writeLang": [ "PHM" ]
+  },
+  "PHN": {
+   "count": 4,
+   "name": "Pehuenche",
+   "signLang": false,
+   "writeLang": [ "PHN" ]
+  },
+  "PJ": {
+   "count": 95,
+   "name": "Punjabi",
+   "signLang": false,
+   "writeLang": [ "PJ" ]
+  },
+  "PJN": {
+   "count": 4,
+   "name": "Punjabi (Shahmukhi)",
+   "signLang": false,
+   "writeLang": [ "PJN" ]
+  },
+  "PLG": {
+   "count": 1,
+   "name": "Pilagá",
+   "signLang": false,
+   "writeLang": [ "PLG" ]
+  },
+  "PLK": {
+   "count": 1,
+   "name": "Palikúr",
+   "signLang": false,
+   "writeLang": [ "PLK" ]
+  },
+  "PLR": {
+   "count": 5,
+   "name": "Pular",
+   "signLang": false,
+   "writeLang": [ "PLR" ]
+  },
+  "PMN": {
+   "count": 3,
+   "name": "Pemon",
+   "signLang": false,
+   "writeLang": [ "PMN" ]
+  },
+  "PMR": {
+   "count": 11,
+   "name": "Pomeranian",
+   "signLang": false,
+   "writeLang": [ "PMR" ]
+  },
+  "PN": {
+   "count": 70,
+   "name": "Pangasinan",
+   "signLang": false,
+   "writeLang": [ "PN" ]
+  },
+  "PP": {
+   "count": 1,
+   "name": "Ponapean",
+   "signLang": false,
+   "writeLang": [ "PP" ]
+  },
+  "PPG": {
+   "count": 2,
+   "name": "O’odham (Tohono)",
+   "signLang": false,
+   "writeLang": [ "PPG" ]
+  },
+  "PPS": {
+   "count": 1,
+   "name": "Popoluca (Sayula)",
+   "signLang": false,
+   "writeLang": [ "PPS" ]
+  },
+  "PPU": {
+   "count": 8,
+   "name": "Popoluca (Highland)",
+   "signLang": false,
+   "writeLang": [ "PPU" ]
+  },
+  "PQM": {
+   "count": 4,
+   "name": "Poqomchi'",
+   "signLang": false,
+   "writeLang": [ "PQM" ]
+  },
+  "PR": {
+   "count": 122,
+   "name": "Persian",
+   "signLang": false,
+   "writeLang": [ "PR" ]
+  },
+  "PRA": {
+   "count": 4,
+   "name": "Piaroa",
+   "signLang": false,
+   "writeLang": [ "PRA" ]
+  },
+  "PSL": {
+   "count": 20,
+   "name": "Panamanian Sign Language",
+   "signLang": true,
+   "writeLang": [ "PSL" ]
+  },
+  "PTG": {
+   "count": 57,
+   "name": "Portuguese",
+   "signLang": false,
+   "writeLang": [ "PTG" ]
+  },
+  "PU": {
+   "count": 1,
+   "name": "Palauan",
+   "signLang": false,
+   "writeLang": [ "PU" ]
+  },
+  "PUN": {
+   "count": 2,
+   "name": "Punu",
+   "signLang": false,
+   "writeLang": [ "PUN" ]
+  },
+  "Q": {
+   "count": 11,
+   "name": "Hebrew",
+   "signLang": false,
+   "writeLang": [ "Q" ]
+  },
+  "QC": {
+   "count": 23,
+   "name": "Quiche",
+   "signLang": false,
+   "writeLang": [ "QC" ]
+  },
+  "QCC": {
+   "count": 3,
+   "name": "Quichua (Cañar)",
+   "signLang": false,
+   "writeLang": [ "QCC" ]
+  },
+  "QIB": {
+   "count": 1,
+   "name": "Quichua (Chibuleo)",
+   "signLang": false,
+   "writeLang": [ "QIB" ]
+  },
+  "QIC": {
+   "count": 21,
+   "name": "Quichua (Chimborazo)",
+   "signLang": false,
+   "writeLang": [ "QIC" ]
+  },
+  "QII": {
+   "count": 11,
+   "name": "Quichua (Imbabura)",
+   "signLang": false,
+   "writeLang": [ "QII" ]
+  },
+  "QIP": {
+   "count": 2,
+   "name": "Quichua (Pastaza)",
+   "signLang": false,
+   "writeLang": [ "QIP" ]
+  },
+  "QIS": {
+   "count": 3,
+   "name": "Quichua (Santiago del Estero)",
+   "signLang": false,
+   "writeLang": [ "QIS" ]
+  },
+  "QIT": {
+   "count": 7,
+   "name": "Quichua (Tena)",
+   "signLang": false,
+   "writeLang": [ "QIT" ]
+  },
+  "QIX": {
+   "count": 5,
+   "name": "Quichua (Cotopaxi)",
+   "signLang": false,
+   "writeLang": [ "QIX" ]
+  },
+  "QNJ": {
+   "count": 2,
+   "name": "Q'anjob'al",
+   "signLang": false,
+   "writeLang": [ "QNJ" ]
+  },
+  "QSL": {
+   "count": 1,
+   "name": "Israeli Sign Language",
+   "signLang": true,
+   "writeLang": [ "QSL" ]
+  },
+  "QU": {
+   "count": 56,
+   "name": "Quechua (Cuzco)",
+   "signLang": false,
+   "writeLang": [ "QU" ]
+  },
+  "QUA": {
+   "count": 77,
+   "name": "Quechua (Ayacucho)",
+   "signLang": false,
+   "writeLang": [ "QUA" ]
+  },
+  "QUB": {
+   "count": 151,
+   "name": "Quechua (Bolivia)",
+   "signLang": false,
+   "writeLang": [ "QUB" ]
+  },
+  "QUC": {
+   "count": 1,
+   "name": "Quechua (Cajamarca)",
+   "signLang": false,
+   "writeLang": [ "QUC" ]
+  },
+  "QUH": {
+   "count": 3,
+   "name": "Quechua (Huaylla Wanca)",
+   "signLang": false,
+   "writeLang": [ "QUH" ]
+  },
+  "QUL": {
+   "count": 13,
+   "name": "Quechua (Huallaga Huánuco)",
+   "signLang": false,
+   "writeLang": [ "QUL" ]
+  },
+  "QUM": {
+   "count": 3,
+   "name": "Quechua (Lambayeque)",
+   "signLang": false,
+   "writeLang": [ "QUM" ]
+  },
+  "QUN": {
+   "count": 38,
+   "name": "Quechua (Ancash)",
+   "signLang": false,
+   "writeLang": [ "QUN" ]
+  },
+  "RA": {
+   "count": 3,
+   "name": "Rarotongan",
+   "signLang": false,
+   "writeLang": [ "RA" ]
+  },
+  "RBH": {
+   "count": 3,
+   "name": "Romany (Bosnia and Herzegovina)",
+   "signLang": false,
+   "writeLang": [ "RBH" ]
+  },
+  "RCR": {
+   "count": 21,
+   "name": "Réunion Creole",
+   "signLang": false,
+   "writeLang": [ "RCR" ]
+  },
+  "RD": {
+   "count": 30,
+   "name": "Kurdish Kurmanji",
+   "signLang": false,
+   "writeLang": [ "RD" ]
+  },
+  "RDC": {
+   "count": 3,
+   "name": "Kurdish Kurmanji (Cyrillic)",
+   "signLang": false,
+   "writeLang": [ "RDC" ]
+  },
+  "RDU": {
+   "count": 2,
+   "name": "Kurdish Kurmanji (Caucasus)",
+   "signLang": false,
+   "writeLang": [ "RDU" ]
+  },
+  "RE": {
+   "count": 1,
+   "name": "Nengone",
+   "signLang": false,
+   "writeLang": [ "RE" ]
+  },
+  "REA": {
+   "count": 137,
+   "name": "Armenian",
+   "signLang": false,
+   "writeLang": [ "REA" ]
+  },
+  "RHS": {
+   "count": 1,
+   "name": "Romansh (Sursilvan)",
+   "signLang": false,
+   "writeLang": [ "RHS" ]
+  },
+  "RM": {
+   "count": 12,
+   "name": "Romany (Macedonia)",
+   "signLang": false,
+   "writeLang": [ "RM" ]
+  },
+  "RMA": {
+   "count": 13,
+   "name": "Romany (Argentina)",
+   "signLang": false,
+   "writeLang": [ "RMA" ]
+  },
+  "RMB": {
+   "count": 25,
+   "name": "Romany (Bulgaria)",
+   "signLang": false,
+   "writeLang": [ "RMB" ]
+  },
+  "RMC": {
+   "count": 4,
+   "name": "Romany (Macedonia) Cyrillic",
+   "signLang": false,
+   "writeLang": [ "RMC" ]
+  },
+  "RME": {
+   "count": 31,
+   "name": "Romany (Serbia)",
+   "signLang": false,
+   "writeLang": [ "RME" ]
+  },
+  "RMF": {
+   "count": 2,
+   "name": "Romany (France)",
+   "signLang": false,
+   "writeLang": [ "RMF" ]
+  },
+  "RMG": {
+   "count": 29,
+   "name": "Romany (Southern Greece)",
+   "signLang": false,
+   "writeLang": [ "RMG" ]
+  },
+  "RMH": {
+   "count": 6,
+   "name": "Romany (Chile)",
+   "signLang": false,
+   "writeLang": [ "RMH" ]
+  },
+  "RML": {
+   "count": 14,
+   "name": "Romany (Albania)",
+   "signLang": false,
+   "writeLang": [ "RML" ]
+  },
+  "RMN": {
+   "count": 3,
+   "name": "Romany (Northern Greece)",
+   "signLang": false,
+   "writeLang": [ "RMN" ]
+  },
+  "RMR": {
+   "count": 26,
+   "name": "Romany (Romania)",
+   "signLang": false,
+   "writeLang": [ "RMR" ]
+  },
+  "RMS": {
+   "count": 24,
+   "name": "Romany (Eastern Slovakia)",
+   "signLang": false,
+   "writeLang": [ "RMS" ]
+  },
+  "RMT": {
+   "count": 7,
+   "name": "Romany (Poland)",
+   "signLang": false,
+   "writeLang": [ "RMT" ]
+  },
+  "RMU": {
+   "count": 2,
+   "name": "Romany (Ukraine)",
+   "signLang": false,
+   "writeLang": [ "RMU" ]
+  },
+  "RMX": {
+   "count": 9,
+   "name": "Romany (Germany)",
+   "signLang": false,
+   "writeLang": [ "RMX" ]
+  },
+  "RN": {
+   "count": 39,
+   "name": "Ronga",
+   "signLang": false,
+   "writeLang": [ "RN" ]
+  },
+  "RNN": {
+   "count": 2,
+   "name": "Romanian (Vlach)",
+   "signLang": false,
+   "writeLang": [ "RNN" ]
+  },
+  "RNY": {
+   "count": 1,
+   "name": "Rumanyo",
+   "signLang": false,
+   "writeLang": [ "RNY" ]
+  },
+  "RO": {
+   "count": 1,
+   "name": "Rotuman",
+   "signLang": false,
+   "writeLang": [ "RO" ]
+  },
+  "RPN": {
+   "count": 2,
+   "name": "Rapa Nui",
+   "signLang": false,
+   "writeLang": [ "RPN" ]
+  },
+  "RR": {
+   "count": 1,
+   "name": "Runyankore",
+   "signLang": false,
+   "writeLang": [ "RR" ]
+  },
+  "RSC": {
+   "count": 14,
+   "name": "Rusyn (Carpathian)",
+   "signLang": false,
+   "writeLang": [ "RSC" ]
+  },
+  "RSL": {
+   "count": 101,
+   "name": "Russian Sign Language",
+   "signLang": true,
+   "writeLang": [ "RSL" ]
+  },
+  "RT": {
+   "count": 12,
+   "name": "Rutoro",
+   "signLang": false,
+   "writeLang": [ "RT" ]
+  },
+  "RU": {
+   "count": 54,
+   "name": "Kirundi",
+   "signLang": false,
+   "writeLang": [ "RU" ]
+  },
+  "RVM": {
+   "count": 4,
+   "name": "Romany (Moldova)",
+   "signLang": false,
+   "writeLang": [ "RVM" ]
+  },
+  "S": {
+   "count": 31340,
+   "name": "Spanish",
+   "signLang": false,
+   "writeLang": [ "S" ]
+  },
+  "SA": {
+   "count": 77,
+   "name": "Waray-Waray",
+   "signLang": false,
+   "writeLang": [ "SA" ]
+  },
+  "SAR": {
+   "count": 3,
+   "name": "Sar",
+   "signLang": false,
+   "writeLang": [ "SAR" ]
+  },
+  "SAS": {
+   "count": 40,
+   "name": "South African Sign Language",
+   "signLang": true,
+   "writeLang": [ "SAS" ]
+  },
+  "SB": {
+   "count": 27,
+   "name": "Serbian (Cyrillic)",
+   "signLang": false,
+   "writeLang": [ "SBO" ]
+  },
+  "SBF": {
+   "count": 7,
+   "name": "Belgian French Sign Language",
+   "signLang": true,
+   "writeLang": [ "SBF" ]
+  },
+  "SBN": {
+   "count": 37,
+   "name": "Serbian",
+   "signLang": false,
+   "writeLang": [ "SBN" ]
+  },
+  "SBR": {
+   "count": 1,
+   "name": "Samburu",
+   "signLang": false,
+   "writeLang": [ "SBR" ]
+  },
+  "SBS": {
+   "count": 8,
+   "name": "Serbian Sign Language",
+   "signLang": true,
+   "writeLang": [ "SBS" ]
+  },
+  "SC": {
+   "count": 5,
+   "name": "Seychelles Creole",
+   "signLang": false,
+   "writeLang": [ "SC" ]
+  },
+  "SCH": {
+   "count": 77,
+   "name": "Chilean Sign Language",
+   "signLang": true,
+   "writeLang": [ "SCH" ]
+  },
+  "SCR": {
+   "count": 23,
+   "name": "Costa Rican Sign Language",
+   "signLang": true,
+   "writeLang": [ "SCR" ]
+  },
+  "SDR": {
+   "count": 3,
+   "name": "Sadri",
+   "signLang": false,
+   "writeLang": [ "SDR" ]
+  },
+  "SE": {
+   "count": 124,
+   "name": "Sepedi",
+   "signLang": false,
+   "writeLang": [ "SE" ]
+  },
+  "SEC": {
+   "count": 72,
+   "name": "Ecuadorian Sign Language",
+   "signLang": true,
+   "writeLang": [ "SEC" ]
+  },
+  "SEN": {
+   "count": 73,
+   "name": "Sena",
+   "signLang": false,
+   "writeLang": [ "SEN" ]
+  },
+  "SFC": {
+   "count": 4,
+   "name": "Senoufo (Cebaara)",
+   "signLang": false,
+   "writeLang": [ "SFC" ]
+  },
+  "SG": {
+   "count": 70,
+   "name": "Sango",
+   "signLang": false,
+   "writeLang": [ "SG" ]
+  },
+  "SGA": {
+   "count": 1,
+   "name": "Sanga",
+   "signLang": false,
+   "writeLang": [ "SGA" ]
+  },
+  "SGM": {
+   "count": 25,
+   "name": "Songomeno",
+   "signLang": false,
+   "writeLang": [ "SGM" ]
+  },
+  "SGO": {
+   "count": 4,
+   "name": "Songo",
+   "signLang": false,
+   "writeLang": [ "SGO" ]
+  },
+  "SGS": {
+   "count": 6,
+   "name": "Swiss German Sign Language",
+   "signLang": true,
+   "writeLang": [ "SGS" ]
+  },
+  "SH": {
+   "count": 732,
+   "name": "Tshiluba",
+   "signLang": false,
+   "writeLang": [ "SH" ]
+  },
+  "SHD": {
+   "count": 1,
+   "name": "Santhali (Devanagari)",
+   "signLang": false,
+   "writeLang": [ "SHD" ]
+  },
+  "SHO": {
+   "count": 42,
+   "name": "Honduras Sign Language",
+   "signLang": true,
+   "writeLang": [ "SHO" ]
+  },
+  "SHU": {
+   "count": 8,
+   "name": "Shuar",
+   "signLang": false,
+   "writeLang": [ "SHU" ]
+  },
+  "SHW": {
+   "count": 9,
+   "name": "Sehwi",
+   "signLang": false,
+   "writeLang": [ "SHW" ]
+  },
+  "SI": {
+   "count": 164,
+   "name": "Thai",
+   "signLang": false,
+   "writeLang": [ "SI" ]
+  },
+  "SIE": {
+   "count": 2,
+   "name": "Thai (Northeastern)",
+   "signLang": false,
+   "writeLang": [ "SIE" ]
+  },
+  "SIL": {
+   "count": 11,
+   "name": "Thai Sign Language",
+   "signLang": true,
+   "writeLang": [ "SIL" ]
+  },
+  "SK": {
+   "count": 161,
+   "name": "Silozi",
+   "signLang": false,
+   "writeLang": [ "SK" ]
+  },
+  "SL": {
+   "count": 2,
+   "name": "Shilluk",
+   "signLang": false,
+   "writeLang": [ "SL" ]
+  },
+  "SLM": {
+   "count": 42,
+   "name": "Mozambican Sign Language",
+   "signLang": true,
+   "writeLang": [ "SLM" ]
+  },
+  "SLN": {
+   "count": 3,
+   "name": "Namibian Sign Language",
+   "signLang": true,
+   "writeLang": [ "SLN" ]
+  },
+  "SLP": {
+   "count": 1,
+   "name": "Palestinian Sign Language",
+   "signLang": true,
+   "writeLang": [ "SLP" ]
+  },
+  "SLS": {
+   "count": 1,
+   "name": "Sri Lankan Sign Language",
+   "signLang": true,
+   "writeLang": [ "SLS" ]
+  },
+  "SLV": {
+   "count": 4,
+   "name": "Vietnamese Sign Language",
+   "signLang": true,
+   "writeLang": [ "SLV" ]
+  },
+  "SM": {
+   "count": 39,
+   "name": "Samoan",
+   "signLang": false,
+   "writeLang": [ "SM" ]
+  },
+  "SMS": {
+   "count": 3,
+   "name": "Samoan Sign Language",
+   "signLang": true,
+   "writeLang": [ "SMS" ]
+  },
+  "SN": {
+   "count": 99,
+   "name": "Sinhala",
+   "signLang": false,
+   "writeLang": [ "SN" ]
+  },
+  "SO": {
+   "count": 6,
+   "name": "Somali",
+   "signLang": false,
+   "writeLang": [ "SO" ]
+  },
+  "SOL": {
+   "count": 6,
+   "name": "Soli",
+   "signLang": false,
+   "writeLang": [ "SOL" ]
+  },
+  "SP": {
+   "count": 22,
+   "name": "Solomon Islands Pidgin",
+   "signLang": false,
+   "writeLang": [ "SP" ]
+  },
+  "SPE": {
+   "count": 68,
+   "name": "Peruvian Sign Language",
+   "signLang": true,
+   "writeLang": [ "SPE" ]
+  },
+  "SPL": {
+   "count": 12,
+   "name": "Sepulana",
+   "signLang": false,
+   "writeLang": [ "SPL" ]
+  },
+  "SR": {
+   "count": 16,
+   "name": "Sranantongo",
+   "signLang": false,
+   "writeLang": [ "SR" ]
+  },
+  "SRM": {
+   "count": 8,
+   "name": "Saramaccan",
+   "signLang": false,
+   "writeLang": [ "SRM" ]
+  },
+  "SSA": {
+   "count": 249,
+   "name": "Sesotho (South Africa)",
+   "signLang": false,
+   "writeLang": [ "SSA" ]
+  },
+  "SSL": {
+   "count": 7,
+   "name": "Swedish Sign Language",
+   "signLang": true,
+   "writeLang": [ "SSL" ]
+  },
+  "SSU": {
+   "count": 1,
+   "name": "Suriname Sign Language",
+   "signLang": true,
+   "writeLang": [ "SSU" ]
+  },
+  "ST": {
+   "count": 35,
+   "name": "Estonian",
+   "signLang": false,
+   "writeLang": [ "ST" ]
+  },
+  "STD": {
+   "count": 2,
+   "name": "Estonian Sign Language",
+   "signLang": true,
+   "writeLang": [ "STD" ]
+  },
+  "STM": {
+   "count": 1,
+   "name": "Sateré-Mawé",
+   "signLang": false,
+   "writeLang": [ "STM" ]
+  },
+  "STN": {
+   "count": 2,
+   "name": "Sãotomense",
+   "signLang": false,
+   "writeLang": [ "STN" ]
+  },
+  "SU": {
+   "count": 91,
+   "name": "Sesotho (Lesotho)",
+   "signLang": false,
+   "writeLang": [ "SU" ]
+  },
+  "SV": {
+   "count": 28,
+   "name": "Slovenian",
+   "signLang": false,
+   "writeLang": [ "SV" ]
+  },
+  "SW": {
+   "count": 875,
+   "name": "Swahili",
+   "signLang": false,
+   "writeLang": [ "SW" ]
+  },
+  "SWI": {
+   "count": 144,
+   "name": "Swati",
+   "signLang": false,
+   "writeLang": [ "SWI" ]
+  },
+  "SWS": {
+   "count": 3,
+   "name": "Swazi Sign Language",
+   "signLang": true,
+   "writeLang": [ "SWS" ]
+  },
+  "SYL": {
+   "count": 2,
+   "name": "Sylheti (Bengali)",
+   "signLang": false,
+   "writeLang": [ "SYL" ]
+  },
+  "SZJ": {
+   "count": 2,
+   "name": "Slovenian Sign Language",
+   "signLang": true,
+   "writeLang": [ "SZJ" ]
+  },
+  "T": {
+   "count": 12423,
+   "name": "Portuguese (Brazil)",
+   "signLang": false,
+   "writeLang": [ "T" ]
+  },
+  "TAL": {
+   "count": 13,
+   "name": "Talian",
+   "signLang": false,
+   "writeLang": [ "TAL" ]
+  },
+  "TB": {
+   "count": 162,
+   "name": "Chitumbuka",
+   "signLang": false,
+   "writeLang": [ "TB" ]
+  },
+  "TBW": {
+   "count": 35,
+   "name": "Taabwa",
+   "signLang": false,
+   "writeLang": [ "TBW" ]
+  },
+  "TCN": {
+   "count": 5,
+   "name": "Ticuna",
+   "signLang": false,
+   "writeLang": [ "TCN" ]
+  },
+  "TCR": {
+   "count": 6,
+   "name": "Bissau Guinean Creole",
+   "signLang": false,
+   "writeLang": [ "TCR" ]
+  },
+  "TE": {
+   "count": 12,
+   "name": "Chuukese",
+   "signLang": false,
+   "writeLang": [ "TE" ]
+  },
+  "TEW": {
+   "count": 14,
+   "name": "Tewe",
+   "signLang": false,
+   "writeLang": [ "TEW" ]
+  },
+  "TFM": {
+   "count": 1,
+   "name": "Totonac (Filomeno Mata-Coahuitlán)",
+   "signLang": false,
+   "writeLang": [ "TFM" ]
+  },
+  "TG": {
+   "count": 1587,
+   "name": "Tagalog",
+   "signLang": false,
+   "writeLang": [ "TG" ]
+  },
+  "TH": {
+   "count": 25,
+   "name": "Tahitian",
+   "signLang": false,
+   "writeLang": [ "TH" ]
+  },
+  "TI": {
+   "count": 42,
+   "name": "Tigrinya",
+   "signLang": false,
+   "writeLang": [ "TI" ]
+  },
+  "TJO": {
+   "count": 28,
+   "name": "Tojolabal",
+   "signLang": false,
+   "writeLang": [ "TJO" ]
+  },
+  "TK": {
+   "count": 141,
+   "name": "Turkish",
+   "signLang": false,
+   "writeLang": [ "TK" ]
+  },
+  "TKL": {
+   "count": 4,
+   "name": "Turkish Sign Language",
+   "signLang": true,
+   "writeLang": [ "TKL" ]
+  },
+  "TKW": {
+   "count": 2,
+   "name": "Takwane",
+   "signLang": false,
+   "writeLang": [ "TKW" ]
+  },
+  "TL": {
+   "count": 419,
+   "name": "Tamil",
+   "signLang": false,
+   "writeLang": [ "TL" ]
+  },
+  "TLB": {
+   "count": 4,
+   "name": "Talinga-Bwisi",
+   "signLang": false,
+   "writeLang": [ "TLB" ]
+  },
+  "TLN": {
+   "count": 18,
+   "name": "Tlapanec",
+   "signLang": false,
+   "writeLang": [ "TLN" ]
+  },
+  "TMR": {
+   "count": 3,
+   "name": "Turkmen",
+   "signLang": false,
+   "writeLang": [ "TMR" ]
+  },
+  "TN": {
+   "count": 139,
+   "name": "Setswana",
+   "signLang": false,
+   "writeLang": [ "TN" ]
+  },
+  "TND": {
+   "count": 24,
+   "name": "Tandroy",
+   "signLang": false,
+   "writeLang": [ "TND" ]
+  },
+  "TNK": {
+   "count": 22,
+   "name": "Tankarana",
+   "signLang": false,
+   "writeLang": [ "TNK" ]
+  },
+  "TO": {
+   "count": 14,
+   "name": "Tongan",
+   "signLang": false,
+   "writeLang": [ "TO" ]
+  },
+  "TOB": {
+   "count": 15,
+   "name": "Toba",
+   "signLang": false,
+   "writeLang": [ "TOB" ]
+  },
+  "TOT": {
+   "count": 58,
+   "name": "Totonac",
+   "signLang": false,
+   "writeLang": [ "TOT" ]
+  },
+  "TPN": {
+   "count": 3,
+   "name": "Tepehuan (Southeastern)",
+   "signLang": false,
+   "writeLang": [ "TPN" ]
+  },
+  "TPO": {
+   "count": 3383,
+   "name": "Portuguese (Portugal)",
+   "signLang": false,
+   "writeLang": [ "TPO" ]
+  },
+  "TPR": {
+   "count": 5,
+   "name": "Toupouri",
+   "signLang": false,
+   "writeLang": [ "TPR" ]
+  },
+  "TQ": {
+   "count": 4,
+   "name": "Trique",
+   "signLang": false,
+   "writeLang": [ "TQ" ]
+  },
+  "TRH": {
+   "count": 22,
+   "name": "Tarahumara (Central)",
+   "signLang": false,
+   "writeLang": [ "TRH" ]
+  },
+  "TRS": {
+   "count": 35,
+   "name": "Tarascan",
+   "signLang": false,
+   "writeLang": [ "TRS" ]
+  },
+  "TRW": {
+   "count": 2,
+   "name": "Tarahumara (Western)",
+   "signLang": false,
+   "writeLang": [ "TRW" ]
+  },
+  "TS": {
+   "count": 115,
+   "name": "Tsonga",
+   "signLang": false,
+   "writeLang": [ "TS" ]
+  },
+  "TSL": {
+   "count": 11,
+   "name": "Taiwanese Sign Language",
+   "signLang": true,
+   "writeLang": [ "TSL" ]
+  },
+  "TTM": {
+   "count": 37,
+   "name": "Madagascar Sign Language",
+   "signLang": true,
+   "writeLang": [ "TTM" ]
+  },
+  "TTP": {
+   "count": 11,
+   "name": "Tetun Dili",
+   "signLang": false,
+   "writeLang": [ "TTP" ]
+  },
+  "TU": {
+   "count": 146,
+   "name": "Telugu",
+   "signLang": false,
+   "writeLang": [ "TU" ]
+  },
+  "TV": {
+   "count": 32,
+   "name": "Tiv",
+   "signLang": false,
+   "writeLang": [ "TV" ]
+  },
+  "TW": {
+   "count": 1705,
+   "name": "Twi",
+   "signLang": false,
+   "writeLang": [ "TW" ]
+  },
+  "TYW": {
+   "count": 1,
+   "name": "Tyrewuju",
+   "signLang": false,
+   "writeLang": [ "TYW" ]
+  },
+  "TZE": {
+   "count": 49,
+   "name": "Tzeltal",
+   "signLang": false,
+   "writeLang": [ "TZE" ]
+  },
+  "TZL": {
+   "count": 10,
+   "name": "Tanzanian Sign Language",
+   "signLang": true,
+   "writeLang": [ "TZL" ]
+  },
+  "TZO": {
+   "count": 80,
+   "name": "Tzotzil",
+   "signLang": false,
+   "writeLang": [ "TZO" ]
+  },
+  "U": {
+   "count": 1892,
+   "name": "Russian",
+   "signLang": false,
+   "writeLang": [ "U" ]
+  },
+  "UB": {
+   "count": 176,
+   "name": "Umbundu",
+   "signLang": false,
+   "writeLang": [ "UB" ]
+  },
+  "UD": {
+   "count": 24,
+   "name": "Urdu",
+   "signLang": false,
+   "writeLang": [ "UD" ]
+  },
+  "UE": {
+   "count": 2,
+   "name": "Nuer",
+   "signLang": false,
+   "writeLang": [ "UE" ]
+  },
+  "UG": {
+   "count": 4,
+   "name": "Uighur (Cyrillic)",
+   "signLang": false,
+   "writeLang": [ "UG" ]
+  },
+  "UN": {
+   "count": 6,
+   "name": "Guna",
+   "signLang": false,
+   "writeLang": [ "UN" ]
+  },
+  "UR": {
+   "count": 116,
+   "name": "Urhobo",
+   "signLang": false,
+   "writeLang": [ "UR" ]
+  },
+  "USL": {
+   "count": 5,
+   "name": "Ugandan Sign Language",
+   "signLang": true,
+   "writeLang": [ "USL" ]
+  },
+  "UU": {
+   "count": 12,
+   "name": "Meru",
+   "signLang": false,
+   "writeLang": [ "UU" ]
+  },
+  "UZ": {
+   "count": 18,
+   "name": "Uzbek",
+   "signLang": false,
+   "writeLang": [ "UZ" ]
+  },
+  "V": {
+   "count": 125,
+   "name": "Slovak",
+   "signLang": false,
+   "writeLang": [ "V" ]
+  },
+  "VCR": {
+   "count": 1,
+   "name": "Vincentian Creole",
+   "signLang": false,
+   "writeLang": [ "VCR" ]
+  },
+  "VE": {
+   "count": 35,
+   "name": "Venda",
+   "signLang": false,
+   "writeLang": [ "VE" ]
+  },
+  "VGT": {
+   "count": 3,
+   "name": "Flemish Sign Language",
+   "signLang": true,
+   "writeLang": [ "VGT" ]
+  },
+  "VL": {
+   "count": 1,
+   "name": "Tuvaluan",
+   "signLang": false,
+   "writeLang": [ "VL" ]
+  },
+  "VLC": {
+   "count": 15,
+   "name": "Valencian",
+   "signLang": false,
+   "writeLang": [ "VLC" ]
+  },
+  "VSL": {
+   "count": 13,
+   "name": "Slovak Sign Language",
+   "signLang": true,
+   "writeLang": [ "VSL" ]
+  },
+  "VT": {
+   "count": 181,
+   "name": "Vietnamese",
+   "signLang": false,
+   "writeLang": [ "VT" ]
+  },
+  "VZ": {
+   "count": 15,
+   "name": "Vezo",
+   "signLang": false,
+   "writeLang": [ "VZ" ]
+  },
+  "W": {
+   "count": 6,
+   "name": "Welsh",
+   "signLang": false,
+   "writeLang": [ "W" ]
+  },
+  "WA": {
+   "count": 3,
+   "name": "Wallisian",
+   "signLang": false,
+   "writeLang": [ "WA" ]
+  },
+  "WCH": {
+   "count": 18,
+   "name": "Wichi",
+   "signLang": false,
+   "writeLang": [ "WCH" ]
+  },
+  "WG": {
+   "count": 9,
+   "name": "Kwangali",
+   "signLang": false,
+   "writeLang": [ "WG" ]
+  },
+  "WL": {
+   "count": 11,
+   "name": "Wolaita",
+   "signLang": false,
+   "writeLang": [ "WL" ]
+  },
+  "WMM": {
+   "count": 1,
+   "name": "Waama",
+   "signLang": false,
+   "writeLang": [ "WMM" ]
+  },
+  "WNZ": {
+   "count": 2,
+   "name": "Chinese (Wenzhounese)",
+   "signLang": false,
+   "writeLang": [ "WNZ" ]
+  },
+  "WO": {
+   "count": 12,
+   "name": "Wolof",
+   "signLang": false,
+   "writeLang": [ "WO" ]
+  },
+  "WPH": {
+   "count": 1,
+   "name": "Wapishana",
+   "signLang": false,
+   "writeLang": [ "WPH" ]
+  },
+  "WRN": {
+   "count": 1,
+   "name": "Waorani",
+   "signLang": false,
+   "writeLang": [ "WRN" ]
+  },
+  "WRO": {
+   "count": 3,
+   "name": "Warao",
+   "signLang": false,
+   "writeLang": [ "WRO" ]
+  },
+  "WSL": {
+   "count": 2,
+   "name": "Botswana Sign Language",
+   "signLang": true,
+   "writeLang": [ "WSL" ]
+  },
+  "WY": {
+   "count": 23,
+   "name": "Wayuunaiki",
+   "signLang": false,
+   "writeLang": [ "WY" ]
+  },
+  "X": {
+   "count": 1989,
+   "name": "German",
+   "signLang": false,
+   "writeLang": [ "X" ]
+  },
+  "XO": {
+   "count": 308,
+   "name": "Xhosa",
+   "signLang": false,
+   "writeLang": [ "XO" ]
+  },
+  "XPA": {
+   "count": 7,
+   "name": "Pennsylvania German",
+   "signLang": false,
+   "writeLang": [ "XPA" ]
+  },
+  "XSW": {
+   "count": 110,
+   "name": "Swiss German",
+   "signLang": false,
+   "writeLang": [ "XSW" ]
+  },
+  "XV": {
+   "count": 6,
+   "name": "Xavante",
+   "signLang": false,
+   "writeLang": [ "XV" ]
+  },
+  "YA": {
+   "count": 57,
+   "name": "Chiyao",
+   "signLang": false,
+   "writeLang": [ "YA" ]
+  },
+  "YAK": {
+   "count": 5,
+   "name": "Yaka",
+   "signLang": false,
+   "writeLang": [ "YAK" ]
+  },
+  "YBS": {
+   "count": 1,
+   "name": "Yambassa",
+   "signLang": false,
+   "writeLang": [ "YBS" ]
+  },
+  "YCB": {
+   "count": 9,
+   "name": "Yacouba",
+   "signLang": false,
+   "writeLang": [ "YCB" ]
+  },
+  "YG": {
+   "count": 3,
+   "name": "Tarok",
+   "signLang": false,
+   "writeLang": [ "YG" ]
+  },
+  "YKP": {
+   "count": 2,
+   "name": "Yukpa",
+   "signLang": false,
+   "writeLang": [ "YKP" ]
+  },
+  "YMB": {
+   "count": 12,
+   "name": "Yombe",
+   "signLang": false,
+   "writeLang": [ "YMB" ]
+  },
+  "YNX": {
+   "count": 2,
+   "name": "Yanomami (Xamatari)",
+   "signLang": false,
+   "writeLang": [ "YNX" ]
+  },
+  "YP": {
+   "count": 1,
+   "name": "Yapese",
+   "signLang": false,
+   "writeLang": [ "YP" ]
+  },
+  "YQ": {
+   "count": 3,
+   "name": "Yaqui",
+   "signLang": false,
+   "writeLang": [ "YQ" ]
+  },
+  "YR": {
+   "count": 969,
+   "name": "Yoruba",
+   "signLang": false,
+   "writeLang": [ "YR" ]
+  },
+  "YU": {
+   "count": 3,
+   "name": "Central Alaskan Yupik",
+   "signLang": false,
+   "writeLang": [ "YU" ]
+  },
+  "YW": {
+   "count": 22,
+   "name": "Kinyarwanda",
+   "signLang": false,
+   "writeLang": [ "YW" ]
+  },
+  "Z": {
+   "count": 310,
+   "name": "Swedish",
+   "signLang": false,
+   "writeLang": [ "Z" ]
+  },
+  "ZAS": {
+   "count": 37,
+   "name": "Zambian Sign Language",
+   "signLang": true,
+   "writeLang": [ "ZAS" ]
+  },
+  "ZN": {
+   "count": 15,
+   "name": "Zande",
+   "signLang": false,
+   "writeLang": [ "ZN" ]
+  },
+  "ZO": {
+   "count": 3,
+   "name": "Chin (Zotung)",
+   "signLang": false,
+   "writeLang": [ "ZO" ]
+  },
+  "ZPA": {
+   "count": 1,
+   "name": "Zapotec (Amatlán)",
+   "signLang": false,
+   "writeLang": [ "ZPA" ]
+  },
+  "ZPC": {
+   "count": 2,
+   "name": "Zapotec (Quiavicuzas)",
+   "signLang": false,
+   "writeLang": [ "ZPC" ]
+  },
+  "ZPD": {
+   "count": 11,
+   "name": "Zapotec (del Valle)",
+   "signLang": false,
+   "writeLang": [ "ZPD" ]
+  },
+  "ZPG": {
+   "count": 2,
+   "name": "Zapotec (Guevea)",
+   "signLang": false,
+   "writeLang": [ "ZPG" ]
+  },
+  "ZPI": {
+   "count": 36,
+   "name": "Zapotec (Isthmus)",
+   "signLang": false,
+   "writeLang": [ "ZPI" ]
+  },
+  "ZPL": {
+   "count": 5,
+   "name": "Zapotec (Lachiguiri)",
+   "signLang": false,
+   "writeLang": [ "ZPL" ]
+  },
+  "ZPM": {
+   "count": 3,
+   "name": "Zapotec (Loxicha)",
+   "signLang": false,
+   "writeLang": [ "ZPM" ]
+  },
+  "ZPS": {
+   "count": 6,
+   "name": "Zapotec (Santiago Xanica)",
+   "signLang": false,
+   "writeLang": [ "ZPS" ]
+  },
+  "ZPT": {
+   "count": 3,
+   "name": "Zapotec (Quiatoni)",
+   "signLang": false,
+   "writeLang": [ "ZPT" ]
+  },
+  "ZPV": {
+   "count": 10,
+   "name": "Zapotec (Villa Alta)",
+   "signLang": false,
+   "writeLang": [ "ZPV" ]
+  },
+  "ZPX": {
+   "count": 8,
+   "name": "Zapotec (Ixtlán)",
+   "signLang": false,
+   "writeLang": [ "ZPX" ]
+  },
+  "ZR": {
+   "count": 1,
+   "name": "Zarma",
+   "signLang": false,
+   "writeLang": [ "ZR" ]
+  },
+  "ZS": {
+   "count": 728,
+   "name": "Swahili (Congo)",
+   "signLang": false,
+   "writeLang": [ "ZS" ]
+  },
+  "ZSL": {
+   "count": 50,
+   "name": "Zimbabwe Sign Language",
+   "signLang": true,
+   "writeLang": [ "ZSL" ]
+  },
+  "ZU": {
+   "count": 627,
+   "name": "Zulu",
+   "signLang": false,
+   "writeLang": [ "ZU" ]
+  }
+ },
  "grids": [
   "-24,-184",
   "-24,-176",

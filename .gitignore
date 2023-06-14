@@ -13,6 +13,10 @@
 /node_modules/**/lib
 /node_modules/**/example
 /node_modules/**/examples
+/node_modules/**/scss
+/node_modules/**/sass
+/node_modules/**/less
+/node_modules/**/nuget
 /node_modules/**/test
 /node_modules/**/shared
 /node_modules/bower
@@ -32,3 +36,4 @@ package-lock.json
 Meetings/Search.json
 Meetings/USATotals.json
 Meetings/Search.csv
+Meetings/history/*

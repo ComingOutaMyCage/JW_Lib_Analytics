@@ -81,6 +81,9 @@
 <script src="node_modules/@googlemaps/markerclustererplus/dist/index.min.js"></script>
 <!--<script src="https://unpkg.com/supercluster@7.1.2/dist/supercluster.min.js"></script>-->
 
+<!--<link rel="stylesheet" href="node_modules/bootstrap-select/dist/css/bootstrap-select.min.css">-->
+<!--<script src="node_modules/bootstrap-select/dist/js/bootstrap-select.min.js"></script>-->
+
 <div style="overflow: hidden;">
     <div style="display: flex; gap: 0.3rem; flex-flow: wrap;">
         <div id="stats" style="display: flex; align-items: center; gap: 1rem; flex: 1; flex-flow: wrap; min-width: 300px">
@@ -90,6 +93,7 @@
         </div>
     </div>
     <div id="mapHeader" style="display: flex; gap: 0.3rem; flex-flow: wrap;">
+        <select id="languages" name="languages" placeholder="Languages"><option value="">All Languages</option></select>
         <button class="btn btn-outline-success active" onclick="NormalMode()">Normal Mode</button>
         <button class="btn btn-outline-dark d-none d-lg-block" onclick="LoadAll()">Load All (HEAVY)</button>
         <button class="btn btn-outline-danger" onclick="LoadDeleted()">Load All Deleted</button>
@@ -106,6 +110,7 @@
     var infoWindow;
     var markers = [];
     var markerCluster;
+    var currentLanguage;
 
     var showMarkers = 1;
     var showExpectations = 0;
@@ -135,8 +140,33 @@
 <h3>Groups: ${init_data.typeTotals.GROUP}</h3>
 <h3>Pregroups: ${init_data.typeTotals.PREGROUP}</h3>
 `);
+            let cmbLang = $("#languages")[0];
+            for (let [langCode, value] of Object.entries(init_data.languages)){
+                let el = document.createElement("option");
+                el.textContent = langCode + "\t- " + value.name;
+                el.value = langCode;
+                cmbLang.appendChild(el);
+            }
+            $(cmbLang).on('change', function(){
+                currentLanguage = this.value;
+                reAddmarkers();
+            });
+            //$(cmbLang).selectpicker({'container': 'body'});
             load();
         });
+    }
+    function langToName(langCode){
+        let row = init_data.languages[langCode];
+        if (!row) return langCode;
+        return row.name;
+    }
+    function langsToNames(langCodes){
+        if (!langCodes) return "";
+        let names = [];
+        for (let langCode of langCodes){
+            names.push(langToName(langCode));
+        }
+        return names.join(", ");
     }
 
     function load() {
@@ -360,6 +390,13 @@
         for (const meeting of meetings)
         {
             allmeetings[meeting.geoId] = meeting;
+            if(currentLanguage){
+                if(meeting.properties.languageCode !== currentLanguage &&
+                    !(meeting.properties.relatedLanguageCodes && meeting.properties.relatedLanguageCodes.includes(currentLanguage)))
+                {
+                    continue;
+                }
+            }
             let marker = createMarker(meeting);
             newMarkers.push(marker);
         }
@@ -374,6 +411,10 @@
             markers[i].setMap(null);
         }
         markers = [];
+    }
+    function reAddmarkers(){
+        clearMarkers();
+        addMarkers(Object.values(allmeetings));
     }
 
     function searchLocations() {
@@ -432,11 +473,13 @@
         let properties = meeting.properties;
         let state = meeting.active ? "" : " - Deleted<br/><b>Last Seen:</b> " + new Date(meeting.lastSeen).toLocaleDateString();
         let style = meeting.active ? "" : "color:red;";
+        let lang = langToName(properties.languageCode);
+        if(properties.relatedLanguageCodes) lang += " + " + langsToNames(properties.relatedLanguageCodes);
         let html = `
 <div style="text-align: left; ${style}">
     ${properties.orgType}<br/>
     <b>${properties.orgName}</b>${state}<br/>
-    <b>Language:</b> ${properties.languageCode}<br/>
+    <b>Language:</b> ${lang}<br/>
     <b>Schedule:</b> ${properties.schedule}<br/>
     <b>Address:</b> ${properties.address}<br/>
 </div>`;

@@ -10,21 +10,21 @@
   "properties": {
    "orgName": "FUTUNA (WLF)",
    "orgType": "CONG",
-   "address": "Village de Vele\r\nRoyaume d'Alo\r\nALO\r\n",
+   "address": "Village de Vele\r\nRoyaume d'Alo\r\nALO",
    "languageCode": "FT",
    "schedule": "Sun 16:00 Wed 18:00",
    "phones": [],
    "isPrivateMtgPlace": false
   },
-  "lastVisit": "2023-05-29T08:51:22.701Z",
-  "lastSeen": "2023-05-29T08:51:22.701Z",
+  "lastVisit": "2023-06-14",
+  "lastSeen": "2023-06-14",
   "active": true,
-  "firstSeen": "2023-05-29T11:11:43.287Z"
+  "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3F27BDD8-C2FD-4855-A69C-876C9B760F39",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": false,
   "location": {
    "latitude": -13.250836,
    "longitude": -176.195451
@@ -32,23 +32,17 @@
   "properties": {
    "orgName": "WALLIS",
    "orgType": "CONG",
-   "address": "Toafa o Malae\r\nHihifo\r\nMALA'E\r\n",
+   "address": "Toafa o Malae\r\nHihifo\r\nMALA'E",
    "languageCode": "WA",
    "schedule": "Sun 17:00 Wed 18:30",
-   "relatedLanguageCodes": [
-    "F"
-   ],
-   "phones": [
-    {
-     "phone": "681 72 16 76"
-    }
-   ],
+   "relatedLanguageCodes": [ "F" ],
+   "phones": [ "681 72 16 76" ],
    "isPrivateMtgPlace": false
   },
-  "lastVisit": "2023-05-29T08:51:22.701Z",
-  "lastSeen": "2023-05-29T08:51:22.701Z",
+  "lastVisit": "2023-06-14",
+  "lastSeen": "2023-06-14",
   "active": true,
-  "firstSeen": "2023-05-29T11:11:43.287Z"
+  "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C74F4BDB-A17F-43A7-954E-3DA8A4AB9E25",
@@ -61,22 +55,16 @@
   "properties": {
    "orgName": "Groupe français de wallis - WALLIS",
    "orgType": "GROUP",
-   "address": "Toafa o Malae\r\nHihifo\r\nMALA'E\r\n",
+   "address": "Toafa o Malae\r\nHihifo\r\nMALA'E",
    "languageCode": "F",
-   "schedule": "Sun 17:00 Wed 18:30",
-   "relatedLanguageCodes": [
-    "WA"
-   ],
-   "phones": [
-    {
-     "phone": "681 72 16 76"
-    }
-   ],
+   "schedule": "Sun 09:00 Thu 18:30",
+   "relatedLanguageCodes": [ "WA" ],
+   "phones": [ "681 72 16 76" ],
    "isPrivateMtgPlace": false
   },
-  "lastVisit": "2023-05-29T08:51:22.701Z",
-  "lastSeen": "2023-05-29T08:51:22.701Z",
+  "lastVisit": "2023-06-14",
+  "lastSeen": "2023-06-14",
   "active": true,
-  "firstSeen": "2023-05-29T11:11:43.287Z"
+  "firstSeen": "2022-12-02"
  }
 ]
