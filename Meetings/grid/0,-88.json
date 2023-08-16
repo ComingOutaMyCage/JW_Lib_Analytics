@@ -2,32 +2,34 @@
  {
   "geoId": "E8CDE6EB-188F-453E-9B44-B6FBC52987E7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 0.009212,
-   "longitude": -80.08401
+   "longitude": -80.08401,
+   "iso": "ECU"
   },
   "properties": {
    "orgName": "Coaque, Pedernales, Manabí",
    "orgType": "CONG",
    "address": "--------DIRECCIÓN--------\r\nBarrio Los Almendros, sector Coaque,\r\nPedernales, MNB",
    "languageCode": "S",
-   "schedule": "Sat 17:30 Wed 17:30",
+   "schedule": "Sat 16:00 Wed 17:00",
    "phones": [ "0999636926" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B12502F6-2276-4BF5-B4EC-EC75E8217243",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 0.073905,
-   "longitude": -80.04373
+   "longitude": -80.04373,
+   "iso": "ECU"
   },
   "properties": {
    "orgName": "Sur, Pedernales, Manabí",
@@ -36,23 +38,25 @@
    "languageCode": "S",
    "schedule": "Sat 18:30 Wed 18:00",
    "phones": [
+    "+593&nbsp;052680344",
     "+593&nbsp;05-268-0344",
     "+593&nbsp;0981224076"
    ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "677746FD-43A6-4DBB-81AE-460B2570D378",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 0.073905,
-   "longitude": -80.04373
+   "longitude": -80.04373,
+   "iso": "ECU"
   },
   "properties": {
    "orgName": "Norte, Pedernales, Manabí",
@@ -61,20 +65,21 @@
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 18:00",
    "phones": [ "096 863 9280" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "75D82F54-9AA0-4809-A178-44DD8F2E362D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 0.073905,
-   "longitude": -80.04373
+   "longitude": -80.04373,
+   "iso": "ECU"
   },
   "properties": {
    "orgName": "Pedernales Señas, Pedernales, Manabí",
@@ -83,20 +88,21 @@
    "languageCode": "SEC",
    "schedule": "Sat 16:15 Tue 18:00",
    "phones": [ "0998556783" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B13CDD6B-0E9D-46FE-9E8B-AE52BFC2E320",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 0.363849,
-   "longitude": -80.037784
+   "longitude": -80.037784,
+   "iso": "ECU"
   },
   "properties": {
    "orgName": "Cojimíes, Manabí",
@@ -108,20 +114,21 @@
     "+593&nbsp;09-8778-4100",
     "+593&nbsp;02-203-5688"
    ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A5AD88D0-9481-49B9-9BE8-4F41D5F305EC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 0.608913,
-   "longitude": -80.020676
+   "longitude": -80.020676,
+   "iso": "ECU"
   },
   "properties": {
    "orgName": "Muisne, Esmeraldas",
@@ -129,21 +136,22 @@
    "address": "--------DIRECCIÓN--------\r\nCalle Manabi y\r\nCalle Sacoto\r\nFrente al Colegio Alfredo Perez\r\nMuisne, ESM",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 16:30",
-   "phones": [ "0960746737" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "0996266790" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FC9E2489-31AD-4E9D-A49A-91928D4F1877",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 7.797931,
-   "longitude": -81.259355
+   "longitude": -81.259355,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "Guarumal, Vrs.",
@@ -152,20 +160,21 @@
    "languageCode": "S",
    "schedule": "Sun 09:00 Fri 17:00",
    "phones": [ "6539-5946" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "583E3524-43C8-4B89-B795-54E926AE9331",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 7.370558,
-   "longitude": -80.801998
+   "longitude": -80.801998,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "Centro-Las Flores, Vrs.",
@@ -174,45 +183,47 @@
    "languageCode": "S",
    "schedule": "Sun 09:00 Fri 16:00",
    "phones": [ "67671099" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B9AA323C-8A7A-48CB-8D30-CEEEBDF953EE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
-   "latitude": 7.989342,
-   "longitude": -81.056987
+   "latitude": 7.95307,
+   "longitude": -81.074138,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "Central-Montijo, Vrs.",
    "orgType": "CONG",
-   "address": "Calle Hacia el Pilón S/N. Avenida Central\r\n150 metros después de la Alcaldía\r\nMontijo (Cabecera), Vrs.",
+   "address": "350 metros al notre\r\ndel I.P.T Jaime Melamed Avilés\r\nMontijo (Cabecera), Vrs.",
    "languageCode": "S",
    "schedule": "Sun 09:00 Fri 18:00",
    "phones": [
     "6830-6997",
     "6752-8760"
    ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4ADF9DA1-376B-4CC3-85C7-2FEE9FC464E5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 7.409242,
-   "longitude": -80.436284
+   "longitude": -80.436284,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "El Arenal-Tonosí, L.S.",
@@ -221,20 +232,21 @@
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 17:00",
    "phones": [ "69053901" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "363A0A83-4CCC-41B0-AD4D-0D57A023725C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 7.789038,
-   "longitude": -80.644501
+   "longitude": -80.644501,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "Centro-Los Pozos, Herr.",
@@ -243,20 +255,21 @@
    "languageCode": "S",
    "schedule": "Sun 09:00 Wed 17:30",
    "phones": [ "6646-7363" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "ADC28F61-07B0-4BDC-ADAC-05A85927DBF8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 7.961239,
-   "longitude": -80.782216
+   "longitude": -80.782216,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "Central-Ocú, Herr.",
@@ -265,20 +278,21 @@
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 18:30",
    "phones": [ "+507&nbsp;6727 4162" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A471CA95-A782-4C75-9681-302AA8302C95",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 7.736909,
-   "longitude": -80.553314
+   "longitude": -80.553314,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "San Pablo-Macaracas, L.S.",
@@ -287,20 +301,21 @@
    "languageCode": "S",
    "schedule": "Sun 09:00 Wed 18:00",
    "phones": [ "9954200" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AD4D1BB7-E9B9-4E6A-98FB-AE506376A80A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 7.77477,
-   "longitude": -80.276331
+   "longitude": -80.276331,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "Linda Vista-Las Tablas, L.S.",
@@ -309,20 +324,21 @@
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "6545 4082" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C1F10A4A-82B4-49E6-8388-F0797DDD459C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 7.77477,
-   "longitude": -80.276331
+   "longitude": -80.276331,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "Nuevo México-Las Tablas, L.S.",
@@ -331,20 +347,21 @@
    "languageCode": "S",
    "schedule": "Sat 16:00 Thu 18:00",
    "phones": [ "6582-7279" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AAC00ECE-0491-49A6-9AE7-24D793F54FD7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 7.535241,
-   "longitude": -80.028862
+   "longitude": -80.028862,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "El Naranjal-Pedasí, L.S.",
@@ -353,20 +370,21 @@
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 18:00",
    "phones": [ "507 68403318" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "471A41C4-D8E6-49AB-8480-9E1AB49DD9E1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 7.957238,
-   "longitude": -80.424445
+   "longitude": -80.424445,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "Sur-Chitré, Herr.",
@@ -375,21 +393,22 @@
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 18:30",
    "relatedLanguageCodes": [ "CHE" ],
-   "phones": [ "507-64397121 y 507-64959488" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "507-64397121 y 507-6673-3516" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1DFFC7A9-8877-41BF-B4BD-10F7E22F9C3D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 7.957238,
-   "longitude": -80.424445
+   "longitude": -80.424445,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "Norte-Chitré, Herr.",
@@ -399,20 +418,21 @@
    "schedule": "Sat 16:00 Thu 18:30",
    "relatedLanguageCodes": [ "PSL" ],
    "phones": [ "6747-0798" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E894CB41-9A1F-4C39-B803-4081313C243B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 7.957238,
-   "longitude": -80.424445
+   "longitude": -80.424445,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "Chitré chino cantonés, Herr. - Sur-Chitré, Herr.",
@@ -421,21 +441,22 @@
    "languageCode": "CHE",
    "schedule": "Sun 10:00 Fri 17:25",
    "relatedLanguageCodes": [ "S" ],
-   "phones": [ "507-64397121 y 507-64959488" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "507-64397121 y 507-6673-3516" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "05EFEB5B-6664-4E2D-AA0A-298FDA8CE805",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 7.957238,
-   "longitude": -80.424445
+   "longitude": -80.424445,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "Chitré señas, Herr. - Norte-Chitré, Herr.",
@@ -445,20 +466,21 @@
    "schedule": "Sat 16:00 Thu 18:30",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "6747-0798" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D51FBEA3-405F-4E9D-ABE4-A25533EEA6D4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 7.821546,
-   "longitude": -80.286947
+   "longitude": -80.286947,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "Bella Vista-Guararé, L.S.",
@@ -468,20 +490,21 @@
    "schedule": "Sun 10:00 Wed 18:00",
    "relatedLanguageCodes": [ "PSL" ],
    "phones": [ "67078242" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4D3B14AC-76D1-49D8-BC29-34E8B9F7DF13",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 7.821546,
-   "longitude": -80.286947
+   "longitude": -80.286947,
+   "iso": "PAN"
   },
   "properties": {
    "orgName": "Guararé señas, L.S. - Bella Vista-Guararé, L.S.",
@@ -491,11 +514,11 @@
    "schedule": "Sun 10:00 Wed 18:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "67078242" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

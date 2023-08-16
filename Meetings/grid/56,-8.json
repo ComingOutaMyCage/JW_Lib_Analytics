@@ -2,10 +2,11 @@
  {
   "geoId": "B768BBBA-14F9-467F-97CB-C187951170A9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.015424,
-   "longitude": -5.448213
+   "longitude": -5.448213,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Ardrishaig - Oban",
@@ -13,43 +14,68 @@
    "address": "55 Chalmers Street\r\nArdrishaig\r\nLOCHGILPHEAD\r\nPA30 8EY  \r\nUNITED KINGDOM",
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:15",
-   "phones": [ "07587 182012" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "07890 879427" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-06-14",
+  "active": 0,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "CE417605-CCFA-4EEA-AC48-A35B448EDD9A",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 56.015424,
+   "longitude": -5.448213,
+   "iso": "GBR"
+  },
+  "properties": {
+   "orgName": "Ardrishaig",
+   "orgType": "CONG",
+   "address": "55 Chalmers Street\nArdrishaig\nLOCHGILPHEAD\nPA30 8EY  \nUNITED KINGDOM",
+   "languageCode": "E",
+   "schedule": "Sun 10:30 Thu 19:15",
+   "phones": [ "07474350758" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
+  "firstSeen": "2023-08-16"
  },
  {
   "geoId": "96A7373A-03E4-402B-900D-26732D265248",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.444773,
-   "longitude": -5.443265
+   "longitude": -5.443265,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Oban",
    "orgType": "CONG",
-   "address": "Kingdom Hall of Jehovah's Witnesses\r\nEtive Road\r\nDunbeg\r\nOBAN\r\nPA37 1QF  \r\nUNITED KINGDOM",
+   "address": "Kingdom Hall of Jehovah's Witnesses\nEtive Road\nDunbeg\nOBAN\nPA37 1QF  \nUNITED KINGDOM",
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:15",
-   "phones": [ "07587 182012" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "07890 879427" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7D8BA43F-8278-416B-8169-DE12583BF6D3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.312234,
-   "longitude": -6.116868
+   "longitude": -6.116868,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Skye",
@@ -58,20 +84,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:15",
    "phones": [ "01478 650271" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "16F959B4-136C-4E4F-89E5-A83C70E271A7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.838051,
-   "longitude": -5.096163
+   "longitude": -5.096163,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Fort William",
@@ -80,20 +107,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "01397 712265" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C476AB17-707F-491D-A233-C6441273E4A3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 58.218191,
-   "longitude": -6.378134
+   "longitude": -6.378134,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Stornoway",
@@ -102,20 +130,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Wed 19:00",
    "phones": [ "07485 401043" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2016030F-2F9C-485A-A9F1-F7E7FB7C4186",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.12468,
-   "longitude": -3.933074
+   "longitude": -3.933074,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Stirling",
@@ -124,20 +153,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:15",
    "phones": [ "01786 464675" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "8265787F-0268-417A-B7F5-BA78BFDAB38A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.004404,
-   "longitude": -3.776366
+   "longitude": -3.776366,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Falkirk, Larbert",
@@ -146,20 +176,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:30 Thu 19:15",
    "phones": [ "07878 698934" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "D2189032-5A76-4C75-A5C4-1243398249AC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.004404,
-   "longitude": -3.776366
+   "longitude": -3.776366,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Falkirk, Central",
@@ -168,20 +199,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Tue 19:00",
    "phones": [ "07709 181021" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "122FFD2E-231F-4AE3-A2D0-FCB0ADF7A39D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.019036,
-   "longitude": -3.710133
+   "longitude": -3.710133,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Grangemouth",
@@ -190,20 +222,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "07914757333" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "1F5CF44D-1C94-4AA2-90CD-9E80B54BF8E2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.118123,
-   "longitude": -3.806313
+   "longitude": -3.806313,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Alloa",
@@ -212,20 +245,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "01259 724614" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "2247E19D-A5F1-4452-A9BF-AC1D9F586678",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.372383,
-   "longitude": -3.841686
+   "longitude": -3.841686,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Crieff",
@@ -234,20 +268,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "01764 656346" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "1F07DD45-BC2A-47B6-B12A-2F3BBE8CAC3E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.074716,
-   "longitude": -3.420923
+   "longitude": -3.420923,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Dunfermline, North",
@@ -256,20 +291,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "01383 625801" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "BC920AE8-E6FE-4195-9C8E-D3F10EFA7E0B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.074716,
-   "longitude": -3.420923
+   "longitude": -3.420923,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Dunfermline, South",
@@ -278,20 +314,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:30 Thu 19:00",
    "phones": [ "01383625801" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "48EE2E26-6B8F-4BCB-A8C7-9084A314760E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.619475,
-   "longitude": -3.862802
+   "longitude": -3.862802,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Aberfeldy",
@@ -300,20 +337,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "07802 753193" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "E46F5605-7C33-4279-A920-0B39DCCC4F04",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.11346,
-   "longitude": -3.34455
+   "longitude": -3.34455,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Cowdenbeath",
@@ -322,20 +360,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "07789774844" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "7F8D8A8C-40B4-4EFF-901C-83C2BD866E72",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.105576,
-   "longitude": -3.16055
+   "longitude": -3.16055,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Kirkcaldy",
@@ -344,20 +383,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "07717578841" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "910B9E61-2B85-4789-B913-34C5D130323A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.402076,
-   "longitude": -3.450807
+   "longitude": -3.450807,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Perth, Craigie",
@@ -366,20 +406,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "07874 238621" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "9A451008-7F3D-40B6-B997-A73F4D56D14F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.41372,
-   "longitude": -3.45003
+   "longitude": -3.45003,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Perth, North Muirton",
@@ -388,20 +429,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "07401 400769" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "8262E2BA-3D64-40C6-BD89-C054C8AB03DB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.191276,
-   "longitude": -3.1701
+   "longitude": -3.1701,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Glenrothes, Central",
@@ -410,20 +452,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:00",
    "phones": [ "07434 776414" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "C8653FB5-DC5E-4391-92A6-CC0B4523E822",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.191276,
-   "longitude": -3.1701
+   "longitude": -3.1701,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Glenrothes, North",
@@ -432,20 +475,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "07434776414" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "55885D75-7D33-4C08-A09A-01DE7B042C6C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.172481,
-   "longitude": -3.035819
+   "longitude": -3.035819,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Methil",
@@ -454,20 +498,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "07309 490026" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "60689E1A-AC18-4D3C-BE61-DA677AF3317F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.577653,
-   "longitude": -4.438722
+   "longitude": -4.438722,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Dingwall",
@@ -476,20 +521,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:30 Thu 19:15",
    "phones": [ "01349 862726" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E1627690-5DEA-4CE0-A672-7B98094AE86D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.577653,
-   "longitude": -4.438722
+   "longitude": -4.438722,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Beauly",
@@ -498,20 +544,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:15",
    "phones": [ "07862381840" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8016BCB1-E925-4EEB-8CCA-57BF7F16A2E2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.47501,
-   "longitude": -4.21816
+   "longitude": -4.21816,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Inverness, Dalneigh",
@@ -520,20 +567,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "07583605040" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2673E04D-1433-40B8-87CE-9CB9F92EBD4D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.47501,
-   "longitude": -4.21816
+   "longitude": -4.21816,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Inverness, Hilton",
@@ -542,20 +590,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "07449 866744" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DDD6C212-E7A3-47FF-884B-5EC4E7082785",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 57.47501,
-   "longitude": -4.21816
+   "longitude": -4.21816,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Inverness, Polish",
@@ -564,20 +613,21 @@
    "languageCode": "P",
    "schedule": "Sun 16:00 Tue 19:00",
    "phones": [ "07577824392" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D38A6EF3-550F-46BF-BA65-02615EEB3193",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.596962,
-   "longitude": -3.321101
+   "longitude": -3.321101,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Blairgowrie",
@@ -586,20 +636,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "01250872908" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "13AD72DC-0793-44B5-A53A-8B5D7EA83623",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.697737,
-   "longitude": -4.263434
+   "longitude": -4.263434,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Alness",
@@ -608,20 +659,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "01349 883197" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3ACB0518-AD04-4908-BD9A-4DCD8DDD2D02",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.474266,
-   "longitude": -2.998714
+   "longitude": -2.998714,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Dundee, Glenesk",
@@ -630,20 +682,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "01382 472402" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E089E2B1-AF75-4A95-86C2-3F918EB8CC09",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 56.474266,
-   "longitude": -2.998714
+   "longitude": -2.998714,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Dundee, Polish",
@@ -651,63 +704,68 @@
    "address": "Kingdom Hall of Jehovah's Witnesses\r\n46 Harefield Road\r\nDUNDEE\r\nDD3 6AT\r\nUNITED KINGDOM",
    "languageCode": "P",
    "schedule": "Sat 17:00 Wed 19:00",
-   "phones": [ "07516586477" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "07449299996" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E12EF519-710A-46B5-ACA8-52586DFEF304",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 56.473917,
-   "longitude": -2.963476
+   "longitude": -2.963476,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Dundee, Clepington",
    "orgType": "CONG",
-   "address": "44a Court Street\r\nTayside\r\nDUNDEE\r\nDD3 7QQ\r\nUNITED KINGDOM",
+   "address": "44a Court Street\nTayside\nDUNDEE\nDD3 7QQ\nUNITED KINGDOM",
    "languageCode": "E",
+   "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "01382 450124" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "7197BE33-589D-4247-A178-38C751A64B20",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 56.342197,
-   "longitude": -2.799481
+   "longitude": -2.799481,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "St Andrews",
    "orgType": "CONG",
-   "address": "Kingdom Hall of Jehovah's Witnesses\r\n13 Murray Place\r\nST. ANDREWS\r\nKY16 9AP\r\nUNITED KINGDOM",
+   "address": "Kingdom Hall of Jehovah's Witnesses\n13 Murray Place\nST. ANDREWS\nKY16 9AP\nUNITED KINGDOM",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "01334 474056" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "FDDBADCF-58E6-442C-BF0E-6FB71E91A8D8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.342197,
-   "longitude": -2.799481
+   "longitude": -2.799481,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "St Andrews Chinese (Mandarin) Group - St Andrews",
@@ -717,42 +775,44 @@
    "schedule": "Sat 10:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "01334 474056" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "9A2A7D36-C32D-4DA0-A551-C5A026F4D799",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.83117,
-   "longitude": -4.107127
+   "longitude": -4.107127,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Tain",
    "orgType": "CONG",
-   "address": "Kingdom Hall of Jehovah's Witnesses\r\nMeikle Ferry\r\nTAIN\r\nIV19 1JX  \r\nUNITED KINGDOM",
+   "address": "Kingdom Hall of Jehovah's Witnesses\r\nMeikle Ferry\r\nTAIN\r\nIV19 1JX\r\nUNITED KINGDOM",
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "07587140612" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3C354635-7928-478C-BAF0-5EF317979C11",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.652901,
-   "longitude": -2.882094
+   "longitude": -2.882094,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Forfar",
@@ -762,20 +822,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "07427 057135" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6409C03E-29DF-4F75-8245-E50AE286B871",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.557879,
-   "longitude": -2.584141
+   "longitude": -2.584141,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Arbroath",
@@ -784,20 +845,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "01241 823675" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "86DE762F-7298-4834-A40D-B20A038902AC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.609032,
-   "longitude": -3.624717
+   "longitude": -3.624717,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Forres",
@@ -806,20 +868,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "07899947593" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8CFD7010-10C3-4ABD-90AA-4C2C22721D6B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.72184,
-   "longitude": -2.48371
+   "longitude": -2.48371,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Montrose",
@@ -828,20 +891,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "0789 1446339  or  01674 674203" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "ED87AE41-C52F-470D-A8B0-87827BDD3007",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.639058,
-   "longitude": -3.293838
+   "longitude": -3.293838,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Elgin",
@@ -849,21 +913,22 @@
    "address": "Kingdom Hall of Jehovah's Witnesses\r\nLinkwood Road\r\nELGIN\r\nIV30 6DJ  \r\nUNITED KINGDOM",
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:15",
-   "phones": [ "07510492531" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "01343 555237" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1F11F138-629F-4DF9-A488-3018899343B4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.447459,
-   "longitude": -2.783877
+   "longitude": -2.783877,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Huntly",
@@ -872,20 +937,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:15",
    "phones": [ "01466 711014" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F6C7F19C-C815-4BA9-BE2E-9714F8E74DD8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.563947,
-   "longitude": -6.84344
+   "longitude": -6.84344,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Suðuroy Menighed",
@@ -894,20 +960,21 @@
    "languageCode": "FR",
    "schedule": "Sun 11:00 Tue 19:00",
    "phones": [ "+298&nbsp;374406" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8AC37FA2-4732-457C-8E3A-9A29144AE860",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.96278,
-   "longitude": -2.240558
+   "longitude": -2.240558,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Stonehaven",
@@ -916,20 +983,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "07843092295" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B850C138-65E3-4467-B3B1-979A172E967B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.234473,
-   "longitude": -2.448227
+   "longitude": -2.448227,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Kemnay",
@@ -938,20 +1006,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "07934 595389" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1BD19D33-CCF6-47BA-9D22-1AA26B971825",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.68304,
-   "longitude": -2.6977
+   "longitude": -2.6977,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Portsoy",
@@ -960,20 +1029,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "01261 843698" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6D715830-FF8D-4189-9617-3DC48F4A4664",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.1477,
-   "longitude": -2.10744
+   "longitude": -2.10744,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Aberdeen, Bucksburn",
@@ -982,20 +1052,21 @@
    "languageCode": "E",
    "schedule": "Sun 16:00 Tue 19:00",
    "phones": [ "07487 573483" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "005C85BB-6F12-4195-88F2-DD462630FA87",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.1477,
-   "longitude": -2.10744
+   "longitude": -2.10744,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Aberdeen, Deevale",
@@ -1004,20 +1075,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "07789693025" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6B16FC21-9F50-40CD-B95F-A4BE62A2A451",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 57.1477,
-   "longitude": -2.10744
+   "longitude": -2.10744,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Aberdeen, Polish",
@@ -1027,20 +1099,21 @@
    "schedule": "Sun 13:00 Wed 19:00",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "07737584254" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7816507E-475E-4AE3-8D14-324682AA96DF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.01669,
-   "longitude": -6.75572
+   "longitude": -6.75572,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Tórshavn Menighed",
@@ -1049,20 +1122,21 @@
    "languageCode": "FR",
    "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "+298 228687" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "19EA3893-1481-4D8D-99EE-D9AB30F479B0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 58.445732,
-   "longitude": -3.08528
+   "longitude": -3.08528,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Wick",
@@ -1071,20 +1145,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "07434663650" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5E8E7B73-420B-43E2-BD8F-4DF5D71404F9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.104088,
-   "longitude": -6.71889
+   "longitude": -6.71889,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Runavík Menighed",
@@ -1093,20 +1168,21 @@
    "languageCode": "FR",
    "schedule": "Sun 11:00 Tue 19:00",
    "phones": [ "+298 789701" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D64BA6F9-D2E8-4570-A3EA-601A553153D4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.225472,
-   "longitude": -6.590878
+   "longitude": -6.590878,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Klaksvík Menighed",
@@ -1115,20 +1191,21 @@
    "languageCode": "FR",
    "schedule": "Sun 11:00 Tue 19:00",
    "phones": [ "582902" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4E1A5C5D-2EE5-46B4-ACB8-7D076EDEE2D9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.695777,
-   "longitude": -2.006855
+   "longitude": -2.006855,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Fraserburgh",
@@ -1137,20 +1214,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "07977 123491" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9939FE6B-5A45-4108-9279-BE69590A7210",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.507731,
-   "longitude": -1.789662
+   "longitude": -1.789662,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Peterhead",
@@ -1159,20 +1237,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:10",
    "phones": [ "07828652284" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "298208C4-69A5-4B36-8DD6-2072EB19925E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 58.982263,
-   "longitude": -2.955624
+   "longitude": -2.955624,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Kirkwall",
@@ -1181,20 +1260,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "07707 324 687" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "673464CB-1B5C-4B0F-B340-22325C1DC721",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.190774,
-   "longitude": -1.235511
+   "longitude": -1.235511,
+   "iso": "GBR"
   },
   "properties": {
    "orgName": "Lerwick",
@@ -1203,11 +1283,11 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "01595840820" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

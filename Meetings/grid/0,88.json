@@ -2,10 +2,11 @@
  {
   "geoId": "C0666DDC-6FCA-47D3-BEE8-F228B4B4D892",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 7.007565,
-   "longitude": 93.904785
+   "longitude": 93.904785,
+   "iso": "IDN"
   },
   "properties": {
    "orgName": "Campbell Bay Hindi",
@@ -14,20 +15,21 @@
    "languageCode": "HI",
    "schedule": "Sun 17:00 Thu 17:00",
    "phones": [ "+91&nbsp;9474226259 / +91 7063969800" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "115ED254-5972-47AE-8295-456AE2644518",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 7.9768,
-   "longitude": 93.5509
+   "longitude": 93.5509,
+   "iso": "IND"
   },
   "properties": {
    "orgName": "Nancowrie Island",
@@ -36,11 +38,11 @@
    "languageCode": "NC",
    "schedule": "Sat 15:20 Thu 15:20",
    "phones": [ "9434271147 / 9531895158" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

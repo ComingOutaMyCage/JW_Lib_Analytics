@@ -2,10 +2,11 @@
  {
   "geoId": "74182D46-4C0B-44D7-A790-68FE2714F4EE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 9.516844,
-   "longitude": 138.110647
+   "longitude": 138.110647,
+   "iso": "IDN"
   },
   "properties": {
    "orgName": "Yap Congregation",
@@ -14,11 +15,11 @@
    "languageCode": "YP",
    "schedule": "Sun 09:30 Thu 18:30",
    "phones": [ "3505230" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

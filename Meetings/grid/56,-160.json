@@ -2,10 +2,11 @@
  {
   "geoId": "B71D8761-96E5-4398-8424-ECF6D93D8A05",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 57.794877,
-   "longitude": -152.380578
+   "longitude": -152.380578,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Kodiak - AK (USA)",
@@ -14,35 +15,36 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "relatedLanguageCodes": [ "TG" ],
-   "phones": [ "907-486-4606" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "907-416-7491" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BB0502A4-30A0-4A5B-98B7-8D04BB44B4F7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.794877,
-   "longitude": -152.380578
+   "longitude": -152.380578,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Tagalog - Kodiak - AK (USA)",
    "orgType": "GROUP",
    "address": "1514 Mission Rd\nKodiak AK  99615-6585",
    "languageCode": "TG",
-   "schedule": "Sun 10:00",
+   "schedule": "Sun 10:00 undefined null",
    "relatedLanguageCodes": [ "E" ],
-   "phones": [ "907-486-4606" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "907-416-7491" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-05-29"
  }
 ]

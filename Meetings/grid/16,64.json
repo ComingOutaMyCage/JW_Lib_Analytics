@@ -2,10 +2,11 @@
  {
   "geoId": "2AD40350-C8AA-4F44-AF0B-A2E7DF531BA2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 23.240385,
-   "longitude": 69.699844
+   "longitude": 69.699844,
+   "iso": "IND"
   },
   "properties": {
    "orgName": "Bhuj",
@@ -13,34 +14,35 @@
    "address": "Ramash Bhai Madhaparia, Plot No:72\r\nBapa Dayalu Nagar, Near Shanker Mandir, Junavas\r\nMadahpar\r\nBhuj  370020\r\nGJ\r\nINDIA",
    "languageCode": "GU",
    "schedule": "Sun 10:00 Thu 17:00",
-   "phones": [ "+91&nbsp;7600456646" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "+91&nbsp;8980917829" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "74386A6F-6960-4891-ABB4-2BD6FB345E0C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
-   "latitude": 22.277907,
-   "longitude": 70.785752
+   "latitude": 22.315422,
+   "longitude": 70.767067,
+   "iso": "IND"
   },
   "properties": {
    "orgName": "Rajkot Gujarati",
    "orgType": "CONG",
-   "address": "‘Dhara’, 1st floor, Shastrinagar Society\r\nBehind Rajnagar Chowk\r\nShyam Nagar\r\nRajkot  360004\r\nGJ\r\nINDIA",
+   "address": "The Spire 2, 315/316 - 3rd Floor, Nr. Sheetal Park\r\nSheetal Park B.R.T.S. Stop. Manharpura-1\r\n150 Ft. Ring Road\r\nRajkot  360007\r\nGJ\r\nINDIA",
    "languageCode": "GU",
    "schedule": "Sun 09:30 Thu 18:00",
    "phones": [ "+91&nbsp;98793 45782 / +91 79905 42365" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

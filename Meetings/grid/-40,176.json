@@ -2,10 +2,11 @@
  {
   "geoId": "F6611395-B099-4545-BFFE-7F182BD32C19",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -39.6253,
-   "longitude": 176.83853
+   "longitude": 176.83853,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Hastings East - Hastings",
@@ -14,20 +15,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0277339597" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "D150DBAD-FBA2-4BBD-8374-7399BC912E8D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -39.6253,
-   "longitude": 176.83853
+   "longitude": 176.83853,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Hastings West - Hastings",
@@ -36,20 +38,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:00 Tue 19:00",
    "phones": [ "+6469299948" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "F72AC0C0-9718-447E-802C-4E4509640EDA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -39.5121,
-   "longitude": 176.89275
+   "longitude": 176.89275,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Napier East - Napier",
@@ -57,22 +60,22 @@
    "address": "35 Wycliffe Street\nONEKAWA  4110\nNEW ZEALAND",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
-   "relatedLanguageCodes": [ "NZS" ],
    "phones": [ "022 616 7720" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DFD12164-2648-4AA9-AB58-40417877284C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -39.5121,
-   "longitude": 176.89275
+   "longitude": 176.89275,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Napier West - Napier",
@@ -82,43 +85,45 @@
    "schedule": "Sun 13:30 Tue 19:00",
    "relatedLanguageCodes": [ "SM" ],
    "phones": [ "0220430628" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FF014C39-D49D-4743-AF39-7AED5C060E26",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -39.5121,
-   "longitude": 176.89275
+   "longitude": 176.89275,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Napier West Samoan - Napier West - Napier",
    "orgType": "GROUP",
    "address": "35 Wycliffe Street\nONEKAWA  4110\nNEW ZEALAND",
    "languageCode": "SM",
-   "schedule": "Sun 13:30",
+   "schedule": "Sun 13:30 undefined null",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "0220430628" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BFBD1218-9CFC-4A52-969E-FDDE2208A64A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -38.69748,
-   "longitude": 176.10184
+   "longitude": 176.10184,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Taupo North - Taupo",
@@ -127,20 +132,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "02102516299" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "B60A8FBD-3FF4-48A9-A4D9-C47E525564BE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -38.69748,
-   "longitude": 176.10184
+   "longitude": 176.10184,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Taupo South - Taupo",
@@ -149,20 +155,21 @@
    "languageCode": "E",
    "schedule": "Sun 09:30 Tue 19:00",
    "phones": [ "+64277103240" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "E44F6B96-D259-4534-A12E-C1719A937BB2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -38.11329,
-   "longitude": 176.22782
+   "longitude": 176.22782,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Kawaha - Rotorua",
@@ -171,20 +178,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "07 347 65 63" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "798A4F74-A4EC-43B6-9E60-D720105D0E61",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -38.11329,
-   "longitude": 176.22782
+   "longitude": 176.22782,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Westbrook - Rotorua",
@@ -193,20 +201,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "07 3484189" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C5153A97-159F-460E-9A34-B418BC8E219B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -38.13397,
-   "longitude": 176.28942
+   "longitude": 176.28942,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Fenton Park - Rotorua",
@@ -215,20 +224,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "07 3454655" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5A0694BE-AB41-47BA-BB6D-0A523EE3048B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -38.45639,
-   "longitude": 176.70384
+   "longitude": 176.70384,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Murupara",
@@ -240,20 +250,21 @@
     "+64&nbsp;272846177",
     "+64&nbsp;272846177"
    ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8EE76292-E36A-4932-8299-9E74BEFABAAC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -39.03776,
-   "longitude": 177.43035
+   "longitude": 177.43035,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Wairoa",
@@ -262,20 +273,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0272418545" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "068BF308-D4DB-4150-B3AA-617AB57011F3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -37.696373,
-   "longitude": 176.145089
+   "longitude": 176.145089,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Bethlehem - Tauranga",
@@ -284,20 +296,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "0274 833 934" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "51D9B963-CDCD-4BBF-92FF-52A79624B9A1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -37.696373,
-   "longitude": 176.145089
+   "longitude": 176.145089,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Tauranga City - Tauranga",
@@ -306,20 +319,21 @@
    "languageCode": "E",
    "schedule": "Sat 13:30 Tue 19:00",
    "phones": [ "029 296 7441" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "44FA9CB7-57EE-4B89-82BD-61BEC6DC1ABA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -37.696373,
-   "longitude": 176.145089
+   "longitude": 176.145089,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Welcome Bay - Tauranga",
@@ -328,20 +342,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "+64-29-912 4277" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7C61D67B-979F-48B2-B795-17883D8E6BCF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -37.7807,
-   "longitude": 176.30899
+   "longitude": 176.30899,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Te Puke",
@@ -350,20 +365,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "021 467980" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "09AD58DD-DF25-4F29-8972-B162F77CFA6E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -37.690381,
-   "longitude": 176.264995
+   "longitude": 176.264995,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Papamoa - Tauranga",
@@ -372,20 +388,21 @@
    "languageCode": "E",
    "schedule": "Sat 13:30 Wed 19:00",
    "phones": [ "0272732430" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "03B8287F-8508-4E5D-A956-3BEBCBF3BCB6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -37.690381,
-   "longitude": 176.264995
+   "longitude": 176.264995,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Mt Maunganui - Tauranga",
@@ -394,20 +411,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "+64&nbsp;2108239790" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A86684B3-3CAC-4CA3-B0E8-3CF81DE0146F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -38.09089,
-   "longitude": 176.68114
+   "longitude": 176.68114,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Kawerau",
@@ -416,20 +434,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "0220143790" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8E4CFFC2-F937-4E81-8920-5CD8DCC0178F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -37.967084,
-   "longitude": 176.971287
+   "longitude": 176.971287,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Allandale - Whakatane",
@@ -438,20 +457,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "0274383837" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "845F1A53-32DB-4EB5-BC49-DD3B3B784518",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -37.967084,
-   "longitude": 176.971287
+   "longitude": 176.971287,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Piripai - Whakatane",
@@ -460,20 +480,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:30 Wed 19:00",
    "phones": [ "+64275172271" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "479646A3-814F-4A80-96F8-44DAC57EEF62",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -38.01438,
-   "longitude": 177.27911
+   "longitude": 177.27911,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Opotiki",
@@ -482,20 +503,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "073154090" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8F2F46B7-0D3F-4B74-9570-A1F83B0E76FC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -38.67922,
-   "longitude": 178.05183
+   "longitude": 178.05183,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Gisborne North - Gisborne",
@@ -504,20 +526,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:30 Tue 19:00",
    "phones": [ "0297705592" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4BE4FBAC-0F3B-45B8-A066-D2FAFEAE6CA8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -38.67922,
-   "longitude": 178.05183
+   "longitude": 178.05183,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Gisborne South - Gisborne",
@@ -526,20 +549,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0224515489" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D8522C84-60C2-4C90-9459-65494E8DC24B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -37.895634,
-   "longitude": 178.313394
+   "longitude": 178.313394,
+   "iso": "NZL"
   },
   "properties": {
    "orgName": "Ruatoria",
@@ -548,11 +572,11 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "02108308922" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

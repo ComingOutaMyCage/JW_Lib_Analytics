@@ -4,7 +4,8 @@
   "type": "weekly",
   "location": {
    "latitude": -30.0972907,
-   "longitude": 145.9482794
+   "longitude": 145.9482794,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Bouke",
@@ -12,18 +13,19 @@
    "address": "126 Meadows Road, Bourke, NSW",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2019-08-27",
-  "active": false,
+  "active": 0,
   "firstSeen": "2019-08-27"
  },
  {
   "geoId": "4D4A4887-A628-42CF-AEB5-5EDC1ECFBA4E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -31.707311,
-   "longitude": 148.672198
+   "longitude": 148.672198,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Gilgandra - NSW",
@@ -32,20 +34,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "0468399495 or 0401990752" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EB128755-6297-4740-8BFD-B56ED8C52D2D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -28.07479,
-   "longitude": 145.688534
+   "longitude": 145.688534,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Cunnamulla Isolated Group - Cunnamulla QLD",
@@ -54,63 +57,67 @@
    "languageCode": "E",
    "schedule": "Sat 14:00 Tue 19:00",
    "phones": [ "0426212994" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BDB29093-78DC-4456-BD7D-5F67E2433720",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -31.27567,
-   "longitude": 149.28038
+   "longitude": 149.28038,
+   "iso": "AUS"
   },
   "properties": {
-   "orgName": "Coonabarabran - NSW",
+   "orgName": "Coonabarabran Isolated Group - Coonabarabran NSW",
    "orgType": "CONG",
    "address": "14 Charles Street\nCOONABARABRAN  NSW  2357",
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "0400062969" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FF73EF9F-CB04-4999-8ADD-DD1C2F5DC0AC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -29.42337,
-   "longitude": 147.98053
+   "longitude": 147.98053,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Lightning Ridge - NSW",
    "orgType": "CONG",
    "address": "8 Kopi Street\nLIGHTNING RIDGE  NSW  2834",
    "languageCode": "E",
+   "schedule": "Sat 14:00 Wed 19:00",
    "phones": [ "0493061428" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "94184A76-5FDF-4324-A689-0E9D55ACD72E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -31.51615,
-   "longitude": 150.68867
+   "longitude": 150.68867,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Quirindi - NSW",
@@ -119,20 +126,21 @@
    "languageCode": "E",
    "schedule": "Sat 14:00 Wed 19:00",
    "phones": [ "0408623160" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0FD01445-8F25-433F-B3B4-C9155894611E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -30.99173,
-   "longitude": 150.25236
+   "longitude": 150.25236,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Gunnedah - NSW",
@@ -141,32 +149,34 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "0429688799" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "027A0FA5-99AD-4C02-BD99-8691D4831AFB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -30.33556,
-   "longitude": 149.77737
+   "longitude": 149.77737,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Narrabri Isolated Group - Narrabri NSW",
    "orgType": "CONG",
    "address": "16 Violet Street\nNARRABRI  NSW  2390",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "0428 871 346" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -174,7 +184,8 @@
   "type": "weekly",
   "location": {
    "latitude": -30.33556,
-   "longitude": 149.77737
+   "longitude": 149.77737,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Narrabri",
@@ -182,18 +193,19 @@
    "address": "16 Violet Street, Narrabri West, NSW 2390",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2017-09-01",
-  "active": false,
+  "active": 0,
   "firstSeen": "2017-09-01"
  },
  {
   "geoId": "D076CF05-4DE5-4649-87A9-F0CEB956562C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -31.12148,
-   "longitude": 150.92289
+   "longitude": 150.92289,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Tamworth East - Tamworth NSW",
@@ -202,20 +214,21 @@
    "languageCode": "E",
    "schedule": "Sat 15:30 Tue 19:00",
    "phones": [ "0407269146" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8CD0BAF3-0059-4A6A-BD72-EC1A8BE19B54",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -31.12148,
-   "longitude": 150.92289
+   "longitude": 150.92289,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Tamworth West - Tamworth NSW",
@@ -224,20 +237,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:00 Wed 19:30",
    "phones": [ "0429353900" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3DC43C65-A056-4326-A111-0FCBA27124BA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -29.488312,
-   "longitude": 149.845782
+   "longitude": 149.845782,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Moree - NSW",
@@ -246,20 +260,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0449589238" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B3E0933A-EAB2-436A-8BFC-FCA1B43E9366",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -30.97641,
-   "longitude": 151.58103
+   "longitude": 151.58103,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Walcha - NSW",
@@ -268,20 +283,21 @@
    "languageCode": "E",
    "schedule": "Sun 09:30 Thu 19:00",
    "phones": [ "0427889948" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "77A42BBE-A73A-4A9A-A2A7-2FC41D7AF632",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -24.42761,
-   "longitude": 145.46686
+   "longitude": 145.46686,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Blackall - QLD",
@@ -290,20 +306,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "0447170123" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1B67E152-5C17-4708-88A6-9330CC10E789",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -30.5297,
-   "longitude": 151.67051
+   "longitude": 151.67051,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Armidale - NSW",
@@ -312,20 +329,21 @@
    "languageCode": "E",
    "schedule": "Sat 14:30 Tue 19:00",
    "phones": [ "0407936423" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3358872B-04A3-45CE-9D7F-11E629D18193",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -29.77499,
-   "longitude": 151.12857
+   "longitude": 151.12857,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Inverell - NSW",
@@ -334,20 +352,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "0428 871 346" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FDBC631E-358B-4E70-B123-1ECC3AE3086D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -28.54465,
-   "longitude": 150.31298
+   "longitude": 150.31298,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Goondiwindi - QLD",
@@ -356,20 +375,21 @@
    "languageCode": "E",
    "schedule": "Sat 14:30 Wed 19:00",
    "phones": [ "0447316576" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "96040B2A-0ECB-4198-856D-39B44E3E982D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -29.75144,
-   "longitude": 151.73526
+   "longitude": 151.73526,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Glen Innes - NSW",
@@ -378,20 +398,21 @@
    "languageCode": "E",
    "schedule": "Sat 14:00 Wed 19:00",
    "phones": [ "0412297115" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D9C909B4-C92C-4EA3-94BC-52C2372DD6AE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -26.56287,
-   "longitude": 148.78508
+   "longitude": 148.78508,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Roma - QLD",
@@ -400,20 +421,21 @@
    "languageCode": "E",
    "schedule": "Sun 09:30 Thu 19:00",
    "phones": [ "0409881032" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1C2C29FE-055A-48C0-B00A-25168B8DF667",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -28.67628,
-   "longitude": 151.9413
+   "longitude": 151.9413,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Stanthorpe - QLD",
@@ -422,20 +444,21 @@
    "languageCode": "E",
    "schedule": "Sun 09:30 Wed 19:00",
    "phones": [ "0402 063 275" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9C3324DF-1C26-4929-8F62-004C0EFB0A29",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -27.87572,
-   "longitude": 151.27252
+   "longitude": 151.27252,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Millmerran - QLD",
@@ -444,11 +467,11 @@
    "languageCode": "E",
    "schedule": "Sat 14:30 Wed 19:00",
    "phones": [ "0428951538" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
@@ -456,7 +479,8 @@
   "type": "weekly",
   "location": {
    "latitude": -26.6548077,
-   "longitude": 150.1927365
+   "longitude": 150.1927365,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Miles",
@@ -464,39 +488,42 @@
    "address": "30 Colamba Street, Miles, QLD 4415",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2016-01-01",
-  "active": false,
+  "active": 0,
   "firstSeen": "2016-01-01"
  },
  {
   "geoId": "8209AC14-329E-4C47-AC17-BD671EC2FC94",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -26.73349,
-   "longitude": 150.63592
+   "longitude": 150.63592,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Chinchilla - QLD",
    "orgType": "CONG",
    "address": "54 King Street\nCHINCHILLA  QLD  4413",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "0419663813" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "03E31ED0-9E31-4FC2-A201-1855A76B8847",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -27.712196,
-   "longitude": 151.637841
+   "longitude": 151.637841,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Pittsworth - QLD",
@@ -505,42 +532,44 @@
    "languageCode": "E",
    "schedule": "Sat 16:00 Tue 19:00",
    "phones": [ "0467931551" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A9806CC7-B9D6-472E-BDC8-50A2CE770E7D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -27.17526,
-   "longitude": 151.23705
+   "longitude": 151.23705,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Dalby - QLD",
    "orgType": "CONG",
-   "address": "97 Spring Creek Drive\r\nDALBY  QLD  4405",
+   "address": "97 Spring Creek Drive\nDALBY  QLD  4405",
    "languageCode": "E",
    "schedule": "Sat 14:00 Tue 19:00",
    "phones": [ "0477518576" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9D55E174-815B-4E52-882F-89F45B6CA779",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -27.43128,
-   "longitude": 151.70767
+   "longitude": 151.70767,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Oakey - QLD",
@@ -549,86 +578,90 @@
    "languageCode": "E",
    "schedule": "Sat 15:00 Wed 19:00",
    "phones": [ "0467608840" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1FE2A036-1275-4F8E-A83B-70926FC47660",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -27.5997,
-   "longitude": 151.93805
+   "longitude": 151.93805,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Toowoomba East - Toowoomba QLD",
    "orgType": "CONG",
-   "address": "338 Spring Street\r\nKEARNEYS SPRING  QLD  4350",
+   "address": "338 Spring Street\nKEARNEYS SPRING  QLD  4350",
    "languageCode": "E",
    "schedule": "Sat 15:00 Tue 19:00",
    "phones": [ "0427001927" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "69640AFE-D21A-479D-9F85-46C3B95D3167",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -27.5997,
-   "longitude": 151.93805
+   "longitude": 151.93805,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Toowoomba South - Toowoomba QLD",
    "orgType": "CONG",
-   "address": "338 Spring Street\r\nKEARNEYS SPRING  QLD  4350",
+   "address": "338 Spring Street\nKEARNEYS SPRING  QLD  4350",
    "languageCode": "E",
    "schedule": "Sun 15:00 Wed 19:00",
    "phones": [ "0403 321 349" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "93C65B5C-BF1B-46C4-9BB9-6EB7CB462BF2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -27.5997,
-   "longitude": 151.93805
+   "longitude": 151.93805,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Harristown - Toowoomba QLD",
    "orgType": "CONG",
-   "address": "338 Spring Street\r\nKEARNEYS SPRING  QLD  4350",
+   "address": "338 Spring Street\nKEARNEYS SPRING  QLD  4350",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
-   "phones": [ "0418875058" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "0438 059 086" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D2ADCAED-780D-40D1-A523-8F1473BF1CD6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -27.52721,
-   "longitude": 151.92544
+   "longitude": 151.92544,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Toowoomba North - Toowoomba QLD",
@@ -637,20 +670,21 @@
    "languageCode": "E",
    "schedule": "Sat 15:00 Tue 19:30",
    "phones": [ "0432057288" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AFD3C579-9EB9-4553-B580-2AAC248B96B6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -27.52721,
-   "longitude": 151.92544
+   "longitude": 151.92544,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Wilsonton - Toowoomba QLD",
@@ -659,20 +693,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "0400932441" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "ED1D5DF5-8A82-4E77-8BAD-90BB9A50C82C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -27.14655,
-   "longitude": 151.6955
+   "longitude": 151.6955,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Peranga - QLD",
@@ -681,41 +716,44 @@
    "languageCode": "E",
    "schedule": "Sat 14:00 Tue 19:30",
    "phones": [ "0741646224" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-06-14",
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0E7E8686-1A84-4162-8E80-0DA81DAA02AB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -26.8521,
-   "longitude": 151.98947
+   "longitude": 151.98947,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Yarraman - QLD",
    "orgType": "CONG",
-   "address": "9 Desley Court\r\nYARRAMAN  QLD  4614",
+   "address": "9 Desley Court\nYARRAMAN  QLD  4614",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "0439 639 145" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "1A0B6DB0-A4DF-4F2B-9452-19266D328A80",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -26.5366,
-   "longitude": 151.85967
+   "longitude": 151.85967,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Kingaroy - QLD",
@@ -724,32 +762,34 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "0474295656" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3DDE9D8A-31EF-4870-9410-1C4BBEE8039C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -26.24731,
-   "longitude": 151.93829
+   "longitude": 151.93829,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Murgon - QLD",
    "orgType": "CONG",
    "address": "28 MacAlister Street\nMURGON  QLD  4605",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "0413232363" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -757,7 +797,8 @@
   "type": "weekly",
   "location": {
    "latitude": -25.5839635,
-   "longitude": 151.2999939
+   "longitude": 151.2999939,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Mundubbura",
@@ -765,39 +806,42 @@
    "address": "5 Landy Street, Mundubbura, Qld",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2023-04-01",
-  "active": false,
+  "active": 0,
   "firstSeen": "2023-04-01"
  },
  {
   "geoId": "A2BE0F7D-6755-4771-850A-B1DC28DDED88",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -25.61745,
-   "longitude": 151.60379
+   "longitude": 151.60379,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Gayndah - QLD",
    "orgType": "CONG",
    "address": "13 Bushnell Street\nGAYNDAH  QLD  4625",
    "languageCode": "E",
+   "schedule": "Sun 18:00 Wed 19:30",
    "phones": [ "0407138629" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "F1DCE792-CCC9-428D-B0A9-DDB3FF871C5F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -24.39146,
-   "longitude": 150.51656
+   "longitude": 150.51656,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Biloela - QLD",
@@ -809,32 +853,34 @@
     "+61&nbsp;0407582474",
     "+61&nbsp;0407582474"
    ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "591D62B2-9F76-4A1F-82F4-CE1E8E51D2F9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -24.97627,
-   "longitude": 151.95226
+   "longitude": 151.95226,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Gin Gin - QLD",
    "orgType": "CONG",
    "address": "53 Rangeview Road\nGIN GIN  QLD  4671",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0428 797 891" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  }
 ]

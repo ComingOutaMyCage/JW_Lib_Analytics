@@ -2,10 +2,11 @@
  {
   "geoId": "FC925823-323C-49BE-A2ED-9BBC75F6F93E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.97424,
-   "longitude": -5.67982
+   "longitude": -5.67982,
+   "iso": "AGO"
   },
   "properties": {
    "orgName": "Levelwood Congregation",
@@ -14,20 +15,21 @@
    "languageCode": "E",
    "schedule": "Sun 09:30 Tue 19:30",
    "phones": [ "00 290 25592" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "15C8021E-E7BF-41FF-935A-07748C74F431",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.92986,
-   "longitude": -5.71934
+   "longitude": -5.71934,
+   "iso": "AGO"
   },
   "properties": {
    "orgName": "Half Tree Hollow Congregation",
@@ -36,20 +38,21 @@
    "languageCode": "E",
    "schedule": "Sun 09:45 Wed 19:30",
    "phones": [ "290 23064" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5BF15CEC-0E7D-4364-AA74-72E2642D3527",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.951471,
-   "longitude": -5.688291
+   "longitude": -5.688291,
+   "iso": "AGO"
   },
   "properties": {
    "orgName": "Longwood Congregation",
@@ -58,11 +61,11 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "23719" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

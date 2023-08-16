@@ -2,24 +2,25 @@
  {
   "geoId": "05B621E3-1421-4C8F-A830-787B92BC8FCB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
-   "latitude": 60.79487,
-   "longitude": -161.75839
+   "latitude": 60.789889,
+   "longitude": -161.771631,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Kuskokwim - Bethel AK (USA)",
    "orgType": "CONG",
-   "address": "751 3rd Ave\r\nBethel AK  99559",
+   "address": "36 Bluff Dr\r\nBethel AK  99559",
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:00",
    "relatedLanguageCodes": [ "YU" ],
    "phones": [ "(907) 931-7996" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

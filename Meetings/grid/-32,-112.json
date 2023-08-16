@@ -2,31 +2,34 @@
  {
   "geoId": "29D29BDF-F493-41EA-948E-B15D91D04D13",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": -27.160393,
-   "longitude": -109.412848
+   "longitude": -109.412848,
+   "iso": "PER"
   },
   "properties": {
    "orgName": "Isla de Pascua",
    "orgType": "CONG",
-   "address": "Isla de Pascua, Camino público a Vaitea, Parc. 130\r\nISLA DE PASCUA  (V. VALPO)",
+   "address": "Isla de Pascua, Camino público a Vaitea, Parc. 130\nISLA DE PASCUA  (V. VALPO)",
    "languageCode": "S",
+   "schedule": "Sun 09:30 Thu 20:00",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "84C743F3-4060-4952-8081-9B2662434F88",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -27.160393,
-   "longitude": -109.412848
+   "longitude": -109.412848,
+   "iso": "PER"
   },
   "properties": {
    "orgName": "Rapa Nui Isla de Pascua - Isla de Pascua",
@@ -36,32 +39,34 @@
    "schedule": "Thu 20:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "+569 84192594" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "B957AF9E-8CDC-4B93-90AE-26CA34F03750",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -27.160393,
-   "longitude": -109.412848
+   "longitude": -109.412848,
+   "iso": "PER"
   },
   "properties": {
    "orgName": "Rapa Nui - Isla de Pascua",
    "orgType": "CONG",
-   "address": "Isla de Pascua, Camino público a Vaitea, Parc. 130\r\nISLA DE PASCUA  (V. VALPO)",
+   "address": "Isla de Pascua, Camino público a Vaitea, Parc. 130\nISLA DE PASCUA  (V. VALPO)",
    "languageCode": "RPN",
+   "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "+56990911340" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  }
 ]

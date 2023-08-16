@@ -2,8 +2,10 @@ import fetch from 'node-fetch';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
 import path from 'path';
-import wc from 'which-country';
+//import wc from 'which-country';
+import {findNearestCountry} from "./GeoLocator.js";
 import iso from 'iso-3166-1';
+import {_SaveAllMeetings, LoadJSON, SaveFile} from './Functions.js';
 
 //console.log(wc([-100, 40])); // USA
 
@@ -13,32 +15,52 @@ var allMeetings = {};
 var results = [];
 var resultsCSV = "Name\tType\tAddress\tPhone";
 
-
 let stateTotals = {};
 var byCountry = {};
 
+let codeToCountry = {};
+
 allMeetings = LoadJSON(__dirname + "/Meetings.json");
 for (const meeting of Object.values(allMeetings)){
-    if(meeting.active) continue;
-    let countryCode = wc([meeting.location.longitude, meeting.location.latitude]);
-    if(countryCode === null) continue;
+
+    // if(meeting.location.iso)
+    //     continue;
+
+    let countryCode = findNearestCountry(meeting.location.longitude, meeting.location.latitude);
+    if (countryCode === null) {
+        console.log(`Couldnt find country for ${meeting.location.latitude}, ${meeting.location.longitude} using ${meeting.location.iso} instead.`);
+        continue;
+    }
 
     let country = iso.whereAlpha3(countryCode);
+    // console.log(`Found country ${countryCode} - ${country.country} for ${meeting.location.latitude}, ${meeting.location.longitude}.`);
+    // throw '';
+
     if(!country || !country.country)
     {
         continue;
     }
-    console.log(countryCode, country);
+
+    codeToCountry[countryCode] = country.country;
+
+    meeting.location.iso = countryCode;
+
+    //console.log(countryCode, country);
     country = country.country;
 
     if(byCountry[country] === undefined)
-        byCountry[country] = 0;
-    byCountry[country]++;
+        byCountry[country] = [0, 0]
 
-    // let stateMatch = meeting.properties.orgName.match(/(\w+) \(USA\)/);
-    // if(stateMatch != null){
-    //     stateTotals[stateMatch[1]] = (stateTotals[stateMatch[1]] ?? 0) + 1;
-    // }
+    let status = meeting.active ? 0 : 1;
+    byCountry[country][status]++;
+
+    let stateMatch = meeting.properties.orgName.match(/(\w+) \(USA\)/);
+    if(stateMatch != null){
+        let state = stateMatch[1];
+        if(stateTotals[state] === undefined)
+            stateTotals[state] = [0, 0]
+        stateTotals[state][status]++;
+    }
     //
     // if (meeting.properties.orgName.indexOf("(USA)") > 0){
     //     results.push(meeting);
@@ -58,31 +80,14 @@ results = Object.keys(byCountry).sort().reduce(
 
 await SaveFile(__dirname + `/Search.json`, JSON.stringify(results, null, 1));
 await SaveFile(__dirname + `/USATotals.json`, JSON.stringify(stateTotals, null, 1));
-await SaveFile(__dirname + `/Search.csv`, resultsCSV);
+await SaveFile(__dirname + `/Search.csv`, CleanCSVContents(resultsCSV));
+await SaveFile(__dirname + `/CountryCodes.json`, JSON.stringify(codeToCountry, null, 1));
+await _SaveAllMeetings(__dirname + `/Meetings.json`, allMeetings);
 // SaveAllMeetings(allMeetings);
 // throw '';
 
-
-
-function SaveFile(filename, contents){
-    return fs.writeFile(filename + ".new", contents, (err) => {
-        if (err) {
-            console.error(err); return;
-        }
-        try
-        {
-            if (fs.existsSync(filename + ".old"))
-                fs.renameSync(filename, filename + ".old");
-            fs.renameSync(filename + ".new", filename);
-            if (fs.existsSync(filename + ".old"))
-                fs.unlinkSync(filename + ".old");
-            console.log(`${filename} has been created`);
-        } catch (ex) { console.error(ex); }
-    });
-}
-function LoadJSON(filename){
-    let json = fs.readFileSync(filename, (err) => {
-        if (err) { console.error(err); return; };
-    });
-    return JSON.parse(json);
+function CleanCSVContents(contents){
+    let reg = /\s*(\d+,?|\])/gm;
+    contents = contents.replace(reg, "$1");
+    return contents;
 }

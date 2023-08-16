@@ -2,22 +2,24 @@
  {
   "geoId": "09A9BCEF-2D6D-4A42-A944-19997D35E864",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -22.67975,
-   "longitude": 117.78588
+   "longitude": 117.78588,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Tom Price Isolated Group - Tom Price WA",
    "orgType": "CONG",
-   "address": "Cnr Killawara Street & Allambie Place\r\nTOM PRICE  WA  6751",
+   "address": "Cnr Killawara Street & Allambie Place\nTOM PRICE  WA  6751",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0406 036 641" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -25,7 +27,8 @@
   "type": "weekly",
   "location": {
    "latitude": -22.67975,
-   "longitude": 117.78588
+   "longitude": 117.78588,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Tom Price",
@@ -33,18 +36,19 @@
    "address": "318 Allambi Way, Tom Price, WA",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2019-04-01",
-  "active": false,
+  "active": 0,
   "firstSeen": "2019-04-01"
  },
  {
   "geoId": "6A952A9E-9D8A-4333-9646-D0B8CC2245CD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.74581,
-   "longitude": 116.81413
+   "longitude": 116.81413,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Karratha - WA",
@@ -53,11 +57,11 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0408 840 876" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
@@ -65,7 +69,8 @@
   "type": "weekly",
   "location": {
    "latitude": -23.3574915,
-   "longitude": 119.7303373
+   "longitude": 119.7303373,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Newman",
@@ -73,18 +78,19 @@
    "address": "13 Oswald St, Newman, WA",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2018-01-01",
-  "active": false,
+  "active": 0,
   "firstSeen": "2018-01-01"
  },
  {
   "geoId": "B7368F13-FB16-4439-B81B-8C2CB97F040C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.41929,
-   "longitude": 118.60784
+   "longitude": 118.60784,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Port Hedland - WA",
@@ -93,11 +99,11 @@
    "languageCode": "E",
    "schedule": "Sun 15:00 Thu 19:00",
    "phones": [ "0408892837" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

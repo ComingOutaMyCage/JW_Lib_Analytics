@@ -2,10 +2,11 @@
  {
   "geoId": "A9D0CA11-32AE-4FC4-AA7C-14E08C015F31",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 6.96635,
-   "longitude": 158.207181
+   "longitude": 158.207181,
+   "iso": "PNG"
   },
   "properties": {
    "orgName": "Pohnpei Congregation",
@@ -14,11 +15,11 @@
    "languageCode": "PP",
    "schedule": "Sun 09:30 Tue 19:00",
    "phones": [ "691-320-2426" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

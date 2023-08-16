@@ -2,10 +2,11 @@
  {
   "geoId": "12119969-4612-4759-B8A7-074462C06714",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -21.260079,
-   "longitude": -159.799759
+   "longitude": -159.799759,
+   "iso": "FJI"
   },
   "properties": {
    "orgName": "Rarotonga",
@@ -14,20 +15,21 @@
    "languageCode": "RA",
    "schedule": "Sun 13:00 Tue 18:30",
    "phones": [ "+682&nbsp;55129" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-14",
-  "lastSeen": "2023-06-14",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DBF7141A-8CBE-43AB-986B-D742797EEFFB",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 1,
   "location": {
    "latitude": -21.260079,
-   "longitude": -159.799759
+   "longitude": -159.799759,
+   "iso": "FJI"
   },
   "properties": {
    "orgName": "Rarotonga English - Rarotonga",
@@ -36,20 +38,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "00682 20892" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-14",
-  "lastSeen": "2023-06-14",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E81DA9D7-447C-4B25-A379-88F675EA54C0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -18.87884,
-   "longitude": -159.781924
+   "longitude": -159.781924,
+   "iso": "FJI"
   },
   "properties": {
    "orgName": "Aitutaki",
@@ -58,20 +61,21 @@
    "languageCode": "RA",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "+00682 55-979" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-14",
-  "lastSeen": "2023-06-14",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EE849F09-EA45-4DD1-81F5-46C9D1DBF0AF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -22.660754,
-   "longitude": -152.802766
+   "longitude": -152.802766,
+   "iso": "FJI"
   },
   "properties": {
    "orgName": "Rimatara",
@@ -80,20 +84,21 @@
    "languageCode": "TH",
    "schedule": "Sat 18:00 Tue 18:00",
    "phones": [ "40944474" ],
-   "isPrivateMtgPlace": true
+   "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-06-14",
-  "lastSeen": "2023-06-14",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6048D633-6675-4A36-AD63-8EDB49F69A2D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -16.452007,
-   "longitude": -152.268159
+   "longitude": -152.268159,
+   "iso": "FJI"
   },
   "properties": {
    "orgName": "Maupiti",
@@ -102,11 +107,11 @@
    "languageCode": "TH",
    "schedule": "Sun 16:00 Tue 18:30",
    "phones": [ "87332951" ],
-   "isPrivateMtgPlace": true
+   "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-06-14",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2023-06-14",
-  "active": true,
+  "active": 0,
   "firstSeen": "2022-12-02"
  }
 ]

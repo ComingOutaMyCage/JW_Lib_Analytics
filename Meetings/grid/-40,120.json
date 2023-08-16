@@ -2,10 +2,11 @@
  {
   "geoId": "43898A59-BEDF-4C9D-9D20-87EDACF92B3F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -33.85356,
-   "longitude": 121.89524
+   "longitude": 121.89524,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Esperance - WA",
@@ -13,12 +14,12 @@
    "address": "Lot 864 Brazier Street\nESPERANCE  WA  6450",
    "languageCode": "E",
    "schedule": "Sat 14:00 Wed 19:00",
-   "phones": [ "0418458606" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "0429721955" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

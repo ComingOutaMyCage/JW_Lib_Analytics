@@ -2,10 +2,11 @@
  {
   "geoId": "CF554D8B-DC07-4E1A-98CD-FF3D1E8DC589",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.71779,
-   "longitude": 139.4935
+   "longitude": 139.4935,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Mount Isa - QLD",
@@ -14,20 +15,21 @@
    "languageCode": "E",
    "schedule": "Sun 09:30 Thu 19:00",
    "phones": [ "0414496696" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A09EB428-C193-428F-AF30-87A7A238DE4E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -17.671278,
-   "longitude": 141.072795
+   "longitude": 141.072795,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Normanton Isolated Group - Normanton QLD",
@@ -36,11 +38,11 @@
    "languageCode": "E",
    "schedule": "Sat 16:00 Wed 19:00",
    "phones": [ "0474552133" ],
-   "isPrivateMtgPlace": true
+   "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

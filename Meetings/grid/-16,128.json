@@ -2,10 +2,11 @@
  {
   "geoId": "B2042DDC-777B-4BE9-9744-18ABE7488E21",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.773045,
-   "longitude": 128.734959
+   "longitude": 128.734959,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Kununurra Isolated Group - Kununurra WA",
@@ -13,21 +14,25 @@
    "address": "(Sunday's Only)\r\nKununurra Neighbourhood House\r\n7 Chestnut Drive\r\nKUNUNURRA  WA  6743",
    "languageCode": "E",
    "schedule": "Sun 08:30 Wed 18:00",
-   "phones": [ "0427152288" ],
-   "isPrivateMtgPlace": false
+   "phones": [
+    "+61&nbsp;0487531163",
+    "+61&nbsp;0487531163"
+   ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C290CAA2-99B2-4C35-AF3C-715E844EE601",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -14.48208,
-   "longitude": 132.25704
+   "longitude": 132.25704,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Katherine - NT",
@@ -36,105 +41,140 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "0416086916" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "4F17F1EB-6A09-4F30-B454-9F70A7FB8798",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -14.48208,
+   "longitude": 132.25704,
+   "iso": "AUS"
+  },
+  "properties": {
+   "orgName": "Nhulunbuy Isolated Group - Nhulunbuy NT",
+   "orgType": "CONG",
+   "address": "72 Victoria Highway\r\nKATHERINE  NT  0850",
+   "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:30",
+   "phones": [
+    "+61&nbsp;0487531163",
+    "+61&nbsp;0487531163"
+   ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
+  "firstSeen": "2023-06-02"
  },
  {
   "geoId": "B22FBBC2-204B-4FC9-9508-A2E3C1CA86D3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.41834,
-   "longitude": 130.92267
+   "longitude": 130.92267,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Darwin City - Darwin NT",
    "orgType": "CONG",
    "address": "648 Vanderlin Drive\nBERRIMAH  NT  0828",
    "languageCode": "E",
+   "schedule": "Sat 16:00 Thu 19:00",
    "relatedLanguageCodes": [ "CHM" ],
    "phones": [ "0407700260" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "95404251-AE3B-4ECC-9D2E-11F556D9F6D2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.41834,
-   "longitude": 130.92267
+   "longitude": 130.92267,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Darwin North - Darwin NT",
    "orgType": "CONG",
    "address": "648 Vanderlin Drive\nBERRIMAH  NT  0828",
    "languageCode": "E",
+   "schedule": "Sun 09:30 Wed 19:00",
    "phones": [ "0416436607" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "C1B73D30-C72B-4984-8FE3-A0711DAF61FE",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": -12.41834,
-   "longitude": 130.92267
+   "longitude": 130.92267,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Darwin Central Filipino - Darwin NT",
    "orgType": "CONG",
    "address": "648 Vanderlin Drive\nBERRIMAH  NT  0828",
    "languageCode": "TG",
+   "schedule": "Sun 16:00 Tue 19:00",
    "phones": [ "0404263089" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "8F175389-2013-4B76-829A-FEF32D29D4DF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.49155,
-   "longitude": 130.99821
+   "longitude": 130.99821,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Palmerston - Darwin NT",
    "orgType": "CONG",
    "address": "3 Sonder Crescent\nBAKEWELL  NT  0832",
    "languageCode": "E",
+   "schedule": "Sat 15:00 Tue 19:30",
    "phones": [ "0400092739" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "DEB5370A-CA36-486A-9520-AE0974F175A0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.49155,
-   "longitude": 130.99821
+   "longitude": 130.99821,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Palmerston North - Darwin NT",
@@ -143,11 +183,11 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0428352488" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  }
 ]

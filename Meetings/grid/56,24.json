@@ -2,10 +2,11 @@
  {
   "geoId": "1F756D9C-98BD-40FC-82AD-D976D470F2FD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.96031,
-   "longitude": 24.05081
+   "longitude": 24.05081,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Rīgas Zolitūdes krievu",
@@ -14,41 +15,44 @@
    "languageCode": "U",
    "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "+371&nbsp;27483030" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "85A1F2C6-5DDE-441F-8F61-FC3D611304FA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.96031,
-   "longitude": 24.05081
+   "longitude": 24.05081,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Rīgas Torņakalna latviešu",
    "orgType": "CONG",
-   "address": "Mazā Stacijas iela 1 B\r\nLV-1083 RĪGA",
+   "address": "Mazā Stacijas iela 1 B\nLV-1083 RĪGA",
    "languageCode": "LT",
+   "schedule": "Sat 11:00 Tue 18:45",
    "phones": [ "27093999" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "FEA310DE-6DFD-4BFF-BC39-6E9F817CA887",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.96031,
-   "longitude": 24.05081
+   "longitude": 24.05081,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Rīgas Iļģuciema krievu",
@@ -57,20 +61,21 @@
    "languageCode": "U",
    "schedule": "Sat 14:00 Wed 19:00",
    "phones": [ "+371 28957575" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8691E4C9-4123-4878-8885-8EC702E3BD4A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.03639,
-   "longitude": 24.040517
+   "longitude": 24.040517,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Rīgas Bolderājas krievu",
@@ -80,42 +85,45 @@
    "languageCode": "U",
    "schedule": "Sun 11:00 Tue 19:00",
    "phones": [ "+371 25537500" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3D2E9097-D043-4FF1-AB04-F29F4450AD6F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.96433,
-   "longitude": 24.13273
+   "longitude": 24.13273,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Rīgas Centra latviešu",
    "orgType": "CONG",
-   "address": "Miera iela 38\r\nLV-1001 RĪGA",
+   "address": "Miera iela 38\nLV-1001 RĪGA",
    "languageCode": "LT",
+   "schedule": "Sat 14:00 Tue 18:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "+371&nbsp;25921329" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "298EC9B7-AC93-469D-813A-CF5F1D5795CA",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.96433,
-   "longitude": 24.13273
+   "longitude": 24.13273,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Rīgas Vecrīgas krievu",
@@ -124,20 +132,21 @@
    "languageCode": "U",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+37127710066" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2A97EF1F-1A90-4ACD-B69F-6DA095394604",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.96433,
-   "longitude": 24.13273
+   "longitude": 24.13273,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Rīgas Mežciema krievu",
@@ -149,20 +158,21 @@
     "+371 22171678",
     "22171678"
    ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7A6679E5-357F-4A35-A5AB-F5AEFBD3F092",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 56.96433,
-   "longitude": 24.13273
+   "longitude": 24.13273,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Rīgas zīmju valodas",
@@ -171,20 +181,21 @@
    "languageCode": "LSL",
    "schedule": "Sat 11:00 Wed 18:30",
    "phones": [ "+371&nbsp;29337011" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9C473F66-BF84-422C-9D12-FABBC7047A39",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.96433,
-   "longitude": 24.13273
+   "longitude": 24.13273,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Rīgas angļu grupa - Rīgas Centra latviešu",
@@ -194,20 +205,21 @@
    "schedule": "Sat 14:00 Tue 18:30",
    "relatedLanguageCodes": [ "LT" ],
    "phones": [ "+371&nbsp;25921329" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6285D01B-EF79-4894-960B-3C8DAAE2BEFC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 56.9277,
-   "longitude": 24.1706
+   "longitude": 24.1706,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Rīgas Pļavnieku krievu",
@@ -216,20 +228,21 @@
    "languageCode": "U",
    "schedule": "Sat 11:00 Tue 19:00",
    "phones": [ "+37129937218" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2550C460-0E8D-4898-B468-C177B11900AA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.9277,
-   "longitude": 24.1706
+   "longitude": 24.1706,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Rīgas Ķengaraga krievu",
@@ -241,41 +254,44 @@
     "+371&nbsp;22055766",
     "+371&nbsp;22055766"
    ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E9E6F9CB-14A3-4F62-98DF-08A713E3DB8D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.9277,
-   "longitude": 24.1706
+   "longitude": 24.1706,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Rīgas Pļavnieku latviešu",
    "orgType": "CONG",
-   "address": "Salacas 20\r\nLV-1019 RĪGA",
+   "address": "Salacas 20\nLV-1019 RĪGA",
    "languageCode": "LT",
+   "schedule": "Sat 15:00 Thu 19:00",
    "phones": [ "29543047" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "DB3B934F-8499-45BE-B855-B3DF925BD70B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.9277,
-   "longitude": 24.1706
+   "longitude": 24.1706,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Rīgas Ziepniekkalna krievu",
@@ -284,20 +300,21 @@
    "languageCode": "U",
    "schedule": "Sun 11:00 Fri 19:00",
    "phones": [ "+371&nbsp;27432207" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6D93AF6E-D7AF-422E-83DB-9DE20CA0E818",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.803469,
-   "longitude": 24.613963
+   "longitude": 24.613963,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Ogres latviešu",
@@ -307,20 +324,21 @@
    "schedule": "Sun 11:00 Wed 19:00",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "29236959, 29353580" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E67D9DED-0056-452B-B9AF-83AE291A060F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.803469,
-   "longitude": 24.613963
+   "longitude": 24.613963,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Ogres krievu grupa - Ogres latviešu",
@@ -330,66 +348,69 @@
    "schedule": "Sun 11:00 Wed 19:00",
    "relatedLanguageCodes": [ "LT" ],
    "phones": [ "29236959, 29353580" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "141E9150-212F-4C26-9440-90841FCF737B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.606358,
-   "longitude": 25.24836
+   "longitude": 25.24836,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Aizkraukles latviešu",
    "orgType": "CONG",
-   "address": "Biteņu iela 14 - 302\r\nAIZKRAUKLE",
+   "address": "Bitēnu iela 14-305\r\nAIZKRAUKLE",
    "languageCode": "LT",
    "schedule": "Sat 10:00 Tue 18:30",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "22103093" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F85E4F91-6521-4B0D-A84A-E07AB42DA060",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 56.606358,
-   "longitude": 25.24836
+   "longitude": 25.24836,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Aizkraukles krievu grupa - Aizkraukles latviešu",
    "orgType": "GROUP",
-   "address": "Biteņu iela 14 - 302\r\nAIZKRAUKLE",
+   "address": "Bitēnu iela 14-305\r\nAIZKRAUKLE",
    "languageCode": "U",
-   "schedule": "Sat 12:30",
+   "schedule": "Sat 12:30 undefined null",
    "relatedLanguageCodes": [ "LT" ],
    "phones": [ "22103093" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "98114695-E221-4574-AC4B-5F1535DF22F9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 56.49527,
-   "longitude": 25.88521
+   "longitude": 25.88521,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Jēkabpils krievu",
@@ -398,20 +419,21 @@
    "languageCode": "U",
    "schedule": "Sun 11:00 Fri 18:30",
    "phones": [ "+37126413450" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A3123BEF-042B-4B69-BED8-2FEE6527AFB8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 57.31194,
-   "longitude": 25.26634
+   "longitude": 25.26634,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Cēsu latviešu",
@@ -420,20 +442,21 @@
    "languageCode": "LT",
    "schedule": "Sun 11:00 Tue 18:30",
    "phones": [ "29157836" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5F3131E7-CFE4-475D-BEF3-80D13BCE4F09",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 58.392852,
-   "longitude": 24.524208
+   "longitude": 24.524208,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Pärnu Lõuna",
@@ -442,20 +465,21 @@
    "languageCode": "ST",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+3725042066" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8F1A1C0F-C8F7-496E-884D-11C0F7FA306C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 58.392852,
-   "longitude": 24.524208
+   "longitude": 24.524208,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Pärnu vene",
@@ -464,20 +488,21 @@
    "languageCode": "U",
    "schedule": "Sat 12:00 Wed 18:30",
    "phones": [ "+37255503197" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CD674489-75C6-4256-BB8E-8EBE2525B349",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 58.392852,
-   "longitude": 24.524208
+   "longitude": 24.524208,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Pärnu Põhja",
@@ -486,20 +511,21 @@
    "languageCode": "ST",
    "schedule": "Sun 14:00 Tue 18:30",
    "phones": [ "+372 52 60348" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E6083C4A-F2A4-4C5C-B2C9-03B5293E483C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 57.54229,
-   "longitude": 25.43463
+   "longitude": 25.43463,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Valmieras latviešu",
@@ -509,20 +535,21 @@
    "schedule": "Sun 11:00 Thu 19:00",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "+37122044338" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "80008D2D-E31D-49DB-AAE0-D41950751CE9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.54229,
-   "longitude": 25.43463
+   "longitude": 25.43463,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Valmieras krievu grupa - Valmieras latviešu",
@@ -532,20 +559,21 @@
    "schedule": "Sun 11:00 Thu 19:00",
    "relatedLanguageCodes": [ "LT" ],
    "phones": [ "+37122044338" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "89A6CC33-CCC9-4EAA-8286-E9E9553C32A7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.550761,
-   "longitude": 26.921183
+   "longitude": 26.921183,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Viļānu krievu grupa - Rēzeknes krievu",
@@ -554,20 +582,21 @@
    "languageCode": "U",
    "schedule": "Sun 11:00 Tue 19:00",
    "phones": [ "28454797" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "872B2AE6-66AB-4856-848F-494B9116DBD8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.30661,
-   "longitude": 24.40889
+   "longitude": 24.40889,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Keila eesti",
@@ -576,41 +605,44 @@
    "languageCode": "ST",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E41F7202-C354-4D42-8E75-12812A1850EC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.30661,
-   "longitude": 24.40889
+   "longitude": 24.40889,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Keila vene",
    "orgType": "CONG",
-   "address": "Männiku 1a\r\n76607 KEILA",
+   "address": "Männiku 1a\n76607 KEILA",
    "languageCode": "U",
+   "schedule": "Sat 11:00 Wed 19:00",
    "phones": [ "+372&nbsp;5647 0202" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "9A7A81E1-215A-40C4-AF8D-46A9585F1ED2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.00429,
-   "longitude": 24.79647
+   "longitude": 24.79647,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Rapla",
@@ -619,20 +651,21 @@
    "languageCode": "ST",
    "schedule": "Sun 11:30 Thu 19:00",
    "phones": [ "+372 5663 6466" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "39D0885C-5E4E-4419-8A9D-A5188AD81362",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.77762,
-   "longitude": 26.04719
+   "longitude": 26.04719,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Valga eesti",
@@ -641,20 +674,21 @@
    "languageCode": "ST",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "56206556" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4AE212BA-DC49-4E1A-AE53-1A1944B66A93",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 57.77762,
-   "longitude": 26.04719
+   "longitude": 26.04719,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Valga vene",
@@ -664,20 +698,21 @@
    "schedule": "Sun 14:00 Wed 19:00",
    "relatedLanguageCodes": [ "LT" ],
    "phones": [ "+37258144624 +37120309549" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "50316120-8461-4093-8CE4-4DB8ECB57D53",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 57.77762,
-   "longitude": 26.04719
+   "longitude": 26.04719,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Valga läti grupp - Valga vene",
@@ -687,62 +722,67 @@
    "schedule": "Sun 14:00 Wed 19:00",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "+37258144624 +37120309549" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7C877960-BA35-48AD-AF76-33A82BF0CA42",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 56.505195,
-   "longitude": 27.327927
+   "longitude": 27.327927,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Rēzeknes latviešu grupa - Rēzeknes krievu",
    "orgType": "GROUP",
-   "address": "Brāļu Skrindu 3\r\nKultūras nams\r\nLV-4601 RĒZEKNE",
+   "address": "Brāļu Skrindu 3\nKultūras nams\nLV-4601 RĒZEKNE",
    "languageCode": "LT",
+   "schedule": "Sun 11:00 Tue 19:00",
    "phones": [ "28454797" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "8CAB0C56-8B3D-4A5A-B0FD-5B2356A461C6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.516706,
-   "longitude": 27.36513
+   "longitude": 27.36513,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Rēzeknes krievu",
    "orgType": "CONG",
-   "address": "Jupatovkas iela 20a\r\nLV-4601 RĒZEKNE",
+   "address": "Jupatovkas iela 20a\nLV-4601 RĒZEKNE",
    "languageCode": "U",
+   "schedule": "Sun 11:00 Tue 19:00",
    "phones": [ "28454797" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "7C988D29-AC3C-45D1-8D7B-ED58540090F0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.99487,
-   "longitude": 25.936147
+   "longitude": 25.936147,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tõrva",
@@ -751,20 +791,21 @@
    "languageCode": "ST",
    "schedule": "Sun 15:00 Thu 18:30",
    "phones": [ "+372  5559 4411" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "82211D48-576F-4017-9D9C-6BED25940161",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 58.36448,
-   "longitude": 25.58322
+   "longitude": 25.58322,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Viljandi",
@@ -773,20 +814,21 @@
    "languageCode": "ST",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+37255501043" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "13DFB6EC-3A1F-4B88-A15B-97C5CFD61238",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.388135,
-   "longitude": 24.700376
+   "longitude": 24.700376,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna Lääne",
@@ -796,62 +838,67 @@
    "schedule": "Sun 14:00 Wed 18:45",
    "relatedLanguageCodes": [ "STD" ],
    "phones": [ "+372 5667 7700" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2B66F881-FCBD-4445-9843-287D9D7337BF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.388135,
-   "longitude": 24.700376
+   "longitude": 24.700376,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna Männiku vene",
    "orgType": "CONG",
-   "address": "Pärnu mnt. 223\r\n11622 TALLINN",
+   "address": "Pärnu mnt. 223\n11622 TALLINN",
    "languageCode": "U",
+   "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "+37255519772" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "CADED436-D14D-4F4A-8142-97EDEF0D6E09",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.388135,
-   "longitude": 24.700376
+   "longitude": 24.700376,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna Mustamäe vene",
    "orgType": "CONG",
-   "address": "Pärnu mnt. 223\r\n11622 TALLINN",
+   "address": "Pärnu mnt. 223\n11622 TALLINN",
    "languageCode": "U",
+   "schedule": "Sun 14:00 Tue 19:00",
    "phones": [ "+37256285911" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "D9F8D97A-FDEF-4858-8C9D-B3FEB37A9867",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.388135,
-   "longitude": 24.700376
+   "longitude": 24.700376,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna Lõuna",
@@ -861,41 +908,44 @@
    "schedule": "Sun 17:00 Thu 18:45",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "53063473" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "11DEF244-CD67-48E3-9412-3A6DDBCD8F08",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.388135,
-   "longitude": 24.700376
+   "longitude": 24.700376,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna Õismäe vene",
    "orgType": "CONG",
-   "address": "Pärnu mnt. 223\r\n11622 TALLINN",
+   "address": "Pärnu mnt. 223\n11622 TALLINN",
    "languageCode": "U",
+   "schedule": "Sat 11:00 Wed 19:00",
    "phones": [ "+3725157897" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "6AF462BA-1152-43B2-8365-759369DF1105",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 59.388135,
-   "longitude": 24.700376
+   "longitude": 24.700376,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna viipekeelne grupp - Tallinna Lääne",
@@ -905,20 +955,21 @@
    "schedule": "Sun 14:00 Wed 18:45",
    "relatedLanguageCodes": [ "ST" ],
    "phones": [ "+372 5667 7700" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B75B10FA-2656-4F7B-874A-372AFF918AE8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.388135,
-   "longitude": 24.700376
+   "longitude": 24.700376,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna inglise grupp - Tallinna Lõuna",
@@ -928,20 +979,21 @@
    "schedule": "Sun 11:00 Tue 19:00",
    "relatedLanguageCodes": [ "ST" ],
    "phones": [ "53063473" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C603C72D-6D54-43BC-82F3-2BF19B405EC2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.44389,
-   "longitude": 24.69166
+   "longitude": 24.69166,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna Põhja",
@@ -950,105 +1002,113 @@
    "languageCode": "ST",
    "schedule": "Sun 11:30 Tue 19:00",
    "phones": [ "+372&nbsp;5356 3589" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "328D73C5-9DC0-43F9-9930-8B02B524D796",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.44389,
-   "longitude": 24.69166
+   "longitude": 24.69166,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna Kesklinna vene",
    "orgType": "CONG",
-   "address": "Puhangu 81-85\r\nTALLINN",
+   "address": "Puhangu 81-85\nTALLINN",
    "languageCode": "U",
+   "schedule": "Sun 17:00 Thu 19:00",
    "phones": [ "+372&nbsp;5344 4073" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "CDCB9758-7FD7-4518-8402-82F890728D41",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.44389,
-   "longitude": 24.69166
+   "longitude": 24.69166,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna Pelguranna vene",
    "orgType": "CONG",
-   "address": "Puhangu 81-85\r\nTALLINN",
+   "address": "Puhangu 81-85\nTALLINN",
    "languageCode": "U",
+   "schedule": "Sat 11:00 Wed 19:00",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "EBB1F32B-1EC6-4AA5-9B2F-9925A43DAF4E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 58.629031,
-   "longitude": 25.548275
+   "longitude": 25.548275,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Võhma grupp - Põltsamaa",
    "orgType": "GROUP",
    "address": "Aasa 1\r\n70603 VÕHMA",
    "languageCode": "ST",
-   "schedule": "Sun 11:00",
+   "schedule": "Sun 11:00 undefined null",
    "phones": [ "+372&nbsp;501 0872" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "927DEA1A-A4B1-4446-8C77-8703FA26B002",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.438901,
-   "longitude": 24.833385
+   "longitude": 24.833385,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna Lasnamäe vene",
    "orgType": "CONG",
-   "address": "Paul Pinna 12\r\n13615 TALLINN",
+   "address": "Paul Pinna 12\n13615 TALLINN",
    "languageCode": "U",
+   "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "+37255538862" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "51B78EA9-97F0-490A-B680-C460BEC1ED9E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.438901,
-   "longitude": 24.833385
+   "longitude": 24.833385,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna Ida",
@@ -1057,104 +1117,113 @@
    "languageCode": "ST",
    "schedule": "Sat 11:00 Tue 19:00",
    "phones": [ "54650406" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6F62E56A-F20E-4022-AF4B-F4D580282986",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.438901,
-   "longitude": 24.833385
+   "longitude": 24.833385,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna Priisle vene",
    "orgType": "CONG",
-   "address": "Paul Pinna 12\r\n13615 TALLINN",
+   "address": "Paul Pinna 12\n13615 TALLINN",
    "languageCode": "U",
+   "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "+37253650203" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "3A593688-2DEA-4BFD-8166-C2B709C32FB4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.438901,
-   "longitude": 24.833385
+   "longitude": 24.833385,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna Majaka vene",
    "orgType": "CONG",
-   "address": "Paul Pinna 12\r\n13615 TALLINN",
+   "address": "Paul Pinna 12\n13615 TALLINN",
    "languageCode": "U",
+   "schedule": "Sat 11:00 Tue 19:00",
    "phones": [ "+372 5697 9119" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "34BDB552-45C4-46B6-B0E8-B0945F5A563C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.438901,
-   "longitude": 24.833385
+   "longitude": 24.833385,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna Kadrioru vene",
    "orgType": "CONG",
-   "address": "Paul Pinna 12\r\n13615 TALLINN",
+   "address": "Paul Pinna 12\n13615 TALLINN",
    "languageCode": "U",
+   "schedule": "Sat 11:00 Tue 19:00",
    "phones": [ "+372 5082833" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "32E9927B-297B-4E05-8499-21C4C3AE43C9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.438901,
-   "longitude": 24.833385
+   "longitude": 24.833385,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tallinna Laagna vene",
    "orgType": "CONG",
-   "address": "Paul Pinna 12\r\n13615 TALLINN",
+   "address": "Paul Pinna 12\n13615 TALLINN",
    "languageCode": "U",
+   "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "+37255624827" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "704B4EBC-4D5D-4F0E-B0A3-F186B4E40DE5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.54765,
-   "longitude": 27.725265
+   "longitude": 27.725265,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Ludzas krievu grupa - Rēzeknes krievu",
@@ -1163,62 +1232,67 @@
    "languageCode": "U",
    "schedule": "Sun 11:00 Tue 19:00",
    "phones": [ "28454797" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "18F7D212-ED58-4542-A467-32784E9F5A16",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.181291,
-   "longitude": 25.165068
+   "longitude": 25.165068,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Kose vene",
    "orgType": "CONG",
    "address": "Kodu 24\n75101 KOSE",
    "languageCode": "U",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "+372 675 6105" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "8C11B866-8C4E-47CA-98AC-2B9823BFFE61",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 59.181291,
-   "longitude": 25.165068
+   "longitude": 25.165068,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Kose eesti",
    "orgType": "CONG",
    "address": "Kodu 24\n75101 KOSE",
    "languageCode": "ST",
+   "schedule": "Sun 16:00 Thu 18:30",
    "phones": [ "+37253659905" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "BCB8BBD9-A4CD-4B13-AA89-6C49AAE0ACA0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.181291,
-   "longitude": 25.165068
+   "longitude": 25.165068,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Kehra vene",
@@ -1227,20 +1301,21 @@
    "languageCode": "U",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "+3725010901  +37256634620" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "775F85AF-375F-4D89-BB96-553A635EDF25",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.129786,
-   "longitude": 27.251463
+   "longitude": 27.251463,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Balvu latviešu",
@@ -1250,20 +1325,21 @@
    "schedule": "Sun 11:00 Wed 18:30",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "+371&nbsp;28210519" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E4EBC986-99A9-4115-827A-B1299F4A1AE9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 57.129786,
-   "longitude": 27.251463
+   "longitude": 27.251463,
+   "iso": "LVA"
   },
   "properties": {
    "orgName": "Balvu krievu grupa - Balvu latviešu",
@@ -1273,20 +1349,21 @@
    "schedule": "Sun 14:00 Thu 18:30",
    "relatedLanguageCodes": [ "LT" ],
    "phones": [ "+371&nbsp;28210519" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-02-20"
  },
  {
   "geoId": "D85490EC-E465-4AF2-8D8A-3612E749DCB1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.273918,
-   "longitude": 24.131646
+   "longitude": 24.131646,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Lohja eteläinen",
@@ -1295,20 +1372,21 @@
    "languageCode": "FI",
    "schedule": "Sun 14:00 Thu 18:30",
    "phones": [ "040 551 1977" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0A07101B-E01B-470E-BBAB-01CBBF990AC3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.273918,
-   "longitude": 24.131646
+   "longitude": 24.131646,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Lohja pohjoinen",
@@ -1317,20 +1395,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Wed 18:30",
    "phones": [ "+358402581278" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CAA7357D-9FEF-4B6D-9534-D9C9EF18369F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 58.88465,
-   "longitude": 25.5549
+   "longitude": 25.5549,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Paide eesti",
@@ -1339,104 +1418,113 @@
    "languageCode": "ST",
    "schedule": "Sun 11:00 Thu 18:45",
    "phones": [ "5691 3526" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5C9E8481-04FD-4BDB-9CA0-88DB6829F81A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 58.88465,
-   "longitude": 25.5549
+   "longitude": 25.5549,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Paide vene",
    "orgType": "CONG",
-   "address": "Vaksali 5\r\n72718 PAIDE / JÄRVAMAA",
+   "address": "Vaksali 5\n72718 PAIDE / JÄRVAMAA",
    "languageCode": "U",
+   "schedule": "Sun 14:00 Wed 19:00",
    "phones": [ "+37258190452" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "42B5E5CE-D6A4-4370-B28B-A14927B4D3FD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.47638,
-   "longitude": 25.023052
+   "longitude": 25.023052,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Kallavere vene",
    "orgType": "CONG",
-   "address": "Haigla 4C\r\n74116 MAARDU",
+   "address": "Haigla 4C\n74116 MAARDU",
    "languageCode": "U",
+   "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "+ 372 5292161" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "6F268996-37ED-4AA3-8ECD-CEF91B8D0762",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.47638,
-   "longitude": 25.023052
+   "longitude": 25.023052,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Maardu vene",
    "orgType": "CONG",
-   "address": "Haigla 4C\r\n74116 MAARDU",
+   "address": "Haigla 4C\n74116 MAARDU",
    "languageCode": "U",
+   "schedule": "Sun 15:00 Wed 19:00",
    "phones": [ "+37256032370" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "ED550164-D70F-412D-AD3A-8DBA5E43DB8F",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 59.47638,
-   "longitude": 25.023052
+   "longitude": 25.023052,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Viimsi-Kuusalu",
    "orgType": "CONG",
-   "address": "Haigla 4C\r\n74116 MAARDU",
+   "address": "Haigla 4C\n74116 MAARDU",
    "languageCode": "ST",
-   "phones": [ "+372 578 36 996" ],
-   "isPrivateMtgPlace": false
+   "schedule": "Sat 11:30 Tue 18:45",
+   "phones": [ "+37257836996" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "2DF5EAB3-E03B-48E4-AAF2-5B56F10B2993",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 58.05393,
-   "longitude": 26.49311
+   "longitude": 26.49311,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Otepää",
@@ -1445,20 +1533,21 @@
    "languageCode": "ST",
    "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "56661771" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "52D35193-4B7B-4E3A-979C-3A959CC61CB5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.12656,
-   "longitude": 24.4715
+   "longitude": 24.4715,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kirkkonummi",
@@ -1467,20 +1556,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:45",
    "phones": [ "+358&nbsp;40 874 6288" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6170B19E-F19D-4DF8-84A1-20B6A765D40E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 58.65285,
-   "longitude": 25.968528
+   "longitude": 25.968528,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Põltsamaa",
@@ -1489,20 +1579,21 @@
    "languageCode": "ST",
    "schedule": "Sun 00:00 Wed 19:00",
    "phones": [ "+372&nbsp;501 0872" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D14C1519-548B-41C8-B42E-706CBC7C5774",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 58.22967,
-   "longitude": 26.4124
+   "longitude": 26.4124,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Elva",
@@ -1511,20 +1602,21 @@
    "languageCode": "ST",
    "schedule": "Sun 11:00 Wed 19:00",
    "phones": [ "+372 5278545" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4514F611-8AED-481F-8DB4-E5CDDA763321",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.51736,
-   "longitude": 24.2035
+   "longitude": 24.2035,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Karkkila",
@@ -1533,20 +1625,21 @@
    "languageCode": "FI",
    "schedule": "Sun 16:00 Thu 18:45",
    "phones": [ "040 859 5586" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9BE84B0A-5CE5-42FF-8EA2-38FAD2514D50",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.4117,
-   "longitude": 24.34725
+   "longitude": 24.34725,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Vihti",
@@ -1555,20 +1648,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:45",
    "phones": [ "040 811 2046" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7BCEF909-61AA-4866-94FE-0DCA6A72E717",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 57.836713,
-   "longitude": 27.003732
+   "longitude": 27.003732,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Võru",
@@ -1577,20 +1671,21 @@
    "languageCode": "ST",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+372&nbsp;5645 7376" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D51696A9-A2F8-440F-816B-F1C7E657B5E5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.17066,
-   "longitude": 24.69606
+   "longitude": 24.69606,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Espoo Matinkylä",
@@ -1599,20 +1694,21 @@
    "languageCode": "FI",
    "schedule": "Sun 17:00 Tue 18:45",
    "phones": [ "046 631 1225" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "018A5231-6522-4607-BDF3-F22CD751666C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.17066,
-   "longitude": 24.69606
+   "longitude": 24.69606,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Espoo Tapiola",
@@ -1621,45 +1717,47 @@
    "languageCode": "FI",
    "schedule": "Sun 14:00 Wed 18:45",
    "phones": [ "0440964464" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "29687D27-10AE-47D7-8FDD-86274F9B4091",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.17066,
-   "longitude": 24.69606
+   "longitude": 24.69606,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Espoo englanninkielinen",
    "orgType": "CONG",
-   "address": "Puolarniityntie 7\r\nBoloängsvägen 7\r\n02280 ESPOO",
+   "address": "Puolarniityntie 7\nBoloängsvägen 7\n02280 ESPOO",
    "languageCode": "E",
    "schedule": "Sun 11:00 Thu 18:45",
    "phones": [
     "09 804 1318",
     "09 888 1200"
    ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EAEAEF1C-C1D9-4162-84B9-3390CDB8E583",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.17066,
-   "longitude": 24.696069
+   "longitude": 24.696069,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Esbo",
@@ -1668,20 +1766,21 @@
    "languageCode": "Z",
    "schedule": "Sun 11:00 Tue 18:45",
    "phones": [ "044 070 7098" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "87E2BFC8-1B78-48F5-8F00-36CA544E290F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.17066,
-   "longitude": 24.696069
+   "longitude": 24.696069,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Espoo venäjänkielinen",
@@ -1690,20 +1789,21 @@
    "languageCode": "U",
    "schedule": "Sat 11:00 Wed 18:45",
    "phones": [ "+358&nbsp;45 277 5171" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BB23FE6B-51C1-4A39-A096-7C59B80C47DE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.2342,
-   "longitude": 24.74475
+   "longitude": 24.74475,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Espoo pohjoinen",
@@ -1712,20 +1812,21 @@
    "languageCode": "FI",
    "schedule": "Sun 14:00 Wed 18:45",
    "phones": [ "+358&nbsp;400 569 156" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DCDDBB7E-7272-422E-9285-607F36211885",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.2342,
-   "longitude": 24.74475
+   "longitude": 24.74475,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Espoo Tuomarila",
@@ -1734,20 +1835,21 @@
    "languageCode": "FI",
    "schedule": "Sun 17:00 Tue 18:45",
    "phones": [ "050 041 1460" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6A9EFFBE-B18A-4FFB-A6DD-422D61CA6FEF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.2342,
-   "longitude": 24.74475
+   "longitude": 24.74475,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Espoo Viherlaakso",
@@ -1756,20 +1858,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:45",
    "phones": [ "0466841687" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "453EF05A-2D0F-4706-9920-3B423EC7037D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.18225,
-   "longitude": 24.92661
+   "longitude": 24.92661,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsingfors",
@@ -1778,20 +1881,21 @@
    "languageCode": "Z",
    "schedule": "Sun 16:30 Wed 18:30",
    "phones": [ "040 221 1094" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EC88D534-5285-4E7D-8EDC-31FCD916F014",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.18225,
-   "longitude": 24.92661
+   "longitude": 24.92661,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki Ruoholahti",
@@ -1801,20 +1905,21 @@
    "schedule": "Sun 11:00 Wed 18:45",
    "relatedLanguageCodes": [ "LI" ],
    "phones": [ "040 378 9551" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "ED311752-6A9F-4343-BB39-5D05E9504A2E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.18225,
-   "longitude": 24.92661
+   "longitude": 24.92661,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki Meilahti",
@@ -1827,20 +1932,21 @@
     "BL"
    ],
    "phones": [ "0403621292" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9B689362-FE12-463B-8239-AAE07F66D971",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.18225,
-   "longitude": 24.92661
+   "longitude": 24.92661,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki eteläinen",
@@ -1850,20 +1956,21 @@
    "schedule": "Sat 11:00 Mon 18:45",
    "relatedLanguageCodes": [ "PR" ],
    "phones": [ "09 3157 6520" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3417544A-D2AC-4DA1-86CA-6914A089F185",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.18225,
-   "longitude": 24.92661
+   "longitude": 24.92661,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki arabiankielinen ryhmä - Helsinki Meilahti",
@@ -1873,20 +1980,21 @@
    "schedule": "Sun 14:00 Thu 18:45",
    "relatedLanguageCodes": [ "FI" ],
    "phones": [ "0403621292" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "53337952-B03E-4AED-9F2D-2848164D9A1F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.18225,
-   "longitude": 24.92661
+   "longitude": 24.92661,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki kiinankielinen",
@@ -1895,20 +2003,21 @@
    "languageCode": "CHM",
    "schedule": "Sun 16:30 Tue 18:45",
    "phones": [ "+358&nbsp;40 2439460" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5A5BFA66-3CF1-4402-BC1D-935BB4E63D69",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.18225,
-   "longitude": 24.92661
+   "longitude": 24.92661,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki vironkielinen",
@@ -1917,42 +2026,45 @@
    "languageCode": "ST",
    "schedule": "Sun 11:30 Tue 18:45",
    "phones": [ "+358503806833" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6C273BA6-C192-4D31-A4DC-55BB9CDF5D21",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.18225,
-   "longitude": 24.92661
+   "longitude": 24.92661,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki persiankielinen ryhmä - Helsinki eteläinen",
    "orgType": "GROUP",
-   "address": "Mannerheimintie 60\r\n00260 HELSINKI",
+   "address": "Mannerheimintie 60\n00260 HELSINKI",
    "languageCode": "PR",
+   "schedule": "Sun 17:00 undefined null",
    "relatedLanguageCodes": [ "FI" ],
    "phones": [ "09 3157 6520" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "747CC633-7A65-4867-BF10-9B170E2BFE8B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.18225,
-   "longitude": 24.92661
+   "longitude": 24.92661,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki lingalankielinen ryhmä - Helsinki Ruoholahti",
@@ -1962,43 +2074,45 @@
    "schedule": "Sun 11:00 Wed 18:45",
    "relatedLanguageCodes": [ "FI" ],
    "phones": [ "040 378 9551" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3EF9360D-C85D-4481-B01C-2DB09B4D1C72",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.18225,
-   "longitude": 24.92661
+   "longitude": 24.92661,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki bulgariankielinen ryhmä - Helsinki Meilahti",
    "orgType": "GROUP",
    "address": "Mannerheimintie 60\r\n00260 HELSINKI",
    "languageCode": "BL",
-   "schedule": "Sun 14:00",
+   "schedule": "Sun 14:00 undefined null",
    "relatedLanguageCodes": [ "FI" ],
    "phones": [ "0403621292" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CC2B459A-A091-4AE8-96D5-0ECEBAEB7F7F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 58.37271,
-   "longitude": 26.75209
+   "longitude": 26.75209,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tartu Tammelinna",
@@ -2007,20 +2121,21 @@
    "languageCode": "ST",
    "schedule": "Sun 11:00 Wed 19:00",
    "phones": [ "56289282" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A1028441-9C36-4933-BD88-8EDC5D96FF49",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 58.37271,
-   "longitude": 26.75209
+   "longitude": 26.75209,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tartu Kesklinna",
@@ -2029,62 +2144,67 @@
    "languageCode": "ST",
    "schedule": "Sun 14:00 Thu 19:00",
    "phones": [ "581 343 58" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "87532157-5655-459A-A12B-CB5A4597CBB7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 58.37271,
-   "longitude": 26.75209
+   "longitude": 26.75209,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tartu vene",
    "orgType": "CONG",
-   "address": "Ihaste tee 1\r\n51011 TARTU / TARTU MAAKOND",
+   "address": "Ihaste tee 1\n51011 TARTU / TARTU MAAKOND",
    "languageCode": "U",
+   "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "+37256950821" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "818FC051-F4F6-435A-9DA8-63B7C467AA1A",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 58.06597,
-   "longitude": 27.07662
+   "longitude": 27.07662,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Põlva",
    "orgType": "CONG",
-   "address": "Ringtee 6\r\n63308 PÕLVA / PÕLVAMAA",
+   "address": "Ringtee 6\n63308 PÕLVA / PÕLVAMAA",
    "languageCode": "ST",
+   "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "56604784" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "17737E1F-8589-4A28-9863-4FAA9EFD0A74",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.27552,
-   "longitude": 24.86709
+   "longitude": 24.86709,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Vantaa Martinlaakso",
@@ -2093,20 +2213,21 @@
    "languageCode": "FI",
    "schedule": "Sun 14:00 Wed 18:30",
    "phones": [ "046 536 8558" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "552EE4D7-1CCE-497D-93C5-54E471462887",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.27552,
-   "longitude": 24.86709
+   "longitude": 24.86709,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Klaukkala",
@@ -2115,87 +2236,91 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Tue 18:30",
    "phones": [ "046 536 8558" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "05E7C42B-576F-490B-A8E9-5662F06A39B2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.18746,
-   "longitude": 24.9618
+   "longitude": 24.9618,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki Kallio",
    "orgType": "CONG",
-   "address": "Hämeentie 27\r\n00500 HELSINKI",
+   "address": "Hämeentie 27\n00500 HELSINKI",
    "languageCode": "FI",
    "schedule": "Sun 17:00 Wed 18:30",
    "phones": [ "040 818 1516" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "7AD912D1-B692-4BD4-9200-1CBBCAF7A4BC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.18746,
-   "longitude": 24.9618
+   "longitude": 24.9618,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki Vallila",
    "orgType": "CONG",
-   "address": "Hämeentie 27\r\n00500 HELSINKI",
+   "address": "Hämeentie 27\n00500 HELSINKI",
    "languageCode": "FI",
    "schedule": "Sat 14:00 Thu 18:30",
    "phones": [ "040 818 1516" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "0E2B28D6-13D2-4CF9-84D9-1E33ECF00CDA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.18746,
-   "longitude": 24.9618
+   "longitude": 24.9618,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki englanninkielinen",
    "orgType": "CONG",
-   "address": "Hämeentie 27\r\n00500 HELSINKI",
+   "address": "Hämeentie 27\n00500 HELSINKI",
    "languageCode": "E",
    "schedule": "Sun 11:00 Tue 19:00",
    "relatedLanguageCodes": [ "SW" ],
    "phones": [ "0469623399" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-05-23"
  },
  {
   "geoId": "82C9677E-9F6B-4925-9678-7668E94728C4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 58.74759,
-   "longitude": 26.40372
+   "longitude": 26.40372,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Jõgeva",
@@ -2204,20 +2329,21 @@
    "languageCode": "ST",
    "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "5901 2500" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D273958B-3054-4290-BAE4-40D33F436CD0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.2439,
-   "longitude": 24.92601
+   "longitude": 24.92601,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki läntinen",
@@ -2226,20 +2352,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Wed 18:45",
    "phones": [ "09 724 7245" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D29ADAF8-D1C0-442C-87F6-21E78D3F1078",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.2439,
-   "longitude": 24.92601
+   "longitude": 24.92601,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki Pakila",
@@ -2248,20 +2375,21 @@
    "languageCode": "FI",
    "schedule": "Sun 16:00 Thu 18:45",
    "phones": [ "0469028603" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1815A9FE-341A-4E6F-AA46-35B705E84081",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.2439,
-   "longitude": 24.92601
+   "longitude": 24.92601,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki viittomakielinen",
@@ -2270,20 +2398,21 @@
    "languageCode": "FID",
    "schedule": "Sat 11:00 Tue 18:30",
    "phones": [ "045 6341914" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C6A0C1F9-5DAC-4908-B2DE-4E8D414E0432",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 59.26156,
-   "longitude": 25.94901
+   "longitude": 25.94901,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tapa eesti",
@@ -2292,41 +2421,44 @@
    "languageCode": "ST",
    "schedule": "Sun 11:00 Wed 18:30",
    "phones": [ "55593053" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "515F196D-1C07-4BAA-BB73-AA56E084E4E0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.26156,
-   "longitude": 25.94901
+   "longitude": 25.94901,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Tapa vene",
    "orgType": "CONG",
-   "address": "Ambla mnt 36\r\n45106 TAPA / LÄÄNE-VIRU MAAKOND",
+   "address": "Ambla mnt 36\n45106 TAPA / LÄÄNE-VIRU MAAKOND",
    "languageCode": "U",
+   "schedule": "Sun 14:00 Thu 18:30",
    "phones": [ "+37256470321" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "EA507D69-4ED6-4CA1-8A0A-DD28059F2A43",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.25585,
-   "longitude": 24.99705
+   "longitude": 24.99705,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki espanjankielinen",
@@ -2336,20 +2468,21 @@
    "schedule": "Sun 14:00 Tue 18:45",
    "relatedLanguageCodes": [ "T" ],
    "phones": [ "040 094 9420" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-02-20"
  },
  {
   "geoId": "312C8358-0973-46AA-9AB1-C16B2C81C9D4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.25585,
-   "longitude": 24.99705
+   "longitude": 24.99705,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki Pihlajamäki",
@@ -2358,20 +2491,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "0402204257" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-02-20"
  },
  {
   "geoId": "81669EDC-D8C7-4EEF-B1AB-759968E90B91",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.25585,
-   "longitude": 24.99705
+   "longitude": 24.99705,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki Puistola",
@@ -2380,20 +2514,21 @@
    "languageCode": "FI",
    "schedule": "Sun 17:00 Wed 18:30",
    "phones": [ "045 183 9889" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-02-20"
  },
  {
   "geoId": "07F91DE5-CDC1-4BBC-9EF8-E6A9CBCD6436",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.25585,
-   "longitude": 24.99705
+   "longitude": 24.99705,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki ranskankielinen",
@@ -2402,20 +2537,21 @@
    "languageCode": "F",
    "schedule": "Sun 11:00 Wed 18:30",
    "phones": [ "+358&nbsp;40 557 9607" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-02-20"
  },
  {
   "geoId": "D4AD9666-275C-45D5-AD81-5D60AC5F0ED7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.48681,
-   "longitude": 24.78127
+   "longitude": 24.78127,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Nurmijärvi",
@@ -2424,20 +2560,21 @@
    "languageCode": "FI",
    "schedule": "Sun 16:00 Thu 18:45",
    "phones": [ "040-731 42 54" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "95998D4A-757A-46AA-BE54-840B8544F1F3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.25982,
-   "longitude": 24.03172
+   "longitude": 24.03172,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Valkeakoski",
@@ -2446,63 +2583,67 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "0505380432" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C0FCB5B6-8B5B-4E79-8AF4-0149889C8910",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.58396,
-   "longitude": 25.71725
+   "longitude": 25.71725,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Loksa vene",
    "orgType": "CONG",
-   "address": "Posti 4\r\n75805 LOKSA / HARJUMAA",
+   "address": "Posti 4\n75805 LOKSA / HARJUMAA",
    "languageCode": "U",
+   "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "+37256152375" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "45D001A4-3689-4A4B-99CE-5E8538432B35",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.302708,
-   "longitude": 25.003832
+   "longitude": 25.003832,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Vantaa Tikkurila",
    "orgType": "CONG",
-   "address": "Koisotie 20\r\n01300 VANTAA",
+   "address": "Koisotie 20\n01300 VANTAA",
    "languageCode": "FI",
    "schedule": "Sun 16:00 Thu 18:45",
    "phones": [ "+358 50 378 0208" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FC333AFF-E4F4-417B-A9F1-30DCD87F7545",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.302708,
-   "longitude": 25.003832
+   "longitude": 25.003832,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Vantaa venäjänkielinen",
@@ -2511,66 +2652,69 @@
    "languageCode": "U",
    "schedule": "Sat 15:00 Tue 18:45",
    "phones": [ "+358 44 739 2966" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AB81B80C-B300-4040-B59B-11C1FA3AFD07",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.302708,
-   "longitude": 25.003832
+   "longitude": 25.003832,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Vantaa englanninkielinen",
    "orgType": "CONG",
-   "address": "Koisotie 20\r\n01300 VANTAA",
+   "address": "Koisotie 20\n01300 VANTAA",
    "languageCode": "E",
    "schedule": "Sun 11:00 Wed 18:45",
    "relatedLanguageCodes": [ "TG" ],
    "phones": [ "050 575 2020" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9392A534-70E4-48C4-BA14-25CBFA594199",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.302708,
-   "longitude": 25.003832
+   "longitude": 25.003832,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Vantaa tagaloginkielinen ryhmä - Vantaa englanninkielinen",
    "orgType": "GROUP",
-   "address": "Koisotie 20\r\n01300 VANTAA",
+   "address": "Koisotie 20\n01300 VANTAA",
    "languageCode": "TG",
    "schedule": "Sun 14:00 Wed 18:45",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "050 575 2020" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1F94A621-5C87-46C6-BD11-E62DB0037B9A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.21632,
-   "longitude": 25.09108
+   "longitude": 25.09108,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki Vartiokylä",
@@ -2579,20 +2723,21 @@
    "languageCode": "FI",
    "schedule": "Sun 14:00 Wed 18:45",
    "phones": [ "+358 50 411 6968" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "7D48B811-E950-44F6-AB73-F17C81D10378",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.21632,
-   "longitude": 25.09108
+   "longitude": 25.09108,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki Vuosaari",
@@ -2601,20 +2746,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:30 Thu 18:30",
    "phones": [ "040 252 5533" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "A11068C6-C29B-4126-A3AD-05B8A0C1341E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.21632,
-   "longitude": 25.09108
+   "longitude": 25.09108,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki venäjänkielinen",
@@ -2623,20 +2769,21 @@
    "languageCode": "U",
    "schedule": "Sat 15:00 Tue 18:45",
    "phones": [ "+358&nbsp;44 946 4329" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "A571AF5B-A24E-4513-971B-12145E9D8513",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.21632,
-   "longitude": 25.09108
+   "longitude": 25.09108,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki Laajasalo",
@@ -2645,20 +2792,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:45",
    "phones": [ "045 653 0696" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "05D2D1EB-D159-4CC7-8F20-CCB2A1BAC661",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.21632,
-   "longitude": 25.09108
+   "longitude": 25.09108,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki Puotinharju",
@@ -2667,20 +2815,21 @@
    "languageCode": "FI",
    "schedule": "Sun 14:30 Wed 18:30",
    "phones": [ "040 543 8026" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "5AC936A8-F534-4F06-A8A7-D8C95D4C433C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.25383,
-   "longitude": 25.07858
+   "longitude": 25.07858,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki Kontula",
@@ -2689,20 +2838,21 @@
    "languageCode": "FI",
    "schedule": "Sun 14:00 Thu 18:45",
    "phones": [ "+358 46 956 5073" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "8EAE2733-7783-4449-991A-8FCE3A9A674B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.25383,
-   "longitude": 25.07858
+   "longitude": 25.07858,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Helsinki Jakomäki",
@@ -2711,20 +2861,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Wed 18:45",
    "phones": [ "+358 46 956 5073" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "3638D41C-A88A-48BA-8F09-F347AF24F86B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.33932,
-   "longitude": 25.08061
+   "longitude": 25.08061,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Vantaa Koivukylä",
@@ -2733,20 +2884,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Tue 18:45",
    "phones": [ "0402584834" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "022C3CB9-7357-40E8-ABE2-C666EE75B94F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.33932,
-   "longitude": 25.08061
+   "longitude": 25.08061,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Vantaa Korso",
@@ -2755,20 +2907,21 @@
    "languageCode": "FI",
    "schedule": "Sun 14:00 Wed 18:45",
    "phones": [ "040 378 6952" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D218372F-5089-4AC7-9D31-77209F465579",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.99921,
-   "longitude": 24.43377
+   "longitude": 24.43377,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Hämeenlinna Aulanko",
@@ -2777,20 +2930,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Wed 18:30",
    "phones": [ "+358 45 2005252" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "92E78FD1-6DC6-4DCE-8CC8-0F9AB75369C1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.99921,
-   "longitude": 24.43377
+   "longitude": 24.43377,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Hämeenlinna Ahvenisto",
@@ -2799,20 +2953,21 @@
    "languageCode": "FI",
    "schedule": "Sun 14:00 Thu 18:30",
    "phones": [ "045 200 5252" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "43CDD8DB-2B29-4A50-913A-B6AF60236F9B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.46966,
-   "longitude": 24.00981
+   "longitude": 24.00981,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kangasala",
@@ -2821,20 +2976,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 062 3762" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8BDFE7CF-FF3C-46B6-9658-EFEFF127E26E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.6409,
-   "longitude": 24.8407
+   "longitude": 24.8407,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Hyvinkää",
@@ -2843,20 +2999,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Wed 18:45",
    "phones": [ "+358&nbsp;40 584 0419" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "94B28507-1DED-4C37-AE7F-BFDFCE1F4929",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.39159,
-   "longitude": 25.09783
+   "longitude": 25.09783,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kerava",
@@ -2865,20 +3022,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:45",
    "phones": [ "046 587 6211" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A20B9B35-D186-401E-8E23-27FB1BA164CB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.55471,
-   "longitude": 24.96853
+   "longitude": 24.96853,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Jokela",
@@ -2887,20 +3045,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Tue 18:45",
    "phones": [ "045 636 0366" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1749130D-583E-4E11-95D5-272C057D46ED",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.74681,
-   "longitude": 24.77673
+   "longitude": 24.77673,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Riihimäki läntinen",
@@ -2908,21 +3067,22 @@
    "address": "Ruotsinkatu 1\r\n11120 RIIHIMÄKI",
    "languageCode": "FI",
    "schedule": "Sun 14:30 Tue 18:45",
-   "phones": [],
-   "isPrivateMtgPlace": false
+   "phones": [ "+358417158522" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "80D5EF44-0357-4EC9-A181-E5C808809D2F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.74681,
-   "longitude": 24.77673
+   "longitude": 24.77673,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Riihimäki itäinen",
@@ -2931,41 +3091,44 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+358 41 715 8522" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D6460503-CC71-4E18-B2ED-4658EE6DFA89",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 58.09539,
-   "longitude": 27.45884
+   "longitude": 27.45884,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Räpina",
    "orgType": "CONG",
-   "address": "Rahu 5\r\n64505 RÄPINA / PÕLVAMAA",
+   "address": "Rahu 5\n64505 RÄPINA / PÕLVAMAA",
    "languageCode": "ST",
+   "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "56457400" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "8261C66C-387F-40EE-B933-ACDA3C7BB298",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 58.09539,
-   "longitude": 27.45884
+   "longitude": 27.45884,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Räpina vene grupp - Räpina",
@@ -2975,20 +3138,21 @@
    "schedule": "Sun 11:00 Thu 19:00",
    "relatedLanguageCodes": [ "ST" ],
    "phones": [ "56457400" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "BDF16219-E9E1-45C8-9F0C-5F9896E615F8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.93514,
-   "longitude": 24.63636
+   "longitude": 24.63636,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Turenki",
@@ -2997,20 +3161,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 067 8199" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8F313BFF-7312-4629-834A-99581FA5583B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.48228,
-   "longitude": 25.10425
+   "longitude": 25.10425,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Järvenpää läntinen",
@@ -3019,20 +3184,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Wed 18:45",
    "phones": [ "045 331 3466" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "491E17FE-C379-4982-91BD-2BFDE0C78BDF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.48228,
-   "longitude": 25.10425
+   "longitude": 25.10425,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Järvenpää itäinen",
@@ -3041,20 +3207,21 @@
    "languageCode": "FI",
    "schedule": "Sun 14:00 Thu 18:30",
    "phones": [ "045 3313466" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "877265A4-EF45-4792-B69B-B80E2BF1DB52",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.352247,
-   "longitude": 26.363191
+   "longitude": 26.363191,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Rakvere vene",
@@ -3063,20 +3230,21 @@
    "languageCode": "U",
    "schedule": "Sun 14:00 Thu 19:00",
    "phones": [ "+37258044828" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "65248D90-A662-4059-9765-F002E9072102",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.352247,
-   "longitude": 26.363191
+   "longitude": 26.363191,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Rakvere eesti",
@@ -3085,20 +3253,21 @@
    "languageCode": "ST",
    "schedule": "Sun 11:00 Wed 18:15",
    "phones": [ "+37256951316" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0978E8A4-22B2-4B12-93BC-7F230E9ACAD3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.149099,
-   "longitude": 24.78613
+   "longitude": 24.78613,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Tuulos",
@@ -3107,20 +3276,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Tue 18:30",
    "phones": [ "+358&nbsp;40 543 3004" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4AB8EFE8-2E26-4383-9035-66CCB9AA230C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.67219,
-   "longitude": 25.27681
+   "longitude": 25.27681,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Mäntsälä",
@@ -3129,20 +3299,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 753 6303" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FCB2996C-9192-4260-A553-ED04D4E8AEEA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.3514,
-   "longitude": 24.60545
+   "longitude": 24.60545,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Pälkäne",
@@ -3151,42 +3322,44 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Tue 18:30",
    "phones": [ "041 4847374" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F9BD1AC9-3F70-45BD-9E1A-01BA83B9D2CB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.37904,
-   "longitude": 25.6096
+   "longitude": 25.6096,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Borgå",
    "orgType": "CONG",
-   "address": "Hollituvantie 14\r\nHållsvedsvägen 14\r\n06450 PORVOO",
+   "address": "Hollituvantie 14\nHållsvedsvägen 14\n06450 PORVOO",
    "languageCode": "Z",
    "schedule": "Sun 11:00 Wed 18:30",
    "phones": [ "040 142 9237" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "74A4B6B4-4A92-423E-AA71-EF6A9AB55634",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.37904,
-   "longitude": 25.6096
+   "longitude": 25.6096,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Porvoo itäinen",
@@ -3195,20 +3368,21 @@
    "languageCode": "FI",
    "schedule": "Sun 14:00 Thu 18:45",
    "phones": [ "040 142 9237" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E478CFB9-55EF-402A-8B75-82827DC47427",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.37904,
-   "longitude": 25.6096
+   "longitude": 25.6096,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Porvoo läntinen",
@@ -3217,20 +3391,21 @@
    "languageCode": "FI",
    "schedule": "Sun 17:00 Tue 18:45",
    "phones": [ "040 142 9237" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3271C572-D499-4990-8932-FBD1759971E4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.98497,
-   "longitude": 24.05717
+   "longitude": 24.05717,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Ruovesi",
@@ -3239,20 +3414,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Wed 18:30",
    "phones": [ "041 434 4376" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8BFAC784-E309-45B2-AE88-4E03E3DB9B13",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.68444,
-   "longitude": 24.36378
+   "longitude": 24.36378,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Orivesi",
@@ -3261,20 +3437,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 502 8458" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1F38EC04-17F9-4AF8-AD0A-3203177524D8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.87544,
-   "longitude": 25.271
+   "longitude": 25.271,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kärkölä",
@@ -3283,20 +3460,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 085 9558" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CD134FB6-90AC-407B-98FA-CFCC7B76FBB9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.81242,
-   "longitude": 25.73178
+   "longitude": 25.73178,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Orimattila",
@@ -3305,20 +3483,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Wed 18:30",
    "phones": [ "040 175 1731" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "45C3E7D0-785D-4AB9-96DA-67717FFF2282",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.96679,
-   "longitude": 25.63095
+   "longitude": 25.63095,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Lahti eteläinen",
@@ -3327,20 +3506,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "041 531 3408" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "229B4551-C526-4429-9374-BD050A1B374E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.96679,
-   "longitude": 25.63095
+   "longitude": 25.63095,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Lahti läntinen",
@@ -3349,20 +3529,21 @@
    "languageCode": "FI",
    "schedule": "Sun 15:00 Wed 18:30",
    "phones": [ "041 531 3408" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E42FF83A-C5CB-4D54-8638-9EA5BD2568C4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.02661,
-   "longitude": 24.59553
+   "longitude": 24.59553,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Mänttä",
@@ -3372,20 +3553,21 @@
    "schedule": "Sun 11:00 Tue 18:30",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "044 770 0465" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8B135D9A-D75F-4A86-B9AA-591F5D84369A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 62.02661,
-   "longitude": 24.59553
+   "longitude": 24.59553,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Mänttä venäjänkielinen ryhmä - Mänttä",
@@ -3395,20 +3577,21 @@
    "schedule": "Sun 13:30 Tue 18:30",
    "relatedLanguageCodes": [ "FI" ],
    "phones": [ "044 770 0465" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A70301A0-EE97-414D-9EFC-120C18D14154",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.56325,
-   "longitude": 24.08667
+   "longitude": 24.08667,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Ähtäri",
@@ -3417,20 +3600,21 @@
    "languageCode": "FI",
    "schedule": "Sun 12:00 Thu 18:45",
    "phones": [ "+358&nbsp;40 732 0473" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AF6BBDF2-EF35-4426-9271-AE77782B0678",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.99328,
-   "longitude": 25.66487
+   "longitude": 25.66487,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Lahti itäinen",
@@ -3439,20 +3623,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Wed 18:30",
    "phones": [ "‭040 501 4075‬" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3CF82153-FBBD-40FC-8470-1DB8B9C61029",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.99328,
-   "longitude": 25.66487
+   "longitude": 25.66487,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Lahti pohjoinen",
@@ -3465,43 +3650,45 @@
     "FID"
    ],
    "phones": [ "046 887 7710" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "01E70C88-0083-488C-B551-EE69DE184694",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.99328,
-   "longitude": 25.66487
+   "longitude": 25.66487,
+   "iso": "FIN"
   },
   "properties": {
-   "orgName": "Lahti englanninkielinen esiryhmä - Lahti pohjoinen",
+   "orgName": "Lahti englanninkielinen ryhmä - Lahti pohjoinen",
    "orgType": "GROUP",
    "address": "Lahdenkatu 53\n15140 LAHTI",
    "languageCode": "E",
    "schedule": "Sun 16:00 Thu 18:30",
    "relatedLanguageCodes": [ "FI" ],
    "phones": [ "046 887 7710" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "81E423A4-A1CE-4184-946B-BDC79640E690",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.99328,
-   "longitude": 25.66487
+   "longitude": 25.66487,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Lahti viittomakielinen ryhmä - Lahti pohjoinen",
@@ -3511,20 +3698,21 @@
    "schedule": "Sun 16:00 Thu 18:30",
    "relatedLanguageCodes": [ "FI" ],
    "phones": [ "046 887 7710" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E263564B-F999-489D-9A2E-B5790E88FDF8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.99328,
-   "longitude": 25.66487
+   "longitude": 25.66487,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Lahti venäjänkielinen",
@@ -3533,66 +3721,69 @@
    "languageCode": "U",
    "schedule": "Sat 12:00 Tue 18:30",
    "phones": [ "+358&nbsp;44 339 3911" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A1335741-2354-414E-89B5-4D080F16FB2C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.4607,
-   "longitude": 26.21294
+   "longitude": 26.21294,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Loviisa",
    "orgType": "CONG",
-   "address": "Gislomintie 2\r\nGislomvägen 2\r\n07900 LOVIISA",
+   "address": "Gislomintie 2\nGislomvägen 2\n07900 LOVIISA",
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "relatedLanguageCodes": [ "Z" ],
    "phones": [ "+358&nbsp;400464254" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F7A8643A-82A0-4ABE-BDD9-2A4BC8D2927A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.4607,
-   "longitude": 26.21294
+   "longitude": 26.21294,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Lovisa svenska grupp - Loviisa",
    "orgType": "GROUP",
-   "address": "Gislomintie 2\r\nGislomvägen 2\r\n07900 LOVIISA",
+   "address": "Gislomintie 2\nGislomvägen 2\n07900 LOVIISA",
    "languageCode": "Z",
    "schedule": "Sun 11:00 Thu 18:30",
    "relatedLanguageCodes": [ "FI" ],
    "phones": [ "+358&nbsp;400464254" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-05-29"
  },
  {
   "geoId": "AC8E2B3A-D1FD-4D8A-833C-84A989B4CB64",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.53408,
-   "longitude": 25.15864
+   "longitude": 25.15864,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kuhmoinen",
@@ -3601,20 +3792,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "044 983 5735" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AD9FC3D0-B538-4157-ADF0-66C87891A77C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.16525,
-   "longitude": 25.58847
+   "longitude": 25.58847,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Vääksy",
@@ -3623,20 +3815,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 049 3795" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0DA7370D-AFC8-4ACA-98BF-956FFADF91AC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.35636,
-   "longitude": 27.40836
+   "longitude": 27.40836,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Jõhvi vene",
@@ -3645,20 +3838,21 @@
    "languageCode": "U",
    "schedule": "Sun 11:15 Wed 19:00",
    "phones": [ "+372&nbsp;5784 6161" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "98F67ECC-AB5E-441C-88FD-EFB2A1E3E3AE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 59.35636,
-   "longitude": 27.40836
+   "longitude": 27.40836,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Jõhvi eesti",
@@ -3667,20 +3861,21 @@
    "languageCode": "ST",
    "schedule": "Sun 14:00 Thu 18:30",
    "phones": [ "+37255634838" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4C7DF4F3-CE4B-4EC8-B53A-AFF5339A89AF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.35636,
-   "longitude": 27.40836
+   "longitude": 27.40836,
+   "iso": "EST"
   },
   "properties": {
    "orgName": "Sillamäe vene",
@@ -3689,20 +3884,21 @@
    "languageCode": "U",
    "schedule": "Sat 11:30 Tue 18:30",
    "phones": [ "+37253646909" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F74B4BA9-BEE9-42B6-9577-C8F39A745252",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.9495,
-   "longitude": 25.90609
+   "longitude": 25.90609,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Nastola",
@@ -3711,20 +3907,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "050 514 9112" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E9F0E9EB-E28E-4F9A-935B-008AA55FE793",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.25268,
-   "longitude": 24.71611
+   "longitude": 24.71611,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Keuruu",
@@ -3733,20 +3930,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 737 1034" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8BB8E5EB-BDE9-4CA4-B927-DE51C9E9F8B1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.85994,
-   "longitude": 25.21188
+   "longitude": 25.21188,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Jämsä",
@@ -3755,20 +3953,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "050 492 0346" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C6AB0454-B5AA-4AC0-8018-1871F65E83B4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.50714,
-   "longitude": 25.66644
+   "longitude": 25.66644,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Sysmä",
@@ -3777,20 +3976,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "040-776 3088" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "333D0C00-13BC-492C-99C9-6278EE883766",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.89348,
-   "longitude": 26.33879
+   "longitude": 26.33879,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kausala",
@@ -3799,20 +3999,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 868 1520" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "47C7A01C-CE0C-4B4F-BC7F-9D24272BE5CB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.20736,
-   "longitude": 26.04261
+   "longitude": 26.04261,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Heinola",
@@ -3822,20 +4023,21 @@
    "schedule": "Sun 11:00 Thu 18:30",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "0500813869 FI | 0449111390 RU" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F65B81DE-DFF2-409C-8298-5FCF2E208ED6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 61.20736,
-   "longitude": 26.04261
+   "longitude": 26.04261,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Heinola venäjänkielinen ryhmä - Heinola",
@@ -3845,20 +4047,21 @@
    "schedule": "Sun 11:00 Wed 18:30",
    "relatedLanguageCodes": [ "FI" ],
    "phones": [ "0500813869 FI | 0449111390 RU" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B1230127-5A5A-4188-86AB-E166CDAFE523",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.49395,
-   "longitude": 26.89506
+   "longitude": 26.89506,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kotka keskusta",
@@ -3867,20 +4070,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+358&nbsp;50 578 0471" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DF75CF32-3EC8-4076-B91B-E97552563EC2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.49395,
-   "longitude": 26.89506
+   "longitude": 26.89506,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kotka pohjoinen",
@@ -3890,20 +4094,21 @@
    "schedule": "Sun 14:00 Wed 18:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "050 400 5315" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "25D7A061-8CC6-4D5B-AEC3-DE6A9AF94B2F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.49395,
-   "longitude": 26.89506
+   "longitude": 26.89506,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kotka venäjänkielinen",
@@ -3912,43 +4117,45 @@
    "languageCode": "U",
    "schedule": "Sat 13:00 Tue 18:30",
    "phones": [ "+358&nbsp;443502324" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "294CDA2B-2B28-43C8-B9B6-CA7D179A635F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 60.49395,
-   "longitude": 26.89506
+   "longitude": 26.89506,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kotka englanninkielinen esiryhmä - Kotka pohjoinen",
    "orgType": "GROUP",
    "address": "Allintie 57a\r\n48230 KOTKA",
    "languageCode": "E",
-   "schedule": "Sun 14:00",
+   "schedule": "Sun 14:00 undefined null",
    "relatedLanguageCodes": [ "FI" ],
    "phones": [ "050 400 5315" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "07DF599D-1A18-4124-8212-304D20EA90F1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.68873,
-   "longitude": 26.80149
+   "longitude": 26.80149,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Anjala",
@@ -3957,20 +4164,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 533 7966" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E8DFA719-40AD-40E6-A1CA-86421FB7E956",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.90147,
-   "longitude": 26.63411
+   "longitude": 26.63411,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kouvola",
@@ -3979,20 +4187,21 @@
    "languageCode": "FI",
    "schedule": "Sun 16:00 Thu 18:30",
    "phones": [ "046 932 8595" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "902B8EC4-71C7-4313-BA13-0CF5A287B427",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.90147,
-   "longitude": 26.63411
+   "longitude": 26.63411,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kuusankoski",
@@ -4001,20 +4210,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Wed 18:30",
    "phones": [ "040 075 6340" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "547640DE-7863-4CF9-8ABA-B2E6E1B4C27B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 59.385308,
-   "longitude": 28.189119
+   "longitude": 28.189119,
+   "iso": "RUS"
   },
   "properties": {
    "orgName": "Narva vene",
@@ -4023,20 +4233,21 @@
    "languageCode": "U",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+372 5822 6054" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "234E21DD-5DBF-4C3B-A543-7BFB716D70F2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.5812,
-   "longitude": 26.014
+   "longitude": 26.014,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Hartola",
@@ -4045,20 +4256,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Tue 18:30",
    "phones": [ "044 552 2402" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6671170D-90B1-4587-AE9C-E5A9FA7F0AF5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.05825,
-   "longitude": 25.59687
+   "longitude": 25.59687,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Korpilahti",
@@ -4067,20 +4279,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 840 0300" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "41016E70-2B25-4E4B-A443-7ABEEA350288",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.17565,
-   "longitude": 24.51518
+   "longitude": 24.51518,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Perho",
@@ -4089,20 +4302,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "044 363 3145" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A1E851A1-0B8A-4861-82EE-CAB6391BA825",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.562,
-   "longitude": 27.2376
+   "longitude": 27.2376,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Hamina",
@@ -4111,20 +4325,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "05 3440264" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "09C51DB4-C141-4F1C-AC7B-E65A7C9D7457",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.15622,
-   "longitude": 25.75758
+   "longitude": 25.75758,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Jyväskylä Säynätsalo",
@@ -4133,20 +4348,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "044 580 0051" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8425C95C-2B2A-4977-B682-A73A9923F155",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.7101,
-   "longitude": 25.2217
+   "longitude": 25.2217,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Saarijärvi",
@@ -4155,20 +4371,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:00",
    "phones": [ "045 2319 555" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5775F0AA-B21A-476F-BAC4-6071CAE95FDA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.49617,
-   "longitude": 25.44825
+   "longitude": 25.44825,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Uurainen",
@@ -4177,20 +4394,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "0400808026" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "757E98DF-ACB3-4111-942F-7C0F1CEEC687",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.24651,
-   "longitude": 25.77872
+   "longitude": 25.77872,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Jyväskylä itäinen",
@@ -4200,20 +4418,21 @@
    "schedule": "Sun 11:00 Thu 18:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "045 350 8059" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9B3E4B1F-9B60-4A7D-9311-A7A529ECCCA2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.24651,
-   "longitude": 25.77872
+   "longitude": 25.77872,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Jyväskylä pohjoinen",
@@ -4222,20 +4441,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+358&nbsp;40 064 9234" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F10D15D7-D4C0-43D5-8D4F-A08629EF9AEB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.24651,
-   "longitude": 25.77872
+   "longitude": 25.77872,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Jyväskylä läntinen",
@@ -4244,20 +4464,21 @@
    "languageCode": "FI",
    "schedule": "Sun 14:00 Wed 18:30",
    "phones": [ "045 350 8059  (+358 45 350 8059)" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AE66221A-7EB4-4ADE-9EEE-35BECFE53CB8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 62.24651,
-   "longitude": 25.77872
+   "longitude": 25.77872,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Jyväskylä englanninkielinen ryhmä - Jyväskylä itäinen",
@@ -4267,20 +4488,21 @@
    "schedule": "Sun 11:00 Thu 18:30",
    "relatedLanguageCodes": [ "FI" ],
    "phones": [ "045 350 8059" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C18E5265-40BE-4AB7-8DEF-928513C5E2A7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.41122,
-   "longitude": 26.88442
+   "longitude": 26.88442,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Mäntyharju",
@@ -4289,20 +4511,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+358&nbsp;500 751671" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C02065DE-B7ED-4D98-A98A-2023966F1FD1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.6056,
-   "longitude": 25.7072
+   "longitude": 25.7072,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Äänekoski",
@@ -4311,20 +4534,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "045 3508059" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BA872FFB-9C41-48A0-8025-073607224EBF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.93453,
-   "longitude": 24.41492
+   "longitude": 24.41492,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Sievi",
@@ -4333,20 +4557,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+358&nbsp;40 0669885" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F79136A1-2F74-4396-9191-1900D31A9701",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.42158,
-   "longitude": 25.93683
+   "longitude": 25.93683,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Laukaa",
@@ -4355,20 +4580,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 366 5459" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FCF746B2-9113-41AF-8110-073D78EE6FE4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 60.91879,
-   "longitude": 27.54686
+   "longitude": 27.54686,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Luumäki",
@@ -4377,20 +4603,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Wed 18:30",
    "phones": [ "050 387 0080" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F3D7D99F-BBF6-415D-B5AE-9E9EAD47862D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.60603,
-   "longitude": 24.93303
+   "longitude": 24.93303,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Reisjärvi",
@@ -4399,20 +4626,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+358 44 230 7230" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "884BC31B-67DB-4121-B216-8963ED48E3FD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.99883,
-   "longitude": 26.62644
+   "longitude": 26.62644,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kangasniemi",
@@ -4421,20 +4649,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "0443110986" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9EBA95C4-EB96-401F-ADE6-B0150D84DD65",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.3032,
-   "longitude": 26.487
+   "longitude": 26.487,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Hankasalmi",
@@ -4443,20 +4672,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 590 4431" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8ECA41A1-A063-4603-95A0-B92054883C1E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.3723,
-   "longitude": 25.55922
+   "longitude": 25.55922,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Pihtipudas",
@@ -4465,20 +4695,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "0500519409" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4F15D660-2D01-4F18-923F-1F7C4A933233",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.08042,
-   "longitude": 25.85322
+   "longitude": 25.85322,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Viitasaari",
@@ -4487,20 +4718,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "045 332 7365" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C0465B4B-2971-40B7-AE52-6A4F904DA003",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.6895,
-   "longitude": 27.25586
+   "longitude": 27.25586,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Mikkeli",
@@ -4509,20 +4741,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "044 270 3336" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6BCDE628-1406-4299-A6BF-09B65C119991",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.82681,
-   "longitude": 25.18361
+   "longitude": 25.18361,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Haapajärvi",
@@ -4531,20 +4764,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 508 3657" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "79BF4163-9D53-4421-9A75-1C16FCC18407",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.06314,
-   "longitude": 28.20597
+   "longitude": 28.20597,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Lappeenranta",
@@ -4553,20 +4787,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 220 7628" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BFCF10A4-E410-4751-B373-43AFA280D993",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.3,
-   "longitude": 27.17062
+   "longitude": 27.17062,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Pieksämäki",
@@ -4575,20 +4810,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "0400252215" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C4E30810-003C-44B0-9D01-706D6AAC2732",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.12342,
-   "longitude": 28.49745
+   "longitude": 28.49745,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Joutseno",
@@ -4597,20 +4833,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Wed 18:30",
    "phones": [ "0443733904" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F804FC01-2292-4323-B88A-8E86A075F3AE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.650437,
-   "longitude": 27.073418
+   "longitude": 27.073418,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Suonenjoki",
@@ -4619,20 +4856,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "0400647139" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AD75E70B-7FD8-4814-A4EA-8E8AC7DFF475",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.90244,
-   "longitude": 27.88394
+   "longitude": 27.88394,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Juva",
@@ -4641,20 +4879,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+358&nbsp;50 309 6329" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "99500EF2-368C-4C8E-A698-5CF66C30ACFE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.18484,
-   "longitude": 28.79989
+   "longitude": 28.79989,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Imatra",
@@ -4663,20 +4902,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+358&nbsp;50 553 5668" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B3435DC5-CC69-41EF-BA82-44D60F8F11F2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 61.18484,
-   "longitude": 28.79989
+   "longitude": 28.79989,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Imatra venäjänkielinen",
@@ -4685,20 +4925,21 @@
    "languageCode": "U",
    "schedule": "Sun 14:00 Tue 18:30",
    "phones": [ "+358&nbsp;45 144 3187" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4CCAD615-5379-4075-905F-29F3EDE7C6CE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.22928,
-   "longitude": 26.77512
+   "longitude": 26.77512,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Pielavesi",
@@ -4707,20 +4948,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "045 1314422" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9CCB3812-2534-48B0-883C-2AEC61FB37A1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.78308,
-   "longitude": 28.36128
+   "longitude": 28.36128,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Sulkava",
@@ -4729,20 +4971,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+358405203527" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E2CE4FB6-B446-4C9D-B997-9DA352BCB87D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.31403,
-   "longitude": 27.85919
+   "longitude": 27.85919,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Varkaus",
@@ -4751,20 +4994,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+358&nbsp;45 856 5576" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AF413CC1-8D97-492A-8DD3-95EC05201CA0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.484086,
-   "longitude": 27.704195
+   "longitude": 27.704195,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Leppävirta",
@@ -4773,20 +5017,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "044 074 4520" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1328C8A1-BC9B-4038-BBEB-388066593595",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.65067,
-   "longitude": 26.59644
+   "longitude": 26.59644,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kiuruvesi",
@@ -4795,20 +5040,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "050 342 7199" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D0EA31CB-D70F-49E2-828F-2D8EA7AC1352",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.06573,
-   "longitude": 28.30126
+   "longitude": 28.30126,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Rantasalmi",
@@ -4817,20 +5063,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:00",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5EDA6CFF-2DDF-4DA2-9C45-FFC09FFF64C4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 62.84075,
-   "longitude": 27.64208
+   "longitude": 27.64208,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kuopio venäjänkielinen ryhmä - Kuopio läntinen",
@@ -4840,20 +5087,21 @@
    "schedule": "Sun 11:00 Tue 18:45",
    "relatedLanguageCodes": [ "FI" ],
    "phones": [ "0443501592" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-02-20"
  },
  {
   "geoId": "D9974738-2C8B-4B3D-9F9E-0FD6B795DAE6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.84075,
-   "longitude": 27.64208
+   "longitude": 27.64208,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kuopio itäinen",
@@ -4861,21 +5109,22 @@
    "address": "Jalkasenkatu 8\n70820 KUOPIO",
    "languageCode": "FI",
    "schedule": "Sun 14:00 Thu 18:30",
-   "phones": [ "040 870 8110" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "0408708110" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0F49E2E9-2876-464F-82FB-1BC7D3399272",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.84075,
-   "longitude": 27.64208
+   "longitude": 27.64208,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kuopio läntinen",
@@ -4885,20 +5134,21 @@
    "schedule": "Sun 11:00 Tue 18:45",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "0443501592" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C14ED097-1BCD-4D69-8BB4-0DFAA903561A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.11028,
-   "longitude": 27.64472
+   "longitude": 27.64472,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Siilinjärvi",
@@ -4907,20 +5157,21 @@
    "languageCode": "FI",
    "schedule": "Sun 15:00 Thu 18:30",
    "phones": [ "0449196098" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D59BD41C-A6D6-4570-A19E-39EC3E05A528",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.36831,
-   "longitude": 27.39856
+   "longitude": 27.39856,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Lapinlahti",
@@ -4928,21 +5179,22 @@
    "address": "Kangaslahdentie 20\n73100 LAPINLAHTI",
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
-   "phones": [ "+358 44 277 8720" ],
-   "isPrivateMtgPlace": false
+   "phones": [],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "63198CC7-A6B7-4E36-B04F-88DD9CA21283",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.54522,
-   "longitude": 27.22297
+   "longitude": 27.22297,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Iisalmi",
@@ -4951,20 +5203,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "0449747198" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "12FF02F3-6C75-41D9-800C-E4D11EB3A6C4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.86606,
-   "longitude": 28.93747
+   "longitude": 28.93747,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Savonlinna eteläinen",
@@ -4974,20 +5227,21 @@
    "schedule": "Sun 11:00 Thu 18:30",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "015 250 525" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AC8BFADF-45D2-424B-A643-74C66D82E242",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.86606,
-   "longitude": 28.93747
+   "longitude": 28.93747,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Savonlinna pohjoinen",
@@ -4996,20 +5250,21 @@
    "languageCode": "FI",
    "schedule": "Sun 15:00 Tue 18:30",
    "phones": [ "015 250 525" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "ACD74F5E-E22D-4E4D-AFDB-7CE7AA5B6D59",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 61.86606,
-   "longitude": 28.93747
+   "longitude": 28.93747,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Savonlinna venäjänkielinen ryhmä - Savonlinna eteläinen",
@@ -5019,20 +5274,21 @@
    "schedule": "Sun 11:00 Thu 18:30",
    "relatedLanguageCodes": [ "FI" ],
    "phones": [ "015 250 525" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-05-29"
  },
  {
   "geoId": "30DEC907-EDCA-4E3D-890D-182A1B4BA23D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.41942,
-   "longitude": 28.58833
+   "longitude": 28.58833,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Heinävesi",
@@ -5041,20 +5297,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+358&nbsp;40 845 2131" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1A32ABAD-1EDF-4173-91CA-DC3F8341EB59",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 61.60554,
-   "longitude": 29.47728
+   "longitude": 29.47728,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Parikkala",
@@ -5063,20 +5320,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 073 5020" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BAEAD7B6-9060-472C-9916-7EA280672DDC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.20167,
-   "longitude": 28.07306
+   "longitude": 28.07306,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Nilsiä",
@@ -5085,20 +5343,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "0400344790" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "1BB0BC3E-3F49-4572-A970-6F2548C977A3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.8036,
-   "longitude": 28.49753
+   "longitude": 28.49753,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Tuusniemi",
@@ -5107,20 +5366,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "+358&nbsp;44 327 4868" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1A67B158-BCD8-4776-8358-584ED27F1131",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.02481,
-   "longitude": 28.41261
+   "longitude": 28.41261,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Juankoski",
@@ -5129,20 +5389,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Tue 18:30",
    "phones": [ "044 275 5584" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A2EAEABE-B2E2-499B-9528-57AA01766F69",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.036634,
-   "longitude": 29.543497
+   "longitude": 29.543497,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Raikuu",
@@ -5151,20 +5412,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "0401845234" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D6BC813C-3E06-4E2F-AF7B-46F6FB4FA872",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.733186,
-   "longitude": 29.05343
+   "longitude": 29.05343,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Outokumpu",
@@ -5173,20 +5435,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "044 5908195" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9FC27C27-A04D-4BAC-9978-AEAFB475AE87",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.11096,
-   "longitude": 30.1546
+   "longitude": 30.1546,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Kitee",
@@ -5195,20 +5458,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "050 454 6740" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "31F141AC-0546-4241-A675-405A47D4DB48",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.61809,
-   "longitude": 29.82894
+   "longitude": 29.82894,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Joensuu läntinen",
@@ -5218,20 +5482,21 @@
    "schedule": "Sun 11:00 Wed 18:30",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "046 943 3006" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BE198612-8380-46B6-8CA2-DBD78E502654",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.61809,
-   "longitude": 29.82894
+   "longitude": 29.82894,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Joensuu itäinen",
@@ -5240,20 +5505,21 @@
    "languageCode": "FI",
    "schedule": "Sun 14:00 Thu 18:30",
    "phones": [ "040 250 7853" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B3675F57-84DF-47A5-83FE-76AE64BA7F99",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 62.61809,
-   "longitude": 29.82894
+   "longitude": 29.82894,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Joensuu venäjänkielinen ryhmä - Joensuu läntinen",
@@ -5263,20 +5529,21 @@
    "schedule": "Sun 11:00 Wed 18:30",
    "relatedLanguageCodes": [ "FI" ],
    "phones": [ "046 943 3006" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3182C3BA-2108-41AB-9D69-7EDE4441B812",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.24292,
-   "longitude": 29.23617
+   "longitude": 29.23617,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Juuka",
@@ -5285,20 +5552,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 531 9633" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "32915015-1BFF-4A46-B2B3-74B85E202D21",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.55637,
-   "longitude": 29.06811
+   "longitude": 29.06811,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Nurmes",
@@ -5307,20 +5575,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Wed 18:00",
    "phones": [ "+358&nbsp;40 825 5609" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CDB1788A-5F24-4EC7-B823-D1C6114E088D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.89651,
-   "longitude": 30.2001
+   "longitude": 30.2001,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Eno",
@@ -5329,20 +5598,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "050 577 2307" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "104169E2-8440-475A-99DF-97EEE26EB505",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.335217,
-   "longitude": 29.985592
+   "longitude": 29.985592,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Lieksa",
@@ -5351,20 +5621,21 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:00",
    "phones": [ "040 554 4552" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "01A8221B-6438-4634-80AB-89B3307FEBF9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 62.686,
-   "longitude": 30.93958
+   "longitude": 30.93958,
+   "iso": "FIN"
   },
   "properties": {
    "orgName": "Ilomantsi",
@@ -5373,11 +5644,11 @@
    "languageCode": "FI",
    "schedule": "Sun 11:00 Thu 18:30",
    "phones": [ "040 038 6296" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

@@ -2,10 +2,11 @@
  {
   "geoId": "F38CCE47-A603-4261-8C08-046D8D245A35",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 29.556963,
-   "longitude": 34.954098
+   "longitude": 34.954098,
+   "iso": "JOR"
   },
   "properties": {
    "orgName": "אילת רוסית",
@@ -15,20 +16,21 @@
    "languageCode": "U",
    "schedule": "Fri 19:00 Tue 19:00",
    "phones": [ "052 685 0467   Евгений" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8A421C15-38CA-44F0-8C24-7FDACA1D8E0E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 31.259091,
-   "longitude": 34.795863
+   "longitude": 34.795863,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "באר שבע עברית",
@@ -39,20 +41,21 @@
    "languageCode": "Q",
    "schedule": "Sat 10:00 Wed 18:30",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "04D1BE36-A5C4-411A-AFC0-28774F969F1B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 31.259091,
-   "longitude": 34.795863
+   "longitude": 34.795863,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "באר שבע מזרח רוסית",
@@ -63,20 +66,21 @@
    "languageCode": "U",
    "schedule": "Thu 18:30 Mon 18:30",
    "phones": [ "054-8032810" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5783340C-A30D-4A0A-A10C-C2B2C863E33C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 31.259091,
-   "longitude": 34.795863
+   "longitude": 34.795863,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "באר שבע מערב רוסית",
@@ -87,20 +91,21 @@
    "languageCode": "U",
    "schedule": "Sun 18:45 Tue 18:45",
    "phones": [ "0545336639" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5A4AC63F-9293-4FD6-822D-48E52DC56C88",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 31.259091,
-   "longitude": 34.795863
+   "longitude": 34.795863,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "ערד - באר שבע מזרח רוסית",
@@ -109,22 +114,23 @@
    "address": "מצדה 6-35\r\nבאר שבע84357",
    "transliteratedAddress": "6-35 Derech Metsada 1st floor\r\nBeer Sheva84357\r\n",
    "languageCode": "U",
-   "schedule": "Thu 18:45",
+   "schedule": "Thu 18:45 undefined null",
    "phones": [ "054-8032810" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FAABBF34-69B4-42AE-B733-31D1788E8B4D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 31.661721,
-   "longitude": 34.587581
+   "longitude": 34.587581,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "אשקלון רוסית",
@@ -133,22 +139,23 @@
    "address": "כצנלסון 13\r\nבית ימין\r\nאשקלון7862313",
    "transliteratedAddress": "13 Berl Katsnelson St\r\nBeit Yamin\r\nAshkelon7862313\r\n",
    "languageCode": "U",
-   "schedule": "Sun 19:00 Tue 19:00",
+   "schedule": "Sun 19:00 Wed 19:00",
    "phones": [ "055-9799569" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4D3DEB94-0812-4A94-856F-293AB3BD4EFE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 31.812503,
-   "longitude": 34.658443
+   "longitude": 34.658443,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "אשדוד רוסית",
@@ -159,20 +166,21 @@
    "languageCode": "U",
    "schedule": "Thu 19:00 Tue 19:00",
    "phones": [ "+972 54-469-2046" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AA3B7A63-4C50-4ED4-A513-B621244C0D2B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 31.812503,
-   "longitude": 34.658443
+   "longitude": 34.658443,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "אשדוד עברית",
@@ -183,20 +191,21 @@
    "languageCode": "Q",
    "schedule": "Fri 17:00 Wed 19:00",
    "phones": [ "055-3054049" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AC8DBC17-4C21-45C8-8C73-53FD8368F634",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 31.99012,
-   "longitude": 34.76706
+   "longitude": 34.76706,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "ראשון לציון עברית",
@@ -207,20 +216,21 @@
    "languageCode": "Q",
    "schedule": "Sat 10:00 Tue 19:00",
    "phones": [ "0547168855" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BA5FEF04-6CE2-4746-A7BF-EE9BD158881A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 31.99012,
-   "longitude": 34.76706
+   "longitude": 34.76706,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "בת ים רוסית",
@@ -231,20 +241,21 @@
    "languageCode": "U",
    "schedule": "Sun 19:00 Wed 19:00",
    "phones": [ "054-8766174" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6FB1FBC4-4FF7-40A3-B580-7EC774176EC7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 31.99012,
-   "longitude": 34.76706
+   "longitude": 34.76706,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "ראשון לציון רוסית",
@@ -255,43 +266,46 @@
    "languageCode": "U",
    "schedule": "Thu 19:00 Mon 19:00",
    "phones": [ "050-953-7823" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A49928EB-5E24-44DF-A2AA-3E5A80747135",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 31.99012,
-   "longitude": 34.76706
+   "longitude": 34.76706,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "תל אביב־יפו ערבית",
    "orgType": "CONG",
    "orgTransliteratedName": "Tel Aviv-Yafo Arabic",
-   "address": "הכשרת הישוב 7/5\r\nקומה 1\r\nראשון לציון75652",
+   "address": "הכשרת הישוב 7/5\nקומה 1\nראשון לציון75652",
    "transliteratedAddress": "7/5 Hakhsharat ha-Yishuv St\r\nFirst Floor\r\nRishon LeZion75652\r\n",
    "languageCode": "A",
+   "schedule": "Fri 18:00 Tue 19:00",
    "phones": [ "+972585066606" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "D51BDCF7-1E69-4450-A927-F8F707D68A81",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 31.99012,
-   "longitude": 34.76706
+   "longitude": 34.76706,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "חולון רוסית",
@@ -302,20 +316,21 @@
    "languageCode": "U",
    "schedule": "Sun 19:00 Wed 19:00",
    "phones": [ "+972545389101" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9E9E6035-F947-4644-A917-0DCC10BA791F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 31.922123,
-   "longitude": 34.878959
+   "longitude": 34.878959,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "רמלה עברית",
@@ -326,20 +341,21 @@
    "languageCode": "Q",
    "schedule": "Fri 17:00 Wed 19:00",
    "phones": [ "+972-526322743" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1408060A-853B-4E9A-B712-2E5C6751DCC4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 31.922123,
-   "longitude": 34.878959
+   "longitude": 34.878959,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "רמלה רוסית",
@@ -350,44 +366,47 @@
    "languageCode": "U",
    "schedule": "Sun 19:00 Thu 19:00",
    "phones": [ "0506788939" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FA87959B-4278-4CAB-8BC5-2201E984649A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 31.710617,
-   "longitude": 35.203821
+   "longitude": 35.203821,
+   "iso": "PSE"
   },
   "properties": {
    "orgName": "بيت لحم",
    "orgType": "CONG",
    "orgTransliteratedName": "Bethlehem",
-   "address": "شارع الجديد\r\nعمارة متري ط ٣\r\nBethlehem",
+   "address": "شارع الجديد\nعمارة متري ط ٣\nBethlehem",
    "transliteratedAddress": "Manger St\nHanna Mitri Building 3rd floor\nBethlehem\n",
    "languageCode": "A",
+   "schedule": "Sat 18:30 Thu 18:30",
    "relatedLanguageCodes": [ "SLP" ],
-   "phones": [ "0599034381" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "+970(0)599034381" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "724C10E8-E333-4760-9C51-3316B5745C09",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 31.749287,
-   "longitude": 35.206238
+   "longitude": 35.206238,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "ירושלים עברית",
@@ -398,66 +417,71 @@
    "languageCode": "Q",
    "schedule": "Sat 18:30 Wed 19:00",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4F0A91F5-B39D-40B6-9773-E85BD67EDFA8",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 31.749287,
-   "longitude": 35.206238
+   "longitude": 35.206238,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "ירושלים רוסית - ראשון לציון רוסית",
    "orgType": "GROUP",
    "orgTransliteratedName": "Rishon LeTsiyon Russian",
-   "address": "האומן 27\r\nירושלים",
+   "address": "האומן 27\nירושלים",
    "transliteratedAddress": "27 HaUman St\n\nJerusalem\nJerusalem\n",
    "languageCode": "U",
+   "schedule": "Thu 19:00 Mon 19:00",
    "phones": [ "050-953-7823" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "5B078946-EC6C-4481-9FF3-6AC33FD5AE16",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 31.749287,
-   "longitude": 35.206238
+   "longitude": 35.206238,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "ירושלים אנגלית",
    "orgType": "CONG",
    "orgTransliteratedName": "Jerusalem English",
-   "address": "האומן 27\r\nירושלים",
+   "address": "האומן 27\nירושלים",
    "transliteratedAddress": "27 HaUman St\n\nJerusalem\nJerusalem\n",
    "languageCode": "E",
+   "schedule": "Sat 12:25 Sat 14:25",
    "phones": [ "972 54 2048022" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "085D65A5-7AD1-4B52-8BF1-5A71FF488E5E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 31.749287,
-   "longitude": 35.206238
+   "longitude": 35.206238,
+   "iso": "ISR"
   },
   "properties": {
    "orgName": "ירושלים ערבית - بيت لحم",
@@ -468,20 +492,21 @@
    "languageCode": "A",
    "schedule": "Fri 18:30",
    "phones": [ "0599034381" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "364229F7-6FC0-4DF3-B04C-D4C3312DCDEE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 31.897672,
-   "longitude": 35.204601
+   "longitude": 35.204601,
+   "iso": "PSE"
   },
   "properties": {
    "orgName": "رام الله",
@@ -490,12 +515,13 @@
    "address": "Peace Street 8\nRamallah",
    "transliteratedAddress": "8 Peace St\nRamallah\n",
    "languageCode": "A",
+   "schedule": "Sat 18:30 Tue 18:30",
    "phones": [ "0597357414" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  }
 ]

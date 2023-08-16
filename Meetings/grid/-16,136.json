@@ -1,31 +1,11 @@
 [
  {
-  "geoId": "4F17F1EB-6A09-4F30-B454-9F70A7FB8798",
-  "type": "weekly",
-  "isPrimary": true,
-  "location": {
-   "latitude": -12.18326,
-   "longitude": 136.78464
-  },
-  "properties": {
-   "orgName": "Nhulunbuy Isolated Group - Nhulunbuy NT",
-   "orgType": "CONG",
-   "address": "Nhulunbuy School Library\r\nChesterfield Circuit\r\nNHULUNBUY  NT  0880",
-   "languageCode": "E",
-   "phones": [ "0476539414" ],
-   "isPrivateMtgPlace": false
-  },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
-  "firstSeen": "2023-06-02"
- },
- {
   "geoId": "acnc.gov.au-98C9F1AB-98C9F1ABAFDE-3D2FB9FA72E5",
   "type": "weekly",
   "location": {
    "latitude": -12.2518716,
-   "longitude": 136.8918464
+   "longitude": 136.8918464,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Nhulunbuy",
@@ -33,30 +13,32 @@
    "address": "Lot 121 Gumatj Rd, Nhulunbuy, NT 880",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2019-02-01",
-  "active": false,
+  "active": 0,
   "firstSeen": "2019-02-01"
  },
  {
   "geoId": "034299F3-1017-406F-ACCE-B7E96C0103B1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.623383,
-   "longitude": 141.882616
+   "longitude": 141.882616,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Weipa Isolated Group - Weipa QLD",
    "orgType": "CONG",
    "address": "Lot 358 Northern Ave\nROCKY POINT  QLD  4874",
    "languageCode": "E",
+   "schedule": "Sun 15:00 Wed 19:00",
    "phones": [ "0400056227" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -64,7 +46,8 @@
   "type": "weekly",
   "location": {
    "latitude": -12.623383,
-   "longitude": 141.882616
+   "longitude": 141.882616,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Weipa",
@@ -72,18 +55,19 @@
    "address": "Lot 358 Nothern Avenue, Rocky Point, QLD",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2019-05-01",
-  "active": false,
+  "active": 0,
   "firstSeen": "2019-05-01"
  },
  {
   "geoId": "05575C8C-D314-44E3-A127-2AB59D8EF39C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.892582,
-   "longitude": 142.34877
+   "longitude": 142.34877,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Bamaga - QLD",
@@ -91,21 +75,22 @@
    "address": "10 Pascoe Street\nUMAGICO  QLD  4876",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
-   "phones": [ "0418 111 078" ],
-   "isPrivateMtgPlace": true
+   "phones": [ "0487 187 184" ],
+   "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B6AD35B8-12B8-4FA2-A27B-F1E68A00C475",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.58049,
-   "longitude": 142.21121
+   "longitude": 142.21121,
+   "iso": "PNG"
   },
   "properties": {
    "orgName": "Thursday Island - QLD",
@@ -114,83 +99,90 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 18:30",
    "phones": [ "0409695667" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "45D45ADD-9868-4A9A-84FA-1EE50B8B9E45",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.51162,
-   "longitude": 140.4049
+   "longitude": 140.4049,
+   "iso": "IDN"
   },
   "properties": {
    "orgName": "Merauke",
    "orgType": "CONG",
-   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Ahmad Yani RT. 06 RW.02\r\nKelurahan Mandala, Kabupaten Merauke\r\nMERAUKE—99616  PAPUA",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\nJl. Ahmad Yani RT. 06 RW.02\nKelurahan Mandala, Kabupaten Merauke\nMERAUKE—99616  PAPUA",
    "languageCode": "IN",
+   "schedule": "Sun 08:30 Thu 17:00",
    "phones": [ "082198309052" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "83601515-55F8-4555-8FCA-5F5E04FFEB30",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.51162,
-   "longitude": 140.4049
+   "longitude": 140.4049,
+   "iso": "IDN"
   },
   "properties": {
    "orgName": "Merauke Okaba - Merauke",
    "orgType": "GROUP",
-   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Ahmad Yani RT. 06 RW.02\r\nKelurahan Mandala, Kabupaten Merauke\r\nMERAUKE—99616  PAPUA",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\nJl. Ahmad Yani RT. 06 RW.02\nKelurahan Mandala, Kabupaten Merauke\nMERAUKE—99616  PAPUA",
    "languageCode": "IN",
+   "schedule": "Sun 08:30 Thu 17:00",
    "phones": [ "082198309052" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "915376BA-1D3E-47B5-9369-11B03A09D137",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.51162,
-   "longitude": 140.4049
+   "longitude": 140.4049,
+   "iso": "IDN"
   },
   "properties": {
    "orgName": "Merauke Muting - Merauke",
    "orgType": "GROUP",
-   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Ahmad Yani RT. 06 RW.02\r\nKelurahan Mandala, Kabupaten Merauke\r\nMERAUKE—99616  PAPUA",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\nJl. Ahmad Yani RT. 06 RW.02\nKelurahan Mandala, Kabupaten Merauke\nMERAUKE—99616  PAPUA",
    "languageCode": "IN",
+   "schedule": "Sun 08:30 Fri 17:00",
    "phones": [ "082198309052" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "FEB35E3E-20EC-4CF4-9D84-91A6A3710006",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.198992,
-   "longitude": 140.758441
+   "longitude": 140.758441,
+   "iso": "IDN"
   },
   "properties": {
    "orgName": "Merauke Jagebob",
@@ -199,20 +191,21 @@
    "languageCode": "IN",
    "schedule": "Sun 09:00 Thu 15:00",
    "phones": [],
-   "isPrivateMtgPlace": true
+   "isPrivateMtgPlace": 1
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "E7C8A053-52B7-43E0-9681-215CCA9540F2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.076123,
-   "longitude": 143.211133
+   "longitude": 143.211133,
+   "iso": "PNG"
   },
   "properties": {
    "orgName": "Daru English Isolated Group",
@@ -221,11 +214,11 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Sun 10:15",
    "phones": [ "Paul Sau- 72741121" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

@@ -2,10 +2,11 @@
  {
   "geoId": "CB6EB7DB-4450-4952-B751-2DBD36C54E65",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.274587,
-   "longitude": -103.847996
+   "longitude": -103.847996,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "English - Fort Morgan CO (USA)",
@@ -14,62 +15,67 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "9708673700" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B1AAE2B4-7E19-4AD8-9072-F82D59A49EE7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.274587,
-   "longitude": -103.847996
+   "longitude": -103.847996,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Fort Morgan CO (USA)",
    "orgType": "CONG",
    "address": "18918 County Rd 16\nFort Morgan CO  80701-8805",
    "languageCode": "S",
+   "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "(970) 483-6533" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "AC42F87A-7B77-4BAE-8EAC-228641CDA575",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 40.132626,
-   "longitude": -102.718976
+   "longitude": -102.718976,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "English - Yuma CO (USA)",
    "orgType": "CONG",
    "address": "720 N Detroit St\nYuma CO  80759-1216",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "970-630-0998" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "C93C9ECC-4B00-4984-A143-7C708D4E0027",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.132626,
-   "longitude": -102.718976
+   "longitude": -102.718976,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Yuma CO (USA)",
@@ -78,41 +84,44 @@
    "languageCode": "S",
    "schedule": "Sun 12:30 Wed 19:00",
    "phones": [ "1-970-597-9929" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "9C17B67D-0B78-4C5E-ADD6-C55762940520",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 40.637787,
-   "longitude": -103.21047
+   "longitude": -103.21047,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Sterling - CO (USA)",
    "orgType": "CONG",
    "address": "1162 N 8th St\nSterling CO  80751-2514",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(970) 526-3060" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "8964FB81-9E3F-4100-AC2B-AD235D7D8E2F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.228473,
-   "longitude": -103.663667
+   "longitude": -103.663667,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Kimball - NE (USA)",
@@ -121,20 +130,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "308-230-2145" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EF49894F-0EFE-49E6-91E6-F31984ED9ED0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.130353,
-   "longitude": -102.967811
+   "longitude": -102.967811,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Sidney - NE (USA)",
@@ -143,20 +153,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "(308) 254-4223" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "24249E7E-9091-4DAB-BA31-0828E236CA6B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 41.879859,
-   "longitude": -103.656737
+   "longitude": -103.656737,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "English - Scottsbluff NE (USA)",
@@ -165,20 +176,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "308-310-4400" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D00231D5-EF13-4432-B111-E439E4E42425",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.879859,
-   "longitude": -103.656737
+   "longitude": -103.656737,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Scottsbluff NE (USA)",
@@ -187,20 +199,21 @@
    "languageCode": "S",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "308-310-4400" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9B4D3C52-B9C6-42E8-9C70-FEF7F60F71EB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.100247,
-   "longitude": -102.889308
+   "longitude": -102.889308,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Alliance - NE (USA)",
@@ -209,20 +222,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "308-762-5160" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "255CAC5C-65C1-4016-A7CE-E6DE60333BCA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.135108,
-   "longitude": -101.721716
+   "longitude": -101.721716,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Ogallala - NE (USA)",
@@ -231,20 +245,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "308-284-0883" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CFC1DC81-4BA8-4067-B587-2402E1107623",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.206918,
-   "longitude": -100.652614
+   "longitude": -100.652614,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Mc Cook - NE (USA)",
@@ -253,20 +268,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "308-737-2800" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "53559748-52B9-44EC-BEDD-7BB7A6136670",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.417741,
-   "longitude": -103.48571
+   "longitude": -103.48571,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Hot Springs - SD (USA)",
@@ -275,20 +291,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "605-210-0267" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5A300BFC-055C-4B7F-9DA5-82F1C6AF6371",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.771454,
-   "longitude": -103.531058
+   "longitude": -103.531058,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Custer - SD (USA)",
@@ -297,20 +314,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "605 545-9100" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FDE9C5AE-0F79-43FD-A375-FFD6AAE53A1A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.126548,
-   "longitude": -100.771211
+   "longitude": -100.771211,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "North Platte - NE (USA)",
@@ -319,20 +337,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "308-534-5723" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2C841AC2-C90D-4771-BFAC-B0E11DE9153E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.813002,
-   "longitude": -102.198801
+   "longitude": -102.198801,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Gordon - NE (USA)",
@@ -341,20 +360,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "308-230-8100" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B0CA6C2F-156A-4ED9-85EF-EB131F500F23",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.482515,
-   "longitude": -103.828323
+   "longitude": -103.828323,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spearfish - SD (USA)",
@@ -363,20 +383,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "605-641-7648" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "52A21AB7-7FC7-4C6A-B009-DEABCB439269",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.482515,
-   "longitude": -103.828323
+   "longitude": -103.828323,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Belle Fourche - SD (USA)",
@@ -385,20 +406,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:00",
    "phones": [ "605-892-4820" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "51859C6E-AFCF-4751-9522-0D98024E5F95",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.098101,
-   "longitude": -103.2338
+   "longitude": -103.2338,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Prairie - Rapid City SD (USA)",
@@ -407,20 +429,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "605-394-9518" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A40DBF5F-505D-4B37-BF1E-8E6B92547867",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.098101,
-   "longitude": -103.2338
+   "longitude": -103.2338,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Skyline - Rapid City SD (USA)",
@@ -429,20 +452,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:00",
    "phones": [ "605-394-9518" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5BF8D2A1-6A18-473B-A4F4-BD267913969E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.401121,
-   "longitude": -103.520225
+   "longitude": -103.520225,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Sturgis - SD (USA)",
@@ -451,20 +475,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(605) 347-5855" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AAB3E0FA-F4C7-4C33-A672-B841094BA2BB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 40.794018,
-   "longitude": -99.751114
+   "longitude": -99.751114,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Lexington NE (USA)",
@@ -472,21 +497,22 @@
    "address": "705 W 20th St\nLexington NE  68850",
    "languageCode": "S",
    "schedule": "Sun 11:00 Wed 19:00",
-   "phones": [ "308-238-4940" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "308-324-5888" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A616D417-3BBE-4463-BBB4-6B89E1E1E697",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.442342,
-   "longitude": -99.379993
+   "longitude": -99.379993,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Holdrege - NE (USA)",
@@ -495,20 +521,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "308-248-7790" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "21297627-EE13-4429-A073-2931720B1A21",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.088396,
-   "longitude": -98.52851
+   "longitude": -98.52851,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Red Cloud - NE (USA)",
@@ -517,42 +544,44 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "402-746-2291" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A8D91420-9E71-4F6A-8C4A-588D1858ECFE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.714175,
-   "longitude": -99.069859
+   "longitude": -99.069859,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Kearney - NE (USA)",
    "orgType": "CONG",
    "address": "3908 I Ave\nKearney NE  68847-2679",
    "languageCode": "E",
-   "schedule": "Sun 10:00 Thu 19:00",
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "308-237-5839" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AD379A84-7647-44AC-878A-85D08C9C2861",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 41.408636,
-   "longitude": -99.632467
+   "longitude": -99.632467,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Broken Bow - NE (USA)",
@@ -561,20 +590,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "308-530-4102" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5CA8D9FA-7587-4668-9642-A2074F8FEE85",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 40.57373,
-   "longitude": -98.38383
+   "longitude": -98.38383,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "English - Hastings NE (USA)",
@@ -583,20 +613,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "402-463-5737" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C136C5FC-8C5A-4FCD-994A-C6DE1C8D280D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.57373,
-   "longitude": -98.38383
+   "longitude": -98.38383,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Hastings NE (USA)",
@@ -605,20 +636,21 @@
    "languageCode": "S",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "(308) 390-1748" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D12DE524-1926-4281-87E2-F38113DD604F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.898236,
-   "longitude": -98.377952
+   "longitude": -98.377952,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Prairie Creek - Grand Island NE (USA)",
@@ -627,20 +659,21 @@
    "languageCode": "E",
    "schedule": "Sun 15:00 Tue 19:30",
    "phones": [ "(308) 382-6790" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "99426F92-96D4-4DA4-83C1-6BDFAE0ED911",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.898236,
-   "longitude": -98.377952
+   "longitude": -98.377952,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Brentwood - Grand Island NE (USA)",
@@ -649,20 +682,21 @@
    "languageCode": "E",
    "schedule": "Sun 12:30 Thu 19:00",
    "phones": [ "308-382-6790" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "82FC2F32-D8B6-4006-B7CF-655793E7E628",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.898236,
-   "longitude": -98.377952
+   "longitude": -98.377952,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Grand Island NE (USA)",
@@ -671,20 +705,21 @@
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "(308)382-6790" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4E916266-692A-4B8F-AC7A-B2802A48D1CD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.547499,
-   "longitude": -99.864821
+   "longitude": -99.864821,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Ainsworth - NE (USA)",
@@ -693,20 +728,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "402-387-0608" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5E12E10D-DD5F-46C9-A945-5B22FB84D4DF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 40.844939,
-   "longitude": -97.599027
+   "longitude": -97.599027,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "York - NE (USA)",
@@ -715,20 +751,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "402-710-3000" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5EBC98D7-98E6-4C34-856E-E7C8FA7D418A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.271854,
-   "longitude": -96.722404
+   "longitude": -96.722404,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Beatrice - NE (USA)",
@@ -737,20 +774,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "1402-228-2330" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "420A6864-4397-48A1-8C37-16FFC6BD8D99",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.771499,
-   "longitude": -97.061535
+   "longitude": -97.061535,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Milford - NE (USA)",
@@ -759,20 +797,44 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "4027614420" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "41AD9BC1-1407-4D43-B37E-CED16F1C9D5E",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 40.771499,
+   "longitude": -97.061535,
+   "iso": "USA"
+  },
+  "properties": {
+   "orgName": "Air Park - Lincoln NE (USA)",
+   "orgType": "CONG",
+   "address": "1200 5th St\nMilford NE  68405",
+   "languageCode": "E",
+   "schedule": "Sun 13:00 Thu 19:00",
+   "phones": [ "402-474-3606" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EBBDEF83-424E-46D3-982E-7B7DCAF57894",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.245396,
-   "longitude": -99.435895
+   "longitude": -99.435895,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Gregory - SD (USA)",
@@ -781,20 +843,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "(605) 734-2525" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4402F223-1CA4-4665-8082-C09CA90B2E11",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.469321,
-   "longitude": -98.657164
+   "longitude": -98.657164,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "O'Neill - NE (USA)",
@@ -803,20 +866,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "402-961-5200" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D1F780B1-95CB-453F-B6EB-FB041072B4CE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 41.442665,
-   "longitude": -97.387135
+   "longitude": -97.387135,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "English - Columbus NE (USA)",
@@ -825,20 +889,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "402-606-3021" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C1593884-0063-4935-99D7-FD659CE4098E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.442665,
-   "longitude": -97.387135
+   "longitude": -97.387135,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Columbus NE (USA)",
@@ -847,20 +912,21 @@
    "languageCode": "S",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "402-606-3021" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A9705302-BB68-4753-AEBE-5180BD4BBD5D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 46.863179,
-   "longitude": -102.789124
+   "longitude": -102.789124,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Dickinson - ND (USA)",
@@ -870,43 +936,45 @@
    "schedule": "Sun 10:00 Tue 19:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "701-225-1366" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8F4E29E8-16A9-4753-9017-AA8D4E49E432",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.863179,
-   "longitude": -102.789124
+   "longitude": -102.789124,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Dickinson - ND (USA)",
    "orgType": "GROUP",
    "address": "731 S Main Ave\nDickinson ND  58601-5969",
    "languageCode": "S",
-   "schedule": "Sun 10:00",
+   "schedule": "Sun 10:00 undefined null",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "701-225-1366" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "59E9CF18-604A-4C15-AA31-48F7027F7712",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.396638,
-   "longitude": -100.32219
+   "longitude": -100.32219,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Pierre - SD (USA)",
@@ -915,20 +983,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "605 280 0696" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B01B3CA0-5C87-47A6-9ED0-358F805A5030",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.741576,
-   "longitude": -96.627937
+   "longitude": -96.627937,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Pine Lake Heights - Lincoln NE (USA)",
@@ -937,20 +1006,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:00 Thu 19:00",
    "phones": [ "402-420-2144" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "38A57326-3CC2-4A68-B14B-95D84C8A2F95",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.741576,
-   "longitude": -96.627937
+   "longitude": -96.627937,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Bethany Park - Lincoln NE (USA)",
@@ -959,20 +1029,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "402.560.1014" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "31F68795-7441-4855-B718-6E513B8BD399",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 40.741576,
-   "longitude": -96.627937
+   "longitude": -96.627937,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Saltillo Spanish - Lincoln NE (USA)",
@@ -980,87 +1051,68 @@
    "address": "6800 Pine Lake Rd\nLincoln NE  68516-3636",
    "languageCode": "S",
    "schedule": "Sun 13:00 Tue 19:00",
-   "phones": [ "402-420-2144" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "402 381 2540" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "8C643E78-AD48-4247-92CB-4BFD2E44F004",
-  "type": "weekly",
-  "isPrimary": true,
-  "location": {
-   "latitude": 40.847278,
-   "longitude": -96.719663
-  },
-  "properties": {
-   "orgName": "Belmont Park - Lincoln NE (USA)",
-   "orgType": "CONG",
-   "address": "3606 N 1St St\nLincoln NE  68521-2702",
-   "languageCode": "E",
-   "schedule": "Sun 10:00 Tue 19:30",
-   "phones": [ "402-474-3606" ],
-   "isPrivateMtgPlace": false
-  },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "41AD9BC1-1407-4D43-B37E-CED16F1C9D5E",
-  "type": "weekly",
-  "isPrimary": true,
-  "location": {
-   "latitude": 40.847278,
-   "longitude": -96.719663
-  },
-  "properties": {
-   "orgName": "Air Park - Lincoln NE (USA)",
-   "orgType": "CONG",
-   "address": "3606 N 1St St\nLincoln NE  68521-2702",
-   "languageCode": "E",
-   "schedule": "Sun 13:00 Thu 19:00",
-   "phones": [ "402-474-3606" ],
-   "isPrivateMtgPlace": false
-  },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3A977C2B-67BE-4472-A43F-5A76C3A8D151",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
-   "latitude": 40.847278,
-   "longitude": -96.719663
+   "latitude": 40.741576,
+   "longitude": -96.627937,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Lincoln NE (USA)",
    "orgType": "CONG",
-   "address": "3606 N 1St St\nLincoln NE  68521-2702",
+   "address": "6800 Pine Lake Rd\nLincoln NE  68516-3636",
    "languageCode": "S",
-   "schedule": "Sun 16:00 Wed 19:00",
+   "schedule": "Sun 16:00 Fri 19:00",
    "phones": [ "402-474-3606" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "8C643E78-AD48-4247-92CB-4BFD2E44F004",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 40.86487,
+   "longitude": -96.682751,
+   "iso": "USA"
+  },
+  "properties": {
+   "orgName": "Belmont Park - Lincoln NE (USA)",
+   "orgType": "CONG",
+   "address": "Country Inn & Suites, Lincoln North Hote\r\n5353 N 27th St\r\nLincoln NE  68521-1039",
+   "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:30",
+   "phones": [ "402-474-3606" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4D21E077-E2FB-4F33-8ED6-384CA523A840",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.803615,
-   "longitude": -99.335403
+   "longitude": -99.335403,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Chamberlain - SD (USA)",
@@ -1069,20 +1121,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "1-605-680-5656" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D3BE32AA-16AF-4A0A-86F6-618650A880AA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.027404,
-   "longitude": -97.38864
+   "longitude": -97.38864,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "English - Norfolk NE (USA)",
@@ -1091,20 +1144,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:00",
    "phones": [ "1-402-375-3427" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "963E200B-D674-45D7-8C85-C3D243121318",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 42.027404,
-   "longitude": -97.38864
+   "longitude": -97.38864,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Norfolk NE (USA)",
@@ -1113,20 +1167,21 @@
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "402-992-5527" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F1748A58-1FAA-4455-9D85-752606B2F749",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 41.044802,
-   "longitude": -96.374076
+   "longitude": -96.374076,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Ashland - NE (USA)",
@@ -1136,20 +1191,21 @@
    "schedule": "Sun 10:00 Tue 19:30",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "402-599-0294" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6F1A6A46-DB28-42ED-83A0-14107DC4DBCA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.044802,
-   "longitude": -96.374076
+   "longitude": -96.374076,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Russian - Ashland - NE (USA)",
@@ -1159,20 +1215,21 @@
    "schedule": "Sun 10:00 Tue 19:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "402-599-0294" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "93FAE695-110A-4BFF-A2AC-F3B21D8DBC37",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 46.906938,
-   "longitude": -102.051823
+   "longitude": -102.051823,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Hebron - ND (USA)",
@@ -1181,20 +1238,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "701-260-4936" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CD7DDC2E-8EFD-459E-904B-5C74C2221B29",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.414769,
-   "longitude": -96.464464
+   "longitude": -96.464464,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "English - Fremont NE (USA)",
@@ -1203,20 +1261,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "402 816 4222" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "14D3B966-3B66-4B45-9272-D1DB43E38149",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.414769,
-   "longitude": -96.464464
+   "longitude": -96.464464,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Fremont NE (USA)",
@@ -1225,20 +1284,21 @@
    "languageCode": "S",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "402-512-3336" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F5784D97-47DA-4BF1-B425-C46F82F7B3A3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.262401,
-   "longitude": -96.176248
+   "longitude": -96.176248,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Millard - Omaha NE (USA)",
@@ -1247,20 +1307,21 @@
    "languageCode": "E",
    "schedule": "Sun 16:00 Thu 19:00",
    "phones": [ "(402) 758-0497" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2CEE5F10-5920-4657-B05B-A4B134643B44",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.262401,
-   "longitude": -96.176248
+   "longitude": -96.176248,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Stone Creek - Omaha NE (USA)",
@@ -1268,21 +1329,22 @@
    "address": "401 N 168th Cir\nOmaha NE  68118",
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
-   "phones": [ "402-819-4119" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "402-758-0497" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D3487AEF-9DB6-4973-A43A-CA17402E63CC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 41.262401,
-   "longitude": -96.176248
+   "longitude": -96.176248,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Village Pointe - Omaha NE (USA)",
@@ -1291,20 +1353,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:00",
    "phones": [ "402-758-0497" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7F1E81BE-BF3E-44FF-BC13-B3E637BD4C2A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 45.535288,
-   "longitude": -100.423258
+   "longitude": -100.423258,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Mobridge - SD (USA)",
@@ -1313,20 +1376,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "605-848-1222" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "ADAE1A24-B7CA-45FC-83E5-0AD6C37504D6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.204986,
-   "longitude": -96.055846
+   "longitude": -96.055846,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Ralston - Omaha NE (USA)",
@@ -1334,21 +1398,22 @@
    "address": "9201 Q St\nOmaha NE  68127-3563",
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:00",
-   "phones": [ "402-214-1340" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "402-321-7274" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "562BF3FE-05E3-4413-B1D3-7A1BE88D2AEC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.204986,
-   "longitude": -96.055846
+   "longitude": -96.055846,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Westroads - Omaha NE (USA)",
@@ -1357,20 +1422,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "(402) 522-6436" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2FBF1A33-2CA2-41A5-AE37-37E014835DC9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.312748,
-   "longitude": -96.00546
+   "longitude": -96.00546,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Dundee - Omaha NE (USA)",
@@ -1379,20 +1445,21 @@
    "languageCode": "E",
    "schedule": "Sun 15:30 Thu 19:30",
    "phones": [ "402-573-1556" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "39032F80-06E2-4146-A490-54B392311FD9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.312748,
-   "longitude": -96.00546
+   "longitude": -96.00546,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Cunningham Hills - Omaha NE (USA)",
@@ -1401,20 +1468,21 @@
    "languageCode": "E",
    "schedule": "Sun 12:30 Tue 19:30",
    "phones": [ "402 5731556" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DCE21C58-4EAB-4C50-9883-BC259BDD4183",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.312748,
-   "longitude": -96.00546
+   "longitude": -96.00546,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Benson Park - Omaha NE (USA)",
@@ -1423,20 +1491,21 @@
    "languageCode": "E",
    "schedule": "Sun 15:30 Thu 19:30",
    "phones": [ "402-573-1556" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DC1AA887-781C-49C9-B326-D6250193391D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.312748,
-   "longitude": -96.00546
+   "longitude": -96.00546,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Gallagher Park - Omaha NE (USA)",
@@ -1445,20 +1514,21 @@
    "languageCode": "E",
    "schedule": "Sun 09:30 Wed 19:30",
    "phones": [ "402 573 1556" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "10FEE804-FAE6-4E28-A8A7-7BA7014BFDEC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.312748,
-   "longitude": -96.00546
+   "longitude": -96.00546,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Western Hills - Omaha NE (USA)",
@@ -1467,20 +1537,21 @@
    "languageCode": "E",
    "schedule": "Sun 12:30 Tue 19:30",
    "phones": [ "402-573-1556" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2D52A1D1-17AE-46D3-B0BA-528646786983",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.312748,
-   "longitude": -96.00546
+   "longitude": -96.00546,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "French - Omaha NE (USA)",
@@ -1489,20 +1560,21 @@
    "languageCode": "F",
    "schedule": "Sat 10:30 Wed 19:30",
    "phones": [ "1 (402) 573-1556" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FDA1F856-AAFA-4B31-B1B5-1A27104B7361",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 41.312748,
-   "longitude": -96.00546
+   "longitude": -96.00546,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Central Karen (S'gaw) - Omaha NE (USA)",
@@ -1511,20 +1583,21 @@
    "languageCode": "KR",
    "schedule": "Sun 09:30 Fri 19:00",
    "phones": [ "402-573-1556" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "00EA9CC6-FA6D-4959-8C3C-D4768C53BB7E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.554359,
-   "longitude": -96.148148
+   "longitude": -96.148148,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Blair - NE (USA)",
@@ -1533,20 +1606,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "402-218-8785" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AC5A20FB-1847-4321-A24A-41F6E90FE437",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.894022,
-   "longitude": -97.392295
+   "longitude": -97.392295,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Yankton - SD (USA)",
@@ -1555,20 +1629,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "605-665-2445" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8EC7895D-D882-493E-9450-187CD4B03994",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.680286,
-   "longitude": -98.007822
+   "longitude": -98.007822,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Mitchell - SD (USA)",
@@ -1577,20 +1652,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "605-996-7481" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FA225FE4-BB51-4CEF-97FF-1348D115C51D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.785727,
-   "longitude": -96.953285
+   "longitude": -96.953285,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Vermillion - SD (USA)",
@@ -1599,20 +1675,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "605-624-4231" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "865B527D-9854-4CE6-B768-861206695980",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.019242,
-   "longitude": -96.097936
+   "longitude": -96.097936,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Onawa - IA (USA)",
@@ -1621,20 +1698,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "712-433-0562" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0B0A717E-3441-4C89-9B1B-EEEAC934E3B7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 46.849308,
-   "longitude": -100.914133
+   "longitude": -100.914133,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Bismarck - ND (USA)",
@@ -1643,20 +1721,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [ "(701) 891-8891" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B4B2C8A6-4EF7-407D-9D25-8238FEFEE697",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 46.849308,
-   "longitude": -100.914133
+   "longitude": -100.914133,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Mandan - ND (USA)",
@@ -1666,20 +1745,21 @@
    "schedule": "Sun 10:00 Tue 19:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "701-400-7890" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E2F5DBDC-0C9E-4C5A-AF0E-3FAB5C806A83",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.849308,
-   "longitude": -100.914133
+   "longitude": -100.914133,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Mandan - ND (USA)",
@@ -1689,20 +1769,21 @@
    "schedule": "Sun 15:30 Tue 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "701-400-7890" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9E2C0A3A-446D-42C9-B8E9-847F1028D3A6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 42.495726,
-   "longitude": -96.465342
+   "longitude": -96.465342,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Poniente Spanish - Sioux City IA (USA)",
@@ -1711,20 +1792,21 @@
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "712-255-0680" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5951571D-033C-4943-8AAD-356E8D9ECB4D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.495726,
-   "longitude": -96.465342
+   "longitude": -96.465342,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "West - Sioux City IA (USA)",
@@ -1733,20 +1815,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:00",
    "phones": [ "7122532360" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "53A06FC1-6C5E-4663-951C-2434F31F34BB",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 44.311163,
-   "longitude": -98.214646
+   "longitude": -98.214646,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "English - Huron SD (USA)",
@@ -1756,20 +1839,21 @@
    "schedule": "Sun 10:00 Thu 19:30",
    "relatedLanguageCodes": [ "KR" ],
    "phones": [ "605-352-4094" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9EF0BA0C-0CE1-4122-B257-90D21F29DDE2",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.311163,
-   "longitude": -98.214646
+   "longitude": -98.214646,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Huron SD (USA)",
@@ -1778,20 +1862,21 @@
    "languageCode": "S",
    "schedule": "Sat 15:00 Wed 19:30",
    "phones": [ "(605) 731-8728" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BB24E433-B3BB-4E9C-B2FB-18432DE26463",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 44.311163,
-   "longitude": -98.214646
+   "longitude": -98.214646,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Karen (S'gaw) - English - Huron SD (USA)",
@@ -1801,20 +1886,21 @@
    "schedule": "Sun 16:00 Fri 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "605-352-4094" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6CFB75AD-C36F-4E19-81CE-9D0C7F3C5ED1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.488575,
-   "longitude": -96.358619
+   "longitude": -96.358619,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "North - Sioux City IA (USA)",
@@ -1823,20 +1909,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "712-252-5212" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "30A8118C-88BA-4852-A7B7-0B86D86A2FAD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 42.488575,
-   "longitude": -96.358619
+   "longitude": -96.358619,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Oriente Spanish - Sioux City IA (USA)",
@@ -1845,20 +1932,21 @@
    "languageCode": "S",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "712-252-5212" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "010F69E2-D75A-456C-9712-2CBAF5AF2B7B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.50777,
-   "longitude": -96.786397
+   "longitude": -96.786397,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Aspen Heights - Sioux Falls SD (USA)",
@@ -1867,20 +1955,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "605-361-9437" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "ABD80787-6E6E-4DC5-BBF0-094A931570F5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 43.50777,
-   "longitude": -96.786397
+   "longitude": -96.786397,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Sioux Falls SD (USA)",
@@ -1889,20 +1978,21 @@
    "languageCode": "S",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "605-759-4320" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B183416E-D0D0-449B-92A8-AD48D2EEB87A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.50777,
-   "longitude": -96.786397
+   "longitude": -96.786397,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Heather Ridge - Sioux Falls SD (USA)",
@@ -1911,20 +2001,21 @@
    "languageCode": "E",
    "schedule": "Sun 16:00 Thu 19:00",
    "phones": [ "6053619437" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3D2DC4EA-76AC-48AB-B70E-A3EAC344A212",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.551562,
-   "longitude": -96.686098
+   "longitude": -96.686098,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Timberline - Sioux Falls SD (USA)",
@@ -1933,20 +2024,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:00",
    "phones": [ "16052127280" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "625D76AA-DD68-471D-8E6D-D745CC867D9F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.551562,
-   "longitude": -96.686098
+   "longitude": -96.686098,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Diamond Valley - Sioux Falls SD (USA)",
@@ -1955,20 +2047,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "605-595-2341" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6C91A211-A420-46D6-9E6D-B6D5216481A1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 43.551562,
-   "longitude": -96.686098
+   "longitude": -96.686098,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Falls Park Sign Language - Sioux Falls SD (USA)",
@@ -1977,20 +2070,21 @@
    "languageCode": "ASL",
    "schedule": "Sat 10:30 Tue 19:00",
    "phones": [ "605-413-1425" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "59B88966-98C2-4EED-AAA3-0AD44E3F4B8D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 45.445275,
-   "longitude": -98.464231
+   "longitude": -98.464231,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Aberdeen - SD (USA)",
@@ -2003,20 +2097,21 @@
     "S"
    ],
    "phones": [ "605-397-8687" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0EFF8D92-A548-4409-A6EE-A5E32FD17FBC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 45.445275,
-   "longitude": -98.464231
+   "longitude": -98.464231,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Karen (S'gaw) - Aberdeen - SD (USA)",
@@ -2026,20 +2121,21 @@
    "schedule": "Sun 10:00 Thu 19:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "605-397-8687" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8C294BEA-017A-4E0B-8FBF-3D2D4D5FD1A4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.652995,
-   "longitude": -96.172465
+   "longitude": -96.172465,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Luverne - MN (USA)",
@@ -2048,20 +2144,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "507-283-4569" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "03D712EE-4FB9-431D-AE31-FC3210BF778E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.312257,
-   "longitude": -96.745763
+   "longitude": -96.745763,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Brookings - SD (USA)",
@@ -2070,20 +2167,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "605 961-2500" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "618D7ED6-7EAC-469A-A3CF-A1375B040A41",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.889171,
-   "longitude": -97.066289
+   "longitude": -97.066289,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Watertown - SD (USA)",
@@ -2092,20 +2190,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "1 316 737-0659" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "44C2A790-04A6-4284-A805-A3C3B6E90039",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.261811,
-   "longitude": -96.28009
+   "longitude": -96.28009,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Lake Benton - MN (USA)",
@@ -2114,20 +2213,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(507) 487-4300" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C1C067BA-7EE3-468C-B838-6E04126BD70E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.10722,
-   "longitude": -98.089936
+   "longitude": -98.089936,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Oakes - ND (USA)",
@@ -2136,20 +2236,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "701-710-0036" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DCE3E338-6686-4D30-A2B7-9FB0F0ECF175",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.922893,
-   "longitude": -98.692464
+   "longitude": -98.692464,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Jamestown - ND (USA)",
@@ -2158,20 +2259,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "1-701-952-9332" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1E995297-E355-492B-BE0D-8FD641A557EA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 45.660624,
-   "longitude": -97.025123
+   "longitude": -97.025123,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Sisseton - SD (USA)",
@@ -2180,20 +2282,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "605-971-9100" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "244BFDEC-3983-4A24-B8F2-D91FC468C8C6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 45.298271,
-   "longitude": -96.43297
+   "longitude": -96.43297,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Ortonville - MN (USA)",
@@ -2202,20 +2305,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "320-839-2071" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "54611DBC-6C6B-4AC8-BCB4-BAB499FC5CD7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.623613,
-   "longitude": -97.608704
+   "longitude": -97.608704,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Enderlin - ND (USA)",
@@ -2224,20 +2328,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "701-977-9771" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "35739EEE-CC56-461E-8F1F-A3CE03C4239B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.27425,
-   "longitude": -96.588646
+   "longitude": -96.588646,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Breckenridge - MN (USA)",
@@ -2246,20 +2351,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "320 250 7359" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "15CDF870-A7E5-46F5-92A2-618297256DC2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.845003,
-   "longitude": -96.818876
+   "longitude": -96.818876,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "North - Fargo ND (USA)",
@@ -2268,20 +2374,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:00",
    "phones": [ "701-866-0342" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2D6D15EA-1ED0-44F1-876B-9CB8D0208C0A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.845003,
-   "longitude": -96.818876
+   "longitude": -96.818876,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "South - Fargo ND (USA)",
@@ -2290,20 +2397,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "701-361-1143" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D6A2E97A-3A68-428A-A206-CADC6EEE17FA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 46.845003,
-   "longitude": -96.818876
+   "longitude": -96.818876,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Red River Sign Language - Fargo ND (USA)",
@@ -2312,20 +2420,21 @@
    "languageCode": "ASL",
    "schedule": "Sat 13:00 Wed 19:00",
    "phones": [ "701-478-6819" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7B9A5DB7-ADC5-4953-818D-036511558F4D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.880531,
-   "longitude": -96.732408
+   "longitude": -96.732408,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "English - Moorhead MN (USA)",
@@ -2334,20 +2443,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "701-388-8068" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "640DDD0F-5AAB-4E62-A12A-5EC50A080F2F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 46.880531,
-   "longitude": -96.732408
+   "longitude": -96.732408,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Moorhead MN (USA)",
@@ -2356,20 +2466,21 @@
    "languageCode": "S",
    "schedule": "Sun 13:00 Tue 19:30",
    "phones": [ "701-238-3186" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "42D69039-E954-4AD2-836C-5258850A49D3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.301124,
-   "longitude": -96.018611
+   "longitude": -96.018611,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Fergus Falls - MN (USA)",
@@ -2378,20 +2489,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "218-731-5211" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6D3242A7-BC8A-41A3-94CF-B06F886B48CE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 47.949557,
-   "longitude": -97.042784
+   "longitude": -97.042784,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "East Grand Forks - MN (USA)",
@@ -2401,20 +2513,21 @@
    "schedule": "Sun 10:00 Thu 19:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "218-773-3185" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1A89A705-E9EE-4296-B3C0-03E9FD5D3A04",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 47.949557,
-   "longitude": -97.042784
+   "longitude": -97.042784,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Grand Forks - ND (USA)",
@@ -2423,43 +2536,45 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:00",
    "phones": [ "701-740-5671" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D8990A84-27AB-4B0D-9252-73638785AC4E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 47.949557,
-   "longitude": -97.042784
+   "longitude": -97.042784,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - East Grand Forks - MN (USA)",
    "orgType": "GROUP",
    "address": "2311 River Rd NW\nEast Grand Forks MN  56721-1083",
    "languageCode": "S",
-   "schedule": "Sat 13:00",
+   "schedule": "Sat 13:00 undefined null",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "218-773-3185" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "ED9ABDE2-DE6B-4144-A656-BDCC7D956750",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 47.788988,
-   "longitude": -96.603831
+   "longitude": -96.603831,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Crookston - MN (USA)",
@@ -2468,11 +2583,11 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "218 280 2078" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

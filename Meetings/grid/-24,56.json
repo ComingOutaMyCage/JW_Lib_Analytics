@@ -2,10 +2,11 @@
  {
   "geoId": "42DBB448-44E9-4FC5-88EE-D78897F43568",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.511902,
-   "longitude": 57.499528
+   "longitude": 57.499528,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "SURINAM",
@@ -14,85 +15,92 @@
    "languageCode": "CE",
    "schedule": "Sat 16:00 Wed 18:00",
    "phones": [ "6256146" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastSeen": "2023-02-20",
-  "active": false,
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "BDC676EA-134A-4B5C-BE93-097243CA2C08",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.360741,
-   "longitude": 57.372198
+   "longitude": 57.372198,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "RIVIERE NOIRE TAMARIN",
    "orgType": "CONG",
    "address": "Avenue Morcellement Diocese\r\nRIVIÈRE NOIRE\r\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sun 10:00 Thu 17:30",
    "relatedLanguageCodes": [ "F" ],
    "phones": [ "59727065- 4516522- 58309285" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "C512B4EE-5C5E-4DEA-9CFF-7B36EEA50125",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.360741,
-   "longitude": 57.372198
+   "longitude": 57.372198,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "Rivière-Noire-Tamarin Français - RIVIERE NOIRE TAMARIN",
    "orgType": "GROUP",
-   "address": "Avenue Morcellement Diocese\r\nRIVIÈRE NOIRE\r\nMAURICE",
+   "address": "Avenue Morcellement Diocese\nRIVIÈRE NOIRE\nMAURICE",
    "languageCode": "F",
+   "schedule": "Sat 17:30 Thu 17:30",
    "relatedLanguageCodes": [ "CE" ],
    "phones": [ "59727065- 4516522- 58309285" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "1972D2F8-0E6E-4D7A-BEAB-260A3133028C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.259164,
-   "longitude": 57.409038
+   "longitude": 57.409038,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "BAMBOUS",
    "orgType": "CONG",
    "address": "Avenue Brigands\n90102 BAMBOUS\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sun 09:00 Thu 18:00",
    "phones": [ "+230&nbsp;57 50 04 57" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "79C6F9C7-005A-4C75-B238-CAD1F81B2E4D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -20.259164,
-   "longitude": 57.409038
+   "longitude": 57.409038,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "BAMBOUS ANGLAISE",
@@ -101,233 +109,253 @@
    "languageCode": "E",
    "schedule": "Sat 16:00 Wed 18:00",
    "phones": [ "+230&nbsp;5916 9395" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9D194370-75B4-4CD3-84A2-B43299A4D334",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.298201,
-   "longitude": 57.477113
+   "longitude": 57.477113,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "VACOAS",
    "orgType": "CONG",
    "address": "Aulleeman Lane\nLa Caverne\n73324 VACOAS\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sat 15:30 Thu 18:00",
    "phones": [ "58453163" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "A200190E-826C-4F9C-A82B-9B90810882ED",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.272169,
-   "longitude": 57.470428
+   "longitude": 57.470428,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "QUATRE BORNES",
    "orgType": "CONG",
    "address": "49 Northern Boundary Street\n72326 QUATRE BORNES\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sat 16:00 Wed 17:45",
    "phones": [ "+230&nbsp;427-6725" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "A410B322-B70B-48BF-AD5C-48D614FCF4C7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.325714,
-   "longitude": 57.525293
+   "longitude": 57.525293,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "FOREST SIDE",
    "orgType": "CONG",
    "address": "Rue Julien Desjardins\n74513 FOREST SIDE\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sat 16:00 Tue 18:00",
    "phones": [ "+230&nbsp;57043445" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "F7506A2C-B654-4CF7-8312-8AC170AEAFB8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.309335,
-   "longitude": 57.528118
+   "longitude": 57.528118,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "CUREPIPE",
    "orgType": "CONG",
    "address": "24 Rue Couvent de Lorette\n74316 CUREPIPE\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sun 09:00 Thu 18:15",
    "phones": [ "+230&nbsp;698-0906" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "98B1F6CE-3911-442E-A914-363C74B36395",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.428939,
-   "longitude": 57.656489
+   "longitude": 57.656489,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "PLAINE MAGNIEN",
    "orgType": "CONG",
    "address": "Courteau Lane\r\nBois d'Oiseau\r\n51503 PLAINE MAGNIEN\r\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sun 09:30 Wed 18:00",
    "relatedLanguageCodes": [ "BHM" ],
    "phones": [ "+230&nbsp;57574789" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "381EA907-A719-421B-A37A-472230FED5E2",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.428939,
-   "longitude": 57.656489
+   "longitude": 57.656489,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "Plaine Magnien Bhojpuri - PLAINE MAGNIEN",
    "orgType": "GROUP",
    "address": "Courteau Lane\r\nBois d'Oiseau\r\n51503 PLAINE MAGNIEN\r\nMAURICE",
    "languageCode": "BHM",
+   "schedule": "Sun 09:30 Wed 18:00",
    "relatedLanguageCodes": [ "CE" ],
    "phones": [ "+230&nbsp;57574789" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "D3119C43-C937-4CBE-B3FF-682A02F1B5AF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.250216,
-   "longitude": 57.480818
+   "longitude": 57.480818,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "BELLE ROSE",
    "orgType": "CONG",
    "address": "Avenue Madhoo\n51829 BELLE ROSE\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sun 09:00 Thu 18:00",
    "phones": [ "467-2772" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "C16E0781-AFF3-4907-98AB-ACECB2A2769D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.223936,
-   "longitude": 57.463901
+   "longitude": 57.463901,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "BEAU BASSIN",
    "orgType": "CONG",
    "address": "35 Rue Serge Alfred\n71505 BEAU BASSIN\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sun 09:30 Thu 17:45",
    "phones": [ "+230&nbsp;57176618 / 57224642" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "288A0D87-103E-42B8-A1D6-4AE5BDD2FC57",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -20.223936,
-   "longitude": 57.463901
+   "longitude": 57.463901,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "ROSE HILL",
    "orgType": "CONG",
    "address": "35 Rue Serge Alfred\n71505 BEAU BASSIN\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sat 15:30 Wed 17:45",
    "phones": [ "57752302" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "32F2A18F-C228-4AFD-A6F2-33CF64CA873B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -20.181388,
-   "longitude": 57.434931
+   "longitude": 57.434931,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "POINTE AUX SABLES",
    "orgType": "CONG",
-   "address": "5 Rue Baissac\r\nRue Caille\r\nPetit Verger\r\n11129 POINTE AUX SABLES\r\nMAURICE",
+   "address": "5 Rue Baissac\nRue Caille\nPetit Verger\n11129 POINTE AUX SABLES\nMAURICE",
    "languageCode": "CE",
-   "relatedLanguageCodes": [ "F" ],
+   "schedule": "Sun 09:30 Thu 18:00",
    "phones": [ "+230&nbsp;57211666" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "9356962C-FE10-4FBD-92D0-000D7053FEA3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.181388,
-   "longitude": 57.434931
+   "longitude": 57.434931,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "Pointe-aux-Sables Français - POINTE AUX SABLES",
@@ -337,133 +365,117 @@
    "schedule": "Sun 09:30 Thu 18:00",
    "relatedLanguageCodes": [ "CE" ],
    "phones": [ "+230&nbsp;57211666" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-06-14",
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5A85F231-5559-402F-9241-1324257BC2BD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -20.415588,
-   "longitude": 57.706665
+   "longitude": 57.706665,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "MAHEBOURG",
    "orgType": "CONG",
    "address": "Allée Gheude\r\n50801 MAHÉBOURG\r\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sat 16:00 Wed 18:15",
    "phones": [ "(230) 57.34.16.24/ 54.91.38.44" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "73F739CE-9883-40A9-AC58-421ACED6F21D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.220044,
-   "longitude": 57.539775
+   "longitude": 57.539775,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "ST PIERRE",
    "orgType": "CONG",
    "address": "Audi Lane\nMont Fleury\n81409 SAINT PIERRE\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sat 16:00 Thu 17:45",
    "phones": [ "+230&nbsp;433-8064" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "E423F110-4E7E-4E2D-B51B-AD6CDCEBD6A8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.220044,
-   "longitude": 57.539775
+   "longitude": 57.539775,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "Montagne Blanche - ST PIERRE",
    "orgType": "GROUP",
    "address": "Audi Lane\nMont Fleury\n81409 SAINT PIERRE\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sun 09:30 Wed 17:45",
    "phones": [ "+230&nbsp;433-8064" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
-  "firstSeen": "2023-06-02"
- },
- {
-  "geoId": "190BAED0-30CE-424E-AC17-87DC3AF8908F",
-  "type": "weekly",
-  "isPrimary": true,
-  "location": {
-   "latitude": -20.164297,
-   "longitude": 57.494208
-  },
-  "properties": {
-   "orgName": "PORT LOUIS SUD",
-   "orgType": "CONG",
-   "address": "3 Rue Caudan\n11306 PORT LOUIS\nMAURICE",
-   "languageCode": "CE",
-   "relatedLanguageCodes": [
-    "HI",
-    "MG"
-   ],
-   "phones": [ "57784083" ],
-   "isPrivateMtgPlace": false
-  },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "CFC70961-27C4-498E-8F73-94A7CD448847",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -20.164297,
-   "longitude": 57.494208
+   "longitude": 57.494208,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "PORT LOUIS OUEST",
    "orgType": "CONG",
    "address": "3 Rue Caudan\n11306 PORT LOUIS\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sat 16:00 Tue 18:00",
    "relatedLanguageCodes": [
     "CHM",
     "MTS"
    ],
    "phones": [ "+230&nbsp;422-1810" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "F185F1D6-8019-4B9E-8677-B19BE90D49BD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.164297,
-   "longitude": 57.494208
+   "longitude": 57.494208,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "Port-Louis Malgache - PORT LOUIS SUD",
@@ -471,22 +483,22 @@
    "address": "3 Rue Caudan\n11306 PORT LOUIS\nMAURICE",
    "languageCode": "MG",
    "schedule": "Sun 09:30 Thu 17:45",
-   "relatedLanguageCodes": [ "CE" ],
    "phones": [ "57784083" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B2EF5841-E699-43D0-8804-80DA43E0CE76",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -20.164297,
-   "longitude": 57.494208
+   "longitude": 57.494208,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "Port-Louis Langue des signes mauricienne - PORT LOUIS OUEST",
@@ -496,126 +508,160 @@
    "schedule": "Sat 16:00 Tue 18:00",
    "relatedLanguageCodes": [ "CE" ],
    "phones": [ "+230&nbsp;422-1810" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6447B80E-A0A4-425E-B5E4-89F4A3DB0328",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.373098,
-   "longitude": 57.715775
+   "longitude": 57.715775,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "VIEUX GRAND PORT",
    "orgType": "CONG",
    "address": "Royal Rd\nVIEUX GRAND PORT\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sun 09:30 Thu 18:00",
    "phones": [ "52506408" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
+  "firstSeen": "2023-06-02"
+ },
+ {
+  "geoId": "190BAED0-30CE-424E-AC17-87DC3AF8908F",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -20.14608,
+   "longitude": 57.508101,
+   "iso": "MDG"
+  },
+  "properties": {
+   "orgName": "PORT LOUIS SUD",
+   "orgType": "CONG",
+   "address": "62 Rue Balisage\nROCHE BOIS\nMAURICE",
+   "languageCode": "CE",
+   "schedule": "Sun 09:30 Thu 17:45",
+   "phones": [ "57784083" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "7C32CC0D-20F5-4803-8428-DB3C3AA8032D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.14608,
-   "longitude": 57.508101
+   "longitude": 57.508101,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "ROCHE BOIS",
    "orgType": "CONG",
    "address": "62 Rue Balisage\nROCHE BOIS\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sat 16:00 Tue 18:00",
    "phones": [ "+230 57432092" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "F954E188-2135-4206-B887-288AB2CBB5DC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.151998,
-   "longitude": 57.522165
+   "longitude": 57.522165,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "PORT LOUIS NORD",
    "orgType": "CONG",
    "address": "132A Route des Pamplemousses\nSainte Croix\nPORT LOUIS\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sun 09:30 Thu 17:45",
    "phones": [ "+230&nbsp;57219177" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "40E711E2-F485-4CBB-AA91-FB635BABA8C5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.108715,
-   "longitude": 57.574663
+   "longitude": 57.574663,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "PAMPLEMOUSSES",
    "orgType": "CONG",
    "address": "Rue du Moulin à Poudre (Powder Mill Road)\r\nRue \"One Way\"\r\n21014 Pamplemousses\r\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sun 09:30 Thu 18:00",
    "phones": [ "230 5 9473684" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "513A4272-BCCB-4FA2-ACC1-96EA81073551",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.072344,
-   "longitude": 57.546816
+   "longitude": 57.546816,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "TRIOLET",
    "orgType": "CONG",
    "address": "Princesse Anne Road\r\nCinema Cassé\r\n21501 TRIOLET\r\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sun 09:30 Thu 17:15",
    "relatedLanguageCodes": [ "BHM" ],
    "phones": [ "2617688" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "8A82F351-F583-4E3C-AD53-CC4507523EE6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.072344,
-   "longitude": 57.546816
+   "longitude": 57.546816,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "Triolet Bhojpuri - TRIOLET",
@@ -625,67 +671,72 @@
    "schedule": "Sat 16:00 Thu 17:15",
    "relatedLanguageCodes": [ "CE" ],
    "phones": [ "2617688" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "10CD143A-D234-4473-93FF-D3561BDBEC57",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.199446,
-   "longitude": 57.727222
+   "longitude": 57.727222,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "FLACQ",
    "orgType": "CONG",
    "address": "Riche Mare Branch Rd\n40606 CENTRE DE FLACQ\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sat 15:45 Tue 17:30",
    "phones": [ "291 8039" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "82CC9009-5532-481E-9046-127A9BB7DEB3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.199446,
-   "longitude": 57.727222
+   "longitude": 57.727222,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "BEL AIR RIVIERE SECHE",
    "orgType": "CONG",
    "address": "Riche Mare Branch Rd\n40606 CENTRE DE FLACQ\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sun 09:30 Thu 17:30",
    "phones": [ "+230&nbsp;753-9918" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "DAE24401-B342-48AB-A027-D4333848BB21",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.016125,
-   "longitude": 57.580683
+   "longitude": 57.580683,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "GRAND BAIE",
    "orgType": "CONG",
-   "address": "Route Royale\r\n(vis à vis Beach House restaurant)\r\n30511 GRAND BAIE\r\nMAURICE",
+   "address": "Route Royale\n(vis à vis Beach House restaurant)\n30511 GRAND BAIE\nMAURICE",
    "languageCode": "CE",
    "schedule": "Sat 16:30 Thu 18:00",
    "relatedLanguageCodes": [
@@ -693,20 +744,21 @@
     "F"
    ],
    "phones": [ "52 54 39 94" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-02-20"
  },
  {
   "geoId": "A41EB009-5041-40AE-B455-C86D8D9E40F7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -20.016125,
-   "longitude": 57.580683
+   "longitude": 57.580683,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "Grand-Baie Anglais - GRAND BAIE",
@@ -716,75 +768,80 @@
    "schedule": "Sun 08:30 Thu 18:00",
    "relatedLanguageCodes": [ "CE" ],
    "phones": [ "52 54 39 94" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-02-20"
  },
  {
   "geoId": "9EAC3BE8-9D3E-42F7-9144-E47C6592EC7D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.102855,
-   "longitude": 57.695051
+   "longitude": 57.695051,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "RIVIERE DU REMPART",
    "orgType": "CONG",
    "address": "Rue Jugnauth\r\n31114 RIVIÈRE DU REMPART\r\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sun 10:00 Wed 18:00",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "AF11F003-04CC-4D52-AEB4-917004E11B10",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -20.032811,
-   "longitude": 57.647936
+   "longitude": 57.647936,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "GOODLANDS",
    "orgType": "CONG",
    "address": "Keijou Lane\n30403 GOODLANDS\nMAURICE",
    "languageCode": "CE",
+   "schedule": "Sun 09:30 Thu 18:00",
    "phones": [ "283-6675" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "DB73CAE7-E2C9-43A6-A8F8-19E146EF8815",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -19.683125,
-   "longitude": 63.421951
+   "longitude": 63.421951,
+   "iso": "MDG"
   },
   "properties": {
    "orgName": "PORT MATHURIN",
    "orgType": "CONG",
    "address": "Rue Ofted Roussety\r\nR5126 PORT MATHURIN - RODRIGUES\r\nRodrigues\r\nMAURICE",
    "languageCode": "CE",
-   "schedule": "Sun 09:00 Thu 16:00",
+   "schedule": "Sat 15:30 Thu 16:00",
    "phones": [ "57769144" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

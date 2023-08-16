@@ -2,10 +2,11 @@
  {
   "geoId": "9D62DFDD-CA67-4D4B-BAAD-CF8A9418A344",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -14.310757,
-   "longitude": -178.088929
+   "longitude": -178.088929,
+   "iso": "FJI"
   },
   "properties": {
    "orgName": "FUTUNA (WLF)",
@@ -14,20 +15,21 @@
    "languageCode": "FT",
    "schedule": "Sun 16:00 Wed 18:00",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-14",
-  "lastSeen": "2023-06-14",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3F27BDD8-C2FD-4855-A69C-876C9B760F39",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": -13.250836,
-   "longitude": -176.195451
+   "longitude": -176.195451,
+   "iso": "FJI"
   },
   "properties": {
    "orgName": "WALLIS",
@@ -37,20 +39,21 @@
    "schedule": "Sun 17:00 Wed 18:30",
    "relatedLanguageCodes": [ "F" ],
    "phones": [ "681 72 16 76" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-14",
-  "lastSeen": "2023-06-14",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C74F4BDB-A17F-43A7-954E-3DA8A4AB9E25",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -13.250836,
-   "longitude": -176.195451
+   "longitude": -176.195451,
+   "iso": "FJI"
   },
   "properties": {
    "orgName": "Groupe français de wallis - WALLIS",
@@ -60,11 +63,11 @@
    "schedule": "Sun 09:00 Thu 18:30",
    "relatedLanguageCodes": [ "WA" ],
    "phones": [ "681 72 16 76" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-14",
-  "lastSeen": "2023-06-14",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

@@ -2,10 +2,11 @@
  {
   "geoId": "E89C686C-F62A-418E-B244-574A4E05E893",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 8.753143,
-   "longitude": 27.364814
+   "longitude": 27.364814,
+   "iso": "SSD"
   },
   "properties": {
    "orgName": "Maper - Aweil BN",
@@ -15,20 +16,21 @@
    "languageCode": "DI",
    "schedule": "Sun 09:30 Wed 16:00",
    "phones": [ "+211929011824.   +211914193902" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DC265A2F-EBDE-471F-92B5-10D954D1D4C3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 8.29929,
-   "longitude": 27.962878
+   "longitude": 27.962878,
+   "iso": "SSD"
   },
   "properties": {
    "orgName": "Gumel - Kuajok WR",
@@ -37,11 +39,11 @@
    "languageCode": "DI",
    "schedule": "Sun 10:00 Fri 16:00",
    "phones": [ "0923285054" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

@@ -2,10 +2,11 @@
  {
   "geoId": "6E1C2309-F30D-4FD6-A917-0269142CCCDB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.069682,
-   "longitude": 114.520112
+   "longitude": 114.520112,
+   "iso": "MNG"
   },
   "properties": {
    "orgName": "Choibalsan Group, Bayanzurkh Congregation, Ulaanbaatar - Bayanzurkh",
@@ -15,11 +16,11 @@
    "languageCode": "KHA",
    "schedule": "Sun 14:00 Thu 18:30",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

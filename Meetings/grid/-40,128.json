@@ -2,10 +2,11 @@
  {
   "geoId": "B588AE98-B084-4043-B6A6-B0B0F481506F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -34.74177,
-   "longitude": 135.86053
+   "longitude": 135.86053,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Port Lincoln - SA",
@@ -14,11 +15,11 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "0414 604 893" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

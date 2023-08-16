@@ -2,10 +2,11 @@
  {
   "geoId": "EE090FDA-B59C-4BB5-A669-551CE956FA1A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 19.577882,
-   "longitude": 37.177387
+   "longitude": 37.177387,
+   "iso": "SDN"
   },
   "properties": {
    "orgName": "Port Sudan - RS - Takamol - Khartoum North KH",
@@ -14,11 +15,11 @@
    "languageCode": "ASN",
    "schedule": "Fri 09:00 Sun 16:30",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

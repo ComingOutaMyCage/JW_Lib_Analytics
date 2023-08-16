@@ -2,32 +2,34 @@
  {
   "geoId": "E639663C-4BC1-4D08-A3A5-5BE2EF19B46F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -14.942081,
-   "longitude": -147.700694
+   "longitude": -147.700694,
+   "iso": "FJI"
   },
   "properties": {
    "orgName": "Rangiroa",
    "orgType": "CONG",
-   "address": "C/o M. Walter Lightart\r\n98775 RANGIROA",
+   "address": "C/o M. Walter Lightart\n98775 RANGIROA",
    "languageCode": "F",
    "schedule": "Sat 16:00 Wed 18:00",
    "phones": [ "68940968355" ],
-   "isPrivateMtgPlace": true
+   "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-06-14",
-  "lastSeen": "2023-06-14",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4FA57EB6-F6CB-41A0-863D-1CC3A728EFBE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.57219,
-   "longitude": -146.411414
+   "longitude": -146.411414,
+   "iso": "FJI"
   },
   "properties": {
    "orgName": "Apataki",
@@ -36,20 +38,21 @@
    "languageCode": "F",
    "schedule": "Sat 09:30 Mon 19:00",
    "phones": [ "87.20.00.29" ],
-   "isPrivateMtgPlace": true
+   "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-06-14",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2023-06-14",
-  "active": true,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9F757116-2CF5-4A25-931A-01FC605BA7DD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.252277,
-   "longitude": -146.611597
+   "longitude": -146.611597,
+   "iso": "FJI"
   },
   "properties": {
    "orgName": "Arutua",
@@ -58,11 +61,11 @@
    "languageCode": "F",
    "schedule": "Sun 17:00 undefined null",
    "phones": [ "87 73 47 54 Yann" ],
-   "isPrivateMtgPlace": true
+   "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-06-14",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2023-06-14",
-  "active": true,
+  "active": 0,
   "firstSeen": "2022-12-02"
  }
 ]

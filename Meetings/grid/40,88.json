@@ -2,10 +2,11 @@
  {
   "geoId": "6B2392F1-2D9E-479E-AEE4-D15EA94EC90F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 47.997244,
-   "longitude": 91.635006
+   "longitude": 91.635006,
+   "iso": "MNG"
   },
   "properties": {
    "orgName": "Khovd Group, Bayanzurkh Congregation, Ulaanbaatar - Bayanzurkh",
@@ -15,11 +16,11 @@
    "languageCode": "KHA",
    "schedule": "Sun 14:00 Thu 18:30",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

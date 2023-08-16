@@ -2,10 +2,11 @@
  {
   "geoId": "17EA27FE-E434-49FB-82BB-954257928FB9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.239961,
-   "longitude": -120.808955
+   "longitude": -120.808955,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Mountain View, Fort St. John, BC",
@@ -14,20 +15,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [ "778-576-4208" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "611113EB-4C0C-4385-9F5C-3433BE690E35",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 56.239961,
-   "longitude": -120.808955
+   "longitude": -120.808955,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Peace View, Fort St. John, BC",
@@ -37,43 +39,45 @@
    "schedule": "Sun 10:00 Wed 19:30",
    "relatedLanguageCodes": [ "TG" ],
    "phones": [ "778-576-4208" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8C05010E-01D3-4EC7-8283-F77EFAB3BA69",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 56.239961,
-   "longitude": -120.808955
+   "longitude": -120.808955,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Peace View Tagalog - Peace View, Fort St. John, BC",
    "orgType": "GROUP",
    "address": "7908 94th Avenue\r\nFort St. John BC  V1J 1E4",
    "languageCode": "TG",
-   "schedule": "Sun 10:00",
+   "schedule": "Sun 10:00 undefined null",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "778-576-4208" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8725E4DE-A412-434D-808C-6A373ADBA29D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 58.808118,
-   "longitude": -122.695687
+   "longitude": -122.695687,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Fort Nelson, BC",
@@ -82,11 +86,11 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [ "866-538-7444" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

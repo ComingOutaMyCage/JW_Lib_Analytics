@@ -2,10 +2,11 @@
  {
   "geoId": "00B330FB-CB87-4064-B70A-DC20E1D4F475",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 63.747085,
-   "longitude": -68.525597
+   "longitude": -68.525597,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Iqaluit, NU",
@@ -14,11 +15,11 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "(867) 979-3339" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

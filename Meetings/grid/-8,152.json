@@ -2,10 +2,11 @@
  {
   "geoId": "16A07B90-7751-4721-934E-348D43C11225",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -4.495981,
-   "longitude": 152.32926
+   "longitude": 152.32926,
+   "iso": "PNG"
   },
   "properties": {
    "orgName": "Ganai Congregation",
@@ -15,42 +16,44 @@
    "languageCode": "MP",
    "schedule": "Sun 09:30 Wed 16:30",
    "phones": [ "Jude Wasinel -7442 6312 / 7890 2683" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4C04D9E7-A389-4D2E-9B48-00AA71F3068A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -4.3447,
-   "longitude": 152.2728
+   "longitude": 152.2728,
+   "iso": "PNG"
   },
   "properties": {
    "orgName": "Kokopo Congregation",
    "orgType": "CONG",
    "address": "Adima Street\r\nKOKOPO  ENBP",
    "languageCode": "MP",
-   "schedule": "Sun 10:00 Wed 18:30",
+   "schedule": "Sun 09:00 Sun 09:00",
    "phones": [ "71857679 / 71801533" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8A2F36F2-226B-400A-8F9C-DE4CD77D65AF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -7.935667,
-   "longitude": 156.706404
+   "longitude": 156.706404,
+   "iso": "SLB"
   },
   "properties": {
    "orgName": "Vella La Vella",
@@ -60,20 +63,21 @@
    "languageCode": "SP",
    "schedule": "Sun 10:00 Thu 15:30",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9B32795A-21C6-4A13-B8F9-BF563663C270",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -5.363401,
-   "longitude": 154.66906
+   "longitude": 154.66906,
+   "iso": "PNG"
   },
   "properties": {
    "orgName": "Buka Congregation",
@@ -82,11 +86,11 @@
    "languageCode": "MP",
    "schedule": "Sun 09:30 Sun 11:30",
    "phones": [ "74717103" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

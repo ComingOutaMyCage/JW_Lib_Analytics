@@ -2,10 +2,11 @@
  {
   "geoId": "934E7A4D-818D-4FFB-AE27-6F0F05896A87",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -41.88175,
-   "longitude": 145.33408
+   "longitude": 145.33408,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Zeehan - TAS",
@@ -14,139 +15,151 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0438 806 425" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "94467AAA-A687-4EEC-AE59-8C5CDA6FFFEA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -43.01344,
-   "longitude": 147.06374
+   "longitude": 147.06374,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Huonville - TAS",
    "orgType": "CONG",
    "address": "9 Voss Road\nHUONVILLE  TAS  7109",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "03 6264 1646" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "12D72B48-40BE-4F24-89D8-D55752E81AC1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -43.029414,
-   "longitude": 147.261892
+   "longitude": 147.261892,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Kingston - Hobart TAS",
    "orgType": "CONG",
    "address": "13 Van Morey Road\nMARGATE  TAS  7054",
    "languageCode": "E",
+   "schedule": "Sat 13:30 Tue 19:00",
    "phones": [ "0439071894" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "C1C7C39D-8023-48CF-996D-F11E0E43E464",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -42.77125,
-   "longitude": 147.035
+   "longitude": 147.035,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "New Norfolk - TAS",
    "orgType": "CONG",
-   "address": "17 Goldsmith Street\r\nLAWITTA  TAS  7140",
+   "address": "17 Goldsmith Street\nLAWITTA  TAS  7140",
    "languageCode": "E",
+   "schedule": "Sat 14:00 Tue 19:15",
    "phones": [ "03 62612100" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "0FA3F974-6C81-4021-9424-A73DF1DFC65F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -42.89568,
-   "longitude": 147.30137
+   "longitude": 147.30137,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Hobart Central - Hobart TAS",
    "orgType": "CONG",
    "address": "90 Cascade Road\nSOUTH HOBART  TAS  7004",
    "languageCode": "E",
+   "schedule": "Sat 15:00 Wed 19:30",
    "relatedLanguageCodes": [ "CHM" ],
    "phones": [ "English: 0403 318 021  or  Mandarin: 0416 044 048" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "8310E96F-CA35-41B9-AA37-8E1A1C498EA9",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": -42.89568,
-   "longitude": 147.30137
+   "longitude": 147.30137,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Hobart Central Mandarin - Hobart Central - Hobart TAS",
    "orgType": "GROUP",
    "address": "90 Cascade Road\nSOUTH HOBART  TAS  7004",
    "languageCode": "CHM",
+   "schedule": "Sun 10:30 Wed 19:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "English: 0403 318 021  or  Mandarin: 0416 044 048" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "E4BAD742-EAD9-48F8-B2A6-E6C896E791F2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -42.82819,
-   "longitude": 147.25113
+   "longitude": 147.25113,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Rosetta - Hobart TAS",
    "orgType": "CONG",
    "address": "2 Jasanda Drive\nMONTROSE  TAS  7010",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "0468 409 056" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -154,7 +167,8 @@
   "type": "weekly",
   "location": {
    "latitude": -42.74221960000001,
-   "longitude": 147.2490643
+   "longitude": 147.2490643,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Bridgewater",
@@ -162,93 +176,101 @@
    "address": "10 Bowden Drive, Bridgewater, TAS 7030",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2018-01-01",
-  "active": false,
+  "active": 0,
   "firstSeen": "2018-01-01"
  },
  {
   "geoId": "16B03F2F-6F99-4325-A88C-B6BA9B1482BB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -42.84916,
-   "longitude": 147.42032
+   "longitude": 147.42032,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Bellerive - Hobart TAS",
    "orgType": "CONG",
    "address": "670 Cambridge Road\nCAMBRIDGE  TAS  7170",
    "languageCode": "E",
-   "phones": [ "03 6248 5845" ],
-   "isPrivateMtgPlace": false
+   "schedule": "Sat 14:00 Tue 19:15",
+   "phones": [ "0428 130 177" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "CC992408-1A62-4627-90F0-EA2C7DFCF6F8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -41.05576,
-   "longitude": 145.82025
+   "longitude": 145.82025,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Burnie - TAS",
    "orgType": "CONG",
    "address": "265 Murchison Highway\nSOMERSET  TAS  7322",
    "languageCode": "E",
+   "schedule": "Sat 14:30 Wed 19:00",
    "phones": [ "0417772086" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "13B1180A-484A-4682-9E02-38F812D22DE3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -43.05181,
-   "longitude": 147.86624
+   "longitude": 147.86624,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Port Arthur - TAS",
    "orgType": "CONG",
-   "address": "11 George Street\r\nTARANNA  TAS  7180",
+   "address": "11 George Street\nTARANNA  TAS  7180",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0477555348" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "E4F1E723-747B-47E2-A2B9-10E3A7613FBA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -41.382613,
-   "longitude": 146.33229
+   "longitude": 146.33229,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Sheffield - TAS",
    "orgType": "CONG",
-   "address": "25 Albert Street\r\nSHEFFIELD  TAS  7306",
+   "address": "25 Albert Street\nSHEFFIELD  TAS  7306",
    "languageCode": "E",
+   "schedule": "Sat 14:00 Tue 19:00",
    "phones": [ "0400284512" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -256,7 +278,8 @@
   "type": "weekly",
   "location": {
    "latitude": -41.1626641,
-   "longitude": 146.1925484
+   "longitude": 146.1925484,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Ulverstone",
@@ -264,95 +287,103 @@
    "address": "22 Allambie Crescent, Ulverstone, Tas.",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2019-09-01",
-  "active": false,
+  "active": 0,
   "firstSeen": "2019-09-01"
  },
  {
   "geoId": "383F1200-CC53-401C-A25B-9B6089497721",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -41.5156,
-   "longitude": 146.64239
+   "longitude": 146.64239,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Deloraine - TAS",
    "orgType": "CONG",
    "address": "24 Jordan Place\nDELORAINE  TAS  7304",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0480 268 220" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "0295D1AA-054E-4919-B803-F1D853667E82",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -41.1914,
-   "longitude": 146.32706
+   "longitude": 146.32706,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Central Coast - Devonport TAS",
    "orgType": "CONG",
    "address": "14 Rundle Road\nSTONY RISE  TAS  7310",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "0416 217 230" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "10DFDED1-F506-4A97-9A01-62E8100E7664",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -41.1914,
-   "longitude": 146.32706
+   "longitude": 146.32706,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Devonport - TAS",
    "orgType": "CONG",
    "address": "14 Rundle Road\nSTONY RISE  TAS  7310",
    "languageCode": "E",
+   "schedule": "Sat 14:00 Tue 19:00",
    "relatedLanguageCodes": [ "VT" ],
    "phones": [ "0408 144 579" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "BF3DB124-8A50-46EA-AE3D-125317F3D08E",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": -41.1914,
-   "longitude": 146.32706
+   "longitude": 146.32706,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Devonport Vietnamese - Devonport - TAS",
    "orgType": "GROUP",
    "address": "14 Rundle Road\nSTONY RISE  TAS  7310",
    "languageCode": "VT",
+   "schedule": "Sat 19:00 Wed 19:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "0408 144 579" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -360,7 +391,8 @@
   "type": "weekly",
   "location": {
    "latitude": -42.4994988,
-   "longitude": 147.9129826
+   "longitude": 147.9129826,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Triabunna",
@@ -368,39 +400,42 @@
    "address": "64 Charles Street, Triabunna, TAS",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2021-12-01",
-  "active": false,
+  "active": 0,
   "firstSeen": "2021-12-01"
  },
  {
   "geoId": "5307C9B8-0C3F-44F9-915F-40D907DE7714",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -41.19349,
-   "longitude": 146.81212
+   "longitude": 146.81212,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Beaconsfield - TAS",
    "orgType": "CONG",
    "address": "48-50 Margaret Street\nBEACONSFIELD  TAS  7270",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "0419 561 615" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "1575172B-33A6-4FC7-B0A1-B5B177C8CDD0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -41.45875,
-   "longitude": 147.14358
+   "longitude": 147.14358,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Glen Dhu - Launceston TAS",
@@ -409,20 +444,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "0439271757" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "29CABF7C-1E04-4D8F-A157-DB43C8506156",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -41.45875,
-   "longitude": 147.14358
+   "longitude": 147.14358,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Launceston West - Launceston TAS",
@@ -431,41 +467,44 @@
    "languageCode": "E",
    "schedule": "Sat 14:00 Wed 19:00",
    "phones": [ "0416200160" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3F636913-9AE6-4F7C-9C1C-9ABF32401BBB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -41.10896,
-   "longitude": 146.83926
+   "longitude": 146.83926,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "George Town - TAS",
    "orgType": "CONG",
    "address": "85 Main Road\nGEORGE TOWN  TAS  7253",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0490 959 503" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "ACD12C20-83DD-493D-A060-89417E92F5C9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -41.422,
-   "longitude": 147.17095
+   "longitude": 147.17095,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Invermay - Launceston TAS",
@@ -475,20 +514,21 @@
    "schedule": "Sun 10:00 Wed 19:00",
    "relatedLanguageCodes": [ "CHM" ],
    "phones": [ "0427159359" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6BE9F99B-83FF-494A-ADA1-E974556F738F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -41.422,
-   "longitude": 147.17095
+   "longitude": 147.17095,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Newstead - Launceston TAS",
@@ -497,43 +537,45 @@
    "languageCode": "E",
    "schedule": "Sat 14:30 Tue 19:00",
    "phones": [ "0478554900" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F4742C08-A01C-49D1-BB01-CB3654E1DE77",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -41.422,
-   "longitude": 147.17095
+   "longitude": 147.17095,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Invermay Mandarin - Invermay - Launceston TAS",
    "orgType": "GROUP",
    "address": "18a Ravenswood Road\nRAVENSWOOD  TAS  7250",
    "languageCode": "CHM",
-   "schedule": "Sun 10:00",
+   "schedule": "Sun 10:00 undefined null",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "0427159359" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DE5DE8C4-8D46-423F-96B3-648571530A29",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -41.152939,
-   "longitude": 147.514029
+   "longitude": 147.514029,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Scottsdale - TAS",
@@ -542,20 +584,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "+61425244481" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9E04F3ED-D0E9-4D6D-88FE-92E464F30B0D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -41.46378,
-   "longitude": 148.25936
+   "longitude": 148.25936,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Scamander - TAS",
@@ -564,11 +607,11 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "0417115141" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

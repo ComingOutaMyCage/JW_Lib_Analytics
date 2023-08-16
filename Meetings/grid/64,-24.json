@@ -2,10 +2,11 @@
  {
   "geoId": "DCEAED3A-E301-4DE7-B480-F223657E912C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 64.00449,
-   "longitude": -22.57856
+   "longitude": -22.57856,
+   "iso": "ISL"
   },
   "properties": {
    "orgName": "Keflavíkursöfnuður",
@@ -14,20 +15,21 @@
    "languageCode": "IC",
    "schedule": "Sat 16:00 Wed 19:00",
    "phones": [ "+354&nbsp;6638786" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DA3F1C55-4519-42A4-AAC2-914EEB1DE487",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 64.11874,
-   "longitude": -21.802092
+   "longitude": -21.802092,
+   "iso": "ISL"
   },
   "properties": {
    "orgName": "Enski Söfnuðurinn í Reykjavík",
@@ -37,20 +39,21 @@
    "schedule": "Sun 14:00 Thu 19:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "+354 783 93 77" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5A202CC4-8CF0-478C-BC7E-32FCB60BB8D6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 64.11874,
-   "longitude": -21.802092
+   "longitude": -21.802092,
+   "iso": "ISL"
   },
   "properties": {
    "orgName": "Norðursöfnuður í Reykjavík",
@@ -59,20 +62,21 @@
    "languageCode": "IC",
    "schedule": "Sat 10:30 Tue 19:00",
    "phones": [ "+354 775 0714" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3873F4A7-92C0-4C7E-AFA9-D5169B7C72D9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 64.11874,
-   "longitude": -21.802092
+   "longitude": -21.802092,
+   "iso": "ISL"
   },
   "properties": {
    "orgName": "Suðursöfnuður í Reykjavík",
@@ -81,20 +85,21 @@
    "languageCode": "IC",
    "schedule": "Sat 16:00 Mon 19:00",
    "phones": [ "8964885" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DE9632F1-390C-42B1-B63B-1E12317B887B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 64.11874,
-   "longitude": -21.802092
+   "longitude": -21.802092,
+   "iso": "ISL"
   },
   "properties": {
    "orgName": "Pólski Söfnuðurinn í Reykjavík",
@@ -103,43 +108,45 @@
    "languageCode": "P",
    "schedule": "Sun 11:00 Wed 18:30",
    "phones": [ "003547823011" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1579CF42-0B7A-484F-AB77-5F57D525484A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 64.11874,
-   "longitude": -21.802092
+   "longitude": -21.802092,
+   "iso": "ISL"
   },
   "properties": {
    "orgName": "Enski Söfnuðurinn í Reykjavík (Spanish pregroup) - Enski Söfnuðurinn í Reykjavík",
    "orgType": "PREGROUP",
    "address": "Hraunbær 113\r\n110  Reykjavík\r\nICELAND",
    "languageCode": "S",
-   "schedule": "Sun 14:00",
+   "schedule": "Sun 14:00 undefined null",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "+354 783 93 77" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C66482E5-FED7-41DE-83EB-322F7E628D81",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 65.685673,
-   "longitude": -18.102365
+   "longitude": -18.102365,
+   "iso": "ISL"
   },
   "properties": {
    "orgName": "Akureyrarsöfnuður",
@@ -148,11 +155,11 @@
    "languageCode": "IC",
    "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "+354 8934005" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

@@ -2,10 +2,11 @@
  {
   "geoId": "4E0C721F-DA73-4678-B4ED-2BC14E9FACCB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 39.849542,
-   "longitude": 44.696347
+   "longitude": 44.696347,
+   "iso": "ARM"
   },
   "properties": {
    "orgName": "ԱՐԱՐԱՏ, ՀԱՐԱՎԱՅԻՆ",
@@ -16,20 +17,21 @@
    "languageCode": "REA",
    "schedule": "Sat 11:00 Wed 17:00",
    "phones": [ "+374-55-282-335" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "998D4BE7-32C0-4170-8EA7-F51BB290924C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 39.849542,
-   "longitude": 44.696347
+   "longitude": 44.696347,
+   "iso": "ARM"
   },
   "properties": {
    "orgName": "ԱՐԱՐԱՏ, ՀՅՈՒՍԻՍԱՅԻՆ",
@@ -40,11 +42,11 @@
    "languageCode": "REA",
    "schedule": "Sun 12:30 Thu 15:00",
    "phones": [ "+37443880344" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

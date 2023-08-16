@@ -2,10 +2,11 @@
  {
   "geoId": "D57D3CF5-AD77-466C-9145-39F62E0E3ABA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 35.508375,
-   "longitude": 24.004078
+   "longitude": 24.004078,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Βάμος",
@@ -16,68 +17,72 @@
    "languageCode": "G",
    "schedule": "Sun 12:30 Wed 19:30",
    "phones": [ "+30&nbsp;282-109-1214" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "1D256161-4799-4409-AF3C-9D2307543E28",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 35.508375,
-   "longitude": 24.004078
+   "longitude": 24.004078,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Χανιά Ανατολική",
    "orgType": "CONG",
    "orgTransliteratedName": "Chania East",
-   "address": "Γεωργιακάκηδων (Πάροδος Πεσόντων Αστυνομικών)\r\nΝέα Χώρα\r\n73100  Χανιά",
+   "address": "Γεωργιακάκηδων (Πάροδος Πεσόντων Αστυνομικών)\nΝέα Χώρα\n73100  Χανιά",
    "transliteratedAddress": "Georgiakakidon (Parodos Pesonton Astinomikon)\r\nNea Chora\r\n73100  Chania\r\n",
    "languageCode": "G",
+   "schedule": "Sat 19:30 Mon 19:30",
    "relatedLanguageCodes": [ "AL" ],
    "phones": [ "6944580287" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "F271126C-9414-4540-AFDA-0E641F2602B6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 35.508375,
-   "longitude": 24.004078
+   "longitude": 24.004078,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Χανιά Δυτική",
    "orgType": "CONG",
    "orgTransliteratedName": "Chania West",
-   "address": "Γεωργιακάκηδων (Πάροδος Πεσόντων Αστυνομικών)\r\nΝέα Χώρα\r\n73100  Χανιά",
+   "address": "Γεωργιακάκηδων (Πάροδος Πεσόντων Αστυνομικών)\nΝέα Χώρα\n73100  Χανιά",
    "transliteratedAddress": "Georgiakakidon (Parodos Pesonton Astinomikon)\r\nNea Chora\r\n73100  Chania\r\n",
    "languageCode": "G",
-   "relatedLanguageCodes": [ "BL" ],
+   "schedule": "Sun 19:00 Thu 19:30",
    "phones": [ "6972707556" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "E839A24D-66C2-486A-BB7C-F3EDFE9639AD",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 1,
   "location": {
    "latitude": 35.508375,
-   "longitude": 24.004078
+   "longitude": 24.004078,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Χανιά Αλβανικός - Χανιά Ανατολική",
@@ -89,20 +94,21 @@
    "schedule": "Sat 19:30 Mon 19:30",
    "relatedLanguageCodes": [ "G" ],
    "phones": [ "6944580287" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1732CCC2-72F5-4FAA-866D-87D7053FD250",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 1,
   "location": {
    "latitude": 35.508375,
-   "longitude": 24.004078
+   "longitude": 24.004078,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Χανιά Βουλγαρικός - Χανιά Δυτική",
@@ -111,287 +117,303 @@
    "address": "Γεωργιακάκηδων (Πάροδος Πεσόντων Αστυνομικών)\r\nΝέα Χώρα\r\n73100  Χανιά",
    "transliteratedAddress": "Georgiakakidon (Parodos Pesonton Astinomikon)\r\nNea Chora\r\n73100  Chania\r\n",
    "languageCode": "BL",
+   "schedule": "Sun 12:00 Thu 19:00",
    "relatedLanguageCodes": [ "G" ],
    "phones": [ "6972707556" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-06-14",
+  "active": 0,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "893DB6B0-48C8-44A4-B0F8-1B81004B813C",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 35.508375,
-   "longitude": 24.004078
+   "longitude": 24.004078,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Χανιά Ρωσική",
    "orgType": "CONG",
    "orgTransliteratedName": "Chania Russian",
-   "address": "Γεωργιακάκηδων (Πάροδος Πεσόντων Αστυνομικών)\r\nΝέα Χώρα\r\n73100  Χανιά",
+   "address": "Γεωργιακάκηδων (Πάροδος Πεσόντων Αστυνομικών)\nΝέα Χώρα\n73100  Χανιά",
    "transliteratedAddress": "Georgiakakidon (Parodos Pesonton Astinomikon)\r\nNea Chora\r\n73100  Chania\r\n",
    "languageCode": "U",
+   "schedule": "Sun 16:30 Tue 19:30",
    "phones": [ "6945960424" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "C5420CB1-EBCD-477E-9C7E-65CC6B67B329",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 35.508375,
-   "longitude": 24.004078
+   "longitude": 24.004078,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Chania English",
    "orgType": "CONG",
    "orgTransliteratedName": "Χανιά Αγγλική",
-   "address": "Γεωργιακάκηδων (Πάροδος Πεσόντων Αστυνομικών)\r\nΝέα Χώρα\r\n73100  Χανιά",
+   "address": "Γεωργιακάκηδων (Πάροδος Πεσόντων Αστυνομικών)\nΝέα Χώρα\n73100  Χανιά",
    "transliteratedAddress": "Georgiakakidon (Parodos Pesonton Astinomikon)\r\nNea Chora\r\n73100  Chania\r\n",
    "languageCode": "E",
    "schedule": "Sun 10:00 Fri 19:00",
    "phones": [ "+30&nbsp;6951949954" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "09788E44-152A-4AB2-8E55-2C283074CC93",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 35.377185,
-   "longitude": 24.569415
+   "longitude": 24.569415,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Ρέθυμνο",
    "orgType": "CONG",
    "orgTransliteratedName": "Rethymno",
-   "address": "8ο χλμ. Εθνικής Οδού Ρεθύμνου - Ηρακλείου\r\nΣΦΑΚΑΚΙ (Δίπλα στη Mazda)\r\n74100  Ρέθυμνο",
+   "address": "8ο χλμ. Εθνικής Οδού Ρεθύμνου - Ηρακλείου\nΣΦΑΚΑΚΙ (Δίπλα στη Mazda)\n74100  Ρέθυμνο",
    "transliteratedAddress": "8o km Ethnikis odou Rethymnou - Herakliou\r\nSfakaki (dipla sti Mazda)\r\n74100  Rethymno\r\n",
    "languageCode": "G",
+   "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "690 9157540" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "9C1EED8F-6A36-474D-A530-9ACE301311EA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 35.316456,
-   "longitude": 25.070385
+   "longitude": 25.070385,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Γάζι",
    "orgType": "CONG",
    "orgTransliteratedName": "Gazi",
-   "address": "ΝΙΚΟΛΑΟΥ ΠΛΑΣΤΗΡΑ\r\n71414  Γάζι",
+   "address": "Νικολάου Πλαστήρα\r\n71414  Γάζι",
    "transliteratedAddress": "Nikolaou Plastira\n71414  Gazi\n",
    "languageCode": "G",
    "schedule": "Sun 19:30 Wed 19:30",
    "phones": [ "6936058039        6977657364" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F7727885-FB35-4F44-9475-D7B1FE90FBB1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 35.316456,
-   "longitude": 25.070385
+   "longitude": 25.070385,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Ηράκλειο Κρήτης Βορεία",
    "orgType": "CONG",
    "orgTransliteratedName": "Irakleio Kritis North",
-   "address": "ΝΙΚΟΛΑΟΥ ΠΛΑΣΤΗΡΑ\r\n71414  Γάζι",
+   "address": "Νικολάου Πλαστήρα\r\n71414  Γάζι",
    "transliteratedAddress": "Nikolaou Plastira\n71414  Gazi\n",
    "languageCode": "G",
-   "schedule": "Sat 19:30 Mon 19:30",
+   "schedule": "Sat 20:00 Mon 20:00",
    "phones": [ "6974035650" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2924B420-2A8D-4ED0-8624-8F1A2384E329",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 35.34004,
-   "longitude": 25.149337
+   "longitude": 25.149337,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Ηράκλειο Κρήτης Ανατολική",
    "orgType": "CONG",
    "orgTransliteratedName": "Irakleio Crete East",
-   "address": "Πηλίου 1\r\nΠόρος\r\n71306  Ηράκλειο Κρήτης",
-   "transliteratedAddress": "Piliou 1\r\nPoros\r\n71306  Irakleio Kritis\r\n",
+   "address": "Υπό Ανακαίνιση-Συναθροίσεις σε τοποθεσία \"Γάζι\"\r\n71306  Ηράκλειο Κρήτης",
+   "transliteratedAddress": "Under Construction-Meetings held at Location Gazi\r\n71306  Irakleio Kritis\r\n",
    "languageCode": "G",
    "schedule": "Sun 11:00 Wed 19:30",
    "phones": [ "+30&nbsp;281-0212296" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CAD59156-E382-4363-AF4C-5AFA8437A5DB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 35.34004,
-   "longitude": 25.149337
+   "longitude": 25.149337,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Νέα Αλικαρνασσός",
    "orgType": "CONG",
    "orgTransliteratedName": "Nea Alikarnassos",
-   "address": "Πηλίου 1\r\nΠόρος\r\n71306  Ηράκλειο Κρήτης",
-   "transliteratedAddress": "Piliou 1\r\nPoros\r\n71306  Irakleio Kritis\r\n",
+   "address": "Υπό Ανακαίνιση-Συναθροίσεις σε τοποθεσία \"Γάζι\"\r\n71306  Ηράκλειο Κρήτης",
+   "transliteratedAddress": "Under Construction-Meetings held at Location Gazi\r\n71306  Irakleio Kritis\r\n",
    "languageCode": "G",
-   "schedule": "Sun 19:30 Wed 19:30",
+   "schedule": "Sun 17:00 Fri 19:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "6948836492" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6EE18BBF-C4B5-4AD1-8A2B-A679F1DB3258",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 35.34004,
-   "longitude": 25.149337
+   "longitude": 25.149337,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Ηράκλειο Κρήτης Νοτία",
    "orgType": "CONG",
    "orgTransliteratedName": "Irakleio Kritis South",
-   "address": "Πηλίου 1\r\nΠόρος\r\n71306  Ηράκλειο Κρήτης",
-   "transliteratedAddress": "Piliou 1\r\nPoros\r\n71306  Irakleio Kritis\r\n",
+   "address": "Υπό Ανακαίνιση-Συναθροίσεις σε τοποθεσία \"Γάζι\"\r\n71306  Ηράκλειο Κρήτης",
+   "transliteratedAddress": "Under Construction-Meetings held at Location Gazi\r\n71306  Irakleio Kritis\r\n",
    "languageCode": "G",
    "schedule": "Sat 19:30 Mon 19:30",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "6989557633" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "071185DC-9440-4A4C-86B5-2B8F59C06D7A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 35.34004,
-   "longitude": 25.149337
+   "longitude": 25.149337,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Ηράκλειο Κρήτης Αλβανική",
    "orgType": "CONG",
    "orgTransliteratedName": "Irakleio Kritis Albanian",
-   "address": "Πηλίου 1\r\nΠόρος\r\n71306  Ηράκλειο Κρήτης",
-   "transliteratedAddress": "Piliou 1\r\nPoros\r\n71306  Irakleio Kritis\r\n",
+   "address": "Υπό Ανακαίνιση-Συναθροίσεις σε τοποθεσία \"Γάζι\"\n71306  Ηράκλειο Κρήτης",
+   "transliteratedAddress": "Under Construction-Meetings held at Location Gazi\r\n71306  Irakleio Kritis\r\n",
    "languageCode": "AL",
+   "schedule": "Sat 19:30 Tue 19:30",
    "phones": [ "6934107689" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "6600BC2A-F4DE-41B7-A605-1812B2B5FD53",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 35.34004,
-   "longitude": 25.149337
+   "longitude": 25.149337,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Ηράκλειο Κρήτης Ρωσικός - Ηράκλειο Κρήτης Νοτία",
    "orgType": "GROUP",
    "orgTransliteratedName": "Irakleio Kritis South",
-   "address": "Πηλίου 1\r\nΠόρος\r\n71306  Ηράκλειο Κρήτης",
-   "transliteratedAddress": "Piliou 1\r\nPoros\r\n71306  Irakleio Kritis\r\n",
+   "address": "Υπό Ανακαίνιση-Συναθροίσεις σε τοποθεσία \"Γάζι\"\r\n71306  Ηράκλειο Κρήτης",
+   "transliteratedAddress": "Under Construction-Meetings held at Location Gazi\r\n71306  Irakleio Kritis\r\n",
    "languageCode": "U",
    "schedule": "Sat 18:00 Mon 19:30",
    "relatedLanguageCodes": [ "G" ],
    "phones": [ "6989557633" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "82639DA0-BDF0-46A4-891F-19DF2CA8A337",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 35.34004,
-   "longitude": 25.149337
+   "longitude": 25.149337,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Νέα Αλικαρνασσός Αγγλικός - Νέα Αλικαρνασσός",
    "orgType": "GROUP",
    "orgTransliteratedName": "Nea Alikarnassos",
-   "address": "Πηλίου 1\r\nΠόρος\r\n71306  Ηράκλειο Κρήτης",
-   "transliteratedAddress": "Piliou 1\r\nPoros\r\n71306  Irakleio Kritis\r\n",
+   "address": "Υπό Ανακαίνιση-Συναθροίσεις σε τοποθεσία \"Γάζι\"\r\n71306  Ηράκλειο Κρήτης",
+   "transliteratedAddress": "Under Construction-Meetings held at Location Gazi\r\n71306  Irakleio Kritis\r\n",
    "languageCode": "E",
-   "schedule": "Sun 19:30 Thu 20:00",
+   "schedule": "Sun 17:00 Fri 19:30",
    "relatedLanguageCodes": [ "G" ],
    "phones": [ "6948836492" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "085AED6C-6386-4589-9167-9A381BCA6CED",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 35.013229,
-   "longitude": 25.737534
+   "longitude": 25.737534,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Ιεράπετρα",
@@ -402,20 +424,21 @@
    "languageCode": "G",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "+306939522002" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8DC8EFF3-03A3-406B-B46B-2C11D69E16E9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 35.184619,
-   "longitude": 25.702076
+   "longitude": 25.702076,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Άγιος Νικόλαος",
@@ -426,20 +449,21 @@
    "languageCode": "G",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "6936314046" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "06B9D25E-2B0B-434B-B500-8E2E23AA0FAF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 35.204911,
-   "longitude": 26.098923
+   "longitude": 26.098923,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Σητεία",
@@ -450,20 +474,21 @@
    "languageCode": "G",
    "schedule": "Sun 19:30 Wed 19:30",
    "phones": [ "6977738920 ---- 2843023009 ---- 6937414134" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "94F85446-8295-4C1B-A66D-B0971383DFF9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 37.972488,
-   "longitude": 24.002577
+   "longitude": 24.002577,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Άρτεμις Νοτία",
@@ -474,20 +499,21 @@
    "languageCode": "G",
    "schedule": "Sat 19:30 Tue 19:30",
    "phones": [ "+30 229 408 4358" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1834A524-A129-4CEC-ACBC-ECECC628D41B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 37.972488,
-   "longitude": 24.002577
+   "longitude": 24.002577,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Άρτεμις Βορεία",
@@ -498,20 +524,21 @@
    "languageCode": "G",
    "schedule": "Sun 19:00 Thu 19:30",
    "phones": [ "6944940121" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B008619B-113E-4B9B-B833-F330735FE07C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 37.972488,
-   "longitude": 24.002577
+   "longitude": 24.002577,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Άρτεμις Αλβανική",
@@ -522,66 +549,71 @@
    "languageCode": "AL",
    "schedule": "Sun 10:30 Wed 19:30",
    "phones": [ "6938825227" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "215701A0-68D4-4736-AFCB-7CD05FB30AC8",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 37.087058,
-   "longitude": 25.166436
+   "longitude": 25.166436,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Πάρος",
    "orgType": "CONG",
    "orgTransliteratedName": "Paros",
-   "address": "Σταυρός Παροικιάς\r\n84400  Πάρος",
+   "address": "Σταυρός Παροικιάς\n84400  Πάρος",
    "transliteratedAddress": "Stavros Paroikias\n84400  Paros\n",
    "languageCode": "G",
+   "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "00306942555174" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "F769ED21-B8D0-483A-9232-B2290CBDC666",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 37.087058,
-   "longitude": 25.166436
+   "longitude": 25.166436,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Σαντορίνη - Πάρος",
    "orgType": "GROUP",
    "orgTransliteratedName": "Paros",
-   "address": "Σταυρός Παροικιάς\r\n84400  Πάρος",
+   "address": "Σταυρός Παροικιάς\n84400  Πάρος",
    "transliteratedAddress": "Stavros Paroikias\n84400  Paros\n",
    "languageCode": "G",
+   "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "00306942555174" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "6DDF5013-CF36-489E-81F1-AC138D77FFAC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 37.087058,
-   "longitude": 25.166436
+   "longitude": 25.166436,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Πάρος Αλβανικός - Πάρος",
@@ -593,20 +625,21 @@
    "schedule": "Sat 19:30 Wed 19:30",
    "relatedLanguageCodes": [ "G" ],
    "phones": [ "00306942555174" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "577FB32E-1017-468A-AEA5-28E0D720A387",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 37.426126,
-   "longitude": 24.925612
+   "longitude": 24.925612,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Ερμούπολη Σύρου",
@@ -616,21 +649,22 @@
    "transliteratedAddress": "Behind \"ENERGY Store\"\r\n841 00  Ermoupoli\r\n",
    "languageCode": "G",
    "schedule": "Sat 19:00 Wed 19:30",
-   "phones": [ "6948602625" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "(0030) 6948602625" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "0CB72647-565F-428D-82FB-0043CA736961",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 38.01406,
-   "longitude": 24.41895
+   "longitude": 24.41895,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Κάρυστος",
@@ -641,20 +675,21 @@
    "languageCode": "G",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "2224027453" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "63745FCE-E9FE-4BF8-A566-11856C89D0A9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 37.101983,
-   "longitude": 25.385525
+   "longitude": 25.385525,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Νάξος",
@@ -665,20 +700,21 @@
    "languageCode": "G",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "+306936151640" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B93D3290-23B4-4BA0-95B0-9AF61AB0D789",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 38.578885,
-   "longitude": 24.131574
+   "longitude": 24.131574,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Κύμη",
@@ -689,20 +725,21 @@
    "languageCode": "G",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "6974391888" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "94433B2F-B2EE-4B6F-88D3-06B92E900BC5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 35.508429,
-   "longitude": 27.217887
+   "longitude": 27.217887,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Κάρπαθος",
@@ -713,20 +750,21 @@
    "languageCode": "G",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "6934135820" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "98206922-A6C0-4FE0-828A-B94E497316EC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 37.83745,
-   "longitude": 24.93592
+   "longitude": 24.93592,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Άνδρος",
@@ -737,20 +775,21 @@
    "languageCode": "G",
    "schedule": "Sun 10:30 Thu 19:30",
    "phones": [ "6946032613" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2BC2182A-5F35-4625-A4A2-4691010CFE08",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 37.630718,
-   "longitude": 26.177123
+   "longitude": 26.177123,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Ικαρία",
@@ -761,20 +800,21 @@
    "languageCode": "G",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "6976625839" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "66076C43-C300-430E-9D99-D28DB2F9205B",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 36.88,
-   "longitude": 27.25147
+   "longitude": 27.25147,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Κως",
@@ -786,20 +826,21 @@
    "schedule": "Sat 19:30 Wed 19:30",
    "relatedLanguageCodes": [ "RMG" ],
    "phones": [ "+30&nbsp;698 842 6058" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "9AE9A436-F312-46CB-90B1-04C28020E108",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 1,
   "location": {
    "latitude": 36.88,
-   "longitude": 27.25147
+   "longitude": 27.25147,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Κως Αλβανική",
@@ -810,20 +851,21 @@
    "languageCode": "AL",
    "schedule": "Sun 19:30 Thu 19:30",
    "phones": [ "6996020144" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "CE94AACD-FD23-4DBE-B561-7E68B0CDB372",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 36.88,
-   "longitude": 27.25147
+   "longitude": 27.25147,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Κως Ρομανί (Νότια Ελλάδα) - Κως",
@@ -835,20 +877,21 @@
    "schedule": "Sat 19:30 Wed 19:30",
    "relatedLanguageCodes": [ "G" ],
    "phones": [ "+30&nbsp;698 842 6058" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "F42AD0F3-94E0-4CD5-9AEE-2A21EB3ADEFF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 38.361212,
-   "longitude": 26.143098
+   "longitude": 26.143098,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Χίος",
@@ -859,20 +902,21 @@
    "languageCode": "G",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "+306942571719" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4466D344-6D94-4488-B433-82DA3EB708D3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 37.808879,
-   "longitude": 26.798487
+   "longitude": 26.798487,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Καρλόβασι",
@@ -883,20 +927,21 @@
    "languageCode": "G",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "6937184346" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D168F135-3EB5-4A24-8752-07EF2DC26007",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 36.433432,
-   "longitude": 28.212336
+   "longitude": 28.212336,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Ρόδος Νοτία",
@@ -908,20 +953,21 @@
    "schedule": "Sun 19:30 Thu 19:30",
    "relatedLanguageCodes": [ "BL" ],
    "phones": [ "6947338177" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E426AA9A-472D-4171-AE36-1986371D7700",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 36.433432,
-   "longitude": 28.212336
+   "longitude": 28.212336,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Ρόδος Βορεία",
@@ -930,22 +976,23 @@
    "address": "ΠΑΡΘΕΝΟΠΗΣ 34\r\n85100  Ρόδος",
    "transliteratedAddress": "Parthenopis 34\n85100  Rodos\n",
    "languageCode": "G",
-   "schedule": "Sun 10:00 Tue 19:00",
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "6944262090" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3FC6C09E-65FD-4059-B6DA-E060128A218A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 36.433432,
-   "longitude": 28.212336
+   "longitude": 28.212336,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Ρόδος Κέντρο",
@@ -956,45 +1003,47 @@
    "languageCode": "G",
    "schedule": "Sun 12:30 Wed 19:30",
    "phones": [ "6946 282 277" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "21B47B8B-42A5-4381-8215-F5D9C81C3F00",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 36.433432,
-   "longitude": 28.212336
+   "longitude": 28.212336,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Ρόδος Βουλγαρικός (Pre-group) - Ρόδος Νοτία",
    "orgType": "PREGROUP",
    "orgTransliteratedName": "Rhodes South",
-   "address": "ΠΑΡΘΕΝΟΠΗΣ 34\r\n85100  Ρόδος",
+   "address": "ΠΑΡΘΕΝΟΠΗΣ 34\n85100  Ρόδος",
    "transliteratedAddress": "Parthenopis 34\n85100  Rodos\n",
    "languageCode": "BL",
    "schedule": "Sun 19:30 Thu 19:30",
    "relatedLanguageCodes": [ "G" ],
    "phones": [ "6947338177" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "63277F50-78ED-4D5A-989B-80EAEB988A69",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 36.433432,
-   "longitude": 28.212336
+   "longitude": 28.212336,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Ρόδος Αλβανική",
@@ -1005,20 +1054,21 @@
    "languageCode": "AL",
    "schedule": "Sat 19:30 Mon 19:30",
    "phones": [ "6944844655" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D6D1E5F2-62A4-4EFB-89E5-4D6982931233",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 37.75308,
-   "longitude": 26.99017
+   "longitude": 26.99017,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Σάμος",
@@ -1030,20 +1080,21 @@
    "schedule": "Sat 19:30 Wed 19:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "6977077367 - -  6909059264" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "51F78AAC-36BB-4BC9-9E55-6E18BE5665A5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 37.75308,
-   "longitude": 26.99017
+   "longitude": 26.99017,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Σάμος Αγγλικός - Σάμος",
@@ -1055,20 +1106,21 @@
    "schedule": "Sun 18:00 Thu 18:00",
    "relatedLanguageCodes": [ "G" ],
    "phones": [ "6977077367 - -  6909059264" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FAA82EA7-97A8-4F32-9A22-4C58F2A30CAC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 39.864065,
-   "longitude": 25.075046
+   "longitude": 25.075046,
+   "iso": "GRC"
   },
   "properties": {
    "orgName": "Λήμνος",
@@ -1079,43 +1131,92 @@
    "languageCode": "G",
    "schedule": "Sun 19:30 Wed 19:30",
    "phones": [ "6977626043" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "6B1A28DE-8813-431B-A8F0-48E1049E9D1E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 37.855206,
-   "longitude": 27.252983
+   "longitude": 27.252983,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Kuşadası - Aydın",
    "orgType": "CONG",
-   "address": "Camiatik Mah.\r\nGüvercin Sok.\r\nNo: 8/A Eski Salı Pazarı\r\nKuşadası, AYDIN",
+   "address": "Camiatik Mah.\r\nGüvercin Sok. No: 8/A Eski Salı Pazarı\r\nKuşadası, AYDIN",
    "languageCode": "TK",
    "schedule": "Sat 19:00 Thu 19:00",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "05459726583" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "9E7A198E-A110-4960-8CE8-70F98A545FEA",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 37.855206,
+   "longitude": 27.252983,
+   "iso": "TUR"
+  },
+  "properties": {
+   "orgName": "Kuşadası Rusça - Aydın - Kuşadası - Aydın",
+   "orgType": "GROUP",
+   "address": "Camiatik Mah.\r\nGüvercin Sok. No: 8/A Eski Salı Pazarı\r\nKuşadası, AYDIN",
+   "languageCode": "U",
+   "schedule": "Sun 10:00 undefined null",
+   "relatedLanguageCodes": [ "TK" ],
+   "phones": [ "05459726583" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
+  "firstSeen": "2023-08-16"
+ },
+ {
+  "geoId": "94B99398-0C73-447A-B00D-40D919156378",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 37.855206,
+   "longitude": 27.252983,
+   "iso": "TUR"
+  },
+  "properties": {
+   "orgName": "Didim Türkçe - Aydın - Kuşadası - Aydın",
+   "orgType": "GROUP",
+   "address": "Camiatik Mah.\r\nGüvercin Sok. No: 8/A Eski Salı Pazarı\r\nKuşadası, AYDIN",
+   "languageCode": "TK",
+   "schedule": "Sat 19:00 undefined null",
+   "phones": [ "05459726583" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
+  "firstSeen": "2023-08-16"
  },
  {
   "geoId": "770B24E4-A352-4E03-9B71-659448E70900",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 36.858576,
-   "longitude": 28.272748
+   "longitude": 28.272748,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Çamdibi Marmaris - Muğla",
@@ -1124,20 +1225,21 @@
    "languageCode": "TK",
    "schedule": "Sat 20:00 Thu 20:00",
    "phones": [ "+90 (539) 977 70 72" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "361E0733-D9B0-4FE5-80B5-817D012A261D",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 1,
   "location": {
    "latitude": 38.396937,
-   "longitude": 27.068228
+   "longitude": 27.068228,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Zeytinalanı - İzmir",
@@ -1147,92 +1249,95 @@
    "schedule": "Sun 11:00 Tue 19:00",
    "relatedLanguageCodes": [ "GE" ],
    "phones": [ "+90&nbsp;533 663 73 36" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DD60105B-378E-4ED4-82D7-30B67BA32718",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 38.396937,
-   "longitude": 27.068228
+   "longitude": 27.068228,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Yeşilyurt - İzmir",
    "orgType": "CONG",
-   "address": "Fahrettin Altay Mah.\r\nMithat Paşa Caddesi 1175C,\r\n35140, Karabağlar, İZMIR",
+   "address": "Fahrettin Altay Mah.\nMithat Paşa Caddesi 1175C,\n35140, Karabağlar, İZMIR",
    "languageCode": "TK",
-   "relatedLanguageCodes": [
-    "RD",
-    "E"
-   ],
+   "schedule": "Sun 19:00 Wed 20:00",
+   "relatedLanguageCodes": [ "E" ],
    "phones": [ "+90&nbsp;551 098 16 66" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "80514267-D6E7-4DCB-BE2C-28F6697A4A93",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 38.396937,
-   "longitude": 27.068228
+   "longitude": 27.068228,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Üçkuyular - İzmir",
    "orgType": "CONG",
-   "address": "Fahrettin Altay Mah.\r\nMithat Paşa Caddesi 1175C,\r\n35140, Karabağlar, İZMIR",
+   "address": "Fahrettin Altay Mah.\nMithat Paşa Caddesi 1175C,\n35140, Karabağlar, İZMIR",
    "languageCode": "TK",
    "schedule": "Sat 20:00 Thu 20:00",
    "phones": [ "05324645925" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "12730A40-F3FF-45C7-9EE9-0CCF06FEE173",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 1,
   "location": {
    "latitude": 38.396937,
-   "longitude": 27.068228
+   "longitude": 27.068228,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Konak Rusça - İzmir",
    "orgType": "CONG",
-   "address": "Fahrettin Altay Mah.\r\nMithat Paşa Caddesi 1175C,\r\n35140, Karabağlar, İZMIR",
+   "address": "Fahrettin Altay Mah.\nMithat Paşa Caddesi 1175C,\n35140, Karabağlar, İZMIR",
    "languageCode": "U",
+   "schedule": "Sun 16:00 Fri 20:00",
    "relatedLanguageCodes": [ "A" ],
    "phones": [
     "+90&nbsp;555 166 77 07",
     "+90&nbsp;5551667707"
    ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "604D397B-1DF9-416B-8E73-1F98CA1B7A93",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 38.396937,
-   "longitude": 27.068228
+   "longitude": 27.068228,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Konak Arapça - İzmir - Konak Rusça - İzmir",
@@ -1245,20 +1350,21 @@
     "+90&nbsp;555 166 77 07",
     "+90&nbsp;5551667707"
    ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-06-14",
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "081CEDB6-23CA-4472-A00D-C01C8142F622",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 38.396937,
-   "longitude": 27.068228
+   "longitude": 27.068228,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Konak İngilizce - İzmir",
@@ -1268,42 +1374,44 @@
    "schedule": "Sun 16:30 Fri 19:00",
    "relatedLanguageCodes": [ "A" ],
    "phones": [ "+90 536 693 3699" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "9FE3C8DD-15F9-4889-A25C-751E0AA305B7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 38.457659,
-   "longitude": 27.12282
+   "longitude": 27.12282,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Bayraklı - İzmir",
    "orgType": "CONG",
    "address": "Tuna Mah.\r\n1695 Sok. No:12\r\nKarşıyaka, İZMIR",
    "languageCode": "TK",
-   "schedule": "Sun 14:00 Thu 20:00",
+   "schedule": "Sun 19:00 Thu 20:00",
    "phones": [ "0533 399 21 25" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "72CFFEFD-91C8-419A-A5DF-130B6F2E18E6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 38.457659,
-   "longitude": 27.12282
+   "longitude": 27.12282,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Bostanlı - İzmir",
@@ -1313,20 +1421,21 @@
    "schedule": "Sat 19:00 Tue 20:00",
    "relatedLanguageCodes": [ "PR" ],
    "phones": [ "05324621772" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "02127CC5-40F5-40EB-9513-EB909DA8EE6F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 38.457659,
-   "longitude": 27.12282
+   "longitude": 27.12282,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Şirinyer - İzmir",
@@ -1335,20 +1444,21 @@
    "languageCode": "TK",
    "schedule": "Sun 10:30 Wed 20:00",
    "phones": [ "05333585069" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "B0260CCE-D39B-41C3-817D-7382936F9411",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 38.457659,
-   "longitude": 27.12282
+   "longitude": 27.12282,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Bostanlı Farsça - İzmir - Bostanlı - İzmir",
@@ -1358,20 +1468,21 @@
    "schedule": "Sat 19:00 Tue 20:00",
    "relatedLanguageCodes": [ "TK" ],
    "phones": [ "05324621772" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "FDDFB55A-93D2-4AC6-AA09-3ED97F5A7C37",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 38.457659,
-   "longitude": 27.12282
+   "longitude": 27.12282,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Bayraklı - Kemalpaşa - Bayraklı - İzmir",
@@ -1380,51 +1491,53 @@
    "languageCode": "TK",
    "schedule": "Sun 19:00 Thu 20:00",
    "phones": [ "0533 399 21 25" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-02-20"
  },
  {
   "geoId": "5C598427-977D-41FE-8358-47740E45D3E0",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 39.088444,
-   "longitude": 26.556363
+   "longitude": 26.556363,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Μυτιλήνη Βορεία",
    "orgType": "CONG",
    "orgTransliteratedName": "Mytilini North",
-   "address": "ΑΝΑΠΑΥΣΕΩΣ 11\r\nΕΝΑΝΤΙ ΝΕΚΡΟΤΑΦΕΙΟΥ\r\n81100  Μυτιλήνη",
+   "address": "Αναπαύσεως 11\r\nΈναντι Νεκροταφείου\r\n81100  Μυτιλήνη",
    "transliteratedAddress": "Anapafseos 11\nEnanti Nekrotafeiou\n81100  Mytilini\n",
    "languageCode": "G",
    "schedule": "Sun 19:30 Wed 19:30",
    "relatedLanguageCodes": [ "A" ],
    "phones": [ "225-104-7911" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "844DD754-B885-48D5-BDF7-F3AD8BE203F1",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 39.088444,
-   "longitude": 26.556363
+   "longitude": 26.556363,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Μυτιλήνη Νοτία",
    "orgType": "CONG",
    "orgTransliteratedName": "Mytilini South",
-   "address": "ΑΝΑΠΑΥΣΕΩΣ 11\r\nΕΝΑΝΤΙ ΝΕΚΡΟΤΑΦΕΙΟΥ\r\n81100  Μυτιλήνη",
+   "address": "Αναπαύσεως 11\r\nΈναντι Νεκροταφείου\r\n81100  Μυτιλήνη",
    "transliteratedAddress": "Anapafseos 11\nEnanti Nekrotafeiou\n81100  Mytilini\n",
    "languageCode": "G",
    "schedule": "Sat 19:30 Mon 19:30",
@@ -1433,187 +1546,195 @@
     "E"
    ],
    "phones": [ "+30&nbsp;225-104-7911" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "C71DB9E9-E097-41C9-9688-223F295C39E6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 39.088444,
-   "longitude": 26.556363
+   "longitude": 26.556363,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Μυτιλήνη Περσικός - Μυτιλήνη Νοτία",
    "orgType": "GROUP",
    "orgTransliteratedName": "Mytilini South",
-   "address": "ΑΝΑΠΑΥΣΕΩΣ 11\r\nΕΝΑΝΤΙ ΝΕΚΡΟΤΑΦΕΙΟΥ\r\n81100  Μυτιλήνη",
+   "address": "Αναπαύσεως 11\r\nΈναντι Νεκροταφείου\r\n81100  Μυτιλήνη",
    "transliteratedAddress": "Anapafseos 11\nEnanti Nekrotafeiou\n81100  Mytilini\n",
    "languageCode": "PR",
    "schedule": "Sat 19:00 Wed 19:00",
    "relatedLanguageCodes": [ "G" ],
    "phones": [ "+30&nbsp;225-104-7911" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "76DE67A8-2B9B-4702-A8FF-0ED09EA38FBB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 39.088444,
-   "longitude": 26.556363
+   "longitude": 26.556363,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Μυτιλήνη Αραβικός - Μυτιλήνη Βορεία",
    "orgType": "GROUP",
    "orgTransliteratedName": "Mytilini North",
-   "address": "ΑΝΑΠΑΥΣΕΩΣ 11\r\nΕΝΑΝΤΙ ΝΕΚΡΟΤΑΦΕΙΟΥ\r\n81100  Μυτιλήνη",
+   "address": "Αναπαύσεως 11\r\nΈναντι Νεκροταφείου\r\n81100  Μυτιλήνη",
    "transliteratedAddress": "Anapafseos 11\nEnanti Nekrotafeiou\n81100  Mytilini\n",
    "languageCode": "A",
    "schedule": "Sun 19:30 Wed 19:30",
    "relatedLanguageCodes": [ "G" ],
    "phones": [ "225-104-7911" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "F3D581CB-B8EF-456F-8DC2-12CCADE8B80D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 39.088444,
-   "longitude": 26.556363
+   "longitude": 26.556363,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Μυτιλήνη Αγγλικός - Μυτιλήνη Νοτία",
    "orgType": "GROUP",
    "orgTransliteratedName": "Mytilini South",
-   "address": "ΑΝΑΠΑΥΣΕΩΣ 11\r\nΕΝΑΝΤΙ ΝΕΚΡΟΤΑΦΕΙΟΥ\r\n81100  Μυτιλήνη",
+   "address": "Αναπαύσεως 11\r\nΈναντι Νεκροταφείου\r\n81100  Μυτιλήνη",
    "transliteratedAddress": "Anapafseos 11\nEnanti Nekrotafeiou\n81100  Mytilini\n",
    "languageCode": "E",
-   "schedule": "Sat 19:30",
+   "schedule": "Sat 19:30 undefined null",
    "relatedLanguageCodes": [ "G" ],
    "phones": [ "+30&nbsp;225-104-7911" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "F8A3D286-D4AE-4D51-99F0-84AE1086F2C4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 39.088444,
-   "longitude": 26.556363
+   "longitude": 26.556363,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Νέες Κυδωνιές",
    "orgType": "CONG",
    "orgTransliteratedName": "Nees Kydonies",
-   "address": "ΑΝΑΠΑΥΣΕΩΣ 11\r\nΕΝΑΝΤΙ ΝΕΚΡΟΤΑΦΕΙΟΥ\r\n81100  Μυτιλήνη",
+   "address": "Αναπαύσεως 11\r\nΈναντι Νεκροταφείου\r\n81100  Μυτιλήνη",
    "transliteratedAddress": "Anapafseos 11\nEnanti Nekrotafeiou\n81100  Mytilini\n",
    "languageCode": "G",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [ "2251094196" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "A9F3D418-398E-4438-9295-6897BA0FCB54",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 36.622923,
-   "longitude": 29.1458
+   "longitude": 29.1458,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Fethiye - Muğla",
    "orgType": "CONG",
    "address": "Patlangıç Mah.\r\nÖlüdeniz Cad. No: 44\r\nFethiye, MUĞLA",
    "languageCode": "TK",
-   "schedule": "Sun 11:00 Thu 19:30",
+   "schedule": "Sun 11:00 Thu 20:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "05379885475" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6D529B33-0302-460A-BAD2-F6F04D0CDE1A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 36.622923,
-   "longitude": 29.1458
+   "longitude": 29.1458,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Fethiye İngilizce - Muğla - Fethiye - Muğla",
    "orgType": "GROUP",
    "address": "Patlangıç Mah.\r\nÖlüdeniz Cad. No: 44\r\nFethiye, MUĞLA",
    "languageCode": "E",
-   "schedule": "Sat 16:00 Thu 17:00",
+   "schedule": "Sat 16:00 Thu 17:30",
    "relatedLanguageCodes": [ "TK" ],
    "phones": [ "05379885475" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "16EFA0C1-4235-4924-A07C-7D241E4F2001",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 39.332674,
-   "longitude": 26.699019
+   "longitude": 26.699019,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Akçay - Ayvalık - Akçay - Balıkesir",
    "orgType": "GROUP",
-   "address": "150 Evler Mah.\r\nŞehit Konuralp Özcan Cad. 1 Havva Çakır Atp. No:3\r\nAyvalık, BALIKESIR",
+   "address": "150 Evler Mah.\r\n1077 Sok. No:8 B ve C\r\nAyvalık, BALIKESIR",
    "languageCode": "TK",
    "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "+90&nbsp;543 535 34 45" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "725C0D3B-4055-447D-A5E3-6263B71A60DD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 39.576352,
-   "longitude": 26.937171
+   "longitude": 26.937171,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Akçay - Balıkesir",
@@ -1622,20 +1743,21 @@
    "languageCode": "TK",
    "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "+90&nbsp;543 535 34 45" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "9001CC36-A59C-463D-BD47-A7A894B5CC20",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 37.747043,
-   "longitude": 29.113523
+   "longitude": 29.113523,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Akdeniz Bulvarı Farsça - Denizli - Akdeniz Bulvarı Farsça - Antalya",
@@ -1644,129 +1766,114 @@
    "languageCode": "PR",
    "schedule": "Sun 20:00 Tue 20:00",
    "phones": [ "+90&nbsp;552 540 49 33" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "FBED805F-92B4-4280-9EEE-EEEE55977821",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 37.747043,
-   "longitude": 29.113523
+   "longitude": 29.113523,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Yeniyol Farsça - Denizli",
    "orgType": "CONG",
-   "address": "Kınıklı Asmalıevler Mah.\r\n6651. Sk No: 3\r\n20160\r\nPamukkale, DENIZLI",
+   "address": "Kınıklı Asmalıevler Mah.\n6651. Sk No: 3\n20160\nPamukkale, DENIZLI",
    "languageCode": "PR",
-   "phones": [ "+90&nbsp;5525404933" ],
-   "isPrivateMtgPlace": false
+   "schedule": "Sat 20:00 Tue 20:00",
+   "phones": [ "+90&nbsp;5528255689" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "4A5E57F2-D219-4040-B114-DFD7A04202BE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 36.89551,
-   "longitude": 30.69692
+   "longitude": 30.69692,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Altınkum - Antalya",
    "orgType": "CONG",
-   "address": "Üçgen Mah\r\n92 Sok.\r\nNo:35/A Nilsu Apt.\r\nMuratpaşa, ANTALYA",
+   "address": "Üçgen Mah\n92 Sok.\nNo:35/A Nilsu Apt.\nMuratpaşa, ANTALYA",
    "languageCode": "TK",
    "schedule": "Sun 12:00 Fri 20:00",
    "phones": [ "0532 611 4561" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-05-29"
- },
- {
-  "geoId": "3D901167-CCBB-4E05-B0B4-9F477C488677",
-  "type": "weekly",
-  "isPrimary": true,
-  "location": {
-   "latitude": 36.89551,
-   "longitude": 30.69692
-  },
-  "properties": {
-   "orgName": "Lara - Antalya",
-   "orgType": "CONG",
-   "address": "Üçgen Mah\r\n92 Sok.\r\nNo:35/A Nilsu Apt.\r\nMuratpaşa, ANTALYA",
-   "languageCode": "TK",
-   "schedule": "Sun 14:45 Wed 19:30",
-   "phones": [ "+90 532 313 4742" ],
-   "isPrivateMtgPlace": false
-  },
-  "lastSeen": "2023-05-29",
-  "active": true,
-  "firstSeen": "2022-12-02",
-  "lastVisit": "2023-05-29"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "94A0459D-AACC-461F-BF16-63CE3B020DD8",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 1,
   "location": {
    "latitude": 36.89551,
-   "longitude": 30.69692
+   "longitude": 30.69692,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Şelale - Antalya",
    "orgType": "CONG",
    "address": "Üçgen Mah\r\n92 Sok.\r\nNo:35/A Nilsu Apt.\r\nMuratpaşa, ANTALYA",
    "languageCode": "TK",
+   "schedule": "Sat 20:00 Thu 20:00",
    "phones": [ "05332663399" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "EE8EE7ED-B896-4342-B74C-EE2C8AC7B0C7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 36.89551,
-   "longitude": 30.69692
+   "longitude": 30.69692,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Kaleiçi İngilizce - Antalya",
    "orgType": "CONG",
-   "address": "Üçgen Mah\r\n92 Sok.\r\nNo:35/A Nilsu Apt.\r\nMuratpaşa, ANTALYA",
+   "address": "Üçgen Mah\n92 Sok.\nNo:35/A Nilsu Apt.\nMuratpaşa, ANTALYA",
    "languageCode": "E",
    "schedule": "Sun 17:30 Wed 16:30",
    "relatedLanguageCodes": [ "A" ],
    "phones": [ "+90&nbsp;5411971004" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-05-29"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "9449E3CA-D296-4450-BFDC-2443F67A47A3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 36.89551,
-   "longitude": 30.69692
+   "longitude": 30.69692,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Liman Rusça - Antalya",
@@ -1775,66 +1882,69 @@
    "languageCode": "U",
    "schedule": "Sat 12:00 Mon 18:00",
    "phones": [ "+905526585591" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-05-29"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "37974451-2F58-4341-B1D6-1D5B4F7C4007",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 36.89551,
-   "longitude": 30.69692
+   "longitude": 30.69692,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Lara Rusça - Antalya",
    "orgType": "CONG",
-   "address": "Üçgen Mah\r\n92 Sok.\r\nNo:35/A Nilsu Apt.\r\nMuratpaşa, ANTALYA",
+   "address": "Üçgen Mah\n92 Sok.\nNo:35/A Nilsu Apt.\nMuratpaşa, ANTALYA",
    "languageCode": "U",
    "schedule": "Sun 09:15 Fri 17:00",
    "relatedLanguageCodes": [ "KZ" ],
    "phones": [ "+905524732456" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-05-29"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "C7609DB7-AD32-45BC-9E88-EA28108BF978",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 36.89551,
-   "longitude": 30.69692
+   "longitude": 30.69692,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Kaleiçi Arapça - Antalya - Kaleiçi İngilizce - Antalya",
    "orgType": "GROUP",
    "address": "Üçgen Mah\r\n92 Sok.\r\nNo:35/A Nilsu Apt.\r\nMuratpaşa, ANTALYA",
    "languageCode": "A",
-   "schedule": "Sun 17:30",
+   "schedule": "Sun 17:30 undefined null",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "+90&nbsp;5411971004" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-05-29"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "D30F5A49-2C1A-489F-966A-11DC4DE2897B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 36.89551,
-   "longitude": 30.69692
+   "longitude": 30.69692,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Altınkum Türk İşaret Dili - Antalya - Altınkum - Antalya",
@@ -1844,41 +1954,21 @@
    "schedule": "Sun 12:00 Fri 20:00",
    "relatedLanguageCodes": [ "TK" ],
    "phones": [ "0532 611 4561" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
- },
- {
-  "geoId": "0E9DB898-FF1C-4103-89D5-22BBFB30B554",
-  "type": "weekly",
-  "isPrimary": false,
-  "location": {
-   "latitude": 36.89551,
-   "longitude": 30.69692
-  },
-  "properties": {
-   "orgName": "Konyaaltı Rusça - Antalya",
-   "orgType": "CONG",
-   "address": "Üçgen Mah\r\n92 Sok.\r\nNo:35/A Nilsu Apt.\r\nMuratpaşa, ANTALYA",
-   "languageCode": "U",
-   "phones": [ "+905356596399" ],
-   "isPrivateMtgPlace": false
-  },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
-  "firstSeen": "2023-06-02"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "BFA1AC7A-2075-46E7-857E-07D51611A3F3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 36.89551,
-   "longitude": 30.69692
+   "longitude": 30.69692,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Kaleiçi Rusça - Antalya",
@@ -1887,43 +1977,45 @@
    "languageCode": "U",
    "schedule": "Sat 09:15 Thu 17:00",
    "phones": [ "+90&nbsp;551 081 4446" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-05-29"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "02E881FF-E21C-4418-897B-F42C2B89C006",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 36.89551,
-   "longitude": 30.69692
+   "longitude": 30.69692,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Lara Kırgızca - Antalya - Lara Rusça - Antalya",
    "orgType": "GROUP",
    "address": "Üçgen Mah\r\n92 Sok.\r\nNo:35/A Nilsu Apt.\r\nMuratpaşa, ANTALYA",
    "languageCode": "KZ",
-   "schedule": "Sun 09:15",
+   "schedule": "Sun 09:15 undefined null",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "+905524732456" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-05-29"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "C489064F-8AA3-4CB0-A3E5-B95EE2BFE57B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 36.89551,
-   "longitude": 30.69692
+   "longitude": 30.69692,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Akdeniz Bulvarı Farsça - Antalya",
@@ -1932,20 +2024,21 @@
    "languageCode": "PR",
    "schedule": "Sun 20:00 Tue 19:30",
    "phones": [ "+90&nbsp;552 540 49 33" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-05-29"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "B4A70CAF-67EC-4D3B-9285-5D3395306512",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 36.89551,
-   "longitude": 30.69692
+   "longitude": 30.69692,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Kepez Kürtçe - Antalya",
@@ -1954,99 +2047,155 @@
    "languageCode": "RD",
    "schedule": "Sat 14:45 Mon 19:00",
    "phones": [ "+905511915278" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
- },
- {
-  "geoId": "DA900E31-7AF5-47A2-B753-D467BED66A73",
-  "type": "weekly",
-  "isPrimary": true,
-  "location": {
-   "latitude": 36.89551,
-   "longitude": 30.69692
-  },
-  "properties": {
-   "orgName": "Yenigün - Antalya",
-   "orgType": "CONG",
-   "address": "Üçgen Mah\r\n92 Sok.\r\nNo:35/A Nilsu Apt.\r\nMuratpaşa, ANTALYA",
-   "languageCode": "TK",
-   "schedule": "Sun 20:00 Wed 20:00",
-   "relatedLanguageCodes": [ "RD" ],
-   "phones": [ "0537 484 01 58" ],
-   "isPrivateMtgPlace": false
-  },
-  "lastSeen": "2023-05-29",
-  "active": true,
-  "firstSeen": "2022-12-02",
-  "lastVisit": "2023-05-29"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "8FF79825-F03C-4D53-A948-C97B9953B88F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 36.89551,
-   "longitude": 30.69692
+   "longitude": 30.69692,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Şarampol Türk İşaret Dili - Antalya",
    "orgType": "CONG",
-   "address": "Üçgen Mah\r\n92 Sok.\r\nNo:35/A Nilsu Apt.\r\nMuratpaşa, ANTALYA",
+   "address": "Üçgen Mah\n92 Sok.\nNo:35/A Nilsu Apt.\nMuratpaşa, ANTALYA",
    "languageCode": "TKL",
+   "schedule": "Sun 12:00 Fri 20:00",
    "phones": [ "0532 611 4561" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
+ },
+ {
+  "geoId": "3D901167-CCBB-4E05-B0B4-9F477C488677",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 36.898159,
+   "longitude": 30.706943,
+   "iso": "TUR"
+  },
+  "properties": {
+   "orgName": "Lara - Antalya",
+   "orgType": "CONG",
+   "address": "Muratpaşa Mah.\r\n581. Sokak No:7/7A\r\nMuratpaşa, ANTALYA",
+   "transliteratedAddress": "Muratpaşa\r\nMuratpaşa Mah. 581. Sokak No:7/7A\r\nMuratpaşa, ANTALYA\r\n",
+   "languageCode": "TK",
+   "schedule": "Sat 19:00 Thu 19:30",
+   "phones": [ "+90 532 313 4742" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastSeen": "2023-08-16",
+  "active": 1,
+  "firstSeen": "2022-12-02",
+  "lastVisit": "2023-08-16"
+ },
+ {
+  "geoId": "0E9DB898-FF1C-4103-89D5-22BBFB30B554",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 36.898159,
+   "longitude": 30.706943,
+   "iso": "TUR"
+  },
+  "properties": {
+   "orgName": "Konyaaltı Rusça - Antalya",
+   "orgType": "CONG",
+   "address": "Muratpaşa Mah.\r\n581. Sokak No:7/7A\r\nMuratpaşa, ANTALYA",
+   "transliteratedAddress": "Muratpaşa\r\nMuratpaşa Mah. 581. Sokak No:7/7A\r\nMuratpaşa, ANTALYA\r\n",
+   "languageCode": "U",
+   "schedule": "Sat 17:30 Tue 17:30",
+   "phones": [ "+905356596399" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
+  "firstSeen": "2023-06-02"
+ },
+ {
+  "geoId": "DA900E31-7AF5-47A2-B753-D467BED66A73",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 36.898159,
+   "longitude": 30.706943,
+   "iso": "TUR"
+  },
+  "properties": {
+   "orgName": "Yenigün - Antalya",
+   "orgType": "CONG",
+   "address": "Muratpaşa Mah.\r\n581. Sokak No:7/7A\r\nMuratpaşa, ANTALYA",
+   "transliteratedAddress": "Muratpaşa\r\nMuratpaşa Mah. 581. Sokak No:7/7A\r\nMuratpaşa, ANTALYA\r\n",
+   "languageCode": "TK",
+   "schedule": "Sun 18:00 Wed 19:00",
+   "relatedLanguageCodes": [ "RD" ],
+   "phones": [ "0537 484 01 58" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastSeen": "2023-08-16",
+  "active": 1,
+  "firstSeen": "2022-12-02",
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "C0F98088-BDAD-461D-86DC-51B122B91591",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
-   "latitude": 36.89551,
-   "longitude": 30.69692
+   "latitude": 36.898159,
+   "longitude": 30.706943,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Yenigün Kürtçe - Antalya - Yenigün - Antalya",
    "orgType": "GROUP",
-   "address": "Üçgen Mah\r\n92 Sok.\r\nNo:35/A Nilsu Apt.\r\nMuratpaşa, ANTALYA",
+   "address": "Muratpaşa Mah.\n581. Sokak No:7/7A\nMuratpaşa, ANTALYA",
+   "transliteratedAddress": "Muratpaşa\r\nMuratpaşa Mah. 581. Sokak No:7/7A\r\nMuratpaşa, ANTALYA\r\n",
    "languageCode": "RD",
+   "schedule": "Sun 18:00 Wed 19:00",
    "relatedLanguageCodes": [ "TK" ],
    "phones": [ "0537 484 01 58" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "FB111C95-B706-49A3-8101-4B5026471FDB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 39.775755,
-   "longitude": 30.510816
+   "longitude": 30.510816,
+   "iso": "TUR"
   },
   "properties": {
    "orgName": "Odunpazarı - Eskişehir",
    "orgType": "CONG",
    "address": "İstiklal Mah.\r\nMustafa Kemal Atatürk Caddesi No:156/A\r\nOdunpazarı, ESKIŞEHIR",
    "languageCode": "TK",
-   "schedule": "Sat 19:00 Tue 19:00",
+   "schedule": "Sat 19:30 Tue 19:30",
    "phones": [ "05524889004" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

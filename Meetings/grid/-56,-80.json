@@ -2,10 +2,11 @@
  {
   "geoId": "41371F6D-8308-477F-827B-D82780AD9472",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -51.73195,
-   "longitude": -72.501093
+   "longitude": -72.501093,
+   "iso": "CHL"
   },
   "properties": {
    "orgName": "Puerto Natales",
@@ -14,20 +15,21 @@
    "languageCode": "S",
    "schedule": "Sun 18:30 Wed 19:30",
    "phones": [ "973190975" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "09D4E963-5280-482F-B30E-5053DBAC3E5F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -51.53828,
-   "longitude": -72.34019
+   "longitude": -72.34019,
+   "iso": "CHL"
   },
   "properties": {
    "orgName": "Río Turbio, Santa Cruz",
@@ -36,20 +38,21 @@
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "02902425417   --- 2966556982" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FA2C9C34-517D-4F8E-B5D2-934AAFDE1523",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -50.343054,
-   "longitude": -72.276199
+   "longitude": -72.276199,
+   "iso": "ARG"
   },
   "properties": {
    "orgName": "El Calafate, Santa Cruz",
@@ -57,12 +60,12 @@
    "address": "Raymundo Freile 1793\r\nEl Calafate, Santa Cruz\r\nC. P.:  9405",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 20:00",
-   "phones": [ "2902 41-1197    / 2966 40 5184" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "2966 70 0042    / 2966 40 5184" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

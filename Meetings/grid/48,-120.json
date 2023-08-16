@@ -2,10 +2,11 @@
  {
   "geoId": "5F1AAD78-7AF2-41B3-8273-0B3090F13425",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.107669,
-   "longitude": -119.779301
+   "longitude": -119.779301,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "English - Brewster WA (USA)",
@@ -14,20 +15,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "509-689-3327" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "3D46867F-6266-4A5C-9269-5CBDD24E8AC0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 48.107669,
-   "longitude": -119.779301
+   "longitude": -119.779301,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Brewster WA (USA)",
@@ -36,20 +38,21 @@
    "languageCode": "S",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "509 689 2045" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "4485ABAE-A295-4C60-B1FA-9EE53FBD37C6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.425621,
-   "longitude": -119.506111
+   "longitude": -119.506111,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Omak - WA (USA)",
@@ -58,42 +61,44 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "509-422-2239" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "59738BF9-7686-49BF-A01C-F6BFD73F0AEB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 48.425621,
-   "longitude": -119.506111
+   "longitude": -119.506111,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Spanish - Oroville WA (USA)",
    "orgType": "CONG",
    "address": "1009 Senna St\nOmak WA  98841-9516",
    "languageCode": "S",
-   "schedule": "Sun 13:00 Thu 18:30",
+   "schedule": "Sun 13:00 Thu 19:00",
    "phones": [ "(509)560-8837" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "4A68A3CA-0E88-40B4-BBCB-A251E48CDF5A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.171093,
-   "longitude": -119.55784
+   "longitude": -119.55784,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Oliver, BC",
@@ -102,62 +107,67 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "(250) 485-4860" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "C210CD0F-DC16-489C-B193-BEB12E74EE32",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 49.475853,
-   "longitude": -119.584399
+   "longitude": -119.584399,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Green Mountain, Penticton, BC",
    "orgType": "CONG",
-   "address": "52 Roy Avenue West\r\nPenticton BC  V2A 3M6",
+   "address": "52 Roy Avenue West\nPenticton BC  V2A 3M6",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "778-622-4367" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "EE19CDEB-691E-4704-BC1E-67E0677FE0D4",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 49.475853,
-   "longitude": -119.584399
+   "longitude": -119.584399,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Redlands, Penticton, BC",
    "orgType": "CONG",
-   "address": "52 Roy Avenue West\r\nPenticton BC  V2A 3M6",
+   "address": "52 Roy Avenue West\nPenticton BC  V2A 3M6",
    "languageCode": "E",
+   "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "778-622-4367 (East)" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "EDB010BD-300F-4DFD-A290-3AB8A1AF64C8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.475853,
-   "longitude": -119.584399
+   "longitude": -119.584399,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Valleyview, Penticton, BC",
@@ -166,20 +176,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "778-622-4342" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "63BB86B5-0CC9-4C8F-8524-B26D08ED88FC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.475853,
-   "longitude": -119.584399
+   "longitude": -119.584399,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Redlands Spanish, Penticton, BC - Redlands, Penticton, BC",
@@ -189,20 +200,21 @@
    "schedule": "Sun 13:00 Wed 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "778-622-4367 (East)" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-03",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "4FAE3BA7-E44D-416E-9F9B-5B5F80E51421",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.642537,
-   "longitude": -118.729728
+   "longitude": -118.729728,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Republic - WA (USA)",
@@ -211,20 +223,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "1-509-775-2839" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "C1A7D632-0349-4C12-910C-C8A65AD1374A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.60862,
-   "longitude": -119.67581
+   "longitude": -119.67581,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Summerland, BC",
@@ -233,20 +246,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "(250) 404-4114" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "A2F31A3A-42FA-4BF5-9E6C-24628C10DFD0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.824767,
-   "longitude": -119.649344
+   "longitude": -119.649344,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Glenrosa, Westbank, BC",
@@ -255,20 +269,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:30 Wed 19:00",
    "phones": [ "(778) 795-0549" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "CD4862B8-7E28-4B6C-9996-BB6CB2150D2E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.824767,
-   "longitude": -119.649344
+   "longitude": -119.649344,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Lakeview Heights, Westbank, BC",
@@ -277,20 +292,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "(778) 795-0549" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "60897C57-43D5-4391-AA36-3A9AD447A567",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.860826,
-   "longitude": -119.479394
+   "longitude": -119.479394,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Lakeshore, Kelowna, BC",
@@ -299,20 +315,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "250-712-3000" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E50C14C5-7F4D-4082-A36B-3D653CF45583",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.860826,
-   "longitude": -119.479394
+   "longitude": -119.479394,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Mountainview, Kelowna, BC",
@@ -321,20 +338,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "778-214-7125" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "ABFCCC58-2FDF-4495-866F-90739D7D46FF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.919047,
-   "longitude": -119.444852
+   "longitude": -119.444852,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Glenmore, Kelowna, BC",
@@ -343,20 +361,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "250-862-3186" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4DA3C420-CF62-469D-92EF-FD7D22A801AA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 49.919047,
-   "longitude": -119.444852
+   "longitude": -119.444852,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Okanagan Lake Tagalog, Kelowna, BC",
@@ -366,20 +385,21 @@
    "schedule": "Sat 10:30 Tue 19:30",
    "relatedLanguageCodes": [ "IL" ],
    "phones": [ "(778) 796-2715" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D287EA1F-6C8A-4D8E-9A69-44C5CB9C1296",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 49.919047,
-   "longitude": -119.444852
+   "longitude": -119.444852,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Okanagan Lake Iloko - Okanagan Lake Tagalog, Kelowna, BC",
@@ -389,20 +409,21 @@
    "schedule": "Sat 10:30 Tue 19:30",
    "relatedLanguageCodes": [ "TG" ],
    "phones": [ "(778) 796-2715" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "35979DF5-CDA2-405D-B552-9FF2F31D484F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.895895,
-   "longitude": -119.400844
+   "longitude": -119.400844,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Black Mountain, Kelowna, BC",
@@ -411,20 +432,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(778) 796-2715" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F421AB2F-0D65-43D9-BD9C-C7C8A5AC1A79",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.895895,
-   "longitude": -119.400844
+   "longitude": -119.400844,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Mission Creek, Kelowna, BC",
@@ -433,20 +455,21 @@
    "languageCode": "E",
    "schedule": "Sun 16:00 Wed 19:30",
    "phones": [ "(778) 796-2715" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0506DB54-6120-457C-846E-22938F363117",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.895895,
-   "longitude": -119.400844
+   "longitude": -119.400844,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Springvalley, Kelowna, BC",
@@ -455,20 +478,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [ "(778) 796-2715" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D5E6BF93-CD9A-402B-BBBF-6483B31DC40A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.031807,
-   "longitude": -118.465392
+   "longitude": -118.465392,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Grand Forks, BC",
@@ -477,85 +501,90 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "778-901-9115" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FEB93C55-0D30-4200-AA7D-A4CE96642FFB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 50.030666,
-   "longitude": -119.40209
+   "longitude": -119.40209,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Wood Lake, Winfield, BC",
    "orgType": "CONG",
-   "address": "10194 Bottom Wood Lake Road\r\nWinfield BC  V4V 1T8",
+   "address": "10194 Bottom Wood Lake Road\nWinfield BC  V4V 1T8",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "250-766-5710" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4445E6B3-D57C-4C69-A398-7E3507FFDF6F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 50.030666,
-   "longitude": -119.40209
+   "longitude": -119.40209,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Lake Country, Winfield, BC",
    "orgType": "CONG",
-   "address": "10194 Bottom Wood Lake Road\r\nWinfield BC  V4V 1T8",
+   "address": "10194 Bottom Wood Lake Road\nWinfield BC  V4V 1T8",
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:00",
    "phones": [ "250-766-5710" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "222277AD-7E20-434F-813E-0AC05AB13B0B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.030666,
-   "longitude": -119.40209
+   "longitude": -119.40209,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Spanish, Winfield, BC",
    "orgType": "CONG",
-   "address": "10194 Bottom Wood Lake Road\r\nWinfield BC  V4V 1T8",
+   "address": "10194 Bottom Wood Lake Road\nWinfield BC  V4V 1T8",
    "languageCode": "S",
+   "schedule": "Sat 10:30 Wed 19:00",
    "phones": [ "250-766-5710" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "51E28BF6-D8A2-426A-9B3D-0185696825AC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.557484,
-   "longitude": -117.912977
+   "longitude": -117.912977,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Colville - WA (USA)",
@@ -564,62 +593,67 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "509-690-4969" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B48663CD-F197-4313-BC81-4EEA7B25A36B",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 50.251046,
-   "longitude": -119.281236
+   "longitude": -119.281236,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Coldstream, Vernon, BC",
    "orgType": "CONG",
-   "address": "1424 Mission Road\r\nVernon BC  V1T 8Y2",
+   "address": "1424 Mission Road\nVernon BC  V1T 8Y2",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "250-549-8340" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "D0270B48-7A78-4377-BCAD-875C6E6F3379",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 50.251046,
-   "longitude": -119.281236
+   "longitude": -119.281236,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "East Hill, Vernon, BC",
    "orgType": "CONG",
-   "address": "1424 Mission Road\r\nVernon BC  V1T 8Y2",
+   "address": "1424 Mission Road\nVernon BC  V1T 8Y2",
    "languageCode": "E",
+   "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "250-549-8330" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "D7B860E1-A6C2-44C1-A791-A4ECED844BCB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.251046,
-   "longitude": -119.281236
+   "longitude": -119.281236,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Okanagan, Vernon, BC",
@@ -628,20 +662,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "250-549-8330" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C71B23AD-384E-4FDF-8B00-7F12FF0FFB69",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.251046,
-   "longitude": -119.281236
+   "longitude": -119.281236,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Coldstream-ASL - Coldstream, Vernon, BC",
@@ -651,20 +686,21 @@
    "schedule": "Sun 10:00 Tue 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "250-549-8340" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "7543E293-E661-4E13-8C16-A8C4BFC1A057",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.818389,
-   "longitude": -119.685618
+   "longitude": -119.685618,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Chase, BC",
@@ -673,20 +709,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "(250) 679-0318" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "E22D851B-3FD3-478E-BCF3-7720F73CB6CF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.187952,
-   "longitude": -117.048684
+   "longitude": -117.048684,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Newport - WA (USA)",
@@ -695,20 +732,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "509-447-3924" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "84E5D4D6-D0E8-4542-A5C5-934D37F42133",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.267527,
-   "longitude": -118.966088
+   "longitude": -118.966088,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Lumby, BC",
@@ -717,20 +755,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "250-547-1091" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "77BCB555-93E0-4186-BEE8-6FC1EB5AD2E8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.544019,
-   "longitude": -119.140086
+   "longitude": -119.140086,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Enderby, BC",
@@ -739,20 +778,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "(250) 838-3730" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "799B850C-84B5-4758-BB98-BA5849DF9D5E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.694582,
-   "longitude": -119.282628
+   "longitude": -119.282628,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Canoe, Salmon Arm, BC",
@@ -761,20 +801,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "778-824-1254" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "BFAFD3A8-B9D2-4F89-8330-57018FD575F1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.694582,
-   "longitude": -119.282628
+   "longitude": -119.282628,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Mount Ida, Salmon Arm, BC",
@@ -783,20 +824,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:00",
    "phones": [ "778-824-1254" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "2AFB1908-0E08-41E3-9282-13EB72C57F31",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.083361,
-   "longitude": -117.580741
+   "longitude": -117.580741,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Beaver Valley, Fruitvale, BC",
@@ -805,20 +847,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "250-367-0707" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "22C3DE89-7C5E-45A7-80A5-B02E0D1E381B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.083361,
-   "longitude": -117.580741
+   "longitude": -117.580741,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Trail, BC",
@@ -827,20 +870,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:00",
    "phones": [ "250-367-0707" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DB72E0F3-7921-471A-B7F2-620E951018B2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.302815,
-   "longitude": -117.660377
+   "longitude": -117.660377,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Castlegar, BC",
@@ -849,20 +893,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "778-364-1322" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "515B9825-5EA9-4A38-AA96-F630C2629976",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.290418,
-   "longitude": -116.557547
+   "longitude": -116.557547,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "South - Sandpoint ID (USA)",
@@ -871,20 +916,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:00",
    "phones": [ "208-263-0976" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "ADD32F34-9A8C-42E7-B7FE-F160FE83DBB0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.290418,
-   "longitude": -116.557547
+   "longitude": -116.557547,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "North - Sandpoint ID (USA)",
@@ -893,20 +939,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "208 263 5778" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "C7B134B0-ED2B-47B4-84CB-43C05EB1EF8C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.477695,
-   "longitude": -117.286171
+   "longitude": -117.286171,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Nelson, BC",
@@ -916,20 +963,21 @@
    "schedule": "Sun 10:00 Thu 19:00",
    "relatedLanguageCodes": [ "PJ" ],
    "phones": [ "(778) 671-1001" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A15A951F-9FFA-484F-BA6A-949A7AEA8267",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.017691,
-   "longitude": -115.820416
+   "longitude": -115.820416,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Noxon - MT (USA)",
@@ -938,20 +986,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "406-847-2383" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9CF0D028-641E-45E2-B384-FE703149CDF0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.703512,
-   "longitude": -116.329031
+   "longitude": -116.329031,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Bonners Ferry - ID (USA)",
@@ -960,20 +1009,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "208-267-5746" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "3505E452-FF84-44EA-B2B3-ED92EA8E4A9C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.24156,
-   "longitude": -117.797996
+   "longitude": -117.797996,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Nakusp, BC",
@@ -982,20 +1032,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "(250) 265-0649" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1B2E31CB-C740-4E4D-9007-DB340F7606EF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.111002,
-   "longitude": -116.523732
+   "longitude": -116.523732,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Creston Valley, Creston, BC",
@@ -1004,20 +1055,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "250-402-0375" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "36D40EB9-317F-488B-BEAF-0F9C27DCF769",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.014168,
-   "longitude": -118.21579
+   "longitude": -118.21579,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Revelstoke, BC",
@@ -1026,20 +1078,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(236) 837-2988" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F5F38FB5-2F8E-4612-87C0-949E6E6875CF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.399944,
-   "longitude": -115.544692
+   "longitude": -115.544692,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Libby - MT (USA)",
@@ -1048,20 +1101,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "4062931827" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "70126A36-5CD2-4E24-8708-2697928A35F6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.636254,
-   "longitude": -115.955165
+   "longitude": -115.955165,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Kimberley, BC",
@@ -1070,20 +1124,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "250-432-1359" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "764A72BE-C6D2-41ED-A13A-CC766ADC675B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.506698,
-   "longitude": -115.75029
+   "longitude": -115.75029,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Mount Baker, Cranbrook, BC",
@@ -1092,20 +1147,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "778-761-1761" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BAA400D8-BD6D-4907-A8A4-091B2EF91B02",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.506698,
-   "longitude": -115.75029
+   "longitude": -115.75029,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Mount Fisher, Cranbrook, BC",
@@ -1114,20 +1170,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:00",
    "phones": [ "778 761-1761" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "571E02D4-B100-4D54-8664-17BCE9028CEF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.892028,
-   "longitude": -115.056684
+   "longitude": -115.056684,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Eureka - MT (USA)",
@@ -1136,20 +1193,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "406-297-3333" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CCF3A67E-7377-484F-B3D6-C35457C98CA0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.189091,
-   "longitude": -114.294973
+   "longitude": -114.294973,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Lone Pine - Kalispell MT (USA)",
@@ -1158,20 +1216,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:00",
    "phones": [ "406-257-9495" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AC159BDB-7132-4FC5-888D-E477F285132D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.189091,
-   "longitude": -114.294973
+   "longitude": -114.294973,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Woodland Park - Kalispell MT (USA)",
@@ -1180,20 +1239,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "406-257-9495" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4ACC688F-AA9E-47BF-B340-49808A045F31",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.241096,
-   "longitude": -114.342064
+   "longitude": -114.342064,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Valley View - Kalispell MT (USA)",
@@ -1202,20 +1262,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:00",
    "phones": [ "406-309-2883" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "277323EF-4743-487A-AB95-75CF764D0A46",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.241096,
-   "longitude": -114.342064
+   "longitude": -114.342064,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Pleasant Valley - Kalispell MT (USA)",
@@ -1224,20 +1285,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "406-309-2883" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5F77F948-02AE-435F-A18D-959CEF9E3CEF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.112609,
-   "longitude": -114.094295
+   "longitude": -114.094295,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Bigfork - MT (USA)",
@@ -1246,20 +1308,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "406-249-4506" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7CE71A38-9E8F-42C9-A989-871576A0C97E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.409478,
-   "longitude": -114.371581
+   "longitude": -114.371581,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Whitefish - MT (USA)",
@@ -1268,20 +1331,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "406-862-8266" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2842EEA5-7E9E-4246-9EA6-1EB8CA54FFAC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.296074,
-   "longitude": -116.957278
+   "longitude": -116.957278,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Golden, BC",
@@ -1290,20 +1354,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "250-344-6612" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "1319BC9D-7E86-42A3-8F7B-0914CFCAD082",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.505784,
-   "longitude": -115.070424
+   "longitude": -115.070424,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Fernie, BC",
@@ -1312,20 +1377,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "(250) 430-5363" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0CF92D83-1544-403B-B024-193E4436300D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.49506,
-   "longitude": -115.987449
+   "longitude": -115.987449,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Invermere, BC",
@@ -1334,20 +1400,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "(778) 635-1010" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "9C75AC68-44AB-4EFF-B2F6-48CE5E21BC4D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.600698,
-   "longitude": -114.404807
+   "longitude": -114.404807,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Frank, AB",
@@ -1356,20 +1423,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:15",
    "phones": [ "(403) 564-0083" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2CA68911-F600-492E-8C39-C524A6ADE433",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.487165,
-   "longitude": -113.937611
+   "longitude": -113.937611,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Pincher Creek, AB",
@@ -1378,20 +1446,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "403-627-4755" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CFC973A1-E129-44E5-A305-B286ED2A59CE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.096596,
-   "longitude": -115.353261
+   "longitude": -115.353261,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Canmore, AB",
@@ -1400,42 +1469,44 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "825-804-5114" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F19A0C0E-5CB6-4126-8D90-E96942DBAD84",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 55.208647,
-   "longitude": -119.426317
+   "longitude": -119.426317,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Beaverlodge, AB",
    "orgType": "CONG",
-   "address": "822 2 Avenue\r\nBeaverlodge AB  T0H 0C0",
+   "address": "822 2 Avenue\nBeaverlodge AB  T0H 0C0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "(780) 354-0104" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "41CB2664-03B9-434D-BE9C-23064B9A61C8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.392031,
-   "longitude": -117.599811
+   "longitude": -117.599811,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Hinton, AB",
@@ -1444,20 +1515,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "1 587 467 2066" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EBB1B6FB-4268-4F54-AD72-3D3412CC90FB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 49.461048,
-   "longitude": -113.298379
+   "longitude": -113.298379,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Kainai Blackfoot, Stand Off, AB",
@@ -1467,86 +1539,90 @@
    "languageCode": "BLF",
    "schedule": "Sun 11:00 Wed 19:00",
    "phones": [ "403-393-0775" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "09C682E7-C9B1-4569-81EA-9385A335F488",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 55.196157,
-   "longitude": -118.799884
+   "longitude": -118.799884,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "College Park, Grande Prairie, AB",
    "orgType": "CONG",
-   "address": "10135 128 Avenue\r\nGrande Prairie AB  T8V 1X9",
+   "address": "10135 128 Avenue\nGrande Prairie AB  T8V 1X9",
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:30",
    "phones": [ "780-814-2568" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "814FC1DB-74A4-4497-B65E-837B0BBA9C52",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 55.196157,
-   "longitude": -118.799884
+   "longitude": -118.799884,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Crystal Ridge, Grande Prairie, AB",
    "orgType": "CONG",
-   "address": "10135 128 Avenue\r\nGrande Prairie AB  T8V 1X9",
+   "address": "10135 128 Avenue\nGrande Prairie AB  T8V 1X9",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "780-518-3285" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "76F3836F-64DA-459A-9616-5669B6A9027D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 55.196157,
-   "longitude": -118.799884
+   "longitude": -118.799884,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Patterson, Grande Prairie, AB",
    "orgType": "CONG",
-   "address": "10135 128 Avenue\r\nGrande Prairie AB  T8V 1X9",
+   "address": "10135 128 Avenue\nGrande Prairie AB  T8V 1X9",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "780-539-1407" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4F846D83-DDBB-419E-BF7A-26E04B2B75A7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 55.196157,
-   "longitude": -118.799884
+   "longitude": -118.799884,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Pinnacle Ridge, Grande Prairie, AB",
@@ -1555,42 +1631,44 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [ "780-876-2222" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2023-05-29",
-  "active": true,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CF3A5FE3-2D71-4416-BEA6-4D1C84180648",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 55.196157,
-   "longitude": -118.799884
+   "longitude": -118.799884,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Royal Oaks Tagalog, Grande Prairie, AB",
    "orgType": "CONG",
-   "address": "10135 128 Avenue\r\nGrande Prairie AB  T8V 1X9",
+   "address": "10135 128 Avenue\nGrande Prairie AB  T8V 1X9",
    "languageCode": "TG",
    "schedule": "Sat 16:00 Wed 19:30",
    "phones": [ "780-978-9982" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9C7EC7A9-B90F-4641-AE9E-51DB24CB0BCA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.024802,
-   "longitude": -113.578405
+   "longitude": -113.578405,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Claresholm, AB",
@@ -1599,20 +1677,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "1 825 807 6504" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "F276582D-F1F8-4326-BD0E-2E8C3937502F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.700283,
-   "longitude": -113.98648
+   "longitude": -113.98648,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "High River, AB",
@@ -1621,20 +1700,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:30 Tue 19:30",
    "phones": [ "403-478-9916" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "2310FAFD-1758-4505-8688-DD43665F85D2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.700283,
-   "longitude": -113.98648
+   "longitude": -113.98648,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Okotoks, AB",
@@ -1643,20 +1723,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "403-801-7501" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "E27F0BC3-E820-42FA-860D-F7A16EB798CF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.700283,
-   "longitude": -113.98648
+   "longitude": -113.98648,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Turner Valley, AB",
@@ -1665,20 +1746,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:30",
    "phones": [ "306-641-6475" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "6F4F066E-003C-4CF2-A2FD-F04B373ECB02",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.659393,
-   "longitude": -112.871017
+   "longitude": -112.871017,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Westside, Lethbridge, AB",
@@ -1687,20 +1769,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:15",
    "phones": [ "(587) 612-5248" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4C02DA3B-EAEA-4270-B21A-A760E4848E46",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 49.659393,
-   "longitude": -112.871017
+   "longitude": -112.871017,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Spanish, Lethbridge, AB",
@@ -1709,20 +1792,21 @@
    "languageCode": "S",
    "schedule": "Sun 13:00 Wed 19:30",
    "phones": [ "(587) 612-5248" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8E008F0F-393C-442D-A49B-5758F4156CCB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.659393,
-   "longitude": -112.871017
+   "longitude": -112.871017,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Highlands, Lethbridge, AB",
@@ -1731,20 +1815,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:30 Mon 19:00",
    "phones": [ "(587) 612-5248" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EB796F64-92E4-436B-B7AA-6E2873498CBE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.911335,
-   "longitude": -114.064408
+   "longitude": -114.064408,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "New Brighton, Calgary, AB",
@@ -1753,20 +1838,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:30 Wed 19:00",
    "phones": [ "403-836-7678" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "B28C73C9-55BA-4872-9F67-BD3777CD0014",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.911335,
-   "longitude": -114.064408
+   "longitude": -114.064408,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Midnapore, Calgary, AB",
@@ -1775,20 +1861,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:30",
    "phones": [ "825-449-0970" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "D64CF868-FD9B-449E-980E-7DB355091297",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.911335,
-   "longitude": -114.064408
+   "longitude": -114.064408,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Shawnessy, Calgary, AB",
@@ -1797,20 +1884,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "(403) 975-4513" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "A9F9583C-F5DF-4626-821F-5CBA33B35D0C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.911335,
-   "longitude": -114.064408
+   "longitude": -114.064408,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Cranston, Calgary, AB",
@@ -1819,20 +1907,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "403-254-0421" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "9D842AF5-2A2B-4D2A-A06B-71150DD50ACE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.911335,
-   "longitude": -114.064408
+   "longitude": -114.064408,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Midpark Tagalog, Calgary, AB",
@@ -1841,20 +1930,21 @@
    "languageCode": "TG",
    "schedule": "Sat 10:30 Wed 19:30",
    "phones": [ "403-254-0421" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "B53C732C-345A-4AD8-8C90-E13A2370DC00",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 50.911335,
-   "longitude": -114.064408
+   "longitude": -114.064408,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "East Arabic, Calgary, AB",
@@ -1863,62 +1953,67 @@
    "languageCode": "A",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [ "587-600-6487" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "65D29F8A-2006-489B-82B1-D1D53082B729",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 49.718402,
-   "longitude": -112.832835
+   "longitude": -112.832835,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Galt Park, Lethbridge, AB",
    "orgType": "CONG",
-   "address": "1510 Stafford Drive N\r\nLethbridge AB  T1H 2C5",
+   "address": "1510 Stafford Drive N\nLethbridge AB  T1H 2C5",
    "languageCode": "E",
+   "schedule": "Sun 13:00 Wed 19:15",
    "phones": [ "587-612-5249" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "87DD95C1-8D56-4EFA-B042-A20FE2735FC0",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 49.718402,
-   "longitude": -112.832835
+   "longitude": -112.832835,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Coalbanks, Lethbridge, AB",
    "orgType": "CONG",
-   "address": "1510 Stafford Drive N\r\nLethbridge AB  T1H 2C5",
+   "address": "1510 Stafford Drive N\nLethbridge AB  T1H 2C5",
    "languageCode": "E",
+   "schedule": "Sat 10:30 Thu 19:00",
    "phones": [ "403-328-4647" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "3E82DA9E-2EEF-40DB-9129-5FEA9FE4D1A0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.718402,
-   "longitude": -112.832835
+   "longitude": -112.832835,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Coalbanks-ASL - Coalbanks, Lethbridge, AB",
@@ -1928,20 +2023,21 @@
    "schedule": "Sun 10:00 Thu 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "403-328-4647" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "D6F4750B-9F09-4C3D-8B70-297B0334D571",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.089299,
-   "longitude": -114.202472
+   "longitude": -114.202472,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Korean, Calgary, AB",
@@ -1949,21 +2045,22 @@
    "address": "8104 Bowness Road NW\r\nCalgary AB  T3B 0H6",
    "languageCode": "KO",
    "schedule": "Sun 10:00 Wed 19:00",
-   "phones": [ "403-397-6935" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "403-466-7335" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "17EF4520-DB6E-4BDC-AC57-C5443E125415",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.089299,
-   "longitude": -114.202472
+   "longitude": -114.202472,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Patterson Tagalog, Calgary, AB",
@@ -1972,20 +2069,21 @@
    "languageCode": "TG",
    "schedule": "Sat 16:00 Tue 19:30",
    "phones": [ "403-456-9059" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "57E63D72-034B-4518-8715-1E086DC1AFC3",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 51.089299,
-   "longitude": -114.202472
+   "longitude": -114.202472,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Vietnamese, Calgary, AB",
@@ -1994,20 +2092,21 @@
    "languageCode": "VT",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [ "587-890-5529" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F0555607-59F5-4D5C-9204-3986894FF1A5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.697061,
-   "longitude": -112.799763
+   "longitude": -112.799763,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Lakeview, Lethbridge, AB",
@@ -2016,64 +2115,67 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "403-329-4110" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7879A6E7-B3B9-40AA-BB40-5E9E3A3F0C8F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 49.697061,
-   "longitude": -112.799763
+   "longitude": -112.799763,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Southgate, Lethbridge, AB",
    "orgType": "CONG",
-   "address": "2822 2 Avenue S\r\nLethbridge AB  T1J 4E7",
+   "address": "2822 2 Avenue S\nLethbridge AB  T1J 4E7",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:15",
    "phones": [ "403-329-4110" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E604B709-47F3-4857-A697-1D17BFC3D647",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 50.972115,
-   "longitude": -114.05846
+   "longitude": -114.05846,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Acadia Spanish, Calgary, AB",
    "orgType": "CONG",
-   "address": "9110 Fairmount Drive SE\r\nCalgary AB  T2J 4X5",
+   "address": "9110 Fairmount Drive SE\nCalgary AB  T2J 4X5",
    "languageCode": "S",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [ "403-255-8214" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "E832E66D-17A1-482C-896C-4D4A8AF73911",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.972115,
-   "longitude": -114.05846
+   "longitude": -114.05846,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Acadia, Calgary, AB",
@@ -2082,132 +2184,138 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "(587) 880-8918" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "3E52D316-F718-48C8-83C6-34C2B2398E8A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 50.972115,
-   "longitude": -114.05846
+   "longitude": -114.05846,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Woodlands, Calgary, AB",
    "orgType": "CONG",
-   "address": "9110 Fairmount Drive SE\r\nCalgary AB  T2J 4X5",
+   "address": "9110 Fairmount Drive SE\nCalgary AB  T2J 4X5",
    "languageCode": "E",
    "schedule": "Sat 10:00 Wed 19:00",
    "phones": [ "587-880-8919" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "6325BCE6-A17A-4D45-81F2-82CF07038B2C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 50.972115,
-   "longitude": -114.05846
+   "longitude": -114.05846,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Sunridge Spanish, Calgary, AB",
    "orgType": "CONG",
-   "address": "9110 Fairmount Drive SE\r\nCalgary AB  T2J 4X5",
+   "address": "9110 Fairmount Drive SE\nCalgary AB  T2J 4X5",
    "languageCode": "S",
    "schedule": "Sun 13:00 Wed 19:30",
    "phones": [ "403-569-8258" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2C339912-2B8B-41FD-BD41-45C091841784",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.972115,
-   "longitude": -114.05846
+   "longitude": -114.05846,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Mountainview Tigrinya, Calgary, AB",
    "orgType": "CONG",
-   "address": "9110 Fairmount Drive SE\r\nCalgary AB  T2J 4X5",
+   "address": "9110 Fairmount Drive SE\nCalgary AB  T2J 4X5",
    "languageCode": "TI",
    "schedule": "Sun 10:00 Tue 19:30",
    "relatedLanguageCodes": [ "AM" ],
    "phones": [ "+1(403) 650 0327" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "16463542-EA5D-4315-B0A3-12DA6C6E262A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.972115,
-   "longitude": -114.05846
+   "longitude": -114.05846,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "North Amharic - Mountainview Tigrinya, Calgary, AB",
    "orgType": "GROUP",
-   "address": "9110 Fairmount Drive SE\r\nCalgary AB  T2J 4X5",
+   "address": "9110 Fairmount Drive SE\nCalgary AB  T2J 4X5",
    "languageCode": "AM",
    "schedule": "Sun 10:00 Tue 19:30",
    "relatedLanguageCodes": [ "TI" ],
    "phones": [ "+1(403) 650 0327" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3EA6D6D9-8F90-49EF-8E6A-CE528A822410",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 50.972115,
-   "longitude": -114.05846
+   "longitude": -114.05846,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Country Hills Iloko, Calgary, AB",
    "orgType": "CONG",
-   "address": "9110 Fairmount Drive SE\r\nCalgary AB  T2J 4X5",
+   "address": "9110 Fairmount Drive SE\nCalgary AB  T2J 4X5",
    "languageCode": "IL",
    "schedule": "Sun 13:00 Wed 19:30",
    "phones": [ "403-730-1914" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AB54C0F7-A030-4509-97CC-B2CD0B7D591C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.122326,
-   "longitude": -114.197049
+   "longitude": -114.197049,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Ranchlands, Calgary, AB",
@@ -2216,20 +2324,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "403-571-0795" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2634E134-A890-4D19-B77E-14F4E8D28DCD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.122326,
-   "longitude": -114.197049
+   "longitude": -114.197049,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Evanston, Calgary, AB",
@@ -2238,20 +2347,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "403-571-0795" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "72387780-92FF-485D-89D1-2144AAD8372C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.122326,
-   "longitude": -114.197049
+   "longitude": -114.197049,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Brentwood, Calgary, AB",
@@ -2260,42 +2370,44 @@
    "languageCode": "E",
    "schedule": "Sat 10:30 Wed 19:00",
    "phones": [ "403-923-0585" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "93CCE820-B91D-4B26-8FB4-606D3EF0CD48",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.122326,
-   "longitude": -114.197049
+   "longitude": -114.197049,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Springbank, Calgary, AB",
    "orgType": "CONG",
    "address": "1705 Ranchlands Way NW\r\nCalgary AB  T3G 3S6",
    "languageCode": "E",
-   "schedule": "Sun 13:00 Thu 19:30",
+   "schedule": "Sun 13:00 Thu 19:00",
    "phones": [ "403-571-0795" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C7D026FD-CAFE-498F-8460-02C25809F155",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.122326,
-   "longitude": -114.197049
+   "longitude": -114.197049,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Glenbow, Calgary, AB",
@@ -2304,20 +2416,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:30 Thu 19:00",
    "phones": [ "403-571-0795" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A4A6F4CC-0733-444D-A05F-F125449AD281",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.122326,
-   "longitude": -114.197049
+   "longitude": -114.197049,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Bearspaw, Calgary, AB",
@@ -2326,20 +2439,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:30",
    "phones": [ "403-879-9010" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "886EFAAC-526E-4322-96AD-3DF5BB771980",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.044498,
-   "longitude": -114.100991
+   "longitude": -114.100991,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Central, Calgary, AB",
@@ -2348,20 +2462,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "(403) 456-9057" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5634DD48-AED0-4B67-A170-B9A930547360",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.044498,
-   "longitude": -114.100991
+   "longitude": -114.100991,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Signal Hill, Calgary, AB",
@@ -2370,41 +2485,44 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "(403) 456-9057" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "35E3C30C-B0C5-4AC0-9111-94EDEAA24BD6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.044498,
-   "longitude": -114.100991
+   "longitude": -114.100991,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Sign Language, Calgary, AB",
    "orgType": "CONG",
-   "address": "1736 10 avenue SW\r\nCalgary AB  T3C 0J8",
+   "address": "1736 10 avenue SW\nCalgary AB  T3C 0J8",
    "languageCode": "ASL",
+   "schedule": "Sat 10:30 Thu 19:00",
    "phones": [ "(403) 456-9057" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "3FEFF8A8-2C14-4E96-8057-4769F45EEF51",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 51.044498,
-   "longitude": -114.100991
+   "longitude": -114.100991,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Bow River Russian, Calgary, AB",
@@ -2413,20 +2531,21 @@
    "languageCode": "U",
    "schedule": "Sat 16:00 Mon 19:00",
    "phones": [ "4032448812" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0334DB57-102C-4ECC-9230-03205C42873A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 51.079746,
-   "longitude": -114.061961
+   "longitude": -114.061961,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Chinatown, Calgary, AB",
@@ -2435,20 +2554,21 @@
    "languageCode": "CHE",
    "schedule": "Sat 10:15 Tue 19:30",
    "phones": [ "(403) 355-0949" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7291E439-389F-4091-A803-ABDD0EF11460",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.079746,
-   "longitude": -114.061961
+   "longitude": -114.061961,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "French, Calgary, AB",
@@ -2458,43 +2578,45 @@
    "schedule": "Sat 16:00 Thu 19:00",
    "relatedLanguageCodes": [ "CR" ],
    "phones": [ "(403) 355-0949" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "10EA9440-FF92-46CD-AA8A-FEB097566635",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 51.079746,
-   "longitude": -114.061961
+   "longitude": -114.061961,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "(Pre) Calgary French Haitian Creole - French, Calgary, AB",
    "orgType": "GROUP",
    "address": "3102 Centre Street NE\r\nCalgary AB  T2E 2X4",
    "languageCode": "CR",
-   "schedule": "Sat 16:00",
+   "schedule": "Sat 16:00 undefined null",
    "relatedLanguageCodes": [ "F" ],
    "phones": [ "(403) 355-0949" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0A243C8D-0EBB-400A-9DA2-E26FB03A774E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.079746,
-   "longitude": -114.061961
+   "longitude": -114.061961,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Franklin Park Tagalog, Calgary, AB",
@@ -2503,20 +2625,21 @@
    "languageCode": "TG",
    "schedule": "Sun 16:00 Wed 19:30",
    "phones": [ "403-616-0570" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "317933C8-41CE-4DDF-81B5-A36DF69B8F10",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 51.065207,
-   "longitude": -113.99255
+   "longitude": -113.99255,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Sunridge Portuguese - Sunridge Spanish, Calgary, AB",
@@ -2525,20 +2648,21 @@
    "languageCode": "T",
    "schedule": "Sun 13:00 Wed 19:30",
    "phones": [ "403-569-8258" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BA9EA13A-C3B7-425B-862F-AD5AA360A828",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 51.065207,
-   "longitude": -113.99255
+   "longitude": -113.99255,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Calgary Swahili - Saddleridge, Calgary, AB",
@@ -2546,21 +2670,22 @@
    "address": "2900 14 Avenue NE\r\nCalgary AB  T2A 6J4",
    "languageCode": "SW",
    "schedule": "Sun 16:00 Mon 19:30",
-   "phones": [ "403-650-0327 Ext. 8" ],
-   "isPrivateMtgPlace": false
+   "phones": [],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2D58BE48-1BA9-4E50-AA3B-EEB3C0F796D3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.139833,
-   "longitude": -114.059251
+   "longitude": -114.059251,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Mayland Heights, Calgary, AB",
@@ -2569,20 +2694,21 @@
    "languageCode": "E",
    "schedule": "Sun 16:00 Mon 19:30",
    "phones": [ "403-650-0327 Ext. 3" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "492F37CA-71D7-4354-887C-FEE7D938BA6D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.139833,
-   "longitude": -114.059251
+   "longitude": -114.059251,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Saddleridge, Calgary, AB",
@@ -2590,21 +2716,22 @@
    "address": "9660 Aurora Park Link NE\r\nCalgary AB  T3K 0S2",
    "languageCode": "E",
    "schedule": "Sun 16:00 Mon 19:30",
-   "phones": [ "403-650-0327 Ext. 8" ],
-   "isPrivateMtgPlace": false
+   "phones": [],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FAD85890-321A-41B8-8F1A-A46A597E9820",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.139833,
-   "longitude": -114.059251
+   "longitude": -114.059251,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Harvest Hills, Calgary, AB",
@@ -2613,20 +2740,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "587-880-8915" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BD187811-CC7F-4849-B804-031A153F8398",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.139833,
-   "longitude": -114.059251
+   "longitude": -114.059251,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Coventry Hills, Calgary, AB",
@@ -2635,20 +2763,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:30",
    "phones": [ "587-880-8915" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5A3032F6-11E0-45DA-BE87-2CE1BEC647EA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.139833,
-   "longitude": -114.059251
+   "longitude": -114.059251,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Highland Park, Calgary, AB",
@@ -2657,20 +2786,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5B8526AB-2765-426A-890D-0BA39CE62052",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.139833,
-   "longitude": -114.059251
+   "longitude": -114.059251,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "North Hills Spanish, Calgary, AB",
@@ -2679,20 +2809,21 @@
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "403-730-1914" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "65D5FC15-A950-487E-9D13-A6303E5A3327",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.139833,
-   "longitude": -114.059251
+   "longitude": -114.059251,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Aurora Park Tagalog, Calgary, AB",
@@ -2701,20 +2832,21 @@
    "languageCode": "TG",
    "schedule": "Sat 10:30 Thu 19:30",
    "phones": [ "(403) 510-3088" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "ED426FF2-164C-4CFA-B1F8-ED3D4C80EECC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.139833,
-   "longitude": -114.059251
+   "longitude": -114.059251,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Saddletown Punjabi, Calgary, AB",
@@ -2724,65 +2856,68 @@
    "schedule": "Sat 10:30 Tue 19:30",
    "relatedLanguageCodes": [ "HI" ],
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7F224EFA-467A-4DED-A7B1-D2A6A86BB4A2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.139833,
-   "longitude": -114.059251
+   "longitude": -114.059251,
+   "iso": "CAN"
   },
   "properties": {
-   "orgName": "(PRE) Saddletown-Hindi - Saddletown Punjabi, Calgary, AB",
+   "orgName": "(Pre) Saddletown-Hindi - Saddletown Punjabi, Calgary, AB",
    "orgType": "GROUP",
    "address": "9660 Aurora Park Link NE\r\nCalgary AB  T3K 0S2",
    "languageCode": "HI",
    "schedule": "Sat 10:30 Tue 19:30",
    "relatedLanguageCodes": [ "PJ" ],
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "85E1ADED-0F5C-4FB3-931F-0D8F17B4744C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.051122,
-   "longitude": -113.970208
+   "longitude": -113.970208,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Monterey Park, Calgary, AB",
    "orgType": "CONG",
    "address": "127 44 Street SE\r\nCalgary AB  T2A 3E2",
    "languageCode": "E",
-   "schedule": "Sun 13:00 Thu 19:30",
+   "schedule": "Sat 14:00 Mon 19:30",
    "phones": [ "403-650-0327" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D491CC03-0F76-4350-BB0B-134DF99E877E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.051122,
-   "longitude": -113.970208
+   "longitude": -113.970208,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Forest Lawn, Calgary, AB",
@@ -2791,20 +2926,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [ "(403) 272-4870" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C07969AC-A36D-44EF-AE38-2637B81C216C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 51.051122,
-   "longitude": -113.970208
+   "longitude": -113.970208,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Rocky Mountain Mandarin, Calgary, AB",
@@ -2813,20 +2949,21 @@
    "languageCode": "CHM",
    "schedule": "Sat 10:30 Tue 19:30",
    "phones": [ "403-919-2855" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AA76DD9E-6DD2-4787-BCD7-527DED9EA82B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.051122,
-   "longitude": -113.970208
+   "longitude": -113.970208,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Penbrooke, Calgary, AB",
@@ -2835,20 +2972,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "403-617-0443" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7A32C0D7-50BF-48F0-94ED-98425474CAC3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.791509,
-   "longitude": -114.655653
+   "longitude": -114.655653,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Sundre, AB",
@@ -2857,20 +2995,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "403-638-3197" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "493EF325-1E13-499F-B424-180534825887",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.588528,
-   "longitude": -116.416433
+   "longitude": -116.416433,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Edson, AB",
@@ -2879,20 +3018,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "(825) 605-5521" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CA06EBEC-45D6-4304-B7E7-B2D0DA94B330",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.280344,
-   "longitude": -113.988362
+   "longitude": -113.988362,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "East Lake, Airdrie, AB",
@@ -2901,20 +3041,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Tue 19:30",
    "phones": [ "825-462-1145" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "C1E8C9D5-52D9-406A-8A03-7FB1DDFFEC48",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.280344,
-   "longitude": -113.988362
+   "longitude": -113.988362,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Willow Brook, Airdrie, AB",
@@ -2923,20 +3064,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:30 Wed 19:30",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "4D152784-F60E-4E7E-AB30-CB23010DE20E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.364834,
-   "longitude": -114.936496
+   "longitude": -114.936496,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Rocky Mountain House, AB",
@@ -2945,64 +3087,67 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:30",
    "phones": [ "(403) 847-0940" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "1AC680BC-B488-4A7A-A22B-2B252E2B4DF4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 49.79655,
-   "longitude": -112.148133
+   "longitude": -112.148133,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Taber, AB",
    "orgType": "CONG",
-   "address": "6002 51 Street\r\nTaber AB  T1G 1K5",
+   "address": "6002 51 Street\nTaber AB  T1G 1K5",
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:30",
    "phones": [ "(403) 223-7853" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0572B073-FA5B-44BB-AA7B-E83E1E49DEC1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.79655,
-   "longitude": -112.148133
+   "longitude": -112.148133,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Grasslands Low German, Taber, AB",
    "orgType": "CONG",
-   "address": "6002 51 Street\r\nTaber AB  T1G 1K5",
+   "address": "6002 51 Street\nTaber AB  T1G 1K5",
    "languageCode": "LWX",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "(403) 223-7853" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DA4D893F-5204-4BE8-9F23-8125C6E76FED",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.05381,
-   "longitude": -113.39411
+   "longitude": -113.39411,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Strathmore, AB",
@@ -3011,20 +3156,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:30 Wed 19:30",
    "phones": [ "(403) 902-2286" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B6C2E584-73DA-4A8E-991C-50B3AF526182",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.791216,
-   "longitude": -114.126452
+   "longitude": -114.126452,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Deer Meadows, Olds, AB",
@@ -3033,20 +3179,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:30 Wed 19:30",
    "phones": [ "(403) 559-0362" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "8E93380B-2D68-4FE1-A16B-092CCC403EC3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.791216,
-   "longitude": -114.126452
+   "longitude": -114.126452,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Silverthorn, Olds, AB",
@@ -3055,20 +3202,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Thu 19:30",
    "phones": [ "(403) 559-0362" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "2FF8A2B2-7225-41C9-B6C0-06E915D2C134",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 55.065393,
-   "longitude": -117.279622
+   "longitude": -117.279622,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Valleyview, AB",
@@ -3077,20 +3225,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "780-933-5052" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "91B1E654-BD7A-4CF3-B167-5D642AB24094",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.009839,
-   "longitude": -113.955948
+   "longitude": -113.955948,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Innisfail, AB",
@@ -3099,20 +3248,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "14032271727" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "AC7AAA86-E4CD-4555-81FF-8DB8B70F8996",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.228106,
-   "longitude": -114.988328
+   "longitude": -114.988328,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Drayton Valley, AB",
@@ -3121,20 +3271,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "780-621-3406" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "54348BC9-8B11-4F70-96C6-F2045F7100DA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.643098,
-   "longitude": -114.222058
+   "longitude": -114.222058,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Rimbey, AB",
@@ -3143,20 +3294,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:30 Wed 19:30",
    "phones": [ "587-222-5502" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "71D0D722-963C-4F93-9263-B51CE237DC77",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.242053,
-   "longitude": -113.805584
+   "longitude": -113.805584,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Eastside, Red Deer, AB",
@@ -3165,20 +3317,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "403-347-3908" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "2699B36F-5481-4BD9-B587-252F4EFD8FCE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 54.14874,
-   "longitude": -115.67545
+   "longitude": -115.67545,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Whitecourt, AB",
@@ -3187,20 +3340,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "780-779-8482" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "DAF6FEE0-616B-47BA-A350-994A327478A4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.308318,
-   "longitude": -113.826772
+   "longitude": -113.826772,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "North Hill, Red Deer, AB",
@@ -3209,20 +3363,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:30 Wed 19:30",
    "phones": [ "5878020037" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "F7DA4D84-FF30-4690-B810-96312CBCCD98",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 52.308318,
-   "longitude": -113.826772
+   "longitude": -113.826772,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Clearview Iloko, Red Deer, AB",
@@ -3231,42 +3386,45 @@
    "languageCode": "IL",
    "schedule": "Sun 10:30 Thu 19:30",
    "phones": [ "(587) 679-6476" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "53EC41F6-FE37-47A5-9DAD-7666904AAD8A",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 52.282136,
-   "longitude": -113.764712
+   "longitude": -113.764712,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Waskasoo Park, Red Deer, AB",
    "orgType": "CONG",
-   "address": "440 Timothy Drive\r\nRed Deer AB  T4P 0L2",
+   "address": "440 Timothy Drive\nRed Deer AB  T4P 0L2",
    "languageCode": "E",
+   "schedule": "Sat 10:30 Tue 19:30",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "587-802-0038" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "B6C6C6E5-F134-4EE4-B729-FE25F924A552",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.282136,
-   "longitude": -113.764712
+   "longitude": -113.764712,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Waskasoo Park-ASL - Waskasoo Park, Red Deer, AB",
@@ -3276,64 +3434,68 @@
    "schedule": "Sat 10:30 Tue 19:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "587-802-0038" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-03",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "B9687B9F-D329-4CF4-814B-EBDF854F71CE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.282136,
-   "longitude": -113.764712
+   "longitude": -113.764712,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Kentwood Tagalog, Red Deer, AB",
    "orgType": "CONG",
-   "address": "440 Timothy Drive\r\nRed Deer AB  T4P 0L2",
+   "address": "440 Timothy Drive\nRed Deer AB  T4P 0L2",
    "languageCode": "TG",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "403-6191437" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "3751DBBD-3F38-49F7-AE66-7D6B077D5F9D",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": 52.282136,
-   "longitude": -113.764712
+   "longitude": -113.764712,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Waskasoo Park Spanish - Waskasoo Park, Red Deer, AB",
    "orgType": "GROUP",
-   "address": "440 Timothy Drive\r\nRed Deer AB  T4P 0L2",
+   "address": "440 Timothy Drive\nRed Deer AB  T4P 0L2",
    "languageCode": "S",
+   "schedule": "Sat 10:30 Tue 19:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "587-802-0038" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "0443EAE9-4DF5-4529-87F2-FDBBC492D09F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.599725,
-   "longitude": -115.059209
+   "longitude": -115.059209,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Evansburg, AB",
@@ -3342,20 +3504,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "780-898-0338" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "8CB060A7-C840-4681-903B-0AA2217DF9C1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.467678,
-   "longitude": -112.74749
+   "longitude": -112.74749,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Drumheller, AB",
@@ -3364,20 +3527,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "(825) 798-5179" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A90D4BAF-17A7-4BD4-B942-A8088499F3BE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.455752,
-   "longitude": -113.728279
+   "longitude": -113.728279,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Lacombe, AB",
@@ -3386,20 +3550,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "0A90FF66-BE6E-4CC5-8127-3772022AF7E4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.949913,
-   "longitude": -115.130941
+   "longitude": -115.130941,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Mayerthorpe, AB",
@@ -3408,20 +3573,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:30 Wed 19:30",
    "phones": [ "(780) 785-0429" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "060C1665-8F2D-43BC-B37E-A5579DA9EEB4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 55.438693,
-   "longitude": -116.484473
+   "longitude": -116.484473,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "High Prairie, AB",
@@ -3430,20 +3596,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "780-324-0360" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "247ABE32-7701-42D3-97B9-D1C8F0702ACE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.689229,
-   "longitude": -113.573983
+   "longitude": -113.573983,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Ponoka, AB",
@@ -3452,20 +3619,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(403) 785-4478" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "203493B2-8BC6-48F0-9828-C5A00C7ECEDF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.16688,
-   "longitude": -113.878203
+   "longitude": -113.878203,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Glen Park, AB",
@@ -3473,21 +3641,22 @@
    "address": "48421B Range Road 273\r\nGlen Park AB  T0C 0V0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
-   "phones": [ "780-312-8021" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "1 (250) 938-8939" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "A7ED675E-9C1F-4D44-8C33-FDB5062D5AA2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.261305,
-   "longitude": -113.804792
+   "longitude": -113.804792,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Calmar, AB",
@@ -3496,20 +3665,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:30 Wed 19:00",
    "phones": [ "7809850614" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "962C42B4-7D1A-4139-889B-1DB2C452F59D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.326568,
-   "longitude": -112.739492
+   "longitude": -112.739492,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Stettler, AB",
@@ -3518,20 +3688,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:00 Wed 19:00",
    "phones": [ "8257541189" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "E61E902B-73AA-4D65-AA94-6F39BFD6F289",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.511881,
-   "longitude": -113.922727
+   "longitude": -113.922727,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Parkland, Spruce Grove, AB",
@@ -3540,20 +3711,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "780-963-0313" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0E0E4426-D5F9-414E-A21D-A01D90C28D5F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.511881,
-   "longitude": -113.922727
+   "longitude": -113.922727,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Woodhaven, Spruce Grove, AB",
@@ -3562,20 +3734,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [ "780-963-0313" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0C5809D2-B66E-45CD-91F3-7513C6A33A95",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.511881,
-   "longitude": -113.922727
+   "longitude": -113.922727,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Stony Plain, AB",
@@ -3584,20 +3757,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:30 Tue 19:00",
    "phones": [ "780-963-0313" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "38F896A0-D4D0-481C-ABDF-54E6B0358925",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.975462,
-   "longitude": -113.368698
+   "longitude": -113.368698,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Wetaskiwin, AB",
@@ -3606,20 +3780,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "587 742 2762" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "78950FC9-E382-4BD0-A544-BC471EE9BB46",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.266228,
-   "longitude": -113.557793
+   "longitude": -113.557793,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Leduc, AB",
@@ -3628,20 +3803,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Wed 19:30",
    "phones": [ "(587) 906-3243" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "221A340F-9D3D-498E-9803-242C300F6449",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 54.13771,
-   "longitude": -114.396941
+   "longitude": -114.396941,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Barrhead, AB",
@@ -3650,42 +3826,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "780-220-5627" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "45F2C3BA-7ABB-4B64-9206-ABDFD8C69D54",
-  "type": "weekly",
-  "isPrimary": true,
-  "location": {
-   "latitude": 53.535949,
-   "longitude": -113.636222
-  },
-  "properties": {
-   "orgName": "Oeste Spanish, Edmonton, AB",
-   "orgType": "CONG",
-   "address": "9904 182 Street NW\r\nEdmonton AB  T5T 3L4",
-   "languageCode": "S",
-   "schedule": "Sat 10:30 Wed 19:30",
-   "phones": [ "(780) 328-0275" ],
-   "isPrivateMtgPlace": false
-  },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "77F9FFF5-6C64-48EE-98DE-797C1D92BA53",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.448948,
-   "longitude": -113.514613
+   "longitude": -113.514613,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Heritage, Edmonton, AB",
@@ -3694,20 +3849,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Wed 19:30",
    "phones": [ "(780) 328-9985" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "2584E056-B1A4-4EDD-8FDB-32AD4CD5EE12",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.448948,
-   "longitude": -113.514613
+   "longitude": -113.514613,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Ellerslie, Edmonton, AB",
@@ -3716,20 +3872,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:30 Thu 19:30",
    "phones": [ "(587) 404-0403" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "B219C429-29DC-43E9-8F0C-118C7C2FEC3E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.448948,
-   "longitude": -113.514613
+   "longitude": -113.514613,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Windermere, Edmonton, AB",
@@ -3738,107 +3895,136 @@
    "languageCode": "E",
    "schedule": "Sun 13:30 Tue 19:30",
    "phones": [ "(780) 328-9985" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "37911F5F-33D3-4383-948C-879FDBE57B37",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.448948,
-   "longitude": -113.514613
+   "longitude": -113.514613,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Tagalog South, Edmonton, AB",
    "orgType": "CONG",
-   "address": "11030 19 Avenue NW\r\nEdmonton AB  T6J 6P5",
+   "address": "11030 19 Avenue NW\nEdmonton AB  T6J 6P5",
    "languageCode": "TG",
    "schedule": "Sat 13:30 Mon 19:30",
    "phones": [ "(780) 328-9985" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
+ },
+ {
+  "geoId": "45F2C3BA-7ABB-4B64-9206-ABDFD8C69D54",
+  "type": "weekly",
+  "isPrimary": 0,
+  "location": {
+   "latitude": 53.555768,
+   "longitude": -113.580504,
+   "iso": "CAN"
+  },
+  "properties": {
+   "orgName": "Oeste Spanish, Edmonton, AB",
+   "orgType": "CONG",
+   "address": "10948 150 Street NW\r\nEdmonton AB  T5P 1R7",
+   "languageCode": "S",
+   "schedule": "Sun 16:00 Fri 19:30",
+   "phones": [ "(780) 328-0275" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
+  "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2B3FD9D2-2EB6-4A7D-8270-68276494F48A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 53.555768,
-   "longitude": -113.580504
+   "longitude": -113.580504,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "River Valley, Edmonton, AB",
    "orgType": "CONG",
-   "address": "10948 150 Street NW\r\nEdmonton AB  T5P 1R7",
+   "address": "10948 150 Street NW\nEdmonton AB  T5P 1R7",
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:30",
    "phones": [ "825‑777‑5808" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0C47176D-6578-4F64-A8BB-605D21E37840",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 53.555768,
-   "longitude": -113.580504
+   "longitude": -113.580504,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Mayfield, Edmonton, AB",
    "orgType": "CONG",
-   "address": "10948 150 Street NW\r\nEdmonton AB  T5P 1R7",
+   "address": "10948 150 Street NW\nEdmonton AB  T5P 1R7",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "780-328-0285" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BA4A6A3C-910A-4B8F-91A0-CBF3501420B1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.555768,
-   "longitude": -113.580504
+   "longitude": -113.580504,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Sign Language, Edmonton, AB",
    "orgType": "CONG",
-   "address": "10948 150 Street NW\r\nEdmonton AB  T5P 1R7",
+   "address": "10948 150 Street NW\nEdmonton AB  T5P 1R7",
    "languageCode": "ASL",
+   "schedule": "Sat 10:30 Tue 19:30",
    "phones": [ "780-484-7328" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "80FA7A29-19E5-4EF1-A4A5-4918F8FDB67B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.45989,
-   "longitude": -113.417088
+   "longitude": -113.417088,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Meadows, Edmonton, AB",
@@ -3847,20 +4033,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "(780) 328-0280" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "DBB4038B-179E-455E-B730-36B97A1B979E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.45989,
-   "longitude": -113.417088
+   "longitude": -113.417088,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Millhurst, Edmonton, AB",
@@ -3869,20 +4056,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [ "(780) 328-0280" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "4B6ACD87-0950-46B0-BD01-AD646EF08D21",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.45989,
-   "longitude": -113.417088
+   "longitude": -113.417088,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Woodvale, Edmonton, AB",
@@ -3891,20 +4079,21 @@
    "languageCode": "E",
    "schedule": "Sat 14:00 Tue 19:30",
    "phones": [ "(780) 328-0280" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "AC8CF506-0750-41E5-8075-6BB0E3DF968D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 53.45989,
-   "longitude": -113.417088
+   "longitude": -113.417088,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Hindi, Edmonton, AB",
@@ -3914,20 +4103,21 @@
    "schedule": "Sat 10:30 Mon 19:30",
    "relatedLanguageCodes": [ "PJ" ],
    "phones": [ "(780) 328-0280" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "9D1F0FD7-263F-4C49-AC00-B8636B7E6052",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 53.45989,
-   "longitude": -113.417088
+   "longitude": -113.417088,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Steele Heights Punjabi - Hindi, Edmonton, AB",
@@ -3937,20 +4127,21 @@
    "schedule": "Sat 10:30 Mon 19:30",
    "relatedLanguageCodes": [ "HI" ],
    "phones": [ "(780) 328-0280" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "5FD8B33C-3F1C-4290-9833-B198B53D3B07",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.518176,
-   "longitude": -113.42832
+   "longitude": -113.42832,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Avonmore, Edmonton, AB",
@@ -3959,20 +4150,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [ "780-328-9043" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "EE6ED94B-7DB6-426E-8ED8-769C134B24B3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.518176,
-   "longitude": -113.42832
+   "longitude": -113.42832,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Mandarin, Edmonton, AB",
@@ -3982,20 +4174,21 @@
    "schedule": "Sat 10:30 Tue 19:30",
    "relatedLanguageCodes": [ "CHE" ],
    "phones": [ "780-328-9043" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "DEB01110-D2D8-486E-B812-FCCC3FF7E7FB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.518176,
-   "longitude": -113.42832
+   "longitude": -113.42832,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Ottewell, Edmonton, AB",
@@ -4004,20 +4197,21 @@
    "languageCode": "E",
    "schedule": "Sun 16:00 Tue 19:30",
    "phones": [ "780-328-9042" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "702F7183-47B4-4F16-AE8F-C68B0BF326B6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.518176,
-   "longitude": -113.42832
+   "longitude": -113.42832,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Este Spanish, Edmonton, AB",
@@ -4026,20 +4220,21 @@
    "languageCode": "S",
    "schedule": "Sun 13:00 Wed 19:30",
    "phones": [ "780-328-9042" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "FD004C80-10AE-48C9-B8B6-6DEBC6D5E51F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.518176,
-   "longitude": -113.42832
+   "longitude": -113.42832,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Edmonton-Cantonese - Mandarin, Edmonton, AB",
@@ -4049,20 +4244,21 @@
    "schedule": "Sat 10:30 Wed 19:30",
    "relatedLanguageCodes": [ "CHM" ],
    "phones": [ "780-328-9043" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "1EC7BB0B-2D29-4A55-8DA0-488329E0FE3C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.518176,
-   "longitude": -113.42832
+   "longitude": -113.42832,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Central Cebuano, Edmonton, AB",
@@ -4071,20 +4267,21 @@
    "languageCode": "CV",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "780-328-9042" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "6E1191E4-6758-426B-82E8-1F156ACBF5FF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 53.518176,
-   "longitude": -113.42832
+   "longitude": -113.42832,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Ottewell Iloko, Edmonton, AB",
@@ -4093,20 +4290,21 @@
    "languageCode": "IL",
    "schedule": "Sun 10:00 Fri 19:30",
    "phones": [ "780-328-9043" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "A64EF42D-92FB-4398-866E-21642C492F3F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.569349,
-   "longitude": -113.478054
+   "longitude": -113.478054,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Parkdale, Edmonton, AB",
@@ -4116,20 +4314,21 @@
    "schedule": "Sun 10:30 Thu 19:30",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "(780) 328-0276" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "BA6860C8-1CA7-46DE-A600-95E03EDE6906",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.569349,
-   "longitude": -113.478054
+   "longitude": -113.478054,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Central West African Pidgin, Edmonton, AB",
@@ -4138,20 +4337,21 @@
    "languageCode": "PGW",
    "schedule": "Sun 13:30 Wed 19:30",
    "phones": [ "(780) 328-0276" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "B99C13F0-33E3-4C70-93A9-9D44D35737D7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.569349,
-   "longitude": -113.478054
+   "longitude": -113.478054,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Kaskazini Swahili, Edmonton, AB",
@@ -4160,43 +4360,45 @@
    "languageCode": "SW",
    "schedule": "Sat 10:30 Tue 19:30",
    "phones": [ "(780) 328-0276" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "82D6009F-AC52-4443-AED4-BBF8F6251F17",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 53.569349,
-   "longitude": -113.478054
+   "longitude": -113.478054,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Parkdale Russian - Parkdale, Edmonton, AB",
    "orgType": "GROUP",
    "address": "11705 89 Street NW\r\nEdmonton AB  T5B 3V4",
    "languageCode": "U",
-   "schedule": "Sun 10:30 Thu 19:30",
+   "schedule": "Sat 13:30 Mon 19:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "(780) 328-0276" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "9C8F26BA-6871-465A-86CD-B873307FAEF7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.708271,
-   "longitude": -113.566482
+   "longitude": -113.566482,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Primrose, Edmonton, AB",
@@ -4205,20 +4407,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:30",
    "phones": [ "(780) 328-0275" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FD921741-52F0-47EA-B49F-793B39769F2F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.708271,
-   "longitude": -113.566482
+   "longitude": -113.566482,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Sturgeon Heights, St Albert, AB",
@@ -4227,20 +4430,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "780-446-9921" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CFFA3AC2-9651-4261-B4C3-2219EF32D3DB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.638275,
-   "longitude": -113.488399
+   "longitude": -113.488399,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Castle Downs, Edmonton, AB",
@@ -4249,20 +4453,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:30 Wed 19:30",
    "phones": [ "(780) 328-0278" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DF0DA165-7F72-4A4B-ADB2-7D7CECE5BAC4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.638275,
-   "longitude": -113.488399
+   "longitude": -113.488399,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Oxford, Edmonton, AB",
@@ -4271,20 +4476,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Tue 19:30",
    "phones": [ "(780) 328-0278" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "38F645D6-2CBB-4DD4-A34F-54C00688B323",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 53.638275,
-   "longitude": -113.488399
+   "longitude": -113.488399,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Tigrinya North, Edmonton, AB",
@@ -4294,20 +4500,21 @@
    "schedule": "Sat 10:30 Thu 19:30",
    "relatedLanguageCodes": [ "AM" ],
    "phones": [ "(780) 328-0278" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3E7B71EC-F97B-4BEE-A320-DCE5FACD27AD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.024532,
-   "longitude": -112.818206
+   "longitude": -112.818206,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Jubilee Park, Camrose, AB",
@@ -4316,20 +4523,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:30",
    "phones": [ "780-608-4363" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "477E00B1-F4B6-44D0-958E-BA5C53274931",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.024532,
-   "longitude": -112.818206
+   "longitude": -112.818206,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Victoria Park, Camrose, AB",
@@ -4338,64 +4546,67 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "(780) 673-1555" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "EC27FF7C-F07D-4799-B09D-AE44B67718CB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 53.622348,
-   "longitude": -113.41519
+   "longitude": -113.41519,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Balwin, Edmonton, AB",
    "orgType": "CONG",
-   "address": "5003 162 Avenue NW\r\nEdmonton AB  T5Y 3K2",
+   "address": "5003 162 Avenue NW\nEdmonton AB  T5Y 3K2",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "780 328-9041" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4AF72560-ACEE-439B-96E3-4CE96256E016",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 53.622348,
-   "longitude": -113.41519
+   "longitude": -113.41519,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Clareview, Edmonton, AB",
    "orgType": "CONG",
-   "address": "5003 162 Avenue NW\r\nEdmonton AB  T5Y 3K2",
+   "address": "5003 162 Avenue NW\nEdmonton AB  T5Y 3K2",
    "languageCode": "E",
    "schedule": "Sun 16:00 Thu 19:30",
    "phones": [ "780 328-9041" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "87701C55-A6A7-4D2B-B726-0300DDC21AEF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.622348,
-   "longitude": -113.41519
+   "longitude": -113.41519,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Highlands, Edmonton, AB",
@@ -4405,110 +4616,115 @@
    "schedule": "Sun 10:00 Thu 19:30",
    "relatedLanguageCodes": [ "VT" ],
    "phones": [ "780-456-2342" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DB22AD2A-DAC6-4015-B948-9DF8F1E75264",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 53.622348,
-   "longitude": -113.41519
+   "longitude": -113.41519,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Steele Heights, Edmonton, AB",
    "orgType": "CONG",
-   "address": "5003 162 Avenue NW\r\nEdmonton AB  T5Y 3K2",
+   "address": "5003 162 Avenue NW\nEdmonton AB  T5Y 3K2",
    "languageCode": "E",
    "schedule": "Sat 10:30 Tue 19:30",
    "phones": [ "(780) 328-9040" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F9EB9D30-F833-4F03-9196-F553933A2ECE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.622348,
-   "longitude": -113.41519
+   "longitude": -113.41519,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Highlands-Vietnamese - Highlands, Edmonton, AB",
    "orgType": "GROUP",
-   "address": "5003 162 Avenue NW\r\nEdmonton AB  T5Y 3K2",
+   "address": "5003 162 Avenue NW\nEdmonton AB  T5Y 3K2",
    "languageCode": "VT",
    "schedule": "Sun 10:00 Thu 19:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "780-456-2342" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "013C94A4-6871-43AC-99B4-B675A9469FE9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.622348,
-   "longitude": -113.41519
+   "longitude": -113.41519,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Tagalog North, Edmonton, AB",
    "orgType": "CONG",
-   "address": "5003 162 Avenue NW\r\nEdmonton AB  T5Y 3K2",
+   "address": "5003 162 Avenue NW\nEdmonton AB  T5Y 3K2",
    "languageCode": "TG",
    "schedule": "Sun 13:00 Wed 19:30",
    "phones": [ "(780) 922-6036" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4FA749E6-039A-412A-BD3A-70AAB28069E7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.622348,
-   "longitude": -113.41519
+   "longitude": -113.41519,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "River Valley French, Edmonton, AB",
    "orgType": "CONG",
-   "address": "5003 162 Avenue NW\r\nEdmonton AB  T5Y 3K2",
+   "address": "5003 162 Avenue NW\nEdmonton AB  T5Y 3K2",
    "languageCode": "F",
    "schedule": "Sat 15:00 Wed 19:30",
    "relatedLanguageCodes": [ "CR" ],
    "phones": [ "780-456-2342" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D97B52B7-B672-498C-A7FC-2093C706C900",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.514085,
-   "longitude": -113.236354
+   "longitude": -113.236354,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Maplewood, Sherwood Park, AB",
@@ -4517,20 +4733,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "780-467-2866" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "E9FE54C8-EE57-40B6-9923-FBBA0ECCE583",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.514085,
-   "longitude": -113.236354
+   "longitude": -113.236354,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Sherwood Heights, Sherwood Park, AB",
@@ -4539,20 +4756,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:00",
    "phones": [ "780-467-2866" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "D635E897-D609-4897-AF8A-8BD7E01744A7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 54.156431,
-   "longitude": -113.832157
+   "longitude": -113.832157,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Westlock, AB",
@@ -4561,20 +4779,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "780-349 1352" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CAC554C5-CCDB-4737-B316-7FAC2BA254F9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.700684,
-   "longitude": -113.211694
+   "longitude": -113.211694,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Riverview, Fort Saskatchewan, AB",
@@ -4583,20 +4802,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:30",
    "phones": [ "(780) 912-3549" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6E0C58AE-5F3C-4748-BE77-4FDD008CCDD4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.700684,
-   "longitude": -113.211694
+   "longitude": -113.211694,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Sherridon Heights, Fort Saskatchewan, AB",
@@ -4605,42 +4825,44 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "(780) 912-3549" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "45C4541F-9D94-47BA-BA7C-97488EB4A084",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 55.278282,
-   "longitude": -114.7633
+   "longitude": -114.7633,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Slave Lake, AB",
    "orgType": "CONG",
    "address": "400 7 Street SE\r\nSlave Lake AB  T0G 2A3",
    "languageCode": "E",
-   "schedule": "Sun 10:30 Tue 19:30",
+   "schedule": "Sun 10:30 Wed 19:30",
    "phones": [ "780-805-1403" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "8B19C6B5-31EC-441A-AAB7-D74FC08EE481",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.303529,
-   "longitude": -112.782095
+   "longitude": -112.782095,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Tofield, AB",
@@ -4649,20 +4871,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "780-990-9495" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "34B44CD1-A810-4E25-9E58-8317F7CFA2EC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.503176,
-   "longitude": -112.04289
+   "longitude": -112.04289,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Vegreville, AB",
@@ -4671,33 +4894,34 @@
    "languageCode": "E",
    "schedule": "Sun 10:30 Wed 19:30",
    "phones": [ "(587) 804-5813" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "697A31B4-75CC-4033-A9AE-CCDA4C182C38",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 54.719157,
-   "longitude": -113.233113
+   "longitude": -113.233113,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Athabasca, AB",
    "orgType": "CONG",
    "address": "Range Road 222 & Highway 55\r\nAthabasca AB  T9S 1B1",
    "languageCode": "E",
-   "schedule": "Sun 10:30 Thu 19:30",
+   "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "780-609-0605" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  }
 ]

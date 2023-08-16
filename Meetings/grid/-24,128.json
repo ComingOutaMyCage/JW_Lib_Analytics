@@ -2,10 +2,11 @@
  {
   "geoId": "58DA8167-2668-428F-8A9E-4643D428C4C1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -23.71812,
-   "longitude": 133.873436
+   "longitude": 133.873436,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Alice Springs - NT",
@@ -14,11 +15,11 @@
    "languageCode": "E",
    "schedule": "Sat 14:30 Wed 19:00",
    "phones": [ "08 89535462" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

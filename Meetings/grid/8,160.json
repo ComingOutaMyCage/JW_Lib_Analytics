@@ -2,10 +2,11 @@
  {
   "geoId": "4CC94001-32DE-417C-B521-D5B9C56BF2CB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 8.782872,
-   "longitude": 167.737789
+   "longitude": 167.737789,
+   "iso": "SLB"
   },
   "properties": {
    "orgName": "Ebeye Congregation",
@@ -14,11 +15,11 @@
    "languageCode": "MH",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "+16922353201" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

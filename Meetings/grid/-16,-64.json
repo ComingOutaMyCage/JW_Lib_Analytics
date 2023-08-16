@@ -2,10 +2,11 @@
  {
   "geoId": "3C11DFD0-78B9-4D29-8030-AA104EADA2B8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.241,
-   "longitude": -63.864528
+   "longitude": -63.864528,
+   "iso": "BOL"
   },
   "properties": {
    "orgName": "PUENTE SAN PABLO - BEN",
@@ -14,20 +15,21 @@
    "languageCode": "S",
    "schedule": "Sun 09:30 Fri 19:30",
    "phones": [ "+591&nbsp;77363149" ],
-   "isPrivateMtgPlace": true
+   "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D7E82B22-9FC4-4A29-8401-0B4EA9355C1C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.890966,
-   "longitude": -63.190083
+   "longitude": -63.190083,
+   "iso": "BOL"
   },
   "properties": {
    "orgName": "GUARAYOS - SCZ",
@@ -38,20 +40,44 @@
    "schedule": "Sun 09:30 Thu 19:30",
    "relatedLanguageCodes": [ "QUB" ],
    "phones": [ "75558696 - 77640037" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "52CB3486-D2A4-4E80-928C-3832AA4E63A1",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -15.912388,
+   "longitude": -61.446438,
+   "iso": "BOL"
+  },
+  "properties": {
+   "orgName": "Santa Rosa de la Roca - SAN IGNACIO DE VELASCO - SCZ",
+   "orgType": "GROUP",
+   "address": "Zona de la Posta de Salud\r\nFamilia Mojica\r\nSANTA ROSA DE LA ROCA, SANTA CRUZ",
+   "languageCode": "S",
+   "schedule": "Sat 19:00 Thu 19:30",
+   "phones": [ "72187770" ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
+  "firstSeen": "2023-06-14"
  },
  {
   "geoId": "B4CADC7B-C32E-48BF-A6BD-56491B050760",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.065216,
-   "longitude": -63.569709
+   "longitude": -63.569709,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "São Francisco do Guaporé - RO",
@@ -59,24 +85,22 @@
    "address": "R. Tiradentes, 3630\r\nCidade Baixa\r\nSão Francisco do Guaporé, RO\r\n76935-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
-   "phones": [
-    "(69) 9 8426-7531",
-    "(69) 9 8405-6232"
-   ],
-   "isPrivateMtgPlace": false
+   "phones": [ "69 993937287" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "734FF52A-E099-4811-95B1-94FD7B03998E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.018672,
-   "longitude": -59.970192
+   "longitude": -59.970192,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Vila Bela da Santíssima Trindade - MT",
@@ -85,20 +109,21 @@
    "languageCode": "T",
    "schedule": "Sun 09:00 Thu 19:30",
    "phones": [ "(65)984462859" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C33A700B-FD4B-43C0-8C2F-B84AE001221E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.773236,
-   "longitude": -63.036076
+   "longitude": -63.036076,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Seringueiras - RO",
@@ -107,20 +132,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "69 98472-3166/ 993059069" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "8F8426FF-5F1D-4362-9A35-DB50B3ED13EC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.239084,
-   "longitude": -59.330782
+   "longitude": -59.330782,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jardim Bela Vista - Pontes e Lacerda MT",
@@ -129,20 +155,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "65992817155" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EDEEC7A9-AC96-4987-9EDA-E81515BCE5F8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.227209,
-   "longitude": -59.335543
+   "longitude": -59.335543,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Central - Pontes e Lacerda MT",
@@ -151,20 +178,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "(65) 99254-9948" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EF2D81B0-FDD7-4703-88D9-C8132E39034B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.69337,
-   "longitude": -62.714189
+   "longitude": -62.714189,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "São Miguel do Guaporé - RO",
@@ -173,42 +201,44 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "(69) 99294-7896" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "FC95DEEE-A39D-487C-8FE3-DE17C83EC307",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
-   "latitude": -15.337895,
-   "longitude": -58.877763
+   "latitude": -15.337751,
+   "longitude": -58.877845,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jauru - MT",
    "orgType": "CONG",
-   "address": "Av. Padre Nazareno Lanceloti, 1537\r\nCentro\r\nJauru, MT\r\n78255-000",
+   "address": "Av. Padre Nazareno Lanciotti, 1537\r\nCruzeiro\r\nJauru, MT\r\n78255-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:15",
    "phones": [ "65 99244-0280" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C5D09EEE-DD15-413D-91FE-6A2BFEB37169",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.568444,
-   "longitude": -63.619063
+   "longitude": -63.619063,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Campo Novo de Rondônia - RO",
@@ -217,20 +247,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "CC659253-7056-4873-9DB1-806EDF20AA6B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.208085,
-   "longitude": -63.832659
+   "longitude": -63.832659,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Buritis - RO",
@@ -239,42 +270,44 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Thu 19:30",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "E8DD5B3C-47D9-47C0-8540-FE9849C1C4EA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.208085,
-   "longitude": -63.832659
+   "longitude": -63.832659,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Rio Pardo, RO - Buritis - RO",
    "orgType": "GROUP",
    "address": "R. Primo Amaral, 2119\r\nSetor 3\r\nBuritis, RO\r\n76880-000",
    "languageCode": "T",
-   "schedule": "Sat 19:00 Thu 19:30",
+   "schedule": "Sat 19:30 Thu 19:30",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "D298586E-1E07-4278-A9B6-175DFF5CD185",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.727804,
-   "longitude": -62.309562
+   "longitude": -62.309562,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Nova Brasilândia D'Oeste - RO",
@@ -283,42 +316,44 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "(69) 98458-8516 / (69) 98112-8291" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5B6B474E-440B-4C83-BD21-9C6BA28290BC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -13.196164,
-   "longitude": -60.814122
+   "longitude": -60.814122,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Cerejeiras - RO",
    "orgType": "CONG",
    "address": "R. São Paulo, 1582\r\nCentro\r\nCerejeiras, RO\r\n78997-000",
    "languageCode": "T",
-   "schedule": "Sat 19:00 Thu 19:30",
+   "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "69/99350-3976" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "862FA443-9922-444C-BC90-289FF05E9CE4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.132908,
-   "longitude": -61.864408
+   "longitude": -61.864408,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Alto Alegre dos Parecis - RO",
@@ -327,20 +362,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Tue 19:30",
    "phones": [ "(69) 98112-8306" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A7CCAEF4-DC18-4DF2-9934-8A888253F912",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.92764,
-   "longitude": -61.996379
+   "longitude": -61.996379,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Alta Floresta D'Oeste - RO",
@@ -349,20 +385,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Thu 19:30",
    "phones": [ "(0xx69)9 9951-6502" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8C8FF701-C0F8-45CB-A0A7-14279A6D2071",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.476601,
-   "longitude": -58.346951
+   "longitude": -58.346951,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Araputanga - MT",
@@ -371,20 +408,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "65 984557382" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9028B788-D33C-42C4-87B9-31883C975C7F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.626182,
-   "longitude": -58.173686
+   "longitude": -58.173686,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "São José dos Quatro Marcos - MT",
@@ -393,20 +431,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "65 992238574" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4BC1F406-7537-4A2D-A0E6-5B2B8CBFBD86",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.677287,
-   "longitude": -58.091683
+   "longitude": -58.091683,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Mirassol D'Oeste - MT",
@@ -415,20 +454,21 @@
    "languageCode": "T",
    "schedule": "Sun 19:00 Thu 19:30",
    "phones": [ "(65) 99642-8689" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1A0F9E50-2CC8-4735-BBE8-90938658C30F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.030363,
-   "longitude": -62.675713
+   "longitude": -62.675713,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Mirante da Serra - RO",
@@ -437,20 +477,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "(69) 9 9372-8199" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A705D9C4-34CD-45F2-BB14-14BBF651FC18",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.907951,
-   "longitude": -61.778859
+   "longitude": -61.778859,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Santa Luzia D'Oeste - RO",
@@ -459,20 +500,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Thu 19:30",
    "phones": [ "69 99603-9891" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "5A82CA44-C817-48D5-91DB-3C97E8EF90A9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -13.128387,
-   "longitude": -60.540736
+   "longitude": -60.540736,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Cabixi, RO - Colorado do Oeste - RO",
@@ -481,20 +523,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "69-99340-9978" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8FA625FE-5FB3-43B9-AE7F-317E73FF52F8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -13.128387,
-   "longitude": -60.540736
+   "longitude": -60.540736,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Colorado do Oeste - RO",
@@ -503,42 +546,44 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "69-99340-9978" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "99839C83-F1DB-450B-92AC-8353E1CB4FB7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
-   "latitude": -11.352179,
-   "longitude": -62.28378
+   "latitude": -11.353065,
+   "longitude": -62.285494,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Alvorada D'Oeste - RO",
    "orgType": "CONG",
-   "address": "R. Vinicius de Moraes, 4433\r\nlotes 14 e 15, Quadra 15, Setor 03\r\nCentro\r\nAlvorada D'Oeste, RO\r\n78969-000",
+   "address": "R. Vinicius de Moraes, 4433\r\nCentro\r\nAlvorada D'Oeste, RO\r\n78969-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "(69)999295835" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-05-29"
  },
  {
   "geoId": "1DC16F60-3963-4B59-BD3B-F14521A69AB4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.258664,
-   "longitude": -63.297417
+   "longitude": -63.297417,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Monte Negro - RO",
@@ -547,20 +592,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "69 981075371" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A3E01D7A-6E50-4C69-8E02-A43D7DBC2D4B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.610249,
-   "longitude": -57.913701
+   "longitude": -57.913701,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Curvelândia - MT",
@@ -569,20 +615,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "65-99905-4082" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B5A5F13D-E08E-446D-8C42-9999DA5D9093",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.729107,
-   "longitude": -61.780501
+   "longitude": -61.780501,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Central - Rolim de Moura RO",
@@ -591,20 +638,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
    "phones": [ "69 984885850" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "784F01BE-35C4-43B8-BBD6-53ED76A79DC2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.729107,
-   "longitude": -61.780501
+   "longitude": -61.780501,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Cidade Alta - Rolim de Moura RO",
@@ -613,42 +661,44 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "693442-2028" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "FABB8AC5-B1BE-49A7-800C-71BB8C836671",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.129776,
-   "longitude": -62.365965
+   "longitude": -62.365965,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Urupá - RO",
    "orgType": "CONG",
    "address": "R. Cabo Barbosa, 1463\r\nCentro\r\nUrupá, RO\r\n78955-000",
    "languageCode": "T",
-   "schedule": "Sat 18:30 Thu 19:00",
-   "phones": [ "(69) 9 9391- 6574" ],
-   "isPrivateMtgPlace": false
+   "schedule": "Sat 19:00 Thu 19:00",
+   "phones": [ "(66) 9 9668-7132" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CA785AE9-17F0-4D60-9F08-859377D5F885",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.554542,
-   "longitude": -60.903537
+   "longitude": -60.903537,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Chupinguaia - RO",
@@ -657,20 +707,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Thu 19:30",
    "phones": [ "(069) 981112910" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6E183A2A-099F-4E60-A20D-3F66DD0CA828",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -13.664022,
-   "longitude": -59.79113
+   "longitude": -59.79113,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Comodoro - MT",
@@ -680,20 +731,21 @@
    "schedule": "Sat 19:30 Thu 19:30",
    "relatedLanguageCodes": [ "LSB" ],
    "phones": [ "(65) 9-9231-3544" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DB5E3E1A-DD82-47DC-92A0-9B3542FF9E26",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -13.664022,
-   "longitude": -59.79113
+   "longitude": -59.79113,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Libras - Comodoro, MT - Comodoro - MT",
@@ -703,20 +755,21 @@
    "schedule": "Sat 19:30 Thu 19:30",
    "relatedLanguageCodes": [ "T" ],
    "phones": [ "(65) 9-9231-3544" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4221DFD6-FDB1-46CE-8FD8-7F99F95B27D5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.910105,
-   "longitude": -61.513731
+   "longitude": -61.513731,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "São Felipe d'Oeste - RO",
@@ -725,20 +778,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "069981203316" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "F9EE8B11-E568-42A7-BEB6-4CC7D7F687BE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.236903,
-   "longitude": -58.111248
+   "longitude": -58.111248,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Rio Branco - MT",
@@ -747,20 +801,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "65  999697155" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E937003E-46C5-42E2-88A1-B790DDF215C7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.342269,
-   "longitude": -62.898791
+   "longitude": -62.898791,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Cacaulândia - RO",
@@ -769,20 +824,21 @@
    "languageCode": "T",
    "schedule": "Sat 18:30 Tue 19:00",
    "phones": [ "(69)981261972" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8FBDE77C-2CFB-480E-B09C-3FBF7BA53595",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.827319,
-   "longitude": -61.315869
+   "longitude": -61.315869,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Primavera de Rondônia - RO",
@@ -791,20 +847,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "69981128306" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "118FC0AE-6FE1-489F-8E06-914E000E975B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.164267,
-   "longitude": -61.904136
+   "longitude": -61.904136,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Presidente Médici - RO",
@@ -813,20 +870,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "69 999598378" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "769E874D-0215-4CBA-8F9A-C0D28506B508",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.724842,
-   "longitude": -63.311335
+   "longitude": -63.311335,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Alto Paraíso - RO",
@@ -835,20 +893,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "69 99969-9794" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EA3C065E-1B0D-4137-8B66-EEC55E459F0A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -13.72659,
-   "longitude": -59.257296
+   "longitude": -59.257296,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Campos de Júlio - MT",
@@ -857,20 +916,21 @@
    "languageCode": "T",
    "schedule": "Sun 09:00 Fri 19:30",
    "phones": [ "65 999348575" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4B4EAD1C-58C8-47CA-AEA2-376A12ACB977",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.72189,
-   "longitude": -62.255378
+   "longitude": -62.255378,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Ouro Preto do Oeste - RO",
@@ -879,20 +939,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "35 910140347" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2C144239-7E52-40FC-B379-EC073B9600E8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.920026,
-   "longitude": -63.02953
+   "longitude": -63.02953,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Central - Ariquemes RO",
@@ -901,20 +962,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Wed 19:30",
    "phones": [ "69 98411-7789" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "17306F5F-7602-47D7-940B-115BE17ECA04",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.920026,
-   "longitude": -63.02953
+   "longitude": -63.02953,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Progresso - Ariquemes RO",
@@ -923,20 +985,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "69-99986-7665" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F27C7C4F-0283-48AB-B29C-C24B67BE494E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.903069,
-   "longitude": -63.02345
+   "longitude": -63.02345,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Rota do Sol - Ariquemes RO",
@@ -945,20 +1008,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "984041422" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9887E59F-B5C9-4A23-B48B-6639CCD677A3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.43255,
-   "longitude": -62.474092
+   "longitude": -62.474092,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jaru - RO",
@@ -967,42 +1031,44 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "(69) 99356-9931" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "532C09A9-321C-46AA-B404-1B82BF7CFFDC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.427481,
-   "longitude": -61.474747
+   "longitude": -61.474747,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Vista Alegre - Cacoal RO",
    "orgType": "CONG",
    "address": "R. Raquel de Queiroz, 1308\r\nLote de terras urbano n.360, quadra 16\r\nVista Alegre\r\nCacoal, RO\r\n78975-000",
    "languageCode": "T",
-   "schedule": "Sat 19:15 Wed 19:30",
+   "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "69- 98106-6435" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "0039F934-1FD2-4EA0-A013-34BAEB608C4C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.746988,
-   "longitude": -60.13476
+   "longitude": -60.13476,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Central - Vilhena RO",
@@ -1011,20 +1077,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "69-92000-3954" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6E767A00-5F63-4FF5-BE8D-B2048676973E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.438276,
-   "longitude": -61.433724
+   "longitude": -61.433724,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Central - Cacoal RO",
@@ -1033,20 +1100,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "69-99968-3894" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "FEBE3A93-D869-4D71-8459-CEAAC35B4B25",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.438276,
-   "longitude": -61.433724
+   "longitude": -61.433724,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Floresta - Cacoal RO",
@@ -1055,42 +1123,44 @@
    "languageCode": "T",
    "schedule": "Sun 19:00 Thu 19:30",
    "phones": [ "69992363954" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "DD95DBE9-F87D-442B-A34B-9BB39EF2F9F3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.507524,
-   "longitude": -61.358695
+   "longitude": -61.358695,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Riozinho - Cacoal RO",
    "orgType": "CONG",
    "address": "R. Capitão Rui Teixeira, 1896.\r\nRiozinho\r\nCacoal, RO\r\n76969-000",
    "languageCode": "T",
-   "schedule": "Sat 18:30 Wed 19:30",
+   "schedule": "Sat 18:45 Wed 19:30",
    "phones": [ "+55 69 99257-2233" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "9186676A-E91B-4E97-94B7-08048CCCBE83",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.675645,
-   "longitude": -61.190028
+   "longitude": -61.190028,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Central - Pimenta Bueno RO",
@@ -1099,20 +1169,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "E45779F5-81C5-47FA-A3E7-34158D2CA826",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.727108,
-   "longitude": -60.138099
+   "longitude": -60.138099,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jardim América - Vilhena RO",
@@ -1122,20 +1193,21 @@
    "schedule": "Sat 19:00 Thu 19:30",
    "relatedLanguageCodes": [ "LSB" ],
    "phones": [ "69 98130-2051" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "812448AC-F320-411E-AC7A-3F414EF1BF4D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -12.727108,
-   "longitude": -60.138099
+   "longitude": -60.138099,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Libras - Vilhena, RO (Jardim América) - Jardim América - Vilhena RO",
@@ -1145,20 +1217,21 @@
    "schedule": "Sun 09:30 Wed 19:30",
    "relatedLanguageCodes": [ "T" ],
    "phones": [ "69 98130-2051" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "57DEF77F-E606-47CC-A681-AAD11C59FF0C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -11.68659,
-   "longitude": -61.171622
+   "longitude": -61.171622,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jardim - Pimenta Bueno RO",
@@ -1167,20 +1240,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "69981316030" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "45910E4A-DC11-41B6-8A1E-91542AAADD3D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.735769,
-   "longitude": -60.117641
+   "longitude": -60.117641,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Nova Vilhena - Vilhena RO",
@@ -1189,20 +1263,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
    "phones": [ "(69) 99211- 5511" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A83EACFC-9DF1-4C07-B59D-F7923BE884BF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.735769,
-   "longitude": -60.117641
+   "longitude": -60.117641,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jardim Vitória - Vilhena RO",
@@ -1212,43 +1287,45 @@
    "schedule": "Sat 19:00 Wed 19:30",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "(69)98477-3320" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F4D27C38-EE45-423D-8F84-7C375C6C3881",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -12.735769,
-   "longitude": -60.117641
+   "longitude": -60.117641,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Espanhol - Vilhena RO (Jardim Vitória) - Jardim Vitória - Vilhena RO",
    "orgType": "GROUP",
    "address": "R. Quarenta e Cinco, 890\r\nSetor 4 - Nova Vilhena\r\nVilhena, RO\r\n78995-000",
    "languageCode": "S",
-   "schedule": "Sun 09:00",
+   "schedule": "Sun 09:00 undefined null",
    "relatedLanguageCodes": [ "T" ],
    "phones": [ "(69)98477-3320" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-05-29"
  },
  {
   "geoId": "C7F1348D-A98A-4806-8235-909EDDEB1529",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.869088,
-   "longitude": -61.970143
+   "longitude": -61.970143,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jardim - Ji-Paraná RO",
@@ -1256,21 +1333,23 @@
    "address": "R. Gonçalves Dias, 1467\r\nJardim Presidencial\r\nJi-Paraná, RO\r\n76901-022",
    "languageCode": "T",
    "schedule": "Sun 19:00 Thu 19:30",
+   "relatedLanguageCodes": [ "LSB" ],
    "phones": [ "69981070324" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E9767A84-A89C-4D78-877D-AD7249402B5E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.869088,
-   "longitude": -61.970143
+   "longitude": -61.970143,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Colina - Ji-Paraná RO",
@@ -1279,20 +1358,45 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "(69) 993842454" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "3CF80891-A461-41BA-831B-C919D958A232",
+  "type": "weekly",
+  "isPrimary": 0,
+  "location": {
+   "latitude": -10.869088,
+   "longitude": -61.970143,
+   "iso": "BRA"
+  },
+  "properties": {
+   "orgName": "Libras - Ji-Paraná, RO (Jardim) - Jardim - Ji-Paraná RO",
+   "orgType": "GROUP",
+   "address": "R. Gonçalves Dias, 1467\r\nJardim Presidencial\r\nJi-Paraná, RO\r\n76901-022",
+   "languageCode": "LSB",
+   "schedule": "Sun 19:00 Thu 19:30",
+   "relatedLanguageCodes": [ "T" ],
+   "phones": [ "69981070324" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "29DC7239-C1EA-415C-8819-60E1CD33C64E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.870112,
-   "longitude": -61.955914
+   "longitude": -61.955914,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Central - Ji-Paraná RO",
@@ -1301,20 +1405,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "(69) 9 9369-7946" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "74895D9E-48A9-45B7-971D-E63A3CBDF29D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.884772,
-   "longitude": -61.920846
+   "longitude": -61.920846,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Nova Brasília - Ji-Paraná RO",
@@ -1322,22 +1427,22 @@
    "address": "R. José Bezerra, 2054\r\nNova Brasília\r\nJi-Paraná, RO\r\n78960-000",
    "languageCode": "T",
    "schedule": "Sun 19:00 Thu 19:30",
-   "relatedLanguageCodes": [ "LSB" ],
-   "phones": [ "69 9 84873443" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "(69) 984873443" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "064CD04A-2F8A-412B-860A-85AE7818C59F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.884772,
-   "longitude": -61.920846
+   "longitude": -61.920846,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Orleans - Ji-Paraná RO",
@@ -1346,43 +1451,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "(69)993540129" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "3CF80891-A461-41BA-831B-C919D958A232",
-  "type": "weekly",
-  "isPrimary": true,
-  "location": {
-   "latitude": -10.884772,
-   "longitude": -61.920846
-  },
-  "properties": {
-   "orgName": "Libras - Ji-Paraná, RO (Nova Brasília) - Nova Brasília - Ji-Paraná RO",
-   "orgType": "GROUP",
-   "address": "R. José Bezerra, 2054\r\nNova Brasília\r\nJi-Paraná, RO\r\n78960-000",
-   "languageCode": "LSB",
-   "schedule": "Sun 19:00 Thu 19:30",
-   "relatedLanguageCodes": [ "T" ],
-   "phones": [ "69 9 84873443" ],
-   "isPrivateMtgPlace": false
-  },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F9591497-223A-4217-93BD-46D438CB6A51",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.277819,
-   "longitude": -63.470451
+   "longitude": -63.470451,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Projeto Triunfo - Candeias do Jamari RO",
@@ -1391,20 +1474,21 @@
    "languageCode": "T",
    "schedule": "Sat 18:00 Fri 19:30",
    "phones": [ "(69) 99386-1584" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "B6348AF3-575D-40D1-8295-392BC710CEC1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.801081,
-   "longitude": -63.884946
+   "longitude": -63.884946,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Eletronorte - Porto Velho RO",
@@ -1412,21 +1496,22 @@
    "address": "R. Joaquim Bartolo, 3567\r\nConceição\r\nPorto Velho, RO\r\n78923-600",
    "languageCode": "T",
    "schedule": "Sat 19:00 Tue 19:30",
-   "phones": [ "69981690023" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "(69) 992650912" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "E9D8E499-87C9-4E39-B593-FF3BBBB140AE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.801081,
-   "longitude": -63.884946
+   "longitude": -63.884946,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jardim Eldorado - Porto Velho RO",
@@ -1435,20 +1520,21 @@
    "languageCode": "T",
    "schedule": "Sun 09:00 Wed 19:30",
    "phones": [ "(69) 98130-8694" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "14868D22-3F30-40B4-B138-1C354C9F9EC0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.801081,
-   "longitude": -63.884946
+   "longitude": -63.884946,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Novo Horizonte - Porto Velho RO",
@@ -1457,20 +1543,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
    "phones": [ "69981164000" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "3707CBA8-65DA-4AFE-B2B6-43D770D67D1D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -8.770254,
-   "longitude": -63.900011
+   "longitude": -63.900011,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Central - Porto Velho RO",
@@ -1479,20 +1566,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "69-9.9248-9728" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "E15FC412-B788-440D-BA4D-D8849179632F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.770254,
-   "longitude": -63.900011
+   "longitude": -63.900011,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "LS - Porto Velho RO",
@@ -1501,20 +1589,21 @@
    "languageCode": "LSB",
    "schedule": "Sun 09:30 Thu 19:30",
    "phones": [ "69981205559" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "B09994D4-CF64-48BF-8BC0-83864CF0D959",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.793034,
-   "longitude": -63.868443
+   "longitude": -63.868443,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Sul - Porto Velho RO",
@@ -1523,20 +1612,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "69992287987" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "9CA83CA7-B414-4CD3-9099-E1F099E4B9A5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.775081,
-   "longitude": -63.883267
+   "longitude": -63.883267,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Areal da Floresta - Porto Velho RO",
@@ -1545,20 +1635,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
    "phones": [ "69 99257-7882" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "2A046E67-8FC3-492B-880F-E0B166998D13",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -8.756027,
-   "longitude": -63.895099
+   "longitude": -63.895099,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Norte - Porto Velho RO",
@@ -1567,20 +1658,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "69 99929-3388" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "4390D242-79E8-4D42-ACAB-EE0BE6460809",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.756027,
-   "longitude": -63.895099
+   "longitude": -63.895099,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Espanhola - Porto Velho RO",
@@ -1588,21 +1680,22 @@
    "address": "R. Salgado Filho, 2495\r\nSão Cristovão\r\nPorto Velho, RO\r\n76804-054",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 19:30",
-   "phones": [ "+55-69-9-9283-5258" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "+55-69-9-8110-6452" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "FE2AF77E-E33C-42E6-B674-4FB5720ED81C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.739124,
-   "longitude": -63.895322
+   "longitude": -63.895322,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Pedrinhas - Porto Velho RO",
@@ -1611,20 +1704,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
    "phones": [ "69 99267-1623" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-05-29"
  },
  {
   "geoId": "86C53F27-178A-48B8-85F5-C2329942CA81",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.739124,
-   "longitude": -63.895322
+   "longitude": -63.895322,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Rio Madeira - Porto Velho RO",
@@ -1633,20 +1727,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "69 99268-8014" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-05-29"
  },
  {
   "geoId": "D678DD45-9BF5-4751-A536-0C60047EE5B2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.763037,
-   "longitude": -63.870651
+   "longitude": -63.870651,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Nova Porto Velho - Porto Velho RO",
@@ -1656,20 +1751,21 @@
    "schedule": "Sun 18:00 Wed 19:30",
    "relatedLanguageCodes": [ "CR" ],
    "phones": [ "(69) 99265-1355" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-02-20"
  },
  {
   "geoId": "ED7AD02B-8BCD-4FF3-9779-D445B835E792",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.763037,
-   "longitude": -63.870651
+   "longitude": -63.870651,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Guaporé - Porto Velho RO",
@@ -1678,20 +1774,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "69999703327" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-02-20"
  },
  {
   "geoId": "9321DDC0-2681-4C41-B47F-27AFAA7DE646",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -8.763037,
-   "longitude": -63.870651
+   "longitude": -63.870651,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Crioulo Haitiano - Porto Velho, RO (Nova Porto Velho) - Nova Porto Velho - Porto Velho RO",
@@ -1701,20 +1798,21 @@
    "schedule": "Sun 18:00 Wed 19:30",
    "relatedLanguageCodes": [ "T" ],
    "phones": [ "(69) 99265-1355" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-02-20"
  },
  {
   "geoId": "281206FB-7070-413C-9D3E-98E3A8AAF117",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.764041,
-   "longitude": -63.836723
+   "longitude": -63.836723,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Leste - Porto Velho RO",
@@ -1722,21 +1820,22 @@
    "address": "R. Orlando Ferreira, 8180\r\nTancredo Neves\r\nPorto Velho, RO\r\n78910-690",
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
-   "phones": [ "981091826" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "(69) 98130-1166" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-02-20"
  },
  {
   "geoId": "92172806-108A-4859-AC4A-27A8259141B0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.764041,
-   "longitude": -63.836723
+   "longitude": -63.836723,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Mariana - Porto Velho RO",
@@ -1745,20 +1844,21 @@
    "languageCode": "T",
    "schedule": "Sun 08:30 Wed 19:30",
    "phones": [ "69 99206-4406" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-02-20"
  },
  {
   "geoId": "E8A62473-4242-45A9-B01A-75383C7FEE10",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.764041,
-   "longitude": -63.836723
+   "longitude": -63.836723,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jardim Santana - Porto Velho RO",
@@ -1767,20 +1867,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Tue 19:30",
    "phones": [ "69 993486355" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-02-20"
  },
  {
   "geoId": "6E8781AE-2CF2-43FB-8EA5-281D73087D1C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.747952,
-   "longitude": -63.851706
+   "longitude": -63.851706,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Quatro de Janeiro - Porto Velho RO",
@@ -1789,20 +1890,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
    "phones": [ "(69) 99240-5995" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "51668F84-D64E-44C7-8E15-94BE3FEF2943",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.747952,
-   "longitude": -63.851706
+   "longitude": -63.851706,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Aponiã - Porto Velho RO",
@@ -1811,20 +1913,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Tue 19:30",
    "phones": [ "(69) 99936-7699 | ALEX RODRIGUES" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "9983F296-475F-4816-A800-BA2D3C2EC990",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.747952,
-   "longitude": -63.851706
+   "longitude": -63.851706,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Madeira Mamoré - Porto Velho RO",
@@ -1833,20 +1936,21 @@
    "languageCode": "T",
    "schedule": "Sun 09:00 Wed 19:30",
    "phones": [ "69 3215-2144" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "1B5F7F65-53B5-4B6F-A31E-6CE050B7AC31",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.247498,
-   "longitude": -62.347773
+   "longitude": -62.347773,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Theobroma, RO - Jaru - RO",
@@ -1855,20 +1959,21 @@
    "languageCode": "T",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "(69) 99356-9931" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EC766765-2F27-4B7D-A1D4-7C74F968FE78",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.780381,
-   "longitude": -63.803322
+   "longitude": -63.803322,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Marcos Freire - Porto Velho RO",
@@ -1877,20 +1982,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
    "phones": [ "(69) 98157-0010" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "DC986B87-09A5-499E-B2D9-4ECF6AB399DB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -11.525473,
-   "longitude": -61.016543
+   "longitude": -61.016543,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Espigão D'Oeste - RO",
@@ -1900,20 +2006,21 @@
    "schedule": "Sat 19:00 Wed 19:30",
    "relatedLanguageCodes": [ "PMR" ],
    "phones": [ "69 98131-4669" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "B8545DED-0B42-4203-B66F-C87515D83DB7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.525473,
-   "longitude": -61.016543
+   "longitude": -61.016543,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Pomerano - Espigão D'Oeste, RO - Espigão D'Oeste - RO",
@@ -1923,20 +2030,21 @@
    "schedule": "Sat 19:00 Wed 19:30",
    "relatedLanguageCodes": [ "T" ],
    "phones": [ "69 98131-4669" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "4EDB8F4C-986E-4520-A55E-782280C4ED60",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -8.791213,
-   "longitude": -63.700638
+   "longitude": -63.700638,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Central - Candeias do Jamari RO",
@@ -1945,21 +2053,22 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Fri 19:30",
    "relatedLanguageCodes": [ "LSB" ],
-   "phones": [ "69 9 9960-5633" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "69 9 81196731" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "5E7CA040-0EF7-467B-A315-21158545EBF4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.190793,
-   "longitude": -63.182263
+   "longitude": -63.182263,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Itapuã do Oeste - RO",
@@ -1968,20 +2077,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "(69) 9. 9251-7644" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "780C19C2-715B-4D48-BF66-3764FC64BF65",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -13.546586,
-   "longitude": -58.815203
+   "longitude": -58.815203,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Sapezal - MT",
@@ -1990,20 +2100,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "(65)999194820-(65)999975450-(65)999664041" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "67C6FD42-839F-461E-9985-E6C076A96D1C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.067892,
-   "longitude": -57.188395
+   "longitude": -57.188395,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Barra do Bugres - MT",
@@ -2013,20 +2124,21 @@
    "schedule": "Sat 19:00 Wed 19:30",
    "relatedLanguageCodes": [ "LSB" ],
    "phones": [ "65999023950" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "157CE349-4F12-416A-9EFA-3111C1087D06",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -15.067892,
-   "longitude": -57.188395
+   "longitude": -57.188395,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Libras - Barra do Bugres, MT - Barra do Bugres - MT",
@@ -2036,20 +2148,21 @@
    "schedule": "Sat 19:00 Wed 19:30",
    "relatedLanguageCodes": [ "T" ],
    "phones": [ "65999023950" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D416B579-7F06-4768-9C81-65E777A854E5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.771981,
-   "longitude": -56.345863
+   "longitude": -56.345863,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Nossa Senhora do Livramento - MT",
@@ -2058,20 +2171,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "65996074031" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7F4ACE39-7092-47AA-B6F0-09E42A4AC4F5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -14.61773,
-   "longitude": -57.487712
+   "longitude": -57.487712,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Central - Tangará da Serra MT",
@@ -2080,20 +2194,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "65 992769015" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "71CA9820-BB63-477A-B8DB-6A38375A14C9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -14.61773,
-   "longitude": -57.487712
+   "longitude": -57.487712,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Vila Alta - Tangará da Serra MT",
@@ -2102,20 +2217,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
    "phones": [ "(65)  9- 9276- 9015" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "58F38C03-6A0D-4395-8D08-8B45AF4B94F6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -14.778906,
-   "longitude": -57.287473
+   "longitude": -57.287473,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Nova Olimpia - MT",
@@ -2124,20 +2240,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "65999328844" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EF22A46C-C0AF-4819-AC33-2EB148D42439",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.855587,
-   "longitude": -62.172832
+   "longitude": -62.172832,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Vale do Anari - RO",
@@ -2146,20 +2263,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "(069)992608936" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CBFB744F-0ED2-4B3A-BDD2-CA57FBEA3F97",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.89735,
-   "longitude": -56.080837
+   "longitude": -56.080837,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Central - Cuiabá MT",
@@ -2168,20 +2286,21 @@
    "languageCode": "T",
    "schedule": "Sun 16:00 Wed 19:30",
    "phones": [ "(65)981626720" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "49A36635-7598-4D40-93EE-1E08841E98C8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.89735,
-   "longitude": -56.080837
+   "longitude": -56.080837,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Pedregal - Cuiabá MT",
@@ -2190,20 +2309,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Tue 19:30",
    "phones": [ "(065) 99602-4934" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "121E8016-76BF-4292-9FCD-FEB59AA4BE4E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.89735,
-   "longitude": -56.080837
+   "longitude": -56.080837,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Bela Vista - Cuiabá MT",
@@ -2212,20 +2332,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:30 Thu 19:30",
    "phones": [ "65981418603" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "22F3C713-7AD6-4FFF-8F40-DEDA72E6DDBC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -15.89735,
-   "longitude": -56.080837
+   "longitude": -56.080837,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Crioula do Haiti - Cuiabá MT",
@@ -2234,20 +2355,21 @@
    "languageCode": "CR",
    "schedule": "Sun 09:15 Fri 19:30",
    "phones": [ "(65)9.98018085" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5E0D76E5-5597-40EC-9329-152A0D163A3B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.367223,
-   "longitude": -62.587218
+   "longitude": -62.587218,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Cujubim - RO",
@@ -2256,20 +2378,21 @@
    "languageCode": "T",
    "schedule": "Sat 18:30 Wed 19:30",
    "phones": [ "(69) 99233-0696" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "54DCAE53-A543-490F-9C95-17FF290EF1BF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.862215,
-   "longitude": -56.074907
+   "longitude": -56.074907,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Santo Antônio do Leverger - MT",
@@ -2278,20 +2401,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "(65) 98101-6742" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5F118FD8-E61D-4627-946B-C8E6B64CD9BE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.676707,
-   "longitude": -56.159939
+   "longitude": -56.159939,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Ouro Verde - Várzea Grande MT",
@@ -2299,21 +2423,22 @@
    "address": "R. Engenho Velho, Quadra 93, Lote 1\r\nJardim Ouro Verde\r\nVárzea Grande, MT\r\n78148-125",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
-   "phones": [ "65 984422590" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "65 99902-0031" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FAF923C4-B410-4715-8A0E-B72138DA7BD5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.65521,
-   "longitude": -56.179561
+   "longitude": -56.179561,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Asa Bela - Várzea Grande MT",
@@ -2322,20 +2447,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "(65) 99285-7552" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1DA891F3-B573-460B-A457-E3547C029F9E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.65912,
-   "longitude": -56.166353
+   "longitude": -56.166353,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Marajoara - Várzea Grande MT",
@@ -2344,20 +2470,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Wed 19:30",
    "phones": [ "9.9354-0408" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4E4A1443-F2BC-427B-89CC-833C25520C43",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.65912,
-   "longitude": -56.166353
+   "longitude": -56.166353,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "São Mateus - Várzea Grande MT",
@@ -2366,20 +2493,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Tue 19:30",
    "phones": [ "65 9239-9510" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "383211D3-05F6-4FCF-8D3F-239749796CA0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.626927,
-   "longitude": -56.189845
+   "longitude": -56.189845,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Novo Mundo - Várzea Grande MT",
@@ -2388,20 +2516,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "65-981248701" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A8F3D714-4B66-4DBA-A927-73FC94E0E23B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.636305,
-   "longitude": -56.152974
+   "longitude": -56.152974,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jardim Glória - Várzea Grande MT",
@@ -2410,20 +2539,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
    "phones": [ "65999011000" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C2839800-317E-487B-BAF1-DADDA3C7CB0F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.622414,
-   "longitude": -56.16656
+   "longitude": -56.16656,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jardim Imperial - Várzea Grande MT",
@@ -2432,20 +2562,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
    "phones": [ "65 - 9 93273184" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "369DD3F4-03DF-4481-80C0-3B7BF6841BD7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.622414,
-   "longitude": -56.16656
+   "longitude": -56.16656,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jardim dos Estados - Várzea Grande MT",
@@ -2454,20 +2585,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "(65) 99907-2782" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "68D0E7E4-FC1F-423B-9A91-43F3ECE1537B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.649708,
-   "longitude": -56.129052
+   "longitude": -56.129052,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Central - Várzea Grande MT",
@@ -2476,20 +2608,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
    "phones": [ "65 984223819" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3E68F12D-9BF8-4730-9384-6E662924E7DE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.649708,
-   "longitude": -56.129052
+   "longitude": -56.129052,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "LS - Várzea Grande MT",
@@ -2498,20 +2631,21 @@
    "languageCode": "LSB",
    "schedule": "Sat 17:30 Wed 19:15",
    "phones": [ "(62) 982770201" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4703F886-FE5A-44CC-A86C-0F069BC96059",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.729374,
-   "longitude": -56.045513
+   "longitude": -56.045513,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Nova Esperança, Cuiabá, MT - Parque Atalaia - Cuiabá MT",
@@ -2520,20 +2654,21 @@
    "languageCode": "T",
    "schedule": "Sun 07:30 Thu 19:30",
    "phones": [ "65 98125-8460" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-05-29"
  },
  {
   "geoId": "259BF9AC-7231-44CB-BA9B-24A060596DFE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -14.728814,
-   "longitude": -57.045367
+   "longitude": -57.045367,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Denise - MT",
@@ -2541,21 +2676,22 @@
    "address": "Av. Julio José de Campos,1.444\r\nBoa Esperanã\r\nDenise, MT\r\n78380-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Tue 19:30",
-   "phones": [ "(65) 9.9601-1773" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "(66) 9 9648-9590" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DD2DAF54-96B8-4600-B5AB-C82798F8D1C4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.667591,
-   "longitude": -56.096073
+   "longitude": -56.096073,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Parque do Lago - Várzea Grande MT",
@@ -2564,20 +2700,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "6599231-9494" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F6ADEBA0-3F49-46BD-80B4-69AD74AA61F0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.64042,
-   "longitude": -56.107774
+   "longitude": -56.107774,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Cristo Rei - Várzea Grande MT",
@@ -2586,20 +2723,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "65984541071" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3BF629B1-89C7-4C2D-BE07-6C240AA379C6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.63397,
-   "longitude": -56.104539
+   "longitude": -56.104539,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Comunidade da Vista Alegre, Várzea Grande, MT - Marajoara - Várzea Grande MT",
@@ -2608,20 +2746,21 @@
    "languageCode": "T",
    "schedule": "Sun 09:00 Thu 19:30",
    "phones": [ "9.9354-0408" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E5E7A31B-6BEB-486B-A058-696C48FD7388",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.239567,
-   "longitude": -56.49222
+   "longitude": -56.49222,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jangada - MT",
@@ -2630,42 +2769,44 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "65984785930" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3FA329CB-6C48-40C4-A5DB-5C83EF68C02B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.60939,
-   "longitude": -56.120564
+   "longitude": -56.120564,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Cidade Alta - Cuiabá MT",
    "orgType": "CONG",
    "address": "R. Maurício Cardoso, 193\r\nCidade Alta\r\nCuiabá, MT\r\n78030-330",
    "languageCode": "T",
-   "schedule": "Sun 18:30 Thu 19:45",
+   "schedule": "Sun 19:00 Thu 19:45",
    "phones": [ "(65)981166161" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8D64C711-4971-4757-A157-44A367EDB088",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.60939,
-   "longitude": -56.120564
+   "longitude": -56.120564,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Flamboyant - Cuiabá MT",
@@ -2674,20 +2815,21 @@
    "languageCode": "T",
    "schedule": "Sun 16:00 Wed 19:45",
    "phones": [ "55 65 98120 9836" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3D69EECB-360A-4ACB-967B-81D18210FF89",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.60939,
-   "longitude": -56.120564
+   "longitude": -56.120564,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Goiabeiras - Cuiabá MT",
@@ -2696,20 +2838,21 @@
    "languageCode": "T",
    "schedule": "Sat 18:00 Tue 19:30",
    "phones": [ "(65) 99600-0845" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FE8BF5C6-5ACB-4E34-9AF2-A9C6F6E32E39",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -15.60939,
-   "longitude": -56.120564
+   "longitude": -56.120564,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Espanhola (Sul) - Cuiabá MT",
@@ -2718,20 +2861,21 @@
    "languageCode": "S",
    "schedule": "Sun 09:00 Fri 19:30",
    "phones": [ "65984319427" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "51E5E89D-5A9E-44B4-9A74-1F829E4A320E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.65822,
-   "longitude": -56.04432
+   "longitude": -56.04432,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Parque Cuiabá - Cuiabá MT",
@@ -2740,20 +2884,21 @@
    "languageCode": "T",
    "schedule": "Sun 08:30 Thu 19:30",
    "phones": [ "+55 65 98125-8460" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CD591494-725C-4B08-A504-94E59C6316AB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.65822,
-   "longitude": -56.04432
+   "longitude": -56.04432,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Parque Atalaia - Cuiabá MT",
@@ -2763,20 +2908,21 @@
    "schedule": "Sat 19:00 Wed 19:30",
    "relatedLanguageCodes": [ "CR" ],
    "phones": [ "65 98125-8460" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7E1C6977-907F-4DB3-AD9C-F68B20771FC1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -15.65822,
-   "longitude": -56.04432
+   "longitude": -56.04432,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Crioulo Haitiano - Cuiabá, MT (Parque Atalaia) - Parque Atalaia - Cuiabá MT",
@@ -2786,20 +2932,21 @@
    "schedule": "Sat 19:00 Wed 19:30",
    "relatedLanguageCodes": [ "T" ],
    "phones": [ "65 98125-8460" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "268236E4-F9E2-4BFE-87A1-26502DDC620B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.61331,
-   "longitude": -56.08399
+   "longitude": -56.08399,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jardim Paulista - Cuiabá MT",
@@ -2808,20 +2955,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "65 981314587" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "95471AB9-7024-4C0C-9B72-145F0F7EEB01",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -15.61331,
-   "longitude": -56.08399
+   "longitude": -56.08399,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Espanhola (Leste) - Cuiabá MT",
@@ -2830,20 +2978,21 @@
    "languageCode": "S",
    "schedule": "Sun 09:30 Thu 19:30",
    "phones": [ "6536241187" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3539B87D-F5D5-4140-9D62-498B63D0BDFE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.64762,
-   "longitude": -56.03649
+   "longitude": -56.03649,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Parque Residencial Coxipó - Cuiabá MT",
@@ -2852,20 +3001,21 @@
    "languageCode": "T",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "65 98151-3535 / 65 99969-5220" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6DAFA2A2-90C0-44DE-A181-FB24F5151A08",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.64762,
-   "longitude": -56.03649
+   "longitude": -56.03649,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Vista Alegre - Cuiabá MT",
@@ -2874,20 +3024,21 @@
    "languageCode": "T",
    "schedule": "Sun 08:30 Thu 19:30",
    "phones": [ "065996755818" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9E5B71A3-189B-41A4-A63C-FD579B7B3693",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.618881,
-   "longitude": -56.063212
+   "longitude": -56.063212,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Boa Esperança - Cuiabá MT",
@@ -2896,20 +3047,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "(65)9 9289-3572" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1F1354EC-9DD9-4069-AB25-5ABC49C9905B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -15.618881,
-   "longitude": -56.063212
+   "longitude": -56.063212,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "LS - Cuiabá MT",
@@ -2918,20 +3070,21 @@
    "languageCode": "LSB",
    "schedule": "Sun 18:00 Wed 19:30",
    "phones": [ "65-9225-8168" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CED1298F-604B-4B1A-94B4-A6EE1F509250",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.55743,
-   "longitude": -56.10592
+   "longitude": -56.10592,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Ribeirão do Lipa - Cuiabá MT",
@@ -2940,20 +3093,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "65-98143-4431" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F2BE30A8-591A-4D45-A76B-2E1434B5AE27",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.61064,
-   "longitude": -56.035346
+   "longitude": -56.035346,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Recanto dos Pássaros - Cuiabá MT",
@@ -2962,20 +3116,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:45",
    "phones": [ "(65) 99222-2401" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7D8B56D2-A57B-4902-85AC-0957FCC57B4F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.61064,
-   "longitude": -56.035346
+   "longitude": -56.035346,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jardim Universitário - Cuiabá MT",
@@ -2984,20 +3139,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:45",
    "phones": [ "(65)99928-4013" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D32F7331-E154-4C52-B05B-BE62DE659D37",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.632965,
-   "longitude": -56.009924
+   "longitude": -56.009924,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Tijucal - Cuiabá MT",
@@ -3006,20 +3162,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Tue 19:30",
    "phones": [ "(65) 99282-7300" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D6F2FCAE-E389-4E0A-81AD-672EF1266EDC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.632965,
-   "longitude": -56.009924
+   "longitude": -56.009924,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Portal - Cuiabá MT",
@@ -3028,20 +3185,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "97C32707-7B43-4F97-99E0-05BC54A93DD2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.632965,
-   "longitude": -56.009924
+   "longitude": -56.009924,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jardim dos Ipês - Cuiabá MT",
@@ -3050,20 +3208,21 @@
    "languageCode": "T",
    "schedule": "Sun 08:00 Wed 19:30",
    "phones": [ "(65) 9 9270-5545" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3134509C-DDA8-46CE-B08E-CDCDDDC3ED1A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.580286,
-   "longitude": -56.032701
+   "longitude": -56.032701,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Pedra Noventa - Cuiabá MT",
@@ -3072,20 +3231,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
    "phones": [ "65 992554777" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "87CF77D7-4317-4C96-A7DF-4693A52DCF90",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.580286,
-   "longitude": -56.032701
+   "longitude": -56.032701,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Norte Pedra Noventa - Cuiabá MT",
@@ -3094,20 +3254,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "65 99255-4777" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "53871713-1E92-4221-8062-B004F121887C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.580276,
-   "longitude": -56.032708
+   "longitude": -56.032708,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Novo Horizonte - Cuiabá MT",
@@ -3117,20 +3278,21 @@
    "schedule": "Sun 19:00 Thu 19:30",
    "relatedLanguageCodes": [ "LSB" ],
    "phones": [ "(65) 9 8414-4977" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "064678AB-9EDB-4B0E-B394-054C9913B337",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.580276,
-   "longitude": -56.032708
+   "longitude": -56.032708,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Três Barras - Cuiabá MT",
@@ -3139,20 +3301,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "65 99351-5786" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F8DAEC05-2FA0-4330-8F8C-34F87FFCE4F5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -15.580276,
-   "longitude": -56.032708
+   "longitude": -56.032708,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Libras - Cuiabá, MT (Novo Horizonte) - Novo Horizonte - Cuiabá MT",
@@ -3162,20 +3325,21 @@
    "schedule": "Sun 16:15 Thu 19:30",
    "relatedLanguageCodes": [ "T" ],
    "phones": [ "(65) 9 8414-4977" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7F166B71-9EFF-4DDE-A822-8211C74CED55",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.538129,
-   "longitude": -56.069494
+   "longitude": -56.069494,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Jardim Vitória - Cuiabá MT",
@@ -3184,20 +3348,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:45",
    "phones": [ "65999983040" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CBAB3045-AB63-4EA9-8463-BD443A575B58",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.538129,
-   "longitude": -56.069494
+   "longitude": -56.069494,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Paraíso - Cuiabá MT",
@@ -3206,20 +3371,21 @@
    "languageCode": "T",
    "schedule": "Sun 09:00 Thu 19:30",
    "phones": [ "65992114264" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7CCB3F0C-5E6B-417C-BA9F-797814F1EA05",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.557947,
-   "longitude": -56.041212
+   "longitude": -56.041212,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Morada da Serra - Cuiabá MT",
@@ -3228,20 +3394,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "65 99271-8669" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CD57F13A-CD09-4CB9-A959-3CCFF20C11AD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.557947,
-   "longitude": -56.041212
+   "longitude": -56.041212,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Serrana - Cuiabá MT",
@@ -3249,21 +3416,22 @@
    "address": "R. Sessenta e Cinco, n.° 22 e 23\r\nQuadra 61\r\nCPA 4 - 1.ª Etapa\r\nCuiabá, MT\r\n78055-970",
    "languageCode": "T",
    "schedule": "Sun 09:00 Wed 19:30",
-   "phones": [ "65 9 92535868" ],
-   "isPrivateMtgPlace": false
+   "phones": [],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3518D978-6920-427E-BF4D-7ADAD75D1AA1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.557947,
-   "longitude": -56.041212
+   "longitude": -56.041212,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Oeste Morada da Serra - Cuiabá MT",
@@ -3272,20 +3440,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Tue 19:30",
    "phones": [ "(65) 9 92215002" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "93586A28-5368-4A71-B9BC-94159C159F8E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.351778,
-   "longitude": -56.233138
+   "longitude": -56.233138,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Distrito da Guia - Cuiabá MT",
@@ -3294,20 +3463,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "065996843581" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EDCB2344-F09A-4717-8698-A147C0FF5CDC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.200815,
-   "longitude": -56.363645
+   "longitude": -56.363645,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Acorizal - MT",
@@ -3316,20 +3486,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:00",
    "phones": [ "65-99662-0511" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E305953A-AC02-4947-9CDF-9E3E0E48BC87",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -13.654455,
-   "longitude": -57.889939
+   "longitude": -57.889939,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Campo Novo do Parecis - MT",
@@ -3338,20 +3509,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "65 981336593" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DEBB7C11-AD3A-4152-A231-DA60F6293038",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.428677,
-   "longitude": -61.999375
+   "longitude": -61.999375,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Machadinho D'Oeste - RO",
@@ -3359,21 +3531,22 @@
    "address": "Av. Marechal Deodoro da Fonseca , 3067\r\nCentro\r\nMachadinho D'Oeste, RO\r\n76868-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
-   "phones": [ "(69) 984121729" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "(69) 99340-5440" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "774192A0-6EE3-4668-8C92-5CE61A023901",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -14.364069,
-   "longitude": -56.972036
+   "longitude": -56.972036,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Nova Marilândia, MT - Nortelândia - MT",
@@ -3382,20 +3555,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Tue 19:30",
    "phones": [ "(65) 9 9648-7588" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "02D7D10C-E55A-4158-99CB-7EF800C45F5E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -14.463492,
-   "longitude": -56.841855
+   "longitude": -56.841855,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Arenápolis - MT",
@@ -3404,20 +3578,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "65 9 9976-9817 ou 65 9 8443-5337" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "14A08C50-3143-4B2B-8F1B-24BDD25BA6ED",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -14.448631,
-   "longitude": -56.808144
+   "longitude": -56.808144,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Nortelândia - MT",
@@ -3426,20 +3601,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "(65) 9 9648-7588" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "646A14BA-C39D-4CD0-BED5-53EE4C8C158F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -14.829537,
-   "longitude": -56.426218
+   "longitude": -56.426218,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Rosário Oeste - MT",
@@ -3448,20 +3624,21 @@
    "languageCode": "T",
    "schedule": "Sun 08:45 Thu 19:30",
    "phones": [ "(65) 9 9669-0796" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "61089114-204C-4567-9080-0AD0DF171CD2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -14.723009,
-   "longitude": -56.330526
+   "longitude": -56.330526,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Nobres - MT",
@@ -3470,20 +3647,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Wed 19:00",
    "phones": [ "(65) 993386374" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AECF0B4E-618C-4CB3-BA75-D427172D166C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -14.512208,
-   "longitude": -56.490223
+   "longitude": -56.490223,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Alto Paraguai - MT",
@@ -3492,20 +3670,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "66999078827" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B52BC4F7-98AD-478E-9643-DE4AB5C8BDBD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -14.376454,
-   "longitude": -56.387973
+   "longitude": -56.387973,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Diamantino - MT",
@@ -3514,20 +3693,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Tue 19:30",
    "phones": [ "65-9-96438504" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "ABB606F1-EED2-4422-A113-18B4D62A91A9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.456752,
-   "longitude": -59.141567
+   "longitude": -59.141567,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Terra Roxa - Juína MT",
@@ -3536,20 +3716,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "(066) 9.9988-7545" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2EE7B9DC-6161-4FA0-A45E-E5DD2CA7642B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -13.451148,
-   "longitude": -56.724713
+   "longitude": -56.724713,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "São José do Rio Claro - MT",
@@ -3558,20 +3739,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Thu 19:30",
    "phones": [ "(66) 9 9697-4417  (Erley Rocha)" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AE53072C-D465-4485-84AA-C7C95BD8AE95",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.413086,
-   "longitude": -58.761311
+   "longitude": -58.761311,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Central - Juína MT",
@@ -3580,20 +3762,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "6684110786" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2E6FFAB9-A38C-44F6-90AB-654CB10DFD6C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -13.032012,
-   "longitude": -57.09086
+   "longitude": -57.09086,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Nova Maringá - MT",
@@ -3602,20 +3785,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "66 981239373" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4605D4D0-67DD-4F74-AF3B-0F17FC6FDBC0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.118637,
-   "longitude": -58.00413
+   "longitude": -58.00413,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Brasnorte - MT",
@@ -3624,20 +3808,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "66 96010582" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BFA671CA-52E2-48D5-B9A8-7FD330E065A9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -13.825134,
-   "longitude": -56.087963
+   "longitude": -56.087963,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Central - Nova Mutum MT",
@@ -3646,20 +3831,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "(65) 98406-9321" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9C7C00CB-3EEC-4591-9184-E76B4C8C2797",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -13.825134,
-   "longitude": -56.087963
+   "longitude": -56.087963,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Sul - Nova Mutum MT",
@@ -3668,20 +3854,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AD6E38BD-FA19-438D-85FF-C23AE0B8239D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.138993,
-   "longitude": -58.610129
+   "longitude": -58.610129,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Castanheira - MT",
@@ -3690,20 +3877,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "(66) 99715-4269" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C5340489-AA2E-4880-8E8C-54714E0CED3B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.176392,
-   "longitude": -59.445208
+   "longitude": -59.445208,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Aripuanã - MT",
@@ -3712,20 +3900,21 @@
    "languageCode": "T",
    "schedule": "Sun 18:00 Fri 19:30",
    "phones": [ "(66) 98461-2267" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CA769397-DB90-4C23-B475-D986E219BA7B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.734776,
-   "longitude": -56.513972
+   "longitude": -56.513972,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Tapurah - MT",
@@ -3734,20 +3923,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "(61) 99632-6900" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6CDE6317-55B5-45C1-BA73-2B1E299E8FBB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.239839,
-   "longitude": -56.644557
+   "longitude": -56.644557,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Itanhangá - MT",
@@ -3756,21 +3946,22 @@
    "languageCode": "T",
    "schedule": "Sun 17:00 Wed 19:30",
    "relatedLanguageCodes": [ "LSB" ],
-   "phones": [ "066-99614-3562" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "066-984232871" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F7AD7AF8-776D-44B2-8231-EC10704F9E37",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -12.239839,
-   "longitude": -56.644557
+   "longitude": -56.644557,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Libras - Itanhangá, MT - Itanhangá - MT",
@@ -3779,21 +3970,22 @@
    "languageCode": "LSB",
    "schedule": "Sun 17:00 Wed 19:30",
    "relatedLanguageCodes": [ "T" ],
-   "phones": [ "066-99614-3562" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "066-984232871" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E56DA732-D65C-4377-8162-2E7991FC5284",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -10.332556,
-   "longitude": -58.502961
+   "longitude": -58.502961,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Juruena - MT",
@@ -3802,20 +3994,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "66984490258 / (66) 98459-6611" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "57B0578A-C7EF-4FFE-97D3-F4A2B0845B09",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.254008,
-   "longitude": -57.521695
+   "longitude": -57.521695,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Juara - MT",
@@ -3825,20 +4018,21 @@
    "schedule": "Sat 19:00 Wed 19:30",
    "relatedLanguageCodes": [ "LSB" ],
    "phones": [ "(66) 98414-7060" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A5B3955A-461B-4167-8001-D266BACB03F6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -11.254008,
-   "longitude": -57.521695
+   "longitude": -57.521695,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Libras - Juara, MT - Juara - MT",
@@ -3848,20 +4042,21 @@
    "schedule": "Sat 19:00 Wed 19:30",
    "relatedLanguageCodes": [ "T" ],
    "phones": [ "(66) 98414-7060" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "044B5011-7F30-4F7F-941C-7DABB338C196",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.45496,
-   "longitude": -59.215331
+   "longitude": -59.215331,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Colniza - MT",
@@ -3870,20 +4065,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "(66) 98453-8396" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CDE34C1F-B660-45E2-ABD8-9010687ECC3D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.904121,
-   "longitude": -58.563231
+   "longitude": -58.563231,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Cotriguaçu - MT",
@@ -3892,20 +4088,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "(66) 98424-1652" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4C647E85-4A49-4A65-A401-E3E6795A86C6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.239539,
-   "longitude": -56.151302
+   "longitude": -56.151302,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Ipiranga do Norte - MT",
@@ -3914,20 +4111,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "(66)9.9904-9248" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "89C451FB-F22E-41C1-9C8B-843E4AB2F58B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -11.307169,
-   "longitude": -56.825885
+   "longitude": -56.825885,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Tabaporã - MT",
@@ -3935,21 +4133,22 @@
    "address": "Rua Villas Boas, 434B-N\r\nCentro\r\nTabaporã, MT\r\n78563-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:00",
-   "phones": [ "(66) 9 96283172" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "(66) 999340890" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1E371D8E-7C0C-417D-8B74-FEB4A9BD1447",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.851773,
-   "longitude": -57.811186
+   "longitude": -57.811186,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Nova Bandeirantes - MT",
@@ -3958,20 +4157,21 @@
    "languageCode": "T",
    "schedule": "Sun 09:00 Thu 19:00",
    "phones": [ "(66)984153168" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A3048167-1240-4C05-BF0A-F2D4A0E6DBE5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.97547,
-   "longitude": -57.472695
+   "longitude": -57.472695,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Nova Monte Verde - MT",
@@ -3980,20 +4180,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "66 9.8451 9659" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EC61718E-8946-4F87-9B66-2602643E042C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.559604,
-   "longitude": -57.394557
+   "longitude": -57.394557,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Apiacás - MT",
@@ -4002,20 +4203,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "(66)981160099" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "10D670BD-3371-4BC9-8AC0-8E7712D44DB3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.675137,
-   "longitude": -56.476064
+   "longitude": -56.476064,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Paranaíta - MT",
@@ -4024,20 +4226,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "66 9 92469260" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C8884952-AD51-455B-9078-1B87F0A2039A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.87553,
-   "longitude": -56.07716
+   "longitude": -56.07716,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Central - Alta Floresta MT",
@@ -4046,20 +4249,21 @@
    "languageCode": "T",
    "schedule": "Sat 19:30 Thu 19:30",
    "phones": [ "66 992068999    -   66 984045866" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "584379B2-853C-46DF-B4CA-55D78451C042",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.840266,
-   "longitude": -56.072428
+   "longitude": -56.072428,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Cidade Alta - Alta Floresta MT",
@@ -4069,20 +4273,21 @@
    "schedule": "Sat 19:30 Wed 19:30",
    "relatedLanguageCodes": [ "LSB" ],
    "phones": [ "(66)984102161" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "69E475BB-06A6-4664-9D85-9F5FCFA53066",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -9.840266,
-   "longitude": -56.072428
+   "longitude": -56.072428,
+   "iso": "BRA"
   },
   "properties": {
    "orgName": "Libras - Alta Floresta, MT (Cidade Alta) - Cidade Alta - Alta Floresta MT",
@@ -4092,11 +4297,11 @@
    "schedule": "Sat 19:30 Wed 19:30",
    "relatedLanguageCodes": [ "T" ],
    "phones": [ "(66)984102161" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

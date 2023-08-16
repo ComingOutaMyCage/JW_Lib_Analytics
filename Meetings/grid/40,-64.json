@@ -2,10 +2,11 @@
  {
   "geoId": "56036ABB-3493-413C-8B7A-3D6511F7F470",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.664213,
-   "longitude": -63.671017
+   "longitude": -63.671017,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Fairview, Halifax, NS",
@@ -13,44 +14,47 @@
    "address": "210 Parkland Drive\r\nHalifax NS  B3S 1S7",
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:30",
+   "relatedLanguageCodes": [ "A" ],
    "phones": [ "(902) 707-5393" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D5D42F70-538E-490F-8A53-8B5C2B84D530",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 44.664213,
-   "longitude": -63.671017
+   "longitude": -63.671017,
+   "iso": "CAN"
   },
   "properties": {
-   "orgName": "Clayton Park-Arabic - Clayton Park, Halifax, NS",
+   "orgName": "Fairview Arabic - Fairview, Halifax, NS",
    "orgType": "GROUP",
    "address": "210 Parkland Drive\r\nHalifax NS  B3S 1S7",
    "languageCode": "A",
-   "schedule": "Sun 10:00 Thu 19:30",
+   "schedule": "Sun 13:00 Wed 19:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "(902) 707-5393" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C8480502-92B7-45CF-A3BA-97FBEEBD255C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 44.664213,
-   "longitude": -63.671017
+   "longitude": -63.671017,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Clayton Park, Halifax, NS",
@@ -58,22 +62,23 @@
    "address": "210 Parkland Drive\r\nHalifax NS  B3S 1S7",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
-   "relatedLanguageCodes": [ "A" ],
+   "relatedLanguageCodes": [ "U" ],
    "phones": [ "(902) 707-5393" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7C96814A-738C-4131-9AAA-98649C0793C5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.664213,
-   "longitude": -63.671017
+   "longitude": -63.671017,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Oceanview Mandarin, Halifax, NS",
@@ -82,20 +87,45 @@
    "languageCode": "CHM",
    "schedule": "Sun 16:00 Tue 19:30",
    "phones": [ "(902) 707-5393" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "CBA63D09-E511-41E5-808F-4C97978435D6",
+  "type": "weekly",
+  "isPrimary": 0,
+  "location": {
+   "latitude": 44.664213,
+   "longitude": -63.671017,
+   "iso": "CAN"
+  },
+  "properties": {
+   "orgName": "Clayton Park Russian - Clayton Park, Halifax, NS",
+   "orgType": "GROUP",
+   "address": "210 Parkland Drive\r\nHalifax NS  B3S 1S7",
+   "languageCode": "U",
+   "schedule": "undefined null Thu 20:25",
+   "relatedLanguageCodes": [ "E" ],
+   "phones": [ "(902) 707-5393" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
+  "firstSeen": "2023-08-16"
  },
  {
   "geoId": "387AD5D9-A992-4894-9AEA-7FF2E0F5F447",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 44.651462,
-   "longitude": -63.596392
+   "longitude": -63.596392,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Highland Park, Halifax, NS",
@@ -105,20 +135,21 @@
    "schedule": "Sun 13:00 Wed 19:00",
    "relatedLanguageCodes": [ "ASL" ],
    "phones": [ "(902) 707-5394" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "49AA2610-D3B2-4884-AC91-84A62D99B124",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": 44.651462,
-   "longitude": -63.596392
+   "longitude": -63.596392,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Point Pleasant, Halifax, NS",
@@ -127,20 +158,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "(902) 707-5394" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E41BA946-A044-4D90-8052-1B6E0FDE4E55",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.651462,
-   "longitude": -63.596392
+   "longitude": -63.596392,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Highland Park ASL - Highland Park, Halifax, NS",
@@ -150,20 +182,21 @@
    "schedule": "Sun 13:00 Wed 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "(902) 707-5394" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-05-29"
  },
  {
   "geoId": "663090F8-443F-4EB0-9089-16CA6EC8DAF8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.783272,
-   "longitude": -63.691589
+   "longitude": -63.691589,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Glendale, Halifax, NS",
@@ -172,20 +205,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "902-329-6453" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5CCD5173-44E6-4041-979E-DA2A6279E220",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.783272,
-   "longitude": -63.691589
+   "longitude": -63.691589,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Sackville, Halifax, NS",
@@ -194,20 +228,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [ "(782) 578-2068" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "20359123-FFD8-4CEF-9302-D27C735D11C6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.692662,
-   "longitude": -63.497087
+   "longitude": -63.497087,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Cole Harbour, Dartmouth, NS",
@@ -216,20 +251,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "(902) 536-7362" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4629FFD2-7629-4904-B4E4-6E5BDF67A8EF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.692662,
-   "longitude": -63.497087
+   "longitude": -63.497087,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Woodlawn, Dartmouth, NS",
@@ -238,20 +274,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "(902) 536-7362" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2E8C582A-908B-4F00-BDF8-905DE6A6394B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.778305,
-   "longitude": -63.090386
+   "longitude": -63.090386,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Musquodoboit Harbour, NS",
@@ -260,20 +297,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(782) 824-4207" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A53C3D7F-AB8D-4F47-BAA2-C561A726D0F8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 45.101135,
-   "longitude": -63.394122
+   "longitude": -63.394122,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Shubenacadie, NS",
@@ -282,20 +320,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "(782) 312-2102" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "12E3DA1E-C709-4DF4-B786-B5A5F0B87AAD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 45.351874,
-   "longitude": -63.297871
+   "longitude": -63.297871,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Cobequid, Truro, NS",
@@ -304,20 +343,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:00",
    "phones": [ "(782) 222-0750" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2C482FA2-D451-4EBF-9A39-DB071BA66671",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 45.351874,
-   "longitude": -63.297871
+   "longitude": -63.297871,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Salmon River, Truro, NS",
@@ -326,20 +366,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "782-222-0750" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4D8B42EB-D656-4263-8071-A35DE9408572",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.904754,
-   "longitude": -62.469232
+   "longitude": -62.469232,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Sheet Harbour, NS",
@@ -348,20 +389,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "902-960-0555" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9F5B2DA3-4FD2-4DEE-A745-14097117B03B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.384448,
-   "longitude": -63.736551
+   "longitude": -63.736551,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Summerside, PE",
@@ -369,21 +411,22 @@
    "address": "20 Taylor Road\r\nRR 3\r\nSummerside PE  C1N 4J9",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
-   "phones": [ "902-439-7046" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "902-436-8598" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3A6FF9F8-54FA-4F62-91EA-5C902D836E27",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 45.572265,
-   "longitude": -62.69741
+   "longitude": -62.69741,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "New Glasgow, NS",
@@ -392,20 +435,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:15",
    "phones": [ "(902) 600-2782" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D0DC4A1F-F36D-4D9C-9B03-60453DA0A0C5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.220403,
-   "longitude": -63.088071
+   "longitude": -63.088071,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Charlottetown, PE",
@@ -414,20 +458,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(782) 355-2036" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "95AACBEA-7DB4-42AB-9D01-B2C3456CE57A",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.210944,
-   "longitude": -62.672048
+   "longitude": -62.672048,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Montague, PE",
@@ -436,20 +481,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "902-838-3983" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "058997B2-11DD-4AB8-917B-016653CFC319",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 45.606238,
-   "longitude": -61.948723
+   "longitude": -61.948723,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Antigonish, NS",
@@ -458,20 +504,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "902 863-8551" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FF25E5FC-87C6-4451-A9A0-107B86CCB5DA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 45.671612,
-   "longitude": -61.375948
+   "longitude": -61.375948,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Port Hawkesbury, NS",
@@ -480,20 +527,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "902-625-0792" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2CFCB61E-B3D0-4EE0-86B3-45A20EEE62DE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.088202,
-   "longitude": -60.779031
+   "longitude": -60.779031,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Baddeck, NS",
@@ -502,20 +550,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:15",
    "phones": [ "(877) 711-9310" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D2C60801-4992-425F-B486-73264835A6E0",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 47.370651,
-   "longitude": -61.906028
+   "longitude": -61.906028,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Îles-de-la-Madeleine, L'Étang-du-Nord, QC",
@@ -524,20 +573,21 @@
    "languageCode": "F",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "(877) 425-3857" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B34AEDEB-7916-4F01-963F-6C905F2D95B7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.10681,
-   "longitude": -60.202436
+   "longitude": -60.202436,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Sydney, NS",
@@ -546,20 +596,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "1(782) 800-7432" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "95E4AC24-0E7D-4F75-A3F2-002F8D2B89DB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.21207,
-   "longitude": -60.271846
+   "longitude": -60.271846,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "North Sydney, NS",
@@ -568,20 +619,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "902-702-0591" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F59165D3-3AD5-4D4C-86EB-272CA2E0B9E4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.189989,
-   "longitude": -59.987323
+   "longitude": -59.987323,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Glace Bay, NS",
@@ -590,20 +642,21 @@
    "languageCode": "E",
    "schedule": "Sun 11:00 Tue 19:00",
    "phones": [ "902-849-4783" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0D589DD9-AD9C-4094-B320-5378F54A8D6C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.778793,
-   "longitude": -56.185633
+   "longitude": -56.185633,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "ST PIERRE ET MIQUELON",
@@ -612,11 +665,11 @@
    "languageCode": "F",
    "schedule": "Sat 17:30 Wed 19:15",
    "phones": [ "0508402579" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

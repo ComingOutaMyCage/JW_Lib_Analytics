@@ -2,10 +2,11 @@
  {
   "geoId": "64F236F7-226A-499C-8EEE-560E97CB89A5",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.19744,
-   "longitude": 152.52919
+   "longitude": 152.52919,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Tuncurry - NSW",
@@ -14,20 +15,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0405062904" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "92B8EE89-B661-4E6B-9262-3C1B50A628AD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.19744,
-   "longitude": 152.52919
+   "longitude": 152.52919,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Forster - NSW",
@@ -36,11 +38,11 @@
    "languageCode": "E",
    "schedule": "Sat 15:00 Tue 19:00",
    "phones": [ "0434123768" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

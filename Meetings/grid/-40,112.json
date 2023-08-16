@@ -2,10 +2,11 @@
  {
   "geoId": "0AD99B39-A07F-4F6E-8303-61430E7713B8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -33.956583,
-   "longitude": 115.074816
+   "longitude": 115.074816,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Margaret River - WA",
@@ -14,74 +15,80 @@
    "languageCode": "E",
    "schedule": "Sat 10:00 Wed 19:00",
    "phones": [ "0404838232" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AB9467DC-D475-47AA-9E92-0DE7E4EED865",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -33.657302,
-   "longitude": 115.331324
+   "longitude": 115.331324,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Busselton South - Busselton WA",
    "orgType": "CONG",
-   "address": "38-40 South Street\r\nWEST BUSSELTON  WA  6280",
+   "address": "38-40 South Street\nWEST BUSSELTON  WA  6280",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "0434 772 676" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "00047A10-F9FF-4881-A692-A97AD22DEEEA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -33.657302,
-   "longitude": 115.331324
+   "longitude": 115.331324,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Busselton North - Busselton WA",
    "orgType": "CONG",
-   "address": "38-40 South Street\r\nWEST BUSSELTON  WA  6280",
+   "address": "38-40 South Street\nWEST BUSSELTON  WA  6280",
    "languageCode": "E",
+   "schedule": "Sat 10:00 Wed 19:00",
    "phones": [ "0493 032 465" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "5C8C157D-F4D9-45A6-B68E-4070515FDD42",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -34.2465,
-   "longitude": 116.13267
+   "longitude": 116.13267,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Manjimup - WA",
    "orgType": "CONG",
-   "address": "Cnr Pritchard & Cronin Streets\r\nMANJIMUP  WA  6258",
+   "address": "Cnr Pritchard & Cronin Streets\nMANJIMUP  WA  6258",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "0427 761 240" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -89,7 +96,8 @@
   "type": "weekly",
   "location": {
    "latitude": -33.9497507,
-   "longitude": 116.1274263
+   "longitude": 116.1274263,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Bridgetown",
@@ -97,39 +105,42 @@
    "address": "1 Corriedale Court, Bridgetown, WA",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2022-05-15",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-05-15"
  },
  {
   "geoId": "BD3B4FE6-CDC2-4D41-9B33-8F44127850AE",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -33.57514,
-   "longitude": 115.81456
+   "longitude": 115.81456,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Donnybrook - WA",
    "orgType": "CONG",
    "address": "Lot 3 Bentley Street\nDONNYBROOK  WA  6239",
    "languageCode": "E",
+   "schedule": "Sat 14:30 Wed 19:00",
    "phones": [ "0417933925" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "0D52D75E-65F9-4878-8944-ED80F426F713",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -33.35817,
-   "longitude": 115.65751
+   "longitude": 115.65751,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Bunbury East - Bunbury WA",
@@ -138,20 +149,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:00 Wed 19:00",
    "phones": [ "97212470" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6873D8A7-C98E-48E0-8DF2-2BA4456627EA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -33.35817,
-   "longitude": 115.65751
+   "longitude": 115.65751,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Bunbury South - Bunbury WA",
@@ -160,41 +172,44 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "0897212470" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E1E6BC74-55F2-4834-B787-38F0EDFDA929",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -34.96778,
-   "longitude": 117.35861
+   "longitude": 117.35861,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Denmark - WA",
    "orgType": "CONG",
    "address": "80 Brazier Street\nDENMARK  WA  6333",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0427904783" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "0017AD54-7264-4FC6-94DA-BC11E84674BA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -33.27623,
-   "longitude": 115.72825
+   "longitude": 115.72825,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Australind - Bunbury WA",
@@ -203,20 +218,21 @@
    "languageCode": "E",
    "schedule": "Sat 14:30 Tue 19:00",
    "phones": [ "0412 856 033" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FC1E795D-AF5E-4116-8B7E-BA777CA80A03",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -33.27623,
-   "longitude": 115.72825
+   "longitude": 115.72825,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Eaton - Bunbury WA",
@@ -225,20 +241,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0447 693 097" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7988F3C7-537C-48B2-9304-B3EDBA27CD51",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -33.35079,
-   "longitude": 116.1448
+   "longitude": 116.1448,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Collie - WA",
@@ -247,20 +264,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "0412763413" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "64292667-0473-4203-97CC-E4164CF1FE1E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -33.08172,
-   "longitude": 115.89667
+   "longitude": 115.89667,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Harvey - WA",
@@ -269,32 +287,34 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0408901322" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1139CCA6-E4E4-4D44-A6A1-B4D479E50A59",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -35.00959,
-   "longitude": 117.873536
+   "longitude": 117.873536,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Albany - WA",
    "orgType": "CONG",
    "address": "42 Wellington Street\nALBANY  WA  6330",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "98415248" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -302,7 +322,8 @@
   "type": "weekly",
   "location": {
    "latitude": -35.00959,
-   "longitude": 117.873536
+   "longitude": 117.873536,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Albany West",
@@ -310,18 +331,19 @@
    "address": "42 Wellington Street, Centennial Park, WA",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2019-06-01",
-  "active": false,
+  "active": 0,
   "firstSeen": "2019-06-01"
  },
  {
   "geoId": "50C61F21-D480-43DC-B48E-75BD78C83F5C",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.648566,
-   "longitude": 115.639427
+   "longitude": 115.639427,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Halls Head - Mandurah WA",
@@ -330,20 +352,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0419 839 916" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "86C1CD40-B50E-4B23-835D-17C6BD5B5530",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.648566,
-   "longitude": 115.639427
+   "longitude": 115.639427,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Dawesville - Mandurah WA",
@@ -352,20 +375,21 @@
    "languageCode": "E",
    "schedule": "Sat 14:00 Tue 19:00",
    "phones": [ "0433 925 177" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8E76C6AE-6755-4AB5-9EEE-A098F64F84F7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -34.642364,
-   "longitude": 117.666978
+   "longitude": 117.666978,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Mount Barker - WA",
@@ -374,20 +398,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "08 98 415 248" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
   "lastSeen": "2023-02-20",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-02-20"
+  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "40FA3FA6-4CCD-41DD-B7D8-DF8F288CF0D6",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.53897,
-   "longitude": 115.7614
+   "longitude": 115.7614,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Mandurah Central - Mandurah WA",
@@ -396,20 +421,21 @@
    "languageCode": "E",
    "schedule": "Sat 10:00 Thu 19:00",
    "phones": [ "0404787005" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B6E0802D-35BA-4639-A3AD-22F89F93DB57",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.53897,
-   "longitude": 115.7614
+   "longitude": 115.7614,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Mandurah North - Mandurah WA",
@@ -418,20 +444,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "0407198224" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A7F2AB33-EA0B-41E2-B535-BF4566E1FF97",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.53897,
-   "longitude": 115.7614
+   "longitude": 115.7614,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Mandurah East - Mandurah WA",
@@ -440,20 +467,21 @@
    "languageCode": "E",
    "schedule": "Sat 13:30 Tue 19:00",
    "phones": [ "(08) 9582 8926" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E79CF793-4A5C-458B-9EA4-F7F79BA393C2",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.622788,
-   "longitude": 115.859591
+   "longitude": 115.859591,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Pinjarra - WA",
@@ -462,20 +490,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:30 Wed 19:00",
    "phones": [ "0418869874" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "02E59363-7D6B-41BF-BE56-F87320F515B7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.36361,
-   "longitude": 115.76163
+   "longitude": 115.76163,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Port Kennedy - Perth WA",
@@ -484,20 +513,21 @@
    "languageCode": "E",
    "schedule": "Sat 14:00 Wed 19:30",
    "phones": [ "0433 381 864" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5BA5304E-4504-4B52-B898-E7C31A4FC002",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.36361,
-   "longitude": 115.76163
+   "longitude": 115.76163,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Warnbro - Perth WA",
@@ -506,20 +536,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "0478143411" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "010669C1-CED5-4798-8486-D67413FBB2D9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.36361,
-   "longitude": 115.76163
+   "longitude": 115.76163,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Baldivis South - Perth WA",
@@ -528,20 +559,21 @@
    "languageCode": "E",
    "schedule": "Sun 13:30 Thu 19:30",
    "phones": [ "0417 970 701" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "532B7B6F-0ADC-40E4-A08D-DFACD8EB2F36",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.277269,
-   "longitude": 115.738142
+   "longitude": 115.738142,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Rockingham - Perth WA",
@@ -550,20 +582,21 @@
    "languageCode": "E",
    "schedule": "Sat 14:00 Tue 19:00",
    "phones": [ "0412615772" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "14E1A9E1-C942-44B1-99E9-71237E9EEE1E",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.277269,
-   "longitude": 115.738142
+   "longitude": 115.738142,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Safety Bay - Perth WA",
@@ -575,20 +608,21 @@
     "+61&nbsp;0417 500 973",
     "+61&nbsp;0417 500 973"
    ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "67C3531C-41EC-4386-9C5F-6A5FF8454345",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.277269,
-   "longitude": 115.738142
+   "longitude": 115.738142,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Baldivis North - Perth WA",
@@ -597,84 +631,91 @@
    "languageCode": "E",
    "schedule": "Sat 10:00 Wed 19:00",
    "phones": [ "0403616135" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "08F5F8B5-A788-4785-BB01-E81362D8A011",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.23512,
-   "longitude": 115.82274
+   "longitude": 115.82274,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Medina - Perth WA",
    "orgType": "CONG",
    "address": "3 Hennessy Avenue\nORELIA  WA  6167",
    "languageCode": "E",
+   "schedule": "Sun 14:00 Wed 19:00",
    "phones": [ "0438933736" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "AE7E2EE9-2E3E-4F3A-9263-0F562E571443",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.23512,
-   "longitude": 115.82274
+   "longitude": 115.82274,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Parmelia - Perth WA",
    "orgType": "CONG",
    "address": "3 Hennessy Avenue\nORELIA  WA  6167",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:00",
    "relatedLanguageCodes": [ "CHM" ],
    "phones": [ "0420 591 642" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "23796041-24A9-439E-8DF4-0B2112CEAEFF",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.23512,
-   "longitude": 115.82274
+   "longitude": 115.82274,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Wellard - Perth WA",
    "orgType": "CONG",
    "address": "3 Hennessy Avenue\nORELIA  WA  6167",
    "languageCode": "E",
+   "schedule": "Sat 14:00 Thu 19:30",
    "phones": [ "0413 373 910" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "1A257A90-ED3B-40AE-9534-4368CD2BAF8D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.23512,
-   "longitude": 115.82274
+   "longitude": 115.82274,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Parmelia Mandarin - Parmelia - Perth WA",
@@ -684,20 +725,21 @@
    "schedule": "Sun 10:00 Tue 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "0420 591 642" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3134095B-EBA3-48CC-89A0-06ABC9007AF1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.23512,
-   "longitude": 115.82274
+   "longitude": 115.82274,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Kwinana Filipino - Perth WA",
@@ -706,142 +748,154 @@
    "languageCode": "TG",
    "schedule": "Sat 17:00 Mon 19:00",
    "phones": [ "0405907189" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3C79873B-5F76-4E5D-A4A3-E87261FC29AC",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.08835,
-   "longitude": 115.78958
+   "longitude": 115.78958,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Spearwood - Perth WA",
    "orgType": "CONG",
-   "address": "2 Caffery Place\r\nHAMILTON HILL  WA  6163",
+   "address": "2 Caffery Place\nHAMILTON HILL  WA  6163",
    "languageCode": "E",
-   "phones": [ "0422619718" ],
-   "isPrivateMtgPlace": false
+   "schedule": "Sun 10:00 Wed 19:30",
+   "phones": [ "0466675892" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "449BDE7B-2848-4863-AC45-46E880914FE8",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.08835,
-   "longitude": 115.78958
+   "longitude": 115.78958,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Melville - Perth WA",
    "orgType": "CONG",
-   "address": "2 Caffery Place\r\nHAMILTON HILL  WA  6163",
+   "address": "2 Caffery Place\nHAMILTON HILL  WA  6163",
    "languageCode": "E",
+   "schedule": "Sat 14:30 Tue 19:30",
    "phones": [
     "+61&nbsp;434947806",
     "+61&nbsp;0894147609"
    ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "C9FF83B9-51FD-4C0F-ACA2-80B1B125DF00",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.0592,
-   "longitude": 115.76187
+   "longitude": 115.76187,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "South Fremantle - Perth WA",
    "orgType": "CONG",
    "address": "90-92 Edmund Street\nWHITE GUM VALLEY  WA  6162",
    "languageCode": "E",
+   "schedule": "Sat 10:00 Tue 19:00",
    "phones": [ "0403 272 521" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "CF3F1801-EC9F-44F6-91AB-78AF7889DFFB",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.0592,
-   "longitude": 115.76187
+   "longitude": 115.76187,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "East Fremantle - Perth WA",
    "orgType": "CONG",
    "address": "90-92 Edmund Street\nWHITE GUM VALLEY  WA  6162",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "1300938695" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "A024A976-66E7-4F27-8090-BE4E829133F1",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.05932,
-   "longitude": 115.8972
+   "longitude": 115.8972,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Willetton - Perth WA",
    "orgType": "CONG",
    "address": "86 Portcullis Drive\nWILLETTON  WA  6155",
    "languageCode": "E",
+   "schedule": "Sat 14:30 Wed 19:00",
    "relatedLanguageCodes": [ "KO" ],
    "phones": [ "08 9354 4792" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "A550D428-3E0D-4ECC-8C0A-F03EFCC09DEB",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": -32.05932,
-   "longitude": 115.8972
+   "longitude": 115.8972,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Willetton Korean - Willetton - Perth WA",
    "orgType": "GROUP",
    "address": "86 Portcullis Drive\nWILLETTON  WA  6155",
    "languageCode": "KO",
+   "schedule": "Sat 14:30 Wed 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "08 9354 4792" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -849,7 +903,8 @@
   "type": "weekly",
   "location": {
    "latitude": -32.05932,
-   "longitude": 115.8972
+   "longitude": 115.8972,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Canning Vale",
@@ -857,81 +912,88 @@
    "address": "86 Portcullis Drive, Willetton, WA",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2017-10-01",
-  "active": false,
+  "active": 0,
   "firstSeen": "2017-10-01"
  },
  {
   "geoId": "58A10D65-2A7F-4F1E-A663-D60D494FFF86",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.14135,
-   "longitude": 115.99569
+   "longitude": 115.99569,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Roleystone - Perth WA",
    "orgType": "CONG",
    "address": "89 Braemore Street\nARMADALE  WA  6112",
    "languageCode": "E",
+   "schedule": "Sat 14:00 Tue 19:30",
    "phones": [ "0493445022" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "098749CB-5437-4F7C-B099-3A778A43941B",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.14135,
-   "longitude": 115.99569
+   "longitude": 115.99569,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Kelmscott - Perth WA",
    "orgType": "CONG",
    "address": "89 Braemore Street\nARMADALE  WA  6112",
    "languageCode": "E",
+   "schedule": "Sun 13:30 Thu 19:30",
    "phones": [ "0429645000" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "11F86FB3-B27A-4993-BE06-44B976DADB38",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.14135,
-   "longitude": 115.99569
+   "longitude": 115.99569,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Armadale - Perth WA",
    "orgType": "CONG",
    "address": "89 Braemore Street\nARMADALE  WA  6112",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "08 93979773" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "15BDC4C2-751D-47BB-9AC1-FCA803A0BE15",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -33.6969,
-   "longitude": 117.55214
+   "longitude": 117.55214,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Katanning - WA",
@@ -940,84 +1002,91 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "0898212794" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "08286AC6-22AA-4B3C-9755-562B2742882F",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.00951,
-   "longitude": 115.88686
+   "longitude": 115.88686,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Kensington - Perth WA",
    "orgType": "CONG",
    "address": "211 Kent Street\nKARAWARA  WA  6152",
    "languageCode": "E",
+   "schedule": "Sat 10:00 Tue 19:00",
    "phones": [ "0403124582" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "2E4A11C3-9098-4B62-B77E-4C5E9C30C826",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.00951,
-   "longitude": 115.88686
+   "longitude": 115.88686,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Waterford - Perth WA",
    "orgType": "CONG",
    "address": "211 Kent Street\nKARAWARA  WA  6152",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:00",
    "relatedLanguageCodes": [ "IN" ],
    "phones": [ "+61&nbsp;468 944 607" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "D6B21344-1F97-4933-B02F-A45BB150465C",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": -32.00951,
-   "longitude": 115.88686
+   "longitude": 115.88686,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Perth South Mandarin - Perth WA",
    "orgType": "CONG",
    "address": "211 Kent Street\nKARAWARA  WA  6152",
    "languageCode": "CHM",
+   "schedule": "Sat 14:30 Thu 19:30",
    "phones": [ "+61&nbsp;413 476 921" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "C72FC45D-4E8C-4A69-B7F1-9533AA4B9A42",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 0,
   "location": {
    "latitude": -32.00951,
-   "longitude": 115.88686
+   "longitude": 115.88686,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Waterford Indonesian - Waterford - Perth WA",
@@ -1027,53 +1096,57 @@
    "schedule": "Sun 10:00 Wed 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "+61&nbsp;468 944 607" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CD516B1F-3191-4DD9-A5F8-4963BCA89477",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.04527,
-   "longitude": 115.9485
+   "longitude": 115.9485,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Cannington - Perth WA",
    "orgType": "CONG",
    "address": "15 Wilfred Road\nTHORNLIE  WA  6108",
    "languageCode": "E",
+   "schedule": "Sat 14:00 Tue 19:00",
    "phones": [ "0483 829 275" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "368A86F2-2B8A-4C84-929A-CBF3043E1866",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.04527,
-   "longitude": 115.9485
+   "longitude": 115.9485,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Ferndale - Perth WA",
    "orgType": "CONG",
    "address": "15 Wilfred Road\nTHORNLIE  WA  6108",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0491983712" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -1081,7 +1154,8 @@
   "type": "weekly",
   "location": {
    "latitude": -32.04527,
-   "longitude": 115.9485
+   "longitude": 115.9485,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Huntingdale",
@@ -1089,51 +1163,55 @@
    "address": "15 Wilfred Road, Thornlie, WA 6108",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2015-07-01",
-  "active": false,
+  "active": 0,
   "firstSeen": "2015-07-01"
  },
  {
   "geoId": "2EE5460F-D9BB-4D17-ADDC-2F706A83432D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.07686,
-   "longitude": 115.98481
+   "longitude": 115.98481,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Gosnells - Perth WA",
    "orgType": "CONG",
    "address": "1 Glennis Close\nGOSNELLS  WA  6110",
    "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "0427700317" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "080615FA-19BD-4D4D-9991-739A6D933038",
   "type": "weekly",
-  "isPrimary": false,
+  "isPrimary": 0,
   "location": {
    "latitude": -32.07686,
-   "longitude": 115.98481
+   "longitude": 115.98481,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Carlisle Filipino - Perth WA",
    "orgType": "CONG",
    "address": "1 Glennis Close\nGOSNELLS  WA  6110",
    "languageCode": "TG",
+   "schedule": "Sun 16:00 Fri 19:00",
    "phones": [ "0448-462-029" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-02",
-  "lastSeen": "2023-06-02",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -1141,7 +1219,8 @@
   "type": "weekly",
   "location": {
    "latitude": -32.07686,
-   "longitude": 115.98481
+   "longitude": 115.98481,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Maddington",
@@ -1149,18 +1228,19 @@
    "address": "1 Glennis Close, Gosnells, WA",
    "languageCode": "E"
   },
-  "lastVisit": "2023-05-30",
+  "lastVisit": "2023-08-16",
   "lastSeen": "2022-10-01",
-  "active": false,
+  "active": 0,
   "firstSeen": "2022-10-01"
  },
  {
   "geoId": "24B67EE3-2771-443F-90BC-7E3136EF5D20",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.93945,
-   "longitude": 117.18418
+   "longitude": 117.18418,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Narrogin - WA",
@@ -1169,20 +1249,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0439003907" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F390D354-3CB5-4522-8E4B-E0515D506A39",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.3669,
-   "longitude": 117.00705
+   "longitude": 117.00705,
+   "iso": "AUS"
   },
   "properties": {
    "orgName": "Brookton - WA",
@@ -1191,11 +1272,11 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "0417664490" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

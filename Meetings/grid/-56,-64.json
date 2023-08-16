@@ -2,10 +2,11 @@
  {
   "geoId": "C13D3103-EB5E-426A-84F3-F199F5D30C53",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -51.693837,
-   "longitude": -57.859604
+   "longitude": -57.859604,
+   "iso": "FLK"
   },
   "properties": {
    "orgName": "Falkland Islands - Stanley",
@@ -15,11 +16,11 @@
    "schedule": "Sun 10:00 Thu 18:15",
    "relatedLanguageCodes": [ "S" ],
    "phones": [],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

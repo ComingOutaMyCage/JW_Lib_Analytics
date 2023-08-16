@@ -2,10 +2,11 @@
  {
   "geoId": "232E4599-063E-4D03-8FF2-1F57862656D4",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.839378,
-   "longitude": -95.770249
+   "longitude": -95.770249,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Roseau - MN (USA)",
@@ -14,20 +15,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "218-463-3017" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0D16BA01-AB1A-495D-886E-BDCB489BDE42",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.710298,
-   "longitude": -94.590828
+   "longitude": -94.590828,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "Baudette - MN (USA)",
@@ -36,20 +38,44 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "(218) 202-0055" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "406FAA1A-413E-4F5C-8157-7D7EEA13E8D5",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 48.620222,
+   "longitude": -93.583938,
+   "iso": "CAN"
+  },
+  "properties": {
+   "orgName": "International Falls - MN (USA)",
+   "orgType": "CONG",
+   "address": "15 Heward Road\r\nDevlin ON",
+   "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:00",
+   "phones": [ "218 283-4684" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6AD78C7A-E52A-48F6-B921-5DC18913B33D",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.620454,
-   "longitude": -93.583598
+   "longitude": -93.583598,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Fort Frances, ON",
@@ -58,42 +84,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "807-709-8484" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "406FAA1A-413E-4F5C-8157-7D7EEA13E8D5",
-  "type": "weekly",
-  "isPrimary": true,
-  "location": {
-   "latitude": 48.590606,
-   "longitude": -93.40455
-  },
-  "properties": {
-   "orgName": "International Falls - MN (USA)",
-   "orgType": "CONG",
-   "address": "1500 3rd Ave W\nInternational Falls MN  56649",
-   "languageCode": "E",
-   "schedule": "Sun 10:00 Tue 19:00",
-   "phones": [ "218 283-4684" ],
-   "isPrivateMtgPlace": false
-  },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "932C171A-4611-4753-B0DE-4CDD288F4CD9",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.783337,
-   "longitude": -94.438645
+   "longitude": -94.438645,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Kenora, ON",
@@ -102,20 +107,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "807-407-8360" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1423C574-52C8-43C0-A2E2-A360206A9137",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.802653,
-   "longitude": -92.84472
+   "longitude": -92.84472,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Dryden, ON",
@@ -124,42 +130,44 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "(866) 399-7888" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "49E5B026-CD01-4CE5-9F17-10EB2E4C81F7",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.753307,
-   "longitude": -91.59608
+   "longitude": -91.59608,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Atikokan, ON",
    "orgType": "CONG",
    "address": "206 Dorothy Street\r\nAtikokan ON  P0T 1C0",
    "languageCode": "E",
-   "schedule": "Sun 11:00 Wed 19:00",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "(807) 276-7985" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FFBF8840-C62A-4890-9EFD-0055F1C98DDA",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.017204,
-   "longitude": -93.811542
+   "longitude": -93.811542,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Red Lake, ON",
@@ -168,20 +176,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "807 727 1914" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FF90B29E-5134-4457-9632-DA3C62FB38AD",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.421257,
-   "longitude": -89.270551
+   "longitude": -89.270551,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Lakeshore, Thunder Bay, ON",
@@ -190,20 +199,21 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "807-697-3381" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0487F84D-5885-42CD-A251-811053397E90",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.421257,
-   "longitude": -89.270551
+   "longitude": -89.270551,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "Silver Falls, Thunder Bay, ON",
@@ -212,11 +222,11 @@
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "807-697-3380" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

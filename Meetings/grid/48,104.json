@@ -2,10 +2,11 @@
  {
   "geoId": "BAB6D89E-74DD-4F35-A9FE-91C1272B3C09",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.025242,
-   "longitude": 104.026299
+   "longitude": 104.026299,
+   "iso": "MNG"
   },
   "properties": {
    "orgName": "Erdenet",
@@ -14,20 +15,21 @@
    "languageCode": "KHA",
    "schedule": "Sun 10:00 Thu 18:30",
    "phones": [ "99356149" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2F1B0051-A71F-48A7-A7E7-D849FD3434F3",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.483623,
-   "longitude": 105.947261
+   "longitude": 105.947261,
+   "iso": "MNG"
   },
   "properties": {
    "orgName": "Darkhan",
@@ -36,11 +38,11 @@
    "languageCode": "KHA",
    "schedule": "Sun 10:00 Wed 18:30",
    "phones": [ "(+976) 86085522" ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

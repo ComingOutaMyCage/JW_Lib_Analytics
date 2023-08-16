@@ -103,9 +103,9 @@ function InsertNav(){
             </ul>
             <div class="d-flex">
                 <a href="https://s.reddit.com/c/198w7ck0xmo8u" target="_blank" style="height: 36px; padding:1px 9px 2px 0; border-radius: 30px; white-space: nowrap" class="btn btn-dark"><img src="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-60x60.png" style="height: 32px;"/> Chat</a>
-                <a href="https://www.paypal.com/donate/?hosted_button_id=KEKGVKFPPV3RQ" target="_blank" style="height: 36px; padding:1px 9px 2px 0; border-radius: 30px; white-space: nowrap" class="btn btn-dark">
+                <!--<a href="https://www.paypal.com/donate/?hosted_button_id=KEKGVKFPPV3RQ" target="_blank" style="height: 36px; padding:1px 9px 2px 0; border-radius: 30px; white-space: nowrap" class="btn btn-dark">
                     <img src="images/beer.png" style="height: 32px;"/> Support Projects</a>
-                </a>
+                </a>-->
             </div>
         </div>
     </div>

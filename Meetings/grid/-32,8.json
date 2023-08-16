@@ -2,10 +2,11 @@
  {
   "geoId": "93536C3E-0606-4A59-876F-F348CEFA6711",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -26.644854,
-   "longitude": 15.162739
+   "longitude": 15.162739,
+   "iso": "NAM"
   },
   "properties": {
    "orgName": "Luderitz Congregation",
@@ -13,12 +14,12 @@
    "address": "ERF 779 Benguela\r\nLUDERITZ\r\nNAMIBIA",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 18:30",
-   "phones": [ "+264&nbsp;81 207 2433 / +264 81 660 9865" ],
-   "isPrivateMtgPlace": false
+   "phones": [ "+264&nbsp;81 207 2433 / +264 81 291 6842" ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-05-29",
-  "lastSeen": "2023-05-29",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]

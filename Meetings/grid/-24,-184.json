@@ -2,10 +2,11 @@
  {
   "geoId": "ABE49C26-DEF6-449C-BAED-DA9F1C94D681",
   "type": "weekly",
-  "isPrimary": true,
+  "isPrimary": 1,
   "location": {
    "latitude": -16.791312,
-   "longitude": -179.995944
+   "longitude": -179.995944,
+   "iso": "FJI"
   },
   "properties": {
    "orgName": "Taveuni",
@@ -17,11 +18,11 @@
     "9704481",
     "9704481"
    ],
-   "isPrivateMtgPlace": false
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-14",
-  "lastSeen": "2023-06-14",
-  "active": true,
+  "lastVisit": "2023-08-16",
+  "lastSeen": "2023-08-16",
+  "active": 1,
   "firstSeen": "2022-12-02"
  }
 ]
