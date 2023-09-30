@@ -1,15 +1,16 @@
 {
  "typeTotals": {
-  "CONG": 115782,
-  "GROUP": 6927,
+  "CONG": 115788,
+  "GROUP": 6928,
   "PREGROUP": 74
  },
- "total": 120883,
- "totalActive": 117497,
+ "total": 120884,
+ "totalActive": 117498,
  "totalInactive": 3386,
- "totalLocations": 66546,
- "totalOrphans": 2775,
- "totalWithSchedules": 122682,
+ "totalLocations": 66543,
+ "activeLocations": 63762,
+ "totalOrphans": 2781,
+ "totalWithSchedules": 122689,
  "languages": {
   "A": {
    "count": 233,
@@ -366,7 +367,7 @@
    "writeLang": [ "BKY" ]
   },
   "BL": {
-   "count": 157,
+   "count": 155,
    "name": "Bulgarian",
    "signLang": false,
    "writeLang": [ "BL" ]
@@ -564,7 +565,7 @@
    "writeLang": [ "CGM" ]
   },
   "CGS": {
-   "count": 98,
+   "count": 99,
    "name": "Congolese Sign Language",
    "signLang": true,
    "writeLang": [ "CGS" ]
@@ -609,7 +610,7 @@
    "writeLang": [ "CHL" ]
   },
   "CHM": {
-   "count": 873,
+   "count": 872,
    "name": "Chinese (Mandarin)",
    "signLang": false,
    "writeLang": [
@@ -822,7 +823,7 @@
    "writeLang": [ "CV" ]
   },
   "CW": {
-   "count": 1957,
+   "count": 1958,
    "name": "Cibemba",
    "signLang": false,
    "writeLang": [ "CW" ]
@@ -1266,7 +1267,7 @@
    "writeLang": [ "GSL" ]
   },
   "GTN": {
-   "count": 16,
+   "count": 17,
    "name": "Gitonga",
    "signLang": false,
    "writeLang": [ "GTN" ]
@@ -1512,7 +1513,7 @@
    "writeLang": [ "INI" ]
   },
   "INS": {
-   "count": 115,
+   "count": 114,
    "name": "Indian Sign Language",
    "signLang": true,
    "writeLang": [ "INS" ]
@@ -2298,7 +2299,7 @@
    "writeLang": [ "MAY" ]
   },
   "MAZ": {
-   "count": 48,
+   "count": 47,
    "name": "Mazatec (Huautla)",
    "signLang": false,
    "writeLang": [ "MAZ" ]
@@ -3552,7 +3553,7 @@
    "writeLang": [ "RWS" ]
   },
   "S": {
-   "count": 32074,
+   "count": 32077,
    "name": "Spanish",
    "signLang": false,
    "writeLang": [ "S" ]
@@ -3696,7 +3697,7 @@
    "writeLang": [ "SHD" ]
   },
   "SHO": {
-   "count": 42,
+   "count": 41,
    "name": "Honduras Sign Language",
    "signLang": true,
    "writeLang": [ "SHO" ]
@@ -3978,7 +3979,7 @@
    "writeLang": [ "TJO" ]
   },
   "TK": {
-   "count": 143,
+   "count": 141,
    "name": "Turkish",
    "signLang": false,
    "writeLang": [ "TK" ]
@@ -3996,7 +3997,7 @@
    "writeLang": [ "TKW" ]
   },
   "TL": {
-   "count": 466,
+   "count": 465,
    "name": "Tamil",
    "signLang": false,
    "writeLang": [ "TL" ]
@@ -4062,7 +4063,7 @@
    "writeLang": [ "TPN" ]
   },
   "TPO": {
-   "count": 3431,
+   "count": 3432,
    "name": "Portuguese (Portugal)",
    "signLang": false,
    "writeLang": [ "TPO" ]

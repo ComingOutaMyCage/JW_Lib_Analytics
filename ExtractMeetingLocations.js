@@ -730,6 +730,8 @@ async function SaveAllMeetings(allMeetings){
     let orphans = await SaveOrphans();
     let orphanCount = Object.keys(orphanLocations).length;
 
+    let activeLocations = totalLocations - orphanCount;
+
     //Sort by key
     languages = Object.keys(languages).sort().reduce((obj, key) => { obj[key] = languages[key]; return obj; }, {});
 
@@ -739,6 +741,7 @@ async function SaveAllMeetings(allMeetings){
         totalActive: totalActive,
         totalInactive: totalInactive,
         totalLocations: totalLocations,
+        activeLocations: activeLocations,
         totalOrphans: orphanCount,
         totalWithSchedules: totalSchedules,
         languages: languages,
@@ -853,9 +856,9 @@ const compile = async function(args){
 }
 const validate_recent_losses = async function(args){
     let inactiveMeetings = Object.values(allMeetings).filter(meeting => !meeting.active);
-    inactiveMeetings = FilterLastSeen(inactiveMeetings, 1, false);
+    inactiveMeetings = FilterLastSeen(inactiveMeetings, 6, false);
 
-    await RescanMissingMeetings(inactiveMeetings, 0, 0);
+    await RescanMissingMeetings(inactiveMeetings, 0, 6);
 }
 const OneKM = 1 / 111.0;
 const HundredMetres = OneKM * 0.1;

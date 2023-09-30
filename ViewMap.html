@@ -93,7 +93,8 @@
         <div id="stats" style="display: flex; align-items: center; gap: 1rem; flex: 1; flex-flow: wrap; min-width: 300px">
             <h3 style="background: darkgreen; border-radius: 0.2rem; padding:0.2rem; color: white;">Active <span id="total">...</span></h3>
             <h3 style="background: darkred; border-radius: 0.2rem; padding:0.2rem; color: white;">Deleted <span id="totalDeleted">...</span></h3>
-            <h3 style="background: darkred; border-radius: 0.2rem; padding:0.2rem; color: white;">Abandonded Locations <span id="totalOrphans">...</span></h3>
+            <h3 style="background: darkgreen; border-radius: 0.2rem; padding:0.2rem; color: white;">Active Locations <span id="activeLocations">...</span></h3>
+            <h3 style="background: darkred; border-radius: 0.2rem; padding:0.2rem; color: white;">Abandoned Locations <span id="totalOrphans">...</span></h3>
         </div>
     </div>
     <div id="mapHeader" style="display: flex; gap: 0.3rem; flex-flow: wrap;">
@@ -138,6 +139,7 @@
             available_grids = init_data.grids;
             $("#total").text(init_data.totalActive);
             $("#totalDeleted").text(init_data.totalInactive);
+            $("#activeLocations").text(init_data.activeLocations ?? '');
             $("#totalOrphans").text(init_data.totalOrphans);
             $("#stats").append(`<h4>TOTAL RECORDS:</h4>
 <h4>Congs: ${init_data.typeTotals.CONG}</h3>
