@@ -2,7 +2,7 @@
  {
   "geoId": "3F370B2C-D0E5-413E-83A3-016329A8C5EC",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 47.913584,
    "longitude": 106.857968,
@@ -11,42 +11,19 @@
   "properties": {
    "orgName": "Khan-Uul",
    "orgType": "CONG",
-   "address": "117 PEACE AVENUE 5th BLOCK\r\nBAYANGOL,\r\nULAANBAATAR",
+   "address": "117 PEACE AVENUE 5th BLOCK\nBAYANGOL,\nULAANBAATAR",
    "languageCode": "KHA",
    "schedule": "Sun 10:00 Wed 18:30",
    "phones": [ "8031-5966" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2C749532-F5A4-4C64-896A-A8A92CA7BC74",
-  "type": "weekly",
-  "isPrimary": 0,
-  "location": {
-   "latitude": 47.913584,
-   "longitude": 106.857968,
-   "iso": "MNG"
-  },
-  "properties": {
-   "orgName": "Enkhtaivan",
-   "orgType": "CONG",
-   "address": "117 PEACE AVENUE 5th BLOCK\r\nBAYANGOL,\r\nULAANBAATAR",
-   "languageCode": "KHA",
-   "schedule": "Sat 10:30 Tue 18:30",
-   "phones": [ "-" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "734638A9-414F-4C7F-9CA8-3052BDE9263E",
   "type": "weekly",
   "isPrimary": 1,
   "location": {
@@ -55,16 +32,39 @@
    "iso": "MNG"
   },
   "properties": {
+   "orgName": "Enkhtaivan",
+   "orgType": "CONG",
+   "address": "117 PEACE AVENUE 5th BLOCK\nBAYANGOL,\nULAANBAATAR",
+   "languageCode": "KHA",
+   "schedule": "Sat 10:30 Tue 18:30",
+   "phones": [ "-" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "734638A9-414F-4C7F-9CA8-3052BDE9263E",
+  "type": "weekly",
+  "isPrimary": 0,
+  "location": {
+   "latitude": 47.913584,
+   "longitude": 106.857968,
+   "iso": "MNG"
+  },
+  "properties": {
    "orgName": "Bayangol Sign Language",
    "orgType": "CONG",
-   "address": "117 PEACE AVENUE 5th BLOCK\r\nBAYANGOL,\r\nULAANBAATAR",
+   "address": "117 PEACE AVENUE 5th BLOCK\nBAYANGOL,\nULAANBAATAR",
    "languageCode": "MSR",
    "schedule": "Sun 13:30 Thu 18:30",
    "phones": [ "-" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -80,14 +80,14 @@
   "properties": {
    "orgName": "Talbai",
    "orgType": "CONG",
-   "address": "Bayanzurkh duureg 6-r Khoroo,\r\nEnkhtaivanii Urgun Chuluu 31/13,\r\nUlaanbaatar",
+   "address": "Bayanzurkh duureg 6-r Khoroo,\nEnkhtaivanii Urgun Chuluu 31/13,\nUlaanbaatar",
    "languageCode": "KHA",
    "schedule": "Sun 10:30 Wed 18:30",
    "phones": [ "80243376" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -103,14 +103,14 @@
   "properties": {
    "orgName": "Bayanzurkh",
    "orgType": "CONG",
-   "address": "Bayanzurkh duureg 6-r Khoroo,\r\nEnkhtaivanii Urgun Chuluu 31/13,\r\nUlaanbaatar",
+   "address": "Bayanzurkh duureg 6-r Khoroo,\nEnkhtaivanii Urgun Chuluu 31/13,\nUlaanbaatar",
    "languageCode": "KHA",
    "schedule": "Sun 14:00 Thu 18:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -126,15 +126,15 @@
   "properties": {
    "orgName": "Nalaikh",
    "orgType": "CONG",
-   "address": "Налайх дүүргийн 2-р хороо,\r\nЖаргалантын 12790\r\nТ.Дамдингийн гудамж 75 тоот.",
+   "address": "Налайх дүүргийн 2-р хороо,\nЖаргалантын 12790\nТ.Дамдингийн гудамж 75 тоот.",
    "transliteratedAddress": "No 75, T. Dandin gudamj,\r\nJargalant 12790, 8-r khoroo,\r\nNALAIKH duureg, ULAANBAATAR\r\n\r\n",
    "languageCode": "KHA",
    "schedule": "Sun 10:00 Thu 18:30",
    "phones": [ "80069306" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

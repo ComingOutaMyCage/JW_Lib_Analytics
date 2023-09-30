@@ -11,14 +11,14 @@
   "properties": {
    "orgName": "Chile Chico",
    "orgType": "CONG",
-   "address": "Las Vertientes 948\r\nCHILE CHICO  (XI. AYSEN",
+   "address": "Las Vertientes 948\nCHILE CHICO  (XI. AYSEN",
    "languageCode": "S",
    "schedule": "Sat 18:30 Wed 19:30",
    "phones": [ "+56979704889" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -34,14 +34,14 @@
   "properties": {
    "orgName": "Los Antiguos, Santa Cruz",
    "orgType": "CONG",
-   "address": "Perito Moreno 677\r\nLos Antiguos, Santa Cruz\r\nC. P.:",
+   "address": "Perito Moreno 677\nLos Antiguos, Santa Cruz\nC. P.:",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "+549 297-4138631" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -57,14 +57,14 @@
   "properties": {
    "orgName": "Alto Río Senguer, Chubut",
    "orgType": "CONG",
-   "address": "José Hernández s/n\r\nentre Bernardino Rivadavia y 25 de Mayo\r\nAlto Río Senguer, Chubut\r\nC. P.:  9033",
+   "address": "José Hernández s/n\nentre Bernardino Rivadavia y 25 de Mayo\nAlto Río Senguer, Chubut\nC. P.:  9033",
    "languageCode": "S",
    "schedule": "Sun 10:00 Fri 20:00",
    "phones": [ "2944295247" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -80,14 +80,14 @@
   "properties": {
    "orgName": "Río Pico, Chubut - Gobernador Costa, Chubut",
    "orgType": "GROUP",
-   "address": "El Ñirantal 415\r\nRío Pico, Chubut\r\nC. P.:  9225",
+   "address": "El Ñirantal 415\nRío Pico, Chubut\nC. P.:  9225",
    "languageCode": "S",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "299 418 4669" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -103,14 +103,14 @@
   "properties": {
    "orgName": "Las Heras, Santa Cruz",
    "orgType": "CONG",
-   "address": "El Chaltén s/n\r\nentre O'Higgins y Luis Piedrabuena.\r\nLas Heras, Santa Cruz\r\nC. P.:  9017",
+   "address": "El Chaltén s/n\nentre O'Higgins y Luis Piedrabuena.\nLas Heras, Santa Cruz\nC. P.:  9017",
    "languageCode": "S",
    "schedule": "Sun 18:00 Thu 20:00",
    "phones": [ "2974088202 | 2974355823" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -132,10 +132,33 @@
    "phones": [ "56988126615" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
+ },
+ {
+  "geoId": "A72ED8A4-16CE-4446-B712-B9B16C183019(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -43.618104,
+   "longitude": -71.801261
+  },
+  "properties": {
+   "orgName": "(Moved) Palena",
+   "orgType": "CONG",
+   "address": "Av. Pedro Montt 921\r\nPALENA  (X. LAGOS)",
+   "languageCode": "S",
+   "schedule": "Sat 19:00 Wed 19:00",
+   "phones": [ "56976235264 56988126615" ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastVisit": "2023-06-14",
+  "lastSeen": "2023-06-14",
+  "active": 0,
+  "firstSeen": "2023-06-02",
+  "moved": "Av. Vicente Perez Rosales 393\nPALENA  (X. LAGOS)"
  },
  {
   "geoId": "30C447BE-02E0-4B86-A4ED-E03B73BBFF66",
@@ -155,8 +178,8 @@
    "phones": [ "+56962117034" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -172,14 +195,14 @@
   "properties": {
    "orgName": "Pico Truncado, Santa Cruz",
    "orgType": "CONG",
-   "address": "Pueyrredón 951\r\nPico Truncado, Santa Cruz\r\nC. P.:  9015",
+   "address": "Pueyrredón 951\nPico Truncado, Santa Cruz\nC. P.:  9015",
    "languageCode": "S",
    "schedule": "Sun 10:30 Thu 20:00",
    "phones": [ "(0297) 499 1946" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -195,14 +218,14 @@
   "properties": {
    "orgName": "Sarmiento, Chubut",
    "orgType": "CONG",
-   "address": "Av. 9 de Julio 264\r\nentre Carlos Pellegrini y Av. Astrada\r\nSarmiento, Chubut\r\nC. P.:  9020",
+   "address": "Av. 9 de Julio 264\nentre Carlos Pellegrini y Av. Astrada\nSarmiento, Chubut\nC. P.:  9020",
    "languageCode": "S",
    "schedule": "Sun 10:30 Thu 20:00",
    "phones": [ "2974244258" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -218,39 +241,16 @@
   "properties": {
    "orgName": "Gobernador Costa, Chubut",
    "orgType": "CONG",
-   "address": "Julio Argentino Roca s/n\r\nGobernador Costa, Chubut\r\nC. P.:  9223",
+   "address": "Julio Argentino Roca s/n\nGobernador Costa, Chubut\nC. P.:  9223",
    "languageCode": "S",
    "schedule": "Sun 10:30 Fri 19:00",
    "phones": [ "299 418 4669" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "8F184CB3-D73C-4CFF-A916-7081E0AC615B",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -43.08026,
-   "longitude": -71.46358,
-   "iso": "ARG"
-  },
-  "properties": {
-   "orgName": "Corcovado, Chubut - Trevelin, Chubut",
-   "orgType": "GROUP",
-   "address": "Almirnate Brown 110\r\nTrevelin, Chubut\r\nC. P.:  9203",
-   "languageCode": "S",
-   "schedule": "Sun 10:00 Thu 19:00",
-   "phones": [ "2945526077" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastSeen": "2023-02-20",
-  "active": 0,
-  "firstSeen": "2022-12-02",
-  "lastVisit": "2023-08-16"
  },
  {
   "geoId": "F2A5B573-3B8C-43C6-83B8-BB1DEC37E45D",
@@ -270,10 +270,10 @@
    "phones": [ "2945526077" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
-  "firstSeen": "2023-06-02"
+  "firstSeen": "2022-12-02"
  },
  {
   "geoId": "74C48893-5BFF-42DC-9C25-B36208520C9B",
@@ -293,8 +293,8 @@
    "phones": [ "02945 15550801" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -317,8 +317,8 @@
    "phones": [ "02945455356" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -341,8 +341,8 @@
    "phones": [ "02945455356" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -364,8 +364,8 @@
    "phones": [ "02945 15550801" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -381,21 +381,21 @@
   "properties": {
    "orgName": "Oeste, Caleta Olivia, Santa Cruz",
    "orgType": "CONG",
-   "address": "Carlos María de Alvear 439\r\nentre 13 de Diciembre e Intendente Salaberry\r\nCaleta Olivia, Santa Cruz\r\nC. P.:",
+   "address": "Carlos María de Alvear 439\nentre 13 de Diciembre e Intendente Salaberry\nCaleta Olivia, Santa Cruz\nC. P.:",
    "languageCode": "S",
    "schedule": "Sat 20:00 Thu 20:00",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "0E5F773B-1241-4AA5-ACEE-B8948BDC2568",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -46.442618,
    "longitude": -67.529848,
@@ -404,43 +404,19 @@
   "properties": {
    "orgName": "Centro, Caleta Olivia, Santa Cruz",
    "orgType": "CONG",
-   "address": "Carlos María de Alvear 439\r\nentre 13 de Diciembre e Intendente Salaberry\r\nCaleta Olivia, Santa Cruz\r\nC. P.:",
+   "address": "Carlos María de Alvear 439\nentre 13 de Diciembre e Intendente Salaberry\nCaleta Olivia, Santa Cruz\nC. P.:",
    "languageCode": "S",
    "schedule": "Sat 17:00 Wed 20:00",
    "phones": [ "2974126060" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "958A6456-F556-40B4-8DDA-CB4E979D4B08",
-  "type": "weekly",
-  "isPrimary": 0,
-  "location": {
-   "latitude": -46.44757,
-   "longitude": -67.51401,
-   "iso": "ARG"
-  },
-  "properties": {
-   "orgName": "Este, Caleta Olivia, Santa Cruz",
-   "orgType": "CONG",
-   "address": "Asunción Damevin 1491\r\nesq. Gobernador Gregores\r\nCaleta Olivia, Santa Cruz\r\nC. P.:  9011",
-   "languageCode": "S",
-   "schedule": "Sun 10:30 Thu 20:00",
-   "relatedLanguageCodes": [ "QUB" ],
-   "phones": [ "2975489153" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "F86421C1-314E-4AD1-9D19-1313A9A00CA4",
   "type": "weekly",
   "isPrimary": 1,
   "location": {
@@ -449,17 +425,41 @@
    "iso": "ARG"
   },
   "properties": {
+   "orgName": "Este, Caleta Olivia, Santa Cruz",
+   "orgType": "CONG",
+   "address": "Asunción Damevin 1491\nesq. Gobernador Gregores\nCaleta Olivia, Santa Cruz\nC. P.:  9011",
+   "languageCode": "S",
+   "schedule": "Sun 10:30 Thu 20:00",
+   "relatedLanguageCodes": [ "QUB" ],
+   "phones": [ "2975489153" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "F86421C1-314E-4AD1-9D19-1313A9A00CA4",
+  "type": "weekly",
+  "isPrimary": 0,
+  "location": {
+   "latitude": -46.44757,
+   "longitude": -67.51401,
+   "iso": "ARG"
+  },
+  "properties": {
    "orgName": "Caleta Olivia, Santa Cruz (Quechua) - Este, Caleta Olivia, Santa Cruz",
    "orgType": "GROUP",
-   "address": "Asunción Damevin 1491\r\nesq. Gobernador Gregores\r\nCaleta Olivia, Santa Cruz\r\nC. P.:  9011",
+   "address": "Asunción Damevin 1491\nesq. Gobernador Gregores\nCaleta Olivia, Santa Cruz\nC. P.:  9011",
    "languageCode": "QUB",
    "schedule": "Sun 10:30 Thu 20:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "2975489153" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -475,14 +475,14 @@
   "properties": {
    "orgName": "Cholila, Chubut",
    "orgType": "CONG",
-   "address": "Los Maitenes s/n\r\nEsq, Los Radales\r\nCholila, Chubut\r\nC. P.:",
+   "address": "Los Maitenes s/n\nEsq, Los Radales\nCholila, Chubut\nC. P.:",
    "languageCode": "S",
    "schedule": "Sun 17:00 Thu 19:30",
    "phones": [ "2945446144" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -498,14 +498,14 @@
   "properties": {
    "orgName": "Lago Puelo, Chubut",
    "orgType": "CONG",
-   "address": "El Huemul s/n\r\nentre Los Cipreses y Los Coihues\r\nLago Puelo, Chubut\r\nC. P.:  8431",
+   "address": "El Huemul s/n\nentre Los Cipreses y Los Coihues\nLago Puelo, Chubut\nC. P.:  8431",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "+54&nbsp;294 4609761" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -521,15 +521,15 @@
   "properties": {
    "orgName": "Puerto Deseado, Santa Cruz",
    "orgType": "CONG",
-   "address": "Perito Moreno 820\r\nPuerto Deseado, Santa Cruz\r\nC. P.:  9050",
+   "address": "Perito Moreno 820\nPuerto Deseado, Santa Cruz\nC. P.:  9050",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 20:00",
    "relatedLanguageCodes": [ "QUB" ],
    "phones": [ "2976258674" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -545,14 +545,14 @@
   "properties": {
    "orgName": "Epuyen, Chubut",
    "orgType": "CONG",
-   "address": "El Puma S/N\r\nEpuyen, Chubut\r\nC. P.:  9211",
+   "address": "Los Canelos s/n\nentre Del Puma y Los Pehuenes\nCushamen, Chubut\nC. P.:  9211",
    "languageCode": "S",
-   "schedule": "Sun 10:00 Thu 19:00",
+   "schedule": "Sat 18:00 Thu 19:00",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -568,14 +568,14 @@
   "properties": {
    "orgName": "El Hoyo, Chubut",
    "orgType": "CONG",
-   "address": "Los Maitenes 136\r\nentre Las Rosas y Las Verónicas\r\nEl Hoyo, Chubut\r\nC. P.:  9211",
+   "address": "Los Maitenes 136\nentre Las Rosas y Las Verónicas\nEl Hoyo, Chubut\nC. P.:  9211",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "2944151387" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -591,14 +591,14 @@
   "properties": {
    "orgName": "Norte, El Bolsón, Río Negro",
    "orgType": "CONG",
-   "address": "San Martín 1455\r\nEl Bolsón, Río Negro\r\nC. P.:  8430",
+   "address": "San Martín 1455\nEl Bolsón, Río Negro\nC. P.:  8430",
    "languageCode": "S",
    "schedule": "Sun 10:30 Thu 20:00",
    "phones": [ "2944216121" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -614,14 +614,14 @@
   "properties": {
    "orgName": "Sur, El Bolsón, Río Negro",
    "orgType": "CONG",
-   "address": "San Martín 1455\r\nEl Bolsón, Río Negro\r\nC. P.:  8430",
+   "address": "San Martín 1455\nEl Bolsón, Río Negro\nC. P.:  8430",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 20:00",
    "phones": [ "+54 9 (011) 15-5812-7685" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -637,14 +637,14 @@
   "properties": {
    "orgName": "Forestal, Comodoro Rivadavia, Chubut",
    "orgType": "CONG",
-   "address": "Juan Manuel de Rosas 3136\r\nComodoro Rivadavia, Chubut\r\nC. P.:  9000",
+   "address": "Juan Manuel de Rosas 3136\nComodoro Rivadavia, Chubut\nC. P.:  9000",
    "languageCode": "S",
    "schedule": "Sat 17:00 Wed 20:00",
    "phones": [ "2974362040" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -660,14 +660,14 @@
   "properties": {
    "orgName": "Oeste, Comodoro Rivadavia, Chubut",
    "orgType": "CONG",
-   "address": "Juan Manuel de Rosas 3136\r\nComodoro Rivadavia, Chubut\r\nC. P.:  9000",
+   "address": "Juan Manuel de Rosas 3136\nComodoro Rivadavia, Chubut\nC. P.:  9000",
    "languageCode": "S",
    "schedule": "Sat 20:00 Tue 20:00",
    "phones": [ "297-4013716" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -683,14 +683,14 @@
   "properties": {
    "orgName": "Sur, Comodoro Rivadavia, Chubut",
    "orgType": "CONG",
-   "address": "Juan Manuel de Rosas 3136\r\nComodoro Rivadavia, Chubut\r\nC. P.:  9000",
+   "address": "Juan Manuel de Rosas 3136\nComodoro Rivadavia, Chubut\nC. P.:  9000",
    "languageCode": "S",
    "schedule": "Sun 19:00 Fri 20:00",
    "phones": [ "2975937837" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -706,14 +706,14 @@
   "properties": {
    "orgName": "Comodoro Rivadavia Quechua, Chubut",
    "orgType": "CONG",
-   "address": "Juan Manuel de Rosas 3136\r\nComodoro Rivadavia, Chubut\r\nC. P.:  9000",
+   "address": "Juan Manuel de Rosas 3136\nComodoro Rivadavia, Chubut\nC. P.:  9000",
    "languageCode": "QUB",
    "schedule": "Sun 10:00 Thu 20:00",
    "phones": [ "+54&nbsp;9 297 502-9024" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -729,14 +729,14 @@
   "properties": {
    "orgName": "Máximo Abásolo, Comodoro Rivadavia, Chubut",
    "orgType": "CONG",
-   "address": "Huergo 4207                     \r\nComodoro Rivadavia, Chubut\r\nC. P.:  9000",
+   "address": "Huergo 4207                     \nComodoro Rivadavia, Chubut\nC. P.:  9000",
    "languageCode": "S",
    "schedule": "Sat 17:00 Tue 19:30",
    "phones": [ "2976217828" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -752,15 +752,15 @@
   "properties": {
    "orgName": "Norte, Comodoro Rivadavia, Chubut",
    "orgType": "CONG",
-   "address": "Huergo 4207                     \r\nComodoro Rivadavia, Chubut\r\nC. P.:  9000",
+   "address": "Huergo 4207                     \nComodoro Rivadavia, Chubut\nC. P.:  9000",
    "languageCode": "S",
    "schedule": "Sun 10:30 Thu 20:00",
    "relatedLanguageCodes": [ "GI" ],
    "phones": [ "297-4010006" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -776,15 +776,15 @@
   "properties": {
    "orgName": "Comodoro Rivadavia, Chubut (Guaraní) - Norte, Comodoro Rivadavia, Chubut",
    "orgType": "GROUP",
-   "address": "Huergo 4207                     \r\nComodoro Rivadavia, Chubut\r\nC. P.:  9000",
+   "address": "Huergo 4207                     \nComodoro Rivadavia, Chubut\nC. P.:  9000",
    "languageCode": "GI",
    "schedule": "Sun 10:30 Thu 20:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "297-4010006" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -800,14 +800,14 @@
   "properties": {
    "orgName": "Centro, Comodoro Rivadavia, Chubut",
    "orgType": "CONG",
-   "address": "Ameghino 1853\r\nComodoro Rivadavia, Chubut\r\nC. P.:  9000",
+   "address": "Ameghino 1853\nComodoro Rivadavia, Chubut\nC. P.:  9000",
    "languageCode": "S",
    "schedule": "Sat 19:00 Tue 20:00",
    "phones": [ "2974747138" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -823,14 +823,14 @@
   "properties": {
    "orgName": "Este, Comodoro Rivadavia, Chubut",
    "orgType": "CONG",
-   "address": "Ameghino 1853\r\nComodoro Rivadavia, Chubut\r\nC. P.:  9000",
+   "address": "Ameghino 1853\nComodoro Rivadavia, Chubut\nC. P.:  9000",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 20:00",
    "phones": [ "297290342" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -846,14 +846,14 @@
   "properties": {
    "orgName": "Comodoro Rivadavia Lengua de Señas, Chubut",
    "orgType": "CONG",
-   "address": "Juan José Aimar 212\r\nBarrio Sismográfica Km. 3\r\nComodoro Rivadavia, Chubut\r\nC. P.:  9000",
+   "address": "Juan José Aimar 212\nBarrio Sismográfica Km. 3\nComodoro Rivadavia, Chubut\nC. P.:  9000",
    "languageCode": "LSA",
    "schedule": "Sat 18:00 Wed 20:00",
    "phones": [ "297-4006270" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -869,14 +869,14 @@
   "properties": {
    "orgName": "General Mosconi, Comodoro Rivadavia, Chubut",
    "orgType": "CONG",
-   "address": "Juan José Aimar 212\r\nBarrio Sismográfica Km. 3\r\nComodoro Rivadavia, Chubut\r\nC. P.:  9000",
+   "address": "Juan José Aimar 212\nBarrio Sismográfica Km. 3\nComodoro Rivadavia, Chubut\nC. P.:  9000",
    "languageCode": "S",
    "schedule": "Sun 10:30 Thu 20:00",
    "phones": [ "297-4015268" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -892,14 +892,14 @@
   "properties": {
    "orgName": "El Manso, Río Negro - Sur, El Bolsón, Río Negro",
    "orgType": "GROUP",
-   "address": "RP 83 Km 18\r\nEl Bolsón, Río Negro\r\nC. P.:  8430",
+   "address": "RP 83 Km 18\nEl Bolsón, Río Negro\nC. P.:  8430",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 20:00",
    "phones": [ "+54 9 (011) 15-5812-7685" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -915,14 +915,14 @@
   "properties": {
    "orgName": "El Maitén, Chubut",
    "orgType": "CONG",
-   "address": "Lamadrid 1257\r\nEl Maitén, Chubut\r\nC. P.:  9210",
+   "address": "Lamadrid 1257\nEl Maitén, Chubut\nC. P.:  9210",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "2945638199" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -938,14 +938,14 @@
   "properties": {
    "orgName": "Próspero Palazzo, Comodoro Rivadavia, Chubut",
    "orgType": "CONG",
-   "address": "Base Sobral 830\r\nentre Base Irizar y Base Melchor\r\nBarrio Los Alerces Km. 8\r\nComodoro Rivadavia, Chubut\r\nC. P.:  9000",
+   "address": "Base Sobral 830\nentre Base Irizar y Base Melchor\nBarrio Los Alerces Km. 8\nComodoro Rivadavia, Chubut\nC. P.:  9000",
    "languageCode": "S",
    "schedule": "Sat 20:00 Thu 20:00",
    "phones": [ "2974125383" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -961,14 +961,14 @@
   "properties": {
    "orgName": "Centenario, Comodoro Rivadavia, Chubut",
    "orgType": "CONG",
-   "address": "Base Sobral 830\r\nentre Base Irizar y Base Melchor\r\nBarrio Los Alerces Km. 8\r\nComodoro Rivadavia, Chubut\r\nC. P.:  9000",
+   "address": "Base Sobral 830\nentre Base Irizar y Base Melchor\nBarrio Los Alerces Km. 8\nComodoro Rivadavia, Chubut\nC. P.:  9000",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 19:30",
    "phones": [ "2974921221" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -984,14 +984,14 @@
   "properties": {
    "orgName": "Oeste, San Carlos de Bariloche, Rio Negro",
    "orgType": "CONG",
-   "address": "Pasaje Carpinteros 5123\r\nesq. Furman Km. 5\r\nSan Carlos de Bariloche, Río Negro\r\nC. P.:  8400",
+   "address": "Pasaje Carpinteros 5123\nesq. Furman Km. 5\nSan Carlos de Bariloche, Río Negro\nC. P.:  8400",
    "languageCode": "S",
    "schedule": "Sat 19:30 Thu 19:30",
    "phones": [ "294 4696832" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1007,14 +1007,14 @@
   "properties": {
    "orgName": "El Frutillar, San Carlos de Bariloche, Río Negro",
    "orgType": "CONG",
-   "address": "Neneo 468\r\nentre Cacique Casimiro y Cacique Nahuel\r\nSan Carlos de Bariloche, Río Negro\r\nC. P.:  8400",
+   "address": "Neneo 468\nentre Cacique Casimiro y Cacique Nahuel\nSan Carlos de Bariloche, Río Negro\nC. P.:  8400",
    "languageCode": "S",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "FIJO 444-0649" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1030,16 +1030,39 @@
   "properties": {
    "orgName": "Sur, San Carlos de Bariloche, Río Negro",
    "orgType": "CONG",
-   "address": "Neneo 468\r\nentre Cacique Casimiro y Cacique Nahuel\r\nSan Carlos de Bariloche, Río Negro\r\nC. P.:  8400",
+   "address": "Neneo 468\nentre Cacique Casimiro y Cacique Nahuel\nSan Carlos de Bariloche, Río Negro\nC. P.:  8400",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 19:30",
    "phones": [ "+5492944664476" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "08F38CC3-0BD1-4889-B58B-8C9B07557752(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -41.147532,
+   "longitude": -71.30491
+  },
+  "properties": {
+   "orgName": "(Moved) Onelli, San Carlos de Bariloche, Río Negro",
+   "orgType": "CONG",
+   "address": "Almirante Brown 510\r\nSan Carlos de Bariloche, Río Negro\r\nC. P.:  8400",
+   "languageCode": "S",
+   "schedule": "Sat 14:00 Mon 19:30",
+   "phones": [ "+54&nbsp;294 4589606" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-06-14",
+  "lastSeen": "2023-06-14",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Fagnano 1456\nSan Carlos de Bariloche, Río Negro\nC. P.:  8400"
  },
  {
   "geoId": "08F38CC3-0BD1-4889-B58B-8C9B07557752",
@@ -1053,14 +1076,14 @@
   "properties": {
    "orgName": "Onelli, San Carlos de Bariloche, Río Negro",
    "orgType": "CONG",
-   "address": "Fagnano 1456\r\nSan Carlos de Bariloche, Río Negro\r\nC. P.:  8400",
+   "address": "Fagnano 1456\nSan Carlos de Bariloche, Río Negro\nC. P.:  8400",
    "languageCode": "S",
    "schedule": "Sat 14:00 Mon 19:30",
    "phones": [ "+54&nbsp;294 4589606" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1076,14 +1099,14 @@
   "properties": {
    "orgName": "San Carlos de Bariloche Lengua de Señas, Río Negro",
    "orgType": "CONG",
-   "address": "Fagnano 1456\r\nSan Carlos de Bariloche, Río Negro\r\nC. P.:  8400",
+   "address": "Fagnano 1456\nSan Carlos de Bariloche, Río Negro\nC. P.:  8400",
    "languageCode": "LSA",
-   "schedule": "Sat 16:00 Tue 20:00",
+   "schedule": "Sat 17:00 Tue 20:00",
    "phones": [ "2944 352486" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1099,14 +1122,14 @@
   "properties": {
    "orgName": "Centro, San Carlos de Bariloche, Río Negro",
    "orgType": "CONG",
-   "address": "Fagnano 1456\r\nSan Carlos de Bariloche, Río Negro\r\nC. P.:  8400",
+   "address": "Fagnano 1456\nSan Carlos de Bariloche, Río Negro\nC. P.:  8400",
    "languageCode": "S",
-   "schedule": "Sun 10:30 Thu 20:00",
+   "schedule": "Sun 10:00 Thu 20:00",
    "phones": [ "02944522725" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1122,14 +1145,14 @@
   "properties": {
    "orgName": "Este, San Carlos de Bariloche, Río Negro",
    "orgType": "CONG",
-   "address": "Fagnano 1456\r\nSan Carlos de Bariloche, Río Negro\r\nC. P.:  8400",
+   "address": "Fagnano 1456\nSan Carlos de Bariloche, Río Negro\nC. P.:  8400",
    "languageCode": "S",
    "schedule": "Sat 19:30 Wed 19:45",
    "phones": [ "2944434491" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1143,18 +1166,41 @@
    "iso": "ARG"
   },
   "properties": {
-   "orgName": "Villa La Angostura, Neuquén",
+   "orgName": "Sur, Villa La Angostura, Neuquén",
    "orgType": "CONG",
-   "address": "Domingo Barria 790\r\nesq. Boulevard Quetrihue. Altura Ruta 231 Km. 64\r\nBarrio Peumayen\r\nVilla la Angostura, Neuquén\r\nC. P.:  8407",
+   "address": "Domingo Barria 790\nesq. Boulevard Quetrihue. Altura Ruta 231 Km. 64\nBarrio Peumayen\nVilla la Angostura, Neuquén\nC. P.:  8407",
    "languageCode": "S",
-   "schedule": "Sun 10:30 Thu 20:00",
+   "schedule": "Sat 19:00 Thu 20:00",
    "phones": [ "2944558849" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "EFFA08A2-1090-4D33-A0B0-4D390007DE8C",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -40.75782,
+   "longitude": -71.66335,
+   "iso": "ARG"
+  },
+  "properties": {
+   "orgName": "Norte, Villa La Angostura, Neuquén",
+   "orgType": "CONG",
+   "address": "Domingo Barria 790\nesq. Boulevard Quetrihue. Altura Ruta 231 Km. 64\nBarrio Peumayen\nVilla la Angostura, Neuquén\nC. P.:  8407",
+   "languageCode": "S",
+   "schedule": "Sun 10:30 Wed 20:00",
+   "phones": [ "2944558849" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2023-09-28"
  },
  {
   "geoId": "619A9D36-9966-4C66-801B-8FACA275FC1A",
@@ -1168,15 +1214,15 @@
   "properties": {
    "orgName": "Dina Huapi, Río Negro",
    "orgType": "CONG",
-   "address": "Las Americas 470\r\nentre Los Nogales y los Prunos\r\nDina Huapi, Río Negro\r\nC. P.:  8402",
+   "address": "Las Americas 470\nentre Los Nogales y los Prunos\nDina Huapi, Río Negro\nC. P.:  8402",
    "transliteratedAddress": "Las Americas entre Los Nogales y los Prunos\r\nDina Huapi, Río Negro\r\nC. P.:  8402\r\n",
    "languageCode": "S",
    "schedule": "Sat 19:30 Thu 19:30",
    "phones": [ "0294-154537969" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1202,8 +1248,8 @@
    "phones": [ "294 4140697" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1219,14 +1265,14 @@
   "properties": {
    "orgName": "Chapelco, San Martín de los Andes, Neuquén",
    "orgType": "CONG",
-   "address": "Av. Koessler 2131\r\nSan Martín de los Andes, Neuquén\r\nC. P.:  8370",
+   "address": "Av. Koessler 2131\nSan Martín de los Andes, Neuquén\nC. P.:  8370",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 20:00",
    "phones": [ "1158568744" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1249,9 +1295,9 @@
    "phones": [ "294 4140697" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2023-06-02"
  },
  {
@@ -1275,7 +1321,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-08-16"
+  "lastVisit": "2023-09-28"
  },
  {
   "geoId": "7B8BA160-DCD4-47BA-B144-261BE4FC7E50",
@@ -1296,8 +1342,8 @@
    "phones": [ "294 4140697" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1313,14 +1359,14 @@
   "properties": {
    "orgName": "Norte, San Martín de los Andes, Neuquén",
    "orgType": "CONG",
-   "address": "Calle 23 N° 1680\r\nEsq. Calle 11\r\nManzana X, Lotes 8 y 9, Bo Los Coirones, Chacra 28\r\nSan Martín de los Andes, Neuquén\r\nC. P.:  8370",
+   "address": "Calle 23 N° 1680\nEsq. Calle 11\nManzana X, Lotes 8 y 9, Bo Los Coirones, Chacra 28\nSan Martín de los Andes, Neuquén\nC. P.:  8370",
    "languageCode": "S",
-   "schedule": "Sat 19:00 Wed 20:00",
+   "schedule": "Sat 20:00 Wed 20:00",
    "phones": [ "2944 341569" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1336,14 +1382,14 @@
   "properties": {
    "orgName": "Ingeniero Jacobacci, Río Negro",
    "orgType": "CONG",
-   "address": "Presidente General Julio Argentino Roca 756\r\nIngeniero Jacobacci, Río Negro\r\nC. P.:  8418",
+   "address": "Presidente General Julio Argentino Roca 756\nIngeniero Jacobacci, Río Negro\nC. P.:  8418",
    "languageCode": "S",
    "schedule": "Sat 19:00 Thu 19:00",
    "phones": [ "02944-669145 / 02944-487049" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1359,14 +1405,14 @@
   "properties": {
    "orgName": "Piedra del Águila, Neuquén",
    "orgType": "CONG",
-   "address": "Cruz del Sur 186                \r\nPiedra del Águila, Neuquén\r\nC. P.:  8315",
+   "address": "Cruz del Sur 186                \nPiedra del Águila, Neuquén\nC. P.:  8315",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "299- 15 58 29 679" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1382,15 +1428,15 @@
   "properties": {
    "orgName": "Gaiman, Chubut",
    "orgType": "CONG",
-   "address": "Almirante Brown 294\r\nGaiman, Chubut\r\nC. P.:  9105",
+   "address": "Almirante Brown 294\nGaiman, Chubut\nC. P.:  9105",
    "languageCode": "S",
    "schedule": "Sun 10:00 Fri 20:00",
    "relatedLanguageCodes": [ "QUB" ],
    "phones": [ "2804660842" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1406,15 +1452,15 @@
   "properties": {
    "orgName": "Gaiman, Chubut (Quechua) - Gaiman, Chubut",
    "orgType": "GROUP",
-   "address": "Almirante Brown 294\r\nGaiman, Chubut\r\nC. P.:  9105",
+   "address": "Almirante Brown 294\nGaiman, Chubut\nC. P.:  9105",
    "languageCode": "QUB",
    "schedule": "Sat 19:00 Fri 20:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "2804660842" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1430,14 +1476,14 @@
   "properties": {
    "orgName": "Este, Trelew, Chubut",
    "orgType": "CONG",
-   "address": "Scalabrini Ortiz 724\r\nTrelew, Chubut\r\nC. P.:  9100",
+   "address": "Scalabrini Ortiz 724\nTrelew, Chubut\nC. P.:  9100",
    "languageCode": "S",
    "schedule": "Sat 19:00 Thu 20:00",
    "phones": [ "2804581178" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1453,14 +1499,14 @@
   "properties": {
    "orgName": "Sur, Trelew, Chubut",
    "orgType": "CONG",
-   "address": "Scalabrini Ortiz 724\r\nTrelew, Chubut\r\nC. P.:  9100",
+   "address": "Scalabrini Ortiz 724\nTrelew, Chubut\nC. P.:  9100",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "2804573841" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1476,21 +1522,21 @@
   "properties": {
    "orgName": "Centro, Trelew, Chubut",
    "orgType": "CONG",
-   "address": "Ecuador 766\r\nTrelew, Chubut\r\nC. P.:  9100",
+   "address": "Ecuador 766\nTrelew, Chubut\nC. P.:  9100",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 20:00",
    "phones": [ "2804578708" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "19E23C89-26F2-4683-BC1E-B68D3709A310",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -43.25161,
    "longitude": -65.3186,
@@ -1499,42 +1545,19 @@
   "properties": {
    "orgName": "Oeste, Trelew, Chubut",
    "orgType": "CONG",
-   "address": "Ecuador 766\r\nTrelew, Chubut\r\nC. P.:  9100",
+   "address": "Ecuador 766\nTrelew, Chubut\nC. P.:  9100",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 20:00",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1B30F613-9B18-4E45-9A8A-51F5C3E840C9",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -43.24577,
-   "longitude": -65.29282,
-   "iso": "ARG"
-  },
-  "properties": {
-   "orgName": "Trelew Lengua de Señas, Chubut",
-   "orgType": "CONG",
-   "address": "Roque González 369\r\nTrelew, Chubut\r\nC. P.:  9100",
-   "languageCode": "LSA",
-   "schedule": "Sat 19:00 Wed 19:30",
-   "phones": [ "2804363095" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "B6471A66-BDCE-4A81-A9B1-769860201979",
   "type": "weekly",
   "isPrimary": 0,
   "location": {
@@ -1543,16 +1566,39 @@
    "iso": "ARG"
   },
   "properties": {
+   "orgName": "Trelew Lengua de Señas, Chubut",
+   "orgType": "CONG",
+   "address": "Roque González 369\nTrelew, Chubut\nC. P.:  9100",
+   "languageCode": "LSA",
+   "schedule": "Sat 19:00 Wed 19:30",
+   "phones": [ "2804363095" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "B6471A66-BDCE-4A81-A9B1-769860201979",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -43.24577,
+   "longitude": -65.29282,
+   "iso": "ARG"
+  },
+  "properties": {
    "orgName": "Norte, Trelew, Chubut",
    "orgType": "CONG",
-   "address": "Roque González 369\r\nTrelew, Chubut\r\nC. P.:  9100",
+   "address": "Roque González 369\nTrelew, Chubut\nC. P.:  9100",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 20:00",
    "phones": [ "2915740242" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1568,14 +1614,14 @@
   "properties": {
    "orgName": "Rawson, Chubut",
    "orgType": "CONG",
-   "address": "Perito Moreno 341\r\nRawson, Chubut\r\nC. P.:  9103",
+   "address": "Perito Moreno 341\nRawson, Chubut\nC. P.:  9103",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 20:00",
    "phones": [ "2804363549" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1591,14 +1637,14 @@
   "properties": {
    "orgName": "Oeste, Puerto Madryn, Chubut",
    "orgType": "CONG",
-   "address": "Soldado Desconocido 644\r\nPuerto Madryn, Chubut\r\nC. P.:  9120",
+   "address": "Soldado Desconocido 644\nPuerto Madryn, Chubut\nC. P.:  9120",
    "languageCode": "S",
    "schedule": "Sat 19:00 Thu 20:00",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1614,14 +1660,14 @@
   "properties": {
    "orgName": "Puerto Madryn Quechua, Chubut",
    "orgType": "CONG",
-   "address": "Soldado Desconocido 644\r\nPuerto Madryn, Chubut\r\nC. P.:  9120",
+   "address": "Soldado Desconocido 644\nPuerto Madryn, Chubut\nC. P.:  9120",
    "languageCode": "QUB",
-   "schedule": "Sun 18:30 Wed 20:00",
+   "schedule": "Sun 19:30 Wed 20:00",
    "phones": [ "+54&nbsp;9 280 4195743" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1637,14 +1683,14 @@
   "properties": {
    "orgName": "Bo. San Miguel, Puerto Madryn, Chubut",
    "orgType": "CONG",
-   "address": "Soldado Desconocido 644\r\nPuerto Madryn, Chubut\r\nC. P.:  9120",
+   "address": "Soldado Desconocido 644\nPuerto Madryn, Chubut\nC. P.:  9120",
    "languageCode": "S",
    "schedule": "Sun 10:00 Fri 20:00",
    "phones": [ "(280) 15-4180876" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1660,14 +1706,14 @@
   "properties": {
    "orgName": "Este, Puerto Madryn, Chubut",
    "orgType": "CONG",
-   "address": "Agustín Pujol 727\r\nPuerto Madryn, Chubut\r\nC. P.:  9120",
+   "address": "Agustín Pujol 727\nPuerto Madryn, Chubut\nC. P.:  9120",
    "languageCode": "S",
    "schedule": "Sun 19:00 Fri 19:00",
    "phones": [ "2804723669" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1683,14 +1729,14 @@
   "properties": {
    "orgName": "Bo. Roca, Puerto Madryn, Chubut",
    "orgType": "CONG",
-   "address": "Agustín Pujol 727\r\nPuerto Madryn, Chubut\r\nC. P.:  9120",
+   "address": "Agustín Pujol 727\nPuerto Madryn, Chubut\nC. P.:  9120",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 20:00",
    "phones": [ "0280-15-4387361" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1706,14 +1752,14 @@
   "properties": {
    "orgName": "Norte, Puerto Madryn, Chubut",
    "orgType": "CONG",
-   "address": "Agustín Pujol 727\r\nPuerto Madryn, Chubut\r\nC. P.:  9120",
+   "address": "Agustín Pujol 727\nPuerto Madryn, Chubut\nC. P.:  9120",
    "languageCode": "S",
    "schedule": "Sat 19:00 Thu 20:00",
    "phones": [ "0280-426-6017" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1729,14 +1775,14 @@
   "properties": {
    "orgName": "Sur, Puerto Madryn, Chubut",
    "orgType": "CONG",
-   "address": "Albarracín 473\r\nPuerto Madryn, Chubut\r\nC. P.:  9120",
+   "address": "Albarracín 473\nPuerto Madryn, Chubut\nC. P.:  9120",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 20:00",
    "phones": [ "2804831884     2804384048" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1752,14 +1798,14 @@
   "properties": {
    "orgName": "Centro, Puerto Madryn, Chubut",
    "orgType": "CONG",
-   "address": "Albarracín 473\r\nPuerto Madryn, Chubut\r\nC. P.:  9120",
+   "address": "Albarracín 473\nPuerto Madryn, Chubut\nC. P.:  9120",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 20:00",
    "phones": [ "2804726991" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1775,14 +1821,14 @@
   "properties": {
    "orgName": "Sierra Grande, Río Negro",
    "orgType": "CONG",
-   "address": "Pasaje Namuncurá 230\r\nSierra Grande, Río Negro\r\nC. P.:  8532",
+   "address": "Pasaje Namuncurá 230\nSierra Grande, Río Negro\nC. P.:  8532",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "+54&nbsp;9 2920 598678" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1798,14 +1844,14 @@
   "properties": {
    "orgName": "San Antonio Oeste, Río Negro",
    "orgType": "CONG",
-   "address": "Holdich 380                     \r\nSan Antonio Oeste, Río Negro\r\nC. P.:  8520",
+   "address": "Holdich 380                     \nSan Antonio Oeste, Río Negro\nC. P.:  8520",
    "languageCode": "S",
    "schedule": "Sun 09:30 Thu 19:30",
    "phones": [ "2920608949" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1821,14 +1867,14 @@
   "properties": {
    "orgName": "General Conesa, Río Negro",
    "orgType": "CONG",
-   "address": "Urquiza 740\r\nGeneral Conesa, Río Negro\r\nC. P.:  8503",
+   "address": "Urquiza 740\nGeneral Conesa, Río Negro\nC. P.:  8503",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "0294154578959" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

@@ -4,12 +4,35 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
+   "latitude": 0.82265,
+   "longitude": 112.93312,
+   "iso": "IDN"
+  },
+  "properties": {
+   "orgName": "Putussibau",
+   "orgType": "CONG",
+   "address": "Jl. Lintas Sintang - Putussibau (depan bengkel\nmobil Mitra Jaya), Desa Kedamin Darat,\nKec. Putussibau Selatan, Kab. Kapuas Hulu\n78714",
+   "languageCode": "IN",
+   "schedule": "Sun 10:00 Thu 17:00",
+   "phones": [ "081345868621" ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "05D3E849-4879-4EF8-A213-4013A33DD47C(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
    "latitude": 0.834083,
    "longitude": 112.935556,
    "iso": "IDN"
   },
   "properties": {
-   "orgName": "Putussibau",
+   "orgName": "(Moved) Putussibau",
    "orgType": "CONG",
    "address": "Jl. Lintas Timur (Simpang Melapi)\r\nGg. Mulia No. 10, Rumah Panjang No. 1A\r\nKedamin-Putussibau - Kabupaten Kapuas Hulu\r\nPUTUSSIBAU—78711  KALIMANTAN BARAT\r\nKalimantan Barat",
    "languageCode": "IN",
@@ -19,8 +42,9 @@
   },
   "lastVisit": "2023-08-16",
   "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Jl. Lintas Sintang - Putussibau (depan bengkel\nmobil Mitra Jaya), Desa Kedamin Darat,\nKec. Putussibau Selatan, Kab. Kapuas Hulu\n78714"
  },
  {
   "geoId": "2099861C-6091-4D02-87A4-48B965EFC374",
@@ -41,8 +65,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -58,15 +82,15 @@
   "properties": {
    "orgName": "Bintulu Chinese",
    "orgType": "CONG",
-   "address": "Lot 922, 1st Floor Block31\r\nFortune Garden\r\nJalan Tanjong Batu\r\n97000 Bintulu",
+   "address": "Lot 922, 1st Floor Block31\nFortune Garden\nJalan Tanjong Batu\n97000 Bintulu",
    "transliteratedAddress": "Lot 922, 1st Floor Block31\r\nFortune Garden\r\nJalan Tanjong Batu\r\n97000 Bintulu\r\n",
    "languageCode": "CHM",
    "schedule": "Sun 09:00 Thu 19:30",
    "phones": [ "60198859235" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -82,15 +106,15 @@
   "properties": {
    "orgName": "Bintulu Iban",
    "orgType": "CONG",
-   "address": "Lot 922, 1st Floor Block31\r\nFortune Garden\r\nJalan Tanjong Batu\r\n97000 Bintulu",
+   "address": "Lot 922, 1st Floor Block31\nFortune Garden\nJalan Tanjong Batu\n97000 Bintulu",
    "transliteratedAddress": "Lot 922, 1st Floor Block31\r\nFortune Garden\r\nJalan Tanjong Batu\r\n97000 Bintulu\r\n",
    "languageCode": "IA",
    "schedule": "Sun 13:30 Wed 19:30",
    "phones": [ "0138371914" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -106,14 +130,14 @@
   "properties": {
    "orgName": "Bontang",
    "orgType": "CONG",
-   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Kapal Layar RT. 22, Kelurahan Lok Tuan\r\nKecamatan Bontang Utara, Kota Bontang\r\nBONTANG—75314  KALIMANTAN TIMUR\r\nKalimantan Timur",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\nJl. Kapal Layar RT. 22, Kelurahan Lok Tuan\nKecamatan Bontang Utara, Kota Bontang\nBONTANG—75314  KALIMANTAN TIMUR\nKalimantan Timur",
    "languageCode": "IN",
    "schedule": "Sun 09:00 Thu 18:30",
    "phones": [ "08115810992" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -129,14 +153,14 @@
   "properties": {
    "orgName": "Sangatta",
    "orgType": "CONG",
-   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Poros Kabo RT. 14 No. 63, Swarga Bara\r\nKecamatan Sangatta Utara\r\nSANGATTA—75611  KALIMANTAN TIMUR\r\nKota Kutai Timur",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\nJl. Poros Kabo RT. 14 No. 63, Swarga Bara\nKecamatan Sangatta Utara\nSANGATTA—75611  KALIMANTAN TIMUR\nKota Kutai Timur",
    "languageCode": "IN",
    "schedule": "Sun 09:00 Thu 18:00",
    "phones": [ "08115846572" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -152,14 +176,14 @@
   "properties": {
    "orgName": "Muara Wahau - Sangatta",
    "orgType": "GROUP",
-   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\r\nJl. Poros Kabo RT. 14 No. 63, Swarga Bara\r\nKecamatan Sangatta Utara\r\nSANGATTA—75611  KALIMANTAN TIMUR\r\nKota Kutai Timur",
+   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\nJl. Poros Kabo RT. 14 No. 63, Swarga Bara\nKecamatan Sangatta Utara\nSANGATTA—75611  KALIMANTAN TIMUR\nKota Kutai Timur",
    "languageCode": "IN",
    "schedule": "Sun 09:00 Thu 18:00",
    "phones": [ "08115846572" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -175,14 +199,14 @@
   "properties": {
    "orgName": "Bengalon - Sangatta",
    "orgType": "GROUP",
-   "address": "Jl. Gotong Royong RT.09/RW.03 No. 61\r\nDesa Sepaso Barat, Kecamatan Bengalon\r\nSANGATTA—75618  KALIMANTAN TIMUR",
+   "address": "Jl. Gotong Royong RT.09/RW.03 No. 61\nDesa Sepaso Barat, Kecamatan Bengalon\nSANGATTA—75618  KALIMANTAN TIMUR",
    "languageCode": "IN",
-   "schedule": "Sun 09:00 Fri 19:00",
+   "schedule": "Sun 09:00 Thu 18:00",
    "phones": [ "08115846572" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -198,15 +222,15 @@
   "properties": {
    "orgName": "Miri",
    "orgType": "CONG",
-   "address": "Lot 1342, Block 6,\r\nJalan Muria 6, off Jalan Pujut 2B\r\n98000 Miri",
+   "address": "Lot 1342, Block 6,\nJalan Muria 6, off Jalan Pujut 2B\n98000 Miri",
    "transliteratedAddress": "Lot 1342, Block 6,\r\nJalan Muria 6, off Jalan Pujut 2B\r\n98000 Miri\r\n",
    "languageCode": "ML",
    "schedule": "Sun 11:30 Wed 19:30",
    "phones": [ "+60&nbsp;10-773 0175" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -222,15 +246,15 @@
   "properties": {
    "orgName": "Miri Chinese",
    "orgType": "CONG",
-   "address": "Lot 1342, Block 6,\r\nJalan Muria 6, off Jalan Pujut 2B\r\n98000 Miri",
+   "address": "Lot 1342, Block 6,\nJalan Muria 6, off Jalan Pujut 2B\n98000 Miri",
    "transliteratedAddress": "Lot 1342, Block 6,\r\nJalan Muria 6, off Jalan Pujut 2B\r\n98000 Miri\r\n",
    "languageCode": "CHM",
    "schedule": "Sun 14:30 Thu 19:30",
    "phones": [ "0105284119" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -246,15 +270,15 @@
   "properties": {
    "orgName": "Miri Iban",
    "orgType": "CONG",
-   "address": "Lot 1342, Block 6,\r\nJalan Muria 6, off Jalan Pujut 2B\r\n98000 Miri",
+   "address": "Lot 1342, Block 6,\nJalan Muria 6, off Jalan Pujut 2B\n98000 Miri",
    "transliteratedAddress": "Lot 1342, Block 6,\r\nJalan Muria 6, off Jalan Pujut 2B\r\n98000 Miri\r\n",
    "languageCode": "IA",
    "schedule": "Sun 08:45 Fri 19:30",
    "phones": [ "0133045697" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -270,14 +294,14 @@
   "properties": {
    "orgName": "Tanjung Redeb",
    "orgType": "CONG",
-   "address": "Jl. Jenderal Gatot Subroto Gang Saudara RT. 02\r\nKelurahan Sei/Sungai Bedungun\r\nKecamatan Tanjung Redeb, Berau\r\nTANJUNG REDEB—77315  KALIMANTAN TIMUR",
+   "address": "Jl. Jenderal Gatot Subroto Gang Saudara RT. 02\nKelurahan Sei/Sungai Bedungun\nKecamatan Tanjung Redeb, Berau\nTANJUNG REDEB—77315  KALIMANTAN TIMUR",
    "languageCode": "IN",
    "schedule": "Sun 09:00 Thu 18:30",
    "phones": [ "0813 61610151" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -293,15 +317,15 @@
   "properties": {
    "orgName": "Limbang",
    "orgType": "CONG",
-   "address": "No.33, 1st Floor, Sungai Kudong Shophouse,\r\nJalan Buangsiol,\r\n98700 Limbang",
+   "address": "No.33, 1st Floor, Sungai Kudong Shophouse,\nJalan Buangsiol,\n98700 Limbang",
    "transliteratedAddress": "No.33, 1st Floor, Sg Kudong Shoplot,\r\nJln Buangsiol,\r\n98700 Limbang\r\n",
    "languageCode": "ML",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "+60165799388" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -317,15 +341,15 @@
   "properties": {
    "orgName": "Labuan",
    "orgType": "CONG",
-   "address": "1st Floor, Lot 3,\r\nTaman Kian Yap\r\n87000 Labuan",
+   "address": "1st Floor, Lot 3,\nTaman Kian Yap\n87000 Labuan",
    "transliteratedAddress": "1st Floor, Lot 3,\r\nTaman Kian Yap\r\n87000 Labuan\r\n",
    "languageCode": "ML",
    "schedule": "Sun 10:00 Fri 19:30",
    "phones": [ "0102446501" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -341,14 +365,14 @@
   "properties": {
    "orgName": "Tarakan",
    "orgType": "CONG",
-   "address": "Jl. Bhayangkara, unit H, RT 48 Kel. Karang Anyer,\r\nTrakan Barat, Tarakan, Kalimantan Utara\r\nTARAKAN—77111  KALIMANTAN TIMUR",
+   "address": "Jl. Bhayangkara, unit H, RT 48 Kel. Karang Anyer,\nTrakan Barat, Tarakan, Kalimantan Utara\nTARAKAN—77111  KALIMANTAN TIMUR",
    "languageCode": "IN",
    "schedule": "Sun 09:00 Thu 18:30",
    "phones": [ "+6285232154321" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -364,14 +388,14 @@
   "properties": {
    "orgName": "Nunukan - Tarakan",
    "orgType": "GROUP",
-   "address": "Jl. Bhayangkara, unit H, RT 48 Kel. Karang Anyer,\r\nTrakan Barat, Tarakan, Kalimantan Utara\r\nTARAKAN—77111  KALIMANTAN TIMUR",
+   "address": "Jl. Bhayangkara, unit H, RT 48 Kel. Karang Anyer,\nTrakan Barat, Tarakan, Kalimantan Utara\nTARAKAN—77111  KALIMANTAN TIMUR",
    "languageCode": "IN",
    "schedule": "Sun 09:00 Thu 18:30",
    "phones": [ "+6285232154321" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -387,15 +411,15 @@
   "properties": {
    "orgName": "Tenom Malay Group - Keningau",
    "orgType": "GROUP",
-   "address": "Lot 73, Tingkat 1, Blok C,\r\nJalan Tun Mustapha\r\n89907 Tenom",
+   "address": "Lot 73, Tingkat 1, Blok C,\nJalan Tun Mustapha\n89907 Tenom",
    "transliteratedAddress": "Lot 73, 1st Floor, Block C,\r\nJalan Tun Mustapha\r\nTenom, Sabah\r\n89907 Tenom\r\n",
    "languageCode": "ML",
    "schedule": "Sun 10:00 Fri 19:00",
    "phones": [ "010-959 2617" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -411,15 +435,15 @@
   "properties": {
    "orgName": "Kuala Penyu",
    "orgType": "CONG",
-   "address": "1st Floor Shop House\r\nUnder Town Lease 14 (187500143)\r\n89709",
+   "address": "1st Floor Shop House\nUnder Town Lease 14 (187500143)\n89709",
    "transliteratedAddress": "1st Floor Shop House\r\nUnder Town Lease 14 (187500143)\r\n89709\r\n",
    "languageCode": "ML",
    "schedule": "Sun 10:00 Fri 19:00",
    "phones": [ "+60109412056" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -435,15 +459,15 @@
   "properties": {
    "orgName": "Keningau",
    "orgType": "CONG",
-   "address": "Kg. Batu 27,\r\nJalan Tenom-Keningau\r\n89000 Keningau",
+   "address": "Kg. Batu 27,\nJalan Tenom-Keningau\n89000 Keningau",
    "transliteratedAddress": "Kg. Batu 27,\r\nJalan Tenom-Keningau\r\n89000 Keningau\r\n",
    "languageCode": "ML",
    "schedule": "Sun 10:00 Fri 19:00",
    "phones": [ "010-959 2617" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -459,14 +483,14 @@
   "properties": {
    "orgName": "Papar Group - Putatan",
    "orgType": "GROUP",
-   "address": "Lot 1 Tingkat Pertama\r\nPapar Commercial Centre Phase 3\r\nJalan Bukit Manggis\r\n89600 Papar",
+   "address": "Lot 1 Tingkat Pertama\nPapar Commercial Centre Phase 3\nJalan Bukit Manggis\n89600 Papar",
    "languageCode": "ML",
    "schedule": "Sun 14:00 Thu 19:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -482,14 +506,14 @@
   "properties": {
    "orgName": "Putatan",
    "orgType": "CONG",
-   "address": "Lot 17-1, Block D, Lok Kawi Point\r\nJalan Baru Papar, Pekan Sabindo,\r\nLok Kawi, Papar\r\n88400 Kota Kinabalu",
+   "address": "Lot 17-1, Block D, Lok Kawi Point\nJalan Baru Papar, Pekan Sabindo,\nLok Kawi, Papar\n88400 Kota Kinabalu",
    "languageCode": "ML",
    "schedule": "Sun 09:30 Thu 19:30",
    "phones": [ "019-530 3138" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -505,22 +529,22 @@
   "properties": {
    "orgName": "Penampang Chinese",
    "orgType": "CONG",
-   "address": "SH-17, Ground & 1 st floor,\r\nTowering Koidupan Perdana,\r\nJalan Penampang, Mile 4,\r\n88300 Kota Kinabalu",
+   "address": "SH-17, Ground & 1 st floor,\nTowering Koidupan Perdana,\nJalan Penampang, Mile 4,\n88300 Kota Kinabalu",
    "transliteratedAddress": "SH-17, Ground & 1 st floor,\r\nTowering Koidupan Perdana,\r\nJalan Penampang, Mile 4,\r\n88300 Kota Kinabalu\r\n",
    "languageCode": "CHM",
    "schedule": "Sun 09:30 Fri 19:30",
    "phones": [ "016-8101087" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7EEC1B60-302E-4E8C-A910-49DFA5E2C36E",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 5.930613,
    "longitude": 116.085107,
@@ -529,46 +553,20 @@
   "properties": {
    "orgName": "Penampang Barat",
    "orgType": "CONG",
-   "address": "SH-17, Ground & 1 st floor,\r\nTowering Koidupan Perdana,\r\nJalan Penampang, Mile 4,\r\n88300 Kota Kinabalu",
+   "address": "SH-17, Ground & 1 st floor,\nTowering Koidupan Perdana,\nJalan Penampang, Mile 4,\n88300 Kota Kinabalu",
    "transliteratedAddress": "SH-17, Ground & 1 st floor,\r\nTowering Koidupan Perdana,\r\nJalan Penampang, Mile 4,\r\n88300 Kota Kinabalu\r\n",
    "languageCode": "ML",
    "schedule": "Sat 19:00 Tue 19:30",
-   "relatedLanguageCodes": [ "BIM" ],
    "phones": [ "012-8425420" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F180A6C0-24B2-49AC-8189-D6288F0EC326",
-  "type": "weekly",
-  "isPrimary": 0,
-  "location": {
-   "latitude": 5.930613,
-   "longitude": 116.085107,
-   "iso": "MYS"
-  },
-  "properties": {
-   "orgName": "Kota Kinabalu Malaysian Sign Language - Penampang Barat",
-   "orgType": "GROUP",
-   "address": "SH-17, Ground & 1 st floor,\r\nTowering Koidupan Perdana,\r\nJalan Penampang, Mile 4,\r\n88300 Kota Kinabalu",
-   "transliteratedAddress": "SH-17, Ground & 1 st floor,\r\nTowering Koidupan Perdana,\r\nJalan Penampang, Mile 4,\r\n88300 Kota Kinabalu\r\n",
-   "languageCode": "BIM",
-   "schedule": "Sat 19:00 Wed 19:30",
-   "relatedLanguageCodes": [ "ML" ],
-   "phones": [ "012-8425420" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "12FE547C-9E1F-42C3-9DC0-777502012025",
   "type": "weekly",
   "isPrimary": 1,
   "location": {
@@ -577,23 +575,23 @@
    "iso": "MYS"
   },
   "properties": {
-   "orgName": "Penampang Timur",
-   "orgType": "CONG",
-   "address": "SH-17, Ground & 1 st floor,\r\nTowering Koidupan Perdana,\r\nJalan Penampang, Mile 4,\r\n88300 Kota Kinabalu",
+   "orgName": "Kota Kinabalu Malaysian Sign Language - Penampang Timur",
+   "orgType": "GROUP",
+   "address": "SH-17, Ground & 1 st floor,\nTowering Koidupan Perdana,\nJalan Penampang, Mile 4,\n88300 Kota Kinabalu",
    "transliteratedAddress": "SH-17, Ground & 1 st floor,\r\nTowering Koidupan Perdana,\r\nJalan Penampang, Mile 4,\r\n88300 Kota Kinabalu\r\n",
-   "languageCode": "ML",
-   "schedule": "Sun 13:00 Wed 19:30",
-   "relatedLanguageCodes": [ "E" ],
+   "languageCode": "BIM",
+   "schedule": "Sat 19:00 Wed 19:30",
+   "relatedLanguageCodes": [ "ML" ],
    "phones": [ "0146109596 (ML) 01136550963 (E)" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
-  "geoId": "A0676D00-B96E-431F-8F1A-8CD40C43BF2E",
+  "geoId": "12FE547C-9E1F-42C3-9DC0-777502012025",
   "type": "weekly",
   "isPrimary": 0,
   "location": {
@@ -602,9 +600,37 @@
    "iso": "MYS"
   },
   "properties": {
+   "orgName": "Penampang Timur",
+   "orgType": "CONG",
+   "address": "SH-17, Ground & 1 st floor,\nTowering Koidupan Perdana,\nJalan Penampang, Mile 4,\n88300 Kota Kinabalu",
+   "transliteratedAddress": "SH-17, Ground & 1 st floor,\r\nTowering Koidupan Perdana,\r\nJalan Penampang, Mile 4,\r\n88300 Kota Kinabalu\r\n",
+   "languageCode": "ML",
+   "schedule": "Sun 13:00 Wed 19:30",
+   "relatedLanguageCodes": [
+    "BIM",
+    "E"
+   ],
+   "phones": [ "0146109596 (ML) 01136550963 (E)" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "A0676D00-B96E-431F-8F1A-8CD40C43BF2E",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 5.930613,
+   "longitude": 116.085107,
+   "iso": "MYS"
+  },
+  "properties": {
    "orgName": "Kota Kinabalu English Group - Penampang Timur",
    "orgType": "GROUP",
-   "address": "SH-17, Ground & 1 st floor,\r\nTowering Koidupan Perdana,\r\nJalan Penampang, Mile 4,\r\n88300 Kota Kinabalu",
+   "address": "SH-17, Ground & 1 st floor,\nTowering Koidupan Perdana,\nJalan Penampang, Mile 4,\n88300 Kota Kinabalu",
    "transliteratedAddress": "SH-17, Ground & 1 st floor,\r\nTowering Koidupan Perdana,\r\nJalan Penampang, Mile 4,\r\n88300 Kota Kinabalu\r\n",
    "languageCode": "E",
    "schedule": "Sun 16:30 Thu 19:30",
@@ -612,8 +638,8 @@
    "phones": [ "0146109596 (ML) 01136550963 (E)" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -629,15 +655,15 @@
   "properties": {
    "orgName": "Inanam",
    "orgType": "CONG",
-   "address": "Lot 13, Unit 8-2, Block B,\r\n2nd Floor, Inanam Business Centre Phase 1,\r\nBatu 6 Jalan Tuaran\r\n88450 Kota Kinabalu",
+   "address": "Lot 13, Unit 8-2, Block B,\n2nd Floor, Inanam Business Centre Phase 1,\nBatu 6 Jalan Tuaran\n88450 Kota Kinabalu",
    "transliteratedAddress": "Lot 13, Unit 8-2, Block B,\r\n2nd Floor, Inanam Business Centre Phase 1,\r\nBatu 6 Jalan Tuaran\r\n88450 Kota Kinabalu\r\n",
    "languageCode": "ML",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "016-824 0505" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -653,44 +679,20 @@
   "properties": {
    "orgName": "Sepanggar",
    "orgType": "CONG",
-   "address": "Lot 13, Unit 8-2, Block B,\r\n2nd Floor, Inanam Business Centre Phase 1,\r\nBatu 6 Jalan Tuaran\r\n88450 Kota Kinabalu",
+   "address": "Lot 13, Unit 8-2, Block B,\n2nd Floor, Inanam Business Centre Phase 1,\nBatu 6 Jalan Tuaran\n88450 Kota Kinabalu",
    "transliteratedAddress": "Lot 13, Unit 8-2, Block B,\r\n2nd Floor, Inanam Business Centre Phase 1,\r\nBatu 6 Jalan Tuaran\r\n88450 Kota Kinabalu\r\n",
    "languageCode": "ML",
    "schedule": "Sun 13:30 Wed 19:30",
    "phones": [ "0128171920" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "926E0593-8A34-45A6-8F0C-24A4193BEDB7",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 4.255952,
-   "longitude": 117.953556,
-   "iso": "MYS"
-  },
-  "properties": {
-   "orgName": "Tawau",
-   "orgType": "CONG",
-   "address": "1st Floor TB No 10583, Lot 4\r\nJalan Apas Mile 5\r\n91000 Tawau",
-   "transliteratedAddress": "1st Floor TB No 10583, Lot 4\r\nJalan Apas Mile 5\r\n91000 Tawau\r\n",
-   "languageCode": "ML",
-   "schedule": "Sun 14:00 Fri 19:30",
-   "phones": [],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "3B84AB90-721B-46D0-A480-7472E4C6130F",
   "type": "weekly",
   "isPrimary": 0,
   "location": {
@@ -699,17 +701,41 @@
    "iso": "MYS"
   },
   "properties": {
+   "orgName": "Tawau",
+   "orgType": "CONG",
+   "address": "1st Floor TB No 10583, Lot 4\nJalan Apas Mile 5\n91000 Tawau",
+   "transliteratedAddress": "1st Floor TB No 10583, Lot 4\r\nJalan Apas Mile 5\r\n91000 Tawau\r\n",
+   "languageCode": "ML",
+   "schedule": "Sun 14:00 Fri 19:30",
+   "phones": [],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "3B84AB90-721B-46D0-A480-7472E4C6130F",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 4.255952,
+   "longitude": 117.953556,
+   "iso": "MYS"
+  },
+  "properties": {
    "orgName": "Tawau Chinese",
    "orgType": "CONG",
-   "address": "1st Floor TB No 10583, Lot 4\r\nJalan Apas Mile 5\r\n91000 Tawau",
+   "address": "1st Floor TB No 10583, Lot 4\nJalan Apas Mile 5\n91000 Tawau",
    "transliteratedAddress": "1st Floor TB No 10583, Lot 4\r\nJalan Apas Mile 5\r\n91000 Tawau\r\n",
    "languageCode": "CHM",
-   "schedule": "Sun 09:00 Thu 19:30",
+   "schedule": "Sun 09:30 Thu 19:30",
    "phones": [ "6089911707" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -725,14 +751,14 @@
   "properties": {
    "orgName": "Tamparuli",
    "orgType": "CONG",
-   "address": "Lot 3, Block A, First Floor,\r\nTamparuli Point,\r\n89257 Tuaran",
+   "address": "Lot 3, Block A, First Floor,\nTamparuli Point,\n89257 Tuaran",
    "languageCode": "ML",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "0165824813" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -748,15 +774,15 @@
   "properties": {
    "orgName": "Ranau",
    "orgType": "CONG",
-   "address": "No 3, 1st Floor\r\nTaman Golfview\r\nKg Pasir Putih\r\n89307 Ranau",
+   "address": "No 3, 1st Floor\nTaman Golfview\nKg Pasir Putih\n89307 Ranau",
    "transliteratedAddress": "No 3, 1st Floor\r\nTaman Golfview\r\nKg Pasir Putih\r\n89307 Ranau\r\n",
    "languageCode": "ML",
    "schedule": "Sun 10:00 Fri 19:00",
    "phones": [ "0192633590" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -772,14 +798,14 @@
   "properties": {
    "orgName": "Telupid",
    "orgType": "CONG",
-   "address": "Lot No.S1, First floor, Taman Telupid Villa\r\nJalan Ranau-Sandakan\r\n89300",
+   "address": "Lot No.S1, First floor, Taman Telupid Villa\nJalan Ranau-Sandakan\n89300",
    "languageCode": "ML",
    "schedule": "Sun 10:00 Fri 19:00",
    "phones": [ "+6016-2723719" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -795,15 +821,15 @@
   "properties": {
    "orgName": "Kota Marudu",
    "orgType": "CONG",
-   "address": "Lot No. 28, 1st Floor\r\nTaman WTK, Phase 2\r\nOff Jalan Tandek\r\n89100 Kota Marudu",
+   "address": "Lot No. 28, 1st Floor\nTaman WTK, Phase 2\nOff Jalan Tandek\n89100 Kota Marudu",
    "transliteratedAddress": "Lot No. 28\r\nTaman WTK, Phase 2\r\nOff Jalan Tandek\r\n89100 Kota Marudu\r\n",
    "languageCode": "ML",
    "schedule": "Sun 09:45 Fri 19:15",
    "phones": [ "016-9906016; 019-8238589" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -819,15 +845,15 @@
   "properties": {
    "orgName": "Lahad Datu",
    "orgType": "CONG",
-   "address": "MDLD 7112 Lot 146\r\nTKT 1, Sri Perdana Phase 3\r\nTaman Sri Perdana\r\n91100 Lahad Datu",
+   "address": "MDLD 7112 Lot 146\nTKT 1, Sri Perdana Phase 3\nTaman Sri Perdana\n91100 Lahad Datu",
    "languageCode": "ML",
    "schedule": "Sun 13:30 Fri 19:30",
    "relatedLanguageCodes": [ "CV" ],
    "phones": [ "+60&nbsp;16-879 9964" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -843,15 +869,15 @@
   "properties": {
    "orgName": "Lahad Datu Cebuano Pregroup - Lahad Datu",
    "orgType": "PREGROUP",
-   "address": "MDLD 7112 Lot 146\r\nTKT 1, Sri Perdana Phase 3\r\nTaman Sri Perdana\r\n91100 Lahad Datu",
+   "address": "MDLD 7112 Lot 146\nTKT 1, Sri Perdana Phase 3\nTaman Sri Perdana\n91100 Lahad Datu",
    "languageCode": "CV",
    "schedule": "Sun 13:30 Fri 19:30",
    "relatedLanguageCodes": [ "ML" ],
    "phones": [ "+60&nbsp;16-879 9964" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -867,15 +893,15 @@
   "properties": {
    "orgName": "Pitas Group - Kota Marudu",
    "orgType": "GROUP",
-   "address": "1st Floor, Lot 8, Block B1,\r\nKedai Sedco, Pekan Baru\r\n89100",
+   "address": "1st Floor, Lot 8, Block B1,\nKedai Sedco, Pekan Baru\n89100",
    "transliteratedAddress": "1st Floor Lot 8, Block B1,\r\nKedai Sedco, Pekan Baru\r\n89100\r\n",
    "languageCode": "ML",
    "schedule": "Sun 10:00 Fri 16:00",
    "phones": [ "016-9906016; 019-8238589" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -891,15 +917,15 @@
   "properties": {
    "orgName": "Kudat",
    "orgType": "CONG",
-   "address": "Lot 2. First Floor,\r\nLorong Awana 5,\r\nTaman Seri Awana,\r\n89058 Kudat",
+   "address": "Lot 2. First Floor,\nLorong Awana 5,\nTaman Seri Awana,\n89058 Kudat",
    "transliteratedAddress": "Lot 2. First Floor,\r\nLorong Awana 5,\r\nTaman Seri Awana\r\n89058 Kudat\r\n",
    "languageCode": "ML",
-   "schedule": "Sun 15:00 Fri 19:30",
+   "schedule": "Sun 13:00 Fri 19:30",
    "phones": [ "016-4845665" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -915,7 +941,7 @@
   "properties": {
    "orgName": "Sandakan",
    "orgType": "CONG",
-   "address": "Taman Hing Lee, Mile3\r\nJalan Labuk\r\n90000 Sandakan",
+   "address": "Taman Hing Lee, Mile3\nJalan Labuk\n90000 Sandakan",
    "transliteratedAddress": "Taman Hing Lee, Mile3\r\nJalan Labuk\r\n90000 Sandakan\r\n",
    "languageCode": "ML",
    "schedule": "Sun 09:30 Fri 19:30",
@@ -923,8 +949,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -940,7 +966,7 @@
   "properties": {
    "orgName": "Sandakan Chinese Group - Sandakan",
    "orgType": "GROUP",
-   "address": "Taman Hing Lee, Mile3\r\nJalan Labuk\r\n90000 Sandakan",
+   "address": "Taman Hing Lee, Mile3\nJalan Labuk\n90000 Sandakan",
    "transliteratedAddress": "Taman Hing Lee, Mile3\r\nJalan Labuk\r\n90000 Sandakan\r\n",
    "languageCode": "CHM",
    "schedule": "Sun 13:30 Wed 19:30",
@@ -948,8 +974,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -971,8 +997,8 @@
    "phones": [ "09561051830" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -994,8 +1020,8 @@
    "phones": [ "09755568924" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

@@ -1,5 +1,28 @@
 [
  {
+  "geoId": "8A4C623D-4BCC-49EB-8F21-45E74904467E(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -25.007214,
+   "longitude": -47.935617
+  },
+  "properties": {
+   "orgName": "(Moved) Cananéia - SP",
+   "orgType": "CONG",
+   "address": "Rua Antônio Paulino de Almeida, 39\nRetiro das Caravelas\nCananéia, SP\n11990-000",
+   "languageCode": "T",
+   "schedule": "Sat 19:00 Wed 19:00",
+   "phones": [ "13-98118-5281" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastSeen": "2023-02-20",
+  "active": 0,
+  "firstSeen": "2022-12-04",
+  "moved": "R. Theodomiro de Oliveira Rosa, 200\nRocio\nCananéia, SP\n11990-000",
+  "lastVisit": "2023-02-20"
+ },
+ {
   "geoId": "8A4C623D-4BCC-49EB-8F21-45E74904467E",
   "type": "weekly",
   "isPrimary": 1,
@@ -11,14 +34,14 @@
   "properties": {
    "orgName": "Cananéia - SP",
    "orgType": "CONG",
-   "address": "R. Theodomiro de Oliveira Rosa, 200\r\nRocio\r\nCananéia, SP\r\n11990-000",
+   "address": "R. Theodomiro de Oliveira Rosa, 200\nRocio\nCananéia, SP\n11990-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "13-98118-5281" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -34,15 +57,15 @@
   "properties": {
    "orgName": "Pariquera-Açu - SP",
    "orgType": "CONG",
-   "address": "R. Emílio Franco, 236\r\nVila Débora\r\nPariquera-Açu, SP\r\n11930-000",
+   "address": "R. Emílio Franco, 236\nVila Débora\nPariquera-Açu, SP\n11930-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Thu 19:30",
    "relatedLanguageCodes": [ "LSB" ],
    "phones": [ "13 99796-2076" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -58,15 +81,15 @@
   "properties": {
    "orgName": "Libras - Pariquera-Açu, SP - Pariquera-Açu - SP",
    "orgType": "GROUP",
-   "address": "R. Emílio Franco, 236\r\nVila Débora\r\nPariquera-Açu, SP\r\n11930-000",
+   "address": "R. Emílio Franco, 236\nVila Débora\nPariquera-Açu, SP\n11930-000",
    "languageCode": "LSB",
    "schedule": "Sat 19:30 Thu 19:30",
    "relatedLanguageCodes": [ "T" ],
    "phones": [ "13 99796-2076" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -82,14 +105,14 @@
   "properties": {
    "orgName": "Oeste - Registro SP",
    "orgType": "CONG",
-   "address": "R. das Azaléia, 220\r\nJardim Paulista\r\nRegistro, SP\r\n11900-000",
+   "address": "R. das Azaléia, 220\nJardim Paulista\nRegistro, SP\n11900-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "(13)98126-0329" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -105,14 +128,14 @@
   "properties": {
    "orgName": "Central - Registro SP",
    "orgType": "CONG",
-   "address": "R. Honduras, 85\r\nVila Flórida\r\nRegistro, SP\r\n11900-000",
+   "address": "R. Honduras, 85\nVila Flórida\nRegistro, SP\n11900-000",
    "languageCode": "T",
    "schedule": "Sun 18:30 Thu 19:30",
    "phones": [ "013 996120781" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -128,14 +151,14 @@
   "properties": {
    "orgName": "Sul - Registro SP",
    "orgType": "CONG",
-   "address": "R. Honduras, 85\r\nVila Flórida\r\nRegistro, SP\r\n11900-000",
+   "address": "R. Honduras, 85\nVila Flórida\nRegistro, SP\n11900-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "(13) 99712-0022" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -151,14 +174,14 @@
   "properties": {
    "orgName": "Sete Barras - SP",
    "orgType": "CONG",
-   "address": "R. Quirino Nunes da Silva, 490\r\nCentro\r\nSete Barras, SP\r\n11910-000",
+   "address": "R. Quirino Nunes da Silva, 490\nCentro\nSete Barras, SP\n11910-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "13 99727-1482" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -174,14 +197,14 @@
   "properties": {
    "orgName": "Central - Ilha Comprida SP",
    "orgType": "CONG",
-   "address": "R. Tino Gonçalves Vaz, 1210\r\nBalneário Britânia\r\nIlha Comprida, SP\r\n11925-000",
+   "address": "R. Tino Gonçalves Vaz, 1210\nBalneário Britânia\nIlha Comprida, SP\n11925-000",
    "languageCode": "T",
    "schedule": "Sat 20:00 Wed 20:00",
    "phones": [ "(13) 99636-8808" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -197,14 +220,14 @@
   "properties": {
    "orgName": "Sul - Ilha Comprida SP",
    "orgType": "CONG",
-   "address": "R. Tino Gonçalves Vaz, 1210\r\nBalneário Britânia\r\nIlha Comprida, SP\r\n11925-000",
+   "address": "R. Tino Gonçalves Vaz, 1210\nBalneário Britânia\nIlha Comprida, SP\n11925-000",
    "languageCode": "T",
    "schedule": "Sun 19:00 Thu 19:30",
    "phones": [ "(13) 99693-5407" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -220,14 +243,14 @@
   "properties": {
    "orgName": "Rocio - Iguape SP",
    "orgType": "CONG",
-   "address": "R. José  Rodrigues Alves, 275\r\nRocio\r\nIguape, SP\r\n11920-000",
+   "address": "R. José  Rodrigues Alves, 275\nRocio\nIguape, SP\n11920-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Thu 19:30",
    "phones": [ "(15) 99601-5969" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -243,14 +266,14 @@
   "properties": {
    "orgName": "Central - Iguape SP",
    "orgType": "CONG",
-   "address": "R. Dom Idílio José Soares, 432\r\nGuaricana\r\nIguape, SP\r\n11920-000",
+   "address": "R. Dom Idílio José Soares, 432\nGuaricana\nIguape, SP\n11920-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "11 983902291" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -266,14 +289,14 @@
   "properties": {
    "orgName": "Vale do Ribeira - Iguape SP",
    "orgType": "CONG",
-   "address": "Rua dos Combatentes de 1932, 197\r\nBarra do Ribeira\r\nIguape, SP\r\n11920-000",
+   "address": "Rua dos Combatentes de 1932, 197\nBarra do Ribeira\nIguape, SP\n11920-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "013996037586" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -289,14 +312,14 @@
   "properties": {
    "orgName": "Juquiá - SP",
    "orgType": "CONG",
-   "address": "R. Santos Dumont, 141\r\n(esquina com R. Visconde do Rio Branco)\r\nVila Industrial\r\nJuquiá, SP\r\n11800-000",
+   "address": "R. Santos Dumont, 141\n(esquina com R. Visconde do Rio Branco)\nVila Industrial\nJuquiá, SP\n11800-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:00",
    "phones": [ "(13) 99624-2490" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -312,14 +335,14 @@
   "properties": {
    "orgName": "Miracatu - SP",
    "orgType": "CONG",
-   "address": "R. Kahei Nakamura, 17\r\nJardim Miracatu\r\nMiracatu, SP\r\n11850-000",
+   "address": "R. Kahei Nakamura, 17\nJardim Miracatu\nMiracatu, SP\n11850-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:00",
    "phones": [ "+55&nbsp;(13) 98160-8818" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -335,14 +358,14 @@
   "properties": {
    "orgName": "Pedro de Toledo - SP",
    "orgType": "CONG",
-   "address": "R. Dona Isabel, 87\r\nCentro\r\nPedro de Toledo, SP\r\n11790-000",
+   "address": "R. Dona Isabel, 87\nCentro\nPedro de Toledo, SP\n11790-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
-   "phones": [ "(13) 99791-3751" ],
+   "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -358,14 +381,14 @@
   "properties": {
    "orgName": "Central - Itariri SP",
    "orgType": "CONG",
-   "address": "R. Ascendino José Barbosa, 25\r\nCentro\r\nItariri, SP\r\n11760-000",
+   "address": "R. Ascendino José Barbosa, 25\nCentro\nItariri, SP\n11760-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "(13) 99741-1824" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -381,14 +404,14 @@
   "properties": {
    "orgName": "Guaraú - Peruíbe SP",
    "orgType": "CONG",
-   "address": "Av. do Telégrafo, 1040\r\nGuaraú\r\nPeruíbe, SP\r\n11750-000",
+   "address": "Av. do Telégrafo, 1040\nGuaraú\nPeruíbe, SP\n11750-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "19 996266772" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -404,14 +427,14 @@
   "properties": {
    "orgName": "Ana Dias - Itariri SP",
    "orgType": "CONG",
-   "address": "R. José Ambrósio Rodrigues, 46\r\nAna Dias\r\nItariri, SP\r\n11760-000",
+   "address": "R. José Ambrósio Rodrigues, 46\nAna Dias\nItariri, SP\n11760-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "(13) 9 9732-1352 ou (13) 9 9712-1924" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -427,14 +450,14 @@
   "properties": {
    "orgName": "Central - Peruíbe SP",
    "orgType": "CONG",
-   "address": "R. Regis Marcelo Marques e Silva, 83\r\nSão João\r\nPeruíbe, SP\r\n11750-000",
+   "address": "R. Regis Marcelo Marques e Silva, 83\nSão João\nPeruíbe, SP\n11750-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "(11) 95897-4684" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -450,14 +473,14 @@
   "properties": {
    "orgName": "Caraminguava - Peruíbe SP",
    "orgType": "CONG",
-   "address": "R. Assembléia de Deus, 625\r\nCaraminguava\r\nPeruíbe, SP\r\n11750-000",
+   "address": "R. Assembléia de Deus, 625\nCaraminguava\nPeruíbe, SP\n11750-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "13 997615648" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -473,14 +496,14 @@
   "properties": {
    "orgName": "Jardim Peruíbe - Peruíbe SP",
    "orgType": "CONG",
-   "address": "R. Professora Eunice Aucala, 106\r\nVila Romar\r\nPeruíbe, SP\r\n11750-000",
+   "address": "R. Professora Eunice Aucala, 106\nVila Romar\nPeruíbe, SP\n11750-000",
    "languageCode": "T",
    "schedule": "Sun 18:30 Thu 19:30",
    "phones": [ "+55 13 99704-5952" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -496,14 +519,14 @@
   "properties": {
    "orgName": "Balneário Arpoador - Peruíbe SP",
    "orgType": "CONG",
-   "address": "R. Professora Eunice Aucala, 106\r\nVila Romar\r\nPeruíbe, SP\r\n11750-000",
+   "address": "R. Professora Eunice Aucala, 106\nVila Romar\nPeruíbe, SP\n11750-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Tue 19:30",
    "phones": [ "(13) 9 9669-6590" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -519,21 +542,21 @@
   "properties": {
    "orgName": "Oásis - Peruíbe SP",
    "orgType": "CONG",
-   "address": "R. Professora Eunice Aucala, 106\r\nVila Romar\r\nPeruíbe, SP\r\n11750-000",
+   "address": "R. Professora Eunice Aucala, 106\nVila Romar\nPeruíbe, SP\n11750-000",
    "languageCode": "T",
    "schedule": "Sun 09:15 Wed 19:30",
    "phones": [ "11-99908-3732" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "D2545CC3-CA8B-4C8D-8A76-120DBC4C2175",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -24.308209,
    "longitude": -46.998425,
@@ -542,14 +565,14 @@
   "properties": {
    "orgName": "LS - Peruíbe SP",
    "orgType": "CONG",
-   "address": "R. Professora Eunice Aucala, 106\r\nVila Romar\r\nPeruíbe, SP\r\n11750-000",
+   "address": "R. Professora Eunice Aucala, 106\nVila Romar\nPeruíbe, SP\n11750-000",
    "languageCode": "LSB",
    "schedule": "Sun 16:00 Fri 19:30",
    "phones": [ "(13) 996028691" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -565,14 +588,14 @@
   "properties": {
    "orgName": "Vila Erminda - Peruíbe SP",
    "orgType": "CONG",
-   "address": "R. Luiz Roberto dos Santos, 327\r\n(Lotes 01 e 02, Quadra 11)\r\nVila Erminda\r\nPeruíbe, SP\r\n11750-000",
+   "address": "R. Luiz Roberto dos Santos, 327\n(Lotes 01 e 02, Quadra 11)\nVila Erminda\nPeruíbe, SP\n11776-874",
    "languageCode": "T",
    "schedule": "Sat 19:30 Thu 19:30",
    "phones": [ "(13)99753 8226" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -588,14 +611,14 @@
   "properties": {
    "orgName": "Balneário Gaivota - Itanhaém SP",
    "orgType": "CONG",
-   "address": "Av. Vereador Armando Ferreira, 848\r\nBalneário Gaivotas\r\nItanhaém, SP\r\n11740-000",
+   "address": "Av. Vereador Armando Ferreira, 848\nBalneário Gaivotas\nItanhaém, SP\n11740-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "(13)99122-3747" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -611,14 +634,14 @@
   "properties": {
    "orgName": "Cibratel - Itanhaém SP",
    "orgType": "CONG",
-   "address": "Av. Alemanha, 45\r\nCidade Santa Júlia\r\nItanhaém, SP\r\n11740-000",
+   "address": "Av. Alemanha, 45\nCidade Santa Júlia\nItanhaém, SP\n11740-000",
    "languageCode": "T",
    "schedule": "Sun 19:00 Thu 19:30",
    "phones": [ "13 99620-4298" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -634,14 +657,14 @@
   "properties": {
    "orgName": "Bopiranga - Itanhaém SP",
    "orgType": "CONG",
-   "address": "Av. Alemanha, 45\r\nCidade Santa Júlia\r\nItanhaém, SP\r\n11740-000",
+   "address": "Av. Alemanha, 45\nCidade Santa Júlia\nItanhaém, SP\n11740-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "13 99620 4298" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -657,15 +680,15 @@
   "properties": {
    "orgName": "Belas Artes - Itanhaém SP",
    "orgType": "CONG",
-   "address": "R. Avelino Ambrósio, 106\r\nJardim Corumbá\r\nItanhaém, SP\r\n11740-000",
+   "address": "R. Avelino Ambrósio, 106\nJardim Corumbá\nItanhaém, SP\n11740-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "relatedLanguageCodes": [ "LSB" ],
    "phones": [ "13 98141 2503" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -681,14 +704,14 @@
   "properties": {
    "orgName": "Chácara das Tâmaras - Itanhaém SP",
    "orgType": "CONG",
-   "address": "R. Avelino Ambrósio, 106\r\nJardim Corumbá\r\nItanhaém, SP\r\n11740-000",
+   "address": "R. Avelino Ambrósio, 106\nJardim Corumbá\nItanhaém, SP\n11740-000",
    "languageCode": "T",
    "schedule": "Sun 18:30 Thu 19:30",
    "phones": [ "(13) 98141-2503" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -704,14 +727,14 @@
   "properties": {
    "orgName": "Espanhola - Itanhaém SP",
    "orgType": "CONG",
-   "address": "R. Avelino Ambrósio, 106\r\nJardim Corumbá\r\nItanhaém, SP\r\n11740-000",
+   "address": "R. Avelino Ambrósio, 106\nJardim Corumbá\nItanhaém, SP\n11740-000",
    "languageCode": "S",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "(011) 97416-6361" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -727,15 +750,15 @@
   "properties": {
    "orgName": "Libras - Itanhaém, SP (Belas Artes) - Belas Artes - Itanhaém SP",
    "orgType": "GROUP",
-   "address": "R. Avelino Ambrósio, 106\r\nJardim Corumbá\r\nItanhaém, SP\r\n11740-000",
+   "address": "R. Avelino Ambrósio, 106\nJardim Corumbá\nItanhaém, SP\n11740-000",
    "languageCode": "LSB",
    "schedule": "Sat 19:30 Wed 19:30",
    "relatedLanguageCodes": [ "T" ],
    "phones": [ "13 98141 2503" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -751,14 +774,14 @@
   "properties": {
    "orgName": "Umuarama - Itanhaém SP",
    "orgType": "CONG",
-   "address": "R. Mathias de Almeida, 125\r\nJardim Umuarama\r\nItanhaém, SP\r\n11740-000",
+   "address": "R. Mathias de Almeida, 125\nJardim Umuarama\nItanhaém, SP\n11740-000",
    "languageCode": "T",
    "schedule": "Sun 09:00 Thu 19:30",
    "phones": [ "13997756897" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -774,14 +797,14 @@
   "properties": {
    "orgName": "Estância Suíça - Itanhaém SP",
    "orgType": "CONG",
-   "address": "R. Mathias de Almeida, 125\r\nJardim Umuarama\r\nItanhaém, SP\r\n11740-000",
+   "address": "R. Mathias de Almeida, 125\nJardim Umuarama\nItanhaém, SP\n11740-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "11 96050-3640" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -797,14 +820,14 @@
   "properties": {
    "orgName": "Central - Itanhaém SP",
    "orgType": "CONG",
-   "address": "R. Maria Soares Pedroso, 391\r\n(Esquina com R. Oscar Simões de Carvalho)\r\nCidade de Anchieta\r\nItanhaém, SP\r\n11740-000",
+   "address": "R. Maria Soares Pedroso, 391\n(Esquina com R. Oscar Simões de Carvalho)\nCidade de Anchieta\nItanhaém, SP\n11740-000",
    "languageCode": "T",
    "schedule": "Sun 18:30 Wed 19:30",
    "phones": [ "13 99183-4406" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -820,14 +843,14 @@
   "properties": {
    "orgName": "Jardim Oásis - Itanhaém SP",
    "orgType": "CONG",
-   "address": "R. Maria Soares Pedroso, 391\r\n(Esquina com R. Oscar Simões de Carvalho)\r\nCidade de Anchieta\r\nItanhaém, SP\r\n11740-000",
+   "address": "R. Maria Soares Pedroso, 391\n(Esquina com R. Oscar Simões de Carvalho)\nCidade de Anchieta\nItanhaém, SP\n11740-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Thu 19:30",
    "phones": [ "13-98877-0538" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -843,14 +866,14 @@
   "properties": {
    "orgName": "Suarão - Itanhaém SP",
    "orgType": "CONG",
-   "address": "R. Cotinha Magalhães, 303\r\nJardim Magalhães\r\nItanhaém, SP\r\n11740-000",
+   "address": "R. Cotinha Magalhães, 303\nJardim Magalhães\nItanhaém, SP\n11740-000",
    "languageCode": "T",
    "schedule": "Sat 17:00 Mon 19:30",
    "phones": [ "13 98840-8352" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-02-20"
  },
@@ -866,14 +889,14 @@
   "properties": {
    "orgName": "Savoy - Itanhaém SP",
    "orgType": "CONG",
-   "address": "R. Cotinha Magalhães, 303\r\nJardim Magalhães\r\nItanhaém, SP\r\n11740-000",
+   "address": "R. Cotinha Magalhães, 303\nJardim Magalhães\nItanhaém, SP\n11740-000",
    "languageCode": "T",
-   "schedule": "Sun 18:00 Thu 19:30",
+   "schedule": "Sun 09:00 Fri 19:30",
    "phones": [ "13 99801-8956" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-02-20"
  },
@@ -889,14 +912,14 @@
   "properties": {
    "orgName": "Jardim Magalhães - Itanhaém SP",
    "orgType": "CONG",
-   "address": "R. Cotinha Magalhães, 303\r\nJardim Magalhães\r\nItanhaém, SP\r\n11740-000",
+   "address": "R. Cotinha Magalhães, 303\nJardim Magalhães\nItanhaém, SP\n11740-000",
    "languageCode": "T",
    "schedule": "Sun 16:00 Tue 19:30",
    "phones": [ "11 94776 0875" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-02-20"
  },
@@ -912,14 +935,14 @@
   "properties": {
    "orgName": "Agenor de Campos - Mongaguá SP",
    "orgType": "CONG",
-   "address": "R. Silviria de Souza Melo, 950\r\nBalneário Itaguaí\r\nMongaguá, SP\r\n11730-000",
+   "address": "R. Silviria de Souza Melo, 950\nBalneário Itaguaí\nMongaguá, SP\n11730-000",
    "languageCode": "T",
    "schedule": "Sun 09:30 Tue 19:30",
    "phones": [ "13-98206-7454 Luiz Carlos" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -935,14 +958,14 @@
   "properties": {
    "orgName": "Arpoador - Mongaguá SP",
    "orgType": "CONG",
-   "address": "R. Silviria de Souza Melo, 950\r\nBalneário Itaguaí\r\nMongaguá, SP\r\n11730-000",
+   "address": "R. Silviria de Souza Melo, 950\nBalneário Itaguaí\nMongaguá, SP\n11730-000",
    "languageCode": "T",
-   "schedule": "Sun 18:00 Thu 19:30",
+   "schedule": "Sun 19:30 Thu 19:30",
    "phones": [ "13-98144-1092" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -958,14 +981,14 @@
   "properties": {
    "orgName": "Flórida Mirim - Mongaguá SP",
    "orgType": "CONG",
-   "address": "R. Silviria de Souza Melo, 950\r\nBalneário Itaguaí\r\nMongaguá, SP\r\n11730-000",
+   "address": "R. Silviria de Souza Melo, 950\nBalneário Itaguaí\nMongaguá, SP\n11730-000",
    "languageCode": "T",
    "schedule": "Sun 17:00 Wed 19:30",
    "phones": [ "71993853240" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -981,14 +1004,14 @@
   "properties": {
    "orgName": "Vila Atlântica - Mongaguá SP",
    "orgType": "CONG",
-   "address": "Av. Domingos Batista de Lima, 640\r\nVila Dinópolis\r\nMongaguá, SP\r\n11730-000",
+   "address": "Av. Domingos Batista de Lima, 640\nVila Dinópolis\nMongaguá, SP\n11730-000",
    "languageCode": "T",
    "schedule": "Sun 18:30 Thu 19:30",
    "phones": [ "13 98194-3250" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1004,14 +1027,14 @@
   "properties": {
    "orgName": "Balneário Itaóca - Mongaguá SP",
    "orgType": "CONG",
-   "address": "Av. Domingos Batista de Lima, 640\r\nVila Dinópolis\r\nMongaguá, SP\r\n11730-000",
+   "address": "Av. Domingos Batista de Lima, 640\nVila Dinópolis\nMongaguá, SP\n11730-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "11 98963-1690" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1027,14 +1050,14 @@
   "properties": {
    "orgName": "Central - Mongaguá SP",
    "orgType": "CONG",
-   "address": "R. Porto Alegre, 875\r\nJardim Cascata\r\nMongaguá, SP\r\n11730-000",
+   "address": "R. Porto Alegre, 875\nJardim Cascata\nMongaguá, SP\n11730-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "(13) 3396-6379" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1050,14 +1073,14 @@
   "properties": {
    "orgName": "Jardim Real - Praia Grande SP",
    "orgType": "CONG",
-   "address": "Av. Diamantino Cruz Ferreira Mourão, 8332\r\nLoteamento Jardim Real II\r\nPraia Grande, SP\r\n11711-125",
+   "address": "Av. Diamantino Cruz Ferreira Mourão, 8332\nLoteamento Jardim Real II\nPraia Grande, SP\n11711-125",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "13 996198583" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1073,14 +1096,14 @@
   "properties": {
    "orgName": "Jardim Melvi - Praia Grande SP",
    "orgType": "CONG",
-   "address": "Av. Dr. Antonio Silvio Cunha Bueno, 368\r\nJardim Melvi\r\nPraia Grande, SP\r\n11712-040",
+   "address": "Av. Dr. Antonio Silvio Cunha Bueno, 368\nJardim Melvi\nPraia Grande, SP\n11712-040",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "(13) 9.9152.2381" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1096,14 +1119,14 @@
   "properties": {
    "orgName": "Caiçara - Praia Grande SP",
    "orgType": "CONG",
-   "address": "Av. Dr. Antonio Silvio Cunha Bueno, 368\r\nJardim Melvi\r\nPraia Grande, SP\r\n11712-040",
+   "address": "Av. Dr. Antonio Silvio Cunha Bueno, 368\nJardim Melvi\nPraia Grande, SP\n11712-040",
    "languageCode": "T",
    "schedule": "Sun 09:00 Thu 19:30",
    "phones": [ "11952014424" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1119,14 +1142,14 @@
   "properties": {
    "orgName": "Jardim Samambaia - Praia Grande SP",
    "orgType": "CONG",
-   "address": "Av. Pau Brasil, 658\r\nJardim Samambaia\r\nPraia Grande, SP\r\n11713-020",
+   "address": "Av. Pau Brasil, 658\nJardim Samambaia\nPraia Grande, SP\n11713-020",
    "languageCode": "T",
    "schedule": "Sun 19:00 Thu 19:45",
    "phones": [ "(13) 99711-2099" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1142,14 +1165,14 @@
   "properties": {
    "orgName": "Parque das Américas - Praia Grande SP",
    "orgType": "CONG",
-   "address": "Av. Pau Brasil, 658\r\nJardim Samambaia\r\nPraia Grande, SP\r\n11713-020",
+   "address": "Av. Pau Brasil, 658\nJardim Samambaia\nPraia Grande, SP\n11713-020",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "13 99141-6401" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1165,14 +1188,14 @@
   "properties": {
    "orgName": "Balneário Esmeralda - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Joaquim Osório Duque Estrada, 314\r\nBalneário Esmeralda\r\nPraia Grande, SP\r\n11713-510",
+   "address": "R. Joaquim Osório Duque Estrada, 314\nBalneário Esmeralda\nPraia Grande, SP\n11713-510",
    "languageCode": "T",
    "schedule": "Sun 19:30 Thu 19:30",
    "phones": [ "(13)92000-0531" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1188,14 +1211,14 @@
   "properties": {
    "orgName": "Ribeirópolis - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Joaquim Osório Duque Estrada, 314\r\nBalneário Esmeralda\r\nPraia Grande, SP\r\n11713-510",
+   "address": "R. Joaquim Osório Duque Estrada, 314\nBalneário Esmeralda\nPraia Grande, SP\n11713-510",
    "languageCode": "T",
    "schedule": "Sat 18:30 Wed 19:30",
    "phones": [ "13988154603" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1211,14 +1234,14 @@
   "properties": {
    "orgName": "Cidade Ocian - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Otacília da Luz Brasil, 80\r\nVila Mirim\r\nPraia Grande, SP\r\n11717-366",
+   "address": "R. Otacília da Luz Brasil, 80\nVila Mirim\nPraia Grande, SP\n11717-366",
    "languageCode": "T",
    "schedule": "Sun 18:00 Thu 19:30",
    "phones": [ "+55&nbsp;13 98848-5133" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1234,14 +1257,14 @@
   "properties": {
    "orgName": "Vila Mirim - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Otacília da Luz Brasil, 80\r\nVila Mirim\r\nPraia Grande, SP\r\n11717-366",
+   "address": "R. Otacília da Luz Brasil, 80\nVila Mirim\nPraia Grande, SP\n11717-366",
    "languageCode": "T",
    "schedule": "Sun 09:15 Wed 19:30",
    "phones": [ "13-981591229" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1257,14 +1280,14 @@
   "properties": {
    "orgName": "Oeste - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Otacília da Luz Brasil, 80\r\nVila Mirim\r\nPraia Grande, SP\r\n11717-366",
+   "address": "R. Otacília da Luz Brasil, 80\nVila Mirim\nPraia Grande, SP\n11717-366",
    "languageCode": "T",
    "schedule": "Sat 19:00 Tue 19:30",
    "phones": [ "13996550414" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1280,21 +1303,21 @@
   "properties": {
    "orgName": "Vila Tupiry - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Nancyr Feliciano de Oliveira, 861\r\nVila Tupi\r\nPraia Grande, SP\r\n11719-130",
+   "address": "R. Nancyr Feliciano de Oliveira, 861\nVila Tupi\nPraia Grande, SP\n11719-130",
    "languageCode": "T",
    "schedule": "Sun 17:00 Fri 19:30",
    "phones": [ "5513991651771" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "E79D1D79-1E5C-420F-B419-A97E74F96F36",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -24.016735,
    "longitude": -46.468896,
@@ -1303,14 +1326,14 @@
   "properties": {
    "orgName": "LS - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Nancyr Feliciano de Oliveira, 861\r\nVila Tupi\r\nPraia Grande, SP\r\n11719-130",
+   "address": "R. Nancyr Feliciano de Oliveira, 861\nVila Tupi\nPraia Grande, SP\n11719-130",
    "languageCode": "LSB",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "13981525611" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1326,14 +1349,14 @@
   "properties": {
    "orgName": "Jardim Quietude - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Nancyr Feliciano de Oliveira, 861\r\nVila Tupi\r\nPraia Grande, SP\r\n11719-130",
+   "address": "R. Nancyr Feliciano de Oliveira, 861\nVila Tupi\nPraia Grande, SP\n11719-130",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "13-34719814" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1349,7 +1372,7 @@
   "properties": {
    "orgName": "Tupi - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Nancyr Feliciano de Oliveira, 861\r\nVila Tupi\r\nPraia Grande, SP\r\n11719-130",
+   "address": "R. Nancyr Feliciano de Oliveira, 861\nVila Tupi\nPraia Grande, SP\n11719-130",
    "languageCode": "T",
    "schedule": "Sun 19:30 Thu 19:30",
    "phones": [
@@ -1358,8 +1381,8 @@
    ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1375,14 +1398,14 @@
   "properties": {
    "orgName": "Vila Antártica - Praia Grande SP",
    "orgType": "CONG",
-   "address": "Av. João Batista de Siqueira, 326\r\nVila São Jorge\r\nPraia Grande, SP\r\n11720-120",
+   "address": "Av. João Batista de Siqueira, 326\nVila São Jorge\nPraia Grande, SP\n11720-120",
    "languageCode": "T",
    "schedule": "Sun 17:30 Thu 19:30",
    "phones": [ "13988042653" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1398,14 +1421,14 @@
   "properties": {
    "orgName": "Aviação - Praia Grande SP",
    "orgType": "CONG",
-   "address": "Av. João Batista de Siqueira, 326\r\nVila São Jorge\r\nPraia Grande, SP\r\n11720-120",
+   "address": "Av. João Batista de Siqueira, 326\nVila São Jorge\nPraia Grande, SP\n11720-120",
    "languageCode": "T",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "11964217123" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1421,14 +1444,14 @@
   "properties": {
    "orgName": "Vila Sônia - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Elídio Julio Batista, 1155\r\nPraia Grande\r\nPraia Grande, SP\r\n11723-030",
+   "address": "R. Elídio Julio Batista, 1155\nPraia Grande\nPraia Grande, SP\n11723-030",
    "languageCode": "T",
    "schedule": "Sat 19:30 Tue 19:30",
    "phones": [ "13-98106-6616" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1444,14 +1467,14 @@
   "properties": {
    "orgName": "Jardim Aero Clube - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Elídio Julio Batista, 1155\r\nPraia Grande\r\nPraia Grande, SP\r\n11723-030",
+   "address": "R. Elídio Julio Batista, 1155\nPraia Grande\nPraia Grande, SP\n11723-030",
    "languageCode": "T",
    "schedule": "Sun 19:30 Thu 19:30",
    "phones": [ "(13) 98173-7197" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1467,14 +1490,14 @@
   "properties": {
    "orgName": "Parque dos Eucaliptos - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Elídio Julio Batista, 1155\r\nPraia Grande\r\nPraia Grande, SP\r\n11723-030",
+   "address": "R. Elídio Julio Batista, 1155\nPraia Grande\nPraia Grande, SP\n11723-030",
    "languageCode": "T",
    "schedule": "Sun 17:00 Wed 19:45",
    "phones": [ "(13)996693125" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1490,14 +1513,14 @@
   "properties": {
    "orgName": "Guilhermina - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Roberto Shoji, 1141\r\n(Antiga Rua Sorocaba)\r\nBoqueirão\r\nPraia Grande, SP\r\n11701-030",
+   "address": "R. Roberto Shoji, 1141\n(Antiga Rua Sorocaba)\nBoqueirão\nPraia Grande, SP\n11701-030",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:45",
    "phones": [ "13-99666-4781" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-05-29"
  },
@@ -1513,14 +1536,14 @@
   "properties": {
    "orgName": "Central - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Roberto Shoji, 1141\r\n(Antiga Rua Sorocaba)\r\nBoqueirão\r\nPraia Grande, SP\r\n11701-030",
+   "address": "R. Roberto Shoji, 1141\n(Antiga Rua Sorocaba)\nBoqueirão\nPraia Grande, SP\n11701-030",
    "languageCode": "T",
    "schedule": "Sun 09:00 Thu 19:45",
    "phones": [ "13 996664781" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-05-29"
  },
@@ -1536,14 +1559,14 @@
   "properties": {
    "orgName": "Boqueirão - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Tiradentes, 687\r\nVila Oceânic\r\nPraia Grande, SP\r\n11700-290",
+   "address": "R. Tiradentes, 687\nVila Oceânic\nPraia Grande, SP\n11700-290",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:45",
    "phones": [ "+55&nbsp;13 99718-0445" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1559,14 +1582,14 @@
   "properties": {
    "orgName": "Recanto do Forte - Praia Grande SP",
    "orgType": "CONG",
-   "address": "R. Tiradentes, 687\r\nVila Oceânic\r\nPraia Grande, SP\r\n11700-290",
+   "address": "R. Tiradentes, 687\nVila Oceânic\nPraia Grande, SP\n11700-290",
    "languageCode": "T",
    "schedule": "Sun 19:00 Thu 19:45",
    "phones": [ "13 991060760" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

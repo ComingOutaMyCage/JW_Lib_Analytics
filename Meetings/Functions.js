@@ -1,5 +1,10 @@
 import fs from 'fs';
 import readline from 'readline';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const mainDir = __dirname + "/";
 
 function LoadJSON(filename){
     let json = fs.readFileSync(filename, (err) => {

@@ -10,6 +10,7 @@ var authorization = "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJRdmlD
 var countries = null;
 var totalQueries = 0;
 var languagesFull = null;
+var initialLocations = null;
 
 const mainDir = "./Meetings/";
 const languagesFile = mainDir + "languages.json";
@@ -41,9 +42,10 @@ async function loadAllmeetings() {
             delete meeting.properties.orgGuid;
         }
     }
-    allMeetings = meetings;
     languagesFull = await FetchLanguages();
 
+    allMeetings = meetings;
+    initialLocations = GroupByLocation(allMeetings);
 }
 // SaveAllMeetings(allMeetings);
 // throw '';
@@ -182,23 +184,98 @@ async function getMeetings(lowerLat, lowerLon, upperLat, upperLon) {
     });//.then((data) => data.category.subcategories.map(ele => ele.key))
 }
 
+//var orphanHalls = null;
+var orphanLocations = orphanLocations = LoadJSON(`${mainDir}/grid/orphanLocations.json`) ?? [];
+async function FindOrphans(locations){
+    if(orphanLocations == null){
+        orphanLocations = LoadJSON(`${mainDir}/grid/orphanLocations.json`) ?? [];
+    }
+    for(const [key, meetings] of locations){
+        initialLocations.set(key, meetings);
+        const anyActive = meetings.some(m => m.active);
+        if(anyActive) {
+            if(orphanLocations[key]) {
+                delete orphanLocations[key];
+            }
+            continue;
+        }
+        orphanLocations[key] = meetings;
+    }
+    for (const [location, meetings] of initialLocations){
+        if (locations.has(location)) continue;//If location still exists ignore
+        if (orphanLocations[location]) continue;//If location is already orphaned ignore
+        let movedMeetings = JSON.parse(JSON.stringify(meetings));
+        for (const meeting of movedMeetings) {
+            meeting.active = 0;
+            if(allMeetings[meeting.geoId]) {
+                let newMeeting = allMeetings[meeting.geoId];
+                meeting.moved = newMeeting.properties.address;
+                meeting.properties.orgName = "(Moved) " + meeting.properties.orgName;
+                let clone = JSON.parse(JSON.stringify(meeting));
+                clone.geoId = clone.geoId + "(Moved)";
+                allMeetings[clone.geoId] = clone;
+            }
+        }
+        orphanLocations[location] = movedMeetings;
+    }
+}
+async function SaveOrphans(){
+    let orphans = [];
+    for(const meetings of Object.values(orphanLocations)){
+        orphans.push(...meetings);
+    }
+    await SaveFile(`${mainDir}/grid/orphanLocations.json`, JSON.stringify(orphanLocations, null, 1));
+    await SaveFile(`${mainDir}/grid/orphans.json`, JSON.stringify(orphans, null, 1));
+    //console.log(`Saved ${orphanCount} orphan halls`);
 
-
-function GroupByLocation(meetings = []){
+    return orphans;
+}
+function DeleteOrphan(meeting){
+    if(orphanLocations == null){
+        orphanLocations = LoadJSON(`${mainDir}/grid/orphanLocations.json`) ?? [];
+    }
+    const key = getMeetingLocationKey(meeting);
+    if(!orphanLocations[key]) return;
+    orphanLocations[key] = orphanLocations[key].filter(m => m.geoId !== meeting.geoId);
+    if(orphanLocations[key].length === 0) {
+        delete orphanLocations[key];
+    }
+}
+function getMeetingLocationKey(meeting){
+    return getMeetingLocationGrid(meeting, FiftyMetres);
+    // const { latitude, longitude } = meeting.location;
+    // return `${latitude},${longitude}`;
+}
+function getMeetingLocationGrid(meeting, step = 8){
+    let { latitude, longitude } = meeting.location;
+    latitude = roundDownToNearest(latitude, step);
+    longitude = roundDownToNearest(longitude, step);
+    return `${latitude},${longitude}`;
+}
+function GroupByLocation(meetings = [], rounding = 0){
     if(!Array.isArray(meetings))
         meetings = Object.values(meetings);
-    const meetingGroups = new Map();
+    const locationGroups = new Map();
     for (const meeting of meetings) {
-        const { latitude, longitude } = meeting.location;
-        const key = `${latitude},${longitude}`;
-
-        if (!meetingGroups.has(key)) {
-            meetingGroups.set(key, []);
-        }
-        meetingGroups.get(key).push(meeting);
+        AddToLocationGroups(locationGroups, meeting, false, rounding);
     }
-    return meetingGroups;
+    return locationGroups;
 }
+function AddToLocationGroups(locationGroups, meeting, checkExists = false, rounding = 0){
+    const key = rounding === 0 ?
+        getMeetingLocationKey(meeting) :
+        getMeetingLocationGrid(meeting, rounding);
+    if (!locationGroups.has(key)) {
+        locationGroups.set(key, []);
+    }
+    if(checkExists){
+        const exists = locationGroups.get(key).some(m => m.geoId === meeting.geoId);
+        if(exists) return false;
+    }
+    locationGroups.get(key).push(meeting);
+    return true;
+}
+
 function isoDateNow(){
     return new Date(ISODateString(new Date()));
 }
@@ -477,10 +554,10 @@ function LoadCache(){
 }
 
 function SaveExpectations(){
-    SaveFile("./Meetings/Expectations.json", JSON.stringify(cachedExpectation ?? {}, null, 2));
+    SaveFile(mainDir + "Expectations.json", JSON.stringify(cachedExpectation ?? {}, null, 2));
 }
 function LoadExpectations(){
-    let filename = "./Meetings/Expectations.json";
+    let filename = mainDir + "Expectations.json";
     if(fs.existsSync(filename)) {
         cachedExpectation = LoadJSON(filename);
     }else cachedExpectation = {};
@@ -488,7 +565,7 @@ function LoadExpectations(){
 }
 async function GetAllMeetings(countries){
 
-    await fs.mkdir("./Meetings/progress", (err)=>{
+    await fs.mkdir(mainDir + "progress", (err)=>{
         if (err) { console.error(err); return; };
         console.log("Meetings/progress dir has been created");
     });
@@ -603,6 +680,9 @@ async function FetchLanguages(){
         return data;
     });
 }
+
+
+
 async function SaveAllMeetings(allMeetings){
 
     allMeetings = Object.fromEntries(
@@ -620,11 +700,7 @@ async function SaveAllMeetings(allMeetings){
     let languages = {};
     for (const meeting of Object.values(allMeetings)){
         cleanMeeting(meeting);
-        let lat = meeting.location.latitude;
-        let lon = meeting.location.longitude;
-        lat = roundDownToNearest(lat, 8);
-        lon = roundDownToNearest(lon, 8);
-        let key = `${lat},${lon}`;
+        let key = getMeetingLocationGrid(meeting);
         if(grids[key] === undefined)
             grids[key] = [];
         grids[key].push(meeting);
@@ -641,25 +717,21 @@ async function SaveAllMeetings(allMeetings){
         }
         if(!isEmpty(meeting.properties.schedule))
             totalSchedules++;
-        if(meeting.active)
+        if(meeting.moved){
+
+        } else if(meeting.active)
             totalActive++;
-        else
+        else {
             totalInactive++;
-    }
-    let orphanHalls = [];
-    let orphanCount = 0;
-    for(const [key, meetings] of locations){
-        const anyActive = meetings.some(m => m.active);
-        if(anyActive) continue;
-        orphanCount++;
-        for(const meeting of meetings){
-            orphanHalls.push(meeting);
         }
     }
-    grids['orphans'] = orphanHalls;
+
+    await FindOrphans(locations);
+    let orphans = await SaveOrphans();
+    let orphanCount = Object.keys(orphanLocations).length;
+
     //Sort by key
     languages = Object.keys(languages).sort().reduce((obj, key) => { obj[key] = languages[key]; return obj; }, {});
-
 
     let stats = {
         typeTotals: typeTotals,
@@ -721,6 +793,16 @@ function getMeetingType(meeting){
     }
     return type;
 }
+function arraysEqual(a, b) {
+    if (a === b) return true;
+    if (a == null || b == null) return false;
+    if (a.length !== b.length) return false;
+
+    for (let i = 0; i < a.length; i++) {
+        if (a[i] !== b[i]) return false;
+    }
+    return true;
+}
 
 loadAllmeetings();
 var cachedExpectation = LoadExpectations();
@@ -730,94 +812,238 @@ const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
-// Prompt user for function choice
-async function promptUser() {
-    rl.question(`Which function do you want to initiate?
-1. get-all
-2. scan-dense
-3. revisit [max-items] [days-ago]
-4. scan-innactive [max-items] [days-ago]
-5. compile
-6. validate-recent-losses
-`, (answer) => {
-        doOption(answer.split(' '));
-        rl.close();
+const askQuestion = (question) => {
+    return new Promise((resolve) => {
+        rl.question(question, (answer) => {
+            resolve(answer);
+            rl.close();
+        });
     });
+};
+
+const get_all = async function(args){
+    const answer = await askQuestion(`Wipe existing progress? Y/N?`);
+    if(answer.toLowerCase() === 'y') {
+        await fs.rmdir(mainDir + "progress", { recursive: true }, (err) => {
+            if (err) { console.error(err); return; }
+            console.log("Meetings/progress dir has been deleted");
+        });
+    }
+    await GetAllMeetings(countries);
 }
+const scan_dense = async function(){
+    ZoomIntoDenseHalls(allMeetings);
+}
+const revisit = async function(args){
+    const maximum = parseInt(args[1]) || 0;
+    const daysSince = parseInt(args[2]) || 7;
+
+    await RescanMissingMeetings(allMeetings, maximum, daysSince);
+}
+const scan_innactive = async function (args){
+    const maximum = parseInt(args[1]) || 0;
+    const daysSince = parseInt(args[2]) || -1;
+
+    const inactiveMeetings = Object.values(allMeetings).filter(meeting => !meeting.active);
+
+    await RescanMissingMeetings(inactiveMeetings, maximum, daysSince);
+}
+const compile = async function(args){
+    await SaveAllMeetings(allMeetings);
+}
+const validate_recent_losses = async function(args){
+    let inactiveMeetings = Object.values(allMeetings).filter(meeting => !meeting.active);
+    inactiveMeetings = FilterLastSeen(inactiveMeetings, 1, false);
+
+    await RescanMissingMeetings(inactiveMeetings, 0, 0);
+}
+const OneKM = 1 / 111.0;
+const HundredMetres = OneKM * 0.1;
+const FiftyMetres = OneKM * 0.5;
+const find_moved_halls = async function(args){
+    let meetings = Object.values(allMeetings);
+    // let inactiveMeetings = meetings.filter(meeting => !meeting.active);
+    // let inactiveGroups = inactiveMeetings.filter(meeting => meeting.properties.orgType === "GROUP");
+
+    let locationGroups = GroupByLocation(meetings);
+
+    let changes = 0;
+    let suggestions = 0;
+    let congsThatFormedAfterGroupFirstSeen = {};
+    for(const [gpsKey, group] of locationGroups){
+        let inactiveGroups = group.filter(meeting => !meeting.active)// && (meeting.properties.orgType == "GROUP" || meeting.properties.orgType == "PREGROUP"));
+        if (inactiveGroups.length === 0)
+            continue;
+        let activeMeetings = group.filter(meeting => meeting.active);
+
+        // let allPhones = [];
+        // for(const meeting of activeMeetings){
+        //     if(meeting.properties.phones)
+        //         allPhones.push(...meeting.properties.phones);
+        // }
+        // allPhones = new Set(allPhones);
+        // const haveUniquePhones = allPhones.size === group.length;
+        // if(!haveUniquePhones){
+        //     continue;
+        // }
+
+        for(const meetingGrp of inactiveGroups){
+            let dateLastSeen = new Date(meetingGrp.lastSeen);
+            for (const meeting of activeMeetings){
+                let dateFirstSeen = new Date(meeting.firstSeen);
+                if(dateFirstSeen > dateLastSeen){
+                    let nameGroup = (meetingGrp.properties.orgTransliteratedName || meetingGrp.properties.orgName);
+                    let nameOther = (meeting.properties.orgTransliteratedName || meeting.properties.orgName);
+
+                    let langsMatch = meetingGrp.properties.languageCode === meeting.properties.languageCode;
+                    if (langsMatch)
+                        langsMatch = arraysEqual(meetingGrp.properties.relatedLanguageCodes, meeting.properties.relatedLanguageCodes);
+
+                    let namesMatch = nameGroup === nameOther;
+                    let containsName = nameGroup.includes(nameOther);
+                    if (containsName && inactiveGroups.length === 1 && activeMeetings.length === 1 && langsMatch)
+                        namesMatch = true;
+
+                    let schedulesMatch = meetingGrp.properties.schedule === meeting.properties.schedule;
+                    let phonesMatch = meetingGrp.properties.phones === meeting.properties.phones;
+                    if(namesMatch || (langsMatch && (schedulesMatch || containsName))) {
+                        let confidence = (namesMatch ? 100 : Math.round((1 / activeMeetings.length) * 100)) + '%';
+
+                        if(confidence === '100%'){
+                            meeting.firstSeen = meetingGrp.firstSeen;
+                            UpdateMeeting(meeting);
+                            DeleteOrphan(meetingGrp);
+                            delete allMeetings[meetingGrp.geoId];
+                            console.log(`${confidence} DELETED: ${nameGroup} \t\t\t\tKEEP: ${nameOther}`);
+                            changes++;
+                        }
+                        else {
+                            console.log(`${confidence} DELETE: ${nameGroup} \t\t\t\tKEEP: ${nameOther}`);
+                        }
+                        suggestions++;
+                    }
+                    if(congsThatFormedAfterGroupFirstSeen[gpsKey] === undefined)
+                        congsThatFormedAfterGroupFirstSeen[gpsKey] = [];
+                    congsThatFormedAfterGroupFirstSeen[gpsKey].push(meetingGrp);
+                    congsThatFormedAfterGroupFirstSeen[gpsKey].push(meeting);
+                }
+            }
+        }
+    }
+    console.log("Suggested " + suggestions + " deletions.");
+    if(changes > 0)
+        console.log("Deleted " + changes + " meetings.");
+    //console.log(congsThatFormedAfterGroupFirstSeen);
+
+    let byName = {};
+    let namesWithDupes = [];
+    for (const meeting of meetings) {
+        let key = meeting.location.iso + "-" + meeting.properties.orgName ;
+        if(byName[key] === undefined)
+            byName[key] = [];
+        else
+            namesWithDupes.push(key);
+        byName[key].push(meeting);
+    }
+    //console.log(namesWithDupes);
+
+    if(changes > 0)
+        SaveAllMeetings(allMeetings);
+
+    //RescanMissingMeetings(inactiveMeetings, 0, 0);
+}
+const restore_abandoned_locations = async function(args){
+    //files in history/Meetings*.json
+
+    let files = fs.readdirSync(mainDir + 'history');
+    files.push('../Meetings.json');
+    initialLocations = null;
+    orphanLocations = {};
+
+    for (const file of files) {
+        if(!file.includes('Meetings')) continue;
+        console.log("Loading " + file);
+        const json = fs.readFileSync(mainDir + `history/${file}`);
+        const fileMeetings = JSON.parse(json);
+
+        for(const meeting of Object.values(fileMeetings)) {
+            cleanMeeting(meeting)
+        }
+
+        let locations = GroupByLocation(fileMeetings);
+        if (!initialLocations) initialLocations = GroupByLocation(fileMeetings) ?? new Map();
+
+        await FindOrphans(locations);
+    }
+
+    await SaveAllMeetings(allMeetings);
+}
+
+const actions = {
+    "get-all": get_all,
+    "scan-dense": scan_dense,
+    "revisit [max-items] [days-ago]": revisit,
+    "scan-innactive [max-items] [days-ago]": scan_innactive,
+    "compile": compile,
+    "validate-recent-losses": validate_recent_losses,
+    "find-moved-halls": find_moved_halls,
+    "restore_abandoned_locations": restore_abandoned_locations,
+}
+
 async function doOption(args){
     while(allMeetings == null){
         console.log("Waiting for meetings to load...");
         await delay(100);
     }
     let option = args.length > 0 ? args[0].toLowerCase() : '';
-    switch (option) {
-        case 'get-all':
-        case '1':
-            GetAllMeetings(countries);
-            break;
-        case 'scan-dense':
-        case '2':
-            ZoomIntoDenseHalls(allMeetings);
-            break;
-        case 'revisit':
-        case '3': {
-            const maximum = parseInt(args[1]) || 0;
-            const daysSince = parseInt(args[2]) || 7;
-
-            RescanMissingMeetings(allMeetings, maximum, daysSince);
-            break;
+    if(option === 'exit' || option === 'quit')
+        return;
+    let action = null;
+    if(parseInt(option) > 0) {
+        option = parseInt(option);
+        option = Object.keys(actions)[option - 1];
+        action = actions[option]
+    }else{
+        option = option.toLowerCase();
+        for(const [key, value] of Object.entries(actions)){
+            if(key === option || key.startsWith(option + " ")){
+                option = key;
+                action = value;
+                break;
+            }
         }
-        case 'scan-innactive':
-        case '4': {
-            const maximum = parseInt(args[1]) || 0;
-            const daysSince = parseInt(args[2]) || -1;
-
-            const inactiveMeetings = Object.values(allMeetings).filter(meeting => !meeting.active);
-
-            RescanMissingMeetings(inactiveMeetings, maximum, daysSince);
-            break;
-        }
-        case 'compile':
-        case '5':
-            SaveAllMeetings(allMeetings);
-            break;
-        case 'validate-recent-losses':
-        case '6': {
-            let inactiveMeetings = Object.values(allMeetings).filter(meeting => !meeting.active);
-            inactiveMeetings = FilterLastSeen(inactiveMeetings, 1, false);
-
-            RescanMissingMeetings(inactiveMeetings, 0, 0);
-            break;
-        }
-        // case '6':
-        //     RestoreFirstSeen();
-        //     break;
-        default:
-            console.log('Invalid option. Please choose a valid function (1-3).');
-            promptUser();
+    }
+    if(action === null){
+        console.log('Invalid option. Please choose a valid function (1-3).');
+        promptUser();
+    }
+    else {
+        console.log(`Running ${option}...`);
+        await action(args);
+        console.log(`Finished ${option}.`);
     }
 }
+// Prompt user for function choice
+async function promptUser() {
+    let prompt = `Which function do you want to initiate?`;
+    let index = 1;
+    for (const [key, value] of Object.entries(actions)) {
+        prompt += `\n${index}. ${key}`;
+        index++;
+    }
+    prompt += `\n> `;
+
+    rl.question(prompt, (answer) => {
+        let option =
+        doOption(answer.split(' '));
+        rl.close();
+    });
+}
+
 //check args
 if (process.argv.length > 2) {
     const args = process.argv.slice(2);
     doOption(args);
 }else {
     promptUser();
-}
-
-async function RestoreFirstSeen(){
-    //files in history/Meetings*.json
-    const files = fs.readdirSync('./Meetings/history');
-    for (const file of files) {
-        if(!file.startsWith('Meetings')) continue;
-        const json = fs.readFileSync(`./Meetings/history/${file}`);
-        const fileMeetings = JSON.parse(json);
-        for (const fileMeeting of Object.values(fileMeetings)) {
-            let key = fileMeeting.geoId;
-            let existing = allMeetings[key];
-            if (new Date(fileMeeting.firstSeen) < new Date(existing.firstSeen))
-                existing.firstSeen = fileMeeting.firstSeen;
-        }
-    }
-    await SaveAllMeetings(allMeetings);
 }

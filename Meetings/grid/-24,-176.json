@@ -11,15 +11,15 @@
   "properties": {
    "orgName": "Kolomotu'a - Nuku'alofa",
    "orgType": "CONG",
-   "address": "Atele\r\nNuku'alofa\r\nNUKU'ALOFA\r\nTONGA",
+   "address": "Atele\nNuku'alofa\nNUKU'ALOFA\nTONGA",
    "languageCode": "TO",
    "schedule": "Sun 10:00 Tue 18:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "00676 29 801" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -35,15 +35,15 @@
   "properties": {
    "orgName": "Nuku'alofa English - Kolomotu'a - Nuku'alofa",
    "orgType": "GROUP",
-   "address": "Atele\r\nNuku'alofa\r\nNUKU'ALOFA\r\nTONGA",
+   "address": "Atele\nNuku'alofa\nNUKU'ALOFA\nTONGA",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 18:30",
    "relatedLanguageCodes": [ "TO" ],
    "phones": [ "00676 29 801" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -59,7 +59,7 @@
   "properties": {
    "orgName": "Kolofo'ou - Nuku'alofa",
    "orgType": "CONG",
-   "address": "Atele\r\nNuku'alofa\r\nNUKU'ALOFA\r\nTONGA",
+   "address": "Atele\nNuku'alofa\nNUKU'ALOFA\nTONGA",
    "languageCode": "TO",
    "schedule": "Sun 17:00 Wed 18:30",
    "phones": [
@@ -68,8 +68,8 @@
    ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -91,9 +91,9 @@
    "phones": [ "00676 50 572" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
@@ -114,37 +114,13 @@
    "phones": [ "00676 841 8614" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "84F576C0-D4FD-4C5D-9C02-EDCC15888E9E",
-  "type": "weekly",
-  "isPrimary": 0,
-  "location": {
-   "latitude": -18.631855,
-   "longitude": -173.972194,
-   "iso": "FJI"
-  },
-  "properties": {
-   "orgName": "Vava'u - Vavau",
-   "orgType": "CONG",
-   "address": "Hala Tu'I\r\nNeiafu\r\nVava'u",
-   "languageCode": "TO",
-   "schedule": "Sun 10:00 Wed 18:30",
-   "relatedLanguageCodes": [ "AUS" ],
-   "phones": [ "+676&nbsp;883 1010" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "9BDD55CC-E26E-48AA-94D9-FC4B90FA47A8",
   "type": "weekly",
   "isPrimary": 1,
   "location": {
@@ -153,17 +129,41 @@
    "iso": "FJI"
   },
   "properties": {
+   "orgName": "Vava'u - Vavau",
+   "orgType": "CONG",
+   "address": "Hala Tu'I\nNeiafu\nVava'u",
+   "languageCode": "TO",
+   "schedule": "Sun 10:00 Wed 18:30",
+   "relatedLanguageCodes": [ "AUS" ],
+   "phones": [ "+676&nbsp;883 1010" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "9BDD55CC-E26E-48AA-94D9-FC4B90FA47A8",
+  "type": "weekly",
+  "isPrimary": 0,
+  "location": {
+   "latitude": -18.631855,
+   "longitude": -173.972194,
+   "iso": "FJI"
+  },
+  "properties": {
    "orgName": "Vava'u Sign Language - Vava'u - Vavau",
    "orgType": "GROUP",
-   "address": "Hala Tu'I\r\nNeiafu\r\nVava'u",
+   "address": "Hala Tu'I\nNeiafu\nVava'u",
    "languageCode": "AUS",
    "schedule": "Sun 10:00 Wed 18:30",
    "relatedLanguageCodes": [ "TO" ],
    "phones": [ "+676&nbsp;883 1010" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -179,14 +179,14 @@
   "properties": {
    "orgName": "Niue - Niue Is",
    "orgType": "CONG",
-   "address": "Section 1, Block 11, Mutalau District\r\nMutulau",
+   "address": "Section 1, Block 11, Mutalau District\nMutulau",
    "languageCode": "NN",
    "schedule": "Sun 10:00 Tue 18:30",
    "phones": [ "00683 7304" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

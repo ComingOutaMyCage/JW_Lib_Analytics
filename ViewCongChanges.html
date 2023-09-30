@@ -168,29 +168,54 @@
             $("#history").append(pageContent);
         }
 
+        formatDate(inputDate) {
+            // Array of month names for mapping
+            const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+            // Parse the input date
+            const date = new Date(inputDate);
+
+            // Extract the year and month
+            const year = date.getFullYear();
+            const month = months[date.getMonth()];
+
+            // Return the formatted string
+            return `${year}-${month}`;
+        }
+
         groupMeetingsByDate(meetings) {
             let sorted = {};
+
+            meetings.sort((a, b) => {
+                if (a.lastSeen < b.lastSeen) return 1;
+                if (a.lastSeen > b.lastSeen) return -1;
+                return 0;
+            });
+
             // group meetings by date
             meetings.forEach(meeting => {
                 let lastSeen = meeting.lastSeen;
+                let date = this.formatDate(lastSeen);
                 if(lastSeen < "2022-12-02") {
+                    date = " Earlier";
                     lastSeen = "2022-12-01-Earlier";
                 }
-                meeting.lastSeen = lastSeen;
-                if (!sorted[lastSeen]) {
-                    sorted[lastSeen] = [];
+                meeting.lastSeen = date;
+                if (!sorted[date]) {
+                    sorted[date] = [];
                 }
-                sorted[lastSeen].push(meeting);
+                sorted[date].push(meeting);
             });
 
+            return sorted;
             // sort dates
-            return Object.keys(sorted)
-                .sort()
-                .reverse()
-                .reduce((obj, key) => {
-                    obj[key] = sorted[key];
-                    return obj;
-                }, {});
+            // return Object.keys(sorted)
+            //     .sort()
+            //     .reverse()
+            //     .reduce((obj, key) => {
+            //         obj[key] = sorted[key];
+            //         return obj;
+            //     }, {});
         }
 
         generatePageContent(meetingsByDateSeen) {

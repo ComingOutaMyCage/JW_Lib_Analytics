@@ -13,12 +13,13 @@
    "orgType": "CONG",
    "address": "Diagonal Miraflores 0175\nPUNTA ARENAS  (XII. MAG)",
    "languageCode": "S",
-   "schedule": "Sun 18:00 Thu 19:45",
+   "schedule": "Sat 19:00 Tue 19:45",
+   "relatedLanguageCodes": [ "SCH" ],
    "phones": [ "+56974964172" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -40,8 +41,8 @@
    "phones": [ "+56 9 6697 0853" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -63,7 +64,7 @@
    "phones": [ "+56954230687" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02"
@@ -71,7 +72,7 @@
  {
   "geoId": "806EE128-0BC7-44AE-94DC-BE2DFCE28C60",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -53.140808,
    "longitude": -70.896931,
@@ -80,21 +81,21 @@
   "properties": {
    "orgName": "Central - Punta Arenas",
    "orgType": "CONG",
-   "address": "Miguel de Cervantes 0109\r\nPUNTA ARENAS  (XII. MAG)",
+   "address": "Miguel de Cervantes 0109\nPUNTA ARENAS  (XII. MAG)",
    "languageCode": "S",
    "schedule": "Sat 19:00 Tue 19:30",
    "phones": [ "+56 9 81762824" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1753D0AC-6D92-437F-A6CA-E76AC91149FD",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -53.140808,
    "longitude": -70.896931,
@@ -103,15 +104,15 @@
   "properties": {
    "orgName": "Oeste - Punta Arenas",
    "orgType": "CONG",
-   "address": "Miguel de Cervantes 0109\r\nPUNTA ARENAS  (XII. MAG)",
+   "address": "Miguel de Cervantes 0109\nPUNTA ARENAS  (XII. MAG)",
    "languageCode": "S",
    "schedule": "Sun 19:00 Thu 19:30",
    "relatedLanguageCodes": [ "CR" ],
    "phones": [ "+56 9 4283 9578" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -127,14 +128,14 @@
   "properties": {
    "orgName": "Patagonia - Punta Arenas",
    "orgType": "CONG",
-   "address": "Miguel de Cervantes 0109\r\nPUNTA ARENAS  (XII. MAG)",
+   "address": "Miguel de Cervantes 0109\nPUNTA ARENAS  (XII. MAG)",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 19:30",
    "phones": [ "+56983834232" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -157,9 +158,9 @@
    "phones": [ "+56 9 4283 9578" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
@@ -174,14 +175,14 @@
   "properties": {
    "orgName": "Porvenir",
    "orgType": "CONG",
-   "address": "Padre Mario Zavattaro 342\r\nPORVENIR  (XII. MAG)",
+   "address": "Padre Mario Zavattaro 342\nPORVENIR  (XII. MAG)",
    "languageCode": "S",
    "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "+56&nbsp;2 580170" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -197,66 +198,19 @@
   "properties": {
    "orgName": "Oeste, Ushuaia, Tierra del Fuego",
    "orgType": "CONG",
-   "address": "Las Violetas 45\r\nBarrio Las Terrazas\r\nUshuaia, Tierra del Fuego\r\nC. P.:  9410",
+   "address": "Las Violetas 45\nBarrio Las Terrazas\nUshuaia, Tierra del Fuego\nC. P.:  9410",
    "languageCode": "S",
    "schedule": "Sat 17:00 Tue 20:00",
    "phones": [ "2901 - 556692" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "00036F89-A1FC-40FA-AC88-FAA31B7CA225",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -54.79853,
-   "longitude": -68.30833,
-   "iso": "ARG"
-  },
-  "properties": {
-   "orgName": "Norte, Ushuaia, Tierra del Fuego",
-   "orgType": "CONG",
-   "address": "Las Violetas 45\r\nBarrio Las Terrazas\r\nUshuaia, Tierra del Fuego\r\nC. P.:  9410",
-   "languageCode": "S",
-   "schedule": "Sat 20:00 Thu 20:00",
-   "relatedLanguageCodes": [ "QUB" ],
-   "phones": [ "+54 9 2901 401983" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "C3A4B816-8C81-40E2-8CFF-0F656048409F",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -54.79853,
-   "longitude": -68.30833,
-   "iso": "ARG"
-  },
-  "properties": {
-   "orgName": "Sur, Ushuaia, Tierra del Fuego",
-   "orgType": "CONG",
-   "address": "Las Violetas 45\r\nBarrio Las Terrazas\r\nUshuaia, Tierra del Fuego\r\nC. P.:  9410",
-   "languageCode": "S",
-   "schedule": "Sun 11:00 Wed 20:00",
-   "phones": [ "2901-407940" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "1917A78A-11DA-4DF6-AF0A-20822AEC478B",
   "type": "weekly",
   "isPrimary": 0,
   "location": {
@@ -265,17 +219,64 @@
    "iso": "ARG"
   },
   "properties": {
+   "orgName": "Norte, Ushuaia, Tierra del Fuego",
+   "orgType": "CONG",
+   "address": "Las Violetas 45\nBarrio Las Terrazas\nUshuaia, Tierra del Fuego\nC. P.:  9410",
+   "languageCode": "S",
+   "schedule": "Sat 20:00 Thu 20:00",
+   "relatedLanguageCodes": [ "QUB" ],
+   "phones": [ "+54 9 2901 401983" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "C3A4B816-8C81-40E2-8CFF-0F656048409F",
+  "type": "weekly",
+  "isPrimary": 0,
+  "location": {
+   "latitude": -54.79853,
+   "longitude": -68.30833,
+   "iso": "ARG"
+  },
+  "properties": {
+   "orgName": "Sur, Ushuaia, Tierra del Fuego",
+   "orgType": "CONG",
+   "address": "Las Violetas 45\nBarrio Las Terrazas\nUshuaia, Tierra del Fuego\nC. P.:  9410",
+   "languageCode": "S",
+   "schedule": "Sun 11:00 Wed 20:00",
+   "phones": [ "2901-407940" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "1917A78A-11DA-4DF6-AF0A-20822AEC478B",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -54.79853,
+   "longitude": -68.30833,
+   "iso": "ARG"
+  },
+  "properties": {
    "orgName": "Ushuaia, Tierra del Fuego (Quechua) - Norte, Ushuaia, Tierra del Fuego",
    "orgType": "GROUP",
-   "address": "Las Violetas 45\r\nBarrio Las Terrazas\r\nUshuaia, Tierra del Fuego\r\nC. P.:  9410",
+   "address": "Las Violetas 45\nBarrio Las Terrazas\nUshuaia, Tierra del Fuego\nC. P.:  9410",
    "languageCode": "QUB",
    "schedule": "Sat 20:00 Thu 20:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "+54 9 2901 401983" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -291,14 +292,14 @@
   "properties": {
    "orgName": "Tolhuin, Tierra del Fuego",
    "orgType": "CONG",
-   "address": "Minkiol 130\r\nTolhuin, Tierra del Fuego\r\nC. P.:",
+   "address": "Minkiol 130\nTolhuin, Tierra del Fuego\nC. P.:",
    "languageCode": "S",
    "schedule": "Sun 11:00 Wed 20:00",
    "phones": [ "2901-613480 / 2964-469041/2964-493372" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -314,15 +315,15 @@
   "properties": {
    "orgName": "Centro, Río Grande, Tierra del Fuego",
    "orgType": "CONG",
-   "address": "Alberdi 159                     \r\nRío Grande, Tierra del Fuego\r\nC. P.:  9420",
+   "address": "Alberdi 159                     \nRío Grande, Tierra del Fuego\nC. P.:  9420",
    "languageCode": "S",
    "schedule": "Sat 19:00 Thu 19:30",
    "relatedLanguageCodes": [ "LSA" ],
    "phones": [ "2964606330" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -338,14 +339,14 @@
   "properties": {
    "orgName": "Sur, Río Grande, Tierra del Fuego",
    "orgType": "CONG",
-   "address": "Alberdi 159                     \r\nRío Grande, Tierra del Fuego\r\nC. P.:  9420",
+   "address": "Alberdi 159                     \nRío Grande, Tierra del Fuego\nC. P.:  9420",
    "languageCode": "S",
    "schedule": "Sun 10:30 Fri 20:00",
    "phones": [ "2964-453402" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -361,15 +362,15 @@
   "properties": {
    "orgName": "Río Grande, Tierra del Fuego (LSA) - Centro, Río Grande, Tierra del Fuego",
    "orgType": "GROUP",
-   "address": "Alberdi 159                     \r\nRío Grande, Tierra del Fuego\r\nC. P.:  9420",
+   "address": "Alberdi 159                     \nRío Grande, Tierra del Fuego\nC. P.:  9420",
    "languageCode": "LSA",
    "schedule": "Sat 19:00 Thu 19:30",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "2964606330" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -385,14 +386,14 @@
   "properties": {
    "orgName": "Norte, Río Grande, Tierra del Fuego",
    "orgType": "CONG",
-   "address": "Panamá 573\r\nRío Grande, Tierra del Fuego\r\nC. P.:  9420",
+   "address": "Panamá 573\nRío Grande, Tierra del Fuego\nC. P.:  9420",
    "languageCode": "S",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "02964 367332" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -408,14 +409,14 @@
   "properties": {
    "orgName": "Austral, Río Grande, Tierra del Fuego",
    "orgType": "CONG",
-   "address": "San Jorge 624\r\nRío Grande, Tierra del Fuego\r\nC. P.:",
+   "address": "San Jorge 624\nRío Grande, Tierra del Fuego\nC. P.:",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 20:00",
    "phones": [ "+5492964526071" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -431,14 +432,14 @@
   "properties": {
    "orgName": "Norte, Río Gallegos, Santa Cruz",
    "orgType": "CONG",
-   "address": "Juan Manuel de Rosas 645\r\nRío Gallegos, Santa Cruz\r\nC. P.:  9400",
+   "address": "Juan Manuel de Rosas 645\nRío Gallegos, Santa Cruz\nC. P.:  9400",
    "languageCode": "S",
    "schedule": "Sat 19:30 Thu 20:00",
    "phones": [ "2966415658" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -454,85 +455,131 @@
   "properties": {
    "orgName": "Oeste, Río Gallegos, Santa Cruz",
    "orgType": "CONG",
-   "address": "Juan Manuel de Rosas 645\r\nRío Gallegos, Santa Cruz\r\nC. P.:  9400",
+   "address": "Juan Manuel de Rosas 645\nRío Gallegos, Santa Cruz\nC. P.:  9400",
    "languageCode": "S",
    "schedule": "Sun 10:30 Fri 20:00",
    "phones": [ "2966445147" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
+  "geoId": "46C377AC-501C-4CC0-97A6-900AAED2242F(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -51.61241,
+   "longitude": -69.25374
+  },
+  "properties": {
+   "orgName": "(Moved) Norte, Río Gallegos, Santa Cruz",
+   "orgType": "CONG",
+   "address": "Juan Manuel de Rosas 645\nRío Gallegos, Santa Cruz\nC. P.:  9400",
+   "languageCode": "S",
+   "schedule": "Sat 19:30 Thu 20:00",
+   "phones": [ "2966415658" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastSeen": "2023-02-20",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Juan Manuel de Rosas 645\nRío Gallegos, Santa Cruz\nC. P.:  9400",
+  "lastVisit": "2023-02-20"
+ },
+ {
+  "geoId": "5DF2D60E-502E-4BF6-8AE3-F3DB7E049A74(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -51.61241,
+   "longitude": -69.25374
+  },
+  "properties": {
+   "orgName": "(Moved) Oeste, Río Gallegos, Santa Cruz",
+   "orgType": "CONG",
+   "address": "Juan Manuel de Rosas 645\nRío Gallegos, Santa Cruz\nC. P.:  9400",
+   "languageCode": "S",
+   "schedule": "Sun 10:30 Fri 20:00",
+   "phones": [],
+   "isPrivateMtgPlace": 0
+  },
+  "lastSeen": "2023-02-20",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Juan Manuel de Rosas 645\nRío Gallegos, Santa Cruz\nC. P.:  9400",
+  "lastVisit": "2023-02-20"
+ },
+ {
   "geoId": "5BCFFD39-E40E-40AE-8D41-59FDD57237FE",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
-   "latitude": -51.62382,
-   "longitude": -69.21163,
+   "latitude": -51.623927,
+   "longitude": -69.211234,
    "iso": "ARG"
   },
   "properties": {
    "orgName": "Sur, Río Gallegos, Santa Cruz",
    "orgType": "CONG",
-   "address": "Chile 33\r\nRío Gallegos, Santa Cruz\r\nC. P.:  9400",
+   "address": "Chile 33\nRío Gallegos, Santa Cruz\nC. P.:  9400",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 20:00",
    "relatedLanguageCodes": [ "LSA" ],
    "phones": [ "+54&nbsp;9 2966 55-8263" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "72253F4F-1216-431A-9E0D-66C55FF8C96C",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
-   "latitude": -51.62382,
-   "longitude": -69.21163,
+   "latitude": -51.623927,
+   "longitude": -69.211234,
    "iso": "ARG"
   },
   "properties": {
    "orgName": "Este, Río Gallegos, Santa Cruz",
    "orgType": "CONG",
-   "address": "Chile 33\r\nRío Gallegos, Santa Cruz\r\nC. P.:  9400",
+   "address": "Chile 33\nRío Gallegos, Santa Cruz\nC. P.:  9400",
    "languageCode": "S",
    "schedule": "Sat 20:00 Thu 20:00",
    "phones": [ "+54&nbsp;2966649134" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "646D1814-61DB-4677-AEF9-6107794D7133",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
-   "latitude": -51.62382,
-   "longitude": -69.21163,
+   "latitude": -51.623927,
+   "longitude": -69.211234,
    "iso": "ARG"
   },
   "properties": {
    "orgName": "Río Gallegos, Santa Cruz (LSA) - Sur, Río Gallegos, Santa Cruz",
    "orgType": "GROUP",
-   "address": "Chile 33\r\nRío Gallegos, Santa Cruz\r\nC. P.:  9400",
+   "address": "Chile 33\nRío Gallegos, Santa Cruz\nC. P.:  9400",
    "languageCode": "LSA",
    "schedule": "Sun 10:30 Wed 20:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "+54&nbsp;9 2966 55-8263" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -554,7 +601,7 @@
    "phones": [ "02966629240" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02"
@@ -574,11 +621,11 @@
    "address": "Av. Belgrano 15\nPiedra Buena, Santa Cruz\nC. P.:  9303",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 19:00",
-   "phones": [ "02966629240" ],
+   "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -594,14 +641,14 @@
   "properties": {
    "orgName": "Puerto Santa Cruz, Santa Cruz",
    "orgType": "CONG",
-   "address": "25 de Mayo 309\r\nesquina Alferez Balestra\r\nPuerto Santa Cruz, Santa Cruz\r\nC. P.:  9300",
+   "address": "25 de Mayo 309\nesquina Alferez Balestra\nPuerto Santa Cruz, Santa Cruz\nC. P.:  9300",
    "languageCode": "S",
    "schedule": "Sat 17:00 Wed 19:00",
    "phones": [ "02966 15-464332" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -617,14 +664,14 @@
   "properties": {
    "orgName": "Puerto San Julián, Santa Cruz",
    "orgType": "CONG",
-   "address": "Sarmiento 641\r\nPuerto San Julián, Santa Cruz\r\nC. P.:  9310",
+   "address": "Sarmiento 641\nPuerto San Julián, Santa Cruz\nC. P.:  9310",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 20:00",
    "phones": [ "2966 15213932" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

@@ -2,7 +2,7 @@
  {
   "geoId": "AC70A7AC-4F43-46AF-82FD-4DD0B30C7382",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -22.47317,
    "longitude": -151.35741,
@@ -18,15 +18,15 @@
    "phones": [ "40940351" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BE1E4CC3-ED0B-4089-A003-8ED168A81828",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -22.47317,
    "longitude": -151.35741,
@@ -42,8 +42,8 @@
    "phones": [ "40940351" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -66,8 +66,8 @@
    "phones": [ "40.95.05.07" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -83,7 +83,7 @@
   "properties": {
    "orgName": "Raivavae",
    "orgType": "CONG",
-   "address": "C/o M. Charles Degage\r\n98750 RAIVAVAE",
+   "address": "C/o M. Charles Degage\n98750 RAIVAVAE",
    "languageCode": "TH",
    "schedule": "Sun 17:00 Tue 17:00",
    "phones": [
@@ -92,15 +92,15 @@
    ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C823BAD5-93E4-4A4D-A0B6-B0B6F8F5DB78",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -16.491337,
    "longitude": -151.724746,
@@ -116,8 +116,8 @@
    "phones": [ "89527382" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -140,15 +140,15 @@
    "phones": [ "89527382" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6C3C321B-5772-4389-A83A-3768A205B711",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -16.74838,
    "longitude": -151.44062,
@@ -157,14 +157,14 @@
   "properties": {
    "orgName": "Raiatea",
    "orgType": "CONG",
-   "address": "Vallée de Tepua\r\n98735 RAIATEA",
+   "address": "Vallée de Tepua\n98735 RAIATEA",
    "languageCode": "F",
    "schedule": "Sat 16:00 Tue 18:30",
    "phones": [ "87 260 082" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -180,43 +180,19 @@
   "properties": {
    "orgName": "Havaï",
    "orgType": "CONG",
-   "address": "Vallée de Tepua\r\n98735 RAIATEA",
+   "address": "Vallée de Tepua\n98735 RAIATEA",
    "languageCode": "TH",
    "schedule": "Sun 15:30 Wed 18:00",
    "phones": [ "40.66.31.30" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "70A1D392-2A9E-42B8-892A-B3B33B320187",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -16.64174,
-   "longitude": -151.519953,
-   "iso": "FJI"
-  },
-  "properties": {
-   "orgName": "Tahaa",
-   "orgType": "CONG",
-   "address": "Baie de Hurepiti\r\nPK 17 Côté Ouest (côté mer)\r\n98733 TAHAA",
-   "languageCode": "F",
-   "schedule": "Sun 16:00 Wed 18:30",
-   "relatedLanguageCodes": [ "TH" ],
-   "phones": [ "40656628" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "1FB0BE6D-D853-4586-81D3-D2E21376F542",
   "type": "weekly",
   "isPrimary": 0,
   "location": {
@@ -225,24 +201,48 @@
    "iso": "FJI"
   },
   "properties": {
+   "orgName": "Tahaa",
+   "orgType": "CONG",
+   "address": "Baie de Hurepiti\nPK 17 Côté Ouest (côté mer)\n98733 TAHAA",
+   "languageCode": "F",
+   "schedule": "Sun 16:00 Wed 18:30",
+   "relatedLanguageCodes": [ "TH" ],
+   "phones": [ "40656628" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "1FB0BE6D-D853-4586-81D3-D2E21376F542",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -16.64174,
+   "longitude": -151.519953,
+   "iso": "FJI"
+  },
+  "properties": {
    "orgName": "Tahaa Gp. (Th) - Tahaa",
    "orgType": "GROUP",
-   "address": "Baie de Hurepiti\r\nPK 17 Côté Ouest (côté mer)\r\n98733 TAHAA",
+   "address": "Baie de Hurepiti\nPK 17 Côté Ouest (côté mer)\n98733 TAHAA",
    "languageCode": "TH",
    "schedule": "Sun 16:00 Wed 18:30",
    "relatedLanguageCodes": [ "F" ],
    "phones": [ "40656628" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EC69B82C-3AE5-4480-8C0E-D34544EF7945",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -16.693053,
    "longitude": -151.026375,
@@ -251,14 +251,14 @@
   "properties": {
    "orgName": "Huahine",
    "orgType": "CONG",
-   "address": "Route de l'aéroport\r\nMotu Fare\r\n98731 HUAHINE",
+   "address": "Route de l'aéroport\nMotu Fare\n98731 HUAHINE",
    "languageCode": "F",
    "schedule": "Sat 17:30 Wed 18:30",
    "phones": [ "+689 87736463" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -274,14 +274,14 @@
   "properties": {
    "orgName": "Matairea",
    "orgType": "CONG",
-   "address": "Route de l'aéroport\r\nMotu Fare\r\n98731 HUAHINE",
+   "address": "Route de l'aéroport\nMotu Fare\n98731 HUAHINE",
    "languageCode": "TH",
    "schedule": "Sat 15:00 Tue 18:30",
    "phones": [ "+68987745867" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -304,8 +304,8 @@
    "phones": [ "40.56.59.81" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -328,15 +328,15 @@
    "phones": [ "40.56.59.81" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "D3A6E3E4-AF15-4F48-9A74-F4D97948CE24",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -17.57525,
    "longitude": -149.85272,
@@ -351,8 +351,8 @@
    "phones": [ "87746108" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -374,8 +374,8 @@
    "phones": [ "40.53.30.22" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -397,8 +397,8 @@
    "phones": [ "(689) 40 53 20 22" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -414,14 +414,14 @@
   "properties": {
    "orgName": "Orofero",
    "orgType": "CONG",
-   "address": "PK 23,2 Côté montagne\r\n98711 PAEA",
+   "address": "PK 23,2 Côté montagne\n98711 PAEA",
    "languageCode": "TH",
    "schedule": "Sat 09:00 Mon 19:00",
    "phones": [ "87321390" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -443,8 +443,8 @@
    "phones": [ "40426382" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -466,8 +466,8 @@
    "phones": [ "40.42.63.82" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -489,10 +489,33 @@
    "phones": [ "40.42.63.82" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
+ },
+ {
+  "geoId": "A2855346-900C-47B9-A87C-850B416A4DF1",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -17.76522,
+   "longitude": -149.48484,
+   "iso": "FJI"
+  },
+  "properties": {
+   "orgName": "Mataiea",
+   "orgType": "CONG",
+   "address": "PK 38 Côté montagne\n98712 PAPARA",
+   "languageCode": "TH",
+   "schedule": "Sun 14:00 Fri 18:00",
+   "phones": [ "87 288 371" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1CDEA1EB-3026-446D-AE61-92A394BEFBF8",
@@ -512,8 +535,8 @@
    "phones": [ "49.58.47.14" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -535,8 +558,8 @@
    "phones": [ "+689 87 78 61 07" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -552,14 +575,14 @@
   "properties": {
    "orgName": "Vairai",
    "orgType": "CONG",
-   "address": "Vallée de Matatia\r\n98718 TAMANU",
+   "address": "Vallée de Matatia\n98718 TAMANU",
    "languageCode": "TH",
    "schedule": "Sat 09:00 Mon 19:00",
    "phones": [ "49.58.47.14" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -585,8 +608,8 @@
    "phones": [ "+689 40 81 03 98" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -602,21 +625,21 @@
   "properties": {
    "orgName": "Hotuarea",
    "orgType": "CONG",
-   "address": "Quartier Piafau\r\nRoute du lotissement Teroma\r\n98761 FAA'A",
+   "address": "Quartier Piafau\nRoute du lotissement Teroma\n98761 FAA'A",
    "languageCode": "TH",
    "schedule": "Sun 14:00 Thu 19:00",
    "phones": [ "40.81.03.98" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D42C2187-0775-422C-9F54-C0D83A45255E",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -17.57284,
    "longitude": -149.60396,
@@ -625,21 +648,21 @@
   "properties": {
    "orgName": "Fanatea",
    "orgType": "CONG",
-   "address": "Quartier Piafau\r\nRoute du lotissement Teroma\r\n98761 FAA'A",
+   "address": "Quartier Piafau\nRoute du lotissement Teroma\n98761 FAA'A",
    "languageCode": "TH",
    "schedule": "Sun 17:00 Wed 19:00",
    "phones": [ "87 70 22 82" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "935F906C-EA70-4B03-8A09-4EE8933FD3E2",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -17.57284,
    "longitude": -149.60396,
@@ -648,14 +671,14 @@
   "properties": {
    "orgName": "Papeete LSF",
    "orgType": "CONG",
-   "address": "Quartier Piafau\r\nRoute du lotissement Teroma\r\n98761 FAA'A",
+   "address": "Quartier Piafau\nRoute du lotissement Teroma\n98761 FAA'A",
    "languageCode": "LSF",
    "schedule": "Sun 10:00 Fri 18:00",
    "phones": [ "87 20 15 10" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -671,38 +694,15 @@
   "properties": {
    "orgName": "Heiri Gp. (E) - Heiri",
    "orgType": "GROUP",
-   "address": "Quartier Piafau\r\nRoute du lotissement Teroma\r\n98761 FAA'A",
+   "address": "Quartier Piafau\nRoute du lotissement Teroma\n98761 FAA'A",
    "languageCode": "E",
    "schedule": "Sat 16:30 Tue 19:00",
    "relatedLanguageCodes": [ "F" ],
    "phones": [ "+689 40 81 03 98" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "A2855346-900C-47B9-A87C-850B416A4DF1",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -17.765153,
-   "longitude": -149.409382,
-   "iso": "FJI"
-  },
-  "properties": {
-   "orgName": "Mataiea",
-   "orgType": "CONG",
-   "address": "Route de la mairie de Mataiea\r\nPk 47 c/montagne\r\n98726 MATAIEA",
-   "languageCode": "TH",
-   "schedule": "Sat 14:00 Tue 18:00",
-   "phones": [ "87 288 371" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -724,8 +724,8 @@
    "phones": [ "87 38 29 47" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -747,8 +747,8 @@
    "phones": [ "(689) 89 77 68 54" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -770,8 +770,8 @@
    "phones": [ "89.44.18.10" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -793,8 +793,8 @@
    "phones": [ "87.71.68.02" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -816,8 +816,8 @@
    "phones": [ "87752689" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -839,8 +839,8 @@
    "phones": [ "87230217" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -862,8 +862,8 @@
    "phones": [ "+68987778360" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -885,8 +885,8 @@
    "phones": [ "89776605" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -908,8 +908,8 @@
    "phones": [ "40.57.50.60" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -931,8 +931,8 @@
    "phones": [ "87.79.77.14" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -954,8 +954,8 @@
    "phones": [ "+68987777597" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -973,12 +973,12 @@
    "orgType": "CONG",
    "address": "PK 2,5 Côté mer\n98724 TOAHOTU",
    "languageCode": "TH",
-   "schedule": "Sun 14:00 Fri 19:00",
-   "phones": [ "87 78 23 82" ],
+   "schedule": "Sat 14:30 Tue 19:00",
+   "phones": [ "89700440" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1000,7 +1000,7 @@
    "phones": [ "87.37.37.16 ou 87.734.754" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02"
@@ -1023,8 +1023,8 @@
    "phones": [ "87-73-78-65" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1046,8 +1046,8 @@
    "phones": [ "+689 87 77 43 17" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1063,14 +1063,14 @@
   "properties": {
    "orgName": "Tiarei",
    "orgType": "CONG",
-   "address": "PK 10,2 Côté montagne\r\nVallée de Tuauru\r\n98709 MAHINA",
+   "address": "PK 10,2 Côté montagne\nVallée de Tuauru\n98709 MAHINA",
    "languageCode": "TH",
-   "schedule": "Sun 15:00 Thu 19:00",
+   "schedule": "Sun 15:00 Thu 18:00",
    "phones": [ "87752670" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1092,7 +1092,7 @@
    "phones": [ "89.74.29.92" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02"

@@ -11,14 +11,14 @@
   "properties": {
    "orgName": "CHIVAY - ARE",
    "orgType": "CONG",
-   "address": "Calle Sucre S/N Esquina con Calle José Balta\r\n(Una cuadra del Colegio Fco. García Calderón)",
+   "address": "Calle Sucre S/N Esquina con Calle José Balta\n(Una cuadra del Colegio Fco. García Calderón)",
    "languageCode": "S",
    "schedule": "Sun 09:00 Fri 16:30",
    "phones": [ "964742439" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -41,8 +41,8 @@
    "phones": [ "951938912" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -65,8 +65,8 @@
    "phones": [ "951938912" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -82,21 +82,21 @@
   "properties": {
    "orgName": "YAURI - ESPINAR CUS",
    "orgType": "CONG",
-   "address": "Jr. 9 de Diciembre 400\r\nESPINAR-08451\r\nCUSCO",
+   "address": "Jr. 9 de Diciembre 400\nESPINAR-08451\nCUSCO",
    "languageCode": "S",
    "schedule": "Sat 18:00 Thu 18:00",
    "phones": [ "930868706" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A30E75C6-81D2-4AFA-970F-DCD454DE0ED4",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -14.79195,
    "longitude": -71.413222,
@@ -105,16 +105,39 @@
   "properties": {
    "orgName": "ESPINAR QUECHUA - ESPINAR CUS",
    "orgType": "CONG",
-   "address": "Jr. 9 de Diciembre 400\r\nESPINAR-08451\r\nCUSCO",
+   "address": "Jr. 9 de Diciembre 400\nESPINAR-08451\nCUSCO",
    "languageCode": "QU",
    "schedule": "Sat 09:00 Wed 17:00",
    "phones": [ "944604124" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "7DCE6AFB-D053-463C-A8B5-72DC15D1FFDD(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -15.63925,
+   "longitude": -70.348114
+  },
+  "properties": {
+   "orgName": "(Moved) CABANILLAS (1) - FERROCARRIL - JULIACA PUN",
+   "orgType": "GROUP",
+   "address": "Jr. Deustua 515",
+   "languageCode": "S",
+   "schedule": "Sun 09:00 undefined null",
+   "phones": [ "933438525" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-06-14",
+  "lastSeen": "2023-06-14",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Av. Enrique Torres Belón c/ Simón Bolivar\nLAMPA-21711\nPUNO"
  },
  {
   "geoId": "7DCE6AFB-D053-463C-A8B5-72DC15D1FFDD",
@@ -134,9 +157,9 @@
    "phones": [ "933438525" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
@@ -157,8 +180,8 @@
    "phones": [ "910024879" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -180,8 +203,8 @@
    "phones": [ "951-544298" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -203,8 +226,8 @@
    "phones": [ "985005690" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -229,7 +252,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-08-16"
+  "lastVisit": "2023-09-28"
  },
  {
   "geoId": "27EE62A8-CA3D-4D1B-9077-07BF55C1A02D",
@@ -249,15 +272,15 @@
    "phones": [ "951097340  - 930533651" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "F91821DA-B7AB-4FC5-BEBD-DFBF7884E677",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -15.842421,
    "longitude": -70.02328,
@@ -266,14 +289,14 @@
   "properties": {
    "orgName": "PUNO AYMARA - PUNO_ PUN",
    "orgType": "CONG",
-   "address": "Jr. Ricardo Palma 123 Sub-Lote 1\r\nBarrio Victoria\r\nPUNO -21001\r\nPUNO",
+   "address": "Jr. Ricardo Palma 123 Sub-Lote 1\nBarrio Victoria\nPUNO -21001\nPUNO",
    "languageCode": "AP",
    "schedule": "Sat 16:00 Tue 16:00",
    "phones": [ "969 402 785; 955 578 344" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -289,14 +312,14 @@
   "properties": {
    "orgName": "ACORA AYMARA - ACORA PUN",
    "orgType": "CONG",
-   "address": "Jr. 28 de Julio S/N\r\n(a 100 mts. del Cruce Carretera a Pallalla)\r\nPUNO \r\nPUNO",
+   "address": "Jr. 28 de Julio S/N\n(a 100 mts. del Cruce Carretera a Pallalla)\nPUNO \nPUNO",
    "languageCode": "AP",
    "schedule": "Sun 09:30 Thu 17:00",
    "phones": [ "963738936" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -318,9 +341,9 @@
    "phones": [ "933438525" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
@@ -341,7 +364,7 @@
    "phones": [ "973123006" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2023-06-02"
@@ -364,8 +387,8 @@
    "phones": [ "975124266" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -387,8 +410,8 @@
    "phones": [ "933438525" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -411,15 +434,15 @@
    "phones": [ "927 256 476" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1D5E0D15-3730-4FBE-AA9E-03289C490DA3",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.489064,
    "longitude": -70.128947,
@@ -434,15 +457,15 @@
    "phones": [ "999170923" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "A4B0428D-ADF8-4289-8C62-A9DE77DC203F",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -15.489064,
    "longitude": -70.128947,
@@ -457,8 +480,8 @@
    "phones": [ "957738929" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -480,7 +503,7 @@
    "phones": [ "927 256 476" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02"
@@ -503,9 +526,9 @@
    "phones": [ "999170923" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2023-06-02"
  },
  {
@@ -526,15 +549,15 @@
    "phones": [ "969 402 785; 955 578 344" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3E756D01-43AD-41BD-901B-5BBB7031A241",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -15.489064,
    "longitude": -70.128947,
@@ -550,8 +573,8 @@
    "phones": [ "927 256 476" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -567,14 +590,14 @@
   "properties": {
    "orgName": "SOCCA AYMARA (1) - ACORA AYMARA - ACORA PUN",
    "orgType": "GROUP",
-   "address": "CP. Villa Socca S/N\r\n(frente a la Institución Educativa Tupaq Katari)\r\nPUNO \r\nPUNO",
+   "address": "CP. Villa Socca S/N\n(frente a la Institución Educativa Tupaq Katari)\nPUNO \nPUNO",
    "languageCode": "AP",
    "schedule": "Sat 09:30 Thu 17:00",
    "phones": [ "963738936" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -596,7 +619,7 @@
    "phones": [ "973123006" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2023-06-02"
@@ -619,7 +642,7 @@
    "phones": [ "999131610" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2023-06-02"
@@ -627,7 +650,7 @@
  {
   "geoId": "F7BA38F2-D911-4DC9-8414-5169BBDE55ED",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -13.504357,
    "longitude": -71.994933,
@@ -642,8 +665,8 @@
    "phones": [ "974792840" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -665,8 +688,8 @@
    "phones": [ "956804042" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -688,8 +711,8 @@
    "phones": [ "984505933" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -711,8 +734,8 @@
    "phones": [ "981718989" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -734,8 +757,8 @@
    "phones": [ "+51&nbsp;969266785" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -757,8 +780,8 @@
    "phones": [ "984355463" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -780,8 +803,8 @@
    "phones": [ "973899797" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -803,8 +826,8 @@
    "phones": [ "973123006" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -826,8 +849,8 @@
    "phones": [ "±51 974390717" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -849,8 +872,8 @@
    "phones": [ "943454765" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -872,8 +895,8 @@
    "phones": [ "+51&nbsp;949684639" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -895,8 +918,8 @@
    "phones": [ "999131610" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -918,9 +941,9 @@
    "phones": [ "+51&nbsp;949684639" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
@@ -935,14 +958,14 @@
   "properties": {
    "orgName": "VILLA FLORIDA - AYAVIRI PUN",
    "orgType": "CONG",
-   "address": "Jr. Tarapacá 140\r\nZona Cercado\r\n21701",
+   "address": "Jr. Tarapacá 140\nZona Cercado\n21701",
    "languageCode": "S",
    "schedule": "Sat 18:30 Tue 18:00",
    "phones": [ "+51920220076" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -958,14 +981,14 @@
   "properties": {
    "orgName": "AYAVIRI QUECHUA - AYAVIRI PUN",
    "orgType": "CONG",
-   "address": "Jr. Tarapacá 140\r\nZona Cercado\r\n21701",
+   "address": "Jr. Tarapacá 140\nZona Cercado\n21701",
    "languageCode": "QU",
    "schedule": "Sat 16:00 Thu 16:30",
-   "phones": [ "999665290" ],
+   "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -987,7 +1010,7 @@
    "phones": [ "990332151" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-05-29",
   "active": 0,
   "firstSeen": "2022-12-02"
@@ -995,7 +1018,7 @@
  {
   "geoId": "21C0410C-E85C-47EE-8D3F-2C6D529CDA64",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -13.543844,
    "longitude": -71.92266,
@@ -1010,15 +1033,15 @@
    "phones": [ "984691859" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "11CF944C-FE94-4F7B-9A0B-0B3471533184",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -13.543844,
    "longitude": -71.92266,
@@ -1033,8 +1056,8 @@
    "phones": [ "965347575" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1056,15 +1079,15 @@
    "phones": [ "990332151" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "F102CFC4-7811-455C-AD58-BE2FC07636E2",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -13.531598,
    "longitude": -71.904054,
@@ -1079,8 +1102,8 @@
    "phones": [ "974871604" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1102,15 +1125,15 @@
    "phones": [ "310157" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "036B1ECC-37ED-4D1B-8D6E-1FAF5119145B",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -13.531598,
    "longitude": -71.904054,
@@ -1125,8 +1148,8 @@
    "phones": [ "986744472" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1148,8 +1171,8 @@
    "phones": [ "310157" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1172,7 +1195,7 @@
    "phones": [ "974871604" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2023-06-02"
@@ -1195,7 +1218,7 @@
    "phones": [ "950600174" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2023-06-02"
@@ -1218,15 +1241,15 @@
    "phones": [ "999665290" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "DB7D8AED-49B0-4D4A-9F16-8E9EED14F1A6",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -13.587375,
    "longitude": -71.785472,
@@ -1241,15 +1264,15 @@
    "phones": [ "923851948" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "EA33FD28-36FC-4CE4-90EE-EEFFE4E9D719",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -13.692782,
    "longitude": -71.63888,
@@ -1261,36 +1284,13 @@
    "address": "Asociación Cielo Punko Mz. C Lt. 4\nSector Huasapampa",
    "languageCode": "S",
    "schedule": "Sat 17:30 Thu 17:30",
-   "phones": [ "946336735" ],
+   "phones": [ "946336735 y 918459105" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
-  "firstSeen": "2023-06-02"
- },
- {
-  "geoId": "C1E0B4B1-7B06-463C-ACB2-992A15ED6BDD",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -13.692782,
-   "longitude": -71.63888,
-   "iso": "PER"
-  },
-  "properties": {
-   "orgName": "HUARO ESPAÑOL (6) - HUARO - URCOS CUS",
-   "orgType": "GROUP",
-   "address": "Asociación Cielo Punko Mz. C Lt. 4\r\nSector Huasapampa",
-   "languageCode": "S",
-   "schedule": "Sat 17:30 Thu 17:30",
-   "phones": [ "984640071" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastSeen": "2023-02-20",
-  "active": 0,
-  "firstSeen": "2022-12-02",
-  "lastVisit": "2023-08-16"
+  "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2BD18557-C3F8-4E4F-9174-EE656478AE58",
@@ -1310,8 +1310,8 @@
    "phones": [ "958926780" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1337,7 +1337,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-08-16"
+  "lastVisit": "2023-09-28"
  },
  {
   "geoId": "04504411-3E1E-4F9D-8034-02AA67F07118",
@@ -1357,8 +1357,8 @@
    "phones": [ "999400416" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1381,8 +1381,8 @@
    "phones": [ "950600174" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1405,8 +1405,8 @@
    "phones": [ "950600174" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1422,22 +1422,22 @@
   "properties": {
    "orgName": "AZANGARO QUECHUA - AZANGARO PUN",
    "orgType": "CONG",
-   "address": "Jr. Túpac Amaru Mz. Z Lt. 10\r\nBarrio Lizandro Luna\r\nAZANGARO-21821\r\nPUNO",
+   "address": "Jr. Túpac Amaru Mz. Z Lt. 10\nBarrio Lizandro Luna\nAZANGARO-21821\nPUNO",
    "languageCode": "QU",
    "schedule": "Sat 09:00 Thu 16:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "945741854" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CF5057E2-19CD-43A3-AC14-C78217F478B5",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -14.911237,
    "longitude": -70.199837,
@@ -1446,15 +1446,15 @@
   "properties": {
    "orgName": "AZANGARO ESPAÑOL - AZANGARO QUECHUA - AZANGARO PUN",
    "orgType": "GROUP",
-   "address": "Jr. Túpac Amaru Mz. Z Lt. 10\r\nBarrio Lizandro Luna\r\nAZANGARO-21821\r\nPUNO",
+   "address": "Jr. Túpac Amaru Mz. Z Lt. 10\nBarrio Lizandro Luna\nAZANGARO-21821\nPUNO",
    "languageCode": "S",
    "schedule": "Sat 16:00 Wed 17:00",
    "relatedLanguageCodes": [ "QU" ],
    "phones": [ "945741854" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1476,7 +1476,7 @@
    "phones": [ "946336735" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2023-06-02"
@@ -1484,7 +1484,7 @@
  {
   "geoId": "C2C2415E-4E6B-4B2D-B074-F4D03FAF6D68",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -15.202179,
    "longitude": -69.761638,
@@ -1493,15 +1493,15 @@
   "properties": {
    "orgName": "HUANCANE AYMARA - HUANCANE PUN",
    "orgType": "CONG",
-   "address": "Jr. Ayacucho 503\r\nHUANCANE-21750\r\nPUNO",
+   "address": "Jr. Ayacucho 503\nHUANCANE-21750\nPUNO",
    "languageCode": "AP",
    "schedule": "Sun 10:00 Thu 16:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1524,8 +1524,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1541,15 +1541,15 @@
   "properties": {
    "orgName": "ANCORAIMES - LPZ",
    "orgType": "CONG",
-   "address": "Calle Olañeta S/N\r\nANCORAIMES, LA PAZ",
+   "address": "Calle Olañeta S/N\nANCORAIMES, LA PAZ",
    "transliteratedAddress": "Olañeta street N/N\r\nANCORAIMES, LA PAZ\r\n",
    "languageCode": "AP",
    "schedule": "Sun 10:00 Fri 14:00",
    "phones": [ "73283170" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1565,21 +1565,21 @@
   "properties": {
    "orgName": "PUERTO ACOSTA - LPZ",
    "orgType": "CONG",
-   "address": "Calle General Colange # 32\r\nPuerto Acosta, LPZ\r\nPUERTO ACOSTA, LA PAZ",
+   "address": "Calle General Colange # 32\nPuerto Acosta, LPZ\nPUERTO ACOSTA, LA PAZ",
    "languageCode": "AP",
    "schedule": "Sat 15:15 Fri 18:30",
    "phones": [ "73730026" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6BE6218A-5BB1-4DBF-8A2F-0EF4E576B82D",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -14.913402,
    "longitude": -69.868005,
@@ -1588,14 +1588,14 @@
   "properties": {
    "orgName": "PUTINA QUECHUA - PUTINA PUN",
    "orgType": "CONG",
-   "address": "Jr. Manco Cápac s/n barrio Unión\r\nPUTINA-21341\r\nPUNO",
+   "address": "Jr. Manco Cápac s/n barrio Unión\nPUTINA-21341\nPUNO",
    "languageCode": "QU",
-   "schedule": "Sat 17:00 Wed 17:00",
+   "schedule": "Sat 16:00 Wed 17:00",
    "phones": [ "912010796" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1617,9 +1617,9 @@
    "phones": [ "912010796" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
@@ -1640,8 +1640,8 @@
    "phones": [ "931125905" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1663,7 +1663,7 @@
    "phones": [ "931125905" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02"
@@ -1680,14 +1680,14 @@
   "properties": {
    "orgName": "SORATA - LPZ",
    "orgType": "CONG",
-   "address": "Av. 14 de Setiembre\r\nCerca a la plaza principal\r\nPiso 1\r\nSORATA, LA PAZ",
+   "address": "Av. 14 de Setiembre\nCerca a la plaza principal\nPiso 1\nSORATA, LA PAZ",
    "languageCode": "S",
    "schedule": "Sun 09:00 Wed 18:00",
    "phones": [ "68004715" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1703,14 +1703,14 @@
   "properties": {
    "orgName": "AYMARA - Sorata LPZ",
    "orgType": "CONG",
-   "address": "Av. 14 de Setiembre\r\nCerca a la plaza principal\r\nPiso 1\r\nSORATA, LA PAZ",
+   "address": "Av. 14 de Setiembre\nCerca a la plaza principal\nPiso 1\nSORATA, LA PAZ",
    "languageCode": "AP",
    "schedule": "Sun 11:15 Thu 18:00",
    "phones": [ "71271664" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1726,14 +1726,14 @@
   "properties": {
    "orgName": "PILCOPATA - PAUCARTAMBO CUS",
    "orgType": "CONG",
-   "address": "Av. Cusco Mz \"R\" lote 2\nbarrio el Aguajal Pillcopata\nPAUCARTAMBO\nCUSCO",
+   "address": "Av. Cusco Mz. R Lt. 2\nAguajal\nPAUCARTAMBO\nCUSCO",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 18:00",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-08-16"
  },
@@ -1755,7 +1755,7 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02"
@@ -1779,8 +1779,8 @@
    "phones": [ "72510214" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1796,14 +1796,14 @@
   "properties": {
    "orgName": "MAZUKO - MAZUCO MDD",
    "orgType": "CONG",
-   "address": "Jr. Fco. Fukumoto Mz. M  Lt. 10\r\nSector Mazuko 2da. Etapa\r\n17201",
+   "address": "Jr. Fco. Fukumoto Mz. M  Lt. 10\nSector Mazuko 2da. Etapa\n17201",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "989636332" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1825,9 +1825,9 @@
    "phones": [ "989636332" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
@@ -1848,8 +1848,8 @@
    "phones": [ "71238635" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1871,8 +1871,8 @@
    "phones": [ "72510214" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1888,15 +1888,15 @@
   "properties": {
    "orgName": "APOLO - LPZ",
    "orgType": "CONG",
-   "address": "Avenida Casto Valencia esq. Calle Eduardo Avaroa\r\nAPOLO, LA PAZ",
+   "address": "Avenida Casto Valencia esq. Calle Eduardo Avaroa\nAPOLO, LA PAZ",
    "languageCode": "S",
    "schedule": "Sun 09:00 Fri 19:00",
    "relatedLanguageCodes": [ "BVL" ],
    "phones": [ "75360589" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1912,15 +1912,15 @@
   "properties": {
    "orgName": "Lenguaje de Señas (Apolo) - APOLO - LPZ",
    "orgType": "GROUP",
-   "address": "Avenida Casto Valencia esq. Calle Eduardo Avaroa\r\nAPOLO, LA PAZ",
+   "address": "Avenida Casto Valencia esq. Calle Eduardo Avaroa\nAPOLO, LA PAZ",
    "languageCode": "BVL",
    "schedule": "Sun 09:00 Fri 19:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "75360589" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1945,7 +1945,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-08-16"
+  "lastVisit": "2023-09-28"
  },
  {
   "geoId": "85BF4E91-D46B-44EB-8A58-3E85891772C2",
@@ -1957,7 +1957,7 @@
    "iso": "BOL"
   },
   "properties": {
-   "orgName": "PALOS BLANCOS - LPZ",
+   "orgName": "NARANJAL - Palos Blancos LPZ",
    "orgType": "CONG",
    "address": "Calle Calama No. 5, Barrio Central\nA una cuadra del Coliseo\nPALOS BLANCOS, LA PAZ",
    "transliteratedAddress": "PALOS BLANCOS, LA PAZ\r\n",
@@ -1966,8 +1966,8 @@
    "phones": [ "67869637" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1989,9 +1989,9 @@
    "phones": [ "931662645" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
@@ -2004,7 +2004,7 @@
    "iso": "BOL"
   },
   "properties": {
-   "orgName": "YUCUMO - BEN",
+   "orgName": "ESPERANZA - Yucumo BEN",
    "orgType": "CONG",
    "address": "Calle Hna. Ana Mollins Llorens S/N\ncasi esquina Av. Lágrimas frente al Coliceo nuevo\nYUCUMO, BENI",
    "languageCode": "S",
@@ -2012,8 +2012,8 @@
    "phones": [ "72578860" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2027,16 +2027,16 @@
    "iso": "BOL"
   },
   "properties": {
-   "orgName": "RURRENABAQUE - BEN",
+   "orgName": "LA PERLA - Rurrenabaque BEN",
    "orgType": "CONG",
-   "address": "Calle Junin, s/n\r\nEntre calle Busch y  calle Bolivar\r\nRURRENABAQUE, BENI",
+   "address": "Calle Junin, s/n\nEntre calle Busch y  calle Bolivar\nRURRENABAQUE, BENI",
    "languageCode": "S",
    "schedule": "Sat 18:30 Wed 19:00",
    "phones": [ "69382846" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2050,16 +2050,16 @@
    "iso": "BOL"
   },
   "properties": {
-   "orgName": "IXIAMAS - LPZ",
+   "orgName": "PARAÍSO - Ixiamas LPZ",
    "orgType": "CONG",
-   "address": "Av. Mariscal Santa Cruz, esquina Madidi\r\nCerca al coliseo nuevo y al cuartel FFAA.\r\nIXIAMAS, LA PAZ",
+   "address": "Av. Mariscal Santa Cruz, esquina Madidi\nCerca al coliseo nuevo y al cuartel FFAA.\nIXIAMAS, LA PAZ",
    "languageCode": "S",
    "schedule": "Sat 18:00 Thu 18:30",
    "phones": [ "75715895 - 68010995" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2075,14 +2075,14 @@
   "properties": {
    "orgName": "LAS PALMERAS - PUERTO MALDONADO MDD",
    "orgType": "CONG",
-   "address": "Esq. Av. Ancash y Jr. Gonzales Prada Mz. 4C Lt. 10\r\nMADRE DE DIOS-17001",
+   "address": "Esq. Av. Ancash y Jr. Gonzales Prada Mz. 4C Lt. 10\nMADRE DE DIOS-17001",
    "languageCode": "S",
    "schedule": "Sat 18:00 Thu 18:30",
    "phones": [ "931662645" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2098,16 +2098,39 @@
   "properties": {
    "orgName": "TAMBOPATA - PUERTO MALDONADO MDD",
    "orgType": "CONG",
-   "address": "Esq. Av. Ancash y Jr. Gonzales Prada Mz. 4C Lt. 10\r\nMADRE DE DIOS-17001",
+   "address": "Esq. Av. Ancash y Jr. Gonzales Prada Mz. 4C Lt. 10\nMADRE DE DIOS-17001",
    "languageCode": "S",
    "schedule": "Sun 08:30 Wed 18:30",
    "phones": [ "989855250" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "544921B9-8B95-4EAC-BB8A-50A4BBFF04ED(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -14.293031,
+   "longitude": -67.33695
+  },
+  "properties": {
+   "orgName": "(Moved) REYES - BEN",
+   "orgType": "CONG",
+   "address": "Zona Norte -\r\nManzano Hospital de Reyes en la Calle Comercio\r\nREYES, BENI",
+   "languageCode": "S",
+   "schedule": "Sat 18:00 Thu 19:00",
+   "phones": [ "75537039" ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastVisit": "2023-06-14",
+  "lastSeen": "2023-06-14",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Calle/ Ledislao Cabrera\nentre Calle Bolivar y Calle 18 de Noviembre\nREYES, BENI"
  },
  {
   "geoId": "544921B9-8B95-4EAC-BB8A-50A4BBFF04ED",
@@ -2119,16 +2142,16 @@
    "iso": "BOL"
   },
   "properties": {
-   "orgName": "REYES - BEN",
+   "orgName": "COPAIBA - Reyes BEN",
    "orgType": "CONG",
-   "address": "Calle/ Ledislao Cabrera\r\nentre Calle Bolivar y Calle 18 de Noviembre\r\nREYES, BENI",
+   "address": "Calle/ Ledislao Cabrera\nentre Calle Bolivar y Calle 18 de Noviembre\nREYES, BENI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Thu 19:00",
    "phones": [ "75537039" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2142,7 +2165,7 @@
    "iso": "BOL"
   },
   "properties": {
-   "orgName": "ESPAÑOL - San Borja BEN",
+   "orgName": "RÍO MANIQUI - San Borja BEN",
    "orgType": "CONG",
    "address": "Av. Santa Cruz\nEntre C. Sucre y Tarija\nSAN BORJA, BENI",
    "transliteratedAddress": "SAN BORJA, BENI\r\n",
@@ -2151,8 +2174,8 @@
    "phones": [ "74706498" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2179,7 +2202,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-08-16"
+  "lastVisit": "2023-09-28"
  },
  {
   "geoId": "897EEDF8-DEC1-4270-BA2E-064E8CD3F36C",
@@ -2193,14 +2216,14 @@
   "properties": {
    "orgName": "IBERIA - MDD",
    "orgType": "CONG",
-   "address": "Av. Mocopata Mz. W Lt. 2\r\nV Etapa",
+   "address": "Av. Mocopata Mz. W Lt. 2\nV Etapa",
    "languageCode": "S",
    "schedule": "Sat 19:00 Thu 19:00",
    "phones": [ "982749100" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2214,16 +2237,16 @@
    "iso": "BOL"
   },
   "properties": {
-   "orgName": "SANTA ROSA DEL YACUMA - BEN",
+   "orgName": "PAMPAS DEL YACUMA - Santa Rosa del Yacuma BEN",
    "orgType": "CONG",
-   "address": "Calle Yacumo  n° 275\r\nSANTA ROSA DEL YACUMA, BENI",
+   "address": "Calle Yacumo  n° 275\nSANTA ROSA DEL YACUMA, BENI",
    "languageCode": "S",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "(+591) 76047124" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2237,17 +2260,17 @@
    "iso": "BOL"
   },
   "properties": {
-   "orgName": "SAN IGNACIO DE MOXOS - BEN",
+   "orgName": "MOJOS - San Ignacio de Moxos BEN",
    "orgType": "CONG",
-   "address": "Entre C. Mercado y Bolivar\r\nCamino antiguo a La Laguna\r\nSAN IGNACIO DE MOXOS, BENI",
+   "address": "Entre C. Mercado y Bolivar\nCamino antiguo a La Laguna\nSAN IGNACIO DE MOXOS, BENI",
    "transliteratedAddress": "SAN IGNACIO DE MOXOS, BENI\r\n",
    "languageCode": "S",
    "schedule": "Sat 18:30 Thu 19:00",
    "phones": [ "73510123" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2263,14 +2286,14 @@
   "properties": {
    "orgName": "BAHÍA - Cobija PAN",
    "orgType": "CONG",
-   "address": "Av. 27 de mayo esq. C. Joaquin Ruiz\r\nMza 33; Predio 47\r\nCOBIJA, PANDO",
+   "address": "Av. 27 de mayo esq. C. Joaquin Ruiz\nMza 33; Predio 47\nCOBIJA, PANDO",
    "languageCode": "S",
    "schedule": "Sun 18:00 Wed 19:30",
    "phones": [ "78564795" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2286,15 +2309,15 @@
   "properties": {
    "orgName": "AEROPUERTO - Cobija PAN",
    "orgType": "CONG",
-   "address": "Av. 27 de mayo esq. C. Joaquin Ruiz\r\nMza 33; Predio 47\r\nCOBIJA, PANDO",
+   "address": "Av. 27 de mayo esq. C. Joaquin Ruiz\nMza 33; Predio 47\nCOBIJA, PANDO",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 19:30",
    "relatedLanguageCodes": [ "T" ],
    "phones": [ "+59168973280" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2310,15 +2333,15 @@
   "properties": {
    "orgName": "Portugués (Cobija) - AEROPUERTO - Cobija PAN",
    "orgType": "GROUP",
-   "address": "Av. 27 de mayo esq. C. Joaquin Ruiz\r\nMza 33; Predio 47\r\nCOBIJA, PANDO",
+   "address": "Av. 27 de mayo esq. C. Joaquin Ruiz\nMza 33; Predio 47\nCOBIJA, PANDO",
    "languageCode": "T",
    "schedule": "Sun 09:00 Thu 19:30",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "+59168973280" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2334,14 +2357,14 @@
   "properties": {
    "orgName": "Epitaciolândia - AC",
    "orgType": "CONG",
-   "address": "R. Airton Sena, 30\r\nLiberdade\r\nEpitaciolândia, AC\r\n69934-000",
+   "address": "R. Airton Sena, 30\nLiberdade\nEpitaciolândia, AC\n69934-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:00",
    "phones": [ "68992246280" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2357,14 +2380,14 @@
   "properties": {
    "orgName": "Brasiléia - AC",
    "orgType": "CONG",
-   "address": "R. Governador Joaquim Falcão Macedo, 130\r\nAlberto Castro\r\nBrasiléia, AC\r\n69932-000",
+   "address": "R. Governador Joaquim Falcão Macedo, 130\nAlberto Castro\nBrasiléia, AC\n69932-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "(68) 9 92295699" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2380,14 +2403,14 @@
   "properties": {
    "orgName": "POMPEYA - Trinidad BEN",
    "orgType": "CONG",
-   "address": "C. Hnos Rioja Aponte; Esq. C. Tte. Luis Cespedes\r\nTRINIDAD, BENI",
+   "address": "C. Hnos Rioja Aponte; Esq. C. Tte. Luis Cespedes\nTRINIDAD, BENI",
    "languageCode": "S",
    "schedule": "Sun 18:30 Fri 19:30",
    "phones": [ "72837462" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2403,14 +2426,14 @@
   "properties": {
    "orgName": "OESTE - Trinidad BEN",
    "orgType": "CONG",
-   "address": "C. Hnos Rioja Aponte; Esq. C. Tte. Luis Cespedes\r\nTRINIDAD, BENI",
+   "address": "C. Hnos Rioja Aponte; Esq. C. Tte. Luis Cespedes\nTRINIDAD, BENI",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "69405186" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2426,14 +2449,14 @@
   "properties": {
    "orgName": "LENGUAJE DE SEÑAS - Trinidad BEN",
    "orgType": "CONG",
-   "address": "C. Hnos Rioja Aponte; Esq. C. Tte. Luis Cespedes\r\nTRINIDAD, BENI",
+   "address": "C. Hnos Rioja Aponte; Esq. C. Tte. Luis Cespedes\nTRINIDAD, BENI",
    "languageCode": "BVL",
    "schedule": "Sun 09:30 Thu 19:30",
    "phones": [ "+591&nbsp;69387281" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2449,15 +2472,15 @@
   "properties": {
    "orgName": "PAITITÍ - Trinidad BEN",
    "orgType": "CONG",
-   "address": "Dist. 7, Mzno. W, lotes 18 y 20\r\nTRINIDAD, BENI",
+   "address": "Dist. 7, Mzno. W, lotes 18 y 20\nTRINIDAD, BENI",
    "transliteratedAddress": "TRINIDAD, BENI\r\n",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "73671666" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2471,17 +2494,17 @@
    "iso": "BOL"
   },
   "properties": {
-   "orgName": "SANTA ANA DE YACUMA - BEN",
+   "orgName": "MOVIMA - Santa Ana de Yacuma BEN",
    "orgType": "CONG",
-   "address": "Calle Nilo Montaño, # 216\r\nSANTA ANA DE YACUMA, BENI",
+   "address": "Calle Nilo Montaño, # 216\nSANTA ANA DE YACUMA, BENI",
    "transliteratedAddress": "Street Nilo Montaño # 216\r\nSANTA ANA DE YACUMA, BENI\r\n",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "72547188" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2497,14 +2520,14 @@
   "properties": {
    "orgName": "Xapuri - AC",
    "orgType": "CONG",
-   "address": "R. 24 de Janeiro, 985\r\nCentro\r\nXapuri, AC\r\n69930-000",
+   "address": "R. 24 de Janeiro, 985\nCentro\nXapuri, AC\n69930-000",
    "languageCode": "T",
    "schedule": "Sat 18:30 Thu 19:00",
    "phones": [ "(68)99975-9337" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2520,14 +2543,14 @@
   "properties": {
    "orgName": "Tarauacá - AC",
    "orgType": "CONG",
-   "address": "R. Carlos Cleber Rocha, 841\r\nAvelino Leal\r\nTarauacá, AC\r\n69970-000",
+   "address": "R. Carlos Cleber Rocha, 841\nAvelino Leal\nTarauacá, AC\n69970-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:00",
-   "phones": [ "(97) 98109-0546" ],
+   "phones": [ "(68) 992107235" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2543,14 +2566,14 @@
   "properties": {
    "orgName": "Feijó - AC",
    "orgType": "CONG",
-   "address": "R. Francisco Ambrosio Taveira, 154\r\nNair Araújo\r\nFeijó, AC\r\n69960-000",
+   "address": "R. Francisco Ambrosio Taveira, 154\nNair Araújo\nFeijó, AC\n69960-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "68 992396156" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2566,14 +2589,14 @@
   "properties": {
    "orgName": "Manoel Urbano, AC - Sena Madureira - AC",
    "orgType": "GROUP",
-   "address": "Rua Ararate, 44\r\nTriangulo\r\nManoel Urbano, AC\r\n69950-000",
+   "address": "Rua Ararate, 44\nTriangulo\nManoel Urbano, AC\n69950-000",
    "languageCode": "T",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "68 99245 3309" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2589,14 +2612,14 @@
   "properties": {
    "orgName": "Senador Guiomard - AC",
    "orgType": "CONG",
-   "address": "R. Padre Tiago Matiolli, 2320\r\nJardim Botânico\r\nSenador Guiomard, AC\r\n69925-000",
+   "address": "R. Padre Tiago Matiolli, 2320\nJardim Botânico\nSenador Guiomard, AC\n69925-000",
    "languageCode": "T",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "68999743349" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2612,14 +2635,14 @@
   "properties": {
    "orgName": "Calafate - Rio Branco AC",
    "orgType": "CONG",
-   "address": "Estrada do Calafate, S/N,\r\nQuadra 895 Lt 177\r\nCalafate\r\nRio Branco, AC",
+   "address": "Estrada do Calafate, S/N,\nQuadra 895 Lt 177\nCalafate\nRio Branco, AC",
    "languageCode": "T",
    "schedule": "Sat 18:30 Wed 19:30",
    "phones": [ "68 99234-9585" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2635,14 +2658,14 @@
   "properties": {
    "orgName": "Nova Esperança - Rio Branco AC",
    "orgType": "CONG",
-   "address": "Trav.  Esmeralda 25\r\nNova Esperança\r\nRio Branco, AC\r\n69915-250",
+   "address": "Trav.  Esmeralda 25\nNova Esperança\nRio Branco, AC\n69915-250",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:15",
    "phones": [ "(68) 9 9203 7773" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2658,14 +2681,14 @@
   "properties": {
    "orgName": "Bahia - Rio Branco AC",
    "orgType": "CONG",
-   "address": "R. São Salvador, 330\r\nBahia\r\nRio Branco, AC\r\n69904-240",
+   "address": "R. São Salvador, 330\nBahia\nRio Branco, AC\n69904-240",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "68-99283-0620" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2681,14 +2704,14 @@
   "properties": {
    "orgName": "Sobral - Rio Branco AC",
    "orgType": "CONG",
-   "address": "R. São Salvador, 330\r\nBahia\r\nRio Branco, AC\r\n69904-240",
+   "address": "R. São Salvador, 330\nBahia\nRio Branco, AC\n69904-240",
    "languageCode": "T",
    "schedule": "Sun 17:00 Thu 19:00",
    "phones": [ "(68) 99940-5081" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2704,14 +2727,14 @@
   "properties": {
    "orgName": "Sul - Rio Branco AC",
    "orgType": "CONG",
-   "address": "R. Maria Rosangela de Oliveira,159\r\nLoteamento Santa Helena\r\nRio Branco, AC\r\n69908-760",
+   "address": "R. Maria Rosangela de Oliveira,159\nLoteamento Santa Helena\nRio Branco, AC\n69908-760",
    "languageCode": "T",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "68 99935-6448" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2727,14 +2750,14 @@
   "properties": {
    "orgName": "Tucumã - Rio Branco AC",
    "orgType": "CONG",
-   "address": "Rua 5, 329\r\nConjunto Tucumã 2\r\nRio Branco, AC\r\n69904-410",
+   "address": "Rua 5, 329\nConjunto Tucumã 2\nRio Branco, AC\n69904-410",
    "languageCode": "T",
    "schedule": "Sat 18:30 Wed 19:00",
    "phones": [ "68 99238-7519" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2750,14 +2773,14 @@
   "properties": {
    "orgName": "Segundo Distrito - Rio Branco AC",
    "orgType": "CONG",
-   "address": "R. Salim Farhat, 308\r\nQuinze\r\nRio Branco, AC\r\n69905-502",
+   "address": "R. Salim Farhat, 308\nQuinze\nRio Branco, AC\n69905-502",
    "languageCode": "T",
    "schedule": "Sat 18:30 Wed 19:00",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2773,21 +2796,21 @@
   "properties": {
    "orgName": "Central - Rio Branco AC",
    "orgType": "CONG",
-   "address": "R. Veterano Henrique Julião, 393\r\nCentro\r\nRio Branco, AC\r\n69907-120 ‎",
+   "address": "R. Veterano Henrique Julião, 393\nCentro\nRio Branco, AC\n69907-120 ‎",
    "languageCode": "T",
    "schedule": "Sun 17:00 Thu 19:30",
    "phones": [ "68996140382" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "43DD3945-A3A6-4B47-A950-746F62467B01",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -9.969718,
    "longitude": -67.823839,
@@ -2796,14 +2819,14 @@
   "properties": {
    "orgName": "Floresta - Rio Branco AC",
    "orgType": "CONG",
-   "address": "R. Veterano Henrique Julião, 393\r\nCentro\r\nRio Branco, AC\r\n69907-120 ‎",
+   "address": "R. Veterano Henrique Julião, 393\nCentro\nRio Branco, AC\n69907-120 ‎",
    "languageCode": "T",
    "schedule": "Sat 18:30 Wed 19:15",
    "phones": [ "(68) 99988-2290" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2819,21 +2842,21 @@
   "properties": {
    "orgName": "LS - Rio Branco AC",
    "orgType": "CONG",
-   "address": "R. Veterano Henrique Julião, 393\r\nCentro\r\nRio Branco, AC\r\n69907-120 ‎",
+   "address": "R. Veterano Henrique Julião, 393\nCentro\nRio Branco, AC\n69907-120 ‎",
    "languageCode": "LSB",
    "schedule": "Sun 10:15 Fri 19:00",
    "phones": [ "(68)99202-6424" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D8427868-6C61-4F3B-916A-DBB59594B71D",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -9.969718,
    "longitude": -67.823839,
@@ -2842,14 +2865,14 @@
   "properties": {
    "orgName": "Espanhola - Rio Branco AC",
    "orgType": "CONG",
-   "address": "R. Veterano Henrique Julião, 393\r\nCentro\r\nRio Branco, AC\r\n69907-120 ‎",
+   "address": "R. Veterano Henrique Julião, 393\nCentro\nRio Branco, AC\n69907-120 ‎",
    "languageCode": "S",
    "schedule": "Sun 08:00 Tue 19:00",
    "phones": [ "(68) 3301-5782" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2865,14 +2888,14 @@
   "properties": {
    "orgName": "Bujari - AC",
    "orgType": "CONG",
-   "address": "R. Francisco Mangabeira, 70\r\nCentro\r\nBujari, AC\r\n69923-000",
+   "address": "R. Francisco Mangabeira, 70\nCentro\nBujari, AC\n69923-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "(68) 99224-2278" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2888,14 +2911,14 @@
   "properties": {
    "orgName": "Horto Florestal - Rio Branco AC",
    "orgType": "CONG",
-   "address": "R. Fragoso Monteiro, 86\r\nJardim América\r\nRio Branco, AC\r\n69918-558",
+   "address": "R. Fragoso Monteiro, 86\nJardim América\nRio Branco, AC\n69918-558",
    "languageCode": "T",
    "schedule": "Sat 18:30 Thu 19:00",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2911,14 +2934,14 @@
   "properties": {
    "orgName": "Norte - Rio Branco AC",
    "orgType": "CONG",
-   "address": "R. Vinte e Cinco de Dezembro, 818\r\nTancredo Neves\r\nRio Branco, AC\r\n69921-713",
+   "address": "R. Vinte e Cinco de Dezembro, 818\nTancredo Neves\nRio Branco, AC\n69921-713",
    "languageCode": "T",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "68 9 9971 0493" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2934,14 +2957,14 @@
   "properties": {
    "orgName": "Bosque - Rio Branco AC",
    "orgType": "CONG",
-   "address": "R. Antônio Manoel Rodrigues, 209\r\nSão Francisco\r\nRio Branco, AC\r\n69901-310",
+   "address": "R. Antônio Manoel Rodrigues, 209\nSão Francisco\nRio Branco, AC\n69901-310",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:15",
    "phones": [ "(68) 999574308" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2957,14 +2980,14 @@
   "properties": {
    "orgName": "Vitória - Rio Branco AC",
    "orgType": "CONG",
-   "address": "R. Lourenço Lopes, 988\r\nQuadra 20, lote 21\r\nChico Mendes\r\nRio Branco, AC",
+   "address": "R. Lourenço Lopes, 988\nQuadra 20, lote 21\nChico Mendes\nRio Branco, AC",
    "languageCode": "T",
    "schedule": "Sat 18:30 Wed 19:15",
    "phones": [ "68 99972-1717" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2980,14 +3003,14 @@
   "properties": {
    "orgName": "Sena Madureira - AC",
    "orgType": "CONG",
-   "address": "R. Maranhao, 999, Sala B\r\nJardim Primavera\r\nSena Madureira, AC\r\n69940-000",
+   "address": "R. Maranhao, 999, Sala B\nJardim Primavera\nSena Madureira, AC\n69940-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "68 99245 3309" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3001,17 +3024,17 @@
    "iso": "BOL"
   },
   "properties": {
-   "orgName": "SAN JOAQUÍN - BEN",
+   "orgName": "AGUA DULCE - San Joaquín BEN",
    "orgType": "CONG",
-   "address": "Cl.Tarija casi esquina Litoral s/n, acera este.\r\nZona San Pedro\r\nSAN JOAQUÍN, BENI",
+   "address": "Cl.Tarija casi esquina Litoral s/n, acera este.\nZona San Pedro\nSAN JOAQUÍN, BENI",
    "transliteratedAddress": "Tarija street s/n\r\nbetween Federico Román and Cochabamba\r\nSAN JOAQUÍN, BENI\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:30 Thu 19:30",
    "phones": [ "72491007" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3027,14 +3050,14 @@
   "properties": {
    "orgName": "Plácido de Castro - AC",
    "orgType": "CONG",
-   "address": "R. Dilmo Martins da Silva, 239\r\nManchete\r\nPlácido de Castro, AC\r\n69928-000",
+   "address": "R. Dilmo Martins da Silva, 239\nManchete\nPlácido de Castro, AC\n69928-000",
    "languageCode": "T",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "(68) 9 9253-9253" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3050,14 +3073,14 @@
   "properties": {
    "orgName": "Vila do Incra - Porto Acre AC",
    "orgType": "CONG",
-   "address": "R. das Palmeiras, 160\r\nVila do Incra\r\nPorto Acre, AC\r\n69927-000",
+   "address": "R. das Palmeiras, 160\nVila do Incra\nPorto Acre, AC\n69927-000",
    "languageCode": "T",
    "schedule": "Sun 09:00 Tue 19:00",
    "phones": [ "068 999990284" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3071,16 +3094,16 @@
    "iso": "BOL"
   },
   "properties": {
-   "orgName": "MAGDALENA - BEN",
+   "orgName": "ITONAMA - Magdalena BEN",
    "orgType": "CONG",
-   "address": "Calle Bolivar # 23\r\nMAGDALENA, BENI",
+   "address": "Calle Bolivar # 23\nMAGDALENA, BENI",
    "languageCode": "S",
    "schedule": "Sun 09:30 Thu 19:00",
    "phones": [ "77887758" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3096,14 +3119,14 @@
   "properties": {
    "orgName": "Acrelândia - AC",
    "orgType": "CONG",
-   "address": "R. Adenilson R. de Oliveira, 753\r\nCentro\r\nAcrelândia, AC\r\n69945-000",
+   "address": "R. Adenilson R. de Oliveira, 753\nCentro\nAcrelândia, AC\n69945-000",
    "languageCode": "T",
    "schedule": "Sat 18:30 Wed 19:00",
    "phones": [ "68 992539196" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3119,15 +3142,15 @@
   "properties": {
    "orgName": "CENTRO - Riberalta BEN",
    "orgType": "CONG",
-   "address": "Av. Santa Cruz, No. 736\r\nEntre Av. Fray  Bernardino Ochoa y Av. Sucre\r\nBarrio San Antonio\r\nRIBERALTA, BENI",
+   "address": "Av. Santa Cruz, No. 736\nEntre Av. Fray  Bernardino Ochoa y Av. Sucre\nBarrio San Antonio\nRIBERALTA, BENI",
    "transliteratedAddress": "RIBERALTA, BENI\r\n",
    "languageCode": "S",
-   "schedule": "Sun 09:00 Thu 19:30",
+   "schedule": "Sun 09:30 Thu 19:30",
    "phones": [ "+591&nbsp;75832553" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3143,15 +3166,15 @@
   "properties": {
    "orgName": "LOS ALMENDROS - Riberalta BEN",
    "orgType": "CONG",
-   "address": "Av. Santa Cruz, No. 736\r\nEntre Av. Fray  Bernardino Ochoa y Av. Sucre\r\nBarrio San Antonio\r\nRIBERALTA, BENI",
+   "address": "Av. Santa Cruz, No. 736\nEntre Av. Fray  Bernardino Ochoa y Av. Sucre\nBarrio San Antonio\nRIBERALTA, BENI",
    "transliteratedAddress": "RIBERALTA, BENI\r\n",
    "languageCode": "S",
    "schedule": "Sun 19:00 Wed 19:30",
-   "phones": [ "+591&nbsp;63129421" ],
+   "phones": [ "+591&nbsp;78229496" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3167,15 +3190,15 @@
   "properties": {
    "orgName": "EL PALMAR - Riberalta BEN",
    "orgType": "CONG",
-   "address": "Av. Santa Cruz, No. 736\r\nEntre Av. Fray  Bernardino Ochoa y Av. Sucre\r\nBarrio San Antonio\r\nRIBERALTA, BENI",
+   "address": "Av. Santa Cruz, No. 736\nEntre Av. Fray  Bernardino Ochoa y Av. Sucre\nBarrio San Antonio\nRIBERALTA, BENI",
    "transliteratedAddress": "RIBERALTA, BENI\r\n",
    "languageCode": "S",
    "schedule": "Sat 19:00 Tue 19:30",
    "phones": [ "+591&nbsp;71249900" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3191,15 +3214,15 @@
   "properties": {
    "orgName": "El Sena - CENTRO - Riberalta BEN",
    "orgType": "GROUP",
-   "address": "Av. Santa Cruz, No. 736\r\nEntre Av. Fray  Bernardino Ochoa y Av. Sucre\r\nBarrio San Antonio\r\nRIBERALTA, BENI",
+   "address": "Av. Santa Cruz, No. 736\nEntre Av. Fray  Bernardino Ochoa y Av. Sucre\nBarrio San Antonio\nRIBERALTA, BENI",
    "transliteratedAddress": "RIBERALTA, BENI\r\n",
    "languageCode": "S",
-   "schedule": "Sun 09:00 Thu 19:30",
+   "schedule": "Sun 09:30 Thu 19:30",
    "phones": [ "+591&nbsp;75832553" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3215,15 +3238,15 @@
   "properties": {
    "orgName": "LENGUAJE DE SEÑAS - Riberalta BEN",
    "orgType": "CONG",
-   "address": "Av. Santa Cruz, No. 736\r\nEntre Av. Fray  Bernardino Ochoa y Av. Sucre\r\nBarrio San Antonio\r\nRIBERALTA, BENI",
+   "address": "Av. Santa Cruz, No. 736\nEntre Av. Fray  Bernardino Ochoa y Av. Sucre\nBarrio San Antonio\nRIBERALTA, BENI",
    "transliteratedAddress": "RIBERALTA, BENI\r\n",
    "languageCode": "BVL",
    "schedule": "Sun 16:30 Fri 19:30",
-   "phones": [ "75897974" ],
+   "phones": [ "76104720" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3239,14 +3262,14 @@
   "properties": {
    "orgName": "Costa Marques - RO",
    "orgType": "CONG",
-   "address": "Av. Limoeiro, 1223\r\nCentro\r\nCosta Marques, RO\r\n78971-000",
+   "address": "Av. Limoeiro, 1223\nCentro\nCosta Marques, RO\n78971-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "63 99252-5776" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3262,15 +3285,15 @@
   "properties": {
    "orgName": "ESTE - Guayaramerín BEN",
    "orgType": "CONG",
-   "address": "Av. Sirio Simoni # 605. Esquina 1° de Mayo\r\na cinco cuadras del estadio.\r\nGUAYARAMERÍN, BENI",
+   "address": "Av. Sirio Simoni # 605. Esquina 1° de Mayo\na cinco cuadras del estadio.\nGUAYARAMERÍN, BENI",
    "transliteratedAddress": "Sirio Simoni # 605\r\nfive blocks from the stadium.\r\nGUAYARAMERÍN, BENI\r\n",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "73168389" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3286,15 +3309,15 @@
   "properties": {
    "orgName": "OESTE - Guayaramerín BEN",
    "orgType": "CONG",
-   "address": "Av. Sirio Simoni # 605. Esquina 1° de Mayo\r\na cinco cuadras del estadio.\r\nGUAYARAMERÍN, BENI",
+   "address": "Av. Sirio Simoni # 605. Esquina 1° de Mayo\na cinco cuadras del estadio.\nGUAYARAMERÍN, BENI",
    "transliteratedAddress": "Sirio Simoni # 605\r\nfive blocks from the stadium.\r\nGUAYARAMERÍN, BENI\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:30 Thu 19:30",
    "phones": [ "73977759" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3310,14 +3333,14 @@
   "properties": {
    "orgName": "Boca do Acre - AM",
    "orgType": "CONG",
-   "address": "R. Primeiro de Maio, 1925\r\nCentro\r\nBoca do Acre, AM\r\n69850-000",
+   "address": "R. Primeiro de Maio, 1925\nCentro\nBoca do Acre, AM\n69850-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
-   "phones": [ "(97)98120-0011" ],
+   "phones": [ "(97)996129181" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3333,14 +3356,14 @@
   "properties": {
    "orgName": "Extrema - Porto Velho RO",
    "orgType": "CONG",
-   "address": "R. dos Navegantes, S/N\r\nSão Luiz\r\nPorto Velho, RO\r\n78846-000",
+   "address": "R. dos Navegantes, S/N\nSão Luiz\nPorto Velho, RO\n78846-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Thu 19:30",
    "phones": [ "(69) 9 8425-6613" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3356,15 +3379,15 @@
   "properties": {
    "orgName": "Guajará-Mirim - RO",
    "orgType": "CONG",
-   "address": "Av. Antonio Correa da Costa, 1964\r\n(esq. R. Dom Xavier Rey)\r\nSerraria\r\nGuajará-Mirim, RO\r\n76850-000",
+   "address": "Av. Antonio Correa da Costa, 1964\n(esq. R. Dom Xavier Rey)\nSerraria\nGuajará-Mirim, RO\n76850-000",
    "languageCode": "T",
    "schedule": "Sat 18:00 Wed 19:30",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "69-98419-5720" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3380,15 +3403,15 @@
   "properties": {
    "orgName": "Espanhol - Guajará -Mirim, RO - Guajará-Mirim - RO",
    "orgType": "GROUP",
-   "address": "Av. Antonio Correa da Costa, 1964\r\n(esq. R. Dom Xavier Rey)\r\nSerraria\r\nGuajará-Mirim, RO\r\n76850-000",
+   "address": "Av. Antonio Correa da Costa, 1964\n(esq. R. Dom Xavier Rey)\nSerraria\nGuajará-Mirim, RO\n76850-000",
    "languageCode": "S",
    "schedule": "Sat 18:00 undefined null",
    "relatedLanguageCodes": [ "T" ],
    "phones": [ "69-98419-5720" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3404,14 +3427,14 @@
   "properties": {
    "orgName": "Nova Mamoré - RO",
    "orgType": "CONG",
-   "address": "Av. Afonso Pena, 7110\r\nJoão Francisco Clímaco\r\nNova Mamoré, RO\r\n76857-000",
+   "address": "Av. Afonso Pena, 7110\nJoão Francisco Clímaco\nNova Mamoré, RO\n76857-000",
    "languageCode": "T",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "69-99233-1323" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3427,14 +3450,14 @@
   "properties": {
    "orgName": "Vista Alegre do Abunã, Porto Velho, RO - Extrema - Porto Velho RO",
    "orgType": "GROUP",
-   "address": "R. Antônio Olimpio de Lima, S/N\r\nCentro\r\nPorto Velho, RO\r\n76846-000",
+   "address": "R. Antônio Olimpio de Lima, S/N\nCentro\nPorto Velho, RO\n76846-000",
    "languageCode": "T",
    "schedule": "Sat 19:30 Thu 19:30",
    "phones": [ "(69) 9 8425-6613" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

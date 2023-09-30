@@ -11,43 +11,19 @@
   "properties": {
    "orgName": "FUTUNA (WLF)",
    "orgType": "CONG",
-   "address": "Village de Vele\r\nRoyaume d'Alo\r\nALO",
+   "address": "Village de Vele\nRoyaume d'Alo\nALO",
    "languageCode": "FT",
    "schedule": "Sun 16:00 Wed 18:00",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3F27BDD8-C2FD-4855-A69C-876C9B760F39",
-  "type": "weekly",
-  "isPrimary": 0,
-  "location": {
-   "latitude": -13.250836,
-   "longitude": -176.195451,
-   "iso": "FJI"
-  },
-  "properties": {
-   "orgName": "WALLIS",
-   "orgType": "CONG",
-   "address": "Toafa o Malae\r\nHihifo\r\nMALA'E",
-   "languageCode": "WA",
-   "schedule": "Sun 17:00 Wed 18:30",
-   "relatedLanguageCodes": [ "F" ],
-   "phones": [ "681 72 16 76" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "C74F4BDB-A17F-43A7-954E-3DA8A4AB9E25",
   "type": "weekly",
   "isPrimary": 1,
   "location": {
@@ -56,17 +32,41 @@
    "iso": "FJI"
   },
   "properties": {
+   "orgName": "WALLIS",
+   "orgType": "CONG",
+   "address": "Toafa o Malae\nHihifo\nMALA'E",
+   "languageCode": "WA",
+   "schedule": "Sun 17:00 Wed 18:30",
+   "relatedLanguageCodes": [ "F" ],
+   "phones": [ "681 72 16 76" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "C74F4BDB-A17F-43A7-954E-3DA8A4AB9E25",
+  "type": "weekly",
+  "isPrimary": 0,
+  "location": {
+   "latitude": -13.250836,
+   "longitude": -176.195451,
+   "iso": "FJI"
+  },
+  "properties": {
    "orgName": "Groupe français de wallis - WALLIS",
    "orgType": "GROUP",
-   "address": "Toafa o Malae\r\nHihifo\r\nMALA'E",
+   "address": "Toafa o Malae\nHihifo\nMALA'E",
    "languageCode": "F",
    "schedule": "Sun 09:00 Thu 18:30",
    "relatedLanguageCodes": [ "WA" ],
    "phones": [ "681 72 16 76" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

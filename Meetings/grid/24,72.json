@@ -11,14 +11,14 @@
   "properties": {
    "orgName": "Jodhpur",
    "orgType": "CONG",
-   "address": "H. No. 517\r\nSector- 11\r\nChopasni Housing Board\r\nJodhpur  342008\r\nRJ\r\nINDIA",
+   "address": "H. No. 517\nSector- 11\nChopasni Housing Board\nJodhpur  342008\nRJ\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 10:00 Thu 17:30",
    "phones": [ "+91&nbsp;8387070004 / +91 9829477170" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -40,36 +40,13 @@
    "phones": [ "+91&nbsp;99508 67303" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "15CFD032-9779-4C50-BC7C-2EE0647F1A8F",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 26.895298,
-   "longitude": 75.826551,
-   "iso": "IND"
-  },
-  "properties": {
-   "orgName": "Jaipur",
-   "orgType": "CONG",
-   "address": "352-A, 2nd floor, Gali Number 2, Raja Park\r\nJaipur  302004\r\nRJ\r\nINDIA",
-   "languageCode": "HI",
-   "schedule": "Sun 11:00 Thu 18:00",
-   "phones": [ "09782154092" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "83510AFC-5BC2-4DCE-A544-B3E6F93A3811",
   "type": "weekly",
   "isPrimary": 0,
   "location": {
@@ -78,16 +55,39 @@
    "iso": "IND"
   },
   "properties": {
+   "orgName": "Jaipur",
+   "orgType": "CONG",
+   "address": "352-A, 2nd floor, Gali Number 2, Raja Park\nJaipur  302004\nRJ\nINDIA",
+   "languageCode": "HI",
+   "schedule": "Sun 11:00 Thu 18:00",
+   "phones": [ "09782154092" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "83510AFC-5BC2-4DCE-A544-B3E6F93A3811",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 26.895298,
+   "longitude": 75.826551,
+   "iso": "IND"
+  },
+  "properties": {
    "orgName": "Tonk Road Sign Language",
    "orgType": "CONG",
-   "address": "352-A, 2nd floor, Gali Number 2, Raja Park\r\nJaipur  302004\r\nRJ\r\nINDIA",
+   "address": "352-A, 2nd floor, Gali Number 2, Raja Park\nJaipur  302004\nRJ\nINDIA",
    "languageCode": "INS",
    "schedule": "Sun 14:00 Wed 18:00",
    "phones": [ "+91 98441 44212" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -103,14 +103,14 @@
   "properties": {
    "orgName": "Srikaranpur Hindi",
    "orgType": "CONG",
-   "address": "C/o. Baljindher Khosa, H.No:155, F-Block\r\nWard No:19, Srikaranpur\r\nGanganagar  335073\r\nRJ\r\nINDIA",
+   "address": "C/o. Baljindher Khosa, H.No:155, F-Block\nWard No:19, Srikaranpur\nGanganagar  335073\nRJ\nINDIA",
    "languageCode": "HI",
    "schedule": "Sat 18:45 Wed 18:00",
    "phones": [ "7841900735" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -132,7 +132,7 @@
    "phones": [ "+92&nbsp;323 4950020; +92 346 7608 648" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02"
@@ -140,7 +140,7 @@
  {
   "geoId": "A3686E69-B373-46CA-B2B5-80BC5C176268",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 27.19249,
    "longitude": 77.957456,
@@ -149,16 +149,39 @@
   "properties": {
    "orgName": "Agra",
    "orgType": "CONG",
-   "address": "44/214\r\n1st floor\r\nBodla, Shahaganj\r\nAgra  282010\r\nUP\r\nINDIA",
+   "address": "44/214\n1st floor\nBodla, Shahaganj\nAgra  282010\nUP\nINDIA",
    "languageCode": "HI",
-   "schedule": "Sun 10:00 Thu 17:30",
+   "schedule": "Sun 09:30 Thu 17:30",
    "phones": [ "+91&nbsp;9474230556 / 9079385301" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "31E2859C-5EB4-4FCE-A785-C2EA475FE1F0(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 28.432943,
+   "longitude": 77.109304
+  },
+  "properties": {
+   "orgName": "(Moved) Gurugram",
+   "orgType": "CONG",
+   "address": "House no. 6013 Basement\nDLF Phase IV\nGurgaon  122003\nHR\nINDIA",
+   "languageCode": "HI",
+   "schedule": "Sun 11:45 Thu 18:30",
+   "phones": [ "+91&nbsp;9582556348/ +91 9971000554 /+91 9769903747" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastSeen": "2023-02-20",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "6013, DLF Phase -IV\nGurgaon  122002\nHR\nINDIA",
+  "lastVisit": "2023-02-20"
  },
  {
   "geoId": "31E2859C-5EB4-4FCE-A785-C2EA475FE1F0",
@@ -172,21 +195,44 @@
   "properties": {
    "orgName": "Gurugram",
    "orgType": "CONG",
-   "address": "6013, DLF Phase -IV\r\nGurgaon  122002\r\nHR\r\nINDIA",
+   "address": "6013, DLF Phase -IV\nGurgaon  122002\nHR\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 11:45 Thu 18:30",
    "phones": [ "+91&nbsp;9582556348/ +91 9971000554 /+91 9769903747" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
+  "geoId": "EAF55704-9A73-4104-BC07-4FC5C525DC57(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 30.951573,
+   "longitude": 74.612098
+  },
+  "properties": {
+   "orgName": "(Moved) Firozpur",
+   "orgType": "CONG",
+   "address": "HT-47 Gopi Nagar,\r\nNear Civil Hospital,\r\n3rd Street Behind Harish Restaurant\r\nFirozpur  152002\r\nPB\r\nINDIA",
+   "languageCode": "PJ",
+   "schedule": "Sun 10:30 Thu 18:15",
+   "phones": [ "+919873206271" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-06-14",
+  "lastSeen": "2023-06-14",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Gali No.4, Post Office Building\nBehind Food Corporation of India\nBaba Ram Lal Nagar, Malwal Road\nFirozpur  152002\nPB\nINDIA"
+ },
+ {
   "geoId": "46DB9AA2-F574-4EAA-BC89-46C5CC6A8EA1",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 27.166179,
    "longitude": 78.403108,
@@ -195,14 +241,14 @@
   "properties": {
    "orgName": "Firozabad",
    "orgType": "CONG",
-   "address": "Ground Floor\r\nKailsah Nagar\r\nLane Opposite to Kotla Chungi Police Chowki\r\nFirozabad  283203\r\nUP\r\nINDIA",
+   "address": "Ground Floor\nKailsah Nagar\nLane Opposite to Kotla Chungi Police Chowki\nFirozabad  283203\nUP\nINDIA",
    "languageCode": "INS",
    "schedule": "Sun 11:00 Thu 17:30",
    "phones": [ "+91&nbsp;9344050947" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -211,21 +257,21 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 30.94777,
-   "longitude": 74.62617,
+   "latitude": 30.947789,
+   "longitude": 74.626345,
    "iso": "IND"
   },
   "properties": {
    "orgName": "Firozpur",
    "orgType": "CONG",
-   "address": "Ram Lal Gurdwara\r\nNear Post Office\r\nStreet Number 4\r\nFirozpur  152002\r\nPB\r\nINDIA",
+   "address": "Gali No.4, Post Office Building\nBehind Food Corporation of India\nBaba Ram Lal Nagar, Malwal Road\nFirozpur  152002\nPB\nINDIA",
    "languageCode": "PJ",
    "schedule": "Sun 10:30 Thu 17:45",
    "phones": [ "+919873206271" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -241,14 +287,14 @@
   "properties": {
    "orgName": "Delhi Dwarka",
    "orgType": "CONG",
-   "address": "Plot no:B7, Victory Gym\r\nSecond Floor, Patel Garden\r\nDwarka Mode\r\nNew Delhi, NCR  110059\r\nDL\r\nINDIA",
+   "address": "Plot no:B7, Victory Gym\nSecond Floor, Patel Garden\nDwarka Mode\nNew Delhi, NCR  110059\nDL\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "9811883371" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -264,14 +310,14 @@
   "properties": {
    "orgName": "Delhi English",
    "orgType": "CONG",
-   "address": "D-3 Block Institutional Area,\r\nOpp Saket Cultural Club,\r\nNear Anupam PVR Cinema, Saket,\r\nDelhi  110 017\r\nDL\r\nINDIA",
+   "address": "D-3 Block Institutional Area,\nOpp Saket Cultural Club,\nNear Anupam PVR Cinema, Saket,\nDelhi  110 017\nDL\nINDIA",
    "languageCode": "E",
    "schedule": "Sun 08:30 Tue 18:30",
    "phones": [ "+91&nbsp;9811706178" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -287,14 +333,14 @@
   "properties": {
    "orgName": "Delhi Pushp Vihar",
    "orgType": "CONG",
-   "address": "D-3 Block Institutional Area,\r\nOpp Saket Cultural Club,\r\nNear Anupam PVR Cinema, Saket,\r\nDelhi  110 017\r\nDL\r\nINDIA",
+   "address": "D-3 Block Institutional Area,\nOpp Saket Cultural Club,\nNear Anupam PVR Cinema, Saket,\nDelhi  110 017\nDL\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 13:30 Fri 18:30",
    "phones": [ "9971721362" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -310,14 +356,14 @@
   "properties": {
    "orgName": "Delhi Dakshinpuri",
    "orgType": "CONG",
-   "address": "D-3 Block Institutional Area,\r\nOpp Saket Cultural Club,\r\nNear Anupam PVR Cinema, Saket,\r\nDelhi  110 017\r\nDL\r\nINDIA",
+   "address": "D-3 Block Institutional Area,\nOpp Saket Cultural Club,\nNear Anupam PVR Cinema, Saket,\nDelhi  110 017\nDL\nINDIA",
    "languageCode": "HI",
    "schedule": "Sat 18:30 Mon 18:30",
    "phones": [ "9818224860 / 9654923018" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -333,21 +379,21 @@
   "properties": {
    "orgName": "Delhi Malayalam",
    "orgType": "CONG",
-   "address": "D-3 Block Institutional Area,\r\nOpp Saket Cultural Club,\r\nNear Anupam PVR Cinema, Saket,\r\nDelhi  110 017\r\nDL\r\nINDIA",
+   "address": "D-3 Block Institutional Area,\nOpp Saket Cultural Club,\nNear Anupam PVR Cinema, Saket,\nDelhi  110 017\nDL\nINDIA",
    "languageCode": "MY",
    "schedule": "Sun 18:00 Thu 18:00",
    "phones": [ "9717744290" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "142A375C-F80B-4FE8-8571-871493FBB7C7",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 28.522955,
    "longitude": 77.205701,
@@ -356,21 +402,21 @@
   "properties": {
    "orgName": "Delhi Chattarpur",
    "orgType": "CONG",
-   "address": "D-3 Block Institutional Area,\r\nOpp Saket Cultural Club,\r\nNear Anupam PVR Cinema, Saket,\r\nDelhi  110 017\r\nDL\r\nINDIA",
+   "address": "D-3 Block Institutional Area,\nOpp Saket Cultural Club,\nNear Anupam PVR Cinema, Saket,\nDelhi  110 017\nDL\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 11:00 Wed 18:30",
    "phones": [ "+91&nbsp;8527725192" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "55590AF8-BE96-49E1-B80E-0EDF52F4EC10",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 28.522955,
    "longitude": 77.205701,
@@ -379,21 +425,21 @@
   "properties": {
    "orgName": "Delhi Sign Language",
    "orgType": "CONG",
-   "address": "D-3 Block Institutional Area,\r\nOpp Saket Cultural Club,\r\nNear Anupam PVR Cinema, Saket,\r\nDelhi  110 017\r\nDL\r\nINDIA",
+   "address": "D-3 Block Institutional Area,\nOpp Saket Cultural Club,\nNear Anupam PVR Cinema, Saket,\nDelhi  110 017\nDL\nINDIA",
    "languageCode": "INS",
    "schedule": "Sun 15:45 Thu 18:30",
    "phones": [ "9910832265" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3586EAE0-4D90-42A8-B5D9-94BE7D48CE63",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 28.4331,
    "longitude": 77.3102,
@@ -402,14 +448,15 @@
   "properties": {
    "orgName": "Faridabad",
    "orgType": "CONG",
-   "address": "Kingdom Halll of Jehovah's Witnesses\r\n2nd Floor, 2115, Sector 28, Rajendra Colony\r\nNear Sector 28 metro station,Near Pillar No 628\r\nFaridabad  121 008\r\nHR\r\nINDIA",
+   "address": "Kingdom Halll of Jehovah's Witnesses\n2nd Floor, 2115, Sector 28, Rajendra Colony\nNear Sector 28 metro station,Near Pillar No 628\nFaridabad  121 008\nHR\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 09:00 Thu 18:45",
+   "relatedLanguageCodes": [ "MY" ],
    "phones": [ "9818063805 / 9899101787" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -431,15 +478,39 @@
    "phones": [ "9910101088 / 9744359365" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "A8D97BD3-131A-428A-8F91-FC098BB2CB09",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 28.4331,
+   "longitude": 77.3102,
+   "iso": "IND"
+  },
+  "properties": {
+   "orgName": "Faridabad Malayalam Language Group - Faridabad",
+   "orgType": "GROUP",
+   "address": "Kingdom Halll of Jehovah's Witnesses\n2nd Floor, 2115, Sector 28, Rajendra Colony\nNear Sector 28 metro station,Near Pillar No 628\nFaridabad  121 008\nHR\nINDIA",
+   "languageCode": "MY",
+   "schedule": "Sun 17:00 Wed 06:30",
+   "relatedLanguageCodes": [ "HI" ],
+   "phones": [ "9818063805 / 9899101787" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2023-09-28"
  },
  {
   "geoId": "B5339747-EC47-46B6-8EBB-4B2AEA0D3870",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 31.41366,
    "longitude": 74.358483,
@@ -454,15 +525,15 @@
    "phones": [ "03004293493" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "F2EF3249-BF6D-4326-B939-AF3EA9600388",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 28.651621,
    "longitude": 77.169352,
@@ -471,14 +542,14 @@
   "properties": {
    "orgName": "Delhi Patel Nagar",
    "orgType": "CONG",
-   "address": "Kingdom Hall of Jehovah's Witnesses\r\n21/42, West Patel Nagar\r\nNear Kali Mata Mandir\r\nNew Delhi, NCR  110 008\r\nDL\r\nINDIA",
+   "address": "Kingdom Hall of Jehovah's Witnesses\n21/42, West Patel Nagar\nNear Kali Mata Mandir\nNew Delhi, NCR  110 008\nDL\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 17:00 Wed 19:00",
    "phones": [ "+91&nbsp;919811838189" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -500,33 +571,10 @@
    "phones": [ "6283811176 / 9008321041" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-05-29"
- },
- {
-  "geoId": "D1FACB88-9FF5-4C9A-BBF9-515C014F77DA",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 28.651621,
-   "longitude": 77.169352,
-   "iso": "IND"
-  },
-  "properties": {
-   "orgName": "Delhi Shahdara",
-   "orgType": "CONG",
-   "address": "Kingdom Hall of Jehovah's Witnesses\r\n21/42, West Patel Nagar\r\nNear Kali Mata Mandir\r\nNew Delhi, NCR  110 008\r\nDL\r\nINDIA",
-   "languageCode": "HI",
-   "schedule": "Sun 14:00 Tue 18:30",
-   "phones": [ "+91&nbsp;8294906573 / 6282672447" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
  },
  {
   "geoId": "15647B0B-DC9C-4BD7-819B-1ABAEB69BE52",
@@ -546,15 +594,15 @@
    "phones": [ "03214094269/ 03224228408" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E4C0B39D-ACC4-482D-AD56-7CC3E4D68681",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 31.488596,
    "longitude": 74.391508,
@@ -569,59 +617,8 @@
    "phones": [ "+923224920220" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "7EAC78D2-9027-4E42-8BBE-3459BD81EDAC",
-  "type": "weekly",
-  "isPrimary": 0,
-  "location": {
-   "latitude": 28.547774,
-   "longitude": 77.365423,
-   "iso": "IND"
-  },
-  "properties": {
-   "orgName": "Noida",
-   "orgType": "CONG",
-   "address": "D-326, Sector 47,\nGautam Budh Nagar\nNoida  201303\nUP\nINDIA",
-   "languageCode": "HI",
-   "schedule": "Sun 10:00 Thu 18:30",
-   "relatedLanguageCodes": [
-    "INS",
-    "TL"
-   ],
-   "phones": [ "+91&nbsp;9892313363 / +91 8209403317" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "84E33C81-2941-44B3-997F-0C1C094FA8F7",
-  "type": "weekly",
-  "isPrimary": 0,
-  "location": {
-   "latitude": 28.547774,
-   "longitude": 77.365423,
-   "iso": "IND"
-  },
-  "properties": {
-   "orgName": "Noida Sign Language - Noida",
-   "orgType": "GROUP",
-   "address": "D-326, Sector 47,\nGautam Budh Nagar\nNoida  201303\nUP\nINDIA",
-   "languageCode": "INS",
-   "schedule": "Sun 10:00 Thu 18:30",
-   "relatedLanguageCodes": [ "HI" ],
-   "phones": [ "+91&nbsp;9892313363 / +91 8209403317" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -644,7 +641,7 @@
    "phones": [ "+91&nbsp;9892313363 / +91 8209403317" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-05-29",
   "active": 0,
   "firstSeen": "2022-12-02"
@@ -652,7 +649,7 @@
  {
   "geoId": "7A2818E5-97AC-47F7-9971-DC5ED812BF58",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 28.736809,
    "longitude": 77.198007,
@@ -661,14 +658,88 @@
   "properties": {
    "orgName": "Delhi Burari",
    "orgType": "CONG",
-   "address": "House No.1, First floor, A-1 Block, Chauhan Niwas,\r\nSant Nagar Extension 1, Opposite Burari Police\r\nStation, Beside MCD Dispensary, Burari\r\nDelhi  110084\r\nDL\r\nINDIA",
+   "address": "House No.1, First floor, A-1 Block, Chauhan Niwas,\nSant Nagar Extension 1, Opposite Burari Police\nStation, Beside MCD Dispensary, Burari\nDelhi  110084\nDL\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 10:30 Fri 18:30",
    "phones": [ "+91&nbsp;+917389720644" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "7EAC78D2-9027-4E42-8BBE-3459BD81EDAC",
+  "type": "weekly",
+  "isPrimary": 0,
+  "location": {
+   "latitude": 28.581033,
+   "longitude": 77.365139,
+   "iso": "IND"
+  },
+  "properties": {
+   "orgName": "Noida",
+   "orgType": "CONG",
+   "address": "1st Floor-Above Patanjali Store, Opp Pillar No.215\nNear Noida Sector 34 Metro Station\nHosiyarpur, Gali No.1\nNoida  201307\nUP\nINDIA",
+   "languageCode": "HI",
+   "schedule": "Sun 10:00 Thu 18:30",
+   "relatedLanguageCodes": [
+    "INS",
+    "TL"
+   ],
+   "phones": [ "+91&nbsp;9892313363 / +91 8209403317" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "84E33C81-2941-44B3-997F-0C1C094FA8F7",
+  "type": "weekly",
+  "isPrimary": 0,
+  "location": {
+   "latitude": 28.581033,
+   "longitude": 77.365139,
+   "iso": "IND"
+  },
+  "properties": {
+   "orgName": "Noida Sign Language - Noida",
+   "orgType": "GROUP",
+   "address": "1st Floor-Above Patanjali Store, Opp Pillar No.215\nNear Noida Sector 34 Metro Station\nHosiyarpur, Gali No.1\nNoida  201307\nUP\nINDIA",
+   "languageCode": "INS",
+   "schedule": "Sun 10:00 Thu 18:30",
+   "relatedLanguageCodes": [ "HI" ],
+   "phones": [ "+91&nbsp;9892313363 / +91 8209403317" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "D1FACB88-9FF5-4C9A-BBF9-515C014F77DA",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 28.643694,
+   "longitude": 77.324287,
+   "iso": "IND"
+  },
+  "properties": {
+   "orgName": "Delhi Shahdara",
+   "orgType": "CONG",
+   "address": "D12/B, 3rd Floor, Near State Bank of India\nBehind Kaushambi Metro Station\nSahibabad\nGhaziabad  201012\nUP\nINDIA",
+   "languageCode": "HI",
+   "schedule": "Sun 13:00 Tue 18:30",
+   "phones": [ "+91&nbsp;8294906573 / 6282672447" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -684,14 +755,14 @@
   "properties": {
    "orgName": "Delhi Shahibabad",
    "orgType": "CONG",
-   "address": "D12/B, 3rd Floor, Near State Bank of India\r\nBehind Kaushambi Metro Station\r\nSahibabad\r\nGhaziabad  201012\r\nUP\r\nINDIA",
+   "address": "D12/B, 3rd Floor, Near State Bank of India\nBehind Kaushambi Metro Station\nSahibabad\nGhaziabad  201012\nUP\nINDIA",
    "languageCode": "HI",
-   "schedule": "Sun 10:45 Fri 18:00",
+   "schedule": "Sun 11:30 Fri 18:00",
    "phones": [ "+91&nbsp;70425 39343 / +91 99581 07062" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -707,14 +778,14 @@
   "properties": {
    "orgName": "Delhi Mayur Vihar",
    "orgType": "CONG",
-   "address": "D12/B, 3rd Floor, Near State Bank of India\r\nBehind Kaushambi Metro Station\r\nSahibabad\r\nGhaziabad  201012\r\nUP\r\nINDIA",
+   "address": "D12/B, 3rd Floor, Near State Bank of India\nBehind Kaushambi Metro Station\nSahibabad\nGhaziabad  201012\nUP\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 15:15 Thu 18:30",
    "phones": [ "99106 08350/ 98113 37068" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -730,14 +801,14 @@
   "properties": {
    "orgName": "Delhi Anand Vihar",
    "orgType": "CONG",
-   "address": "D12/B, 3rd Floor, Near State Bank of India\r\nBehind Kaushambi Metro Station\r\nSahibabad\r\nGhaziabad  201012\r\nUP\r\nINDIA",
+   "address": "D12/B, 3rd Floor, Near State Bank of India\nBehind Kaushambi Metro Station\nSahibabad\nGhaziabad  201012\nUP\nINDIA",
    "languageCode": "HI",
-   "schedule": "Sun 17:30 Wed 18:30",
+   "schedule": "Sat 18:30 Wed 18:30",
    "phones": [ "9818212438 / 9818478710" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -753,14 +824,14 @@
   "properties": {
    "orgName": "Delhi Kaushambi Malayalam",
    "orgType": "CONG",
-   "address": "D12/B, 3rd Floor, Near State Bank of India\r\nBehind Kaushambi Metro Station\r\nSahibabad\r\nGhaziabad  201012\r\nUP\r\nINDIA",
+   "address": "D12/B, 3rd Floor, Near State Bank of India\nBehind Kaushambi Metro Station\nSahibabad\nGhaziabad  201012\nUP\nINDIA",
    "languageCode": "MY",
-   "schedule": "Sun 08:30 Mon 19:00",
+   "schedule": "Sun 09:00 Mon 19:00",
    "phones": [ "+91&nbsp;9745322540, +91 9810619902" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -776,16 +847,39 @@
   "properties": {
    "orgName": "Greater Noida",
    "orgType": "CONG",
-   "address": "Kingdom Hall of Jehovah`s Witnesses\r\nB-175, Sector 37\r\nRHO 2\r\nGreater Noida  201 308\r\nUP\r\nINDIA",
+   "address": "Kingdom Hall of Jehovah`s Witnesses\nB-175, Sector 37\nRHO 2\nGreater Noida  201 308\nUP\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "8285527858" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "C43BE4AF-F3D7-4040-8CC9-E510ED178CFD(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 29.3794,
+   "longitude": 76.9496
+  },
+  "properties": {
+   "orgName": "(Moved) Panipat",
+   "orgType": "CONG",
+   "address": "Little Palm Play School,\r\nFowji Chakki Wali Street, Near Sri Ram hospital,\r\nJatal Road, New Model Town\r\nPanipat  132103\r\nHR\r\nINDIA",
+   "languageCode": "HI",
+   "schedule": "Sun 10:30 Wed 19:00",
+   "phones": [ "9833784380" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-06-14",
+  "lastSeen": "2023-06-14",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Ward No.22, Beside GC Tower\nJyothi Nagar\nAssand Road\nPanipat  132103\nHR\nINDIA"
  },
  {
   "geoId": "C43BE4AF-F3D7-4040-8CC9-E510ED178CFD",
@@ -799,14 +893,14 @@
   "properties": {
    "orgName": "Panipat",
    "orgType": "CONG",
-   "address": "Ward No.22, Beside GC Tower\r\nJyothi Nagar\r\nAssand Road\r\nPanipat  132103\r\nHR\r\nINDIA",
+   "address": "Ward No.22, Beside GC Tower\nJyothi Nagar\nAssand Road\nPanipat  132103\nHR\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 11:00 Thu 17:00",
    "phones": [ "9833784380" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -822,14 +916,14 @@
   "properties": {
    "orgName": "Patiala Punjabi",
    "orgType": "CONG",
-   "address": "Ground Floor, Street No. 12 16-D\r\nNew Bishan Nagar\r\nNear Jaidika Dairy\r\nPatiala  147001\r\nPB\r\nINDIA",
+   "address": "Ground Floor, Street No. 12 16-D\nNew Bishan Nagar\nNear Jaidika Dairy\nPatiala  147001\nPB\nINDIA",
    "languageCode": "PJ",
    "schedule": "Sun 11:00 Thu 17:00",
    "phones": [ "+91&nbsp;7082231570 / +91 9872658300" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -845,14 +939,14 @@
   "properties": {
    "orgName": "Amritsar",
    "orgType": "CONG",
-   "address": "Kingdom Hall of Jehovah's Witnesses\r\n402-Medical Enclave\r\nCircular Road\r\nAmritsar  143 001\r\nPB\r\nINDIA",
+   "address": "Kingdom Hall of Jehovah's Witnesses\n402-Medical Enclave\nCircular Road\nAmritsar  143 001\nPB\nINDIA",
    "languageCode": "PJ",
    "schedule": "Sun 10:00 Thu 18:00",
    "phones": [ "9501690428 /8566835175" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -868,14 +962,14 @@
   "properties": {
    "orgName": "Meerut",
    "orgType": "CONG",
-   "address": "Hanuman Vihar, Phase-3\r\nHoli Chowk, Sarai Kazi\r\nGarh Road, Jagrati Vihar\r\nMeerut  250 004\r\nUP\r\nINDIA",
+   "address": "Hanuman Vihar, Phase-3\nHoli Chowk, Sarai Kazi\nGarh Road, Jagrati Vihar\nMeerut  250 004\nUP\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 09:00 Thu 18:00",
    "phones": [ "(+91) 9760406438 /  9917886993" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -891,14 +985,14 @@
   "properties": {
    "orgName": "Jandiala Punjabi",
    "orgType": "CONG",
-   "address": "Vill: Dhaliwal,\r\nNear Government High School.\r\nP.O-Jandiala. Tehsil-Nakodar\r\nJalandhar  144514\r\nPB\r\nINDIA",
+   "address": "Vill: Dhaliwal,\nNear Government High School.\nP.O-Jandiala. Tehsil-Nakodar\nJalandhar  144514\nPB\nINDIA",
    "languageCode": "PJ",
    "schedule": "Sun 10:00 Thu 16:00",
    "phones": [ "9463540620 / 9478871907" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -914,14 +1008,14 @@
   "properties": {
    "orgName": "Kapurthala Punjabi",
    "orgType": "CONG",
-   "address": "Kingdom Hall of Jehovah’s Witnesses\r\n5-Tagor Nagar, Jalandhar Road\r\nNear Ragini Hospital\r\nKapurthala  144 601\r\nPB\r\nINDIA",
+   "address": "Kingdom Hall of Jehovah’s Witnesses\n5-Tagor Nagar, Jalandhar Road\nNear Ragini Hospital\nKapurthala  144 601\nPB\nINDIA",
    "languageCode": "PJ",
    "schedule": "Sun 11:00 Thu 18:00",
    "phones": [ "9779082793 / 8146759451" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -937,14 +1031,14 @@
   "properties": {
    "orgName": "Phillaur",
    "orgType": "CONG",
-   "address": "1st Floor KL Tower\r\nAkalpur Road, near Kartarsar Gas Agency\r\nPhillaur\r\nJalandhar  144410\r\nPB\r\nINDIA",
+   "address": "1st Floor KL Tower\nAkalpur Road, near Kartarsar Gas Agency\nPhillaur\nJalandhar  144410\nPB\nINDIA",
    "languageCode": "PJ",
-   "schedule": "Sun 09:00 Thu 17:00",
+   "schedule": "Sun 10:00 Thu 17:00",
    "phones": [ "9814033492 / 9814157231" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -960,14 +1054,14 @@
   "properties": {
    "orgName": "Ludhiana",
    "orgType": "CONG",
-   "address": "Plot no: 28, B.K. Estate, Paradise Lane\r\nOpp. Amrit Dharamkanta, To Tibban Road\r\nRamesh Nagar\r\nLudhiana  141 005\r\nPB\r\nINDIA",
+   "address": "Plot no: 28, B.K. Estate, Paradise Lane\nOpp. Amrit Dharamkanta, To Tibban Road\nRamesh Nagar\nLudhiana  141 005\nPB\nINDIA",
    "languageCode": "PJ",
    "schedule": "Sun 12:15 Thu 17:30",
    "phones": [ "+91&nbsp;8146081442" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -983,65 +1077,19 @@
   "properties": {
    "orgName": "Ludhiana Hindi",
    "orgType": "CONG",
-   "address": "Plot no: 28, B.K. Estate, Paradise Lane\r\nOpp. Amrit Dharamkanta, To Tibban Road\r\nRamesh Nagar\r\nLudhiana  141 005\r\nPB\r\nINDIA",
+   "address": "Plot no: 28, B.K. Estate, Paradise Lane\nOpp. Amrit Dharamkanta, To Tibban Road\nRamesh Nagar\nLudhiana  141 005\nPB\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 09:45 Wed 18:00",
    "phones": [ "+91&nbsp;7528993754" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D96A4477-D833-43DF-90CD-8636506A81D0",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 31.3004,
-   "longitude": 75.55904,
-   "iso": "IND"
-  },
-  "properties": {
-   "orgName": "Jalandhar West",
-   "orgType": "CONG",
-   "address": "Kingdom Hall of Jehovah`s Witnesses\r\nNear Coco Cola Godown, 11/18\r\nNakodar Road, Deol Nagar\r\nJalandhar  144 003\r\nPB\r\nINDIA",
-   "languageCode": "PJ",
-   "schedule": "Sat 18:00 Thu 18:00",
-   "phones": [ "9501424249" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "E1C5F457-B211-4E2F-8DC1-7441B0DAAF92",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 31.3004,
-   "longitude": 75.55904,
-   "iso": "IND"
-  },
-  "properties": {
-   "orgName": "Jalandhar East",
-   "orgType": "CONG",
-   "address": "Kingdom Hall of Jehovah`s Witnesses\r\nNear Coco Cola Godown, 11/18\r\nNakodar Road, Deol Nagar\r\nJalandhar  144 003\r\nPB\r\nINDIA",
-   "languageCode": "PJ",
-   "schedule": "Sun 10:00 Tue 17:30",
-   "phones": [ "+91&nbsp;9464412202" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "A43CAFAB-09EE-44CF-931E-355F90064C4C",
   "type": "weekly",
   "isPrimary": 0,
   "location": {
@@ -1050,16 +1098,63 @@
    "iso": "IND"
   },
   "properties": {
+   "orgName": "Jalandhar West",
+   "orgType": "CONG",
+   "address": "Kingdom Hall of Jehovah`s Witnesses\nNear Coco Cola Godown, 11/18\nNakodar Road, Deol Nagar\nJalandhar  144 003\nPB\nINDIA",
+   "languageCode": "PJ",
+   "schedule": "Sat 18:00 Thu 18:00",
+   "phones": [ "9501424249" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "E1C5F457-B211-4E2F-8DC1-7441B0DAAF92",
+  "type": "weekly",
+  "isPrimary": 0,
+  "location": {
+   "latitude": 31.3004,
+   "longitude": 75.55904,
+   "iso": "IND"
+  },
+  "properties": {
+   "orgName": "Jalandhar East",
+   "orgType": "CONG",
+   "address": "Kingdom Hall of Jehovah`s Witnesses\nNear Coco Cola Godown, 11/18\nNakodar Road, Deol Nagar\nJalandhar  144 003\nPB\nINDIA",
+   "languageCode": "PJ",
+   "schedule": "Sun 10:00 Tue 17:30",
+   "relatedLanguageCodes": [ "INS" ],
+   "phones": [ "+91&nbsp;9464412202" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "A43CAFAB-09EE-44CF-931E-355F90064C4C",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 31.3004,
+   "longitude": 75.55904,
+   "iso": "IND"
+  },
+  "properties": {
    "orgName": "Jalandhar Hindi",
    "orgType": "CONG",
-   "address": "Kingdom Hall of Jehovah`s Witnesses\r\nNear Coco Cola Godown, 11/18\r\nNakodar Road, Deol Nagar\r\nJalandhar  144 003\r\nPB\r\nINDIA",
+   "address": "Kingdom Hall of Jehovah`s Witnesses\nNear Coco Cola Godown, 11/18\nNakodar Road, Deol Nagar\nJalandhar  144 003\nPB\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 16:00 Wed 18:00",
    "phones": [ "+91&nbsp;+919045794065" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1081,10 +1176,34 @@
    "phones": [ "+91&nbsp;8699163997" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "B051E182-B305-425E-825D-48BCFA7C983E",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 31.3004,
+   "longitude": 75.55904,
+   "iso": "IND"
+  },
+  "properties": {
+   "orgName": "Jalandhar Sign Language group - Jalandhar East",
+   "orgType": "GROUP",
+   "address": "Kingdom Hall of Jehovah`s Witnesses\nNear Coco Cola Godown, 11/18\nNakodar Road, Deol Nagar\nJalandhar  144 003\nPB\nINDIA",
+   "languageCode": "INS",
+   "schedule": "Sun 13:00 Fri 18:30",
+   "relatedLanguageCodes": [ "PJ" ],
+   "phones": [ "+91&nbsp;9464412202" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2023-09-28"
  },
  {
   "geoId": "5F4DEE21-EE1A-42EC-968B-5A2B2F7A1927",
@@ -1098,14 +1217,14 @@
   "properties": {
    "orgName": "Nagar",
    "orgType": "CONG",
-   "address": "Nagar\r\nTehsil Phillaur\r\nJalandhar  144410\r\nPB\r\nINDIA",
+   "address": "Nagar\nTehsil Phillaur\nJalandhar  144410\nPB\nINDIA",
    "languageCode": "PJ",
    "schedule": "Sun 10:00 Wed 16:00",
    "phones": [ "9878461847" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1121,14 +1240,14 @@
   "properties": {
    "orgName": "Goraya Atta",
    "orgType": "CONG",
-   "address": "Rotary Club, Near Milan Palace\r\nDilbag colony\r\nGoraya  144409\r\nPB\r\nINDIA",
+   "address": "Rotary Club, Near Milan Palace\nDilbag colony\nGoraya  144409\nPB\nINDIA",
    "languageCode": "PJ",
    "schedule": "Sun 10:00 Wed 16:00",
    "phones": [ "7986583608 / +919501926024" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1144,14 +1263,14 @@
   "properties": {
    "orgName": "Phagwara",
    "orgType": "CONG",
-   "address": "Nangal Road, Chachoki,\r\nG T Road\r\nPhagwara  144 632\r\nPB\r\nINDIA",
+   "address": "Nangal Road, Chachoki,\nG T Road\nPhagwara  144 632\nPB\nINDIA",
    "languageCode": "PJ",
    "schedule": "Sun 16:00 Thu 16:30",
    "phones": [ "9781417223/ 9356471339" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1173,9 +1292,9 @@
    "phones": [ "9045347987" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2023-05-29"
  },
  {
@@ -1190,16 +1309,39 @@
   "properties": {
    "orgName": "Ambala",
    "orgType": "CONG",
-   "address": "Ambala Kingdom Hall, Shubh Complex,\r\nShubh Complex, First Floor, Hall No:1\r\nNear Brahma Kumari Chowk,Mahesh Nagar\r\nAmbala  133001\r\nHR\r\nINDIA",
+   "address": "Ambala Kingdom Hall, Shubh Complex,\nShubh Complex, First Floor, Hall No:1\nNear Brahma Kumari Chowk,Mahesh Nagar\nAmbala  133001\nHR\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 10:00 Thu 18:00",
    "phones": [ "+91&nbsp;9474205204 / 9034202920" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "A900E1C5-B66F-4E4C-97A8-37EBB7FD8D40(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 31.11695,
+   "longitude": 76.12855
+  },
+  "properties": {
+   "orgName": "(Moved) Nawanshahar Punjabi",
+   "orgType": "CONG",
+   "address": "Dulku Karyana Store, Sloh Canal Road\nGarcha Colony,\nNear Prince Enclave, Friends Colony\n144 514",
+   "languageCode": "PJ",
+   "schedule": "Sun 11:00 Thu 16:30",
+   "phones": [ "7740009331" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastSeen": "2023-02-20",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Second Floor, AJ Tower, Banga Road\nNawanshahr  144514\nPB\nINDIA",
+  "lastVisit": "2023-02-20"
  },
  {
   "geoId": "A900E1C5-B66F-4E4C-97A8-37EBB7FD8D40",
@@ -1213,14 +1355,14 @@
   "properties": {
    "orgName": "Nawanshahar Punjabi",
    "orgType": "CONG",
-   "address": "Second Floor, AJ Tower, Banga Road\r\nNawanshahr  144514\r\nPB\r\nINDIA",
+   "address": "Second Floor, AJ Tower, Banga Road\nNawanshahr  144514\nPB\nINDIA",
    "languageCode": "PJ",
    "schedule": "Sun 10:00 Thu 16:30",
    "phones": [ "7740009331" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1236,16 +1378,39 @@
   "properties": {
    "orgName": "Dhariwal Punjabi",
    "orgType": "CONG",
-   "address": "New Abadi, near Power House\r\nGT Road, Dhariwal\r\nGurdaspur  143519\r\nPB\r\nINDIA",
+   "address": "New Abadi, near Power House\nGT Road, Dhariwal\nGurdaspur  143519\nPB\nINDIA",
    "languageCode": "PJ",
    "schedule": "Sun 10:30 Thu 17:00",
    "phones": [ "8360035813 / 9877556014" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "959E4FAD-27F1-46DC-939B-D10641F0BD0D(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 31.96644,
+   "longitude": 75.32855
+  },
+  "properties": {
+   "orgName": "(Moved) Dhariwal Punjabi",
+   "orgType": "CONG",
+   "address": "Kingdom Hall of Jehovah's Witnesses\r\nBackside of Co-operative Bank\r\nVillage Rania, GT Road,Dhariwal\r\nGurdaspur  143 519\r\nPB\r\nINDIA",
+   "languageCode": "PJ",
+   "schedule": "Sun 10:30 Thu 17:00",
+   "phones": [ "9781296200 / 8360262603" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-06-14",
+  "lastSeen": "2023-06-14",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "New Abadi, near Power House\nGT Road, Dhariwal\nGurdaspur  143519\nPB\nINDIA"
  },
  {
   "geoId": "10591781-2150-4881-A1B1-92175EE3C2CF",
@@ -1259,14 +1424,14 @@
   "properties": {
    "orgName": "Tanda Punjabi",
    "orgType": "CONG",
-   "address": "Ground floor, ward no 2, Near\r\nPower House Colony, Tanda\r\nHoshiarpur  144204\r\nPB\r\nINDIA",
+   "address": "Ground floor, ward no 2, Near\nPower House Colony, Tanda\nHoshiarpur  144204\nPB\nINDIA",
    "languageCode": "PJ",
    "schedule": "Sun 11:00 Thu 16:00",
    "phones": [ "9915629951 / 8146223632" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1282,16 +1447,39 @@
   "properties": {
    "orgName": "Hoshiarpur",
    "orgType": "CONG",
-   "address": "Brothers Sweet Shop\r\nIst Floor, Phagwara Bypass\r\nPurhiran\r\nHoshiarpur  146001\r\nPB\r\nINDIA",
+   "address": "Brothers Sweet Shop\nIst Floor, Phagwara Bypass\nPurhiran\nHoshiarpur  146001\nPB\nINDIA",
    "languageCode": "PJ",
    "schedule": "Sun 11:00 Wed 17:30",
    "phones": [ "+91&nbsp;9900529962 / +91 9465063109" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "543E7DB1-A00D-46DC-9344-21AE9AEC39A3(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 31.504647,
+   "longitude": 75.895166
+  },
+  "properties": {
+   "orgName": "(Moved) Hoshiarpur",
+   "orgType": "CONG",
+   "address": "Street No.1, Bhim Nagar, Near Soodh Automobiles\nNew Holland Tractors, Khawaspur, Phagwara Road\nHoshiarpur\nHoshiarpur  146001\nPB\nINDIA",
+   "languageCode": "PJ",
+   "schedule": "Sun 10:00 Wed 17:00",
+   "phones": [ "9041199697 / 9815001192" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastSeen": "2023-02-20",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Brothers Sweet Shop\nIst Floor, Phagwara Bypass\nPurhiran\nHoshiarpur  146001\nPB\nINDIA",
+  "lastVisit": "2023-02-20"
  },
  {
   "geoId": "DD4486E7-C57A-4DC3-84A4-74533D1B7680",
@@ -1305,14 +1493,14 @@
   "properties": {
    "orgName": "Chandigarh South",
    "orgType": "CONG",
-   "address": "H.No: 1124 , Sector 70\r\nSAS Nagar\r\nMohali  160 061\r\nPB\r\nINDIA",
+   "address": "H.No: 1124 , Sector 70\nSAS Nagar\nMohali  160 061\nPB\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 16:00 Thu 18:30",
-   "phones": [ "+91&nbsp;7837042434" ],
+   "phones": [ "+91&nbsp;7841900735" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1328,15 +1516,15 @@
   "properties": {
    "orgName": "Chandigarh English",
    "orgType": "CONG",
-   "address": "H.No: 1124 , Sector 70\r\nSAS Nagar\r\nMohali  160 061\r\nPB\r\nINDIA",
+   "address": "H.No: 1124 , Sector 70\nSAS Nagar\nMohali  160 061\nPB\nINDIA",
    "languageCode": "E",
    "schedule": "Sat 18:30 Wed 18:30",
    "relatedLanguageCodes": [ "INS" ],
    "phones": [ "+91 78370 42434" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1352,15 +1540,15 @@
   "properties": {
    "orgName": "Chandigarh Sign Language Group - Chandigarh English",
    "orgType": "GROUP",
-   "address": "H.No: 1124 , Sector 70\r\nSAS Nagar\r\nMohali  160 061\r\nPB\r\nINDIA",
+   "address": "H.No: 1124 , Sector 70\nSAS Nagar\nMohali  160 061\nPB\nINDIA",
    "languageCode": "INS",
    "schedule": "Sun 13:00 Wed 18:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "+91 78370 42434" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1376,14 +1564,14 @@
   "properties": {
    "orgName": "Chandigarh North",
    "orgType": "CONG",
-   "address": "H.No: 1124 , Sector 70\r\nSAS Nagar\r\nMohali  160 061\r\nPB\r\nINDIA",
+   "address": "H.No: 1124 , Sector 70\nSAS Nagar\nMohali  160 061\nPB\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 10:00 Tue 18:30",
    "phones": [ "+917837042434" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1405,9 +1593,9 @@
    "phones": [ "+91&nbsp;9871013682" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
@@ -1422,14 +1610,14 @@
   "properties": {
    "orgName": "Bareilly Hindi",
    "orgType": "CONG",
-   "address": "C/o. Sakshi General Store, 83/9\r\nCivil Lines, Mission Compound,\r\nNear Samajvadhi Party Office\r\nBareilly  243001\r\nUP\r\nINDIA",
+   "address": "C/o. Sakshi General Store, 83/9\nCivil Lines, Mission Compound,\nNear Samajvadhi Party Office\nBareilly  243001\nUP\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 10:30 Thu 18:00",
    "phones": [ "7077072034" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1451,9 +1639,9 @@
    "phones": [ "+91&nbsp;8009286084" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2023-05-29"
  },
  {
@@ -1468,14 +1656,14 @@
   "properties": {
    "orgName": "Selaqui Hindi",
    "orgType": "CONG",
-   "address": "First Floor Hall\r\nK.B.Thapa Marg, Central Hope Town\r\nSelaqui\r\nDehradun  248197\r\nUT\r\nINDIA",
+   "address": "First Floor Hall\nK.B.Thapa Marg, Central Hope Town\nSelaqui\nDehradun  248197\nUT\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 09:00 Thu 18:30",
    "phones": [ "+91&nbsp;9837742800" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1491,14 +1679,14 @@
   "properties": {
    "orgName": "Hamirpur",
    "orgType": "CONG",
-   "address": "Hamirpur Meeting Place of Jehovah`s Witnesses\r\nGowtham Confectionery,Prathap Nagar\r\nWard No:3\r\nHamirpur  177001\r\nHP\r\nINDIA",
+   "address": "Hamirpur Meeting Place of Jehovah`s Witnesses\nGowtham Confectionery,Prathap Nagar\nWard No:3\nHamirpur  177001\nHP\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 10:15 Thu 16:15",
    "phones": [ "7018316318 / 8281444501" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1514,14 +1702,14 @@
   "properties": {
    "orgName": "Dehradun East Hindi",
    "orgType": "CONG",
-   "address": "Kingdom Hall of Jehovah's Witnesses\r\n35/1, Telpur Chowk, Mehuwala Mafi\r\nShimla bypass road\r\nDehradun  248 171\r\nUT\r\nINDIA",
+   "address": "Kingdom Hall of Jehovah's Witnesses\n35/1, Telpur Chowk, Mehuwala Mafi\nShimla bypass road\nDehradun  248 171\nUT\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 16:00 Thu 18:00",
    "phones": [ "+91&nbsp;9837374837 / 9760356413" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1537,16 +1725,39 @@
   "properties": {
    "orgName": "Dehradun West Hindi",
    "orgType": "CONG",
-   "address": "Kingdom Hall of Jehovah's Witnesses\r\n35/1, Telpur Chowk, Mehuwala Mafi\r\nShimla bypass road\r\nDehradun  248 171\r\nUT\r\nINDIA",
+   "address": "Kingdom Hall of Jehovah's Witnesses\n35/1, Telpur Chowk, Mehuwala Mafi\nShimla bypass road\nDehradun  248 171\nUT\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 10:00 Wed 18:30",
    "phones": [ "7983733039" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "A8C60A26-7B38-483D-AC61-C3DF69A8E436(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 30.472994,
+   "longitude": 78.04541
+  },
+  "properties": {
+   "orgName": "(Moved) Mussoorie Hindi",
+   "orgType": "CONG",
+   "address": "M/S S.N. Residency Hotel, Charlievill Road\r\nMussoorie Janpad, Kempty Fall Road\r\nMussoorie  248179\r\nUT\r\nINDIA",
+   "languageCode": "HI",
+   "schedule": "Sun 10:00 Thu 18:30",
+   "phones": [ "+918603179711" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-06-14",
+  "lastSeen": "2023-06-14",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Hotel S N Residency, Ground floor\nBrightland Estate Road near Library Chowk\nCharleville\nDehradun  248179\nUT\nINDIA"
  },
  {
   "geoId": "A8C60A26-7B38-483D-AC61-C3DF69A8E436",
@@ -1560,14 +1771,14 @@
   "properties": {
    "orgName": "Mussoorie Hindi",
    "orgType": "CONG",
-   "address": "Hotel S N Residency, Ground floor\r\nBrightland Estate Road near Library Chowk\r\nCharleville\r\nDehradun  248179\r\nUT\r\nINDIA",
+   "address": "Hotel S N Residency, Ground floor\nBrightland Estate Road near Library Chowk\nCharleville\nDehradun  248179\nUT\nINDIA",
    "languageCode": "HI",
    "schedule": "Sun 10:00 Thu 18:30",
    "phones": [ "+918603179711" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1589,9 +1800,9 @@
    "phones": [ "8894667125/8219377182" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
@@ -1612,9 +1823,9 @@
    "phones": [ "+91&nbsp;8219043096" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  }
 ]

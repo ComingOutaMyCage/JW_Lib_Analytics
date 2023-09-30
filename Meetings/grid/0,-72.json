@@ -9,17 +9,17 @@
    "iso": "COL"
   },
   "properties": {
-   "orgName": "MITÚ - VPS",
+   "orgName": "INAYÁ - MITÚ VPS",
    "orgType": "CONG",
-   "address": "Cl. 10 # 8-10\r\nBrr. Villa Victoria\r\nMITÚ, VAUPÉS",
+   "address": "Cl. 10 # 8-10\nBrr. Villa Victoria\nMITÚ, VAUPÉS",
    "languageCode": "S",
    "schedule": "Sun 08:00 Tue 18:30",
    "relatedLanguageCodes": [ "CBE" ],
    "phones": [ "3005651082" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -35,14 +35,14 @@
   "properties": {
    "orgName": "LA GUACABA - OROCUÉ CAS",
    "orgType": "CONG",
-   "address": "CALLE 3 # 19 - 73\r\nBARRIO BELLO HORIZONTE\r\nOROCUÉ, CASANARE",
+   "address": "CALLE 3 # 19 - 73\nBARRIO BELLO HORIZONTE\nOROCUÉ, CASANARE",
    "languageCode": "S",
    "schedule": "Sat 18:00 Thu 18:30",
    "phones": [ "3123101065" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -64,8 +64,8 @@
    "phones": [ "+57&nbsp;3166378289" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -81,16 +81,43 @@
   "properties": {
    "orgName": "PALMERAS - TRINIDAD CAS",
    "orgType": "CONG",
-   "address": "Cra. 4 # 8 - 47\r\nBrr. Panorama\r\nTRINIDAD, CASANARE",
+   "address": "Cra. 4 # 8 - 47\nBrr. Panorama\nTRINIDAD, CASANARE",
    "languageCode": "S",
    "schedule": "Sat 16:00 Wed 18:15",
    "phones": [ "3105892162" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "B868F7EE-50C2-410A-85B9-07F1E059E885(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 5.413317,
+   "longitude": -71.656173
+  },
+  "properties": {
+   "orgName": "(Moved) PALMERAS - TRINIDAD CAS",
+   "orgType": "CONG",
+   "address": "Manzana B, Lote 22\r\nVilla Victoria\r\nTRINIDAD, CASANARE\r\n",
+   "languageCode": "S",
+   "schedule": "Sat 16:00 Wed 18:15",
+   "phones": [
+    {
+     "phone": "3105892162"
+    }
+   ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastVisit": "2023-05-29",
+  "lastSeen": "2023-05-29",
+  "active": 0,
+  "firstSeen": "2023-05-29",
+  "moved": "Cra. 4 # 8 - 47\nBrr. Panorama\nTRINIDAD, CASANARE"
  },
  {
   "geoId": "96CA95D0-24A5-4322-B18F-704FD9F1F3CE",
@@ -110,8 +137,8 @@
    "phones": [ "3144348302" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -127,14 +154,14 @@
   "properties": {
    "orgName": "LIBERTADORES - HATO COROZAL CAS",
    "orgType": "CONG",
-   "address": "Cr. 17 # 3-60\r\nHATO COROZAL, CASANARE",
+   "address": "Cr. 17 # 3-60\nHATO COROZAL, CASANARE",
    "languageCode": "S",
    "schedule": "Sat 16:30 Wed 18:00",
    "phones": [ "3115805598" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -150,15 +177,15 @@
   "properties": {
    "orgName": "NUEVO HORIZONTE SIKUANI - CUMARIBO VCH",
    "orgType": "CONG",
-   "address": "Cr. 6 # 9-12\r\nBrr. Alcaraván\r\nCUMARIBO, VICHADA",
+   "address": "Cr. 6 # 9-12\nBrr. Alcaraván\nCUMARIBO, VICHADA",
    "languageCode": "GHB",
    "schedule": "Sun 08:00 Fri 17:30",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "3237154115" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -174,15 +201,15 @@
   "properties": {
    "orgName": "CUMARIBO - CUMARIBO VCH - NUEVO HORIZONTE SIKUANI - CUMARIBO VCH",
    "orgType": "GROUP",
-   "address": "Cr. 6 # 9-12\r\nBrr. Alcaraván\r\nCUMARIBO, VICHADA",
+   "address": "Cr. 6 # 9-12\nBrr. Alcaraván\nCUMARIBO, VICHADA",
    "languageCode": "S",
    "schedule": "Sun 09:00 Fri 18:00",
    "relatedLanguageCodes": [ "GHB" ],
    "phones": [ "3237154115" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -198,14 +225,14 @@
   "properties": {
    "orgName": "BUENAVISTA - TAME ARC",
    "orgType": "CONG",
-   "address": "Cr. 4 # 12-24\r\nBrr. San Antonio\r\nTAME, ARAUCA",
+   "address": "Cr. 4 # 12-24\nBrr. San Antonio\nTAME, ARAUCA",
    "languageCode": "S",
    "schedule": "Sat 17:00 Wed 18:30",
    "phones": [ "3164144793" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -221,14 +248,14 @@
   "properties": {
    "orgName": "EL PROGRESO - FORTUL ARC",
    "orgType": "CONG",
-   "address": "Cr. 18 No. 6-34\r\nBarrio Ramírez\r\nFORTUL, ARAUCA",
+   "address": "Cr. 18 No. 6-34\nBarrio Ramírez\nFORTUL, ARAUCA",
    "languageCode": "S",
    "schedule": "Sat 16:00 Fri 18:00",
    "phones": [ "3125361161" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -244,14 +271,14 @@
   "properties": {
    "orgName": "EL ESTERO - LA PRIMAVERA VCH",
    "orgType": "CONG",
-   "address": "Cl. 9 # 9-63\r\nBrr. Bello Horizonte\r\nLA PRIMAVERA, VICHADA",
+   "address": "Cl. 9 # 9-63\nBrr. Bello Horizonte\nLA PRIMAVERA, VICHADA",
    "languageCode": "S",
    "schedule": "Sun 07:30 Thu 18:00",
    "phones": [ "3144412024" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -267,14 +294,14 @@
   "properties": {
    "orgName": "VILLAS DE SAN LUIS - SARAVENA ARC",
    "orgType": "CONG",
-   "address": "Cr. 9 # 26-55\r\nBrr. San Luis\r\nSARAVENA, ARAUCA",
+   "address": "Cr. 9 # 26-55\nBrr. San Luis\nSARAVENA, ARAUCA",
    "languageCode": "S",
    "schedule": "Sun 08:00 Wed 18:00",
    "phones": [ "3104285652" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -290,14 +317,14 @@
   "properties": {
    "orgName": "CUBARÁ - SARAVENA ARC - VILLAS DE SAN LUIS - SARAVENA ARC",
    "orgType": "GROUP",
-   "address": "Cr. 9 # 26-55\r\nBrr. San Luis\r\nSARAVENA, ARAUCA",
+   "address": "Cr. 9 # 26-55\nBrr. San Luis\nSARAVENA, ARAUCA",
    "languageCode": "S",
    "schedule": "Sat 06:30 Wed 18:00",
    "phones": [ "3104285652" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -313,14 +340,14 @@
   "properties": {
    "orgName": "BRISAS DEL LLANO - SARAVENA ARC",
    "orgType": "CONG",
-   "address": "Cr. 9 # 26-55\r\nBrr. San Luis\r\nSARAVENA, ARAUCA",
+   "address": "Cr. 9 # 26-55\nBrr. San Luis\nSARAVENA, ARAUCA",
    "languageCode": "S",
-   "schedule": "Sat 18:00 Tue 18:00",
+   "schedule": "Sat 18:00 Tue 18:15",
    "phones": [ "3133091657" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -336,14 +363,14 @@
   "properties": {
    "orgName": "LA FLORESTA - PUERTO RONDÓN ARC",
    "orgType": "CONG",
-   "address": "Cr. 7 # 1 - 104\r\nBarrio El Centro\r\nPUERTO RONDÓN, ARAUCA",
+   "address": "Cr. 7 # 1 - 104\nBarrio El Centro\nPUERTO RONDÓN, ARAUCA",
    "languageCode": "S",
    "schedule": "Sat 17:00 Wed 17:00",
    "phones": [ "3134630311" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -359,14 +386,14 @@
   "properties": {
    "orgName": "LA ESPERANZA - PUERTO JORDÁN - ARAUQUITA ARC",
    "orgType": "CONG",
-   "address": "Barrio La Esperanza\r\nTAME, ARAUCA",
+   "address": "Barrio La Esperanza\nTAME, ARAUCA",
    "languageCode": "S",
    "schedule": "Sat 17:00 Thu 17:00",
    "phones": [ "312-4387977" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -382,15 +409,15 @@
   "properties": {
    "orgName": "El Nula, Apu.",
    "orgType": "CONG",
-   "address": "Calle ppal. del barrio las palmas\r\nDos cuadras despues de la escuela especial\r\nSubiendo hacia el CDI\r\nEl Nula\r\nAPU",
+   "address": "Calle ppal. del barrio las palmas\nDos cuadras despues de la escuela especial\nSubiendo hacia el CDI\nEl Nula\nAPU",
    "transliteratedAddress": "Calle ppal. del barrio las palmas\r\nDos cuadras despues de la escuela especial\r\nSubiendo hacia el CDI\r\nEl Nula\r\nAPU\r\n",
    "languageCode": "S",
    "schedule": "Sun 08:30 Thu 17:45",
    "phones": [ "04247279231" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -406,15 +433,15 @@
   "properties": {
    "orgName": "Central, El Piñal, Tác.",
    "orgType": "CONG",
-   "address": "Carrera 9, Calle 1\r\nUrb. Guadalupe\r\nEl Piñal\r\nTAC",
+   "address": "Carrera 9, Calle 1\nUrb. Guadalupe\nEl Piñal\nTAC",
    "transliteratedAddress": "Carrera 9, Calle 1\r\nUrb. Guadalupe\r\nEl Piñal\r\nTAC\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 16:00",
    "phones": [ "04127751924" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -430,14 +457,14 @@
   "properties": {
    "orgName": "La Victoria, Apu.",
    "orgType": "CONG",
-   "address": "Calle 4 Diagonal a La plaza Bolívar\r\nBarrio 5 de Julio\r\nLa Victoria\r\nAPU",
+   "address": "Calle 4 Diagonal a La plaza Bolívar\nBarrio 5 de Julio\nLa Victoria\nAPU",
    "languageCode": "S",
-   "schedule": "Sun 09:00 Thu 18:00",
+   "schedule": "Sat 18:00 Thu 18:00",
    "phones": [ "O4126583666" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -453,14 +480,14 @@
   "properties": {
    "orgName": "NUEVA VALENCIA - ARAUQUITA ARC",
    "orgType": "CONG",
-   "address": "Cl. 8 # 5-85/91\r\nBrr. Obrero\r\nARAUQUITA, ARAUCA",
+   "address": "Cl. 8 # 5-85/91\nBrr. Obrero\nARAUQUITA, ARAUCA",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 18:00",
    "phones": [ "+57&nbsp;3134630123" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -476,14 +503,14 @@
   "properties": {
    "orgName": "El Pabellón, Tác.",
    "orgType": "CONG",
-   "address": "Calle 3, Gamez\r\nSector Santa María, Km. 8\r\nEl Pabellón\r\nTAC",
+   "address": "Calle 3, Gamez\nSector Santa María, Km. 8\nEl Pabellón\nTAC",
    "languageCode": "S",
-   "schedule": "Sun 09:00 Fri 17:00",
+   "schedule": "Sun 09:00 Fri 18:00",
    "phones": [],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -499,15 +526,15 @@
   "properties": {
    "orgName": "El Milagro, Tác.",
    "orgType": "CONG",
-   "address": "Troncal 05, El Milagro, Sector Calle el Lago\r\nEl Milagro\r\nTAC",
+   "address": "Troncal 05, El Milagro, Sector Calle el Lago\nEl Milagro\nTAC",
    "transliteratedAddress": "7.553970 -71.696110\r\nEl Milagro\r\nTAC\r\n",
    "languageCode": "S",
    "schedule": "Sun 08:30 Fri 18:30",
    "phones": [ "04247433067" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -523,14 +550,14 @@
   "properties": {
    "orgName": "BERLÍN - INÍRIDA GNA",
    "orgType": "CONG",
-   "address": "Cl. 20 # 8-52 - Mz. G Ca. 5\r\nBrr. Berlín de Inírida\r\nINÍRIDA, GUAINÍA",
+   "address": "Cl. 20 # 8-52 - Mz. G Ca. 5\nBrr. Berlín de Inírida\nINÍRIDA, GUAINÍA",
    "languageCode": "S",
    "schedule": "Sat 17:00 Wed 18:30",
    "phones": [ "311 092 0541" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -546,14 +573,14 @@
   "properties": {
    "orgName": "LA PRIMAVERA CURRIPACO - INÍRIDA GNA",
    "orgType": "CONG",
-   "address": "Cl. 20 # 8-52 - Mz. G Ca. 5\r\nBrr. Berlín de Inírida\r\nINÍRIDA, GUAINÍA",
+   "address": "Cl. 20 # 8-52 - Mz. G Ca. 5\nBrr. Berlín de Inírida\nINÍRIDA, GUAINÍA",
    "languageCode": "CPC",
    "schedule": "Sun 08:30 Tue 18:00",
    "phones": [ "3125108762" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -569,14 +596,14 @@
   "properties": {
    "orgName": "VILLA LLANO - CRAVO NORTE ARC",
    "orgType": "CONG",
-   "address": "Cr. 5 # 6-58\r\nBrr. Villa Llano\r\nCRAVO NORTE, ARAUCA",
+   "address": "Cr. 5 # 6-58\nBrr. Villa Llano\nCRAVO NORTE, ARAUCA",
    "languageCode": "S",
    "schedule": "Sat 16:00 Wed 17:30",
    "phones": [ "3163131262" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -592,15 +619,15 @@
   "properties": {
    "orgName": "Abejales, Tác.",
    "orgType": "CONG",
-   "address": "Carrera 5, entre Calles 1 y 2,\r\nBarrio Bella Vista.\r\nAbejales\r\nTAC",
+   "address": "Carrera 5, entre Calles 1 y 2,\nBarrio Bella Vista.\nAbejales\nTAC",
    "transliteratedAddress": "Carrera 5, entre Calles 1 y 2,\r\nBarrio Bella Vista.\r\nAbejales\r\nTAC\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 18:00",
    "phones": [ "04168774124" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -616,15 +643,15 @@
   "properties": {
    "orgName": "El Cantón, Bar.",
    "orgType": "CONG",
-   "address": "El Cantón\r\nBAR",
+   "address": "El Cantón\nBAR",
    "transliteratedAddress": "Calle 2 con Carrera 2\r\nSanta Cruz de Guacas\r\nEl Cantón\r\nBAR\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 18:00",
    "phones": [ "04160755773" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -640,14 +667,14 @@
   "properties": {
    "orgName": "ORIENTE - ARAUCA ARC",
    "orgType": "CONG",
-   "address": "Cl. 13 # 12-37\r\nBrr. Meridiano 70\r\nARAUCA",
+   "address": "Cl. 13 # 12-37\nBrr. Meridiano 70\nARAUCA",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 18:30",
    "phones": [ "3146831660" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -663,14 +690,14 @@
   "properties": {
    "orgName": "OCCIDENTE - ARAUCA ARC",
    "orgType": "CONG",
-   "address": "Cl. 13 # 12-37\r\nBrr. Meridiano 70\r\nARAUCA",
+   "address": "Cl. 13 # 12-37\nBrr. Meridiano 70\nARAUCA",
    "languageCode": "S",
    "schedule": "Sat 16:00 Tue 18:30",
    "phones": [ "3184872871" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -686,14 +713,14 @@
   "properties": {
    "orgName": "CENTRAL - ARAUCA ARC",
    "orgType": "CONG",
-   "address": "Cl. 13 # 12-37\r\nBrr. Meridiano 70\r\nARAUCA",
+   "address": "Cl. 13 # 12-37\nBrr. Meridiano 70\nARAUCA",
    "languageCode": "S",
    "schedule": "Sat 18:30 Wed 18:30",
    "phones": [ "+57&nbsp;315 8085577" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -715,8 +742,8 @@
    "phones": [ "04267138126" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -732,15 +759,15 @@
   "properties": {
    "orgName": "El Amparo, Apu.",
    "orgType": "CONG",
-   "address": "Carretera Nacional El Amparo vía\r\nPuente Internacional, Sector Matapalo\r\nal lado de Silenciadores Vencol\r\nEl Amparo\r\nAPU",
+   "address": "Carretera Nacional El Amparo vía\nPuente Internacional, Sector Matapalo\nal lado de Silenciadores Vencol\nEl Amparo\nAPU",
    "transliteratedAddress": "Carretera Nacional El Amparo vía\r\nPuente Internacional, Sector Matapalo\r\nal lado de Silenciadores Vencol\r\nEl Amparo\r\nAPU\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 18:00",
    "phones": [ "04261774829" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -756,15 +783,15 @@
   "properties": {
    "orgName": "Central, Guasdualito, Apu.",
    "orgType": "CONG",
-   "address": "Calle Principal Barrio Las Carpas\r\na 100 mts. Del Liceo Fernando, Calzadilla\r\nGuasdualito\r\nAPU",
+   "address": "Calle Principal Barrio Las Carpas\na 100 mts. Del Liceo Fernando, Calzadilla\nGuasdualito\nAPU",
    "transliteratedAddress": "Calle Principal Barrio Las Carpas\r\na 100 mts. Del Liceo Fernando, Calzadilla\r\nGuasdualito\r\nAPU\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 17:00",
    "phones": [ "02783323586" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -780,15 +807,15 @@
   "properties": {
    "orgName": "Las Carpas, Guasdualito, Apu.",
    "orgType": "CONG",
-   "address": "Calle Principal Barrio Las Carpas\r\na 100 mts. Del Liceo Fernando, Calzadilla\r\nGuasdualito\r\nAPU",
+   "address": "Calle Principal Barrio Las Carpas\na 100 mts. Del Liceo Fernando, Calzadilla\nGuasdualito\nAPU",
    "transliteratedAddress": "Calle Principal Barrio Las Carpas\r\na 100 mts. Del Liceo Fernando, Calzadilla\r\nGuasdualito\r\nAPU\r\n",
    "languageCode": "S",
    "schedule": "Sat 17:30 Wed 17:30",
    "phones": [ "0426-4764857" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -804,15 +831,15 @@
   "properties": {
    "orgName": "Santa Bárbara de Barinas, Bar.",
    "orgType": "CONG",
-   "address": "Calle 13, entre Carrera 6 y 8,\r\ndetrás del Liceo, Carlos del Pozo y Sucre\r\nSanta Bárbara de Barinas\r\nBAR",
+   "address": "Calle 13, entre Carrera 6 y 8,\ndetrás del Liceo, Carlos del Pozo y Sucre\nSanta Bárbara de Barinas\nBAR",
    "transliteratedAddress": "Calle 13, entre Carrera 6 y 8,\r\ndetrás del Liceo, Carlos del Pozo y Sucre\r\nSanta Bárbara de Barinas\r\nBAR\r\n",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 18:00",
-   "phones": [ "04247809153" ],
+   "phones": [ "+58&nbsp;424-7351731 / +58 414-7548958" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -828,14 +855,14 @@
   "properties": {
    "orgName": "Isla Ratón, Ama.",
    "orgType": "CONG",
-   "address": "Comunidad El Carmen de Ratón\r\nEsquina polideportivo.\r\nIsla Ratón\r\nAMA",
+   "address": "Comunidad El Carmen de Ratón\nEsquina polideportivo.\nIsla Ratón\nAMA",
    "languageCode": "S",
    "schedule": "Sat 05:30 Wed 05:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -851,15 +878,15 @@
   "properties": {
    "orgName": "La Trinidad de Orichuna, Apu.",
    "orgType": "CONG",
-   "address": "3ra. Transversal c/c Carretera\r\nNacional, a una cuadra\r\nde la Plaza Bolívar\r\nLa Trinidad de Orichuna\r\nAPU",
+   "address": "3ra. Transversal c/c Carretera\nNacional, a una cuadra\nde la Plaza Bolívar\nLa Trinidad de Orichuna\nAPU",
    "transliteratedAddress": "3ra. Transversal c/c Carretera\r\nNacional, a una cuadra\r\nde la Plaza Bolívar\r\nLa Trinidad de Orichuna\r\nAPU\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 16:00",
    "phones": [ "04160408478" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -875,15 +902,15 @@
   "properties": {
    "orgName": "Elorza, Apu.",
    "orgType": "CONG",
-   "address": "Avenida 5, #21-24,\r\nCarrao de Palmarito, a 100 metros\r\nde Gallera La Trinitaria\r\nElorza\r\nAPU",
+   "address": "Avenida 5, #21-24,\nCarrao de Palmarito, a 100 metros\nde Gallera La Trinitaria\nElorza\nAPU",
    "transliteratedAddress": "Avenida 5, #21-24,\r\nCarrao de Palmarito, a 100 metros\r\nde Gallera La Trinitaria\r\nElorza\r\nAPU\r\n",
    "languageCode": "S",
-   "schedule": "Sun 08:30 Thu 17:00",
+   "schedule": "Sun 08:30 Thu 17:30",
    "phones": [ "0416-8752394" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -899,14 +926,14 @@
   "properties": {
    "orgName": "Los Lirios, Puerto Ayacucho, Ama.",
    "orgType": "CONG",
-   "address": "Barrio Upata vía a Minfra\r\nPuerto Ayacucho\r\nAMA",
+   "address": "Barrio Upata vía a Minfra\nPuerto Ayacucho\nAMA",
    "languageCode": "S",
    "schedule": "Sun 08:30 Wed 17:00",
    "phones": [ "0416-7373913" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -929,8 +956,8 @@
    "phones": [ "0416-540-7035" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -953,8 +980,8 @@
    "phones": [ "+584267415697" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -977,8 +1004,8 @@
    "phones": [ "0416-7185628" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1001,15 +1028,15 @@
    "phones": [ "04160352386" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "09A91BE4-CB91-46B5-A44E-A08701A0A7ED",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 5.66291,
    "longitude": -67.6148,
@@ -1025,8 +1052,8 @@
    "phones": [ "0416-7185628" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1042,14 +1069,14 @@
   "properties": {
    "orgName": "Los Caobos, Ama. - El Triángulo, Puerto Ayacucho, Ama.",
    "orgType": "GROUP",
-   "address": "Calle 4\r\nLos Caobos\r\nPuerto Ayacucho\r\nAMA",
+   "address": "Calle 4\nLos Caobos\nPuerto Ayacucho\nAMA",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 18:00",
    "phones": [],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1065,15 +1092,15 @@
   "properties": {
    "orgName": "Morichalito, Puerto Ayacucho, Ama.",
    "orgType": "CONG",
-   "address": "Calle Principal del Triángulo Guaicapuro\r\nSector calle Verde\r\nPuerto Ayacucho\r\nAMA",
+   "address": "Calle Principal del Triángulo Guaicapuro\nSector calle Verde\nPuerto Ayacucho\nAMA",
    "transliteratedAddress": "Calle Principal del Triángulo Guaicapuro\r\nSector calle Verde\r\nPuerto Ayacucho\r\nAMA\r\n",
    "languageCode": "S",
    "schedule": "Sun 08:30 Wed 18:30",
    "phones": [ "04263388844" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1089,7 +1116,7 @@
   "properties": {
    "orgName": "El Triángulo, Puerto Ayacucho, Ama.",
    "orgType": "CONG",
-   "address": "Calle Principal del Triángulo Guaicapuro\r\nSector calle Verde\r\nPuerto Ayacucho\r\nAMA",
+   "address": "Calle Principal del Triángulo Guaicapuro\nSector calle Verde\nPuerto Ayacucho\nAMA",
    "transliteratedAddress": "Calle Principal del Triángulo Guaicapuro\r\nSector calle Verde\r\nPuerto Ayacucho\r\nAMA\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 18:00",
@@ -1097,8 +1124,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1114,14 +1141,14 @@
   "properties": {
    "orgName": "Ojo de Agua, Ama. - Morichalito, Puerto Ayacucho, Ama.",
    "orgType": "GROUP",
-   "address": "Eje carretero Norte, en la vía principal\r\nantes de la planta de llenado de gas\r\nPuerto Ayacucho\r\nAMA",
+   "address": "Eje carretero Norte, en la vía principal\nantes de la planta de llenado de gas\nPuerto Ayacucho\nAMA",
    "languageCode": "S",
    "schedule": "Sun 09:00 Wed 18:30",
    "phones": [ "04263388844" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1137,14 +1164,14 @@
   "properties": {
    "orgName": "San Vicente, Apu. - Bruzual, Apu.",
    "orgType": "GROUP",
-   "address": "Sector Las Mercedes\r\nal lado de la cancha Yubiro Guerrero",
+   "address": "Sector Las Mercedes\nal lado de la cancha Yubiro Guerrero",
    "languageCode": "S",
    "schedule": "undefined null Fri 16:00",
    "phones": [],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1160,15 +1187,15 @@
   "properties": {
    "orgName": "Mantecal, Apu.",
    "orgType": "CONG",
-   "address": "Barrio El Mamón, Calle el Mamón c/c\r\nPalma.\r\nMantecal\r\nAPU",
+   "address": "Barrio El Mamón, Calle el Mamón c/c\nPalma.\nMantecal\nAPU",
    "transliteratedAddress": "Barrio El Mamón, Calle el Mamón c/c\r\nPalma.\r\nMantecal\r\nAPU\r\n",
    "languageCode": "S",
    "schedule": "Sat 17:00 Thu 18:15",
    "phones": [ "04243696045" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1184,14 +1211,14 @@
   "properties": {
    "orgName": "PUERTO CARREÑO - VCH",
    "orgType": "CONG",
-   "address": "Cl. 21 # 10-45\r\nBrr. Las Acacias\r\nPUERTO CARREÑO, VICHADA",
+   "address": "Cl. 21 # 10-45\nBrr. Las Acacias\nPUERTO CARREÑO, VICHADA",
    "languageCode": "S",
    "schedule": "Sat 18:30 Wed 18:30",
    "phones": [ "3138373621" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1207,14 +1234,14 @@
   "properties": {
    "orgName": "Puerto Páez, Apu.",
    "orgType": "CONG",
-   "address": "Primera calle\r\nentre la tercera y cuarta transversal S/N\r\nUrb. José Antonio Páez\r\nPuerto Páez\r\nAPU",
+   "address": "Primera calle\nentre la tercera y cuarta transversal S/N\nUrb. José Antonio Páez\nPuerto Páez\nAPU",
    "languageCode": "S",
    "schedule": "Sat 17:30 Thu 18:00",
    "phones": [],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1230,14 +1257,14 @@
   "properties": {
    "orgName": "Piaroa, Tierra Blanca, Bol. - Piaroa, Puerto Ayacucho, Ama.",
    "orgType": "GROUP",
-   "address": "Tierra Blanca\r\nAMA",
+   "address": "Tierra Blanca\nAMA",
    "languageCode": "PRA",
    "schedule": "Sun 09:00 Fri 16:30",
    "phones": [ "0416-7185628" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1253,14 +1280,14 @@
   "properties": {
    "orgName": "El Samán de Apure, Apu. - Achaguas, Apu.",
    "orgType": "GROUP",
-   "address": "Calle La Manga\r\nUrb. José Antonio Salazar\r\nEl Samán de Apure\r\nAPU",
+   "address": "Calle La Manga\nUrb. José Antonio Salazar\nEl Samán de Apure\nAPU",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 17:00",
    "phones": [ "0412-1136182" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1276,22 +1303,22 @@
   "properties": {
    "orgName": "Achaguas, Apu.",
    "orgType": "CONG",
-   "address": "Calle Principal,\r\nBarrio Zapaterito.\r\nAchaguas\r\nAPU",
+   "address": "Calle Principal,\nBarrio Zapaterito.\nAchaguas\nAPU",
    "transliteratedAddress": "Calle Principal,\r\nBarrio Zapaterito.\r\nAchaguas\r\nAPU\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 17:30",
    "phones": [ "0412-1136182" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "9B5B292B-2F7A-4F38-8F45-02A1DF3C0C59",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 6.584079,
    "longitude": -66.840078,
@@ -1300,7 +1327,7 @@
   "properties": {
    "orgName": "Los Pijiguaos, Bol.",
    "orgType": "CONG",
-   "address": "Calle Curripacos Esq. Callaito,\r\nentre Apure y Parguasa, Sector Morichalito\r\nLos Pijiguaos\r\nBOL",
+   "address": "Calle Curripacos Esq. Callaito,\nentre Apure y Parguasa, Sector Morichalito\nLos Pijiguaos\nBOL",
    "transliteratedAddress": "Calle Curripacos Esq. Callaito,\r\nentre Apure y Parguasa, Sector Morichalito\r\nLos Pijiguaos\r\nBOL\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:00 Wed 16:00",
@@ -1311,15 +1338,15 @@
    "phones": [ "04266412025" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "90BF7E6E-0668-412A-B7BA-1B02683F6B98",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 6.584079,
    "longitude": -66.840078,
@@ -1328,7 +1355,7 @@
   "properties": {
    "orgName": "Guahibo, Los Pijiguaos, Bol. - Los Pijiguaos, Bol.",
    "orgType": "GROUP",
-   "address": "Calle Curripacos Esq. Callaito,\r\nentre Apure y Parguasa, Sector Morichalito\r\nLos Pijiguaos\r\nBOL",
+   "address": "Calle Curripacos Esq. Callaito,\nentre Apure y Parguasa, Sector Morichalito\nLos Pijiguaos\nBOL",
    "transliteratedAddress": "Calle Curripacos Esq. Callaito,\r\nentre Apure y Parguasa, Sector Morichalito\r\nLos Pijiguaos\r\nBOL\r\n",
    "languageCode": "GHB",
    "schedule": "Sat 16:00 undefined null",
@@ -1336,8 +1363,8 @@
    "phones": [ "04266412025" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1353,14 +1380,14 @@
   "properties": {
    "orgName": "Cunaviche, Apu.",
    "orgType": "CONG",
-   "address": "Av. Sucre c/c Negro Primero\r\nCunaviche\r\nAPU",
+   "address": "Av. Sucre c/c Negro Primero\nCunaviche\nAPU",
    "languageCode": "S",
    "schedule": "Sun 08:45 Fri 16:00",
    "phones": [ "04264304516" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1376,15 +1403,15 @@
   "properties": {
    "orgName": "Payara, Apu.",
    "orgType": "CONG",
-   "address": "Calle Melquiades Caraballo c/c\r\nCalle Pablo Loggiodice\r\nPayara\r\nAPU",
+   "address": "Calle Melquiades Caraballo c/c\nCalle Pablo Loggiodice\nPayara\nAPU",
    "transliteratedAddress": "Calle Melquiades Caraballo c/c\r\nCalle Pablo Loggiodice\r\nPayara\r\nAPU\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:00 Tue 17:00",
    "phones": [ "0247-5590258" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1400,14 +1427,14 @@
   "properties": {
    "orgName": "La Macanilla, Apu.",
    "orgType": "CONG",
-   "address": "Calle principal\r\nCentro de La Macanilla\r\nLa Macanilla\r\nAPU",
+   "address": "Calle principal\nCentro de La Macanilla\nLa Macanilla\nAPU",
    "languageCode": "S",
    "schedule": "Sun 09:30 Thu 16:30",
    "phones": [ "04167153249" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1423,14 +1450,14 @@
   "properties": {
    "orgName": "Biruaquita, Apu. - Biruaca, Apu.",
    "orgType": "GROUP",
-   "address": "Carretera Biruaquita, Santa Elisa\r\na 300 metros del hotel las Nubes\r\nBiruaquita\r\nAPU",
+   "address": "Carretera Biruaquita, Santa Elisa\na 300 metros del hotel las Nubes\nBiruaquita\nAPU",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 09:00",
    "phones": [ "04163418956" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-05-29"
  },
@@ -1446,15 +1473,15 @@
   "properties": {
    "orgName": "Biruaca, Apu.",
    "orgType": "CONG",
-   "address": "2da. Calle, entre 6ta.\r\ny 7ma. Transversal.\r\nBiruaca\r\nAPU",
+   "address": "2da. Calle, entre 6ta.\ny 7ma. Transversal.\nBiruaca\nAPU",
    "transliteratedAddress": "2da. Calle, entre 6ta.\r\ny 7ma. Transversal.\r\nBiruaca\r\nAPU\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 17:30",
    "phones": [ "04163418956" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1470,15 +1497,15 @@
   "properties": {
    "orgName": "Polideportivo, San Fernando de Apure, Apu.",
    "orgType": "CONG",
-   "address": "Barrio Santa Teresa con Andrea Santa María\r\nMunicipio San Fernando de Apure\r\nSan Fernando de Apure\r\nAPU",
+   "address": "Barrio Santa Teresa con Andrea Santa María\nMunicipio San Fernando de Apure\nSan Fernando de Apure\nAPU",
    "transliteratedAddress": "Barrio Santa Teresa con Andrea Santa María\r\nMunicipio San Fernando de Apure\r\nSan Fernando de Apure\r\nAPU\r\n",
    "languageCode": "S",
    "schedule": "Sat 08:45 Thu 16:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1494,7 +1521,7 @@
   "properties": {
    "orgName": "Los Cedros, San Fernando de Apure, Apu.",
    "orgType": "CONG",
-   "address": "Barrio Santa Teresa con Andrea Santa María\r\nMunicipio San Fernando de Apure\r\nSan Fernando de Apure\r\nAPU",
+   "address": "Barrio Santa Teresa con Andrea Santa María\nMunicipio San Fernando de Apure\nSan Fernando de Apure\nAPU",
    "transliteratedAddress": "Barrio Santa Teresa con Andrea Santa María\r\nMunicipio San Fernando de Apure\r\nSan Fernando de Apure\r\nAPU\r\n",
    "languageCode": "S",
    "schedule": "Sun 08:45 Wed 17:00",
@@ -1502,8 +1529,8 @@
    "phones": [ "04261492168" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1519,7 +1546,7 @@
   "properties": {
    "orgName": "LS, San Fernando de Apure, Apu. - Los Cedros, San Fernando de Apure, Apu.",
    "orgType": "GROUP",
-   "address": "Barrio Santa Teresa con Andrea Santa María\r\nMunicipio San Fernando de Apure\r\nSan Fernando de Apure\r\nAPU",
+   "address": "Barrio Santa Teresa con Andrea Santa María\nMunicipio San Fernando de Apure\nSan Fernando de Apure\nAPU",
    "transliteratedAddress": "Barrio Santa Teresa con Andrea Santa María\r\nMunicipio San Fernando de Apure\r\nSan Fernando de Apure\r\nAPU\r\n",
    "languageCode": "LSV",
    "schedule": "Sun 08:45 Wed 17:00",
@@ -1527,8 +1554,8 @@
    "phones": [ "04261492168" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1544,15 +1571,41 @@
   "properties": {
    "orgName": "El Recreo, Apu.",
    "orgType": "CONG",
-   "address": "Calle Indio Figueredo, Sector 2\r\nEl Recreo\r\nSan Fernando de Apure\r\nAPU",
+   "address": "Calle Indio Figueredo, Sector 2\nEl Recreo\nSan Fernando de Apure\nAPU",
    "transliteratedAddress": "Calle Indio Figueredo, Sector 2\r\nEl Recreo\r\nSan Fernando de Apure\r\nAPU\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 18:00",
    "phones": [ "04127603936" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-03"
+ },
+ {
+  "geoId": "45E1F221-DBDD-4530-B04D-9A4117C6A272",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 7.903456,
+   "longitude": -67.471223,
+   "iso": "VEN"
+  },
+  "properties": {
+   "orgName": "Puerto Miranda, Apu. - Polideportivo, San Fernando de Apure, Apu.",
+   "orgType": "GROUP",
+   "address": "Calle Juan Salerno Melo, Casa #58\nSector Casco Histórico\nPuerto Miranda\nAPU",
+   "languageCode": "S",
+   "schedule": "Sat 08:45 Thu 16:30",
+   "phones": [
+    "0424-365.4404",
+    "0424-309.6765"
+   ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1568,14 +1621,14 @@
   "properties": {
    "orgName": "Cabruta, Guá.",
    "orgType": "CONG",
-   "address": "Calle Principal C/C Calle La Estrella\r\nSector Zaraza\r\nCabruta\r\nGUA",
+   "address": "Calle Principal C/C Calle La Estrella\nSector Zaraza\nCabruta\nGUA",
    "languageCode": "S",
-   "schedule": "Sun 08:45 Fri 17:00",
+   "schedule": "Sun 08:45 Fri 08:45",
    "phones": [ "0416-1491692" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1589,17 +1642,17 @@
    "iso": "VEN"
   },
   "properties": {
-   "orgName": "Central, Caicara del Orinoco, Bol.",
+   "orgName": "Teja Dos, Caicara del Orinoco, Bol.",
    "orgType": "CONG",
-   "address": "Calle Enrique Julia García\r\nSector La Morrocoya Teja II\r\nCaicara del Orinoco\r\nBOL",
+   "address": "Calle Enrique Julia García\nSector La Morrocoya Teja II\nCaicara del Orinoco\nBOL",
    "transliteratedAddress": "Calle Enrique Julia García\r\nSector La Morrocoya Teja II\r\nCaicara del Orinoco\r\nBOL\r\n",
    "languageCode": "S",
    "schedule": "Sat 17:00 Thu 17:00",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1615,7 +1668,7 @@
   "properties": {
    "orgName": "Sur, Caicara del Orinoco, Bol.",
    "orgType": "CONG",
-   "address": "Calle Enrique Julia García\r\nSector La Morrocoya Teja II\r\nCaicara del Orinoco\r\nBOL",
+   "address": "Calle Enrique Julia García\nSector La Morrocoya Teja II\nCaicara del Orinoco\nBOL",
    "transliteratedAddress": "Calle Enrique Julia García\r\nSector La Morrocoya Teja II\r\nCaicara del Orinoco\r\nBOL\r\n",
    "languageCode": "S",
    "schedule": "Sat 08:00 Thu 08:00",
@@ -1623,8 +1676,8 @@
    "phones": [ "04160597753" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1640,15 +1693,15 @@
   "properties": {
    "orgName": "Maripa, Bol.",
    "orgType": "CONG",
-   "address": "Calle Manuel Piar, s/n\r\nFrente al Liceo\r\nMaripa\r\nBOL",
+   "address": "Calle Manuel Piar, s/n\nFrente al Liceo\nMaripa\nBOL",
    "transliteratedAddress": "Calle Manuel Piar, s/n\r\nFrente al Liceo\r\nMaripa\r\nBOL\r\n",
    "languageCode": "S",
-   "schedule": "Sun 09:00 Thu 18:00",
+   "schedule": "Sun 17:00 Thu 18:00",
    "phones": [ "04161890808" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1657,12 +1710,36 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
+   "latitude": 7.445898,
+   "longitude": -64.800681,
+   "iso": "VEN"
+  },
+  "properties": {
+   "orgName": "El Guarataro, Bol.",
+   "orgType": "CONG",
+   "address": "Calle José María Vargas, #21\nBarrio Campo Alegre\nEl Guarataro\nBOL",
+   "transliteratedAddress": "Calle José María Vargas, #21\r\nBarrio Campo Alegre\r\nEl Guarataro\r\nBOL\r\n",
+   "languageCode": "S",
+   "schedule": "Sun 08:00 Fri 17:00",
+   "phones": [ "04163649653" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-03"
+ },
+ {
+  "geoId": "C923F66E-EF3C-49BE-B96B-E6BF8D779BE2(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
    "latitude": 7.46486,
    "longitude": -64.7847,
    "iso": "VEN"
   },
   "properties": {
-   "orgName": "El Guarataro, Bol.",
+   "orgName": "(Moved) El Guarataro, Bol.",
    "orgType": "CONG",
    "address": "Calle José María Vargas, #21\r\nBarrio Campo Alegre\r\nEl Guarataro\r\nBOL",
    "transliteratedAddress": "Calle José María Vargas, #21\r\nBarrio Campo Alegre\r\nEl Guarataro\r\nBOL\r\n",
@@ -1673,8 +1750,9 @@
   },
   "lastVisit": "2023-08-16",
   "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-03"
+  "active": 0,
+  "firstSeen": "2022-12-03",
+  "moved": "Calle José María Vargas, #21\nBarrio Campo Alegre\nEl Guarataro\nBOL"
  },
  {
   "geoId": "B247C7E4-9596-43E9-8278-2139B6CE6B52",
@@ -1688,20 +1766,20 @@
   "properties": {
    "orgName": "Mapire, Anz.",
    "orgType": "CONG",
-   "address": "Calle Fuenmayor, Sector El Estadio\r\nBarrio José Antonio Anzoátegui\r\nMapire\r\nANZ",
+   "address": "Calle Fuenmayor, Sector El Estadio\nBarrio José Antonio Anzoátegui\nMapire\nANZ",
    "transliteratedAddress": "Calle Fuenmayor, Sector El Estadio\r\nBarrio José Antonio Anzoátegui\r\nMapire\r\nANZ\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 16:30",
    "phones": [ "04163231140" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
-  "geoId": "45E1F221-DBDD-4530-B04D-9A4117C6A272",
+  "geoId": "45E1F221-DBDD-4530-B04D-9A4117C6A272(Moved)",
   "type": "weekly",
   "isPrimary": 1,
   "location": {
@@ -1710,7 +1788,7 @@
    "iso": "VEN"
   },
   "properties": {
-   "orgName": "Puerto Miranda, Apu. - Polideportivo, San Fernando de Apure, Apu.",
+   "orgName": "(Moved) Puerto Miranda, Apu. - Polideportivo, San Fernando de Apure, Apu.",
    "orgType": "GROUP",
    "address": "Calle Juan Salerno Melo, Casa #58\r\nSector Casco Histórico\r\nPuerto Miranda\r\nAPU",
    "languageCode": "S",
@@ -1720,8 +1798,9 @@
   },
   "lastVisit": "2023-08-16",
   "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-03"
+  "active": 0,
+  "firstSeen": "2022-12-03",
+  "moved": "Calle Juan Salerno Melo, Casa #58\nSector Casco Histórico\nPuerto Miranda\nAPU"
  },
  {
   "geoId": "B38657A6-6EE1-4868-925B-2AD8029392C9",
@@ -1735,15 +1814,15 @@
   "properties": {
    "orgName": "Peramanal, Bol.",
    "orgType": "CONG",
-   "address": "Calle Principal, Km 898; #7\r\nTroncal 19.\r\nPeramanal\r\nBOL",
+   "address": "Calle Principal, Km 898; #7\nTroncal 19.\nPeramanal\nBOL",
    "transliteratedAddress": "Calle Principal, Km 898; #7\r\nTroncal 19.\r\nPeramanal\r\nBOL\r\n",
    "languageCode": "S",
    "schedule": "Sun 09:00 Fri 16:00",
    "phones": [ "04160981251" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  }

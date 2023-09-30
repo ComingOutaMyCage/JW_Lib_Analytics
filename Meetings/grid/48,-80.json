@@ -11,14 +11,14 @@
   "properties": {
    "orgName": "Rouyn, Rouyn-Noranda, QC",
    "orgType": "CONG",
-   "address": "120 chemin du Docteur-Lemay\r\nRouyn-Noranda QC  J9X 5T2",
+   "address": "120 chemin du Docteur-Lemay\nRouyn-Noranda QC  J9X 5T2",
    "languageCode": "F",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(873) 379-3270" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -34,14 +34,14 @@
   "properties": {
    "orgName": "La Sarre, QC",
    "orgType": "CONG",
-   "address": "31 avenue Langlois\r\nLa Sarre QC  J9Z 3K2",
+   "address": "31 avenue Langlois\nLa Sarre QC  J9Z 3K2",
    "languageCode": "F",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "(873) 380-3102" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -57,14 +57,14 @@
   "properties": {
    "orgName": "Malartic, QC",
    "orgType": "CONG",
-   "address": "861 rue des Pins\r\nMalartic QC  J0Y 1Z0",
+   "address": "861 rue des Pins\nMalartic QC  J0Y 1Z0",
    "languageCode": "F",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "873-410-0319" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -80,14 +80,14 @@
   "properties": {
    "orgName": "Val-d’Or, QC",
    "orgType": "CONG",
-   "address": "200 avenue Lasalle\r\nVal-d’Or QC  J9P 2A5",
+   "address": "200 avenue Lasalle\nVal-d’Or QC  J9P 2A5",
    "languageCode": "F",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(819) 975-5225" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -103,14 +103,14 @@
   "properties": {
    "orgName": "Amos, QC",
    "orgType": "CONG",
-   "address": "541 8e Avenue O\r\nAmos QC  J9T 4G9",
+   "address": "541 8e Avenue O\nAmos QC  J9T 4G9",
    "languageCode": "F",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(873) 728-0747" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -126,43 +126,19 @@
   "properties": {
    "orgName": "Senneterre, QC",
    "orgType": "CONG",
-   "address": "175 route 113 S\r\nSenneterre QC  J0Y 2M0",
+   "address": "175 route 113 S\nSenneterre QC  J0Y 2M0",
    "languageCode": "F",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(819) 975-6079" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3BC55A3A-AD62-4C69-99C7-1A3F5202E479",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 49.926137,
-   "longitude": -74.361334,
-   "iso": "CAN"
-  },
-  "properties": {
-   "orgName": "Chibougamau, QC",
-   "orgType": "CONG",
-   "address": "465 chemin Merrill\r\nChibougamau QC  G8P 0A6",
-   "languageCode": "F",
-   "schedule": "Sun 10:00 Thu 19:00",
-   "relatedLanguageCodes": [ "E" ],
-   "phones": [ "581-876-5432" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "19826C7D-34CC-46CE-84EC-51F182B5C9C1",
   "type": "weekly",
   "isPrimary": 0,
   "location": {
@@ -171,17 +147,41 @@
    "iso": "CAN"
   },
   "properties": {
+   "orgName": "Chibougamau, QC",
+   "orgType": "CONG",
+   "address": "465 chemin Merrill\nChibougamau QC  G8P 0A6",
+   "languageCode": "F",
+   "schedule": "Sun 10:00 Thu 19:00",
+   "relatedLanguageCodes": [ "E" ],
+   "phones": [ "581-876-5432" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "19826C7D-34CC-46CE-84EC-51F182B5C9C1",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 49.926137,
+   "longitude": -74.361334,
+   "iso": "CAN"
+  },
+  "properties": {
    "orgName": "Chibougamau-English - Chibougamau, QC",
    "orgType": "GROUP",
-   "address": "465 chemin Merrill\r\nChibougamau QC  G8P 0A6",
+   "address": "465 chemin Merrill\nChibougamau QC  G8P 0A6",
    "languageCode": "E",
-   "schedule": "Sun 10:00 undefined null",
+   "schedule": "Sun 13:00 Thu 19:00",
    "relatedLanguageCodes": [ "F" ],
    "phones": [ "581-876-5432" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -197,14 +197,14 @@
   "properties": {
    "orgName": "Roberval, QC",
    "orgType": "CONG",
-   "address": "570 boulevard Sacré-Coeur\r\nSaint-Félicien QC  G8K 2P6",
+   "address": "570 boulevard Sacré-Coeur\nSaint-Félicien QC  G8K 2P6",
    "languageCode": "F",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(438) 788-2769" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -220,14 +220,14 @@
   "properties": {
    "orgName": "Dolbeau, Dolbeau-Mistassini, QC",
    "orgType": "CONG",
-   "address": "350 boulevard Vézina\r\nDolbeau-Mistassini QC  G8L 3M2",
+   "address": "350 boulevard Vézina\nDolbeau-Mistassini QC  G8L 3M2",
    "languageCode": "F",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(581) 848-0283" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

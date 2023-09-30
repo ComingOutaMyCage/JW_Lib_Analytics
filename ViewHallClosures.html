@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>JW Lib Analytics - Congregation Change History</title>
+  <meta property='og:title' content='JW Lib Analytics - Top Words List'/>
+  <meta property='og:image' content='https://comingoutamycage.github.io/JW_Lib_Analytics/examples/SiteExample.png'/>
+  <meta property='og:description' content='Examine the scriptures and their usage within JW publications from 1950-2022'/>
+  <meta property='og:url' content='https://comingoutamycage.github.io/JW_Lib_Analytics'/>
+  <meta property='og:image:width' content='1215' />
+  <meta property='og:image:height' content='1148' />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <script src="js/pace.min.js"></script>
+  <link rel="stylesheet" href="js/pace.css">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+
+  <link href="style.css" rel="stylesheet" />
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="js/functions.js"></script>
+  <script src="node_modules/jquery-throttle-debounce/jquery.ba-throttle-debounce.min.js"></script>
+  <style>
+    .custom-clustericon.has-deleted {
+      outline:2px solid rgba(255, 0, 0, 0.85);
+      min-width: 30px;
+      min-height: 30px;
+    }
+    .custom-clustericon {
+      background: var(--cluster-color);
+      color: #fff;
+      border-radius: 100%;
+      font-weight: bold;
+      font-size: 15px;
+      display: flex;
+      align-items: center;
+    }
+
+    .custom-clustericon::before {
+      content: "";
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+
+      transform: translate(-50%, -50%);
+      top: 50%;
+      left: 50%;
+      background: var(--cluster-color);
+      opacity: 0.2;
+      border-radius: 100%;
+    }
+
+    .custom-clustericon::before {
+      padding: 7px;
+    }
+
+    .custom-clustericon-1 {
+      --cluster-color: rgba(0, 155, 211, 0.8);
+    }
+
+    .custom-clustericon-2 {
+      --cluster-color: rgba(255, 145, 0, 0.8);
+    }
+
+    .custom-clustericon-3 {
+      --cluster-color: rgba(213, 21, 21, 0.8);
+    }
+    a {
+      cursor: pointer;
+    }
+    .collapse, .collapsing {
+      background-color: rgb(193 193 193 / 44%);
+    }
+    .collapse > div, .collapsing > div {
+      padding:10px;
+    }
+    .collapse ul {
+      margin-bottom: 0;
+    }
+    .meetinglist {
+      background-color: white;
+      border-radius: 0.5rem;
+    }
+    #history a {
+      text-decoration: none;
+    }
+    a.date {
+      font-size: 18px;
+    }
+    a.date:before {
+      content: "▶ ";
+      float: left;
+      transition: all 0.1s;
+      color: dimgray;
+    }
+    a.date[aria-expanded=true]:before {
+      -webkit-transform: rotate(90deg);
+      -moz-transform: rotate(90deg);
+      transform: rotate(90deg);
+    }
+  </style>
+</head>
+<body>
+<script>InsertNav();</script>
+<script async src="//static.getclicky.com/101371960.js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101371960ns.gif" /></p></noscript>
+
+
+<a class="h3" href="/ViewMap.html">&lt; Back to Map</a><br/>
+<br/>
+<form class="mb-2">
+  <input type="radio" class="methodRadio" id="radCountry" value="country" name="method" />
+  <label for="radCountry" class="h6">By Country</label>
+
+  <input type="radio" class="methodRadio" id="radLastSeen" value="lastseen" name="method" checked="checked" />
+  <label for="radLastSeen" class="h6">By Last Seen</label>
+</form>
+<div id="history"><h1>Loading data...</h1></div>
+
+<script>
+  $(document).on('change', '.methodRadio', function(){
+    generator.generatePage();
+  });
+
+  class MeetingChangeGenerator {
+
+    constructor() {
+      this.meetings = [];
+      this.init_data = [];
+      this.country_codes = [];
+      let generator = this;
+      $.getJSON('./Meetings/init_data.json', (data) => {
+        generator.init_data = data;
+        generator.loadMeetings();
+      });
+    }
+
+    async loadMeetings() {
+      let generator = this;
+      await $.getJSON('./Meetings/CountryCodes.json', (data) => {
+        generator.country_codes = data;
+      });
+      $.getJSON('./Meetings/grid/orphans.json', (meetings) => {
+        generator.gotMeetings(meetings);
+      });
+    }
+
+    gotMeetings(meetings) {
+      this.meetings = meetings;
+      this.generatePage();
+    }
+
+    generatePage() {
+      let pageContent;
+      let byCountry = $("#radCountry").is(':checked');
+      if(byCountry){
+        pageContent = this.generateCountryGroupContents("", this.meetings);
+        $("#history").html(`<b>By Country</b>`);
+      }else {
+        let meetingsByDateSeen = this.groupMeetingsByDate(this.meetings);
+        pageContent = this.generatePageContent(meetingsByDateSeen);
+        $("#history").html(`<b>Last Seen Date</b>`);
+      }
+      $("#history").append(pageContent);
+    }
+
+    formatDate(inputDate) {
+      // Array of month names for mapping
+      const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+      // Parse the input date
+      const date = new Date(inputDate);
+
+      // Extract the year and month
+      const year = date.getFullYear();
+      const month = date.getMonth();
+      const monthName = months[month];
+
+      // Return the formatted string
+      return `${year}-${monthName}`;
+    }
+
+    groupMeetingsByDate(meetings) {
+      let sorted = {};
+
+      meetings.sort((a, b) => {
+        if (a.lastSeen < b.lastSeen) return 1;
+        if (a.lastSeen > b.lastSeen) return -1;
+        return 0;
+      });
+
+      // group meetings by date
+      meetings.forEach(meeting => {
+        let lastSeen = meeting.lastSeen;
+        let date = this.formatDate(lastSeen);
+        if(lastSeen < "2022-12-02") {
+          date = " Earlier";
+          lastSeen = "2022-12-01-Earlier";
+        }
+        meeting.lastSeen = date;
+        if (!sorted[date]) {
+          sorted[date] = [];
+        }
+        sorted[date].push(meeting);
+      });
+
+      // sort dates
+      return sorted;/*Object.keys(sorted)
+              .sort()
+              .reverse()
+              .reduce((obj, key) => {
+                obj[key] = sorted[key];
+                return obj;
+              }, {});*/
+    }
+
+    generatePageContent(meetingsByDateSeen) {
+      let pageContent = "";
+      for (let date in meetingsByDateSeen) {
+        let dateContent = this.generateDateContent(date, meetingsByDateSeen[date]);
+        pageContent += dateContent;
+      }
+      return pageContent;
+    }
+
+    generateDateContent(date, dateGroup) {
+
+      const countryContent = this.generateCountryGroupContents(date, dateGroup);
+
+      // wrap ISO content in date container
+      return `
+    <div class="">
+        <div class="" id="heading-${date}">
+            <b class="mb-0">
+                <a class="date" data-bs-toggle="collapse" data-bs-target="#accordion-${date}" aria-expanded="false" aria-controls="accordion-${date}">
+                ${date} (${dateGroup.length})
+                </a>
+            </b>
+        </div>
+        <div id="accordion-${date}" class="collapse">
+            <div>
+                <b>Countries</b>
+                ${countryContent}
+            </div>
+        </div>
+    </div>
+    `;
+    }
+    generateCountryGroupContents(date, dateGroup){
+      // generate ISO groups
+      let countryGroups = this.groupByCountryCode(dateGroup);
+      countryGroups = this.sortByCountryKey(countryGroups);
+
+      // generate content for each ISO group
+      let countryContent = "";
+      for (let iso in countryGroups) {
+        let countryGroup = countryGroups[iso];
+        let countryGroupContent = this.generateCountryGroupContent(date, iso, countryGroup);
+        countryContent += countryGroupContent;
+      }
+      return countryContent;
+    }
+
+    getLatBucket(latitude) {
+      return Math.floor(latitude * (111/100));
+    }
+
+    getLonBucket(longitude, latitude) {
+      return Math.floor(longitude * (111/100) * Math.cos(latitude * Math.PI / 180));
+    }
+    sortByLocation(items) {
+      return items.sort((a, b) => {
+
+        const lonBucketA = this.getLonBucket(a.location.longitude, a.location.latitude);
+        const lonBucketB = this.getLonBucket(b.location.longitude, b.location.latitude);
+
+        if (lonBucketA !== lonBucketB) {
+          return lonBucketA - lonBucketB;
+        }
+
+        const latBucketA = this.getLatBucket(a.location.latitude);
+        const latBucketB = this.getLatBucket(b.location.latitude);
+
+        return latBucketA - latBucketB;
+      });
+    }
+
+    generateCountryGroupContent(date, iso, countryGroup) {
+
+      //sort by meeting.location.latitude and meeting.location.longitude
+      countryGroup = this.sortByLocation(countryGroup);
+
+      // group by language
+      let addressGroups = this.groupByAddress(countryGroup);
+
+      // generate content for each language group
+      let languageContent = "";
+      for (let address in addressGroups) {
+        let addressGroup = addressGroups[address];
+        let addressGroupContent = this.generateAddressGroupContent(date, iso, address, addressGroup);
+        languageContent += addressGroupContent;
+      }
+
+      let country = this.getCountryFromIso(iso);
+
+      // wrap language content in ISO container
+      return `
+      <div class="">
+        <div class="" id="heading-${date}-${iso}">
+          <b class="mb-0">
+            <a class="country" data-bs-toggle="collapse" data-bs-target="#countryGroup-${date}-${iso}" aria-expanded="false" aria-controls="countryGroup-${date}-${iso}">
+              ${country} (${countryGroup.length})
+            </a>
+          </b>
+        </div>
+        <div id="countryGroup-${date}-${iso}" class="collapse" aria-labelledby="heading-${date}-${iso}" data-bs-parent="#accordion-${date}">
+            <div>
+                <b>Languages</b>
+                ${languageContent}
+            </div>
+        </div>
+      </div>
+    `;
+    }
+
+    getCountryFromIso(iso){
+      return this.country_codes[iso] || iso;
+    }
+    sortByCountryKey(countryGroups) {
+      // Extract keys and sort by country name
+      const sortedKeys = Object.keys(countryGroups).sort((a, b) => {
+        const countryA = this.getCountryFromIso(a);
+        const countryB = this.getCountryFromIso(b);
+        return countryA.localeCompare(countryB);
+      });
+      // Reconstruct the sorted object using reduce
+      return sortedKeys.reduce((acc, key) => {
+        acc[key] = countryGroups[key];
+        return acc;
+      }, {});
+    }
+
+    generateAddressGroupContent(date, iso, address, addressGroup) {
+      // sort meetings
+      let meetingsByDateSeen = addressGroup.sort(this.sortMeetings);
+
+      // generate meeting list
+      let meetingList = "";
+      meetingsByDateSeen.forEach(meeting => {
+        meetingList += `<li>${meeting.properties.orgName} - ${meeting.properties.orgType}</li>`;
+      });
+
+      let addressCode = address.replace(/[^a-zA-Z0-9]/g, '');
+
+      // wrap meeting list in language container
+      return `
+      <div class="language">
+        <div class="" id="heading-${date}-${iso}-${addressCode}">
+          <b class="mb-0">
+            <a class="language" data-bs-toggle="collapse" data-bs-target="#collapse-${date}-${iso}-${addressCode}" aria-expanded="false" aria-controls="collapse-${date}-${iso}-${addressCode}">
+              ${address} (${addressGroup.length})
+            </a>
+          </b>
+        </div>
+        <div id="collapse-${date}-${iso}-${addressCode}" class="collapse meetinglist" aria-labelledby="heading-${date}-${iso}-${addressCode}" data-bs-parent="#countryGroup-${date}-${iso}">
+            <ul>${meetingList}</ul>
+        </div>
+      </div>
+    `;
+    }
+
+    groupByCountryCode(meetings) {
+      let groups = {};
+      meetings.forEach(meeting => {
+        if (!groups[meeting.location.iso]) {
+          groups[meeting.location.iso] = [];
+        }
+        groups[meeting.location.iso].push(meeting);
+      });
+      return groups;
+    }
+
+    groupByLanguage(meetings) {
+      let groups = {};
+      meetings.forEach(meeting => {
+        if (!groups[meeting.properties.languageCode]) {
+          groups[meeting.properties.languageCode] = [];
+        }
+        groups[meeting.properties.languageCode].push(meeting);
+      });
+      return groups;
+    }
+
+    groupByAddress(meetings) {
+      let groups = {};
+      meetings.forEach(meeting => {
+        if (!groups[meeting.properties.address]) {
+          groups[meeting.properties.address] = [];
+        }
+        groups[meeting.properties.address].push(meeting);
+      });
+      return groups;
+    }
+
+    sortMeetings(a, b) {
+      if (a.properties.languageCode < b.properties.languageCode) return -1;
+      if (a.properties.languageCode > b.properties.languageCode) return 1;
+
+      // if (a.properties.orgType < b.properties.orgType) return -1;
+      // if (a.properties.orgType > b.properties.orgType) return 1;
+
+      if (a.properties.orgName < b.properties.orgName) return -1;
+      if (a.properties.orgName > b.properties.orgName) return 1;
+
+      return 0;
+    }
+
+  }
+
+  var generator = new MeetingChangeGenerator();
+
+</script>

@@ -85,8 +85,10 @@
 <!--<script src="node_modules/bootstrap-select/dist/js/bootstrap-select.min.js"></script>-->
 
 <a class="h3" href="/ViewCongChanges.html">&gt; View List Of Deletions</a><br/><br/>
+<a class="h3" href="/ViewHallClosures.html">&gt; View List Of Hall Closures</a><br/><br/>
 
 <div style="overflow: hidden;">
+    <small><b>Normal:</b> Zoom into the map, and locations will load. Red outlined markers contain deleted.<br/><b>Abandoned Locations</b> are Unique GPS Coordinates that have once hosted a congregation, but no longer do, at that location. (Rounded to nearest 50m)</small>
     <div style="display: flex; gap: 0.3rem; flex-flow: wrap;">
         <div id="stats" style="display: flex; align-items: center; gap: 1rem; flex: 1; flex-flow: wrap; min-width: 300px">
             <h3 style="background: darkgreen; border-radius: 0.2rem; padding:0.2rem; color: white;">Active <span id="total">...</span></h3>
@@ -137,10 +139,10 @@
             $("#total").text(init_data.totalActive);
             $("#totalDeleted").text(init_data.totalInactive);
             $("#totalOrphans").text(init_data.totalOrphans);
-            $("#stats").append(`
-<h3>Congregations: ${init_data.typeTotals.CONG}</h3>
-<h3>Groups: ${init_data.typeTotals.GROUP}</h3>
-<h3>Pregroups: ${init_data.typeTotals.PREGROUP}</h3>
+            $("#stats").append(`<h4>TOTAL RECORDS:</h4>
+<h4>Congs: ${init_data.typeTotals.CONG}</h3>
+<h4>Groups: ${init_data.typeTotals.GROUP}</h3>
+<h4>Pregroups: ${init_data.typeTotals.PREGROUP}</h3>
 `);
             let cmbLang = $("#languages")[0];
             for (let [langCode, value] of Object.entries(init_data.languages)){
@@ -477,13 +479,15 @@
         let style = meeting.active ? "" : "color:red;";
         let lang = langToName(properties.languageCode);
         if(properties.relatedLanguageCodes) lang += " + " + langsToNames(properties.relatedLanguageCodes);
+        let moved = !meeting.moved ? "" : `<b>Moved To:</b> ${meeting.moved}<br/>`;
         let html = `
 <div style="text-align: left; ${style}">
     ${properties.orgType}<br/>
     <b>${properties.orgName}</b>${state}<br/>
     <b>Language:</b> ${lang}<br/>
-    <b>Schedule:</b> ${properties.schedule}<br/>
+    <b>Schedule:</b> ${properties.schedule || 'Unknown'}<br/>
     <b>Address:</b> ${properties.address}<br/>
+    ${moved}
 </div>`;
         return html;
     }

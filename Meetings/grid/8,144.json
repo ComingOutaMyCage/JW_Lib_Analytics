@@ -11,14 +11,14 @@
   "properties": {
    "orgName": "South Guam Congregation",
    "orgType": "CONG",
-   "address": "103 E SANTA ANA ROAD\r\nAGAT GU 96915",
+   "address": "103 E SANTA ANA ROAD\nAGAT GU 96915",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
-   "phones": [],
+   "phones": [ "671-828-4403" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -34,15 +34,15 @@
   "properties": {
    "orgName": "North Guam Congregation",
    "orgType": "CONG",
-   "address": "143 JEHOVAH STREET\r\nBARRIGADA GU 96913",
+   "address": "143 JEHOVAH STREET\nBARRIGADA GU 96913",
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:00",
    "relatedLanguageCodes": [ "J" ],
    "phones": [ "(671) 488-6426" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -58,15 +58,15 @@
   "properties": {
    "orgName": "Central Congregation",
    "orgType": "CONG",
-   "address": "143 JEHOVAH STREET\r\nBARRIGADA GU 96913",
+   "address": "143 JEHOVAH STREET\nBARRIGADA GU 96913",
    "languageCode": "E",
    "schedule": "Sun 16:00 Wed 19:00",
    "relatedLanguageCodes": [ "CHM" ],
    "phones": [ "671-727-6804" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -82,15 +82,15 @@
   "properties": {
    "orgName": "Machanao Congregation",
    "orgType": "CONG",
-   "address": "143 JEHOVAH STREET\r\nBARRIGADA GU 96913",
+   "address": "143 JEHOVAH STREET\nBARRIGADA GU 96913",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "relatedLanguageCodes": [ "ASL" ],
    "phones": [ "(671) 487-1831" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -106,21 +106,21 @@
   "properties": {
    "orgName": "North Tagalog Congregation",
    "orgType": "CONG",
-   "address": "143 JEHOVAH STREET\r\nBARRIGADA GU 96913",
+   "address": "143 JEHOVAH STREET\nBARRIGADA GU 96913",
    "languageCode": "TG",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "+1(671)787-8117/+1(671)788-0266" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6BA52FAA-DE83-40C4-8242-EAEC499A3BB6",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 13.487114,
    "longitude": 144.818564,
@@ -129,14 +129,14 @@
   "properties": {
    "orgName": "Barrigada Congregation",
    "orgType": "CONG",
-   "address": "143 JEHOVAH STREET\r\nBARRIGADA GU 96913",
+   "address": "143 JEHOVAH STREET\nBARRIGADA GU 96913",
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:00",
    "phones": [ "(671) 747-4026, (671) 687-8735" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -152,14 +152,14 @@
   "properties": {
    "orgName": "Iloko Congregation",
    "orgType": "CONG",
-   "address": "143 JEHOVAH STREET\r\nBARRIGADA GU 96913",
+   "address": "143 JEHOVAH STREET\nBARRIGADA GU 96913",
    "languageCode": "IL",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "+1(671) 727-6013; +1(671) 488-4533" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -175,15 +175,15 @@
   "properties": {
    "orgName": "Guam Chinese - Central Congregation",
    "orgType": "GROUP",
-   "address": "143 JEHOVAH STREET\r\nBARRIGADA GU 96913",
+   "address": "143 JEHOVAH STREET\nBARRIGADA GU 96913",
    "languageCode": "CHM",
    "schedule": "Sun 16:00 Wed 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "671-727-6804" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -199,15 +199,15 @@
   "properties": {
    "orgName": "Guam Japanese - North Guam Congregation",
    "orgType": "GROUP",
-   "address": "143 JEHOVAH STREET\r\nBARRIGADA GU 96913",
+   "address": "143 JEHOVAH STREET\nBARRIGADA GU 96913",
    "languageCode": "J",
    "schedule": "Sun 13:00 Tue 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "(671) 488-6426" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -223,14 +223,14 @@
   "properties": {
    "orgName": "Guam Chuukese Congregation",
    "orgType": "CONG",
-   "address": "143 JEHOVAH STREET\r\nBARRIGADA GU 96913",
+   "address": "143 JEHOVAH STREET\nBARRIGADA GU 96913",
    "languageCode": "TE",
    "schedule": "Sat 10:00 Tue 19:00",
-   "phones": [ "+1 (671) 489-1739" ],
+   "phones": [ "(671) 482-1024" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -246,22 +246,22 @@
   "properties": {
    "orgName": "Guam ASL - Machanao Congregation",
    "orgType": "GROUP",
-   "address": "143 JEHOVAH STREET\r\nBARRIGADA GU 96913",
+   "address": "143 JEHOVAH STREET\nBARRIGADA GU 96913",
    "languageCode": "ASL",
    "schedule": "Sun 10:00 Thu 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "(671) 487-1831" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "047C9A80-41B4-4854-A9B4-AC6598CAF531",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 13.487114,
    "longitude": 144.818564,
@@ -270,14 +270,14 @@
   "properties": {
    "orgName": "South Tagalog Congregation",
    "orgType": "CONG",
-   "address": "143 JEHOVAH STREET\r\nBARRIGADA GU 96913",
+   "address": "143 JEHOVAH STREET\nBARRIGADA GU 96913",
    "languageCode": "TG",
    "schedule": "Sun 16:00 Tue 19:00",
    "phones": [ "+1 (671) 482-9323" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -293,7 +293,7 @@
   "properties": {
    "orgName": "Rota Isolated Group",
    "orgType": "CONG",
-   "address": "TATACHOK\r\nROTA MP 96951",
+   "address": "TATACHOK\nROTA MP 96951",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [
@@ -302,8 +302,8 @@
    ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -319,14 +319,14 @@
   "properties": {
    "orgName": "Tinian Congregation",
    "orgType": "CONG",
-   "address": "SAN JOSE\r\nTINIAN MP 96952",
+   "address": "SAN JOSE\nTINIAN MP 96952",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -342,7 +342,7 @@
   "properties": {
    "orgName": "North Saipan Congregation",
    "orgType": "CONG",
-   "address": "GUALO RAI, GARAPAN\r\nSAIPAN MP 96950",
+   "address": "GUALO RAI, GARAPAN\nSAIPAN MP 96950",
    "languageCode": "E",
    "schedule": "Sun 15:00 Thu 19:00",
    "relatedLanguageCodes": [
@@ -352,8 +352,8 @@
    "phones": [ "670-287-5887" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -369,7 +369,7 @@
   "properties": {
    "orgName": "South Saipan Congregation",
    "orgType": "CONG",
-   "address": "GUALO RAI, GARAPAN\r\nSAIPAN MP 96950",
+   "address": "GUALO RAI, GARAPAN\nSAIPAN MP 96950",
    "languageCode": "E",
    "schedule": "Sat 10:00 Wed 19:00",
    "relatedLanguageCodes": [
@@ -379,8 +379,8 @@
    "phones": [ "(670)488-0358" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -396,15 +396,15 @@
   "properties": {
    "orgName": "Saipan Chinese - South Saipan Congregation",
    "orgType": "GROUP",
-   "address": "GUALO RAI, GARAPAN\r\nSAIPAN MP 96950",
+   "address": "GUALO RAI, GARAPAN\nSAIPAN MP 96950",
    "languageCode": "CHM",
    "schedule": "Sat 10:00 Wed 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "(670)488-0358" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -420,15 +420,15 @@
   "properties": {
    "orgName": "Saipan ASL - South Saipan Congregation",
    "orgType": "GROUP",
-   "address": "GUALO RAI, GARAPAN\r\nSAIPAN MP 96950",
+   "address": "GUALO RAI, GARAPAN\nSAIPAN MP 96950",
    "languageCode": "ASL",
    "schedule": "Sat 10:00 Wed 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "(670)488-0358" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -444,14 +444,14 @@
   "properties": {
    "orgName": "Saipan Tagalog Congregation",
    "orgType": "CONG",
-   "address": "GUALO RAI, GARAPAN\r\nSAIPAN MP 96950",
+   "address": "GUALO RAI, GARAPAN\nSAIPAN MP 96950",
    "languageCode": "TG",
    "schedule": "Sun 09:30 Fri 19:00",
    "phones": [ "1-670-488-0358" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

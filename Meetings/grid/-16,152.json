@@ -11,15 +11,15 @@
   "properties": {
    "orgName": "Misima Isolated Group",
    "orgType": "CONG",
-   "address": "Lot 5,6 & 7 Section 13\r\nMisima\r\nALOTAU  MBP",
+   "address": "Lot 5,6 & 7 Section 13\nMisima\nALOTAU  MBP",
    "transliteratedAddress": "Misima\r\nALOTAU  MBP\r\n",
    "languageCode": "MP",
    "schedule": "Sun 00:00 Sun 11:00",
    "phones": [ "Eddie Broome- 72682568" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -35,15 +35,15 @@
   "properties": {
    "orgName": "Ranongga",
    "orgType": "CONG",
-   "address": "Pienuna Village\r\nRanongga Island,  Western Province\r\nSOLOMON ISLANDS",
+   "address": "Pienuna Village\nRanongga Island,  Western Province\nSOLOMON ISLANDS",
    "transliteratedAddress": "Pienuna Village\r\nRanongga Island,  Western Province\r\n\r\n",
    "languageCode": "SP",
    "schedule": "Sun 10:00 Wed 15:30",
    "phones": [ "8986929" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -59,15 +59,15 @@
   "properties": {
    "orgName": "Gizo",
    "orgType": "CONG",
-   "address": "Gizo\r\nGizo,  Western Province\r\nSOLOMON ISLANDS",
+   "address": "Gizo\nGizo,  Western Province\nSOLOMON ISLANDS",
    "transliteratedAddress": "Gizo\r\nGizo,  Western Province\r\n\r\n",
    "languageCode": "SP",
    "schedule": "Sun 10:00 Tue 16:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -83,15 +83,15 @@
   "properties": {
    "orgName": "Munda",
    "orgType": "CONG",
-   "address": "Munda\r\nMunda,  Western Province\r\nSOLOMON ISLANDS",
+   "address": "Munda\nMunda,  Western Province\nSOLOMON ISLANDS",
    "transliteratedAddress": "Munda\r\nMunda,  Western Province\r\n\r\n",
    "languageCode": "SP",
    "schedule": "Sun 09:30 Tue 17:00",
    "phones": [ "7223565" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -107,7 +107,7 @@
   "properties": {
    "orgName": "Noro",
    "orgType": "CONG",
-   "address": "Noro\r\nNoro,  Western Province\r\nSOLOMON ISLANDS",
+   "address": "Noro\nNoro,  Western Province\nSOLOMON ISLANDS",
    "transliteratedAddress": "Noro\r\nNoro,  Western Province\r\n\r\n",
    "languageCode": "SP",
    "schedule": "Sun 09:30 Thu 18:30",
@@ -117,10 +117,33 @@
    ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "E93525E3-80A1-4144-B017-F1F8C1E1237E(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -9.120516,
+   "longitude": 159.159482
+  },
+  "properties": {
+   "orgName": "(Moved) Honiara Kaibia",
+   "orgType": "CONG",
+   "address": "Ligatu Village, Yandina\nYandina,  Central Province\nSOLOMON ISLANDS",
+   "languageCode": "SP",
+   "schedule": "Sun 09:30 Thu 19:00",
+   "phones": [ "7251458" ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastSeen": "2023-02-20",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Kaibia\nHoniara,  Capital Territory\nSOLOMON ISLANDS",
+  "lastVisit": "2023-02-20"
  },
  {
   "geoId": "E93525E3-80A1-4144-B017-F1F8C1E1237E",
@@ -134,15 +157,15 @@
   "properties": {
    "orgName": "Honiara Kaibia",
    "orgType": "CONG",
-   "address": "Kaibia\r\nHoniara,  Capital Territory\r\nSOLOMON ISLANDS",
+   "address": "Kaibia\nHoniara,  Capital Territory\nSOLOMON ISLANDS",
    "transliteratedAddress": "Kaibia\r\nHoniara,  Capital Territory\r\n\r\n",
    "languageCode": "SP",
    "schedule": "Sun 09:30 Thu 19:00",
    "phones": [ "7251458" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -158,15 +181,15 @@
   "properties": {
    "orgName": "Honiara White River",
    "orgType": "CONG",
-   "address": "Kukum High Way\r\nHoniara,  Capital Territory\r\nSOLOMON ISLANDS",
+   "address": "Kukum High Way\nHoniara,  Capital Territory\nSOLOMON ISLANDS",
    "transliteratedAddress": "Kukum High Way\r\nHoniara,  Capital Territory\r\n\r\n",
    "languageCode": "SP",
    "schedule": "Sun 09:00 Thu 18:30",
    "phones": [ "+677&nbsp;7713399" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -182,15 +205,15 @@
   "properties": {
    "orgName": "Honiara Kola Ridge",
    "orgType": "CONG",
-   "address": "Kukum High Way\r\nHoniara,  Capital Territory\r\nSOLOMON ISLANDS",
+   "address": "Kukum High Way\nHoniara,  Capital Territory\nSOLOMON ISLANDS",
    "transliteratedAddress": "Kukum High Way\r\nHoniara,  Capital Territory\r\n\r\n",
    "languageCode": "SP",
    "schedule": "Sat 13:30 Wed 18:30",
    "phones": [ "+6777519401" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -206,15 +229,15 @@
   "properties": {
    "orgName": "Honiara Kukum",
    "orgType": "CONG",
-   "address": "Kukum High Way\r\nHoniara,  Capital Territory\r\nSOLOMON ISLANDS",
+   "address": "Kukum High Way\nHoniara,  Capital Territory\nSOLOMON ISLANDS",
    "transliteratedAddress": "Kukum High Way\r\nHoniara,  Capital Territory\r\n\r\n",
    "languageCode": "SP",
    "schedule": "Sat 16:30 Tue 18:30",
    "phones": [ "+677&nbsp;8962059" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -230,15 +253,15 @@
   "properties": {
    "orgName": "Honiara Lunga",
    "orgType": "CONG",
-   "address": "Kukum High Way\r\nHoniara,  Capital Territory\r\nSOLOMON ISLANDS",
+   "address": "Kukum High Way\nHoniara,  Capital Territory\nSOLOMON ISLANDS",
    "transliteratedAddress": "Kukum High Way\r\nHoniara,  Capital Territory\r\n\r\n",
    "languageCode": "SP",
    "schedule": "Sun 14:30 Fri 18:30",
    "phones": [ "8670634" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -254,14 +277,14 @@
   "properties": {
    "orgName": "Biluro",
    "orgType": "CONG",
-   "address": "Biluro\r\nBiluro,  Isabell Province\r\nSOLOMON ISLANDS",
+   "address": "Biluro\nBiluro,  Isabell Province\nSOLOMON ISLANDS",
    "languageCode": "SP",
    "schedule": "Sun 00:00 undefined null",
    "phones": [],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

@@ -11,14 +11,14 @@
   "properties": {
    "orgName": "Corral",
    "orgType": "CONG",
-   "address": "Calle Blanco #17\r\nCorral Alto\r\nCORRAL  (XIV. RIOS",
+   "address": "Calle Blanco #17\nCorral Alto\nCORRAL  (XIV. RIOS",
    "languageCode": "S",
    "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "+569-82521129" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -34,21 +34,21 @@
   "properties": {
    "orgName": "Niebla",
    "orgType": "CONG",
-   "address": "Martín Cermeño 1201\r\nVilla El Delfín\r\nNIEBLA  (XIV. RIOS",
+   "address": "Martín Cermeño 1201\nVilla El Delfín\nNIEBLA  (XIV. RIOS",
    "languageCode": "S",
-   "schedule": "Sun 10:30 Wed 19:30",
+   "schedule": "Sat 18:30 Wed 19:30",
    "phones": [ "971775395" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "4DB60168-A230-422C-A5D0-F17F8D1AB2F8",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -39.813917,
    "longitude": -73.242347,
@@ -57,21 +57,21 @@
   "properties": {
    "orgName": "Los Torreones - Valdivia",
    "orgType": "CONG",
-   "address": "Ismael Valdés 450\r\nVALDIVIA  (XIV. RIOS",
+   "address": "Ismael Valdés 450\nVALDIVIA  (XIV. RIOS",
    "languageCode": "S",
    "schedule": "Sat 16:00 Wed 19:30",
    "phones": [ "+56 954114871   - +56 979538042" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "372852B3-E8F2-4155-84FC-7E1498DE1491",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -39.813917,
    "longitude": -73.242347,
@@ -80,15 +80,15 @@
   "properties": {
    "orgName": "Tornagaleones - Valdivia",
    "orgType": "CONG",
-   "address": "Ismael Valdés 450\r\nVALDIVIA  (XIV. RIOS",
+   "address": "Ismael Valdés 450\nVALDIVIA  (XIV. RIOS",
    "languageCode": "S",
    "schedule": "Sat 19:00 Tue 19:30",
    "relatedLanguageCodes": [ "MPD" ],
    "phones": [ "+56&nbsp;9 85810410 / +56 (9) 9824 7292" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -104,22 +104,22 @@
   "properties": {
    "orgName": "Cau Cau - Valdivia",
    "orgType": "CONG",
-   "address": "Ismael Valdés 450\r\nVALDIVIA  (XIV. RIOS",
+   "address": "Ismael Valdés 450\nVALDIVIA  (XIV. RIOS",
    "languageCode": "S",
    "schedule": "Sun 09:30 Thu 19:30",
    "relatedLanguageCodes": [ "CR" ],
    "phones": [ "+56971968408" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "920355CE-6C2E-4A8B-A411-A7DF3773C068",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -39.813917,
    "longitude": -73.242347,
@@ -128,15 +128,15 @@
   "properties": {
    "orgName": "Criollo Haitiano Valdivia - Cau Cau - Valdivia",
    "orgType": "GROUP",
-   "address": "Ismael Valdés 450\r\nVALDIVIA  (XIV. RIOS",
+   "address": "Ismael Valdés 450\nVALDIVIA  (XIV. RIOS",
    "languageCode": "CR",
    "schedule": "Sun 11:45 Fri 19:30",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "+56971968408" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -152,14 +152,14 @@
   "properties": {
    "orgName": "Entre Ríos - Valdivia",
    "orgType": "CONG",
-   "address": "Carlos Hilker 120\r\nVALDIVIA  (XIV. RIOS",
+   "address": "Carlos Hilker 120\nVALDIVIA  (XIV. RIOS",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "+56953700758" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -175,14 +175,14 @@
   "properties": {
    "orgName": "Calle Calle - Valdivia",
    "orgType": "CONG",
-   "address": "Carlos Hilker 120\r\nVALDIVIA  (XIV. RIOS",
+   "address": "Carlos Hilker 120\nVALDIVIA  (XIV. RIOS",
    "languageCode": "S",
    "schedule": "Sat 16:00 Tue 19:30",
    "phones": [ "+56995840545" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -198,14 +198,14 @@
   "properties": {
    "orgName": "Señas Valdivia",
    "orgType": "CONG",
-   "address": "Carlos Hilker 120\r\nVALDIVIA  (XIV. RIOS",
+   "address": "Carlos Hilker 120\nVALDIVIA  (XIV. RIOS",
    "languageCode": "SCH",
    "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "+56&nbsp;9 35326709" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -221,14 +221,14 @@
   "properties": {
    "orgName": "Collico",
    "orgType": "CONG",
-   "address": "Carlos Hilker 120\r\nVALDIVIA  (XIV. RIOS",
+   "address": "Carlos Hilker 120\nVALDIVIA  (XIV. RIOS",
    "languageCode": "S",
    "schedule": "Sun 17:00 Fri 19:30",
    "phones": [ "+56954050634" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -244,14 +244,14 @@
   "properties": {
    "orgName": "Los Lagos",
    "orgType": "CONG",
-   "address": "Caupolicán 375\r\nLOS LAGOS  (XIV. RIOS",
+   "address": "Caupolicán 375\nLOS LAGOS  (XIV. RIOS",
    "languageCode": "S",
    "schedule": "Sun 10:30 Thu 19:30",
    "phones": [ "944107886" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -273,8 +273,8 @@
    "phones": [ "945252199" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -290,14 +290,14 @@
   "properties": {
    "orgName": "San José de la Mariquina",
    "orgType": "CONG",
-   "address": "Arturo Prat 82\r\nSAN JOSÉ DE LA MARIQUINA  (XIV. RIOS",
+   "address": "Arturo Prat 82\nSAN JOSÉ DE LA MARIQUINA  (XIV. RIOS",
    "languageCode": "S",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "930007641" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -313,14 +313,14 @@
   "properties": {
    "orgName": "Isla Robinson Crusoe",
    "orgType": "CONG",
-   "address": "El Yunque 120\r\nISLA ROBINSON CRUSOE  (V. VALPO)",
+   "address": "El Yunque 120\nISLA ROBINSON CRUSOE  (V. VALPO)",
    "languageCode": "S",
    "schedule": "Sun 10:30 Thu 18:30",
    "phones": [ "9 89480370" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -336,16 +336,39 @@
   "properties": {
    "orgName": "Toltén",
    "orgType": "CONG",
-   "address": "Arturo Prat 545, 555\r\nTOLTÉN  (IX. ARAUC",
+   "address": "Arturo Prat 545, 555\nTOLTÉN  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 17:30 Wed 19:00",
    "phones": [ "+569 32184230" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "7BCAA90E-04A4-4AF6-9672-79560F268A8C(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -39.086917,
+   "longitude": -73.181656
+  },
+  "properties": {
+   "orgName": "(Moved) Hualpín",
+   "orgType": "CONG",
+   "address": "Camino Puyehue 683\nHUALPÍN  (IX. ARAUC",
+   "languageCode": "S",
+   "schedule": "Sun 10:30 Thu 19:00",
+   "phones": [ "+56933554888" ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastSeen": "2023-02-20",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Paradero Trehuaco parcela 4 / Hualpín\nTEODORO SCHMIDT  (IX. ARAUC",
+  "lastVisit": "2023-02-20"
  },
  {
   "geoId": "7BCAA90E-04A4-4AF6-9672-79560F268A8C",
@@ -359,14 +382,14 @@
   "properties": {
    "orgName": "Hualpín",
    "orgType": "CONG",
-   "address": "Paradero Trehuaco parcela 4 / Hualpín\r\nTEODORO SCHMIDT  (IX. ARAUC",
+   "address": "Paradero Trehuaco parcela 4 / Hualpín\nTEODORO SCHMIDT  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:30 Thu 19:00",
    "phones": [ "+56933554888" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -382,14 +405,14 @@
   "properties": {
    "orgName": "Lanco",
    "orgType": "CONG",
-   "address": "Santiago 456\r\nLANCO  (XIV. RIOS",
+   "address": "Santiago 456\nLANCO  (XIV. RIOS",
    "languageCode": "S",
-   "schedule": "Sun 10:30 Thu 19:30",
+   "schedule": "Sat 18:30 Wed 19:30",
    "phones": [ "932422879" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -405,16 +428,39 @@
   "properties": {
    "orgName": "Puerto Saavedra",
    "orgType": "CONG",
-   "address": "Patricio Lynch 247\r\nPUERTO SAAVEDRA  (IX. ARAUC",
+   "address": "Patricio Lynch 247\nPUERTO SAAVEDRA  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "+56942504029" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "226E41FE-BD64-40B7-88A4-AB33E6649B4C(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -38.900981,
+   "longitude": -73.254667
+  },
+  "properties": {
+   "orgName": "(Moved) Puerto Domínguez",
+   "orgType": "CONG",
+   "address": "Calle Misiones s/n\r\nPUERTO SAAVEDRA  (IX. ARAUC",
+   "languageCode": "S",
+   "schedule": "Sun 10:30 Wed 19:00",
+   "phones": [ "9-93403746" ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastVisit": "2023-06-14",
+  "lastSeen": "2023-06-14",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Calle Misiones s/n\nPUERTO SAAVEDRA  (IX. ARAUC"
  },
  {
   "geoId": "226E41FE-BD64-40B7-88A4-AB33E6649B4C",
@@ -428,14 +474,14 @@
   "properties": {
    "orgName": "Puerto Domínguez",
    "orgType": "CONG",
-   "address": "Calle Misiones s/n\r\nPUERTO SAAVEDRA  (IX. ARAUC",
+   "address": "Calle Misiones s/n\nPUERTO SAAVEDRA  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 19:00",
    "phones": [ "9-93403746" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -451,14 +497,14 @@
   "properties": {
    "orgName": "Teodoro Schmidt",
    "orgType": "CONG",
-   "address": "Galvarino 357 Lote 9\r\nTEODORO SCHMIDT  (IX. ARAUC",
+   "address": "Galvarino 357 Lote 9\nTEODORO SCHMIDT  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 18:30 Wed 19:30",
    "phones": [ "9-39035156" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -474,14 +520,14 @@
   "properties": {
    "orgName": "Malalhue",
    "orgType": "CONG",
-   "address": "Ferroviario 819, Malalhue\r\nMALALHUE  (XIV. RIOS",
+   "address": "Ferroviario 819, Malalhue\nMALALHUE  (XIV. RIOS",
    "languageCode": "S",
    "schedule": "Sat 18:00 Thu 19:30",
    "phones": [ "976237099" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -497,14 +543,14 @@
   "properties": {
    "orgName": "Loncoche",
    "orgType": "CONG",
-   "address": "Avenida José Manuel Balmaceda 346\r\nLONCOCHE  (IX. ARAUC",
+   "address": "Avenida José Manuel Balmaceda 346\nLONCOCHE  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 19:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -520,14 +566,14 @@
   "properties": {
    "orgName": "Mapudungún Loncoche",
    "orgType": "CONG",
-   "address": "Avenida José Manuel Balmaceda 346\r\nLONCOCHE  (IX. ARAUC",
+   "address": "Avenida José Manuel Balmaceda 346\nLONCOCHE  (IX. ARAUC",
    "languageCode": "MPD",
    "schedule": "Sat 10:00 Thu 19:30",
    "phones": [ "+56&nbsp;990877009" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -543,14 +589,14 @@
   "properties": {
    "orgName": "Panguipulli",
    "orgType": "CONG",
-   "address": "Calle Juan Pablo II 424\r\nPANGUIPULLI  (XIV. RIOS",
+   "address": "Calle Juan Pablo II 424\nPANGUIPULLI  (XIV. RIOS",
    "languageCode": "S",
    "schedule": "Sun 10:30 Thu 19:30",
    "phones": [ "+569 58288955" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -566,14 +612,14 @@
   "properties": {
    "orgName": "Carahue",
    "orgType": "CONG",
-   "address": "Colo Colo 327\r\nCARAHUE  (IX. ARAUC",
+   "address": "Colo Colo 327\nCARAHUE  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "964076024" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -589,14 +635,14 @@
   "properties": {
    "orgName": "Tirúa",
    "orgType": "CONG",
-   "address": "Paillaco #1\r\n(lado Este del Liceo \"Trapaqueante\" de Tirúa)\r\nTIRÚA  (VIII. BBI",
+   "address": "Paillaco #1\n(lado Este del Liceo \"Trapaqueante\" de Tirúa)\nTIRÚA  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "988 231 007" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -612,42 +658,19 @@
   "properties": {
    "orgName": "Gorbea",
    "orgType": "CONG",
-   "address": "Darío Salas 724\r\nGORBEA  (IX. ARAUC",
+   "address": "Darío Salas 724\nGORBEA  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "±569 4688 5173" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "812DB4A3-39F1-4311-844B-E6F44F76A486",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -38.746248,
-   "longitude": -72.955387,
-   "iso": "CHL"
-  },
-  "properties": {
-   "orgName": "Nueva Imperial",
-   "orgType": "CONG",
-   "address": "Balmaceda 191\r\nNUEVA IMPERIAL  (IX. ARAUC",
-   "languageCode": "S",
-   "schedule": "Sat 18:00 Thu 19:30",
-   "phones": [ "+569 49239592" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-03"
- },
- {
-  "geoId": "71A8F7A9-64F1-40CC-B9CB-12CF68BC5A21",
   "type": "weekly",
   "isPrimary": 0,
   "location": {
@@ -656,16 +679,39 @@
    "iso": "CHL"
   },
   "properties": {
+   "orgName": "Nueva Imperial",
+   "orgType": "CONG",
+   "address": "Balmaceda 191\nNUEVA IMPERIAL  (IX. ARAUC",
+   "languageCode": "S",
+   "schedule": "Sat 18:00 Thu 19:30",
+   "phones": [ "+569 49239592" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-03"
+ },
+ {
+  "geoId": "71A8F7A9-64F1-40CC-B9CB-12CF68BC5A21",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -38.746248,
+   "longitude": -72.955387,
+   "iso": "CHL"
+  },
+  "properties": {
    "orgName": "Mapudungún Nueva Imperial",
    "orgType": "CONG",
-   "address": "Balmaceda 191\r\nNUEVA IMPERIAL  (IX. ARAUC",
+   "address": "Balmaceda 191\nNUEVA IMPERIAL  (IX. ARAUC",
    "languageCode": "MPD",
    "schedule": "Sat 10:00 Wed 19:00",
    "phones": [ "991276251" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -681,14 +727,14 @@
   "properties": {
    "orgName": "Borde Lago - Licanray",
    "orgType": "CONG",
-   "address": "Cacique Chincolef 403 y 407\r\nLICANRAY  (IX. ARAUC",
+   "address": "Cacique Chincolef 403 y 407\nLICANRAY  (IX. ARAUC",
    "languageCode": "S",
-   "schedule": "Sat 18:30 Tue 19:30",
-   "phones": [ "+56967627240" ],
+   "schedule": "Sun 18:30 Wed 19:30",
+   "phones": [ "+56992409736" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -704,14 +750,14 @@
   "properties": {
    "orgName": "Pucura - Licanray",
    "orgType": "CONG",
-   "address": "Cacique Chincolef 403 y 407\r\nLICANRAY  (IX. ARAUC",
+   "address": "Cacique Chincolef 403 y 407\nLICANRAY  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:30 Thu 19:30",
    "phones": [ "+56988984789" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -725,16 +771,16 @@
    "iso": "CHL"
   },
   "properties": {
-   "orgName": "Pitrufquén",
+   "orgName": "Oriente - Pitrufquén",
    "orgType": "CONG",
-   "address": "Balmaceda 888\r\nPITRUFQUÉN  (IX. ARAUC",
+   "address": "Balmaceda 888\nPITRUFQUÉN  (IX. ARAUC",
    "languageCode": "S",
-   "schedule": "Sun 10:30 Thu 19:30",
+   "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "+56949168995" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -750,16 +796,62 @@
   "properties": {
    "orgName": "Freire",
    "orgType": "CONG",
-   "address": "Balmaceda 888\r\nPITRUFQUÉN  (IX. ARAUC",
+   "address": "Balmaceda 888\nPITRUFQUÉN  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 18:00 Tue 19:30",
    "phones": [ "+56963404145" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "E7D7D70F-DB07-4B3D-9864-7B965DE28210",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -38.987681,
+   "longitude": -72.632809,
+   "iso": "CHL"
+  },
+  "properties": {
+   "orgName": "Poniente - Pitrufquén",
+   "orgType": "CONG",
+   "address": "Balmaceda 888\nPITRUFQUÉN  (IX. ARAUC",
+   "languageCode": "S",
+   "schedule": "Sun 10:30 Thu 19:30",
+   "phones": [ "+56996123621" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2023-09-28"
+ },
+ {
+  "geoId": "DFD1C382-1399-40B2-833B-44BF41AFEA20(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -38.954874,
+   "longitude": -72.625715
+  },
+  "properties": {
+   "orgName": "(Moved) Freire",
+   "orgType": "CONG",
+   "address": "Avenida Schleyer 476\r\nFREIRE  (IX. ARAUC",
+   "languageCode": "S",
+   "schedule": "Sun 18:00 Tue 19:30",
+   "phones": [ "+56963404145" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-06-14",
+  "lastSeen": "2023-06-14",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Balmaceda 888\nPITRUFQUÉN  (IX. ARAUC"
  },
  {
   "geoId": "9A649C1D-6FA1-467C-801E-73C56C0457A8",
@@ -773,14 +865,14 @@
   "properties": {
    "orgName": "Coñaripe",
    "orgType": "CONG",
-   "address": "Los Pellines 572\r\nCOÑARIPE  (XIV. RIOS",
+   "address": "Los Pellines 572\nCOÑARIPE  (XIV. RIOS",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "987750602" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -796,21 +888,21 @@
   "properties": {
    "orgName": "Mapudungún Coñaripe",
    "orgType": "CONG",
-   "address": "Los Pellines 572\r\nCOÑARIPE  (XIV. RIOS",
+   "address": "Los Pellines 572\nCOÑARIPE  (XIV. RIOS",
    "languageCode": "MPD",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "+569 65513499" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "31F20982-722C-497A-AA09-50ACAFAC4EFD",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -38.766498,
    "longitude": -72.75538,
@@ -819,14 +911,14 @@
   "properties": {
    "orgName": "Labranza - Temuco",
    "orgType": "CONG",
-   "address": "Uno Norte 101\r\nPoblación Labranza\r\nLABRANZA  (IX. ARAUC",
+   "address": "Uno Norte 101\nPoblación Labranza\nLABRANZA  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 18:00 Thu 19:45",
    "phones": [ "+56941424089" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -842,14 +934,14 @@
   "properties": {
    "orgName": "Huerquehue - Villarrica",
    "orgType": "CONG",
-   "address": "Vicente Reyes 349\r\nVILLARRICA  (IX. ARAUC",
+   "address": "Vicente Reyes 349\nVILLARRICA  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "+56&nbsp;984130966" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -865,14 +957,14 @@
   "properties": {
    "orgName": "Villa del Lago - Villarrica",
    "orgType": "CONG",
-   "address": "Vicente Reyes 349\r\nVILLARRICA  (IX. ARAUC",
+   "address": "Vicente Reyes 349\nVILLARRICA  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 17:00 Thu 19:30",
    "phones": [ "+56981584668" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -888,21 +980,21 @@
   "properties": {
    "orgName": "Señas Villarrica",
    "orgType": "CONG",
-   "address": "Vicente Reyes 349\r\nVILLARRICA  (IX. ARAUC",
+   "address": "Vicente Reyes 349\nVILLARRICA  (IX. ARAUC",
    "languageCode": "SCH",
    "schedule": "Sun 13:30 Fri 19:00",
    "phones": [ "56971716444" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7472BDFE-25EA-4250-ABBC-CBF37EE89254",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -39.27954,
    "longitude": -72.230846,
@@ -911,14 +1003,14 @@
   "properties": {
    "orgName": "Mapudungún Villarrica",
    "orgType": "CONG",
-   "address": "Vicente Reyes 349\r\nVILLARRICA  (IX. ARAUC",
+   "address": "Vicente Reyes 349\nVILLARRICA  (IX. ARAUC",
    "languageCode": "MPD",
    "schedule": "Sat 10:30 Thu 19:30",
    "phones": [ "987590987" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -934,14 +1026,14 @@
   "properties": {
    "orgName": "Parque - Villarrica",
    "orgType": "CONG",
-   "address": "Vicente Reyes 349\r\nVILLARRICA  (IX. ARAUC",
+   "address": "Vicente Reyes 349\nVILLARRICA  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 16:00 Mon 19:30",
    "phones": [ "+56974309367" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -957,14 +1049,14 @@
   "properties": {
    "orgName": "Río Voipir - Villarrica",
    "orgType": "CONG",
-   "address": "Vicente Reyes 349\r\nVILLARRICA  (IX. ARAUC",
+   "address": "Vicente Reyes 349\nVILLARRICA  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 19:00 Tue 19:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -980,14 +1072,14 @@
   "properties": {
    "orgName": "Quepe",
    "orgType": "CONG",
-   "address": "Riquelme 243\r\nQUEPE  (IX. ARAUC",
+   "address": "Riquelme 243\nQUEPE  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 18:30 Wed 19:30",
    "phones": [ "978570064" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1003,14 +1095,14 @@
   "properties": {
    "orgName": "Mapudungún Quepe",
    "orgType": "CONG",
-   "address": "Riquelme 243\r\nQUEPE  (IX. ARAUC",
+   "address": "Riquelme 243\nQUEPE  (IX. ARAUC",
    "languageCode": "MPD",
    "schedule": "Sat 10:00 Thu 19:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1026,21 +1118,21 @@
   "properties": {
    "orgName": "Mapudungún Tromén",
    "orgType": "CONG",
-   "address": "Sector Rural de Tromén Bajo S/N\r\nTROMÉN  (IX. ARAUC",
+   "address": "Sector Rural de Tromén Bajo S/N\nTROMÉN  (IX. ARAUC",
    "languageCode": "MPD",
    "schedule": "Sat 10:00 Mon 19:00",
    "phones": [ "+56&nbsp;9 3493 0999.  +56 9 8365 2363" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "BAE03B71-DADA-4453-9978-1EAC0890ABE3",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -38.605334,
    "longitude": -72.848838,
@@ -1049,14 +1141,14 @@
   "properties": {
    "orgName": "Chol Chol",
    "orgType": "CONG",
-   "address": "J.J. Perez 701\r\nCHOL CHOL  (IX. ARAUC",
+   "address": "J.J. Perez 701\nCHOL CHOL  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 18:30 Thu 19:30",
    "phones": [ "+ 56977088211 / +56939481261" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1072,14 +1164,14 @@
   "properties": {
    "orgName": "Mapudungún Chol Chol",
    "orgType": "CONG",
-   "address": "J.J. Perez 701\r\nCHOL CHOL  (IX. ARAUC",
+   "address": "J.J. Perez 701\nCHOL CHOL  (IX. ARAUC",
    "languageCode": "MPD",
    "schedule": "Sat 10:00 Wed 10:00",
    "phones": [ "+56&nbsp;994486979, +56 983517846" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1095,14 +1187,14 @@
   "properties": {
    "orgName": "Sur - Temuco",
    "orgType": "CONG",
-   "address": "Miguel Angel 1925\r\nPoblación Amanecer\r\nTEMUCO  (IX. ARAUC",
+   "address": "Miguel Angel 1925\nPoblación Amanecer\nTEMUCO  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 19:30",
    "phones": [ "+56940417029" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1118,14 +1210,14 @@
   "properties": {
    "orgName": "Las Lomas - Temuco",
    "orgType": "CONG",
-   "address": "Miguel Angel 1925\r\nPoblación Amanecer\r\nTEMUCO  (IX. ARAUC",
+   "address": "Miguel Angel 1925\nPoblación Amanecer\nTEMUCO  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "+569 87692184" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1141,14 +1233,14 @@
   "properties": {
    "orgName": "Pedro de Valdivia - Temuco",
    "orgType": "CONG",
-   "address": "Miguel Angel 1925\r\nPoblación Amanecer\r\nTEMUCO  (IX. ARAUC",
+   "address": "Miguel Angel 1925\nPoblación Amanecer\nTEMUCO  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 17:00 Tue 19:30",
    "phones": [ "+56 9 6470 5640" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1164,14 +1256,14 @@
   "properties": {
    "orgName": "Mapudungún Temuco",
    "orgType": "CONG",
-   "address": "Miguel Angel 1925\r\nPoblación Amanecer\r\nTEMUCO  (IX. ARAUC",
+   "address": "Miguel Angel 1925\nPoblación Amanecer\nTEMUCO  (IX. ARAUC",
    "languageCode": "MPD",
    "schedule": "Sat 10:15 Mon 18:30",
    "phones": [ "Sin número" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1187,14 +1279,14 @@
   "properties": {
    "orgName": "Maquehue - Temuco",
    "orgType": "CONG",
-   "address": "Pasaje Mehuin 1269\r\nPadre Las Casas\r\nTEMUCO  (IX. ARAUC",
+   "address": "Pasaje Mehuin 1269\nPadre Las Casas\nTEMUCO  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:30 Thu 19:45",
    "phones": [ "+56 9 4948 4279" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1210,14 +1302,14 @@
   "properties": {
    "orgName": "Huichahue - Temuco",
    "orgType": "CONG",
-   "address": "Pasaje Mehuin 1269\r\nPadre Las Casas\r\nTEMUCO  (IX. ARAUC",
+   "address": "Pasaje Mehuin 1269\nPadre Las Casas\nTEMUCO  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "+569 94509621" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1233,14 +1325,14 @@
   "properties": {
    "orgName": "Mapudungún Niagara",
    "orgType": "CONG",
-   "address": "Pasaje Mehuin 1269\r\nPadre Las Casas\r\nTEMUCO  (IX. ARAUC",
+   "address": "Pasaje Mehuin 1269\nPadre Las Casas\nTEMUCO  (IX. ARAUC",
    "languageCode": "MPD",
    "schedule": "Sat 10:15 Tue 19:15",
    "phones": [ "+569 6849 8595" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1256,14 +1348,14 @@
   "properties": {
    "orgName": "Ñielol - Temuco",
    "orgType": "CONG",
-   "address": "Miraflores 601\r\nTEMUCO  (IX. ARAUC",
+   "address": "Miraflores 601\nTEMUCO  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 18:30 Fri 19:30",
    "phones": [ "+56&nbsp;9 8538 4839" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1279,14 +1371,14 @@
   "properties": {
    "orgName": "El Carmen - Temuco",
    "orgType": "CONG",
-   "address": "Miraflores 601\r\nTEMUCO  (IX. ARAUC",
+   "address": "Miraflores 601\nTEMUCO  (IX. ARAUC",
    "languageCode": "S",
-   "schedule": "Sat 16:00 Mon 19:30",
+   "schedule": "Sat 15:45 Mon 19:30",
    "phones": [ "+56922117282" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1302,14 +1394,14 @@
   "properties": {
    "orgName": "Señas Temuco",
    "orgType": "CONG",
-   "address": "Miraflores 601\r\nTEMUCO  (IX. ARAUC",
+   "address": "Miraflores 601\nTEMUCO  (IX. ARAUC",
    "languageCode": "SCH",
    "schedule": "Sat 13:00 Tue 19:00",
    "phones": [ "+56&nbsp;9 9443 3712" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1325,21 +1417,21 @@
   "properties": {
    "orgName": "Los Laureles",
    "orgType": "CONG",
-   "address": "Uno poniente #255\r\nSector Choroico\r\nLOS LAURELES  (IX. ARAUC",
+   "address": "Uno poniente #255\nSector Choroico\nLOS LAURELES  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 18:30 Tue 19:30",
    "phones": [ "9 9654 0518" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C5699DD5-2EA5-47BB-B2B2-99E7BD232A17",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -38.727403,
    "longitude": -72.562692,
@@ -1354,15 +1446,15 @@
    "phones": [ "+56987745064" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "32170AAB-35FB-4A1D-A6BF-503BD074884B",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -38.727403,
    "longitude": -72.562692,
@@ -1378,15 +1470,15 @@
    "phones": [ "+56934021361" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "94EDBC3A-0F29-466A-8D52-2C16B3CB435E",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -38.727403,
    "longitude": -72.562692,
@@ -1402,8 +1494,8 @@
    "phones": [ "+56934021361" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1419,14 +1511,14 @@
   "properties": {
    "orgName": "Criollo Haitiano Temuco",
    "orgType": "CONG",
-   "address": "Cunco 161\r\nVilla Pomona\r\nTEMUCO  (IX. ARAUC",
+   "address": "Cunco 161\nVilla Pomona\nTEMUCO  (IX. ARAUC",
    "languageCode": "CR",
    "schedule": "Fri 19:30 Sun 10:00",
    "phones": [ "+56 9 9282 5678" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1442,15 +1534,15 @@
   "properties": {
    "orgName": "Lebu",
    "orgType": "CONG",
-   "address": "Avenida Latorre 366\r\nLEBU  (VIII. BBI",
+   "address": "Avenida Latorre 366\nLEBU  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:00",
    "relatedLanguageCodes": [ "SCH" ],
    "phones": [ "+56999323912" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1466,15 +1558,15 @@
   "properties": {
    "orgName": "Señas Lebu - Lebu",
    "orgType": "GROUP",
-   "address": "Avenida Latorre 366\r\nLEBU  (VIII. BBI",
+   "address": "Avenida Latorre 366\nLEBU  (VIII. BBI",
    "languageCode": "SCH",
    "schedule": "Sun 10:00 Thu 19:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "+56999323912" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1490,14 +1582,14 @@
   "properties": {
    "orgName": "San Ramón",
    "orgType": "CONG",
-   "address": "Las Margaritas 10\r\nPadre Las Casas\r\nTEMUCO  (IX. ARAUC",
+   "address": "Las Margaritas 10\nPadre Las Casas\nTEMUCO  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 19:30",
    "phones": [ "955343368" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1513,14 +1605,14 @@
   "properties": {
    "orgName": "Contulmo",
    "orgType": "CONG",
-   "address": "Los Avellanos 457\r\nCONTULMO  (VIII. BBI",
+   "address": "Los Avellanos 457\nCONTULMO  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 19:00",
    "phones": [ "+56987536782" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1536,14 +1628,14 @@
   "properties": {
    "orgName": "Galvarino",
    "orgType": "CONG",
-   "address": "Maipú 121\r\nGALVARINO  (IX. ARAUC",
+   "address": "Maipú 121\nGALVARINO  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 19:00",
    "phones": [ "+56996581726" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1566,8 +1658,8 @@
    "phones": [ "+569 83760801" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1583,16 +1675,39 @@
   "properties": {
    "orgName": "Chedungún Cañete",
    "orgType": "CONG",
-   "address": "Tucapel 669\r\nCAÑETE  (VIII. BBI",
+   "address": "Tucapel 669\nCAÑETE  (VIII. BBI",
    "languageCode": "PHN",
    "schedule": "Sat 10:30 Tue 19:30",
    "phones": [ "+56973438136" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "18EB0A19-8FCC-4F48-BAFE-B1A66EE2FE4C(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -38.195558,
+   "longitude": -72.993192
+  },
+  "properties": {
+   "orgName": "(Moved) Capitán Pastene - Traiguén",
+   "orgType": "GROUP",
+   "address": "Dante 301 b esquina Caupolicán\nTRAIGUÉN  (IX. ARAUC",
+   "languageCode": "S",
+   "schedule": "Sat 17:00 Wed 18:45",
+   "phones": [ "+56 965035815" ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastSeen": "2023-02-20",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Balmaceda 28\nCAPITÁN PASTENE  (IX. ARAUC",
+  "lastVisit": "2023-02-20"
  },
  {
   "geoId": "18EB0A19-8FCC-4F48-BAFE-B1A66EE2FE4C",
@@ -1606,14 +1721,14 @@
   "properties": {
    "orgName": "Capitán Pastene - Traiguén",
    "orgType": "GROUP",
-   "address": "Balmaceda 28\r\nCAPITÁN PASTENE  (IX. ARAUC",
+   "address": "Balmaceda 28\nCAPITÁN PASTENE  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 17:00 Wed 18:45",
    "phones": [ "+56 965035815" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1629,14 +1744,14 @@
   "properties": {
    "orgName": "Purén",
    "orgType": "CONG",
-   "address": "Doctor Garriga 799\r\nPURÉN  (IX. ARAUC",
+   "address": "Doctor Garriga 799\nPURÉN  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 19:00",
    "phones": [ "+56990802358" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1652,14 +1767,14 @@
   "properties": {
    "orgName": "Los Álamos",
    "orgType": "CONG",
-   "address": "Ignacio Carrera Pinto 835\r\nLOS ALAMOS  (VIII. BBI",
+   "address": "Ignacio Carrera Pinto 835\nLOS ALAMOS  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "+56950065080" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1675,14 +1790,14 @@
   "properties": {
    "orgName": "Pillanlelbún",
    "orgType": "CONG",
-   "address": "Pillanlebún, Sector El Cardal S/N\r\nLautaro\r\nPILLANLELBÚN  4860000  (IX. ARAUC",
+   "address": "Pillanlebún, Sector El Cardal S/N\nLautaro\nPILLANLELBÚN  4860000  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "+569 779 27138" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1698,14 +1813,14 @@
   "properties": {
    "orgName": "Norte - Lautaro",
    "orgType": "CONG",
-   "address": "Balmaceda 685\r\nLAUTARO  (IX. ARAUC",
+   "address": "Balmaceda 693\nLAUTARO  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 19:00 Tue 19:30",
    "phones": [ "989710426" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1721,14 +1836,14 @@
   "properties": {
    "orgName": "Rinconada de Perquenco - Norte - Lautaro",
    "orgType": "GROUP",
-   "address": "Balmaceda 685\r\nLAUTARO  (IX. ARAUC",
+   "address": "Balmaceda 693\nLAUTARO  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 19:30",
    "phones": [ "989710426" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1744,14 +1859,14 @@
   "properties": {
    "orgName": "Guacolda - Lautaro",
    "orgType": "CONG",
-   "address": "Balmaceda 685\r\nLAUTARO  (IX. ARAUC",
+   "address": "Balmaceda 693\nLAUTARO  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 18:00 Wed 19:30",
    "phones": [ "+56923877812" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1767,14 +1882,14 @@
   "properties": {
    "orgName": "Perquenco",
    "orgType": "CONG",
-   "address": "Balmaceda 685\r\nLAUTARO  (IX. ARAUC",
+   "address": "Balmaceda 693\nLAUTARO  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:30 Thu 19:30",
    "phones": [ "±56966615072" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1790,14 +1905,14 @@
   "properties": {
    "orgName": "Cunco",
    "orgType": "CONG",
-   "address": "Avenida Llaima 657\r\nCUNCO  (IX. ARAUC",
+   "address": "Avenida Llaima 657\nCUNCO  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "+56&nbsp;9 9092 1623" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-02-20"
  },
@@ -1813,14 +1928,14 @@
   "properties": {
    "orgName": "Traiguén",
    "orgType": "CONG",
-   "address": "Pérez 770\r\nTRAIGUÉN  (IX. ARAUC",
+   "address": "Pérez 770\nTRAIGUÉN  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "+56 965035815" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1836,21 +1951,21 @@
   "properties": {
    "orgName": "Vilcún",
    "orgType": "CONG",
-   "address": "Blanco Encalada 531\r\nVILCÚN  (IX. ARAUC",
+   "address": "Blanco Encalada 543\nVILCÚN  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "976460666" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3E0F9BC1-56D7-4444-9571-9A849C5AC411",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -38.667364,
    "longitude": -72.225788,
@@ -1859,14 +1974,14 @@
   "properties": {
    "orgName": "Mapudungún Vilcún",
    "orgType": "CONG",
-   "address": "Blanco Encalada 531\r\nVILCÚN  (IX. ARAUC",
+   "address": "Blanco Encalada 543\nVILCÚN  (IX. ARAUC",
    "languageCode": "MPD",
    "schedule": "Sun 11:00 Thu 19:00",
    "phones": [ "954373747" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1882,14 +1997,14 @@
   "properties": {
    "orgName": "Cherquenco",
    "orgType": "CONG",
-   "address": "Blanco Encalada 531\r\nVILCÚN  (IX. ARAUC",
+   "address": "Blanco Encalada 543\nVILCÚN  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 17:00 Tue 19:30",
    "phones": [ "+56993131518" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1905,14 +2020,14 @@
   "properties": {
    "orgName": "Curanilahue",
    "orgType": "CONG",
-   "address": "Guacolda 311\r\nPoblación Sargento Aldea\r\nCURANILAHUE  (VIII. BBI",
+   "address": "Guacolda 311\nPoblación Sargento Aldea\nCURANILAHUE  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1928,16 +2043,42 @@
   "properties": {
    "orgName": "Los Sauces",
    "orgType": "CONG",
-   "address": "Galvarino N°45\r\nLOS SAUCES  (IX. ARAUC",
+   "address": "Galvarino N°45\nLOS SAUCES  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "+56965338157" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
+ },
+ {
+  "geoId": "D4136A72-A4F7-46D1-B102-97BD90910E88(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -38.659217,
+   "longitude": -72.113876
+  },
+  "properties": {
+   "orgName": "(Moved) Cherquenco",
+   "orgType": "CONG",
+   "address": "Pedro Montt 8, Sector San Patricio\nSan Patricio\nVILCÚN  (IX. ARAUC",
+   "languageCode": "S",
+   "schedule": "Sat 17:00 Wed 19:00",
+   "phones": [
+    "9-93131518",
+    "9-92224015"
+   ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastSeen": "2023-02-20",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Blanco Encalada 543\nVILCÚN  (IX. ARAUC",
+  "lastVisit": "2023-02-20"
  },
  {
   "geoId": "17F7AB7B-CCEF-435D-B4EB-C4B73023E013",
@@ -1951,14 +2092,14 @@
   "properties": {
    "orgName": "Arauco",
    "orgType": "CONG",
-   "address": "Caupolicán 096\r\nARAUCO  (VIII. BBI",
+   "address": "Caupolicán 096\nARAUCO  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "+569 9274 7623" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1974,22 +2115,22 @@
   "properties": {
    "orgName": "Victoria",
    "orgType": "CONG",
-   "address": "Vergara 729\r\nVICTORIA  (IX. ARAUC",
+   "address": "Vergara 729\nVICTORIA  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "relatedLanguageCodes": [ "SCH" ],
    "phones": [ "+56998062743" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E6DC8CE2-CB00-4323-9E34-3736AB1A1FA7",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -38.23125,
    "longitude": -72.330428,
@@ -1998,14 +2139,14 @@
   "properties": {
    "orgName": "Mapudungún Victoria",
    "orgType": "CONG",
-   "address": "Vergara 729\r\nVICTORIA  (IX. ARAUC",
+   "address": "Vergara 729\nVICTORIA  (IX. ARAUC",
    "languageCode": "MPD",
    "schedule": "Sat 16:00 Wed 19:30",
    "phones": [ "+56&nbsp;9 77256416" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2021,15 +2162,15 @@
   "properties": {
    "orgName": "Señas Victoria - Victoria",
    "orgType": "GROUP",
-   "address": "Vergara 729\r\nVICTORIA  (IX. ARAUC",
+   "address": "Vergara 729\nVICTORIA  (IX. ARAUC",
    "languageCode": "SCH",
    "schedule": "Sun 10:00 Thu 19:30",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "+56998062743" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-02-20"
  },
@@ -2045,14 +2186,14 @@
   "properties": {
    "orgName": "Nahuelbuta - Angol",
    "orgType": "CONG",
-   "address": "Andrés Bello 170\r\nANGOL  (IX. ARAUC",
+   "address": "Andrés Bello 170\nANGOL  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "+56965578727" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2068,14 +2209,14 @@
   "properties": {
    "orgName": "Los Confines - Angol",
    "orgType": "CONG",
-   "address": "Andrés Bello 170\r\nANGOL  (IX. ARAUC",
+   "address": "Andrés Bello 170\nANGOL  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "977371667" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2097,8 +2238,8 @@
    "phones": [ "985265796" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2114,14 +2255,14 @@
   "properties": {
    "orgName": "Carampangue",
    "orgType": "CONG",
-   "address": "Las Hortencias 509\r\nCARAMPANGUE  (VIII. BBI",
+   "address": "Las Hortencias 509\nCARAMPANGUE  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:30 Wed 19:30",
-   "phones": [ "+56&nbsp;9 83944588" ],
+   "phones": [ "+56&nbsp;9 31842598" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2137,14 +2278,14 @@
   "properties": {
    "orgName": "Ercilla",
    "orgType": "CONG",
-   "address": "Colo Colo 455\r\nERCILLA  (IX. ARAUC",
+   "address": "Colo Colo 455\nERCILLA  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sun 10:30 Thu 19:00",
-   "phones": [ "+569 9075 4210" ],
+   "phones": [ "+569 51082281" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2160,14 +2301,14 @@
   "properties": {
    "orgName": "Collipulli",
    "orgType": "CONG",
-   "address": "Argomedo 109\r\nCOLLIPULLI  (IX. ARAUC",
+   "address": "Argomedo 109\nCOLLIPULLI  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "45 2 812093" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2183,14 +2324,14 @@
   "properties": {
    "orgName": "Renaico",
    "orgType": "CONG",
-   "address": "Mac-Iver 253\r\nRENAICO  (IX. ARAUC",
+   "address": "Mac-Iver 253\nRENAICO  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "964895294" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2206,14 +2347,14 @@
   "properties": {
    "orgName": "Centro - Lota",
    "orgType": "CONG",
-   "address": "Arturo Prat 32\r\nLota Bajo\r\nLOTA  (VIII. BBI",
+   "address": "Arturo Prat 32\nLota Bajo\nLOTA  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 17:30 Thu 19:00",
    "phones": [ "985012400" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2229,14 +2370,14 @@
   "properties": {
    "orgName": "Oeste - Lota",
    "orgType": "CONG",
-   "address": "Arturo Prat 32\r\nLota Bajo\r\nLOTA  (VIII. BBI",
+   "address": "Arturo Prat 32\nLota Bajo\nLOTA  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 19:00",
    "phones": [ "41-2870537" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2252,14 +2393,14 @@
   "properties": {
    "orgName": "Quilquihuenco",
    "orgType": "CONG",
-   "address": "Quilquihuenco S/N\r\nSector Quilquihuenco\r\nQUILQUIHUENCO  (IX. ARAUC",
+   "address": "Quilquihuenco S/N\nSector Quilquihuenco\nQUILQUIHUENCO  (IX. ARAUC",
    "languageCode": "S",
    "schedule": "Sat 18:30 Wed 19:30",
    "phones": [ "933909100" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2275,14 +2416,14 @@
   "properties": {
    "orgName": "Nacimiento",
    "orgType": "CONG",
-   "address": "General Joaquín Prieto 650\r\nNACIMIENTO  (VIII. BBI",
+   "address": "General Joaquín Prieto 650\nNACIMIENTO  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "+56&nbsp;9 54166906" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2298,14 +2439,14 @@
   "properties": {
    "orgName": "Bahía - Coronel",
    "orgType": "CONG",
-   "address": "Los Carrera 0986\r\nVilla Mora\r\nCORONEL  (VIII. BBI",
+   "address": "Los Carrera 0986\nVilla Mora\nCORONEL  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "+56934406577" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2327,8 +2468,8 @@
    "phones": [ "+56945101269" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2344,14 +2485,14 @@
   "properties": {
    "orgName": "Lagunillas - Coronel",
    "orgType": "CONG",
-   "address": "Colcura 527, Población Rubén Caro\r\nSector Huertos Familiares, Coronel\r\nCORONEL  (VIII. BBI",
+   "address": "Colcura 527, Población Rubén Caro\nSector Huertos Familiares, Coronel\nCORONEL  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "973397218" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2367,14 +2508,14 @@
   "properties": {
    "orgName": "Buen Retiro - Coronel",
    "orgType": "CONG",
-   "address": "Colcura 527, Población Rubén Caro\r\nSector Huertos Familiares, Coronel\r\nCORONEL  (VIII. BBI",
+   "address": "Colcura 527, Población Rubén Caro\nSector Huertos Familiares, Coronel\nCORONEL  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2390,14 +2531,14 @@
   "properties": {
    "orgName": "Santa Juana",
    "orgType": "CONG",
-   "address": "Pedro Aguirre Cerda 584\r\nSANTA JUANA  (VIII. BBI",
+   "address": "Pedro Aguirre Cerda 584\nSANTA JUANA  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "+56 985005947" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2413,14 +2554,14 @@
   "properties": {
    "orgName": "Negrete",
    "orgType": "CONG",
-   "address": "Juan Antonio Ríos 343\r\nNEGRETE  (VIII. BBI",
+   "address": "Juan Antonio Ríos 343\nNEGRETE  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "981833807" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2442,8 +2583,8 @@
    "phones": [ "56973899416" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2459,14 +2600,14 @@
   "properties": {
    "orgName": "Lomas Coloradas - San Pedro",
    "orgType": "CONG",
-   "address": "Avenida Manuel Rodríguez 350\r\nLomas Coloradas\r\nSAN PEDRO  (VIII. BBI",
+   "address": "Avenida Manuel Rodríguez 350\nLomas Coloradas\nSAN PEDRO  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "+56990501208" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2488,8 +2629,8 @@
    "phones": [ "+56961615755" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2515,7 +2656,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-08-16"
+  "lastVisit": "2023-09-28"
  },
  {
   "geoId": "8C9117C7-DE33-4A17-8345-25A8FC8E77A2",
@@ -2529,14 +2670,14 @@
   "properties": {
    "orgName": "Michaihue - San Pedro",
    "orgType": "CONG",
-   "address": "Manuel Rodriguez 80\r\nPoblación Michaihue, San Pedro de la Paz\r\nSAN PEDRO  (VIII. BBI",
+   "address": "Manuel Rodriguez 80\nPoblación Michaihue, San Pedro de la Paz\nSAN PEDRO  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2552,14 +2693,14 @@
   "properties": {
    "orgName": "Mulchén",
    "orgType": "CONG",
-   "address": "Fuenzalida 671\r\nMULCHÉN  (VIII. BBI",
+   "address": "Fuenzalida 671\nMULCHÉN  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "9 81385696" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2575,14 +2716,14 @@
   "properties": {
    "orgName": "Manquimávida - Chiguayante",
    "orgType": "CONG",
-   "address": "Manquimávida 425\r\nCHIGUAYANTE  (VIII. BBI",
+   "address": "Manquimávida 425\nCHIGUAYANTE  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "412362916" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2598,14 +2739,14 @@
   "properties": {
    "orgName": "La Pradera - Chiguayante",
    "orgType": "CONG",
-   "address": "Manquimávida 425\r\nCHIGUAYANTE  (VIII. BBI",
+   "address": "Manquimávida 425\nCHIGUAYANTE  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "+569 50563285" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2621,14 +2762,14 @@
   "properties": {
    "orgName": "Bío Bío - Chiguayante",
    "orgType": "CONG",
-   "address": "Manuel Rodríguez 147\r\nCHIGUAYANTE  (VIII. BBI",
+   "address": "Manuel Rodríguez 147\nCHIGUAYANTE  (VIII. BBI",
    "languageCode": "S",
-   "schedule": "Sat 19:00 Wed 19:30",
+   "schedule": "Sat 17:30 Wed 19:30",
    "phones": [ "+56982609130" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2644,65 +2785,19 @@
   "properties": {
    "orgName": "Pinares - Chiguayante",
    "orgType": "CONG",
-   "address": "Manuel Rodríguez 147\r\nCHIGUAYANTE  (VIII. BBI",
+   "address": "Manuel Rodríguez 147\nCHIGUAYANTE  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "998341974" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3D3C5F02-C860-413C-A57E-64B2B254DB31",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -36.84024,
-   "longitude": -73.09012,
-   "iso": "CHL"
-  },
-  "properties": {
-   "orgName": "Las Lagunas - San Pedro",
-   "orgType": "CONG",
-   "address": "Lota 819\r\nSAN PEDRO  (VIII. BBI",
-   "languageCode": "S",
-   "schedule": "Sat 18:00 Wed 19:30",
-   "phones": [ "+56982733497" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "E7AEA112-B74E-4A01-9BD0-6766183666AE",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -36.84024,
-   "longitude": -73.09012,
-   "iso": "CHL"
-  },
-  "properties": {
-   "orgName": "Riviera - San Pedro",
-   "orgType": "CONG",
-   "address": "Lota 819\r\nSAN PEDRO  (VIII. BBI",
-   "languageCode": "S",
-   "schedule": "Sun 17:00 Thu 19:30",
-   "phones": [ "+56996141247" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "6D24416D-E817-4E2F-9E9B-0B5ECBD82B3F",
   "type": "weekly",
   "isPrimary": 0,
   "location": {
@@ -2711,16 +2806,62 @@
    "iso": "CHL"
   },
   "properties": {
+   "orgName": "Las Lagunas - San Pedro",
+   "orgType": "CONG",
+   "address": "Lota 819\nSAN PEDRO  (VIII. BBI",
+   "languageCode": "S",
+   "schedule": "Sat 18:00 Wed 19:30",
+   "phones": [ "+56982733497" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "E7AEA112-B74E-4A01-9BD0-6766183666AE",
+  "type": "weekly",
+  "isPrimary": 0,
+  "location": {
+   "latitude": -36.84024,
+   "longitude": -73.09012,
+   "iso": "CHL"
+  },
+  "properties": {
+   "orgName": "Riviera - San Pedro",
+   "orgType": "CONG",
+   "address": "Lota 819\nSAN PEDRO  (VIII. BBI",
+   "languageCode": "S",
+   "schedule": "Sun 17:00 Thu 19:30",
+   "phones": [ "+56996141247" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "6D24416D-E817-4E2F-9E9B-0B5ECBD82B3F",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -36.84024,
+   "longitude": -73.09012,
+   "iso": "CHL"
+  },
+  "properties": {
    "orgName": "Chedungún Concepción",
    "orgType": "CONG",
-   "address": "Lota 819\r\nSAN PEDRO  (VIII. BBI",
+   "address": "Lota 819\nSAN PEDRO  (VIII. BBI",
    "languageCode": "PHN",
    "schedule": "Sun 11:00 Tue 19:00",
    "phones": [ "+56&nbsp;9 88562001" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2736,14 +2877,14 @@
   "properties": {
    "orgName": "Hualqui",
    "orgType": "CONG",
-   "address": "San Martín 355\r\nHUALQUI  (VIII. BBI",
+   "address": "San Martín 355\nHUALQUI  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Thu 19:30",
    "phones": [ "+56984213619" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-02-20"
  },
@@ -2759,14 +2900,14 @@
   "properties": {
    "orgName": "Miraflores - Concepción",
    "orgType": "CONG",
-   "address": "Arturo Prat 2689\r\nLorenzo Arenas\r\nCONCEPCIÓN  (VIII. BBI",
+   "address": "Arturo Prat 2689\nLorenzo Arenas\nCONCEPCIÓN  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 17:30 Wed 19:00",
    "phones": [ "+56922365918" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2782,14 +2923,14 @@
   "properties": {
    "orgName": "Laguna Redonda - Concepción",
    "orgType": "CONG",
-   "address": "Arturo Prat 2689\r\nLorenzo Arenas\r\nCONCEPCIÓN  (VIII. BBI",
+   "address": "Arturo Prat 2689\nLorenzo Arenas\nCONCEPCIÓN  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "982769137" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2805,14 +2946,14 @@
   "properties": {
    "orgName": "Las Golondrinas - Talcahuano",
    "orgType": "CONG",
-   "address": "Pasaje Corintias 2554\r\nHUALPÉN  (VIII. BBI",
+   "address": "Pasaje Corintias 2554\nHUALPÉN  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Thu 19:30",
    "phones": [ "+569 52227970" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2828,14 +2969,14 @@
   "properties": {
    "orgName": "Reconquista - Hualpén",
    "orgType": "CONG",
-   "address": "Pasaje Corintias 2554\r\nHUALPÉN  (VIII. BBI",
+   "address": "Pasaje Corintias 2554\nHUALPÉN  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "+56988591038" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2851,14 +2992,14 @@
   "properties": {
    "orgName": "Costanera - Hualpén",
    "orgType": "CONG",
-   "address": "Pasaje Corintias 2554\r\nHUALPÉN  (VIII. BBI",
+   "address": "Pasaje Corintias 2554\nHUALPÉN  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 17:00 Wed 19:30",
    "phones": [ "+56962098565" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2874,21 +3015,21 @@
   "properties": {
    "orgName": "Río Bío Bío - San Carlos de Purén",
    "orgType": "CONG",
-   "address": "Biobío s/n, Quinta Betania 4, San Carlos de Purén\r\nLOS ÁNGELES  (VIII. BBI",
+   "address": "Biobío s/n, Quinta Betania 4, San Carlos de Purén\nLOS ÁNGELES  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 19:30",
-   "phones": [ "56985947020" ],
+   "phones": [ "56975897489" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "06E40C67-7C12-48AC-AAC0-B2EA4F4B35EE",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -36.822368,
    "longitude": -73.042611,
@@ -2903,8 +3044,8 @@
    "phones": [ "977793178" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2925,7 +3066,7 @@
    "phones": [ "+56998357571" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-02",
   "active": 0,
   "firstSeen": "2023-06-02"
@@ -2933,7 +3074,7 @@
  {
   "geoId": "1945541B-53A0-4CBF-914C-ADEED562F88E",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -36.822368,
    "longitude": -73.042611,
@@ -2948,8 +3089,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2971,15 +3112,15 @@
    "phones": [ "+56998357571" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "8BB81FB6-725F-449C-8057-9F1C109704C2",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -36.772684,
    "longitude": -73.086009,
@@ -2988,14 +3129,14 @@
   "properties": {
    "orgName": "Entre Puentes - Talcahuano",
    "orgType": "CONG",
-   "address": "Colón 6390\r\nPoblación Esmeralda\r\nTALCAHUANO  (VIII. BBI",
+   "address": "Colón 6390\nPoblación Esmeralda\nTALCAHUANO  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "+56953278964" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3011,37 +3152,14 @@
   "properties": {
    "orgName": "Las Higueras - Talcahuano",
    "orgType": "CONG",
-   "address": "Federico Elton 595\r\nHigueras\r\nTALCAHUANO  (VIII. BBI",
+   "address": "Federico Elton 595\nHigueras\nTALCAHUANO  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "976986352" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "FDD7E318-EB7F-41D4-8786-B2E7CA1C98CB",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -36.74149,
-   "longitude": -73.10389,
-   "iso": "CHL"
-  },
-  "properties": {
-   "orgName": "Las Salinas - Talcahuano",
-   "orgType": "CONG",
-   "address": "Federico Elton 595\r\nHigueras\r\nTALCAHUANO  (VIII. BBI",
-   "languageCode": "S",
-   "schedule": "Sat 17:00 Wed 19:30",
-   "phones": [ "9-8211 0682 /  9-5821 7317" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3057,14 +3175,37 @@
   "properties": {
    "orgName": "Central - Talcahuano",
    "orgType": "CONG",
-   "address": "Avenida España 548\r\nPoblanción San Vicente\r\nTALCAHUANO  (VIII. BBI",
+   "address": "Avenida España 548\nPoblanción San Vicente\nTALCAHUANO  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "+56987508963" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "FDD7E318-EB7F-41D4-8786-B2E7CA1C98CB",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -36.75643,
+   "longitude": -73.087203,
+   "iso": "CHL"
+  },
+  "properties": {
+   "orgName": "Las Salinas - Talcahuano",
+   "orgType": "CONG",
+   "address": "Jaime Repullo 2962\nPoblación Huertos Familiares\nTALCAHUANO  (VIII. BBI",
+   "languageCode": "S",
+   "schedule": "Sun 10:30 Wed 19:30",
+   "phones": [ "9-8211 0682 /  9-5821 7317" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3080,14 +3221,14 @@
   "properties": {
    "orgName": "Villa Ensenada - Talcahuano",
    "orgType": "CONG",
-   "address": "Jaime Repullo 2962\r\nPoblación Huertos Familiares\r\nTALCAHUANO  (VIII. BBI",
+   "address": "Jaime Repullo 2962\nPoblación Huertos Familiares\nTALCAHUANO  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Tue 19:30",
-   "phones": [],
+   "phones": [ "56 9 79981262" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3103,14 +3244,14 @@
   "properties": {
    "orgName": "Centinela - Talcahuano",
    "orgType": "CONG",
-   "address": "Lonconao 428\r\nTALCAHUANO  (VIII. BBI",
+   "address": "Lonconao 428\nTALCAHUANO  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "+56975465273" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-05-29"
  },
@@ -3126,14 +3267,14 @@
   "properties": {
    "orgName": "Barrio Norte - Concepción",
    "orgType": "CONG",
-   "address": "Las Torres 2154\r\nEx Padre Alberto Hurtado 2154, Barrio Norte\r\nCONCEPCIÓN  (VIII. BBI",
+   "address": "Las Torres 2154\nEx Padre Alberto Hurtado 2154, Barrio Norte\nCONCEPCIÓN  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Thu 19:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3149,21 +3290,21 @@
   "properties": {
    "orgName": "Entre Lagunas - Concepción",
    "orgType": "CONG",
-   "address": "Las Torres 2154\r\nEx Padre Alberto Hurtado 2154, Barrio Norte\r\nCONCEPCIÓN  (VIII. BBI",
+   "address": "Las Torres 2154\nEx Padre Alberto Hurtado 2154, Barrio Norte\nCONCEPCIÓN  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "956438666" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "10E33B90-C107-4598-9014-9EAC13F430D7",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": -36.802189,
    "longitude": -73.040162,
@@ -3172,14 +3313,14 @@
   "properties": {
    "orgName": "Criollo Haitiano Concepción",
    "orgType": "CONG",
-   "address": "Las Torres 2154\r\nEx Padre Alberto Hurtado 2154, Barrio Norte\r\nCONCEPCIÓN  (VIII. BBI",
+   "address": "Las Torres 2154\nEx Padre Alberto Hurtado 2154, Barrio Norte\nCONCEPCIÓN  (VIII. BBI",
    "languageCode": "CR",
    "schedule": "Sun 13:00 Tue 19:00",
    "phones": [ "930134493" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3195,14 +3336,14 @@
   "properties": {
    "orgName": "Collao - Concepción",
    "orgType": "CONG",
-   "address": "General Novoa 825\r\nCONCEPCIÓN  (VIII. BBI",
+   "address": "General Novoa 825\nCONCEPCIÓN  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "+56&nbsp;998263388" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3218,14 +3359,14 @@
   "properties": {
    "orgName": "Nonguén - Concepción",
    "orgType": "CONG",
-   "address": "General Novoa 825\r\nCONCEPCIÓN  (VIII. BBI",
+   "address": "General Novoa 825\nCONCEPCIÓN  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 16:00 Tue 19:30",
    "phones": [ "+56 9 9754 7709" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3241,16 +3382,39 @@
   "properties": {
    "orgName": "Las Encinas - Los Ángeles",
    "orgType": "CONG",
-   "address": "Avenida Los Carrera 991\r\nLOS ÁNGELES  (VIII. BBI",
+   "address": "Avenida Los Carrera 991\nLOS ÁNGELES  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "9 77740920" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "E982A547-C44D-4024-A11D-85A71C62F453",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -37.484256,
+   "longitude": -72.347225,
+   "iso": "CHL"
+  },
+  "properties": {
+   "orgName": "Criollo Haitiano Los Ángeles",
+   "orgType": "CONG",
+   "address": "Avenida Los Carrera 991\nLOS ÁNGELES  (VIII. BBI",
+   "languageCode": "CR",
+   "schedule": "Sun 10:00 Fri 19:30",
+   "phones": [ "+56930503573" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2023-09-28"
  },
  {
   "geoId": "42C958DE-A869-432E-AB1D-C9091199E654",
@@ -3264,15 +3428,14 @@
   "properties": {
    "orgName": "El Arrayán - Los Ángeles",
    "orgType": "CONG",
-   "address": "Lord Cochrane 250\r\nLOS ÁNGELES  (VIII. BBI",
+   "address": "Lord Cochrane 250\nLOS ÁNGELES  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 16:15 Tue 19:30",
-   "relatedLanguageCodes": [ "CR" ],
    "phones": [ "+56&nbsp;9 76959765" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3294,8 +3457,8 @@
    "phones": [ "+56 9 9290 1078" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3317,8 +3480,8 @@
    "phones": [ "+56&nbsp;9 7588 1405" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3341,9 +3504,9 @@
    "phones": [ "+56&nbsp;9 76959765" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
@@ -3365,7 +3528,7 @@
    "phones": [ "+56&nbsp;9 7588 1405" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-05-29",
   "active": 0,
   "firstSeen": "2022-12-02"
@@ -3382,14 +3545,14 @@
   "properties": {
    "orgName": "Valle Blanco - Concepción",
    "orgType": "CONG",
-   "address": "Calle B 1220\r\nCONCEPCIÓN  (VIII. BBI",
+   "address": "Calle B 1220\nCONCEPCIÓN  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Tue 19:30",
    "phones": [ "+56&nbsp;9 61905181" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3405,14 +3568,14 @@
   "properties": {
    "orgName": "Andalién - Concepción",
    "orgType": "CONG",
-   "address": "Calle B 1220\r\nCONCEPCIÓN  (VIII. BBI",
+   "address": "Calle B 1220\nCONCEPCIÓN  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "+56931036569" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3428,14 +3591,14 @@
   "properties": {
    "orgName": "Penco",
    "orgType": "CONG",
-   "address": "Infante 28\r\nPENCO  (VIII. BBI",
+   "address": "Infante 28\nPENCO  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "+56 9 9097 3589" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-02-20"
  },
@@ -3451,14 +3614,14 @@
   "properties": {
    "orgName": "Lirquén",
    "orgType": "CONG",
-   "address": "Infante 28\r\nPENCO  (VIII. BBI",
+   "address": "Infante 28\nPENCO  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "+56997890883" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-02-20"
  },
@@ -3474,14 +3637,14 @@
   "properties": {
    "orgName": "Santa Bárbara",
    "orgType": "CONG",
-   "address": "Carrera 837\r\nSANTA BÁRBARA  (VIII. BBI",
+   "address": "Carrera 837\nSANTA BÁRBARA  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 17:00 Wed 19:00",
-   "phones": [ "996939453" ],
+   "phones": [ "945625719" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3497,14 +3660,14 @@
   "properties": {
    "orgName": "Yumbel",
    "orgType": "CONG",
-   "address": "Los Carrera 560\r\nYUMBEL  (VIII. BBI",
+   "address": "Los Carrera 560\nYUMBEL  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "+56 9 22489635" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3520,14 +3683,14 @@
   "properties": {
    "orgName": "Saltos del Laja",
    "orgType": "CONG",
-   "address": "Los Aromos Parcela N°1\r\nSALTOS DEL LAJA  (VIII. BBI",
+   "address": "Los Aromos Parcela N°1\nSALTOS DEL LAJA  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "+56991345100" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3543,15 +3706,15 @@
   "properties": {
    "orgName": "Frutillares - Tomé",
    "orgType": "CONG",
-   "address": "Avenida Vicente Palacios 1945\r\nTOMÉ  (VIII. BBI",
+   "address": "Avenida Vicente Palacios 1945\nTOMÉ  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "relatedLanguageCodes": [ "SCH" ],
    "phones": [ "+56&nbsp;9 50578067" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-02-20"
  },
@@ -3567,14 +3730,14 @@
   "properties": {
    "orgName": "Los Tilos - Tomé",
    "orgType": "CONG",
-   "address": "Avenida Vicente Palacios 1945\r\nTOMÉ  (VIII. BBI",
+   "address": "Avenida Vicente Palacios 1945\nTOMÉ  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "+56 974594936" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-02-20"
  },
@@ -3597,8 +3760,8 @@
    "phones": [ "+56&nbsp;9 50578067" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2023-02-20"
  },
@@ -3620,8 +3783,8 @@
    "phones": [ "974009115" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3644,7 +3807,7 @@
    "phones": [ "974009115" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2023-06-02"
@@ -3661,14 +3824,14 @@
   "properties": {
    "orgName": "Dichato",
    "orgType": "CONG",
-   "address": "Pedro León Ugalde 152\r\nDichato\r\nTOMÉ  (VIII. BBI",
+   "address": "Pedro León Ugalde 152\nDichato\nTOMÉ  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 19:00 Thu 19:30",
    "phones": [ "+56997224515" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3684,14 +3847,14 @@
   "properties": {
    "orgName": "Florida",
    "orgType": "CONG",
-   "address": "Arturo Prat 1068-B\r\nFLORIDA  (VIII. BBI",
+   "address": "Arturo Prat 1068-B\nFLORIDA  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "+56942321895" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3707,14 +3870,14 @@
   "properties": {
    "orgName": "Cabrero",
    "orgType": "CONG",
-   "address": "Aníbal Pinto 330\r\nCABRERO  (VIII. BBI",
+   "address": "Aníbal Pinto 330\nCABRERO  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Thu 19:00",
    "phones": [ "942284121" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3736,8 +3899,8 @@
    "phones": [ "+56&nbsp;+56 9 6272 0487" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3753,14 +3916,14 @@
   "properties": {
    "orgName": "Campanario",
    "orgType": "CONG",
-   "address": "Las Delicias 548\r\nCAMPANARIO  (VIII. BBI",
+   "address": "Las Delicias 548\nCAMPANARIO  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "+56974963495" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3776,14 +3939,14 @@
   "properties": {
    "orgName": "Cerro Negro - Quillón",
    "orgType": "GROUP",
-   "address": "Camino a Cerro Negro\r\nSector el Maiten Callejón 7a s/n; ruta N-860\r\nQUILLÓN  (XVI. NUBL",
+   "address": "Camino a Cerro Negro\nSector el Maiten Callejón 7a s/n; ruta N-860\nQUILLÓN  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:15",
    "phones": [ "996382441" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3799,14 +3962,14 @@
   "properties": {
    "orgName": "Quillón",
    "orgType": "CONG",
-   "address": "Avenida Avendaño 846\r\nQUILLÓN  (XVI. NUBL",
+   "address": "Avenida Avendaño 846\nQUILLÓN  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:15",
    "phones": [ "996382441" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3822,14 +3985,14 @@
   "properties": {
    "orgName": "Coelemu",
    "orgType": "CONG",
-   "address": "Manuel A. Matta 439\r\nCOELEMU  (XVI. NUBL",
+   "address": "Manuel A. Matta 439\nCOELEMU  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sat 18:30 Wed 19:30",
    "phones": [ "+56 9 74354187" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3845,14 +4008,14 @@
   "properties": {
    "orgName": "Trehuaco",
    "orgType": "CONG",
-   "address": "Manuel A. Matta 439\r\nCOELEMU  (XVI. NUBL",
+   "address": "Manuel A. Matta 439\nCOELEMU  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sat 10:00 Thu 19:30",
    "phones": [ "+56977463280" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3868,14 +4031,14 @@
   "properties": {
    "orgName": "Ñipas",
    "orgType": "CONG",
-   "address": "Maira Castellón 469 B, Ñipas\r\nÑIPAS  (VIII. BBI",
+   "address": "Maira Castellón 469 B, Ñipas\nÑIPAS  (VIII. BBI",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "+56 9 9985 5688" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3891,14 +4054,14 @@
   "properties": {
    "orgName": "Yungay",
    "orgType": "CONG",
-   "address": "Arturo Prat 267\r\nYUNGAY  (XVI. NUBL",
+   "address": "Arturo Prat 267\nYUNGAY  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "+56976447851" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3914,14 +4077,14 @@
   "properties": {
    "orgName": "Pemuco",
    "orgType": "CONG",
-   "address": "Avenida Colón 596\r\nPEMUCO  (XVI. NUBL",
+   "address": "Avenida Colón 596\nPEMUCO  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sat 17:00 Wed 19:00",
    "phones": [ "+569 78859562" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3937,14 +4100,14 @@
   "properties": {
    "orgName": "Bulnes",
    "orgType": "CONG",
-   "address": "Errázuriz 483\r\nBULNES  (XVI. NUBL",
+   "address": "Errázuriz 483\nBULNES  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "+56966590148" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3960,14 +4123,14 @@
   "properties": {
    "orgName": "Santa Clara",
    "orgType": "CONG",
-   "address": "Errázuriz 483\r\nBULNES  (XVI. NUBL",
+   "address": "Errázuriz 483\nBULNES  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "995294606" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3983,14 +4146,14 @@
   "properties": {
    "orgName": "Portezuelo",
    "orgType": "CONG",
-   "address": "Pedro de Valdivia 90\r\nPoblación La Quinta, Portezuelo\r\nPORTEZUELO  (XVI. NUBL",
+   "address": "Pedro de Valdivia 90\nPoblación La Quinta, Portezuelo\nPORTEZUELO  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sun 10:30 Wed 19:30",
    "phones": [ "+56&nbsp;9 7801 5415" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4006,14 +4169,14 @@
   "properties": {
    "orgName": "El Carmen",
    "orgType": "CONG",
-   "address": "Maipú 423\r\nEL CARMEN  (XVI. NUBL",
+   "address": "Maipú 423\nEL CARMEN  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sat 17:30 Tue 19:00",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4029,14 +4192,14 @@
   "properties": {
    "orgName": "San Ignacio",
    "orgType": "CONG",
-   "address": "Ruta N-65 Km 1.4\r\nSAN IGNACIO  (XVI. NUBL",
+   "address": "Ruta N-65 Km 1.4\nSAN IGNACIO  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "966175044" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4052,14 +4215,14 @@
   "properties": {
    "orgName": "Quirihue",
    "orgType": "CONG",
-   "address": "Maipú 718\r\nQUIRIHUE  (XVI. NUBL",
+   "address": "Maipú 718\nQUIRIHUE  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4075,14 +4238,14 @@
   "properties": {
    "orgName": "Cobquecura",
    "orgType": "CONG",
-   "address": "Maipú 718\r\nQUIRIHUE  (XVI. NUBL",
+   "address": "Maipú 718\nQUIRIHUE  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sat 10:30 Wed 19:00",
    "phones": [ "+56982588640" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4098,14 +4261,14 @@
   "properties": {
    "orgName": "El Tejar - Chillán",
    "orgType": "CONG",
-   "address": "Sotomayor 342\r\nCHILLÁN VIEJO  (XVI. NUBL",
+   "address": "Sotomayor 342\nCHILLÁN VIEJO  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sat 18:30 Thu 19:15",
    "phones": [ "+56&nbsp;9 94066409" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4121,14 +4284,14 @@
   "properties": {
    "orgName": "Chillán Viejo",
    "orgType": "CONG",
-   "address": "Sotomayor 342\r\nCHILLÁN VIEJO  (XVI. NUBL",
+   "address": "Sotomayor 342\nCHILLÁN VIEJO  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "+56994185389" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4144,14 +4307,14 @@
   "properties": {
    "orgName": "Estación - Chillán",
    "orgType": "CONG",
-   "address": "Purén 586\r\nCHILLÁN  (XVI. NUBL",
+   "address": "Purén 586\nCHILLÁN  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sat 17:00 Wed 19:15",
    "phones": [ "968544487" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4173,8 +4336,8 @@
    "phones": [ "+56-9-30597156" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4190,14 +4353,14 @@
   "properties": {
    "orgName": "San Nicolás",
    "orgType": "CONG",
-   "address": "La Quintrala 20\r\nSAN NICOLÁS  (XVI. NUBL",
+   "address": "La Quintrala 20\nSAN NICOLÁS  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "965394185" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4213,14 +4376,14 @@
   "properties": {
    "orgName": "Ninhue",
    "orgType": "CONG",
-   "address": "La Quintrala 20\r\nSAN NICOLÁS  (XVI. NUBL",
+   "address": "La Quintrala 20\nSAN NICOLÁS  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sun 10:15 Thu 19:30",
    "phones": [ "+56 9 5197 0924" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4236,14 +4399,14 @@
   "properties": {
    "orgName": "Sur - Chillán",
    "orgType": "CONG",
-   "address": "Avenida Los Puelches 1533\r\nCHILLÁN  (XVI. NUBL",
+   "address": "Avenida Los Puelches 1533\nCHILLÁN  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:15",
    "phones": [ "+56987470814" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4259,14 +4422,14 @@
   "properties": {
    "orgName": "Los Volcanes - Chillán",
    "orgType": "CONG",
-   "address": "Avenida Los Puelches 1533\r\nCHILLÁN  (XVI. NUBL",
+   "address": "Avenida Los Puelches 1533\nCHILLÁN  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "988366201" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4282,14 +4445,14 @@
   "properties": {
    "orgName": "Criollo Haitiano Chillán",
    "orgType": "CONG",
-   "address": "Avenida Los Puelches 1533\r\nCHILLÁN  (XVI. NUBL",
+   "address": "Avenida Los Puelches 1533\nCHILLÁN  (XVI. NUBL",
    "languageCode": "CR",
    "schedule": "Sun 17:00 Thu 19:15",
-   "phones": [ "974766545 - 920120288" ],
+   "phones": [ "940736470 - 920120288" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4305,14 +4468,14 @@
   "properties": {
    "orgName": "Mercado - Chillán",
    "orgType": "CONG",
-   "address": "Vega de Saldías 1150\r\nCHILLÁN  (XVI. NUBL",
+   "address": "Vega de Saldías 1150\nCHILLÁN  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:15",
    "phones": [ "+56 9 56283346" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4328,14 +4491,14 @@
   "properties": {
    "orgName": "Norte - Chillán",
    "orgType": "CONG",
-   "address": "Vega de Saldías 1150\r\nCHILLÁN  (XVI. NUBL",
+   "address": "Vega de Saldías 1150\nCHILLÁN  (XVI. NUBL",
    "languageCode": "S",
    "schedule": "Sat 19:00 Thu 19:15",
    "phones": [ "990797430" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4351,14 +4514,14 @@
   "properties": {
    "orgName": "Puente Ñuble",
    "orgType": "CONG",
-   "address": "Ruta 5 Sur Km 393\r\nSector Oratorio\r\nPUENTE ÑUBLE  (VIII. BBI",
+   "address": "Ruta 5 Sur Km 393\nSector Oratorio\nPUENTE ÑUBLE  (VIII. BBI",
    "languageCode": "S",
-   "schedule": "Sat 18:00 Wed 19:00",
+   "schedule": "Sat 18:30 Wed 19:30",
    "phones": [ "986615402" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4374,21 +4537,21 @@
   "properties": {
    "orgName": "Pelluhue",
    "orgType": "CONG",
-   "address": "Las Brisas sin número\r\nPELLUHUE  (VII. MAUL",
+   "address": "Las Brisas sin número\nPELLUHUE  (VII. MAUL",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:15",
    "phones": [ "+56953723170" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FB732A12-8820-4C75-9332-2CC5FCAB1E42",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -35.988234,
    "longitude": -72.314613,
@@ -4397,42 +4560,19 @@
   "properties": {
    "orgName": "Las Viñas - Cauquenes",
    "orgType": "CONG",
-   "address": "Lautaro 72\r\nBarrio Estación\r\nCAUQUENES  (VII. MAUL",
+   "address": "Lautaro 72\nBarrio Estación\nCAUQUENES  (VII. MAUL",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "975613824" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "81475042-B096-419F-BF76-A92FBC406C9D",
-  "type": "weekly",
-  "isPrimary": 0,
-  "location": {
-   "latitude": -35.968454,
-   "longitude": -72.322194,
-   "iso": "CHL"
-  },
-  "properties": {
-   "orgName": "Central - Cauquenes",
-   "orgType": "CONG",
-   "address": "Errázuriz 320\r\nCAUQUENES  (VII. MAUL",
-   "languageCode": "S",
-   "schedule": "Sun 10:00 Thu 19:30",
-   "phones": [ "+56 94421 6521" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "11B0CAB4-248E-4B8D-8057-BAFBF35AA758",
   "type": "weekly",
   "isPrimary": 1,
   "location": {
@@ -4441,16 +4581,39 @@
    "iso": "CHL"
   },
   "properties": {
+   "orgName": "Central - Cauquenes",
+   "orgType": "CONG",
+   "address": "Errázuriz 320\nCAUQUENES  (VII. MAUL",
+   "languageCode": "S",
+   "schedule": "Sun 10:00 Thu 19:30",
+   "phones": [ "+56 94421 6521" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "11B0CAB4-248E-4B8D-8057-BAFBF35AA758",
+  "type": "weekly",
+  "isPrimary": 0,
+  "location": {
+   "latitude": -35.968454,
+   "longitude": -72.322194,
+   "iso": "CHL"
+  },
+  "properties": {
    "orgName": "Señas Cauquenes",
    "orgType": "CONG",
-   "address": "Errázuriz 320\r\nCAUQUENES  (VII. MAUL",
+   "address": "Errázuriz 320\nCAUQUENES  (VII. MAUL",
    "languageCode": "SCH",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "+56985434900" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4466,16 +4629,39 @@
   "properties": {
    "orgName": "Chanco",
    "orgType": "CONG",
-   "address": "Abdón Fuentealba 950\r\nCHANCO  (VII. MAUL",
+   "address": "Abdón Fuentealba 950\nCHANCO  (VII. MAUL",
    "languageCode": "S",
    "schedule": "Sat 18:30 Wed 19:30",
    "phones": [ "992377289" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "EB8536A8-9F64-432C-A3C2-A5646A3BEA71(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -35.594853,
+   "longitude": -72.274079
+  },
+  "properties": {
+   "orgName": "(Moved) Empedrado",
+   "orgType": "CONG",
+   "address": "Balmaceda 920\nEMPEDRADO  (VII. MAUL",
+   "languageCode": "S",
+   "schedule": "Sun 11:00 Thu 19:30",
+   "phones": [ "+56971390728" ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastSeen": "2023-02-20",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "Santa Olga, Panguipulli 57\nEMPEDRADO  (VII. MAUL",
+  "lastVisit": "2023-02-20"
  },
  {
   "geoId": "87CCC5BA-9332-4CED-BDE9-040C8B292E55",
@@ -4489,14 +4675,14 @@
   "properties": {
    "orgName": "Central - Constitución",
    "orgType": "CONG",
-   "address": "Prieto 490\r\nCONSTITUCIÓN  (VII. MAUL",
+   "address": "Prieto 490\nCONSTITUCIÓN  (VII. MAUL",
    "languageCode": "S",
    "schedule": "Sun 10:15 Wed 19:30",
    "phones": [ "976628461" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4512,14 +4698,14 @@
   "properties": {
    "orgName": "Ensenada - Constitución",
    "orgType": "CONG",
-   "address": "Prieto 490\r\nCONSTITUCIÓN  (VII. MAUL",
+   "address": "Prieto 490\nCONSTITUCIÓN  (VII. MAUL",
    "languageCode": "S",
    "schedule": "Sat 18:00 Thu 19:30",
    "phones": [ "+56992673125" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4535,14 +4721,14 @@
   "properties": {
    "orgName": "Empedrado",
    "orgType": "CONG",
-   "address": "Santa Olga, Panguipulli 57\r\nEMPEDRADO  (VII. MAUL",
+   "address": "Santa Olga, Panguipulli 57\nEMPEDRADO  (VII. MAUL",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "+56971390728" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4558,14 +4744,14 @@
   "properties": {
    "orgName": "Curepto",
    "orgType": "CONG",
-   "address": "Patricio Lynch 88\r\nCUREPTO  (VII. MAUL",
+   "address": "Patricio Lynch 88\nCUREPTO  (VII. MAUL",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "985580242" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4581,15 +4767,15 @@
   "properties": {
    "orgName": "Bosques - Pichilemu",
    "orgType": "CONG",
-   "address": "Hernando de Magallanes Lote 1\r\nVilla Los Navegantes\r\nPICHILEMU  (VI. LGBO)",
+   "address": "Hernando de Magallanes Lote 1\nVilla Los Navegantes\nPICHILEMU  (VI. LGBO)",
    "languageCode": "S",
    "schedule": "Sun 10:00 Thu 19:00",
    "relatedLanguageCodes": [ "CR" ],
    "phones": [ "+56&nbsp;981999574" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4605,14 +4791,14 @@
   "properties": {
    "orgName": "Punta de Lobos - Pichilemu",
    "orgType": "CONG",
-   "address": "Hernando de Magallanes Lote 1\r\nVilla Los Navegantes\r\nPICHILEMU  (VI. LGBO)",
+   "address": "Hernando de Magallanes Lote 1\nVilla Los Navegantes\nPICHILEMU  (VI. LGBO)",
    "languageCode": "S",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "963402120" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

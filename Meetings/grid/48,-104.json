@@ -2,7 +2,7 @@
  {
   "geoId": "03436A72-D2B9-4487-8AE4-13D51A1B74AB",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 48.205693,
    "longitude": -103.622854,
@@ -18,15 +18,15 @@
    "phones": [ "701-572-8609" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8524EEEF-BAB5-4D21-A91A-B72FB5673DC2",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 48.205693,
    "longitude": -103.622854,
@@ -42,8 +42,8 @@
    "phones": [ "701-572-8609" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -59,14 +59,14 @@
   "properties": {
    "orgName": "Weyburn, SK",
    "orgType": "CONG",
-   "address": "1815 1 Avenue NE\r\nWeyburn SK  S4H 0A1",
+   "address": "1815 1 Avenue NE\nWeyburn SK  S4H 0A1",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "306-842-3273" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -82,14 +82,14 @@
   "properties": {
    "orgName": "Powers Lake - ND (USA)",
    "orgType": "CONG",
-   "address": "9121 ND-50\r\nPowers Lake ND  58773",
+   "address": "9121 ND-50\nPowers Lake ND  58773",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "701-629-0600" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -105,14 +105,14 @@
   "properties": {
    "orgName": "Estevan, SK",
    "orgType": "CONG",
-   "address": "710 4 Street\r\nEstevan SK  S4A 0V7",
+   "address": "710 4 Street\nEstevan SK  S4A 0V7",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "(639) 975-0152" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -135,8 +135,8 @@
    "phones": [ "(701) 838-7750" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -159,8 +159,8 @@
    "phones": [ "(701) 838-7750" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -176,14 +176,14 @@
   "properties": {
    "orgName": "Fort Qu’Appelle, SK",
    "orgType": "CONG",
-   "address": "313 Okanesse Avenue North\r\nFort Qu’Appelle SK  S0G 1S0",
+   "address": "313 Okanesse Avenue North\nFort Qu’Appelle SK  S0G 1S0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "639-622-0236" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -199,37 +199,14 @@
   "properties": {
    "orgName": "Melville, SK",
    "orgType": "CONG",
-   "address": "1066 Columbia Street\r\nMelville SK  S0A 2P0",
+   "address": "1066 Columbia Street\nMelville SK  S0A 2P0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "306-730-8600" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "A4275EC2-48E6-4E17-AD8C-24BD4E1456C2",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 50.938129,
-   "longitude": -102.810129,
-   "iso": "CAN"
-  },
-  "properties": {
-   "orgName": "Esterhazy, SK",
-   "orgType": "CONG",
-   "address": "1066 Columbia Street\r\nMelville SK  S0A 2P0",
-   "languageCode": "E",
-   "schedule": "Sun 10:00 Wed 19:30",
-   "phones": [ "(866) 541-3555" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -245,14 +222,14 @@
   "properties": {
    "orgName": "Wadena, SK",
    "orgType": "CONG",
-   "address": "122 Fourth Street NW\r\nWadena SK  S0A 4J0",
+   "address": "122 Fourth Street NW\nWadena SK  S0A 4J0",
    "languageCode": "E",
    "schedule": "Sun 10:30 Tue 19:00",
    "phones": [ "866-422-1555" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -268,14 +245,14 @@
   "properties": {
    "orgName": "Melita, MB",
    "orgType": "CONG",
-   "address": "116 Souris Street\r\nMelita MB  R0M 1L0",
+   "address": "116 Souris Street\nMelita MB  R0M 1L0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "431-722-2764" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -297,8 +274,8 @@
    "phones": [ "( 701 ) 871-1592" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -320,8 +297,8 @@
    "phones": [ "701-776-2110" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -337,14 +314,60 @@
   "properties": {
    "orgName": "Moosomin, SK",
    "orgType": "CONG",
-   "address": "220 Henry Street\r\nMoosomin SK  S0G 3N0",
+   "address": "220 Henry Street\nMoosomin SK  S0G 3N0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "639-692-0050" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "A4275EC2-48E6-4E17-AD8C-24BD4E1456C2(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 50.657851,
+   "longitude": -102.078021
+  },
+  "properties": {
+   "orgName": "(Moved) Esterhazy, SK",
+   "orgType": "CONG",
+   "address": "618 Main Street\r\nEsterhazy SK  S0A 0X0",
+   "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:30",
+   "phones": [ "(866) 541-3555" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-06-14",
+  "lastSeen": "2023-06-14",
+  "active": 0,
+  "firstSeen": "2022-12-02",
+  "moved": "1301 Park Avenue\nEsterhazy SK  S0A 0X0"
+ },
+ {
+  "geoId": "A4275EC2-48E6-4E17-AD8C-24BD4E1456C2",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 50.653017,
+   "longitude": -102.056794,
+   "iso": "CAN"
+  },
+  "properties": {
+   "orgName": "Esterhazy, SK",
+   "orgType": "CONG",
+   "address": "1301 Park Avenue\nEsterhazy SK  S0A 0X0",
+   "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:30",
+   "phones": [ "(866) 541-3555" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -360,14 +383,14 @@
   "properties": {
    "orgName": "Yorkton, SK",
    "orgType": "CONG",
-   "address": "51 Alderwood Place\r\nYorkton SK  S3N 4G3",
+   "address": "51 Alderwood Place\nYorkton SK  S3N 4G3",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(639) 884-1574" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -383,14 +406,14 @@
   "properties": {
    "orgName": "Virden, MB",
    "orgType": "CONG",
-   "address": "359 Queen Street East\r\nVirden MB  R0M 2C0",
+   "address": "359 Queen Street East\nVirden MB  R0M 2C0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "431-489-0838" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -406,14 +429,14 @@
   "properties": {
    "orgName": "Porcupine Plain, SK",
    "orgType": "CONG",
-   "address": "113 McAllister Avenue S\r\nPorcupine Plain SK  S0E 1H0",
+   "address": "113 McAllister Avenue S\nPorcupine Plain SK  S0E 1H0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "877-711-9309" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -429,14 +452,14 @@
   "properties": {
    "orgName": "Sturgis, SK",
    "orgType": "CONG",
-   "address": "422 First Avenue SE\r\nSturgis SK  S0A 4A0",
+   "address": "422 First Avenue SE\nSturgis SK  S0A 4A0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "306-548-4233" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -452,14 +475,14 @@
   "properties": {
    "orgName": "Killarney, MB",
    "orgType": "CONG",
-   "address": "Highway 3 West\r\nKillarney MB  R0K 1G0",
+   "address": "Highway 3 West\nKillarney MB  R0K 1G0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 18:45",
    "phones": [ "877-425-4907" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -475,21 +498,21 @@
   "properties": {
    "orgName": "Kamsack, SK",
    "orgType": "CONG",
-   "address": "418 Cotter Street\r\nKamsack SK  S0A 1S0",
+   "address": "418 Cotter Street\nKamsack SK  S0A 1S0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "8774254681" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EF1B617D-E9AF-4553-8032-487A1C789BA1",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.835667,
    "longitude": -99.98546,
@@ -498,14 +521,14 @@
   "properties": {
    "orgName": "Spruce Woods, Brandon, MB",
    "orgType": "CONG",
-   "address": "3434 Park Avenue\r\nBrandon MB  R7B 3M5",
+   "address": "3434 Park Avenue\nBrandon MB  R7B 3M5",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(204) 520-2103" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -527,15 +550,15 @@
    "phones": [ "(204) 520-2103" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
+  "lastVisit": "2023-09-28",
   "lastSeen": "2023-08-16",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A7817200-323F-44E8-9B7B-9DF298A12B8E",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.835667,
    "longitude": -99.98546,
@@ -544,14 +567,15 @@
   "properties": {
    "orgName": "Prairieview, Brandon, MB",
    "orgType": "CONG",
-   "address": "3434 Park Avenue\r\nBrandon MB  R7B 3M5",
+   "address": "3434 Park Avenue\nBrandon MB  R7B 3M5",
    "languageCode": "E",
-   "schedule": "Sat 10:30 Wed 19:00",
+   "schedule": "Sun 13:00 Wed 19:00",
+   "relatedLanguageCodes": [ "S" ],
    "phones": [ "(204) 761-6296" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -567,16 +591,97 @@
   "properties": {
    "orgName": "Roblin, MB",
    "orgType": "CONG",
-   "address": "437 Pth 5 W\r\nRoblin MB  R0L 1P0",
+   "address": "437 Pth 5 W\nRoblin MB  R0L 1P0",
    "languageCode": "E",
-   "schedule": "Sun 13:00 Tue 19:30",
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "(877) 711-9152" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "EF1B617D-E9AF-4553-8032-487A1C789BA1(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 49.83143,
+   "longitude": -99.9575
+  },
+  "properties": {
+   "orgName": "(Moved) Spruce Woods, Brandon, MB",
+   "orgType": "CONG",
+   "address": "1200-13th Street\r\nBrandon MB  R7A 4S8\r\n\r\n",
+   "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:00",
+   "phones": [
+    {
+     "phone": "(204) 520-2103"
+    }
+   ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-05-29",
+  "lastSeen": "2023-05-29",
+  "active": 0,
+  "firstSeen": "2023-05-29",
+  "moved": "3434 Park Avenue\nBrandon MB  R7B 3M5"
+ },
+ {
+  "geoId": "F57DB38A-1438-449A-8283-2F23BBC3D87B(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 49.83143,
+   "longitude": -99.9575
+  },
+  "properties": {
+   "orgName": "(Moved) Spanish, Brandon, MB",
+   "orgType": "CONG",
+   "address": "1200-13th Street\r\nBrandon MB  R7A 4S8\r\n\r\n",
+   "languageCode": "S",
+   "schedule": "Sun 10:00 Wed 19:00",
+   "phones": [
+    {
+     "phone": "(204) 520-2103"
+    }
+   ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-05-29",
+  "lastSeen": "2023-05-29",
+  "active": 0,
+  "firstSeen": "2023-05-29",
+  "moved": "3434 Park Avenue\r\nBrandon MB  R7B 3M5"
+ },
+ {
+  "geoId": "A7817200-323F-44E8-9B7B-9DF298A12B8E(Moved)",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 49.83143,
+   "longitude": -99.9575
+  },
+  "properties": {
+   "orgName": "(Moved) Prairieview, Brandon, MB",
+   "orgType": "CONG",
+   "address": "1200-13th Street\r\nBrandon MB  R7A 4S8\r\n\r\n",
+   "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:00",
+   "phones": [
+    {
+     "phone": "(204) 761-6296"
+    }
+   ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-05-29",
+  "lastSeen": "2023-05-29",
+  "active": 0,
+  "firstSeen": "2023-05-29",
+  "moved": "3434 Park Avenue\nBrandon MB  R7B 3M5"
  },
  {
   "geoId": "CEBE6ABC-7663-4D96-9AB2-132610BC4FEB",
@@ -590,14 +695,14 @@
   "properties": {
    "orgName": "Hudson Bay, SK",
    "orgType": "CONG",
-   "address": "603 Donald Street\r\nHudson Bay SK  S0E 0Y0",
+   "address": "603 Donald Street\nHudson Bay SK  S0E 0Y0",
    "languageCode": "E",
    "schedule": "Sun 10:30 Tue 19:30",
-   "phones": [ "306-865-3293" ],
+   "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -613,14 +718,14 @@
   "properties": {
    "orgName": "Neepawa, MB",
    "orgType": "CONG",
-   "address": "260 Rodney Bay North\r\nNeepawa MB  R0J 1H0",
+   "address": "260 Rodney Bay North\nNeepawa MB  R0J 1H0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "877-493-1672" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -636,14 +741,14 @@
   "properties": {
    "orgName": "Swan River, MB",
    "orgType": "CONG",
-   "address": "102 2 Street South\r\nSwan River MB  R0L 1Z0",
+   "address": "102 2 Street South\nSwan River MB  R0L 1Z0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "431-724-1204" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -665,8 +770,8 @@
    "phones": [ "701-352-1539" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -682,14 +787,14 @@
   "properties": {
    "orgName": "Dauphin, MB",
    "orgType": "CONG",
-   "address": "201 7 Ave SW\r\nDauphin MB  R7N 1W9",
+   "address": "201 7 Ave SW\nDauphin MB  R7N 1W9",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "(431) 721-1190" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -705,14 +810,14 @@
   "properties": {
    "orgName": "Altona, MB",
    "orgType": "CONG",
-   "address": "101 Willow Bay\r\nAltona MB  R0G 0B1",
+   "address": "101 Willow Bay\nAltona MB  R0G 0B1",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "1 431 489 0864" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -728,14 +833,14 @@
   "properties": {
    "orgName": "Portage La Prairie, MB",
    "orgType": "CONG",
-   "address": "2360 Sissions Drive\r\nPortage La Prairie MB  R1N 0G5",
+   "address": "2360 Sissions Drive\nPortage La Prairie MB  R1N 0G5",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "204-856-2080" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -757,8 +862,8 @@
    "phones": [ "2186811045" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -774,14 +879,14 @@
   "properties": {
    "orgName": "The Pas, MB",
    "orgType": "CONG",
-   "address": "258 3 Street E\r\nThe Pas MB  R9A 1K7",
+   "address": "258 3 Street E\nThe Pas MB  R9A 1K7",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "204-620-1589" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -797,14 +902,14 @@
   "properties": {
    "orgName": "Fort Garry, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "60 Cadboro Road\r\nWinnipeg MB  R3Y 1R7",
+   "address": "60 Cadboro Road\nWinnipeg MB  R3Y 1R7",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "204-289-3101" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -820,14 +925,14 @@
   "properties": {
    "orgName": "Fort Rouge, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "60 Cadboro Road\r\nWinnipeg MB  R3Y 1R7",
+   "address": "60 Cadboro Road\nWinnipeg MB  R3Y 1R7",
    "languageCode": "E",
    "schedule": "Sat 10:30 Tue 19:00",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -843,14 +948,14 @@
   "properties": {
    "orgName": "Red River Chinese, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "60 Cadboro Road\r\nWinnipeg MB  R3Y 1R7",
+   "address": "60 Cadboro Road\nWinnipeg MB  R3Y 1R7",
    "languageCode": "CHM",
    "schedule": "Sun 13:00 Wed 19:30",
    "phones": [ "204-202-6617" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -866,14 +971,14 @@
   "properties": {
    "orgName": "Arlington, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "1060 Wolever Avenue\r\nWinnipeg MB  R3G 3N6",
+   "address": "1060 Wolever Avenue\nWinnipeg MB  R3G 3N6",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "204-289-1550 ext. 1" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -889,15 +994,15 @@
   "properties": {
    "orgName": "Broadway, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "1060 Wolever Avenue\r\nWinnipeg MB  R3G 3N6",
+   "address": "1060 Wolever Avenue\nWinnipeg MB  R3G 3N6",
    "languageCode": "E",
    "schedule": "Sat 10:30 Wed 19:30",
    "relatedLanguageCodes": [ "TI" ],
    "phones": [ "204-289-1550 ext. 2" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -913,14 +1018,14 @@
   "properties": {
    "orgName": "Silver Heights, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "1060 Wolever Avenue\r\nWinnipeg MB  R3G 3N6",
+   "address": "1060 Wolever Avenue\nWinnipeg MB  R3G 3N6",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "204-289-1550 ext 5" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -936,15 +1041,15 @@
   "properties": {
    "orgName": "Wolever Park, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "1060 Wolever Avenue\r\nWinnipeg MB  R3G 3N6",
+   "address": "1060 Wolever Avenue\nWinnipeg MB  R3G 3N6",
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:30",
    "relatedLanguageCodes": [ "ASL" ],
    "phones": [ "204-289-1550 ext. 7" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -960,14 +1065,14 @@
   "properties": {
    "orgName": "Portage Tagalog, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "1060 Wolever Avenue\r\nWinnipeg MB  R3G 3N6",
+   "address": "1060 Wolever Avenue\nWinnipeg MB  R3G 3N6",
    "languageCode": "TG",
    "schedule": "Sat 10:30 Wed 19:30",
    "phones": [ "204-289-1550 ext. 6" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -983,15 +1088,15 @@
   "properties": {
    "orgName": "Broadway Tigrinya - Broadway, Winnipeg, MB",
    "orgType": "GROUP",
-   "address": "1060 Wolever Avenue\r\nWinnipeg MB  R3G 3N6",
+   "address": "1060 Wolever Avenue\nWinnipeg MB  R3G 3N6",
    "languageCode": "TI",
    "schedule": "Sat 10:30 Wed 19:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "204-289-1550 ext. 2" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1007,66 +1112,19 @@
   "properties": {
    "orgName": "Crestview, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "1877 Inkster Boulevard\r\nWinnipeg MB  R2R 2A6",
+   "address": "1877 Inkster Boulevard\nWinnipeg MB  R2R 2A6",
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:30",
    "phones": [ "(204) 289-3119" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "787B5DBC-4EC1-47EF-93CA-B78361D15AA5",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 49.946212,
-   "longitude": -97.196394,
-   "iso": "CAN"
-  },
-  "properties": {
-   "orgName": "Inkster Gardens, Winnipeg, MB",
-   "orgType": "CONG",
-   "address": "1877 Inkster Boulevard\r\nWinnipeg MB  R2R 2A6",
-   "languageCode": "E",
-   "schedule": "Sun 10:00 Tue 19:30",
-   "relatedLanguageCodes": [ "PJ" ],
-   "phones": [ "(204) 289-3119" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "E8A5D777-065E-421E-8731-A9BCC87A6390",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 49.946212,
-   "longitude": -97.196394,
-   "iso": "CAN"
-  },
-  "properties": {
-   "orgName": "North Meadows Iloko, Winnipeg, MB",
-   "orgType": "CONG",
-   "address": "1877 Inkster Boulevard\r\nWinnipeg MB  R2R 2A6",
-   "languageCode": "IL",
-   "schedule": "Sat 10:30 Wed 19:30",
-   "phones": [ "204-289-3119" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "4785A494-69ED-4284-B352-01D4ED1A575D",
   "type": "weekly",
   "isPrimary": 0,
   "location": {
@@ -1075,17 +1133,64 @@
    "iso": "CAN"
   },
   "properties": {
+   "orgName": "Inkster Gardens, Winnipeg, MB",
+   "orgType": "CONG",
+   "address": "1877 Inkster Boulevard\nWinnipeg MB  R2R 2A6",
+   "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:30",
+   "relatedLanguageCodes": [ "PJ" ],
+   "phones": [ "(204) 289-3119" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "E8A5D777-065E-421E-8731-A9BCC87A6390",
+  "type": "weekly",
+  "isPrimary": 0,
+  "location": {
+   "latitude": 49.946212,
+   "longitude": -97.196394,
+   "iso": "CAN"
+  },
+  "properties": {
+   "orgName": "North Meadows Iloko, Winnipeg, MB",
+   "orgType": "CONG",
+   "address": "1877 Inkster Boulevard\nWinnipeg MB  R2R 2A6",
+   "languageCode": "IL",
+   "schedule": "Sat 10:30 Wed 19:30",
+   "phones": [ "204-289-3119" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "4785A494-69ED-4284-B352-01D4ED1A575D",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 49.946212,
+   "longitude": -97.196394,
+   "iso": "CAN"
+  },
+  "properties": {
    "orgName": "Inkster Gardens Punjabi - Inkster Gardens, Winnipeg, MB",
    "orgType": "GROUP",
-   "address": "1877 Inkster Boulevard\r\nWinnipeg MB  R2R 2A6",
+   "address": "1877 Inkster Boulevard\nWinnipeg MB  R2R 2A6",
    "languageCode": "PJ",
    "schedule": "Sun 10:00 Tue 19:30",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "(204) 289-3119" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1101,21 +1206,21 @@
   "properties": {
    "orgName": "Constancia, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "227 Lakewood Boulevard\r\nWinnipeg MB  R2J 2N2",
+   "address": "227 Lakewood Boulevard\nWinnipeg MB  R2J 2N2",
    "languageCode": "S",
    "schedule": "Sat 10:00 Wed 18:45",
    "phones": [ "431-877-6542" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9A2BB3B8-EF8F-41C4-9395-8A6B842828D5",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 49.848526,
    "longitude": -97.076823,
@@ -1124,21 +1229,21 @@
   "properties": {
    "orgName": "Glenlawn, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "227 Lakewood Boulevard\r\nWinnipeg MB  R2J 2N2",
+   "address": "227 Lakewood Boulevard\nWinnipeg MB  R2J 2N2",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "(204) 289-3120" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D177A233-E32A-46FE-9041-A41A9F5452F0",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 49.848526,
    "longitude": -97.076823,
@@ -1147,14 +1252,14 @@
   "properties": {
    "orgName": "River Park, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "227 Lakewood Boulevard\r\nWinnipeg MB  R2J 2N2",
+   "address": "227 Lakewood Boulevard\nWinnipeg MB  R2J 2N2",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "(204) 272-9341" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1170,14 +1275,14 @@
   "properties": {
    "orgName": "Southdale, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "227 Lakewood Boulevard\r\nWinnipeg MB  R2J 2N2",
+   "address": "227 Lakewood Boulevard\nWinnipeg MB  R2J 2N2",
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:30",
    "phones": [ "(204) 289-3122" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1193,14 +1298,14 @@
   "properties": {
    "orgName": "Provencher French, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "227 Lakewood Boulevard\r\nWinnipeg MB  R2J 2N2",
+   "address": "227 Lakewood Boulevard\nWinnipeg MB  R2J 2N2",
    "languageCode": "F",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "(204) 557-3766" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1216,14 +1321,14 @@
   "properties": {
    "orgName": "Valley Gardens Tagalog, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "227 Lakewood Boulevard\r\nWinnipeg MB  R2J 2N2",
+   "address": "227 Lakewood Boulevard\nWinnipeg MB  R2J 2N2",
    "languageCode": "TG",
    "schedule": "Sun 17:00 Thu 19:30",
    "phones": [ "(204) 289-3120" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1239,21 +1344,21 @@
   "properties": {
    "orgName": "Ashern, MB",
    "orgType": "CONG",
-   "address": "15 Highway 6 N\r\nAshern MB  R0C 0E0",
+   "address": "15 Highway 6 N\nAshern MB  R0C 0E0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "204-768-3381" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "45A353BB-5710-4814-A4A3-47C53506F2A0",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.925778,
    "longitude": -97.074926,
@@ -1262,21 +1367,21 @@
   "properties": {
    "orgName": "East Kildonan, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "937 Gateway Road\r\nWinnipeg MB  R2K 3L1",
+   "address": "937 Gateway Road\nWinnipeg MB  R2K 3L1",
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:30",
    "phones": [ "204-663-3162" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F28616EC-53BB-462E-97D3-A3EDC2F1A2AB",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 49.925778,
    "longitude": -97.074926,
@@ -1285,14 +1390,14 @@
   "properties": {
    "orgName": "Lansdowne, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "937 Gateway Road\r\nWinnipeg MB  R2K 3L1",
+   "address": "937 Gateway Road\nWinnipeg MB  R2K 3L1",
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:30",
    "phones": [ "204-663-3162" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1308,14 +1413,14 @@
   "properties": {
    "orgName": "Tyndall Park Tagalog, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "937 Gateway Road\r\nWinnipeg MB  R2K 3L1",
+   "address": "937 Gateway Road\nWinnipeg MB  R2K 3L1",
    "languageCode": "TG",
    "schedule": "Sat 10:30 Wed 19:30",
    "phones": [ "204-952-5290" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1331,14 +1436,14 @@
   "properties": {
    "orgName": "Transcona, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "930 Pandora Avenue W\r\nWinnipeg MB  R2C 4P8",
+   "address": "930 Pandora Avenue W\nWinnipeg MB  R2C 4P8",
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "204-222-1169" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1354,14 +1459,14 @@
   "properties": {
    "orgName": "Flin Flon, MB",
    "orgType": "CONG",
-   "address": "120 Alder Avenue\r\nFlin Flon MB  R8A 1P5",
+   "address": "120 Alder Avenue\nFlin Flon MB  R8A 1P5",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "(877) 425-4901" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1377,14 +1482,14 @@
   "properties": {
    "orgName": "East St. Paul, Winnipeg, MB",
    "orgType": "CONG",
-   "address": "3760 Andrews Road\r\nEast St Paul MB  R2E 1C2",
+   "address": "3760 Andrews Road\nEast St Paul MB  R2E 1C2",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "204-654-1829" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1400,14 +1505,14 @@
   "properties": {
    "orgName": "Anola, MB",
    "orgType": "CONG",
-   "address": "59151 Highway 12\r\nAnola MB  R0E 0A0",
+   "address": "59151 Highway 12\nAnola MB  R0E 0A0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:30",
    "phones": [ "204-224-2010 or 204-266-0515" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1423,14 +1528,14 @@
   "properties": {
    "orgName": "Winnipeg Beach, MB",
    "orgType": "CONG",
-   "address": "85 Highway 9\r\nWinnipeg Beach MB  R0C 3G0",
+   "address": "85 Highway 9\nWinnipeg Beach MB  R0C 3G0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(204) 389-2724" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1446,14 +1551,14 @@
   "properties": {
    "orgName": "Arborg, MB",
    "orgType": "CONG",
-   "address": "279 St Phillips Drive\r\nArborg MB  R0C 0A0",
+   "address": "279 St Phillips Drive\nArborg MB  R0C 0A0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "204-376-2637" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1469,14 +1574,14 @@
   "properties": {
    "orgName": "Lac du Bonnet, MB",
    "orgType": "CONG",
-   "address": "2 Charlie Hapko Road\r\nLac Du Bonnet MB  R0E 1A0",
+   "address": "2 Charlie Hapko Road\nLac Du Bonnet MB  R0E 1A0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "204-753-2513" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1492,14 +1597,14 @@
   "properties": {
    "orgName": "Thompson, MB",
    "orgType": "CONG",
-   "address": "498 Thompson Drive\r\nThompson MB  R8N 1Y3",
+   "address": "498 Thompson Drive\nThompson MB  R8N 1Y3",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "431-725-1292" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-08-16",
-  "lastSeen": "2023-08-16",
+  "lastVisit": "2023-09-28",
+  "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
  }
