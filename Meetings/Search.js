@@ -20,22 +20,52 @@ var byCountry = {};
 
 let codeToCountry = {};
 
+function assignCountryIso(meeting){
+    if(!meeting || !meeting.location) return false;
+    let countryCode = findNearestCountry(meeting.location.longitude, meeting.location.latitude);
+    if (countryCode === null) {
+        console.log(`Couldnt find country for ${meeting.location.latitude}, ${meeting.location.longitude} using ${meeting.location.iso} instead.`);
+        return false;
+    }
+
+    meeting.location.iso = countryCode;
+    return countryCode;
+}
+
+let deleted = LoadJSON(__dirname + "/grid/deleted.json");
+for (const meeting of deleted){
+    if(!meeting.location.iso)
+        assignCountryIso(meeting);
+}
+await SaveFile(__dirname + `/grid/deleted.json`, JSON.stringify(deleted, null, 1));
+
+let orphans = LoadJSON(__dirname + "/grid/orphans.json");
+for (const meeting of orphans){
+    if(!meeting.location.iso)
+        assignCountryIso(meeting);
+}
+await SaveFile(__dirname + `/grid/orphans.json`, JSON.stringify(orphans, null, 1));
+
+let orphanLocations = LoadJSON(__dirname + "/grid/orphanLocations.json");
+for (const location of Object.values(orphanLocations)) {
+    for (const meeting of location) {
+        if(!meeting.location.iso)
+            assignCountryIso(meeting);
+    }
+}
+await SaveFile(__dirname + `/grid/orphanLocations.json`, JSON.stringify(orphanLocations, null, 1));
+
+
 allMeetings = LoadJSON(__dirname + "/Meetings.json");
 for (const meeting of Object.values(allMeetings)){
 
     // if(meeting.location.iso)
     //     continue;
-
-    let countryCode = findNearestCountry(meeting.location.longitude, meeting.location.latitude);
-    if (countryCode === null) {
-        console.log(`Couldnt find country for ${meeting.location.latitude}, ${meeting.location.longitude} using ${meeting.location.iso} instead.`);
+    let countryCode = assignCountryIso(meeting);
+    if (countryCode === false)
         continue;
-    }
 
     let country = iso.whereAlpha3(countryCode);
-    // console.log(`Found country ${countryCode} - ${country.country} for ${meeting.location.latitude}, ${meeting.location.longitude}.`);
-    // throw '';
-
     if(!country || !country.country)
     {
         continue;
