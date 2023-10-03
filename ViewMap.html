@@ -72,13 +72,12 @@
     </style>
 </head>
 <body>
-<script>InsertNav();</script>
+<script>InsertNav(true);</script>
 <script async src="//static.getclicky.com/101371960.js"></script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101371960ns.gif" /></p></noscript>
 
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyCb4cJ1PN3KmgQw8Kaxt-XIUvXbbFCZsC0&libraries=geometry,marker&callback=initMap" type="text/javascript"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101371960ns.gif" /></p></noscript>
 <!--<script src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>-->
-<script src="node_modules/@googlemaps/markerclustererplus/dist/index.min.js"></script>
+
 <!--<script src="https://unpkg.com/supercluster@7.1.2/dist/supercluster.min.js"></script>-->
 
 <!--<link rel="stylesheet" href="node_modules/bootstrap-select/dist/css/bootstrap-select.min.css">-->
@@ -86,6 +85,18 @@
 
 <a class="h3" href="/ViewCongChanges.html">&gt; View List Of Deletions</a><br/><br/>
 <a class="h3" href="/ViewHallClosures.html">&gt; View List Of Hall Closures</a><br/><br/>
+
+<div id="translations" style="visibility: hidden; max-height: 0; height: 0; display: block;">
+    <div style="height: 0px;">
+        <div class="language">Language</div>
+        <div class="schedule">Schedule</div>
+        <div class="address">Address</div>
+        <div class="moved">Moved To</div>
+        <div class="CONG">Congregation</div>
+        <div class="GROUP">Group</div>
+        <div class="PREGROUP">PreGroup</div>
+    </div>
+</div>
 
 <div style="overflow: hidden;">
     <small><b>Normal:</b> Zoom into the map, and locations will load. Red outlined markers contain deleted.<br/><b>Abandoned Locations</b> are Unique GPS Coordinates that have once hosted a congregation, but no longer do, at that location. (Rounded to nearest 50m)</small>
@@ -125,15 +136,17 @@
     var gridSize = 8;
     var available_grids = [];
     var init_data = {};
-    const dead_icon = {
-        // url: "images/match-dead.png", // url
-        // scaledSize: new google.maps.Size(19, 50), // scaled size
-        // anchor: new google.maps.Point(13,50) // anchor
-        url: "images/tombstone.png", // url
-        scaledSize: new google.maps.Size(27, 38), // scaled size
-        anchor: new google.maps.Point(13, 30) // anchor
-    };
+    var dead_icon = null;
     function initMap() {
+        dead_icon = {
+            // url: "images/match-dead.png", // url
+            // scaledSize: new google.maps.Size(19, 50), // scaled size
+            // anchor: new google.maps.Point(13,50) // anchor
+            url: "images/tombstone.png", // url
+            scaledSize: new google.maps.Size(27, 38), // scaled size
+            anchor: new google.maps.Point(13, 30) // anchor
+        };
+        
         $.getJSON('./Meetings/init_data.json', (data) => {
             init_data = data;
             available_grids = init_data.grids;
@@ -481,20 +494,46 @@
         let style = meeting.active ? "" : "color:red;";
         let lang = langToName(properties.languageCode);
         if(properties.relatedLanguageCodes) lang += " + " + langsToNames(properties.relatedLanguageCodes);
-        let moved = !meeting.moved ? "" : `<b>Moved To:</b> ${meeting.moved}<br/>`;
+
+        let languageDoc = {
+            "language": "Language",
+            "schedule": "Schedule",
+            "address": "Address",
+            "moved": "Moved To",
+            "CONG": "CONG",
+            "GROUP": "GROUP",
+            "PREGROUP": "PREGROUP",
+        }
+        try {
+            let translations = $("#translations");
+            languageDoc['language'] = translations.find('.language').text();
+            languageDoc['schedule'] = translations.find('.schedule').text();
+            languageDoc['address'] = translations.find('.address').text();
+            languageDoc['moved'] = translations.find('.moved').text();
+            languageDoc['CONG'] = translations.find('.CONG').text();
+            languageDoc['GROUP'] = translations.find('.GROUP').text();
+            languageDoc['PREGROUP'] = translations.find('.PREGROUP').text();
+        }catch (e){
+            console.log(e);
+        }
+        let orgType = languageDoc[properties.orgType] || properties.orgType;
+
+        let moved = !meeting.moved ? "" : `<b>${languageDoc['moved']}:</b> ${meeting.moved}<br/>`;
         let html = `
 <div style="text-align: left; ${style}">
-    ${properties.orgType}<br/>
+    ${orgType}<br/>
     <b>${properties.orgName}</b>${state}<br/>
-    <b>Language:</b> ${lang}<br/>
-    <b>Schedule:</b> ${properties.schedule || 'Unknown'}<br/>
-    <b>Address:</b> ${properties.address}<br/>
+    <b>${languageDoc['language']}:</b> ${lang}<br/>
+    <b>${languageDoc['schedule']}:</b> ${properties.schedule || 'Unknown'}<br/>
+    <b>${languageDoc['address']}:</b> ${properties.address}<br/>
     ${moved}
 </div>`;
         return html;
     }
 
 </script>
+<script src="https://maps.google.com/maps/api/js?key=AIzaSyCb4cJ1PN3KmgQw8Kaxt-XIUvXbbFCZsC0&libraries=geometry,marker&callback=initMap" async type="text/javascript"></script>
+<script src="node_modules/@googlemaps/markerclustererplus/dist/index.min.js"></script>
 
 </body>
 </html>

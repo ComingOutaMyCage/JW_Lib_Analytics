@@ -82,11 +82,12 @@ const bibleBooks = ["Genesis",
     "Jude",
     "Revelation"]
 
-function InsertNav(){
+function InsertNav(translate = false){
     $('body').prepend(`
 <nav class="navbar navbar-expand-lg navbar-dark bg-light mb-1 d-print-none">
     <div class="container-fluid">
         <a class="navbar-brand" href="index.html">JW Lib Analytics</a>
+        <div id="google_translate_element"></div>
         <div class="navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 flex-row gap-1">
                 <li class="nav-item d-block d-none d-xl-block"><a class="nav-link active" aria-current="page" href="index.html">Home</a></li>
@@ -107,6 +108,7 @@ function InsertNav(){
                     <img src="images/beer.png" style="height: 32px;"/> Support Projects</a>
                 </a>-->
             </div>
+            
         </div>
     </div>
 </nav>`);
@@ -116,6 +118,9 @@ function InsertNav(){
            $(this).addClass('active');
        }
     });
+    if(translate) {
+        $('body').prepend('<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>');
+    }
 }
 
 function GetScripture(verse){
@@ -260,3 +265,40 @@ function getUrlParam(href, param) {
 
 function roundDownToNearest(num, step) { return Math.floor(num / step) * step; }
 function roundUpToNearest(num, step) { return Math.ceil(num / step) * step; }
+
+function autoTranslatePage() {
+    let userLang = navigator.language || navigator.userLanguage;
+    if (userLang === 'en-US' || userLang == 'en-UK') return;
+    userLang = userLang.split("-")[0]; // to get the primary language code
+    console.log("autoTranslatePage");
+    let selectElement = document.querySelector('#google_translate_element select');
+    if (selectElement) {
+        let options = selectElement.querySelectorAll('option');
+        if (options.length) {
+            // Check if the detected language is available in the Google Translate dropdown
+            let isLanguageAvailable = Array.from(options).some(option => option.value === userLang);
+            if (isLanguageAvailable) {
+                selectElement.value = userLang;
+                // Trigger the change event to initiate translation
+                var event = new Event('change', {
+                    'bubbles': true,
+                    'cancelable': true
+                });
+                selectElement.dispatchEvent(event);
+            }
+            return;
+        }
+    }
+    setTimeout(autoTranslatePage, 100);
+}
+// This function initializes the Google Translate widget and then calls autoTranslatePage
+function googleTranslateElementInit() {
+    console.log("googleTranslateElementInit");
+    let userLang = navigator.language || navigator.userLanguage;
+    if (userLang === 'en-US' || userLang == 'en-UK') return;
+    new google.translate.TranslateElement({
+        pageLanguage: 'en', // change 'en' to your page's primary language
+        //includedLanguages: 'de,fr,es,it,nl,pt', // Optional: limit available languages
+    }, 'google_translate_element');
+    autoTranslatePage();
+}

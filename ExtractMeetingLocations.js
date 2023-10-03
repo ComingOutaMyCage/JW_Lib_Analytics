@@ -707,16 +707,18 @@ async function SaveAllMeetings(allMeetings){
         if (!meeting.active)
             grids['deleted'].push(meeting);
         available_grids[key] = true;
-        let type = getMeetingType(meeting);
-        typeTotals[type] = (typeTotals[meeting.properties.orgType] ?? 0) + 1;
-        incrementLanguages(languages, meeting.properties.languageCode);
-        if(meeting.properties.relatedLanguageCodes) {
-            for (const otherLang of meeting.properties.relatedLanguageCodes) {
-                incrementLanguages(languages, otherLang);
+        if(!meeting.moved) {
+            let type = getMeetingType(meeting);
+            typeTotals[type] = (typeTotals[meeting.properties.orgType] ?? 0) + 1;
+            incrementLanguages(languages, meeting.properties.languageCode);
+            if (meeting.properties.relatedLanguageCodes) {
+                for (const otherLang of meeting.properties.relatedLanguageCodes) {
+                    incrementLanguages(languages, otherLang);
+                }
             }
+            if (!isEmpty(meeting.properties.schedule))
+                totalSchedules++;
         }
-        if(!isEmpty(meeting.properties.schedule))
-            totalSchedules++;
         if(meeting.moved){
 
         } else if(meeting.active)
