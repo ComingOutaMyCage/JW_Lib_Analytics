@@ -16,8 +16,8 @@
    "phones": [ "860-556-1241" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -38,15 +38,15 @@
    "phones": [ "860-572-6611" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "9FB859DB-47AB-450A-A1BC-3236E39D1032",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.52928,
    "longitude": -71.99173
@@ -60,8 +60,8 @@
    "phones": [ "8604072267" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -82,8 +82,8 @@
    "phones": [ "8604955005" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -104,8 +104,8 @@
    "phones": [ "1 401 326 4336" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -126,8 +126,8 @@
    "phones": [ "860-564-2056" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -148,8 +148,8 @@
    "phones": [ "(860)564-2056" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -170,8 +170,8 @@
    "phones": [ "401-789-0826" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -189,11 +189,14 @@
    "address": "200 Tracy Rd\nDayville CT  06241-1121",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
-   "phones": [ "(860) 412-9132" ],
+   "phones": [
+    "860-412-9128",
+    "860-412-9132"
+   ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -214,10 +217,32 @@
    "phones": [ "860-412-9132" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
+ },
+ {
+  "geoId": "3B6142BB-69F3-4AF1-B101-2D913844BDC1",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 41.880272,
+   "longitude": -71.886149
+  },
+  "properties": {
+   "orgName": "Webster - MA (USA)",
+   "orgType": "CONG",
+   "address": "200 Tracy Rd\nDayville CT  06241-1121",
+   "languageCode": "E",
+   "schedule": "Sun 10:00 Wed 19:00",
+   "phones": [ "1-508-987-2771" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
+  "active": 1,
+  "firstSeen": "2022-12-03"
  },
  {
   "geoId": "AA170C57-E175-4760-A33B-4136C8297363",
@@ -236,8 +261,8 @@
    "phones": [ "401-397-4018" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -247,8 +272,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.702936,
-   "longitude": -71.594745,
-   "iso": "USA"
+   "longitude": -71.594745
   },
   "properties": {
    "orgName": "West Warwick - RI (USA)",
@@ -259,8 +283,8 @@
    "phones": [ "401-702-3904" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -270,89 +294,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.507367,
-   "longitude": -71.308444,
-   "iso": "USA"
+   "longitude": -71.308444
   },
   "properties": {
    "orgName": "Newport - RI (USA)",
    "orgType": "CONG",
    "address": "36 Hillside Ave\nNewport RI  02840-1453",
    "languageCode": "E",
-   "schedule": "Sun 10:00 Tue 07:00",
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "401-847-2555" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
-  "active": 1,
-  "firstSeen": "2022-12-03"
- },
- {
-  "geoId": "67BB9632-0905-4932-A99B-51B38FD90D49",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 42.084525,
-   "longitude": -71.880544,
-   "iso": "USA"
-  },
-  "properties": {
-   "orgName": "Oxford - MA (USA)",
-   "orgType": "CONG",
-   "address": "52 Old Webster Rd\nOxford MA  01540-2706",
-   "languageCode": "E",
-   "schedule": "Sun 12:30 Tue 19:00",
-   "phones": [ "508 987 2771" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
-  "active": 1,
-  "firstSeen": "2022-12-03"
- },
- {
-  "geoId": "A87BFDA9-B952-4054-8B87-3656ED37FC84",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 42.084525,
-   "longitude": -71.880544,
-   "iso": "USA"
-  },
-  "properties": {
-   "orgName": "Quinebaug Valley - Southbridge MA (USA)",
-   "orgType": "CONG",
-   "address": "52 Old Webster Rd\nOxford MA  01540-2706",
-   "languageCode": "E",
-   "schedule": "Sat 10:00 Thu 19:00",
-   "phones": [ "508-987-2771" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
-  "active": 1,
-  "firstSeen": "2022-12-03"
- },
- {
-  "geoId": "3B6142BB-69F3-4AF1-B101-2D913844BDC1",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 42.084525,
-   "longitude": -71.880544,
-   "iso": "USA"
-  },
-  "properties": {
-   "orgName": "Webster - MA (USA)",
-   "orgType": "CONG",
-   "address": "52 Old Webster Rd\nOxford MA  01540-2706",
-   "languageCode": "E",
-   "schedule": "Sun 10:00 Wed 19:00",
-   "phones": [ "1-508-987-2771" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -362,8 +316,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.698317,
-   "longitude": -71.447922,
-   "iso": "USA"
+   "longitude": -71.447922
   },
   "properties": {
    "orgName": "Warwick - RI (USA)",
@@ -374,8 +327,8 @@
    "phones": [ "401-739-1781" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -385,8 +338,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.832678,
-   "longitude": -71.504275,
-   "iso": "USA"
+   "longitude": -71.504275
   },
   "properties": {
    "orgName": "Johnston - RI (USA)",
@@ -397,8 +349,8 @@
    "phones": [ "401-232-5110" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -408,8 +360,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.832678,
-   "longitude": -71.504275,
-   "iso": "USA"
+   "longitude": -71.504275
   },
   "properties": {
    "orgName": "Mount Pleasant English - Providence RI (USA)",
@@ -420,8 +371,8 @@
    "phones": [ "401-426-2233" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -431,8 +382,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.832678,
-   "longitude": -71.504275,
-   "iso": "USA"
+   "longitude": -71.504275
   },
   "properties": {
    "orgName": "Mount Pleasant Spanish - Providence RI (USA)",
@@ -443,8 +393,8 @@
    "phones": [ "401-232-5110" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -454,8 +404,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.773842,
-   "longitude": -71.422002,
-   "iso": "USA"
+   "longitude": -71.422002
   },
   "properties": {
    "orgName": "West Spanish - Providence RI (USA)",
@@ -466,8 +415,8 @@
    "phones": [ "401-764-4938" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -477,8 +426,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.773842,
-   "longitude": -71.422002,
-   "iso": "USA"
+   "longitude": -71.422002
   },
   "properties": {
    "orgName": "Central Spanish - Providence RI (USA)",
@@ -489,8 +437,8 @@
    "phones": [ "401-484-7478" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -500,8 +448,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.773842,
-   "longitude": -71.422002,
-   "iso": "USA"
+   "longitude": -71.422002
   },
   "properties": {
    "orgName": "Parkview - Providence RI (USA)",
@@ -512,8 +459,8 @@
    "phones": [ "401-461-8184" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -523,8 +470,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.773842,
-   "longitude": -71.422002,
-   "iso": "USA"
+   "longitude": -71.422002
   },
   "properties": {
    "orgName": "Sign Language - Cranston RI (USA)",
@@ -535,19 +481,18 @@
    "phones": [ "774-221-7623" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "5D318702-B85E-4A8C-9E96-936D1CF49187",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.240388,
-   "longitude": -71.88299,
-   "iso": "USA"
+   "longitude": -71.88299
   },
   "properties": {
    "orgName": "Leicester - MA (USA)",
@@ -558,8 +503,8 @@
    "phones": [ "jwleicester.ma@gmail.com" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -569,8 +514,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.240388,
-   "longitude": -71.88299,
-   "iso": "USA"
+   "longitude": -71.88299
   },
   "properties": {
    "orgName": "South Spanish - Worcester MA (USA)",
@@ -581,8 +525,8 @@
    "phones": [ "413-752-7139" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -592,8 +536,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.240388,
-   "longitude": -71.88299,
-   "iso": "USA"
+   "longitude": -71.88299
   },
   "properties": {
    "orgName": "Twi - Worcester MA (USA)",
@@ -604,8 +547,8 @@
    "phones": [ "7743149180" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -615,8 +558,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.240388,
-   "longitude": -71.88299,
-   "iso": "USA"
+   "longitude": -71.88299
   },
   "properties": {
    "orgName": "West Haitian Creole - Worcester MA (USA)",
@@ -627,8 +569,30 @@
    "phones": [ "508-892-4630" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
+  "active": 1,
+  "firstSeen": "2022-12-03"
+ },
+ {
+  "geoId": "67BB9632-0905-4932-A99B-51B38FD90D49",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 42.204098,
+   "longitude": -71.824179
+  },
+  "properties": {
+   "orgName": "Oxford - MA (USA)",
+   "orgType": "CONG",
+   "address": "78 Bancroft St\nAuburn MA  01501-2451",
+   "languageCode": "E",
+   "schedule": "Sat 13:30 Wed 19:00",
+   "phones": [ "508 987 2771" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -638,8 +602,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.204098,
-   "longitude": -71.824179,
-   "iso": "USA"
+   "longitude": -71.824179
   },
   "properties": {
    "orgName": "South English - Worcester MA (USA)",
@@ -650,8 +613,8 @@
    "phones": [ "(508) 832-6711" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -661,8 +624,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.204098,
-   "longitude": -71.824179,
-   "iso": "USA"
+   "longitude": -71.824179
   },
   "properties": {
    "orgName": "West - Worcester MA (USA)",
@@ -674,8 +636,8 @@
    "phones": [ "1-508-832-6711" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -692,24 +654,23 @@
    "orgType": "GROUP",
    "address": "78 Bancroft St\nAuburn MA  01501-2451",
    "languageCode": "SW",
-   "schedule": "Sun 10:00 Tue 19:00",
+   "schedule": "Sat 10:30 Tue 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "1-508-832-6711" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "C296C8D0-FCCE-4277-829B-17D7B2AC52FA",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.799996,
-   "longitude": -71.407192,
-   "iso": "USA"
+   "longitude": -71.407192
   },
   "properties": {
    "orgName": "Huntington View - Providence RI (USA)",
@@ -720,8 +681,8 @@
    "phones": [ "401-461-9350" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -731,8 +692,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.799996,
-   "longitude": -71.407192,
-   "iso": "USA"
+   "longitude": -71.407192
   },
   "properties": {
    "orgName": "North Spanish - Providence RI (USA)",
@@ -743,8 +703,8 @@
    "phones": [ "401-461-9350" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -754,8 +714,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.799996,
-   "longitude": -71.407192,
-   "iso": "USA"
+   "longitude": -71.407192
   },
   "properties": {
    "orgName": "South Spanish - Providence RI (USA)",
@@ -766,8 +725,8 @@
    "phones": [ "401-461-9350" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -777,8 +736,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.799996,
-   "longitude": -71.407192,
-   "iso": "USA"
+   "longitude": -71.407192
   },
   "properties": {
    "orgName": "South Providence Haitian Creole - Providence RI (USA)",
@@ -789,8 +747,8 @@
    "phones": [ "(774) 406-3477" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -800,8 +758,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.002677,
-   "longitude": -71.590832,
-   "iso": "USA"
+   "longitude": -71.590832
   },
   "properties": {
    "orgName": "East - Woonsocket RI (USA)",
@@ -812,8 +769,8 @@
    "phones": [ "401 439 4088" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -823,8 +780,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.002677,
-   "longitude": -71.590832,
-   "iso": "USA"
+   "longitude": -71.590832
   },
   "properties": {
    "orgName": "Douglas - MA (USA)",
@@ -835,8 +791,8 @@
    "phones": [ "‭814-494-1479" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -846,8 +802,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.002677,
-   "longitude": -71.590832,
-   "iso": "USA"
+   "longitude": -71.590832
   },
   "properties": {
    "orgName": "West - Woonsocket RI (USA)",
@@ -858,8 +813,8 @@
    "phones": [ "508-410-2194" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -880,15 +835,15 @@
    "phones": [ "(401) 437-0172" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "2FB0D65D-A15F-4B55-AA77-0D100AABB76A",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.78,
    "longitude": -71.34165
@@ -902,19 +857,18 @@
    "phones": [ "401-228-3797" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "F56EE5ED-5EE9-457B-A870-7AB6C8CFCE0A",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 41.78,
-   "longitude": -71.34165,
-   "iso": "USA"
+   "longitude": -71.34165
   },
   "properties": {
    "orgName": "East Russian - Providence RI (USA)",
@@ -925,8 +879,8 @@
    "phones": [ "‭(401) 433-4979‬" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -952,7 +906,7 @@
   "lastSeen": "2022-12-03",
   "active": 0,
   "firstSeen": "2022-12-03",
-  "lastVisit": "2023-09-30"
+  "lastVisit": "2023-12-27"
  },
  {
   "geoId": "54E0F22B-0795-4CDC-883C-D9C493D851EB",
@@ -960,8 +914,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.652777,
-   "longitude": -71.184743,
-   "iso": "USA"
+   "longitude": -71.184743
   },
   "properties": {
    "orgName": "West - Tiverton RI (USA)",
@@ -972,8 +925,8 @@
    "phones": [ "401-625-5846" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -983,8 +936,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.652777,
-   "longitude": -71.184743,
-   "iso": "USA"
+   "longitude": -71.184743
   },
   "properties": {
    "orgName": "East - Tiverton RI (USA)",
@@ -995,8 +947,8 @@
    "phones": [ "1-401-662-2064" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1006,8 +958,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.652777,
-   "longitude": -71.184743,
-   "iso": "USA"
+   "longitude": -71.184743
   },
   "properties": {
    "orgName": "Spanish - Tiverton RI (USA)",
@@ -1018,8 +969,8 @@
    "phones": [ "401-625-5846" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1029,8 +980,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.904147,
-   "longitude": -71.423947,
-   "iso": "USA"
+   "longitude": -71.423947
   },
   "properties": {
    "orgName": "Elmhurst - Providence RI (USA)",
@@ -1041,8 +991,8 @@
    "phones": [ "401-726-0148" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1052,8 +1002,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.904147,
-   "longitude": -71.423947,
-   "iso": "USA"
+   "longitude": -71.423947
   },
   "properties": {
    "orgName": "Lincoln - RI (USA)",
@@ -1064,8 +1013,8 @@
    "phones": [ "401-726-0148" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1075,8 +1024,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.904147,
-   "longitude": -71.423947,
-   "iso": "USA"
+   "longitude": -71.423947
   },
   "properties": {
    "orgName": "Spanish - Central Falls RI (USA)",
@@ -1087,8 +1035,8 @@
    "phones": [ "401-726-0148" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1098,8 +1046,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.73372,
-   "longitude": -71.246836,
-   "iso": "USA"
+   "longitude": -71.246836
   },
   "properties": {
    "orgName": "Warren - RI (USA)",
@@ -1110,19 +1057,18 @@
    "phones": [ "401-245-9027" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "260A0100-01A8-49DC-97BD-BCA2A3C1A7D8",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 42.267627,
-   "longitude": -71.775146,
-   "iso": "USA"
+   "longitude": -71.775146
   },
   "properties": {
    "orgName": "Burncoat - Worcester MA (USA)",
@@ -1133,19 +1079,18 @@
    "phones": [ "774-515-0154" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "B537B4CB-1E7B-4D63-AD4F-17D9E2D40074",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 42.267627,
-   "longitude": -71.775146,
-   "iso": "USA"
+   "longitude": -71.775146
   },
   "properties": {
    "orgName": "Central - Worcester MA (USA)",
@@ -1153,11 +1098,11 @@
    "address": "659 Franklin St\nWorcester MA  01604-1802",
    "languageCode": "E",
    "schedule": "Sun 09:30 Thu 19:00",
-   "phones": [ "508-754-7590" ],
+   "phones": [ "(774)314-9382" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1167,8 +1112,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.267627,
-   "longitude": -71.775146,
-   "iso": "USA"
+   "longitude": -71.775146
   },
   "properties": {
    "orgName": "North Spanish - Worcester MA (USA)",
@@ -1179,8 +1123,8 @@
    "phones": [ "(912) 401-4000" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1190,31 +1134,29 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.267627,
-   "longitude": -71.775146,
-   "iso": "USA"
+   "longitude": -71.775146
   },
   "properties": {
    "orgName": "Portuguese - Worcester MA (USA)",
    "orgType": "CONG",
    "address": "659 Franklin St\nWorcester MA  01604-1802",
-   "languageCode": "T",
+   "languageCode": "PTG",
    "schedule": "Sat 17:00 Mon 19:30",
    "phones": [ "978-558-0056" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "EC25B247-92EF-408D-B8A3-D4892636F677",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 41.836275,
-   "longitude": -71.331323,
-   "iso": "USA"
+   "longitude": -71.331323
   },
   "properties": {
    "orgName": "Seekonk - MA (USA)",
@@ -1225,31 +1167,30 @@
    "phones": [ "508-336-5046" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "99DFF43E-E2A7-4922-AC49-46685451A15A",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 41.836275,
-   "longitude": -71.331323,
-   "iso": "USA"
+   "longitude": -71.331323
   },
   "properties": {
    "orgName": "Portuguese - East Providence RI (USA)",
    "orgType": "CONG",
    "address": "290 Arcade Ave\nSeekonk MA  02771-5000",
-   "languageCode": "T",
+   "languageCode": "PTG",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "508-336-5046" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1259,8 +1200,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.836275,
-   "longitude": -71.331323,
-   "iso": "USA"
+   "longitude": -71.331323
   },
   "properties": {
    "orgName": "Pawtucket Kabuverdianu - East Providence RI (USA)",
@@ -1271,8 +1211,8 @@
    "phones": [ "508-336-5046" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1282,8 +1222,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.699081,
-   "longitude": -71.130919,
-   "iso": "USA"
+   "longitude": -71.130919
   },
   "properties": {
    "orgName": "North - Fall River MA (USA)",
@@ -1294,8 +1233,8 @@
    "phones": [ "508-676-9710" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1305,8 +1244,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.699081,
-   "longitude": -71.130919,
-   "iso": "USA"
+   "longitude": -71.130919
   },
   "properties": {
    "orgName": "South - Fall River MA (USA)",
@@ -1317,8 +1255,8 @@
    "phones": [ "5086769710" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1328,20 +1266,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.699081,
-   "longitude": -71.130919,
-   "iso": "USA"
+   "longitude": -71.130919
   },
   "properties": {
    "orgName": "Portuguese - Fall River MA (USA)",
    "orgType": "CONG",
    "address": "100 N Eastern Ave\nFall River MA  02723-3505",
-   "languageCode": "T",
+   "languageCode": "PTG",
    "schedule": "Sat 17:00 Wed 19:00",
-   "phones": [ "773-414-4780" ],
+   "phones": [ "508-676-9710" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1351,8 +1288,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.102593,
-   "longitude": -71.514,
-   "iso": "USA"
+   "longitude": -71.514
   },
   "properties": {
    "orgName": "Hopedale - MA (USA)",
@@ -1363,8 +1299,8 @@
    "phones": [ "508-473-3830" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1374,8 +1310,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.102593,
-   "longitude": -71.514,
-   "iso": "USA"
+   "longitude": -71.514
   },
   "properties": {
    "orgName": "Northbridge - MA (USA)",
@@ -1386,8 +1321,8 @@
    "phones": [ "508-603-9599" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1397,8 +1332,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.966304,
-   "longitude": -71.295314,
-   "iso": "USA"
+   "longitude": -71.295314
   },
   "properties": {
    "orgName": "Attleboro - MA (USA)",
@@ -1409,8 +1343,8 @@
    "phones": [ "508-639-0703" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1420,8 +1354,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.966304,
-   "longitude": -71.295314,
-   "iso": "USA"
+   "longitude": -71.295314
   },
   "properties": {
    "orgName": "North Attleboro - MA (USA)",
@@ -1432,8 +1365,8 @@
    "phones": [ "508-222-2403" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1443,8 +1376,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.966304,
-   "longitude": -71.295314,
-   "iso": "USA"
+   "longitude": -71.295314
   },
   "properties": {
    "orgName": "Spanish - Pawtucket RI (USA)",
@@ -1455,8 +1387,8 @@
    "phones": [ "(401) 486-2524" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1466,8 +1398,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.099288,
-   "longitude": -71.405501,
-   "iso": "USA"
+   "longitude": -71.405501
   },
   "properties": {
    "orgName": "Franklin - MA (USA)",
@@ -1478,8 +1409,8 @@
    "phones": [ "508-528-5159" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1489,8 +1420,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.858749,
-   "longitude": -71.160633,
-   "iso": "USA"
+   "longitude": -71.160633
   },
   "properties": {
    "orgName": "Dighton - MA (USA)",
@@ -1501,8 +1431,8 @@
    "phones": [ "508-822-1556" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1512,8 +1442,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.858749,
-   "longitude": -71.160633,
-   "iso": "USA"
+   "longitude": -71.160633
   },
   "properties": {
    "orgName": "Berkley - MA (USA)",
@@ -1524,8 +1453,8 @@
    "phones": [ "508-822-1556" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1535,20 +1464,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.646284,
-   "longitude": -70.931535,
-   "iso": "USA"
+   "longitude": -70.931535
   },
   "properties": {
    "orgName": "Fairhaven - MA (USA)",
    "orgType": "CONG",
    "address": "742 County St\nNew Bedford MA  02740-5406",
    "languageCode": "E",
-   "schedule": "Sun 12:30 Thu 19:00",
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "508-984-0769" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1558,8 +1486,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.646284,
-   "longitude": -70.931535,
-   "iso": "USA"
+   "longitude": -70.931535
   },
   "properties": {
    "orgName": "North Dartmouth - MA (USA)",
@@ -1570,8 +1497,8 @@
    "phones": [ "(508) 813-1942" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1581,20 +1508,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.646284,
-   "longitude": -70.931535,
-   "iso": "USA"
+   "longitude": -70.931535
   },
   "properties": {
    "orgName": "Portuguese - New Bedford MA (USA)",
    "orgType": "CONG",
    "address": "742 County St\nNew Bedford MA  02740-5406",
-   "languageCode": "T",
+   "languageCode": "PTG",
    "schedule": "Sat 17:00 Wed 19:00",
    "phones": [ "508-728-0712" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1604,8 +1530,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.646284,
-   "longitude": -70.931535,
-   "iso": "USA"
+   "longitude": -70.931535
   },
   "properties": {
    "orgName": "English - New Bedford MA (USA)",
@@ -1616,8 +1541,8 @@
    "phones": [ "508-984-0769" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1627,8 +1552,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.646284,
-   "longitude": -70.931535,
-   "iso": "USA"
+   "longitude": -70.931535
   },
   "properties": {
    "orgName": "Spanish - New Bedford MA (USA)",
@@ -1639,19 +1563,18 @@
    "phones": [ "508-984-0768" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "ED0DD87C-9D56-4C52-9EE0-5C1912683BE8",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.646284,
-   "longitude": -70.931535,
-   "iso": "USA"
+   "longitude": -70.931535
   },
   "properties": {
    "orgName": "County Sign Language - New Bedford MA (USA)",
@@ -1662,8 +1585,8 @@
    "phones": [ "5088585246" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1673,8 +1596,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.646284,
-   "longitude": -70.931535,
-   "iso": "USA"
+   "longitude": -70.931535
   },
   "properties": {
    "orgName": "Central Kabuverdianu - New Bedford MA (USA)",
@@ -1685,8 +1607,8 @@
    "phones": [ "508-984-0768" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1696,8 +1618,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.646284,
-   "longitude": -70.931535,
-   "iso": "USA"
+   "longitude": -70.931535
   },
   "properties": {
    "orgName": "Central Haitian Creole - New Bedford MA (USA)",
@@ -1708,8 +1629,8 @@
    "phones": [ "508-984-0768" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1719,8 +1640,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.332998,
-   "longitude": -71.610318,
-   "iso": "USA"
+   "longitude": -71.610318
   },
   "properties": {
    "orgName": "English - Northborough MA (USA)",
@@ -1731,8 +1651,8 @@
    "phones": [ "508-393-1339" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1742,8 +1662,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.332998,
-   "longitude": -71.610318,
-   "iso": "USA"
+   "longitude": -71.610318
   },
   "properties": {
    "orgName": "Spanish - Northborough MA (USA)",
@@ -1754,8 +1673,8 @@
    "phones": [ "774-245-5300" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1765,8 +1684,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.332998,
-   "longitude": -71.610318,
-   "iso": "USA"
+   "longitude": -71.610318
   },
   "properties": {
    "orgName": "Central Russian - Northborough MA (USA)",
@@ -1777,8 +1695,8 @@
    "phones": [ "508-393-1339" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1788,8 +1706,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.488802,
-   "longitude": -71.747135,
-   "iso": "USA"
+   "longitude": -71.747135
   },
   "properties": {
    "orgName": "Central - Leominster MA (USA)",
@@ -1800,8 +1717,8 @@
    "phones": [ "978-537-0846" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1811,8 +1728,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.488802,
-   "longitude": -71.747135,
-   "iso": "USA"
+   "longitude": -71.747135
   },
   "properties": {
    "orgName": "Spanish - Leominster MA (USA)",
@@ -1823,8 +1739,8 @@
    "phones": [ "978-537-0846" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1834,20 +1750,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.488802,
-   "longitude": -71.747135,
-   "iso": "USA"
+   "longitude": -71.747135
   },
   "properties": {
    "orgName": "Central Portuguese - Leominster MA (USA)",
    "orgType": "CONG",
    "address": "1275 Central St\nLeominster MA  01453-5905",
-   "languageCode": "T",
+   "languageCode": "PTG",
    "schedule": "Sat 18:00 Tue 19:00",
    "phones": [ "(978) 786-7015" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1857,8 +1772,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.43305,
-   "longitude": -70.636469,
-   "iso": "USA"
+   "longitude": -70.636469
   },
   "properties": {
    "orgName": "Martha's Vineyard - MA (USA)",
@@ -1866,36 +1780,35 @@
    "address": "48 State Rd\nWest Tisbury MA  02575",
    "languageCode": "E",
    "schedule": "Sun 09:30 Wed 19:00",
-   "relatedLanguageCodes": [ "T" ],
+   "relatedLanguageCodes": [ "PTG" ],
    "phones": [ "5086936356" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "4C2D7D73-8D6C-44C8-8B96-DC704F4E14E9",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.43305,
-   "longitude": -70.636469,
-   "iso": "USA"
+   "longitude": -70.636469
   },
   "properties": {
    "orgName": "Portuguese (Brazil) - Martha's Vineyard - MA (USA)",
    "orgType": "GROUP",
    "address": "48 State Rd\nWest Tisbury MA  02575",
-   "languageCode": "T",
+   "languageCode": "PTG",
    "schedule": "Sun 09:30 Wed 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "5086936356" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1905,8 +1818,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.023152,
-   "longitude": -71.223527,
-   "iso": "USA"
+   "longitude": -71.223527
   },
   "properties": {
    "orgName": "Mansfield - MA (USA)",
@@ -1917,8 +1829,8 @@
    "phones": [ "508-339-5650" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1928,8 +1840,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.023152,
-   "longitude": -71.223527,
-   "iso": "USA"
+   "longitude": -71.223527
   },
   "properties": {
    "orgName": "Sharon - MA (USA)",
@@ -1940,8 +1851,8 @@
    "phones": [ "(508) 339-5650" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1951,8 +1862,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.259386,
-   "longitude": -71.454906,
-   "iso": "USA"
+   "longitude": -71.454906
   },
   "properties": {
    "orgName": "English - Framingham MA (USA)",
@@ -1963,8 +1873,8 @@
    "phones": [ "508-881-2888" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1974,8 +1884,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.259386,
-   "longitude": -71.454906,
-   "iso": "USA"
+   "longitude": -71.454906
   },
   "properties": {
    "orgName": "English - Ashland MA (USA)",
@@ -1986,8 +1895,8 @@
    "phones": [ "508-881-2888" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1997,20 +1906,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.259386,
-   "longitude": -71.454906,
-   "iso": "USA"
+   "longitude": -71.454906
   },
   "properties": {
    "orgName": "Portuguese - Ashland MA (USA)",
    "orgType": "CONG",
    "address": "71 Union St\nAshland MA  01721-1714",
-   "languageCode": "T",
+   "languageCode": "PTG",
    "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "1-508-881-2888" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2020,8 +1928,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.259386,
-   "longitude": -71.454906,
-   "iso": "USA"
+   "longitude": -71.454906
   },
   "properties": {
    "orgName": "Spanish - Framingham MA (USA)",
@@ -2032,8 +1939,8 @@
    "phones": [ "508-834-7730" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2043,8 +1950,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.564832,
-   "longitude": -71.741765,
-   "iso": "USA"
+   "longitude": -71.741765
   },
   "properties": {
    "orgName": "Whalom - Leominster MA (USA)",
@@ -2055,8 +1961,8 @@
    "phones": [ "978-345-1561" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2066,8 +1972,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.564832,
-   "longitude": -71.741765,
-   "iso": "USA"
+   "longitude": -71.741765
   },
   "properties": {
    "orgName": "English - Fitchburg MA (USA)",
@@ -2079,8 +1984,8 @@
    "phones": [ "978-345-1561" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2090,8 +1995,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.564832,
-   "longitude": -71.741765,
-   "iso": "USA"
+   "longitude": -71.741765
   },
   "properties": {
    "orgName": "Spanish - Fitchburg MA (USA)",
@@ -2102,19 +2006,18 @@
    "phones": [ "978-345-1561" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "F0F0DDF1-6727-436B-8535-66955EAA3123",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.564832,
-   "longitude": -71.741765,
-   "iso": "USA"
+   "longitude": -71.741765
   },
   "properties": {
    "orgName": "Laotian - English - Fitchburg MA (USA)",
@@ -2126,19 +2029,18 @@
    "phones": [ "978-345-1561" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "1F88279B-1927-4DEA-9ED8-10A2C5C14A6D",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 41.926402,
-   "longitude": -71.091281,
-   "iso": "USA"
+   "longitude": -71.091281
   },
   "properties": {
    "orgName": "English - Taunton MA (USA)",
@@ -2149,32 +2051,31 @@
    "phones": [ "508-823-8042" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "6181ED3F-A0B6-4C96-BCF5-5B614B24DEE8",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 41.926402,
-   "longitude": -71.091281,
-   "iso": "USA"
+   "longitude": -71.091281
   },
   "properties": {
    "orgName": "Portuguese - Taunton MA (USA)",
    "orgType": "CONG",
    "address": "2 Vaillancourt St\nTaunton MA  02780-1520",
-   "languageCode": "T",
-   "schedule": "Sat 17:00 Wed 19:00",
+   "languageCode": "PTG",
+   "schedule": "Sat 16:00 Wed 19:00",
    "relatedLanguageCodes": [ "KBV" ],
    "phones": [ "508-823-8042" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2184,21 +2085,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.926402,
-   "longitude": -71.091281,
-   "iso": "USA"
+   "longitude": -71.091281
   },
   "properties": {
    "orgName": "Kabuverdianu - Portuguese - Taunton MA (USA)",
    "orgType": "GROUP",
    "address": "2 Vaillancourt St\nTaunton MA  02780-1520",
    "languageCode": "KBV",
-   "schedule": "Sat 19:15 Wed 19:00",
-   "relatedLanguageCodes": [ "T" ],
+   "schedule": "Sat 18:15 Wed 19:00",
+   "relatedLanguageCodes": [ "PTG" ],
    "phones": [ "508-823-8042" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2208,8 +2108,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.429001,
-   "longitude": -71.450827,
-   "iso": "USA"
+   "longitude": -71.450827
   },
   "properties": {
    "orgName": "Maynard - MA (USA)",
@@ -2220,8 +2119,8 @@
    "phones": [ "978-344-8282" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2231,8 +2130,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.885338,
-   "longitude": -70.896321,
-   "iso": "USA"
+   "longitude": -70.896321
   },
   "properties": {
    "orgName": "Middleboro - MA (USA)",
@@ -2243,8 +2141,8 @@
    "phones": [ "(774) 260-5505‬" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2254,8 +2152,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.780097,
-   "longitude": -70.776109,
-   "iso": "USA"
+   "longitude": -70.776109
   },
   "properties": {
    "orgName": "Wareham - MA (USA)",
@@ -2266,8 +2163,8 @@
    "phones": [ "(508) 295-8223" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2277,8 +2174,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.644398,
-   "longitude": -71.63031,
-   "iso": "USA"
+   "longitude": -71.63031
   },
   "properties": {
    "orgName": "Pepperell - MA (USA)",
@@ -2289,8 +2185,8 @@
    "phones": [ "978-433-3050" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2300,8 +2196,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.140488,
-   "longitude": -71.117055,
-   "iso": "USA"
+   "longitude": -71.117055
   },
   "properties": {
    "orgName": "Stoughton - MA (USA)",
@@ -2312,8 +2207,8 @@
    "phones": [ "781-344-0431" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2323,8 +2218,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.140488,
-   "longitude": -71.117055,
-   "iso": "USA"
+   "longitude": -71.117055
   },
   "properties": {
    "orgName": "Pearl Haitian Creole - Stoughton MA (USA)",
@@ -2335,8 +2229,8 @@
    "phones": [ "781-344-0431" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2346,8 +2240,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.83012,
-   "longitude": -71.79675,
-   "iso": "USA"
+   "longitude": -71.79675
   },
   "properties": {
    "orgName": "Wilton - NH (USA)",
@@ -2358,8 +2251,8 @@
    "phones": [ "603-654-2682" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2369,8 +2262,7 @@
   "isPrimary": 0,
   "location": {
    "latitude": 42.053587,
-   "longitude": -70.996545,
-   "iso": "USA"
+   "longitude": -70.996545
   },
   "properties": {
    "orgName": "East Campello - Brockton MA (USA)",
@@ -2381,8 +2273,8 @@
    "phones": [ "(508) 588-1555" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2392,8 +2284,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.053587,
-   "longitude": -70.996545,
-   "iso": "USA"
+   "longitude": -70.996545
   },
   "properties": {
    "orgName": "Spanish - Brockton MA (USA)",
@@ -2404,8 +2295,8 @@
    "phones": [ "805-441-8794" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2415,8 +2306,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.053587,
-   "longitude": -70.996545,
-   "iso": "USA"
+   "longitude": -70.996545
   },
   "properties": {
    "orgName": "South Kabuverdianu - Brockton MA (USA)",
@@ -2427,8 +2317,8 @@
    "phones": [ "508-659-2150" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2438,8 +2328,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.624792,
-   "longitude": -70.549157,
-   "iso": "USA"
+   "longitude": -70.549157
   },
   "properties": {
    "orgName": "West - Falmouth MA (USA)",
@@ -2450,8 +2339,8 @@
    "phones": [ "508-563-7247" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2461,8 +2350,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.097076,
-   "longitude": -71.004868,
-   "iso": "USA"
+   "longitude": -71.004868
   },
   "properties": {
    "orgName": "Central - Brockton MA (USA)",
@@ -2473,8 +2361,8 @@
    "phones": [ "508.588.6861" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2484,8 +2372,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.097076,
-   "longitude": -71.004868,
-   "iso": "USA"
+   "longitude": -71.004868
   },
   "properties": {
    "orgName": "East Kabuverdianu - Brockton MA (USA)",
@@ -2496,8 +2383,8 @@
    "phones": [ "508-588-6861" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2507,8 +2394,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.097076,
-   "longitude": -71.004868,
-   "iso": "USA"
+   "longitude": -71.004868
   },
   "properties": {
    "orgName": "Haitian Creole - Brockton MA (USA)",
@@ -2519,8 +2405,8 @@
    "phones": [ "8577194360" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2530,8 +2416,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.34149,
-   "longitude": -71.237676,
-   "iso": "USA"
+   "longitude": -71.237676
   },
   "properties": {
    "orgName": "Brighton - Boston MA (USA)",
@@ -2543,8 +2428,8 @@
    "phones": [ "(617) 244-1929" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2554,8 +2439,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.34149,
-   "longitude": -71.237676,
-   "iso": "USA"
+   "longitude": -71.237676
   },
   "properties": {
    "orgName": "English - Newton MA (USA)",
@@ -2566,8 +2450,8 @@
    "phones": [ "617-244-1929" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2577,8 +2461,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.34149,
-   "longitude": -71.237676,
-   "iso": "USA"
+   "longitude": -71.237676
   },
   "properties": {
    "orgName": "Spanish - Newton MA (USA)",
@@ -2589,19 +2472,18 @@
    "phones": [ "617-244-1929" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "22F8C6BD-6565-43B1-B8A5-16F34398866E",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.34149,
-   "longitude": -71.237676,
-   "iso": "USA"
+   "longitude": -71.237676
   },
   "properties": {
    "orgName": "Japanese - Brighton - Boston MA (USA)",
@@ -2613,8 +2495,8 @@
    "phones": [ "(617) 244-1929" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2624,8 +2506,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.750567,
-   "longitude": -70.609288,
-   "iso": "USA"
+   "longitude": -70.609288
   },
   "properties": {
    "orgName": "English - Buzzards Bay MA (USA)",
@@ -2636,8 +2517,8 @@
    "phones": [ "(508) 759-2293" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2647,8 +2528,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.162901,
-   "longitude": -71.007194,
-   "iso": "USA"
+   "longitude": -71.007194
   },
   "properties": {
    "orgName": "Quincy - MA (USA)",
@@ -2660,19 +2540,18 @@
    "phones": [ "781-961-7766" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "891AD6B3-F85A-4AEB-9192-F1D27D5C68F3",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 42.162901,
-   "longitude": -71.007194,
-   "iso": "USA"
+   "longitude": -71.007194
   },
   "properties": {
    "orgName": "Holbrook - MA (USA)",
@@ -2683,8 +2562,8 @@
    "phones": [ "781-961-7766" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2694,20 +2573,19 @@
   "isPrimary": 0,
   "location": {
    "latitude": 42.162901,
-   "longitude": -71.007194,
-   "iso": "USA"
+   "longitude": -71.007194
   },
   "properties": {
    "orgName": "Portuguese - Randolph MA (USA)",
    "orgType": "CONG",
    "address": "314 N Franklin St\nHolbrook MA  02343-1118",
-   "languageCode": "T",
+   "languageCode": "PTG",
    "schedule": "Sat 17:00 Wed 19:00",
    "phones": [ "781-961-7766" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2717,8 +2595,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.162901,
-   "longitude": -71.007194,
-   "iso": "USA"
+   "longitude": -71.007194
   },
   "properties": {
    "orgName": "Tagalog - Quincy - MA (USA)",
@@ -2730,8 +2607,8 @@
    "phones": [ "781-961-7766" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2741,8 +2618,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.26597,
-   "longitude": -71.110053,
-   "iso": "USA"
+   "longitude": -71.110053
   },
   "properties": {
    "orgName": "Hyde Park - Boston MA (USA)",
@@ -2753,8 +2629,8 @@
    "phones": [ "‪(857) 342-2240‬" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2764,8 +2640,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.26597,
-   "longitude": -71.110053,
-   "iso": "USA"
+   "longitude": -71.110053
   },
   "properties": {
    "orgName": "Mattapan - Boston MA (USA)",
@@ -2776,8 +2651,8 @@
    "phones": [ "617-361-5960" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2787,8 +2662,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.26597,
-   "longitude": -71.110053,
-   "iso": "USA"
+   "longitude": -71.110053
   },
   "properties": {
    "orgName": "Cummins - Boston MA (USA)",
@@ -2799,8 +2673,8 @@
    "phones": [ "617-361-5840" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2810,8 +2684,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.26597,
-   "longitude": -71.110053,
-   "iso": "USA"
+   "longitude": -71.110053
   },
   "properties": {
    "orgName": "Haitian Creole - Mattapan MA (USA)",
@@ -2822,8 +2695,8 @@
    "phones": [ "1-857-287-6326/1-857-615-1064" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2833,8 +2706,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.27893,
-   "longitude": -70.108232,
-   "iso": "USA"
+   "longitude": -70.108232
   },
   "properties": {
    "orgName": "Nantucket - MA (USA)",
@@ -2846,19 +2718,18 @@
    "phones": [ "508-228-8816" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FBE153C0-447D-41A9-8907-49A47FEC1BA6",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.27893,
-   "longitude": -70.108232,
-   "iso": "USA"
+   "longitude": -70.108232
   },
   "properties": {
    "orgName": "Spanish - Nantucket - MA (USA)",
@@ -2870,8 +2741,8 @@
    "phones": [ "508-228-8816" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-09-28"
  },
@@ -2881,8 +2752,7 @@
   "isPrimary": 0,
   "location": {
    "latitude": 42.356645,
-   "longitude": -71.159667,
-   "iso": "USA"
+   "longitude": -71.159667
   },
   "properties": {
    "orgName": "Central Mandarin Chinese - Boston MA (USA)",
@@ -2894,8 +2764,8 @@
    "phones": [ "857-293-1116" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2905,8 +2775,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.356645,
-   "longitude": -71.159667,
-   "iso": "USA"
+   "longitude": -71.159667
   },
   "properties": {
    "orgName": "Russian - Boston MA (USA)",
@@ -2917,8 +2786,8 @@
    "phones": [ "617-782-1766" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2928,8 +2797,7 @@
   "isPrimary": 0,
   "location": {
    "latitude": 42.356645,
-   "longitude": -71.159667,
-   "iso": "USA"
+   "longitude": -71.159667
   },
   "properties": {
    "orgName": "Chinese (Cantonese) - Central Mandarin Chinese - Boston MA (USA)",
@@ -2941,8 +2809,8 @@
    "phones": [ "857-293-1116" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2963,8 +2831,8 @@
    "phones": [ "617-744-9525" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2974,8 +2842,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.10896,
-   "longitude": -70.910501,
-   "iso": "USA"
+   "longitude": -70.910501
   },
   "properties": {
    "orgName": "Bridgewater - MA (USA)",
@@ -2986,8 +2853,8 @@
    "phones": [ "1-781-878-6773" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2997,8 +2864,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.10896,
-   "longitude": -70.910501,
-   "iso": "USA"
+   "longitude": -70.910501
   },
   "properties": {
    "orgName": "Rockland - MA (USA)",
@@ -3009,8 +2875,8 @@
    "phones": [ "781-878-6773" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3020,8 +2886,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.743359,
-   "longitude": -71.539196,
-   "iso": "USA"
+   "longitude": -71.539196
   },
   "properties": {
    "orgName": "English - Nashua NH (USA)",
@@ -3032,8 +2897,8 @@
    "phones": [ "(603) 880-3115" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3043,8 +2908,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.743359,
-   "longitude": -71.539196,
-   "iso": "USA"
+   "longitude": -71.539196
   },
   "properties": {
    "orgName": "Hollis - NH (USA)",
@@ -3055,8 +2919,8 @@
    "phones": [ "603-880-3115" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3066,8 +2930,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.743359,
-   "longitude": -71.539196,
-   "iso": "USA"
+   "longitude": -71.539196
   },
   "properties": {
    "orgName": "Broad Street Spanish - Nashua NH (USA)",
@@ -3078,19 +2941,18 @@
    "phones": [ "603-557-3281" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "7AAFE83E-8390-417E-BF60-030F672F8514",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.314369,
-   "longitude": -71.107909,
-   "iso": "USA"
+   "longitude": -71.107909
   },
   "properties": {
    "orgName": "Jamaica Plain English - Boston MA (USA)",
@@ -3102,19 +2964,18 @@
    "phones": [ "6175227521" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "31F0F90F-0026-4DE7-9AD3-D18E213C71F9",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.314369,
-   "longitude": -71.107909,
-   "iso": "USA"
+   "longitude": -71.107909
   },
   "properties": {
    "orgName": "Jamaica Plain Spanish - Boston MA (USA)",
@@ -3125,19 +2986,18 @@
    "phones": [ "617-522-7521" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "857B33C1-C91F-47DD-979F-0F264FB20C05",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.314369,
-   "longitude": -71.107909,
-   "iso": "USA"
+   "longitude": -71.107909
   },
   "properties": {
    "orgName": "Sign Language - Boston MA (USA)",
@@ -3148,8 +3008,8 @@
    "phones": [ "617-360-8642 ASL Videophone" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3159,8 +3019,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.314369,
-   "longitude": -71.107909,
-   "iso": "USA"
+   "longitude": -71.107909
   },
   "properties": {
    "orgName": "Albanian - Jamaica Plain English - Boston MA (USA)",
@@ -3172,8 +3031,8 @@
    "phones": [ "6175227521" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3183,8 +3042,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.701579,
-   "longitude": -70.483829,
-   "iso": "USA"
+   "longitude": -70.483829
   },
   "properties": {
    "orgName": "Sandwich - MA (USA)",
@@ -3195,8 +3053,8 @@
    "phones": [ "508-477-2860" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3206,8 +3064,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.701579,
-   "longitude": -70.483829,
-   "iso": "USA"
+   "longitude": -70.483829
   },
   "properties": {
    "orgName": "Mashpee - MA (USA)",
@@ -3218,8 +3075,8 @@
    "phones": [ "508 477-2860" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3229,20 +3086,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.701579,
-   "longitude": -70.483829,
-   "iso": "USA"
+   "longitude": -70.483829
   },
   "properties": {
    "orgName": "Portuguese - Hyannis MA (USA)",
    "orgType": "CONG",
    "address": "264 Cotuit Rd\nSandwich MA  02563-2493",
-   "languageCode": "T",
+   "languageCode": "PTG",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "(508) 685-1965" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3252,8 +3108,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.312515,
-   "longitude": -71.090239,
-   "iso": "USA"
+   "longitude": -71.090239
   },
   "properties": {
    "orgName": "Washington Park - Boston MA (USA)",
@@ -3264,8 +3119,8 @@
    "phones": [ "(617) 922-9497" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3275,8 +3130,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.312515,
-   "longitude": -71.090239,
-   "iso": "USA"
+   "longitude": -71.090239
   },
   "properties": {
    "orgName": "South End - Boston MA (USA)",
@@ -3287,8 +3141,8 @@
    "phones": [ "781-269-1720" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3298,8 +3152,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.300157,
-   "longitude": -71.075185,
-   "iso": "USA"
+   "longitude": -71.075185
   },
   "properties": {
    "orgName": "Blue Hills - Boston MA (USA)",
@@ -3310,8 +3163,8 @@
    "phones": [ "617-514-4848" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3321,8 +3174,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.300157,
-   "longitude": -71.075185,
-   "iso": "USA"
+   "longitude": -71.075185
   },
   "properties": {
    "orgName": "Franklin Field - Boston MA (USA)",
@@ -3334,8 +3186,8 @@
    "phones": [ "617-514-4848" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3345,8 +3197,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.300157,
-   "longitude": -71.075185,
-   "iso": "USA"
+   "longitude": -71.075185
   },
   "properties": {
    "orgName": "Harvard - Boston MA (USA)",
@@ -3357,8 +3208,8 @@
    "phones": [ "617-514-4848" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3368,8 +3219,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.300157,
-   "longitude": -71.075185,
-   "iso": "USA"
+   "longitude": -71.075185
   },
   "properties": {
    "orgName": "Dorchester Spanish - Boston MA (USA)",
@@ -3380,8 +3230,8 @@
    "phones": [ "617-982-3328" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3391,8 +3241,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.300157,
-   "longitude": -71.075185,
-   "iso": "USA"
+   "longitude": -71.075185
   },
   "properties": {
    "orgName": "Vietnamese - Franklin Field - Boston MA (USA)",
@@ -3404,8 +3253,8 @@
    "phones": [ "617-514-4848" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3415,8 +3264,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.296629,
-   "longitude": -71.058736,
-   "iso": "USA"
+   "longitude": -71.058736
   },
   "properties": {
    "orgName": "Shawmut - Boston MA (USA)",
@@ -3427,8 +3275,8 @@
    "phones": [ "617-320-7943" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3438,8 +3286,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.296629,
-   "longitude": -71.058736,
-   "iso": "USA"
+   "longitude": -71.058736
   },
   "properties": {
    "orgName": "South Haitian Creole - Boston MA (USA)",
@@ -3450,8 +3297,8 @@
    "phones": [ "617-312-4892 / 774-826-7759" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3461,8 +3308,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.296629,
-   "longitude": -71.058736,
-   "iso": "USA"
+   "longitude": -71.058736
   },
   "properties": {
    "orgName": "Dorchester Kabuverdianu - Boston MA (USA)",
@@ -3473,8 +3319,8 @@
    "phones": [ "508-960-9597" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3484,8 +3330,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.447866,
-   "longitude": -71.208037,
-   "iso": "USA"
+   "longitude": -71.208037
   },
   "properties": {
    "orgName": "Lexington - MA (USA)",
@@ -3496,8 +3341,8 @@
    "phones": [ "7818630743" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3507,8 +3352,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.447866,
-   "longitude": -71.208037,
-   "iso": "USA"
+   "longitude": -71.208037
   },
   "properties": {
    "orgName": "Burlington - MA (USA)",
@@ -3520,8 +3364,8 @@
    "phones": [ "9782395600" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3531,8 +3375,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.325356,
-   "longitude": -71.079977,
-   "iso": "USA"
+   "longitude": -71.079977
   },
   "properties": {
    "orgName": "Central Spanish - Boston MA (USA)",
@@ -3543,8 +3386,8 @@
    "phones": [ "857-334-6165" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3554,8 +3397,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.325356,
-   "longitude": -71.079977,
-   "iso": "USA"
+   "longitude": -71.079977
   },
   "properties": {
    "orgName": "Metropolitan - Boston MA (USA)",
@@ -3566,8 +3408,8 @@
    "phones": [ "617-445-7260" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3577,8 +3419,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.325356,
-   "longitude": -71.079977,
-   "iso": "USA"
+   "longitude": -71.079977
   },
   "properties": {
    "orgName": "Spanish - Roxbury MA (USA)",
@@ -3589,8 +3430,8 @@
    "phones": [ "1-617-792-7625" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3600,8 +3441,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.325356,
-   "longitude": -71.079977,
-   "iso": "USA"
+   "longitude": -71.079977
   },
   "properties": {
    "orgName": "Central Kabuverdianu - Boston MA (USA)",
@@ -3612,8 +3452,8 @@
    "phones": [ "617-445-7260" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3623,20 +3463,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.616584,
-   "longitude": -71.364548,
-   "iso": "USA"
+   "longitude": -71.364548
   },
   "properties": {
    "orgName": "Portuguese - Lowell MA (USA)",
    "orgType": "CONG",
    "address": "220 North Rd\nChelmsford MA  01824-1409",
-   "languageCode": "T",
+   "languageCode": "PTG",
    "schedule": "Sat 17:00 Wed 19:00",
    "phones": [ "978-419-1567" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3646,8 +3485,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.616584,
-   "longitude": -71.364548,
-   "iso": "USA"
+   "longitude": -71.364548
   },
   "properties": {
    "orgName": "Metro Boston Swahili - Chelmsford MA (USA)",
@@ -3658,19 +3496,18 @@
    "phones": [ "978-743-9008" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "A1BB0C8A-9AF8-4111-8C64-F848B4835E92",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.390864,
-   "longitude": -71.120353,
-   "iso": "USA"
+   "longitude": -71.120353
   },
   "properties": {
    "orgName": "Cambridge - MA (USA)",
@@ -3682,19 +3519,18 @@
    "phones": [ "617-868-5220" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "69D860F7-EA6D-4CEE-A414-29C04C0AAB79",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.390864,
-   "longitude": -71.120353,
-   "iso": "USA"
+   "longitude": -71.120353
   },
   "properties": {
    "orgName": "Central Haitian Creole - Boston MA (USA)",
@@ -3705,8 +3541,8 @@
    "phones": [ "(917) 873-1712" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3716,8 +3552,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.390864,
-   "longitude": -71.120353,
-   "iso": "USA"
+   "longitude": -71.120353
   },
   "properties": {
    "orgName": "Amharic - Cambridge - MA (USA)",
@@ -3729,8 +3564,8 @@
    "phones": [ "617-868-5220" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3740,8 +3575,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.406451,
-   "longitude": -71.130771,
-   "iso": "USA"
+   "longitude": -71.130771
   },
   "properties": {
    "orgName": "Haitian Creole - Somerville MA (USA)",
@@ -3752,8 +3586,8 @@
    "phones": [ "617-628-5090" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3763,8 +3597,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.406451,
-   "longitude": -71.130771,
-   "iso": "USA"
+   "longitude": -71.130771
   },
   "properties": {
    "orgName": "English - Somerville MA (USA)",
@@ -3775,8 +3608,8 @@
    "phones": [ "617-684-5170" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3786,8 +3619,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.406451,
-   "longitude": -71.130771,
-   "iso": "USA"
+   "longitude": -71.130771
   },
   "properties": {
    "orgName": "Spanish - Somerville MA (USA)",
@@ -3798,8 +3630,8 @@
    "phones": [ "(857) 600-1658" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3809,20 +3641,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.406451,
-   "longitude": -71.130771,
-   "iso": "USA"
+   "longitude": -71.130771
   },
   "properties": {
    "orgName": "West Portuguese - Boston MA (USA)",
    "orgType": "CONG",
    "address": "11 North St\nSomerville MA  02144-1401",
-   "languageCode": "T",
+   "languageCode": "PTG",
    "schedule": "Sat 17:30 Tue 19:00",
    "phones": [ "617-863-6543" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3832,8 +3663,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.63269,
-   "longitude": -71.344372,
-   "iso": "USA"
+   "longitude": -71.344372
   },
   "properties": {
    "orgName": "Chelmsford - MA (USA)",
@@ -3844,8 +3674,8 @@
    "phones": [ "978-453-2327" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3855,8 +3685,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.63269,
-   "longitude": -71.344372,
-   "iso": "USA"
+   "longitude": -71.344372
   },
   "properties": {
    "orgName": "Highlands - Lowell MA (USA)",
@@ -3867,8 +3696,8 @@
    "phones": [ "978-453-2327" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3878,8 +3707,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.63269,
-   "longitude": -71.344372,
-   "iso": "USA"
+   "longitude": -71.344372
   },
   "properties": {
    "orgName": "Spanish - Lowell MA (USA)",
@@ -3890,8 +3718,8 @@
    "phones": [ "914-548-9293" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3901,8 +3729,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.944115,
-   "longitude": -70.597682,
-   "iso": "USA"
+   "longitude": -70.597682
   },
   "properties": {
    "orgName": "Plymouth - MA (USA)",
@@ -3913,8 +3740,8 @@
    "phones": [ "508 922-4168" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3924,8 +3751,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.792391,
-   "longitude": -71.420007,
-   "iso": "USA"
+   "longitude": -71.420007
   },
   "properties": {
    "orgName": "Londonderry - NH (USA)",
@@ -3936,8 +3762,8 @@
    "phones": [ "603.417.4366" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3947,8 +3773,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.792391,
-   "longitude": -71.420007,
-   "iso": "USA"
+   "longitude": -71.420007
   },
   "properties": {
    "orgName": "Hudson - NH (USA)",
@@ -3956,11 +3781,11 @@
    "address": "128 Greeley St\nHudson NH  03051-3422",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
-   "phones": [ "603-417-4243" ],
+   "phones": [ "603-882-6756" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -3970,8 +3795,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.792391,
-   "longitude": -71.420007,
-   "iso": "USA"
+   "longitude": -71.420007
   },
   "properties": {
    "orgName": "Derry - NH (USA)",
@@ -3982,19 +3806,18 @@
    "phones": [ "978-533-1826" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "1B224068-C985-406B-B9F1-EC7FBE3263A7",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.556282,
-   "longitude": -71.183355,
-   "iso": "USA"
+   "longitude": -71.183355
   },
   "properties": {
    "orgName": "English - Lawrence MA (USA)",
@@ -4005,19 +3828,18 @@
    "phones": [ "978-651-1398" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "FEA88A2E-A8BF-4C78-B5D7-6D914F87E686",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.556282,
-   "longitude": -71.183355,
-   "iso": "USA"
+   "longitude": -71.183355
   },
   "properties": {
    "orgName": "Wilmington - MA (USA)",
@@ -4028,8 +3850,8 @@
    "phones": [ "(978) 437-0373" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4039,8 +3861,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.556282,
-   "longitude": -71.183355,
-   "iso": "USA"
+   "longitude": -71.183355
   },
   "properties": {
    "orgName": "Cambodian - Lowell MA (USA)",
@@ -4051,8 +3872,8 @@
    "phones": [ "978-658-5844" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4062,8 +3883,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.430986,
-   "longitude": -71.05736,
-   "iso": "USA"
+   "longitude": -71.05736
   },
   "properties": {
    "orgName": "Malden - MA (USA)",
@@ -4074,8 +3894,8 @@
    "phones": [ "617-763-6279" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4085,8 +3905,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.41164,
-   "longitude": -71.030357,
-   "iso": "USA"
+   "longitude": -71.030357
   },
   "properties": {
    "orgName": "English - Revere MA (USA)",
@@ -4097,8 +3916,8 @@
    "phones": [ "781-951-4516" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4108,8 +3927,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.41164,
-   "longitude": -71.030357,
-   "iso": "USA"
+   "longitude": -71.030357
   },
   "properties": {
    "orgName": "Spanish - Revere MA (USA)",
@@ -4120,8 +3938,8 @@
    "phones": [ "781-951-4544" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4131,8 +3949,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.41164,
-   "longitude": -71.030357,
-   "iso": "USA"
+   "longitude": -71.030357
   },
   "properties": {
    "orgName": "Spanish - Chelsea MA (USA)",
@@ -4140,11 +3957,11 @@
    "address": "40 Hysil Ave\nRevere MA  02151-5806",
    "languageCode": "S",
    "schedule": "Sun 09:00 Thu 19:00",
-   "phones": [ "781-284-7687" ],
+   "phones": [ "617-378-2829" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4154,8 +3971,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.41164,
-   "longitude": -71.030357,
-   "iso": "USA"
+   "longitude": -71.030357
   },
   "properties": {
    "orgName": "East Boston Spanish - Boston MA (USA)",
@@ -4166,8 +3982,8 @@
    "phones": [ "6176994253" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4177,8 +3993,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.882433,
-   "longitude": -71.500991,
-   "iso": "USA"
+   "longitude": -71.500991
   },
   "properties": {
    "orgName": "Merrimack - NH (USA)",
@@ -4189,19 +4004,18 @@
    "phones": [ "603-377-7655" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "708B64FE-8CFD-48E8-8C6C-263608A9BD69",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.471669,
-   "longitude": -71.082261,
-   "iso": "USA"
+   "longitude": -71.082261
   },
   "properties": {
    "orgName": "Italian - Boston MA (USA)",
@@ -4212,19 +4026,18 @@
    "phones": [ "978-210-8843" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "2265BE21-2462-4489-96F0-D3E835C3449A",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.471669,
-   "longitude": -71.082261,
-   "iso": "USA"
+   "longitude": -71.082261
   },
   "properties": {
    "orgName": "Central French - Boston MA (USA)",
@@ -4235,8 +4048,8 @@
    "phones": [ "781-665-1468" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4246,8 +4059,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.471669,
-   "longitude": -71.082261,
-   "iso": "USA"
+   "longitude": -71.082261
   },
   "properties": {
    "orgName": "Fellsway Spanish - Stoneham MA (USA)",
@@ -4258,8 +4070,8 @@
    "phones": [ "781-665-1468" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4269,8 +4081,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.475062,
-   "longitude": -71.037716,
-   "iso": "USA"
+   "longitude": -71.037716
   },
   "properties": {
    "orgName": "English - Saugus MA (USA)",
@@ -4281,8 +4092,8 @@
    "phones": [ "781-233-1333" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4292,8 +4103,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.475062,
-   "longitude": -71.037716,
-   "iso": "USA"
+   "longitude": -71.037716
   },
   "properties": {
    "orgName": "Stoneham - MA (USA)",
@@ -4304,8 +4114,8 @@
    "phones": [ "781-233-1333" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4315,20 +4125,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.475062,
-   "longitude": -71.037716,
-   "iso": "USA"
+   "longitude": -71.037716
   },
   "properties": {
    "orgName": "Portuguese - Saugus MA (USA)",
    "orgType": "CONG",
    "address": "6 Kingdom Way\nSaugus MA  01906-3105",
-   "languageCode": "T",
+   "languageCode": "PTG",
    "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "781-233-1333" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4338,8 +4147,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.993435,
-   "longitude": -71.519402,
-   "iso": "USA"
+   "longitude": -71.519402
   },
   "properties": {
    "orgName": "Goffstown - NH (USA)",
@@ -4351,8 +4159,8 @@
    "phones": [ "603-669-6880" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4362,8 +4170,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.993435,
-   "longitude": -71.519402,
-   "iso": "USA"
+   "longitude": -71.519402
   },
   "properties": {
    "orgName": "West - Manchester NH (USA)",
@@ -4374,8 +4181,8 @@
    "phones": [ "(603) 669-6880" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4385,8 +4192,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.993435,
-   "longitude": -71.519402,
-   "iso": "USA"
+   "longitude": -71.519402
   },
   "properties": {
    "orgName": "French - Goffstown - NH (USA)",
@@ -4398,15 +4204,15 @@
    "phones": [ "603-669-6880" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "CAC196DE-B96C-4A85-8C97-87C43D872FE4",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.468427,
    "longitude": -70.968301
@@ -4420,8 +4226,8 @@
    "phones": [ "781-599-4401" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -4447,7 +4253,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-03",
-  "lastVisit": "2023-09-30"
+  "lastVisit": "2023-12-27"
  },
  {
   "geoId": "0FA5404F-7A15-4616-9ED0-9CE0AC3D21A2",
@@ -4455,8 +4261,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.415556,
-   "longitude": -71.898893,
-   "iso": "USA"
+   "longitude": -71.898893
   },
   "properties": {
    "orgName": "Wilmot - NH (USA)",
@@ -4467,8 +4272,8 @@
    "phones": [ "603-526-6198" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4478,20 +4283,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.702055,
-   "longitude": -71.175704,
-   "iso": "USA"
+   "longitude": -71.175704
   },
   "properties": {
    "orgName": "South Spanish - Lawrence MA (USA)",
    "orgType": "CONG",
-   "address": "825 Essex St\nLawrence MA  01841-4618",
+   "address": "841 Essex St\nLawrence MA  01841-4618",
    "languageCode": "S",
    "schedule": "Sun 12:00 Wed 19:00",
-   "phones": [ "978-489-9356" ],
+   "phones": [ "978-655 3441" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4501,20 +4305,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.702055,
-   "longitude": -71.175704,
-   "iso": "USA"
+   "longitude": -71.175704
   },
   "properties": {
    "orgName": "Central Spanish - Lawrence MA (USA)",
    "orgType": "CONG",
-   "address": "825 Essex St\nLawrence MA  01841-4618",
+   "address": "841 Essex St\nLawrence MA  01841-4618",
    "languageCode": "S",
    "schedule": "Sun 09:30 Thu 19:00",
    "phones": [ "(978) 794-0393" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4524,27 +4327,26 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.702055,
-   "longitude": -71.175704,
-   "iso": "USA"
+   "longitude": -71.175704
   },
   "properties": {
    "orgName": "Arlington Park Spanish - Lawrence MA (USA)",
    "orgType": "CONG",
-   "address": "825 Essex St\nLawrence MA  01841-4618",
+   "address": "841 Essex St\nLawrence MA  01841-4618",
    "languageCode": "S",
    "schedule": "Sun 14:30 Tue 19:00",
    "phones": [ "978-794-3042" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "A16302CE-9890-4BBB-BBCF-4590F8BF3D28",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.47433,
    "longitude": -70.938912
@@ -4558,19 +4360,18 @@
    "phones": [ "781-599-4782" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "3DBC90DF-304D-4E2B-890A-EE13DC276823",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.47433,
-   "longitude": -70.938912,
-   "iso": "USA"
+   "longitude": -70.938912
   },
   "properties": {
    "orgName": "Spanish - Lynn MA (USA)",
@@ -4581,8 +4382,8 @@
    "phones": [ "781-599-4782" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4592,8 +4393,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.47433,
-   "longitude": -70.938912,
-   "iso": "USA"
+   "longitude": -70.938912
   },
   "properties": {
    "orgName": "Haitian Creole - Lynn MA (USA)",
@@ -4604,8 +4404,8 @@
    "phones": [ "781-479-2291" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4615,8 +4415,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.708685,
-   "longitude": -70.164689,
-   "iso": "USA"
+   "longitude": -70.164689
   },
   "properties": {
    "orgName": "Hyannis - MA (USA)",
@@ -4628,8 +4427,8 @@
    "phones": [ "508-815-3642" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4639,8 +4438,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.708685,
-   "longitude": -70.164689,
-   "iso": "USA"
+   "longitude": -70.164689
   },
   "properties": {
    "orgName": "Harwich - MA (USA)",
@@ -4651,19 +4449,18 @@
    "phones": [ "774-840-1558" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "83B1B23B-4876-4015-801D-A6F73B40F6BA",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.708685,
-   "longitude": -70.164689,
-   "iso": "USA"
+   "longitude": -70.164689
   },
   "properties": {
    "orgName": "Spanish - Hyannis - MA (USA)",
@@ -4675,8 +4472,8 @@
    "phones": [ "508-815-3642" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -4686,8 +4483,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.72615,
-   "longitude": -71.161628,
-   "iso": "USA"
+   "longitude": -71.161628
   },
   "properties": {
    "orgName": "English - Methuen MA (USA)",
@@ -4698,19 +4494,18 @@
    "phones": [ "(978) 533-1284" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "7F675A74-1C66-4EC6-A65D-2E1B97C838D3",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.72615,
-   "longitude": -71.161628,
-   "iso": "USA"
+   "longitude": -71.161628
   },
   "properties": {
    "orgName": "Spanish - Methuen MA (USA)",
@@ -4721,8 +4516,8 @@
    "phones": [ "978-687-6019" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4732,8 +4527,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.72615,
-   "longitude": -71.161628,
-   "iso": "USA"
+   "longitude": -71.161628
   },
   "properties": {
    "orgName": "Jackson Spanish - Lawrence MA (USA)",
@@ -4744,8 +4538,8 @@
    "phones": [ "978-651-1457" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4755,8 +4549,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.713888,
-   "longitude": -71.142068,
-   "iso": "USA"
+   "longitude": -71.142068
   },
   "properties": {
    "orgName": "North Spanish - Lawrence MA (USA)",
@@ -4770,8 +4563,8 @@
    ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4781,8 +4574,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.713888,
-   "longitude": -71.142068,
-   "iso": "USA"
+   "longitude": -71.142068
   },
   "properties": {
    "orgName": "North Haitian Creole - Lawrence MA (USA)",
@@ -4793,8 +4585,8 @@
    "phones": [ "Did Cameau 978-914-8889" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4804,8 +4596,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.713888,
-   "longitude": -71.142068,
-   "iso": "USA"
+   "longitude": -71.142068
   },
   "properties": {
    "orgName": "Southeast Spanish - Lawrence MA (USA)",
@@ -4813,22 +4604,21 @@
    "address": "35 Ferry St\nLawrence MA  01841-2237",
    "languageCode": "S",
    "schedule": "Sun 10:00 Mon 19:00",
-   "phones": [ "978-291-8389" ],
+   "phones": [ "978-683-2626" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "E0D8DDF9-4287-4FAD-83C1-51D8C01DDA9E",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.713888,
-   "longitude": -71.142068,
-   "iso": "USA"
+   "longitude": -71.142068
   },
   "properties": {
    "orgName": "Sign Language - Lawrence MA (USA)",
@@ -4839,8 +4629,8 @@
    "phones": [ "603-865-7866" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4850,8 +4640,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.530473,
-   "longitude": -70.935419,
-   "iso": "USA"
+   "longitude": -70.935419
   },
   "properties": {
    "orgName": "English - Peabody MA (USA)",
@@ -4862,8 +4651,8 @@
    "phones": [ "978-532-2474" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4873,8 +4662,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.530473,
-   "longitude": -70.935419,
-   "iso": "USA"
+   "longitude": -70.935419
   },
   "properties": {
    "orgName": "Salem - MA (USA)",
@@ -4885,19 +4673,18 @@
    "phones": [ "(978) 532-2474" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "5EFC47CC-20B8-4513-902D-084D42BEDFDE",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.530473,
-   "longitude": -70.935419,
-   "iso": "USA"
+   "longitude": -70.935419
   },
   "properties": {
    "orgName": "Spanish - Peabody MA (USA)",
@@ -4908,8 +4695,8 @@
    "phones": [ "‪(978) 704-0777‬" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4919,8 +4706,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.99732,
-   "longitude": -71.400295,
-   "iso": "USA"
+   "longitude": -71.400295
   },
   "properties": {
    "orgName": "North - Manchester NH (USA)",
@@ -4931,8 +4717,8 @@
    "phones": [ "603-935-8320" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4942,8 +4728,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.99732,
-   "longitude": -71.400295,
-   "iso": "USA"
+   "longitude": -71.400295
   },
   "properties": {
    "orgName": "South - Manchester NH (USA)",
@@ -4954,19 +4739,18 @@
    "phones": [ "603-935-8320" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "19F11718-62C9-4E77-B7EA-1972B55691BB",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.99732,
-   "longitude": -71.400295,
-   "iso": "USA"
+   "longitude": -71.400295
   },
   "properties": {
    "orgName": "Spanish - Manchester NH (USA)",
@@ -4977,8 +4761,8 @@
    "phones": [ "603-437-0069" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -4988,8 +4772,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.767571,
-   "longitude": -71.057749,
-   "iso": "USA"
+   "longitude": -71.057749
   },
   "properties": {
    "orgName": "North - Haverhill MA (USA)",
@@ -5000,8 +4783,8 @@
    "phones": [ "978-373-4544" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5011,8 +4794,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.767571,
-   "longitude": -71.057749,
-   "iso": "USA"
+   "longitude": -71.057749
   },
   "properties": {
    "orgName": "South - Haverhill MA (USA)",
@@ -5023,19 +4805,18 @@
    "phones": [ "978-373-4544 Option 2" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "6DF774E6-38E2-4A4E-89B9-BE0F24A72E29",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.767571,
-   "longitude": -71.057749,
-   "iso": "USA"
+   "longitude": -71.057749
   },
   "properties": {
    "orgName": "Spanish - Haverhill MA (USA)",
@@ -5046,8 +4827,8 @@
    "phones": [ "(978)2089193" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5057,8 +4838,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.232947,
-   "longitude": -71.521618,
-   "iso": "USA"
+   "longitude": -71.521618
   },
   "properties": {
    "orgName": "East - Concord NH (USA)",
@@ -5069,8 +4849,8 @@
    "phones": [ "603-753-3022" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5080,8 +4860,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.232947,
-   "longitude": -71.521618,
-   "iso": "USA"
+   "longitude": -71.521618
   },
   "properties": {
    "orgName": "West - Concord NH (USA)",
@@ -5092,8 +4871,8 @@
    "phones": [ "603-225-4599" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5103,8 +4882,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.232947,
-   "longitude": -71.521618,
-   "iso": "USA"
+   "longitude": -71.521618
   },
   "properties": {
    "orgName": "Pembroke - NH (USA)",
@@ -5115,19 +4893,18 @@
    "phones": [ "603-715-6529" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "8F8B919B-E2BB-4D4C-9871-A37E1E162AB8",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.232947,
-   "longitude": -71.521618,
-   "iso": "USA"
+   "longitude": -71.521618
   },
   "properties": {
    "orgName": "Merrimack River Swahili (Congo) - Concord NH (USA)",
@@ -5138,8 +4915,8 @@
    "phones": [ "9782268903" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5149,8 +4926,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.458679,
-   "longitude": -71.645383,
-   "iso": "USA"
+   "longitude": -71.645383
   },
   "properties": {
    "orgName": "South - Franklin NH (USA)",
@@ -5161,8 +4937,8 @@
    "phones": [ "603-934-3582" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5172,8 +4948,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.458679,
-   "longitude": -71.645383,
-   "iso": "USA"
+   "longitude": -71.645383
   },
   "properties": {
    "orgName": "North - Franklin NH (USA)",
@@ -5184,8 +4959,8 @@
    "phones": [ "603-254-6418" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5195,8 +4970,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.818481,
-   "longitude": -69.967985,
-   "iso": "USA"
+   "longitude": -69.967985
   },
   "properties": {
    "orgName": "Eastham - MA (USA)",
@@ -5207,8 +4981,8 @@
    "phones": [ "774-231-8003" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -5218,8 +4992,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.815105,
-   "longitude": -70.922143,
-   "iso": "USA"
+   "longitude": -70.922143
   },
   "properties": {
    "orgName": "Newburyport - MA (USA)",
@@ -5230,8 +5003,8 @@
    "phones": [ "9784627422" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5241,8 +5014,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.815105,
-   "longitude": -70.922143,
-   "iso": "USA"
+   "longitude": -70.922143
   },
   "properties": {
    "orgName": "Amesbury - MA (USA)",
@@ -5253,8 +5025,8 @@
    "phones": [ "‪(978) 807-2390" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5264,8 +5036,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.626618,
-   "longitude": -70.711338,
-   "iso": "USA"
+   "longitude": -70.711338
   },
   "properties": {
    "orgName": "Gloucester - MA (USA)",
@@ -5276,8 +5047,8 @@
    "phones": [ "978-281-0130" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5287,8 +5058,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.014574,
-   "longitude": -71.013529,
-   "iso": "USA"
+   "longitude": -71.013529
   },
   "properties": {
    "orgName": "Brentwood - NH (USA)",
@@ -5299,8 +5069,8 @@
    "phones": [ "603-778-7747" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5310,8 +5080,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.014574,
-   "longitude": -71.013529,
-   "iso": "USA"
+   "longitude": -71.013529
   },
   "properties": {
    "orgName": "Exeter - NH (USA)",
@@ -5322,8 +5091,8 @@
    "phones": [ "603-778-7747" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5333,8 +5102,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.151173,
-   "longitude": -71.992032,
-   "iso": "USA"
+   "longitude": -71.992032
   },
   "properties": {
    "orgName": "Woodsville - NH (USA)",
@@ -5345,8 +5113,8 @@
    "phones": [ "(603) 747-2279" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -5356,8 +5124,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.849332,
-   "longitude": -71.665251,
-   "iso": "USA"
+   "longitude": -71.665251
   },
   "properties": {
    "orgName": "Campton - NH (USA)",
@@ -5368,8 +5135,8 @@
    "phones": [ "(603) 451-2000" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5379,8 +5146,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.711908,
-   "longitude": -71.526845,
-   "iso": "USA"
+   "longitude": -71.526845
   },
   "properties": {
    "orgName": "Meredith - NH (USA)",
@@ -5391,8 +5157,8 @@
    "phones": [ "(603) 279-0090" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5402,8 +5168,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.330792,
-   "longitude": -71.030283,
-   "iso": "USA"
+   "longitude": -71.030283
   },
   "properties": {
    "orgName": "North - Rochester NH (USA)",
@@ -5414,31 +5179,8 @@
    "phones": [ "603-332-8280" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
-  "active": 1,
-  "firstSeen": "2022-12-03"
- },
- {
-  "geoId": "723933B0-1525-452C-B524-90E178884D57",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 43.231907,
-   "longitude": -70.905494,
-   "iso": "USA"
-  },
-  "properties": {
-   "orgName": "Kittery - ME (USA)",
-   "orgType": "CONG",
-   "address": "77 Long Hill Rd\nDover NH  03820-6231",
-   "languageCode": "E",
-   "schedule": "Sat 10:00 Thu 19:00",
-   "phones": [ "207-337-8484" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5448,20 +5190,41 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.231907,
-   "longitude": -70.905494,
-   "iso": "USA"
+   "longitude": -70.905494
   },
   "properties": {
    "orgName": "Dover - NH (USA)",
    "orgType": "CONG",
    "address": "77 Long Hill Rd\nDover NH  03820-6231",
    "languageCode": "E",
-   "schedule": "Sun 12:30 Tue 19:00",
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "603-749-1382" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
+  "active": 1,
+  "firstSeen": "2022-12-03"
+ },
+ {
+  "geoId": "723933B0-1525-452C-B524-90E178884D57",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 43.094629,
+   "longitude": -70.754612
+  },
+  "properties": {
+   "orgName": "Kittery - ME (USA)",
+   "orgType": "CONG",
+   "address": "14 Dennett Rd\nKittery ME  03904-1020",
+   "languageCode": "E",
+   "schedule": "Sat 10:00 Thu 19:00",
+   "phones": [ "207-337-8484" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5470,21 +5233,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 43.231907,
-   "longitude": -70.905494,
-   "iso": "USA"
+   "latitude": 43.094629,
+   "longitude": -70.754612
   },
   "properties": {
    "orgName": "Portsmouth - NH (USA)",
    "orgType": "CONG",
-   "address": "77 Long Hill Rd\nDover NH  03820-6231",
+   "address": "14 Dennett Rd\nKittery ME  03904-1020",
    "languageCode": "E",
-   "schedule": "Sun 09:30 Wed 19:00",
-   "phones": [ "603-765-0575" ],
+   "schedule": "Sun 10:00 Tue 19:00",
+   "phones": [ "207-439-0007" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5494,8 +5256,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.557942,
-   "longitude": -71.171372,
-   "iso": "USA"
+   "longitude": -71.171372
   },
   "properties": {
    "orgName": "Wolfeboro - NH (USA)",
@@ -5506,8 +5267,8 @@
    "phones": [ "(603) 235-5133" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5517,8 +5278,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.45947,
-   "longitude": -70.764841,
-   "iso": "USA"
+   "longitude": -70.764841
   },
   "properties": {
    "orgName": "Sanford - ME (USA)",
@@ -5529,8 +5289,8 @@
    "phones": [ "207-324-0818" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5540,8 +5300,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.45947,
-   "longitude": -70.764841,
-   "iso": "USA"
+   "longitude": -70.764841
   },
   "properties": {
    "orgName": "Springvale - ME (USA)",
@@ -5552,8 +5311,8 @@
    "phones": [ "207-324-0818" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5563,8 +5322,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.928639,
-   "longitude": -71.146722,
-   "iso": "USA"
+   "longitude": -71.146722
   },
   "properties": {
    "orgName": "Madison - NH (USA)",
@@ -5575,8 +5333,8 @@
    "phones": [ "603 451-1465" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5586,8 +5344,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.380865,
-   "longitude": -70.572538,
-   "iso": "USA"
+   "longitude": -70.572538
   },
   "properties": {
    "orgName": "Kennebunk - ME (USA)",
@@ -5598,8 +5355,8 @@
    "phones": [ "2074679130" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5609,8 +5366,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.536809,
-   "longitude": -71.568555,
-   "iso": "USA"
+   "longitude": -71.568555
   },
   "properties": {
    "orgName": "Lancaster - NH (USA)",
@@ -5621,8 +5377,8 @@
    "phones": [ "603-788-2438" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -5632,8 +5388,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.811097,
-   "longitude": -70.839917,
-   "iso": "USA"
+   "longitude": -70.839917
   },
   "properties": {
    "orgName": "Limington - ME (USA)",
@@ -5644,8 +5399,8 @@
    "phones": [ "(207) 625-9050" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5655,8 +5410,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.515242,
-   "longitude": -70.467122,
-   "iso": "USA"
+   "longitude": -70.467122
   },
   "properties": {
    "orgName": "Saco - ME (USA)",
@@ -5667,8 +5421,8 @@
    "phones": [ "207-283-0613" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5678,8 +5432,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.670216,
-   "longitude": -70.581888,
-   "iso": "USA"
+   "longitude": -70.581888
   },
   "properties": {
    "orgName": "Buxton - ME (USA)",
@@ -5690,8 +5443,8 @@
    "phones": [ "(207) 550-0636" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5701,8 +5454,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.384657,
-   "longitude": -71.235271,
-   "iso": "USA"
+   "longitude": -71.235271
   },
   "properties": {
    "orgName": "Gorham - NH (USA)",
@@ -5713,19 +5465,18 @@
    "phones": [ "1-603-752-7379" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "C925E656-DEED-43AF-BF79-CC2756D16236",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.626159,
-   "longitude": -70.287049,
-   "iso": "USA"
+   "longitude": -70.287049
   },
   "properties": {
    "orgName": "South Portland - ME (USA)",
@@ -5736,8 +5487,8 @@
    "phones": [ "(207) 799-2521" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5747,8 +5498,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.626159,
-   "longitude": -70.287049,
-   "iso": "USA"
+   "longitude": -70.287049
   },
   "properties": {
    "orgName": "Spanish - Portland ME (USA)",
@@ -5759,19 +5509,18 @@
    "phones": [ "(603) 233-2606" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "2D6DA652-1139-4159-9C23-9089D45EA530",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.626159,
-   "longitude": -70.287049,
-   "iso": "USA"
+   "longitude": -70.287049
   },
   "properties": {
    "orgName": "Central - Portland ME (USA)",
@@ -5782,8 +5531,8 @@
    "phones": [ "253-592-8589" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5793,8 +5542,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.147951,
-   "longitude": -71.80127,
-   "iso": "CAN"
+   "longitude": -71.80127
   },
   "properties": {
    "orgName": "Coaticook, QC",
@@ -5802,11 +5550,11 @@
    "address": "202 rue Saint-Marc\nCoaticook QC  J1A 2M3",
    "languageCode": "F",
    "schedule": "Sat 10:00 Tue 19:00",
-   "phones": [ "819-200-0719" ],
+   "phones": [ "873-392-0188" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -5816,8 +5564,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.811893,
-   "longitude": -70.422098,
-   "iso": "USA"
+   "longitude": -70.422098
   },
   "properties": {
    "orgName": "North Windham - ME (USA)",
@@ -5828,8 +5575,8 @@
    "phones": [ "207-892-3710" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5839,8 +5586,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.811893,
-   "longitude": -70.422098,
-   "iso": "USA"
+   "longitude": -70.422098
   },
   "properties": {
    "orgName": "Pleasant River Sign Language - Windham ME (USA)",
@@ -5851,19 +5597,18 @@
    "phones": [ "207-536-9348" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "729C343A-5233-4FE4-9281-0780B5FE1C6E",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.689475,
-   "longitude": -70.278626,
-   "iso": "USA"
+   "longitude": -70.278626
   },
   "properties": {
    "orgName": "West - Portland ME (USA)",
@@ -5871,22 +5616,21 @@
    "address": "355 Canco Rd\nPortland ME  04103-4241",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
-   "phones": [ "207-692-3033" ],
+   "phones": [ "207-773-6171" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "A62ABA89-D01B-4DD0-AC56-66FDF81E108E",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.689475,
-   "longitude": -70.278626,
-   "iso": "USA"
+   "longitude": -70.278626
   },
   "properties": {
    "orgName": "Back Cove Lingala - Portland ME (USA)",
@@ -5897,8 +5641,8 @@
    "phones": [ "2073528831" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5908,34 +5652,32 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.689475,
-   "longitude": -70.278626,
-   "iso": "USA"
+   "longitude": -70.278626
   },
   "properties": {
    "orgName": "Oaks Park Portuguese - Portland ME (USA)",
    "orgType": "CONG",
    "address": "355 Canco Rd\nPortland ME  04103-4241",
-   "languageCode": "T",
+   "languageCode": "PTG",
    "schedule": "Sun 13:00 Tue 19:00",
    "phones": [ "1 207 312-7023" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "9163D3E5-985F-4313-A8D1-F13C24E7DCBD",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 43.689475,
-   "longitude": -70.278626,
-   "iso": "USA"
+   "longitude": -70.278626
   },
   "properties": {
-   "orgName": "Casco Bay French - North Yarmouth ME (USA)",
+   "orgName": "Casco Bay French - Portland ME (USA)",
    "orgType": "CONG",
    "address": "355 Canco Rd\nPortland ME  04103-4241",
    "languageCode": "F",
@@ -5943,8 +5685,8 @@
    "phones": [ "2073471695" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -5954,8 +5696,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.884947,
-   "longitude": -71.441724,
-   "iso": "USA"
+   "longitude": -71.441724
   },
   "properties": {
    "orgName": "Colebrook - NH (USA)",
@@ -5963,11 +5704,11 @@
    "address": "7 Carleton Hill Rd\nColebrook NH  03576-3761",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 18:30",
-   "phones": [ "16032378600" ],
+   "phones": [ "603-237-8600" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -5988,8 +5729,8 @@
    "phones": [ "819-200-0719" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6011,19 +5752,18 @@
    "phones": [ "819-200-0725" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1107A99E-F314-43FF-8F10-1AAE5EC750AC",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 45.410838,
-   "longitude": -71.941993,
-   "iso": "CAN"
+   "longitude": -71.941993
   },
   "properties": {
    "orgName": "Hispana, Sherbrooke, QC",
@@ -6034,8 +5774,8 @@
    "phones": [ "819-200-0725" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6056,19 +5796,18 @@
    "phones": [ "819-200-0719" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "760735DA-1B23-4A3D-8E16-96E6ED8B3703",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 45.410838,
-   "longitude": -71.941993,
-   "iso": "CAN"
+   "longitude": -71.941993
   },
   "properties": {
    "orgName": "Parc-Victoria, Sherbrooke, QC",
@@ -6079,8 +5818,8 @@
    "phones": [ "819-200-0725" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6102,7 +5841,7 @@
    "phones": [ "819-200-0719" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-05-29",
   "active": 0,
   "firstSeen": "2022-12-02"
@@ -6113,8 +5852,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.882751,
-   "longitude": -70.251347,
-   "iso": "USA"
+   "longitude": -70.251347
   },
   "properties": {
    "orgName": "North Yarmouth - ME (USA)",
@@ -6125,8 +5863,8 @@
    "phones": [ "(207) 489-9142" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -6136,8 +5874,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.222628,
-   "longitude": -70.5908,
-   "iso": "USA"
+   "longitude": -70.5908
   },
   "properties": {
    "orgName": "Norway - ME (USA)",
@@ -6148,8 +5885,8 @@
    "phones": [ "207-393-5050" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6159,8 +5896,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.057873,
-   "longitude": -70.275373,
-   "iso": "USA"
+   "longitude": -70.275373
   },
   "properties": {
    "orgName": "Auburn - ME (USA)",
@@ -6172,8 +5908,8 @@
    "phones": [ "207-782-4332" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6183,8 +5919,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.481552,
-   "longitude": -71.677797,
-   "iso": "CAN"
+   "longitude": -71.677797
   },
   "properties": {
    "orgName": "East Angus, QC",
@@ -6195,8 +5930,8 @@
    "phones": [ "(873) 239-0024" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6206,8 +5941,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.082225,
-   "longitude": -70.171259,
-   "iso": "USA"
+   "longitude": -70.171259
   },
   "properties": {
    "orgName": "Lewiston - ME (USA)",
@@ -6218,31 +5952,30 @@
    "phones": [ "207-784-2024" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F58DF87C-7406-4A0C-931C-D7F56FFCAD35",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.082225,
-   "longitude": -70.171259,
-   "iso": "USA"
+   "longitude": -70.171259
   },
   "properties": {
    "orgName": "Lisbon Portuguese - Lewiston ME (USA)",
    "orgType": "CONG",
    "address": "721 Webster St\nLewiston ME  04240-1649",
-   "languageCode": "T",
+   "languageCode": "PTG",
    "schedule": "Sat 18:00 Wed 19:00",
-   "phones": [ "207 344 7724 - 207 312 7444" ],
+   "phones": [ "207-784-2024" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6252,8 +5985,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.919627,
-   "longitude": -69.96307,
-   "iso": "USA"
+   "longitude": -69.96307
   },
   "properties": {
    "orgName": "English - Brunswick ME (USA)",
@@ -6264,8 +5996,8 @@
    "phones": [ "207-725-5932" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -6275,8 +6007,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.919627,
-   "longitude": -69.96307,
-   "iso": "USA"
+   "longitude": -69.96307
   },
   "properties": {
    "orgName": "Bath - ME (USA)",
@@ -6287,8 +6018,8 @@
    "phones": [ "207-725-5932" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -6298,8 +6029,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.537919,
-   "longitude": -70.51445,
-   "iso": "USA"
+   "longitude": -70.51445
   },
   "properties": {
    "orgName": "Rumford - ME (USA)",
@@ -6310,8 +6040,8 @@
    "phones": [ "(207) 369-9461" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6321,8 +6051,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.087226,
-   "longitude": -71.941421,
-   "iso": "CAN"
+   "longitude": -71.941421
   },
   "properties": {
    "orgName": "Érable, Victoriaville, QC",
@@ -6333,8 +6062,8 @@
    "phones": [ "873-300-7988" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6344,8 +6073,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.087226,
-   "longitude": -71.941421,
-   "iso": "CAN"
+   "longitude": -71.941421
   },
   "properties": {
    "orgName": "Bois-Francs, Victoriaville, QC",
@@ -6356,8 +6084,8 @@
    "phones": [ "873 300-7988" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6367,8 +6095,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.263154,
-   "longitude": -70.046048,
-   "iso": "USA"
+   "longitude": -70.046048
   },
   "properties": {
    "orgName": "Monmouth - ME (USA)",
@@ -6379,8 +6106,8 @@
    "phones": [ "207-933-3739" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6390,8 +6117,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.004017,
-   "longitude": -69.612698,
-   "iso": "USA"
+   "longitude": -69.612698
   },
   "properties": {
    "orgName": "Newcastle - ME (USA)",
@@ -6402,8 +6128,8 @@
    "phones": [ "207-687-8465" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6413,8 +6139,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.208871,
-   "longitude": -71.788403,
-   "iso": "CAN"
+   "longitude": -71.788403
   },
   "properties": {
    "orgName": "Plessisville, QC",
@@ -6425,8 +6150,8 @@
    "phones": [ "(819) 789-0781" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6436,8 +6161,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.865798,
-   "longitude": -71.363977,
-   "iso": "CAN"
+   "longitude": -71.363977
   },
   "properties": {
    "orgName": "Disraeli, QC",
@@ -6448,8 +6172,8 @@
    "phones": [ "(581) 835-3006" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6459,8 +6183,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.684232,
-   "longitude": -70.157163,
-   "iso": "USA"
+   "longitude": -70.157163
   },
   "properties": {
    "orgName": "Farmington - ME (USA)",
@@ -6468,11 +6191,11 @@
    "address": "266 Fairbanks Rd\nFarmington ME  04938-5728",
    "languageCode": "E",
    "schedule": "Sun 09:30 Tue 19:00",
-   "phones": [ "(207) 779-4053" ],
+   "phones": [ "(207) 778-3217" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6482,8 +6205,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.33607,
-   "longitude": -69.687608,
-   "iso": "USA"
+   "longitude": -69.687608
   },
   "properties": {
    "orgName": "East - Augusta ME (USA)",
@@ -6494,8 +6216,8 @@
    "phones": [ "207-213-6454" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6505,8 +6227,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.33607,
-   "longitude": -69.687608,
-   "iso": "USA"
+   "longitude": -69.687608
   },
   "properties": {
    "orgName": "West - Augusta ME (USA)",
@@ -6517,8 +6238,8 @@
    "phones": [ "207-558-2661" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6528,8 +6249,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.593845,
-   "longitude": -70.91266,
-   "iso": "CAN"
+   "longitude": -70.91266
   },
   "properties": {
    "orgName": "Lac-Mégantic, QC",
@@ -6540,8 +6260,8 @@
    "phones": [ "819-554-8113" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6562,8 +6282,8 @@
    "phones": [ "(581) 333-7668" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6573,8 +6293,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.575348,
-   "longitude": -69.64452,
-   "iso": "USA"
+   "longitude": -69.64452
   },
   "properties": {
    "orgName": "Waterville - ME (USA)",
@@ -6585,8 +6304,8 @@
    "phones": [ "207-872-9310" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6596,8 +6315,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.575348,
-   "longitude": -69.64452,
-   "iso": "USA"
+   "longitude": -69.64452
   },
   "properties": {
    "orgName": "Fairfield - ME (USA)",
@@ -6608,8 +6326,8 @@
    "phones": [ "207-872-9310" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6630,8 +6348,8 @@
    "phones": [ "418-474-0749" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6641,8 +6359,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.156783,
-   "longitude": -69.113996,
-   "iso": "USA"
+   "longitude": -69.113996
   },
   "properties": {
    "orgName": "Thomaston - ME (USA)",
@@ -6653,8 +6370,8 @@
    "phones": [ "(978) 484-0053" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6664,8 +6381,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.156783,
-   "longitude": -69.113996,
-   "iso": "USA"
+   "longitude": -69.113996
   },
   "properties": {
    "orgName": "Rockland - ME (USA)",
@@ -6676,8 +6392,8 @@
    "phones": [ "207-594-2917" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6687,8 +6403,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.858375,
-   "longitude": -69.798295,
-   "iso": "USA"
+   "longitude": -69.798295
   },
   "properties": {
    "orgName": "Skowhegan - ME (USA)",
@@ -6699,8 +6414,8 @@
    "phones": [ "(207) 634-4753" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6721,8 +6436,8 @@
    "phones": [ "(418) 881-0359" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6732,8 +6447,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.537434,
-   "longitude": -69.420149,
-   "iso": "USA"
+   "longitude": -69.420149
   },
   "properties": {
    "orgName": "Albion - ME (USA)",
@@ -6744,8 +6458,8 @@
    "phones": [ "(207)441-4150" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6755,8 +6469,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.410602,
-   "longitude": -69.086594,
-   "iso": "USA"
+   "longitude": -69.086594
   },
   "properties": {
    "orgName": "Belfast - ME (USA)",
@@ -6767,8 +6480,8 @@
    "phones": [ "207-338-2871" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6789,8 +6502,8 @@
    "phones": [ "418-506-0784" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6800,8 +6513,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.792334,
-   "longitude": -69.364606,
-   "iso": "USA"
+   "longitude": -69.364606
   },
   "properties": {
    "orgName": "Pittsfield - ME (USA)",
@@ -6812,8 +6524,8 @@
    "phones": [ "207-408-8853" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6834,8 +6546,8 @@
    "phones": [ "866-357-8111" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6856,8 +6568,8 @@
    "phones": [ "581-500-0096" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6878,8 +6590,8 @@
    "phones": [ "418 261 3284" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6900,8 +6612,8 @@
    "phones": [ "(581) 700-0034" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6911,8 +6623,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.829584,
-   "longitude": -71.346188,
-   "iso": "CAN"
+   "longitude": -71.346188
   },
   "properties": {
    "orgName": "Langue des signes, Québec, QC",
@@ -6923,8 +6634,8 @@
    "phones": [ "(581) 700-0034" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6945,8 +6656,8 @@
    "phones": [ "581-700-2908" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6967,8 +6678,8 @@
    "phones": [ "581-700-0034" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -6978,7 +6689,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.813111,
-   "longitude": -71.275407
+   "longitude": -71.275407,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "(Moved) Laurier, Québec, QC",
@@ -6989,7 +6701,7 @@
    "phones": [ "581-700-2908" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -7001,7 +6713,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.813111,
-   "longitude": -71.275407
+   "longitude": -71.275407,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "(Moved) Sainte-Foy, Québec, QC",
@@ -7012,7 +6725,7 @@
    "phones": [ "581-700-2908" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -7024,7 +6737,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.813111,
-   "longitude": -71.275407
+   "longitude": -71.275407,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "(Moved) Hispana, Québec, QC",
@@ -7036,7 +6750,7 @@
    "phones": [ "581-700-2909" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-14",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -7048,7 +6762,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.813111,
-   "longitude": -71.275407
+   "longitude": -71.275407,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "(Moved) Center English, Québec, QC",
@@ -7059,7 +6774,7 @@
    "phones": [ "418 261 3284" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-14",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -7071,7 +6786,8 @@
   "isPrimary": 0,
   "location": {
    "latitude": 46.813111,
-   "longitude": -71.275407
+   "longitude": -71.275407,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "(Moved) Hispana-Portugais - Hispana, Québec, QC",
@@ -7083,7 +6799,7 @@
    "phones": [ "581-700-2909" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-06-14",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -7092,7 +6808,7 @@
  {
   "geoId": "CBC13CFA-7171-46B8-AA1B-28A542B16207",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 46.857908,
    "longitude": -71.262049
@@ -7103,19 +6819,19 @@
    "address": "7070 boulevard Henri-Bourassa\nQuébec QC  G1H 3E1",
    "languageCode": "S",
    "schedule": "Sat 10:30 Wed 19:00",
-   "relatedLanguageCodes": [ "T" ],
+   "relatedLanguageCodes": [ "PTG" ],
    "phones": [ "581-700-2909" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "00099AA0-B4C6-4BCC-A7B4-5260594CAC43",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 46.857908,
    "longitude": -71.262049
@@ -7124,14 +6840,14 @@
    "orgName": "Hispana-Portugais - Hispana, Québec, QC",
    "orgType": "GROUP",
    "address": "7070 boulevard Henri-Bourassa\nQuébec QC  G1H 3E1",
-   "languageCode": "T",
+   "languageCode": "PTG",
    "schedule": "Sat 10:30 Wed 19:00",
    "relatedLanguageCodes": [ "S" ],
    "phones": [ "581-700-2909" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7152,8 +6868,8 @@
    "phones": [ "581-700-0080" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7174,15 +6890,15 @@
    "phones": [ "581-700-0080" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "07907084-40EA-41EA-A6D4-85D56BD7E27B",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.857908,
    "longitude": -71.262049
@@ -7196,8 +6912,8 @@
    "phones": [ "581-700-0080" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7218,8 +6934,8 @@
    "phones": [ "581-500-1215" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7240,8 +6956,8 @@
    "phones": [ "581-500-1215" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7251,8 +6967,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.612548,
-   "longitude": -68.931183,
-   "iso": "USA"
+   "longitude": -68.931183
   },
   "properties": {
    "orgName": "Searsport - ME (USA)",
@@ -7263,8 +6978,8 @@
    "phones": [ "207-223-4208" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7285,8 +7000,8 @@
    "phones": [ "207-368-7070" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7307,8 +7022,8 @@
    "phones": [ "(581) 814-7386" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7329,8 +7044,8 @@
    "phones": [ "(581) 814-7386" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7340,8 +7055,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.605639,
-   "longitude": -68.817441,
-   "iso": "USA"
+   "longitude": -68.817441
   },
   "properties": {
    "orgName": "Bucksport - ME (USA)",
@@ -7352,8 +7066,8 @@
    "phones": [ "207-469-2020" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7374,8 +7088,8 @@
    "phones": [ "581-820-3393" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7396,8 +7110,8 @@
    "phones": [ "1-866-357-6555" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7419,15 +7133,15 @@
    "phones": [ "2079424104" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D6767558-832E-46A0-A4E5-59A5F1986FD8",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 44.856999,
    "longitude": -68.820857
@@ -7442,8 +7156,8 @@
    "phones": [ "2079424104" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7453,8 +7167,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.418882,
-   "longitude": -68.356987,
-   "iso": "USA"
+   "longitude": -68.356987
   },
   "properties": {
    "orgName": "Bar Harbor - ME (USA)",
@@ -7465,8 +7178,8 @@
    "phones": [ "207 479 4673" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7476,7 +7189,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.619989,
-   "longitude": -70.544492
+   "longitude": -70.544492,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "(Moved) Saint-Damien, Saint-Damien-de-Buckland, QC",
@@ -7487,7 +7201,7 @@
    "phones": [ "1-866-357-6555" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -7499,8 +7213,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.545112,
-   "longitude": -68.444783,
-   "iso": "USA"
+   "longitude": -68.444783
   },
   "properties": {
    "orgName": "Ellsworth - ME (USA)",
@@ -7511,8 +7224,8 @@
    "phones": [ "207-813-8080" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7533,8 +7246,8 @@
    "phones": [ "207 943-2677" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7555,8 +7268,8 @@
    "phones": [ "(207) 827-8376" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7577,8 +7290,8 @@
    "phones": [ "(581) 632-0941" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7588,8 +7301,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.509242,
-   "longitude": -67.988435,
-   "iso": "USA"
+   "longitude": -67.988435
   },
   "properties": {
    "orgName": "Steuben - ME (USA)",
@@ -7600,8 +7312,8 @@
    "phones": [ "207-546-7911" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -7622,8 +7334,8 @@
    "phones": [ "207 794 3009" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7633,7 +7345,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.353457,
-   "longitude": -68.534323
+   "longitude": -68.534323,
+   "iso": "USA"
   },
   "properties": {
    "orgName": "(Moved) Lincoln - ME (USA)",
@@ -7648,7 +7361,7 @@
   "active": 0,
   "firstSeen": "2022-12-02",
   "moved": "343 W Broadway\nLincoln ME  04457",
-  "lastVisit": "2023-09-30"
+  "lastVisit": "2023-12-27"
  },
  {
   "geoId": "55605FC7-BA56-4996-81EF-9EC9D9CCF383",
@@ -7667,8 +7380,8 @@
    "phones": [ "418 598-0344" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7678,8 +7391,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.712352,
-   "longitude": -67.403453,
-   "iso": "USA"
+   "longitude": -67.403453
   },
   "properties": {
    "orgName": "Machias - ME (USA)",
@@ -7690,8 +7402,8 @@
    "phones": [ "207-259-6302" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -7701,8 +7413,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.684158,
-   "longitude": -70.263777,
-   "iso": "CAN"
+   "longitude": -70.263777
   },
   "properties": {
    "orgName": "La Malbaie, QC",
@@ -7713,8 +7424,8 @@
    "phones": [ "367 800 0022" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7724,8 +7435,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.868693,
-   "longitude": -66.12952,
-   "iso": "CAN"
+   "longitude": -66.12952
   },
   "properties": {
    "orgName": "Yarmouth, NS",
@@ -7736,8 +7446,8 @@
    "phones": [ "902-748-0235" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7747,8 +7457,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.178571,
-   "longitude": -67.280699,
-   "iso": "USA"
+   "longitude": -67.280699
   },
   "properties": {
    "orgName": "Calais - ME (USA)",
@@ -7756,11 +7465,11 @@
    "address": "8 Odey Ln\nCalais ME  04619",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
-   "phones": [ "(207)454-4180" ],
+   "phones": [ "207-454-4180" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -7770,8 +7479,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.226214,
-   "longitude": -67.279558,
-   "iso": "USA"
+   "longitude": -67.279558
   },
   "properties": {
    "orgName": "St Stephen, NB",
@@ -7782,8 +7490,8 @@
    "phones": [ "(506) 249-1918" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -7793,8 +7501,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.127139,
-   "longitude": -67.895894,
-   "iso": "USA"
+   "longitude": -67.895894
   },
   "properties": {
    "orgName": "Houlton - ME (USA)",
@@ -7802,11 +7509,11 @@
    "address": "576 Smyrna St\nHoulton ME  04730",
    "languageCode": "E",
    "schedule": "Sun 09:30 Thu 19:00",
-   "phones": [ "(207) 532-7343" ],
+   "phones": [ "207-532-7343" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -7816,8 +7523,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.861625,
-   "longitude": -69.549008,
-   "iso": "CAN"
+   "longitude": -69.549008
   },
   "properties": {
    "orgName": "Rivière-du-Loup, QC",
@@ -7828,8 +7534,8 @@
    "phones": [ "(581) 801-5629" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7839,8 +7545,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.401572,
-   "longitude": -65.997469,
-   "iso": "CAN"
+   "longitude": -65.997469
   },
   "properties": {
    "orgName": "Weymouth, NS",
@@ -7851,8 +7556,8 @@
    "phones": [ "782-346-1001" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7862,8 +7567,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.163499,
-   "longitude": -67.594981,
-   "iso": "CAN"
+   "longitude": -67.594981
   },
   "properties": {
    "orgName": "Woodstock, NB",
@@ -7871,11 +7575,11 @@
    "address": "101 Townview Drive\nWoodstock NB  E7M 5E3",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:30",
-   "phones": [ "506-425-2919" ],
+   "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -7885,8 +7589,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.638612,
-   "longitude": -67.996534,
-   "iso": "USA"
+   "longitude": -67.996534
   },
   "properties": {
    "orgName": "Presque Isle - ME (USA)",
@@ -7897,8 +7600,8 @@
    "phones": [ "207-760-7095" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -7908,8 +7611,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.206377,
-   "longitude": -68.54795,
-   "iso": "USA"
+   "longitude": -68.54795
   },
   "properties": {
    "orgName": "Fort Kent - ME (USA)",
@@ -7920,19 +7622,18 @@
    "phones": [ "(207) 834-6486" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "30606DAF-AF7F-4646-9DDC-698F87140B1A",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 47.681325,
-   "longitude": -68.907366,
-   "iso": "CAN"
+   "longitude": -68.907366
   },
   "properties": {
    "orgName": "Cabano, QC",
@@ -7943,8 +7644,8 @@
    "phones": [ "(418) -854-0833" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -7954,8 +7655,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.594975,
-   "longitude": -65.767659,
-   "iso": "CAN"
+   "longitude": -65.767659
   },
   "properties": {
    "orgName": "Digby, NS",
@@ -7966,19 +7666,18 @@
    "phones": [ "782-828-5578" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "84330AAD-EAC7-435E-9545-4BE2BCD8C0C7",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.882267,
-   "longitude": -68.040663,
-   "iso": "USA"
+   "longitude": -68.040663
   },
   "properties": {
    "orgName": "Caribou - ME (USA)",
@@ -7989,8 +7688,8 @@
    "phones": [ "207-493-7791" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8000,8 +7699,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.1215,
-   "longitude": -67.185047,
-   "iso": "CAN"
+   "longitude": -67.185047
   },
   "properties": {
    "orgName": "Millville, NB",
@@ -8012,19 +7710,18 @@
    "phones": [ "506-267-0537" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "203BB431-606B-4F99-B916-FCA3A8137D41",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.756115,
-   "longitude": -67.764318,
-   "iso": "CAN"
+   "longitude": -67.764318
   },
   "properties": {
    "orgName": "Perth-Andover, NB",
@@ -8035,8 +7732,8 @@
    "phones": [ "519-378-3704" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -8046,8 +7743,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.390985,
-   "longitude": -68.349549,
-   "iso": "CAN"
+   "longitude": -68.349549
   },
   "properties": {
    "orgName": "Edmundston, NB",
@@ -8058,8 +7754,8 @@
    "phones": [ "(506) 501-1893" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8069,8 +7765,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.348814,
-   "longitude": -66.244427,
-   "iso": "CAN"
+   "longitude": -66.244427
   },
   "properties": {
    "orgName": "Westfield, NB",
@@ -8081,15 +7776,15 @@
    "phones": [ "506-757-8653" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "FBBCDDFB-EB45-4E97-9CC6-4A403EA84F1C",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 45.278332,
    "longitude": -66.071227
@@ -8103,8 +7798,8 @@
    "phones": [ "506-652-3670" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8127,7 +7822,7 @@
    "phones": [ "506-652-3670" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-08-16",
   "active": 0,
   "firstSeen": "2022-12-02"
@@ -8138,8 +7833,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.764188,
-   "longitude": -65.496594,
-   "iso": "CAN"
+   "longitude": -65.496594
   },
   "properties": {
    "orgName": "Annapolis, Annapolis Royal, NS",
@@ -8150,8 +7844,8 @@
    "phones": [ "1-782-349-1064" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8161,8 +7855,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.041218,
-   "longitude": -67.765163,
-   "iso": "CAN"
+   "longitude": -67.765163
   },
   "properties": {
    "orgName": "Grand Falls, NB",
@@ -8173,8 +7866,8 @@
    "phones": [ "506-473-7137" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -8184,8 +7877,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.020913,
-   "longitude": -64.736575,
-   "iso": "CAN"
+   "longitude": -64.736575
   },
   "properties": {
    "orgName": "Liverpool, NS",
@@ -8196,8 +7888,8 @@
    "phones": [ "782-339-1019" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -8207,8 +7899,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.840225,
-   "longitude": -66.50542,
-   "iso": "CAN"
+   "longitude": -66.50542
   },
   "properties": {
    "orgName": "Oromocto, NB",
@@ -8219,15 +7910,15 @@
    "phones": [ "506-206-7446" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "5F87E75A-850F-47D3-956C-46E4FA6EB501",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 45.313534,
    "longitude": -65.965686
@@ -8241,8 +7932,8 @@
    "phones": [ "506-696-6680" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8252,8 +7943,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.998119,
-   "longitude": -66.631713,
-   "iso": "CAN"
+   "longitude": -66.631713
   },
   "properties": {
    "orgName": "Nashwaak, Fredericton, NB",
@@ -8264,8 +7954,8 @@
    "phones": [ "506-471-9817" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8275,8 +7965,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.998119,
-   "longitude": -66.631713,
-   "iso": "CAN"
+   "longitude": -66.631713
   },
   "properties": {
    "orgName": "O'Dell Park, Fredericton, NB",
@@ -8284,11 +7973,11 @@
    "address": "1045 Saint Marys Street\nFredericton NB  E3G 8S7",
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
-   "phones": [ "506-459-4144" ],
+   "phones": [ "506-405-0756" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8298,8 +7987,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.437486,
-   "longitude": -65.915227,
-   "iso": "CAN"
+   "longitude": -65.915227
   },
   "properties": {
    "orgName": "Rothesay, NB",
@@ -8310,8 +7998,8 @@
    "phones": [ "506-566-4485" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8321,8 +8009,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.535051,
-   "longitude": -64.701404,
-   "iso": "CAN"
+   "longitude": -64.701404
   },
   "properties": {
    "orgName": "New Germany, NS",
@@ -8333,8 +8020,8 @@
    "phones": [ "902-529-0026" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -8344,8 +8031,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.982372,
-   "longitude": -64.960781,
-   "iso": "CAN"
+   "longitude": -64.960781
   },
   "properties": {
    "orgName": "East, Kingston, NS",
@@ -8356,8 +8042,8 @@
    "phones": [ "(782) 352-1196" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -8367,8 +8053,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.092615,
-   "longitude": -66.050784,
-   "iso": "CAN"
+   "longitude": -66.050784
   },
   "properties": {
    "orgName": "Minto, NB",
@@ -8379,8 +8064,8 @@
    "phones": [ "(506) 267 0538" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8390,8 +8075,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.711158,
-   "longitude": -65.482045,
-   "iso": "CAN"
+   "longitude": -65.482045
   },
   "properties": {
    "orgName": "Sussex, NB",
@@ -8402,8 +8086,8 @@
    "phones": [ "506-433-0315" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8413,8 +8097,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.616387,
-   "longitude": -64.113801,
-   "iso": "CAN"
+   "longitude": -64.113801
   },
   "properties": {
    "orgName": "Hubbards, NS",
@@ -8425,8 +8108,8 @@
    "phones": [ "902-802-3807" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -8436,8 +8119,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.071156,
-   "longitude": -64.548162,
-   "iso": "CAN"
+   "longitude": -64.548162
   },
   "properties": {
    "orgName": "Centreville, NS",
@@ -8448,8 +8130,8 @@
    "phones": [ "(782) 322-1244" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -8459,8 +8141,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.071156,
-   "longitude": -64.548162,
-   "iso": "CAN"
+   "longitude": -64.548162
   },
   "properties": {
    "orgName": "Kentville, NS",
@@ -8471,31 +8152,8 @@
    "phones": [ "(782) 322-1244" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
-  "active": 1,
-  "firstSeen": "2022-12-03"
- },
- {
-  "geoId": "05D71806-8A5B-4FD8-B2EB-CE73868973C5",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 44.983777,
-   "longitude": -64.04484,
-   "iso": "CAN"
-  },
-  "properties": {
-   "orgName": "Windsor, NS",
-   "orgType": "CONG",
-   "address": "7027 Highway 14\nSweets Corner NS  B0N 2T0",
-   "languageCode": "E",
-   "schedule": "Sun 10:00 Tue 19:30",
-   "phones": [ "519-997-1518" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -8505,8 +8163,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.030087,
-   "longitude": -65.039962,
-   "iso": "CAN"
+   "longitude": -65.039962
   },
   "properties": {
    "orgName": "Salisbury, NB",
@@ -8517,8 +8174,8 @@
    "phones": [ "(506) 412-0236" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8528,8 +8185,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.093334,
-   "longitude": -64.799638,
-   "iso": "CAN"
+   "longitude": -64.799638
   },
   "properties": {
    "orgName": "Parkton, Moncton, NB",
@@ -8540,8 +8196,8 @@
    "phones": [ "506-855-2091" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8551,8 +8207,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.093334,
-   "longitude": -64.799638,
-   "iso": "CAN"
+   "longitude": -64.799638
   },
   "properties": {
    "orgName": "Riverview, Moncton, NB",
@@ -8563,19 +8218,18 @@
    "phones": [ "506-855-2091" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "35043A13-50FD-47AF-83B9-F5BB16DEBB50",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.093334,
-   "longitude": -64.799638,
-   "iso": "CAN"
+   "longitude": -64.799638
   },
   "properties": {
    "orgName": "Central Tagalog, Moncton, NB",
@@ -8586,8 +8240,8 @@
    "phones": [ "506-855-2091" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8597,8 +8251,7 @@
   "isPrimary": 0,
   "location": {
    "latitude": 46.099827,
-   "longitude": -64.726363,
-   "iso": "CAN"
+   "longitude": -64.726363
   },
   "properties": {
    "orgName": "Victoria Gardens, Moncton, NB",
@@ -8610,19 +8263,18 @@
    "phones": [ "(506) 777-3234" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D1769020-905A-4EE9-9643-02B641084A75",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 46.099827,
-   "longitude": -64.726363,
-   "iso": "CAN"
+   "longitude": -64.726363
   },
   "properties": {
    "orgName": "Dieppe, Moncton, NB",
@@ -8633,8 +8285,8 @@
    "phones": [ "(506) 777-3234" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8657,9 +8309,9 @@
    "phones": [ "(506) 777-3234" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-09-28",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2023-02-20"
  },
  {
@@ -8668,8 +8320,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.017025,
-   "longitude": -65.545185,
-   "iso": "CAN"
+   "longitude": -65.545185
   },
   "properties": {
    "orgName": "Miramichi, NB",
@@ -8680,8 +8331,8 @@
    "phones": [ "(506) 502-7199" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8691,8 +8342,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.904867,
-   "longitude": -64.382839,
-   "iso": "CAN"
+   "longitude": -64.382839
   },
   "properties": {
    "orgName": "Sackville, NB",
@@ -8703,8 +8353,8 @@
    "phones": [ "(506) 710-7345" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8714,8 +8364,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.826832,
-   "longitude": -64.183421,
-   "iso": "CAN"
+   "longitude": -64.183421
   },
   "properties": {
    "orgName": "Amherst, NS",
@@ -8726,8 +8375,8 @@
    "phones": [ "902-661-1706" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -8737,8 +8386,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.225809,
-   "longitude": -64.483303,
-   "iso": "CAN"
+   "longitude": -64.483303
   },
   "properties": {
    "orgName": "Shediac, NB",
@@ -8749,8 +8397,8 @@
    "phones": [ "(506) 712-0220" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8760,8 +8408,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.225809,
-   "longitude": -64.483303,
-   "iso": "CAN"
+   "longitude": -64.483303
   },
   "properties": {
    "orgName": "Beauséjour, Shediac, NB",
@@ -8772,8 +8419,8 @@
    "phones": [ "(506) 712-0220" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -8783,8 +8430,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.637056,
-   "longitude": -64.870625,
-   "iso": "CAN"
+   "longitude": -64.870625
   },
   "properties": {
    "orgName": "Rexton, NB",
@@ -8795,19 +8441,18 @@
    "phones": [ "506-212-0024" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "932C12DF-9697-4282-BC3D-61A42517FE05",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 46.637056,
-   "longitude": -64.870625,
-   "iso": "CAN"
+   "longitude": -64.870625
   },
   "properties": {
    "orgName": "Richibucto, NB",
@@ -8818,8 +8463,8 @@
    "phones": [ "(506) 404-9463" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -8829,8 +8474,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.628067,
-   "longitude": -65.667768,
-   "iso": "CAN"
+   "longitude": -65.667768
   },
   "properties": {
    "orgName": "Tetagouche, Bathurst, NB",
@@ -8838,22 +8482,21 @@
    "address": "460 St Anne Street\nBathurst NB  E2A 2N4",
    "languageCode": "E",
    "schedule": "Sun 13:00 Thu 19:00",
-   "phones": [],
+   "phones": [ "506-852-1846" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "C215DF3A-DEF5-402E-AB60-A5468B567478",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 47.628067,
-   "longitude": -65.667768,
-   "iso": "CAN"
+   "longitude": -65.667768
   },
   "properties": {
    "orgName": "Vanier, Bathurst, NB",
@@ -8864,8 +8507,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -8875,8 +8518,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.811584,
-   "longitude": -64.071419,
-   "iso": "CAN"
+   "longitude": -64.071419
   },
   "properties": {
    "orgName": "Alberton, PE",
@@ -8887,8 +8529,8 @@
    "phones": [ "(902) 905-0136" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -8898,8 +8540,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.70882,
-   "longitude": -64.888103,
-   "iso": "CAN"
+   "longitude": -64.888103
   },
   "properties": {
    "orgName": "Tracadie, NB",
@@ -8910,8 +8551,8 @@
    "phones": [ "(506) 702-0805" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  }

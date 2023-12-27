@@ -2,7 +2,7 @@
  {
   "geoId": "CB5037F0-CAB3-44E4-9BAF-157CB1794DEB",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -7.829127,
    "longitude": 112.015854
@@ -19,8 +19,8 @@
    ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -44,8 +44,8 @@
    ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -66,8 +66,8 @@
    "phones": [ "081367295346" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -88,8 +88,8 @@
    "phones": [ "081334998854/Sdr. Iid Wibowo" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -110,8 +110,8 @@
    "phones": [ "085608895665" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -132,8 +132,8 @@
    "phones": [ "085369693322" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -154,19 +154,18 @@
    "phones": [ "085746919786" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "8521251F-AAE9-4B13-9115-9C85710943F8",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -7.952626,
-   "longitude": 112.636192,
-   "iso": "IDN"
+   "longitude": 112.636192
   },
   "properties": {
    "orgName": "Malang Bahasa Isyarat",
@@ -177,8 +176,8 @@
    "phones": [ "+628122319092" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -199,8 +198,8 @@
    "phones": [ "081330497536" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -210,7 +209,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": -7.566906,
-   "longitude": 112.363874
+   "longitude": 112.363874,
+   "iso": "IDN"
   },
   "properties": {
    "orgName": "(Moved) Jombang",
@@ -221,7 +221,7 @@
    "phones": [ "081330497536" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -244,8 +244,8 @@
    "phones": [ "0813 5905 8933" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -254,20 +254,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": -7.448273,
-   "longitude": 112.458082
+   "latitude": -7.469588,
+   "longitude": 112.43516
   },
   "properties": {
    "orgName": "Mojokerto",
    "orgType": "CONG",
-   "address": "Jl. Jatikulon I No. 37 Lengkong\nKecamatan Mojoanyar\nMOJOKERTO—61364  JAWA TIMUR",
+   "address": "Jl. Panglima Besar Sudirman No. 51\nMOJOKERTO—61313  JAWA TIMUR",
    "languageCode": "IN",
-   "schedule": "Sun 08:00 Thu 18:00",
+   "schedule": "Sun 17:00 Thu 18:00",
    "phones": [ "082244724499" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -276,20 +276,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": -7.448273,
-   "longitude": 112.458082
+   "latitude": -7.469588,
+   "longitude": 112.43516
   },
   "properties": {
    "orgName": "Mojokerto Mojosari - Mojokerto",
    "orgType": "GROUP",
-   "address": "Jl. Jatikulon I No. 37 Lengkong\nKecamatan Mojoanyar\nMOJOKERTO—61364  JAWA TIMUR",
+   "address": "Jl. Panglima Besar Sudirman No. 51\nMOJOKERTO—61313  JAWA TIMUR",
    "languageCode": "IN",
    "schedule": "Sun 08:00 Thu 18:00",
    "phones": [ "082244724499" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -310,8 +310,8 @@
    "phones": [ "085773692722" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -321,8 +321,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -6.896428,
-   "longitude": 112.047905,
-   "iso": "IDN"
+   "longitude": 112.047905
   },
   "properties": {
    "orgName": "Tuban",
@@ -333,8 +332,8 @@
    "phones": [ "081357357573" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -355,8 +354,8 @@
    "phones": [ "082192874914" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -377,8 +376,8 @@
    "phones": [ "081231401304" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -399,8 +398,8 @@
    "phones": [ "081226232442" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -424,8 +423,8 @@
    ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-05-29"
  },
@@ -440,14 +439,14 @@
   "properties": {
    "orgName": "Surabaya Wonocolo",
    "orgType": "CONG",
-   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\nJl. Raya Jemursari No. 20\nKelurahan Jemur Wonosari Kecamatan Wonocolo\nSURABAYA—60237  JAWA TIMUR",
+   "address": "Jl. Raya Jemursari No. 20,\nKel. Jemur Wonosari, Kec. Wonocolo,\nKota Surabaya\nSURABAYA—60237  JAWA TIMUR",
    "languageCode": "IN",
    "schedule": "Sun 08:00 Fri 18:30",
    "phones": [ "085336875941" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -462,21 +461,21 @@
   "properties": {
    "orgName": "Surabaya Tenggilis",
    "orgType": "CONG",
-   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\nJl. Raya Jemursari No. 20\nKelurahan Jemur Wonosari Kecamatan Wonocolo\nSURABAYA—60237  JAWA TIMUR",
+   "address": "Jl. Raya Jemursari No. 20,\nKel. Jemur Wonosari, Kec. Wonocolo,\nKota Surabaya\nSURABAYA—60237  JAWA TIMUR",
    "languageCode": "IN",
    "schedule": "Sun 11:00 Wed 18:30",
    "phones": [ "087810883077" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "2A279CB3-5FC3-4BC5-A573-F5AEAFCE4061",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -7.326166,
    "longitude": 112.737333
@@ -484,14 +483,14 @@
   "properties": {
    "orgName": "Surabaya Bahasa Isyarat",
    "orgType": "CONG",
-   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\nJl. Raya Jemursari No. 20\nKelurahan Jemur Wonosari Kecamatan Wonocolo\nSURABAYA—60237  JAWA TIMUR",
+   "address": "Jl. Raya Jemursari No. 20,\nKel. Jemur Wonosari, Kec. Wonocolo,\nKota Surabaya\nSURABAYA—60237  JAWA TIMUR",
    "languageCode": "INI",
    "schedule": "Sun 15:00 Thu 18:15",
    "phones": [ "081919058001" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -506,14 +505,36 @@
   "properties": {
    "orgName": "Surabaya Rungkut",
    "orgType": "CONG",
-   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\nJl. Raya Jemursari No. 20\nKelurahan Jemur Wonosari Kecamatan Wonocolo\nSURABAYA—60237  JAWA TIMUR",
+   "address": "Jl. Raya Jemursari No. 20,\nKel. Jemur Wonosari, Kec. Wonocolo,\nKota Surabaya\nSURABAYA—60237  JAWA TIMUR",
    "languageCode": "IN",
    "schedule": "Sat 17:30 Mon 18:30",
    "phones": [ "+62818521412" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "7350B458-61DE-492F-BE90-D271B3300166",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -7.326166,
+   "longitude": 112.737333
+  },
+  "properties": {
+   "orgName": "Surabaya Sukolilo",
+   "orgType": "CONG",
+   "address": "Jl. Raya Jemursari No. 20,\nKel. Jemur Wonosari, Kec. Wonocolo,\nKota Surabaya\nSURABAYA—60237  JAWA TIMUR",
+   "languageCode": "IN",
+   "schedule": "Sun 18:00 Tue 19:00",
+   "phones": [ "08123266019" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -523,7 +544,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": -7.168783,
-   "longitude": 112.588869
+   "longitude": 112.588869,
+   "iso": "IDN"
   },
   "properties": {
    "orgName": "Gresik",
@@ -534,10 +556,32 @@
    "phones": [ "0813-3139-4416" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-09-30",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "EB93D5B7-E710-4119-AD1E-70B00718C440",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -7.168783,
+   "longitude": 112.588869
+  },
+  "properties": {
+   "orgName": "Gresik - Surabaya Tandes",
+   "orgType": "GROUP",
+   "address": "Jl. Dr. Wahidin Sudirohusodo No. 782\nKompleks Bunder Square Blok B1-2\nGresik - Jawa Timur\nGRESIK—61124  JAWA TIMUR",
+   "languageCode": "IN",
+   "schedule": "Sat 18:30 undefined null",
+   "phones": [ "085102285848" ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
+  "active": 1,
+  "firstSeen": "2023-12-27"
  },
  {
   "geoId": "7386FBF5-C9AB-4A41-BB64-ABB9BCA58637",
@@ -556,8 +600,8 @@
    "phones": [ "081330267117" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -578,8 +622,8 @@
    "phones": [ "085733363039" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -600,8 +644,8 @@
    "phones": [ "0811148229" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -622,8 +666,8 @@
    "phones": [ "085102285848" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -633,7 +677,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": -7.290984,
-   "longitude": 112.71859
+   "longitude": 112.71859,
+   "iso": "IDN"
   },
   "properties": {
    "orgName": "(Moved) Surabaya Darmo Satelit",
@@ -648,7 +693,7 @@
   "active": 0,
   "firstSeen": "2022-12-02",
   "moved": "Jl. Patimura\nRuko Plaza Segi 8 Blok C801-802\nSURABAYA—60189  JAWA TIMUR",
-  "lastVisit": "2023-09-30"
+  "lastVisit": "2023-12-27"
  },
  {
   "geoId": "2FABC351-4700-44DD-85C3-5F0DE1815256(Moved)",
@@ -656,7 +701,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": -7.290984,
-   "longitude": 112.71859
+   "longitude": 112.71859,
+   "iso": "IDN"
   },
   "properties": {
    "orgName": "(Moved) Surabaya Wiyung",
@@ -671,7 +717,7 @@
   "active": 0,
   "firstSeen": "2022-12-02",
   "moved": "Jl. Patimura\nRuko Plaza Segi 8 Blok C801-802\nSURABAYA—60189  JAWA TIMUR",
-  "lastVisit": "2023-09-30"
+  "lastVisit": "2023-12-27"
  },
  {
   "geoId": "6F419DC1-476E-44B8-AE9C-698A4823CEA5(Moved)",
@@ -679,7 +725,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": -7.290984,
-   "longitude": 112.71859
+   "longitude": 112.71859,
+   "iso": "IDN"
   },
   "properties": {
    "orgName": "(Moved) Surabaya Dukuh Kupang",
@@ -694,7 +741,7 @@
   "active": 0,
   "firstSeen": "2022-12-02",
   "moved": "Jl. Patimura\nRuko Plaza Segi 8 Blok C801-802\nSURABAYA—60189  JAWA TIMUR",
-  "lastVisit": "2023-09-30"
+  "lastVisit": "2023-12-27"
  },
  {
   "geoId": "F4811A35-9613-4AAF-814E-7CCA50E3E8E1(Moved)",
@@ -702,7 +749,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": -7.290984,
-   "longitude": 112.71859
+   "longitude": 112.71859,
+   "iso": "IDN"
   },
   "properties": {
    "orgName": "(Moved) Surabaya Tandes",
@@ -717,7 +765,7 @@
   "active": 0,
   "firstSeen": "2022-12-02",
   "moved": "Jl. Patimura\nRuko Plaza Segi 8 Blok C801-802\nSURABAYA—60189  JAWA TIMUR",
-  "lastVisit": "2023-09-30"
+  "lastVisit": "2023-12-27"
  },
  {
   "geoId": "D01302BE-D938-4BDD-B218-E271A9FBB55D",
@@ -736,8 +784,8 @@
    "phones": [ "085230730321" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -758,15 +806,15 @@
    "phones": [ "085102248068" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E41123C4-84CD-4CBD-9010-1FA405E8FED5",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -7.255114,
    "longitude": 112.741109
@@ -776,12 +824,12 @@
    "orgType": "CONG",
    "address": "Ruko Grand Ahmad Jais Blok B 5-6,\nJl. Ahmad Jais No. 34, RT 009,\nKel. Peneleh, Kec. Genteng, Kota Surabaya\nSURABAYA—60274  JAWA TIMUR",
    "languageCode": "JA",
-   "schedule": "Sun 16:00 Wed 18:30",
+   "schedule": "Sun 15:30 Wed 18:30",
    "phones": [ "085244881919" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -802,30 +850,8 @@
    "phones": [ "08563300275" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "7350B458-61DE-492F-BE90-D271B3300166",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -7.25122,
-   "longitude": 112.7831
-  },
-  "properties": {
-   "orgName": "Surabaya Sukolilo",
-   "orgType": "CONG",
-   "address": "Jl. Kalijudan Madya II No. 9,\nKel. Kalijudan, Kec. Mulyorejo, Kota Surabaya\nSURABAYA—60133  JAWA TIMUR",
-   "languageCode": "IN",
-   "schedule": "Sat 18:00 Tue 18:30",
-   "phones": [ "08123266019" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -834,20 +860,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": -7.25122,
-   "longitude": 112.7831
+   "latitude": -7.255114,
+   "longitude": 112.741109
   },
   "properties": {
    "orgName": "Surabaya Kenjeran",
    "orgType": "CONG",
-   "address": "Jl. Kalijudan Madya II No. 9,\nKel. Kalijudan, Kec. Mulyorejo, Kota Surabaya\nSURABAYA—60133  JAWA TIMUR",
+   "address": "Ruko Grand Ahmad Jais Blok B 5-6,\nJl. Ahmad Jais No. 34, RT 009,\nKel. Peneleh, Kec. Genteng, Kota Surabaya\nSURABAYA—60274  JAWA TIMUR",
    "languageCode": "IN",
-   "schedule": "Sun 08:00 Wed 18:30",
+   "schedule": "Sun 12:00 Mon 18:30",
    "phones": [ "085231299990" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -856,13 +882,13 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": -7.25122,
-   "longitude": 112.7831
+   "latitude": -7.255114,
+   "longitude": 112.741109
   },
   "properties": {
    "orgName": "Surabaya Tambaksari",
    "orgType": "CONG",
-   "address": "Jl. Kalijudan Madya II No. 9,\nKel. Kalijudan, Kec. Mulyorejo, Kota Surabaya\nSURABAYA—60133  JAWA TIMUR",
+   "address": "Ruko Grand Ahmad Jais Blok B 5-6,\nJl. Ahmad Jais No. 34, RT 009,\nKel. Peneleh, Kec. Genteng, Kota Surabaya\nSURABAYA—60274  JAWA TIMUR",
    "languageCode": "IN",
    "schedule": "Sun 17:00 Thu 18:30",
    "phones": [
@@ -872,8 +898,8 @@
    ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-05-29"
  },
@@ -883,23 +909,22 @@
   "isPrimary": 1,
   "location": {
    "latitude": -1.99126,
-   "longitude": 112.00057,
-   "iso": "IDN"
+   "longitude": 112.00057
   },
   "properties": {
    "orgName": "Sambi",
    "orgType": "CONG",
    "address": "Jl. Desa Sambi, RT 02, Desa Sambi,\nKec. Arut Utara, Kab. Kotawaringin Barat\n74152",
    "languageCode": "IN",
-   "schedule": "Sun 18:30 Thu 18:30",
+   "schedule": "Sun 09:00 Thu 18:00",
    "phones": [
     "+62&nbsp;+622240187078",
     "+62&nbsp;0822-4018-7078"
    ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -909,23 +934,22 @@
   "isPrimary": 1,
   "location": {
    "latitude": -1.99126,
-   "longitude": 112.00057,
-   "iso": "IDN"
+   "longitude": 112.00057
   },
   "properties": {
    "orgName": "Rantau Pulut - Sambi",
    "orgType": "GROUP",
    "address": "Jl. Desa Sambi, RT 02, Desa Sambi,\nKec. Arut Utara, Kab. Kotawaringin Barat\n74152",
    "languageCode": "IN",
-   "schedule": "Sun 09:00 Sat 16:00",
+   "schedule": "Sun 09:00 Thu 15:30",
    "phones": [
     "+62&nbsp;+622240187078",
     "+62&nbsp;0822-4018-7078"
    ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -935,8 +959,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -2.5394,
-   "longitude": 112.94916,
-   "iso": "IDN"
+   "longitude": 112.94916
   },
   "properties": {
    "orgName": "Sampit",
@@ -944,13 +967,35 @@
    "address": "Jl. H. M. Arsyad No. 3, RT 19,\nKel. Mentawa Baru Hulu, Kec. Mentawa\nBaru Ketapang, Kab. Kotawaringin Timur\nSAMPIT—74322  KALIMANTAN TENGAH",
    "languageCode": "IN",
    "schedule": "Sun 09:00 Thu 18:00",
-   "phones": [ "+62&nbsp;082165124896" ],
+   "phones": [ "082165124896" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
+ },
+ {
+  "geoId": "980AF798-CA0D-4E12-BF1A-B1E7FC0B3F07",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -3.573056,
+   "longitude": 114.745278
+  },
+  "properties": {
+   "orgName": "Pelaihari - Banjarbaru Selatan",
+   "orgType": "GROUP",
+   "address": "Jl. Kebun Sayur RT. 004 No. 001\nKecamatan Bati Bati, Tanah Laut\nProvinsi Kalimantan Selatan\nBANJARBARU—70852  KALIMANTAN SELATAN",
+   "languageCode": "IN",
+   "schedule": "Sun 09:00 Thu 16:00",
+   "phones": [ "081349643978" ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
+  "active": 1,
+  "firstSeen": "2023-12-27"
  },
  {
   "geoId": "715B255A-E83F-4764-8D51-EB95E17D57AD",
@@ -969,8 +1014,8 @@
    "phones": [ "081253995590 / 085348262000" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -991,8 +1036,8 @@
    "phones": [ "081349643978" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1013,8 +1058,8 @@
    "phones": [ "081349119410" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1024,7 +1069,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": -3.436912,
-   "longitude": 114.828695
+   "longitude": 114.828695,
+   "iso": "IDN"
   },
   "properties": {
    "orgName": "(Moved) Banjarbaru Selatan",
@@ -1039,7 +1085,7 @@
   "active": 0,
   "firstSeen": "2022-12-04",
   "moved": "Jl. Gotong Royong No. 21\nKelurahan Loktabat Selatan\nKecamatan Banjarbaru Selatan\nBANJARBARU—70712  KALIMANTAN SELATAN",
-  "lastVisit": "2023-09-30"
+  "lastVisit": "2023-12-27"
  },
  {
   "geoId": "FF438BA1-34CC-4FC0-8AE9-D3B392235737",
@@ -1058,8 +1104,8 @@
    "phones": [ "0813-4854-2099 / Jupri Supriyanto" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1069,8 +1115,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -2.754101,
-   "longitude": 114.273156,
-   "iso": "IDN"
+   "longitude": 114.273156
   },
   "properties": {
    "orgName": "Pulang Pisau",
@@ -1081,8 +1126,8 @@
    "phones": [ "082195677655" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1092,8 +1137,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -2.235438,
-   "longitude": 113.919772,
-   "iso": "IDN"
+   "longitude": 113.919772
   },
   "properties": {
    "orgName": "Palangka Raya Selatan",
@@ -1104,8 +1148,8 @@
    "phones": [ "08125096146" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1115,8 +1159,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -2.235438,
-   "longitude": 113.919772,
-   "iso": "IDN"
+   "longitude": 113.919772
   },
   "properties": {
    "orgName": "Palangka Raya Utara",
@@ -1127,8 +1170,8 @@
    "phones": [ "085347648887" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1138,8 +1181,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -2.235438,
-   "longitude": 113.919772,
-   "iso": "IDN"
+   "longitude": 113.919772
   },
   "properties": {
    "orgName": "Masaran - Palangka Raya Selatan",
@@ -1150,8 +1192,8 @@
    "phones": [ "08125096146" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1161,8 +1203,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -0.937324,
-   "longitude": 114.884793,
-   "iso": "IDN"
+   "longitude": 114.884793
   },
   "properties": {
    "orgName": "Muara Teweh",
@@ -1173,8 +1214,8 @@
    "phones": [ "081287630914" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1184,20 +1225,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -0.61967,
-   "longitude": 114.57166,
-   "iso": "IDN"
+   "longitude": 114.57166
   },
   "properties": {
    "orgName": "Purukcahu Saripoi",
    "orgType": "CONG",
-   "address": "Balai Kerajaan Saksi-Saksi Yehuwa\nJl. Tomanggung Thuong RT. IV\nKelurahan Saripoi, Kotak Pos 12\nPURUKCAHU—73911  KALIMANTAN TENGAH",
+   "address": "Jl. Tomanggung Thuong, RT IV, Kotak Pos 12,\nKel. Saripoi, Kec. Tanah Siang, Kab. Murung Raya\n73911",
    "languageCode": "IN",
    "schedule": "Sun 08:30 Fri 14:30",
-   "phones": [ "081351970871" ],
+   "phones": [ "+62&nbsp;0852-8167-8389" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1218,8 +1258,8 @@
    "phones": [ "+62&nbsp;85255613071" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1241,33 +1281,9 @@
    "phones": [ "081240055676" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "32B49923-32E6-4750-B5C1-C034EF54ED2A",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -5.158075,
-   "longitude": 119.444941,
-   "iso": "IDN"
-  },
-  "properties": {
-   "orgName": "Makassar Utara",
-   "orgType": "CONG",
-   "address": "LOPI Hotel,\r\nJalan Bougenvile No. 26AB,\r\nMasale, Panakukkang\r\nMAKASSAR—90231  SULAWESI SELATAN",
-   "languageCode": "IN",
-   "schedule": "Sun 09:00 Thu 18:00",
-   "relatedLanguageCodes": [ "PR" ],
-   "phones": [ "082191174788" ],
-   "isPrivateMtgPlace": 1
-  },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-06-14",
-  "active": 0,
   "firstSeen": "2022-12-02"
  },
  {
@@ -1276,8 +1292,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -1.760278,
-   "longitude": 116.073889,
-   "iso": "IDN"
+   "longitude": 116.073889
   },
   "properties": {
    "orgName": "Modang",
@@ -1288,10 +1303,33 @@
    "phones": [ "085360728081" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
+ },
+ {
+  "geoId": "32B49923-32E6-4750-B5C1-C034EF54ED2A",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -5.101587,
+   "longitude": 119.508462
+  },
+  "properties": {
+   "orgName": "Makassar Utara",
+   "orgType": "CONG",
+   "address": "Arbor Biz Hotel,\nKima Square, Jl. Perintis Kemerdekaan KM 16\nDaya, Kec. Biringkanaya\nMAKASSAR—90242  SULAWESI SELATAN",
+   "languageCode": "IN",
+   "schedule": "Sun 09:00 Thu 18:00",
+   "relatedLanguageCodes": [ "PR" ],
+   "phones": [ "082191174788" ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
+  "active": 1,
+  "firstSeen": "2022-12-02"
  },
  {
   "geoId": "ED9365F8-C5DD-443F-81E3-D13DC9E769C0",
@@ -1299,8 +1337,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -4.036881,
-   "longitude": 119.628484,
-   "iso": "IDN"
+   "longitude": 119.628484
   },
   "properties": {
    "orgName": "Pare-Pare",
@@ -1308,11 +1345,11 @@
    "address": "Jl. Sudirman\n( Belakang kantor Departemen Agama Parepare )\nKelurahan Cappa Galung, Kecamatan Bacukiki Barat\nPARE-PARE—91122  SULAWESI SELATAN",
    "languageCode": "IN",
    "schedule": "Sun 09:00 Thu 17:00",
-   "phones": [ "0823-2444-4403" ],
+   "phones": [ "0823-72431774" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1322,8 +1359,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -1.243056,
-   "longitude": 116.856944,
-   "iso": "IDN"
+   "longitude": 116.856944
   },
   "properties": {
    "orgName": "Balikpapan Barat",
@@ -1334,8 +1370,8 @@
    "phones": [ "+6282288634466" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1345,8 +1381,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -1.243056,
-   "longitude": 116.856944,
-   "iso": "IDN"
+   "longitude": 116.856944
   },
   "properties": {
    "orgName": "Balikpapan Tengah",
@@ -1357,8 +1392,8 @@
    "phones": [ "081220945432" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1368,8 +1403,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -1.243056,
-   "longitude": 116.856944,
-   "iso": "IDN"
+   "longitude": 116.856944
   },
   "properties": {
    "orgName": "Balikpapan Timur",
@@ -1381,8 +1415,8 @@
    "phones": [ "08129045728" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1392,8 +1426,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -1.243056,
-   "longitude": 116.856944,
-   "iso": "IDN"
+   "longitude": 116.856944
   },
   "properties": {
    "orgName": "Balikpapan Penajam - Balikpapan Barat",
@@ -1404,19 +1437,18 @@
    "phones": [ "+6282288634466" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "55E39F79-46FB-43FE-BACC-5BF42547FA35",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -1.243056,
-   "longitude": 116.856944,
-   "iso": "IDN"
+   "longitude": 116.856944
   },
   "properties": {
    "orgName": "Balikpapan Bahasa Isyarat - Balikpapan Timur",
@@ -1428,8 +1460,8 @@
    "phones": [ "08129045728" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1439,8 +1471,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -2.945436,
-   "longitude": 119.376847,
-   "iso": "IDN"
+   "longitude": 119.376847
   },
   "properties": {
    "orgName": "Mamasa",
@@ -1451,8 +1482,8 @@
    "phones": [ "085299991914" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1462,20 +1493,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -2.945436,
-   "longitude": 119.376847,
-   "iso": "IDN"
+   "longitude": 119.376847
   },
   "properties": {
    "orgName": "Mamuju - Mamasa",
    "orgType": "GROUP",
    "address": "Balai Kerajaan Saksi-Saksi Yehuwa\nJl. Buntu Kaaisi, Kampung Banggo\nKabupaten Mamasa, Kecamatan Mamasa\nMAMASA—91362  SULAWESI BARAT",
    "languageCode": "IN",
-   "schedule": "Sun 09:30 Thu 16:00",
+   "schedule": "Sun 09:00 Thu 16:00",
    "phones": [ "085299991914" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1485,8 +1515,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -0.47526,
-   "longitude": 117.1549,
-   "iso": "IDN"
+   "longitude": 117.1549
   },
   "properties": {
    "orgName": "Samarinda Timur",
@@ -1497,8 +1526,8 @@
    "phones": [ "0811551287" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1508,8 +1537,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -0.47526,
-   "longitude": 117.1549,
-   "iso": "IDN"
+   "longitude": 117.1549
   },
   "properties": {
    "orgName": "Samarinda Barat",
@@ -1520,8 +1548,8 @@
    "phones": [ "+62 813-4759-4995          +62 813-4620-2978" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1531,8 +1559,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -0.47526,
-   "longitude": 117.1549,
-   "iso": "IDN"
+   "longitude": 117.1549
   },
   "properties": {
    "orgName": "Samarinda Muara Badak - Samarinda Timur",
@@ -1543,8 +1570,8 @@
    "phones": [ "0811551287" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1554,8 +1581,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -3.076009,
-   "longitude": 119.914201,
-   "iso": "IDN"
+   "longitude": 119.914201
   },
   "properties": {
    "orgName": "Makale",
@@ -1566,8 +1592,8 @@
    "phones": [ "082271130919" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1577,8 +1603,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -2.988404,
-   "longitude": 119.887282,
-   "iso": "IDN"
+   "longitude": 119.887282
   },
   "properties": {
    "orgName": "Rantepao",
@@ -1589,8 +1614,8 @@
    "phones": [ "085240391859" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -1600,8 +1625,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -0.925018,
-   "longitude": 119.880521,
-   "iso": "IDN"
+   "longitude": 119.880521
   },
   "properties": {
    "orgName": "Palu",
@@ -1613,19 +1637,18 @@
    "phones": [ "081349710930 -085395383530" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "E8CAFD6F-DFD2-4610-8A77-F7CFF428A725",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -0.925018,
-   "longitude": 119.880521,
-   "iso": "IDN"
+   "longitude": 119.880521
   },
   "properties": {
    "orgName": "Palu Bahasa Isyarat - Palu",
@@ -1637,8 +1660,8 @@
    "phones": [ "081349710930 -085395383530" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-04"
  }

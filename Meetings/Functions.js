@@ -2,6 +2,7 @@ import fs from 'fs';
 import readline from 'readline';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import {findNearestCountry} from "./GeoLocator.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const mainDir = __dirname + "/";
@@ -155,6 +156,18 @@ function isString(item) {
 }
 function isEmpty(item) {
     return (item === undefined || item === null || !item.length);
+}
+
+export function assignCountryIso(meeting){
+    if(!meeting || !meeting.location) return false;
+    let countryCode = findNearestCountry(meeting.location.longitude, meeting.location.latitude);
+    if (countryCode === null) {
+        console.log(`Couldnt find country for ${meeting.location.latitude}, ${meeting.location.longitude} using ${meeting.location.iso} instead.`);
+        return false;
+    }
+
+    meeting.location.iso = countryCode;
+    return countryCode;
 }
 
 export { LoadJSON, SaveFile, _SaveAllMeetings, cleanMeeting, replaceBooleansWithIntegers, ISODateString, isObject, isString, isEmpty };

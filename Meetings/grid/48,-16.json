@@ -1,12 +1,33 @@
 [
  {
+  "geoId": "8152E1A9-180C-4232-AECB-5A6F4AC4F40D",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 51.54,
+   "longitude": -9.25796
+  },
+  "properties": {
+   "orgName": "Bandon",
+   "orgType": "CONG",
+   "address": "Kingdom Hall Of Jehovah's Witnesses\n2 Upper High Street\nSkibbereen\nBANDON\nCo Cork\nREPUBLIC OF IRELAND",
+   "languageCode": "E",
+   "schedule": "Sun 10:30 Thu 19:30",
+   "phones": [ "0857253514" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
   "geoId": "BF535EE0-9C0A-4F44-A81B-3275942F54F6",
   "type": "weekly",
   "isPrimary": 1,
   "location": {
    "latitude": 51.694521,
-   "longitude": -9.410763,
-   "iso": "IRL"
+   "longitude": -9.410763
   },
   "properties": {
    "orgName": "Bantry",
@@ -18,8 +39,8 @@
    "phones": [ "00353 87 9006756" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -29,8 +50,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 51.54994,
-   "longitude": -9.25796,
-   "iso": "IRL"
+   "longitude": -9.25796
   },
   "properties": {
    "orgName": "Skibbereen",
@@ -41,31 +61,8 @@
    "phones": [ "086 3667112" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "8152E1A9-180C-4232-AECB-5A6F4AC4F40D",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 51.54994,
-   "longitude": -9.25796,
-   "iso": "IRL"
-  },
-  "properties": {
-   "orgName": "Bandon",
-   "orgType": "CONG",
-   "address": "Kingdom Hall of Jehovah's Witnesses\n2 Upper High Street\nSKIBBEREEN\nP81 FA39\nREPUBLIC OF IRELAND",
-   "languageCode": "E",
-   "schedule": "Sun 13:30 Tue 19:30",
-   "phones": [ "0857253514" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -75,8 +72,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 52.078208,
-   "longitude": -9.53874,
-   "iso": "IRL"
+   "longitude": -9.53874
   },
   "properties": {
    "orgName": "Killarney",
@@ -91,19 +87,18 @@
    "phones": [ "0876242914" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "9C5D8AF8-7722-4AA6-B5F9-034C65E09867",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.078208,
-   "longitude": -9.53874,
-   "iso": "IRL"
+   "longitude": -9.53874
   },
   "properties": {
    "orgName": "Killarney Russian Group - Killarney",
@@ -115,8 +110,8 @@
    "phones": [ "0876242914" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -126,8 +121,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 52.28281,
-   "longitude": -9.666933,
-   "iso": "IRL"
+   "longitude": -9.666933
   },
   "properties": {
    "orgName": "Tralee",
@@ -142,8 +136,8 @@
    "phones": [ "089 2504960" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -153,8 +147,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 51.905893,
-   "longitude": -8.95739,
-   "iso": "IRL"
+   "longitude": -8.95739
   },
   "properties": {
    "orgName": "Macroom",
@@ -166,8 +159,8 @@
    "phones": [ "+353&nbsp;85 128 7770" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -177,8 +170,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 51.905893,
-   "longitude": -8.95739,
-   "iso": "IRL"
+   "longitude": -8.95739
   },
   "properties": {
    "orgName": "Macroom Irish Group - Macroom",
@@ -190,10 +182,32 @@
    "phones": [ "+353&nbsp;85 128 7770" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
+ },
+ {
+  "geoId": "0E015A1E-73E3-42A7-A26C-10D5A040FC5A",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 51.905893,
+   "longitude": -8.95739
+  },
+  "properties": {
+   "orgName": "Millstreet",
+   "orgType": "CONG",
+   "address": "Lucey's Lane\nMACROOM\nP12 TR82\nREPUBLIC OF IRELAND",
+   "languageCode": "E",
+   "schedule": "Sun 14:00 Tue 19:30",
+   "phones": [ "0874896683" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
+  "active": 1,
+  "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D28A121F-72A1-4DC8-B2D2-3528A03468F1",
@@ -201,8 +215,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 52.438543,
-   "longitude": -9.450739,
-   "iso": "IRL"
+   "longitude": -9.450739
   },
   "properties": {
    "orgName": "Listowel",
@@ -213,42 +226,18 @@
    "phones": [ "Liam 087 2739846 Michael 089 2091582" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "0E015A1E-73E3-42A7-A26C-10D5A040FC5A",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 52.060537,
-   "longitude": -9.052467,
-   "iso": "IRL"
-  },
-  "properties": {
-   "orgName": "Millstreet",
-   "orgType": "CONG",
-   "address": "Kingdom Hall of Jehovah's Witnesses\nDrishane Road\nMILLSTREET\nP51 K124\nREPUBLIC OF IRELAND",
-   "languageCode": "E",
-   "schedule": "Sun 10:30 Thu 19:30",
-   "phones": [ "0831443927" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "45786603-33E5-4BF9-814C-65A31EE5B3D0",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.478379,
-   "longitude": -9.101549,
-   "iso": "IRL"
+   "longitude": -9.101549
   },
   "properties": {
    "orgName": "Newcastle West",
@@ -259,8 +248,8 @@
    "phones": [ "0852207867" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -270,8 +259,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 52.478379,
-   "longitude": -9.101549,
-   "iso": "IRL"
+   "longitude": -9.101549
   },
   "properties": {
    "orgName": "Newcastle West Polish",
@@ -282,8 +270,8 @@
    "phones": [ "+ 353 873962920" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -293,8 +281,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 51.811324,
-   "longitude": -8.397725,
-   "iso": "IRL"
+   "longitude": -8.397725
   },
   "properties": {
    "orgName": "Carrigaline",
@@ -305,8 +292,8 @@
    "phones": [ "0894743847" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -316,8 +303,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 51.894184,
-   "longitude": -8.464485,
-   "iso": "IRL"
+   "longitude": -8.464485
   },
   "properties": {
    "orgName": "Cork Central",
@@ -325,11 +311,11 @@
    "address": "Kingdom Hall of Jehovah's Witnesses\nHibernian Road\nCORK\nT12 YY32\nREPUBLIC OF IRELAND",
    "languageCode": "E",
    "schedule": "Sun 13:00 Tue 19:30",
-   "phones": [ "0214873174" ],
+   "phones": [ "+353&nbsp;(0) 89 227 9088" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -339,8 +325,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 51.894184,
-   "longitude": -8.464485,
-   "iso": "IRL"
+   "longitude": -8.464485
   },
   "properties": {
    "orgName": "Cork Leeside",
@@ -351,19 +336,18 @@
    "phones": [ "+353863472447" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9C5F5DFA-6851-4F7C-9DB2-C5BDDAE074A5",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 51.894184,
-   "longitude": -8.464485,
-   "iso": "IRL"
+   "longitude": -8.464485
   },
   "properties": {
    "orgName": "Cork Polish",
@@ -374,8 +358,8 @@
    "phones": [ "00353 872230549" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -385,8 +369,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 53.48821,
-   "longitude": -9.999721,
-   "iso": "IRL"
+   "longitude": -9.999721
   },
   "properties": {
    "orgName": "Clifden",
@@ -397,8 +380,8 @@
    "phones": [ "0876400519" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -408,8 +391,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 52.141195,
-   "longitude": -8.642736,
-   "iso": "IRL"
+   "longitude": -8.642736
   },
   "properties": {
    "orgName": "Mallow",
@@ -417,11 +399,11 @@
    "address": "Mercy Centre\nFair Street\nMALLOW\nREPUBLIC OF IRELAND",
    "languageCode": "E",
    "schedule": "Sun 10:30 Wed 19:15",
-   "phones": [ "087 9862626" ],
+   "phones": [ "0894688062" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -431,8 +413,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 51.910267,
-   "longitude": -8.255296,
-   "iso": "IRL"
+   "longitude": -8.255296
   },
   "properties": {
    "orgName": "Carrigtohill",
@@ -443,8 +424,8 @@
    "phones": [ "00353214632615" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -454,8 +435,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 52.109456,
-   "longitude": -8.279041,
-   "iso": "IRL"
+   "longitude": -8.279041
   },
   "properties": {
    "orgName": "Fermoy",
@@ -467,19 +447,18 @@
    "phones": [ "0892531309" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "25EB3BB5-9235-427E-8D4C-F9EB906CB57E",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.109456,
-   "longitude": -8.279041,
-   "iso": "IRL"
+   "longitude": -8.279041
   },
   "properties": {
    "orgName": "Fermoy Portuguese Group - Fermoy",
@@ -491,8 +470,8 @@
    "phones": [ "0892531309" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -502,8 +481,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 52.710178,
-   "longitude": -8.866132,
-   "iso": "IRL"
+   "longitude": -8.866132
   },
   "properties": {
    "orgName": "Shannon",
@@ -515,19 +493,18 @@
    "phones": [ "0872485008 | 0861971135" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7E185B7E-B06E-4EA6-A80F-FE8E61C08336",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.710178,
-   "longitude": -8.866132,
-   "iso": "IRL"
+   "longitude": -8.866132
   },
   "properties": {
    "orgName": "Shannon Russian Group - Shannon",
@@ -539,8 +516,8 @@
    "phones": [ "0872485008 | 0861971135" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -550,8 +527,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 52.84159,
-   "longitude": -8.99286,
-   "iso": "IRL"
+   "longitude": -8.99286
   },
   "properties": {
    "orgName": "Ennis",
@@ -563,8 +539,8 @@
    "phones": [ "0894660270" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -581,13 +557,13 @@
    "orgType": "GROUP",
    "address": "Kingdom Hall of Jehovah's Witnesses\nDrumbiggle Road\nENNIS\nV95 TK31\nREPUBLIC OF IRELAND",
    "languageCode": "PTG",
-   "schedule": "Sat 19:00 Thu 19:15",
+   "schedule": "Sun 10:30 Thu 19:15",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "0894660270" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -597,31 +573,29 @@
   "isPrimary": 1,
   "location": {
    "latitude": 52.662732,
-   "longitude": -8.619819,
-   "iso": "IRL"
+   "longitude": -8.619819
   },
   "properties": {
    "orgName": "Limerick",
    "orgType": "CONG",
    "address": "Kingdom Hall of Jehovah's Witnesses\nLower Gerald Griffin Street\nLIMERICK CITY\nV94 EK09\nREPUBLIC OF IRELAND",
    "languageCode": "E",
-   "schedule": "Sun 10:00 Thu 19:15",
+   "schedule": "Sun 09:15 Thu 19:15",
    "phones": [ "00353 863757899" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E502717A-7D11-47A3-950D-B206E9D016A9",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 52.662732,
-   "longitude": -8.619819,
-   "iso": "IRL"
+   "longitude": -8.619819
   },
   "properties": {
    "orgName": "Limerick Polish",
@@ -632,8 +606,8 @@
    "phones": [ "0852133866" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -654,8 +628,8 @@
    "phones": [ "087 1814628" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -665,8 +639,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 53.290079,
-   "longitude": -9.049483,
-   "iso": "IRL"
+   "longitude": -9.049483
   },
   "properties": {
    "orgName": "Galway West",
@@ -678,8 +651,8 @@
    "phones": [ "0872881011" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -701,8 +674,8 @@
    "phones": [ "0872881011" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -712,8 +685,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 53.290079,
-   "longitude": -9.049483,
-   "iso": "IRL"
+   "longitude": -9.049483
   },
   "properties": {
    "orgName": "Galway Irish",
@@ -724,8 +696,8 @@
    "phones": [ "+353&nbsp;85 245 9899" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -751,7 +723,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-09-30"
+  "lastVisit": "2023-12-27"
  },
  {
   "geoId": "E788782C-3EE0-4746-AEDA-89A16A321000",
@@ -759,8 +731,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 54.17361,
-   "longitude": -9.91868,
-   "iso": "IRL"
+   "longitude": -9.91868
   },
   "properties": {
    "orgName": "Belmullet",
@@ -771,8 +742,8 @@
    "phones": [ "00353 86 854 4306" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -782,8 +753,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 52.468653,
-   "longitude": -8.15133,
-   "iso": "IRL"
+   "longitude": -8.15133
   },
   "properties": {
    "orgName": "Tipperary",
@@ -794,8 +764,8 @@
    "phones": [ "00353 86 319 2187" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -805,8 +775,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 53.850113,
-   "longitude": -9.345512,
-   "iso": "IRL"
+   "longitude": -9.345512
   },
   "properties": {
    "orgName": "Castlebar",
@@ -821,8 +790,8 @@
    "phones": [ "087 6232351" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -832,8 +801,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 53.198795,
-   "longitude": -8.583883,
-   "iso": "IRL"
+   "longitude": -8.583883
   },
   "properties": {
    "orgName": "Loughrea",
@@ -844,8 +812,8 @@
    "phones": [ "(083) 028 1031" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -855,8 +823,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 53.517699,
-   "longitude": -8.871614,
-   "iso": "IRL"
+   "longitude": -8.871614
   },
   "properties": {
    "orgName": "Tuam East",
@@ -867,8 +834,8 @@
    "phones": [ "0876616510" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -878,8 +845,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 53.517699,
-   "longitude": -8.871614,
-   "iso": "IRL"
+   "longitude": -8.871614
   },
   "properties": {
    "orgName": "Tuam West",
@@ -890,8 +856,8 @@
    "phones": [ "0879398380" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -901,8 +867,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 52.864483,
-   "longitude": -8.189914,
-   "iso": "IRL"
+   "longitude": -8.189914
   },
   "properties": {
    "orgName": "Nenagh",
@@ -913,8 +878,8 @@
    "phones": [ "+353 85 184 5731" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -924,8 +889,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 53.744542,
-   "longitude": -8.847389,
-   "iso": "IRL"
+   "longitude": -8.847389
   },
   "properties": {
    "orgName": "Ballyhaunis",
@@ -936,8 +900,8 @@
    "phones": [ "094 936 7516" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -947,8 +911,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 54.091227,
-   "longitude": -9.15429,
-   "iso": "IRL"
+   "longitude": -9.15429
   },
   "properties": {
    "orgName": "Ballina",
@@ -959,8 +922,8 @@
    "phones": [ "083 043 3346" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -970,8 +933,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 53.631057,
-   "longitude": -8.197251,
-   "iso": "IRL"
+   "longitude": -8.197251
   },
   "properties": {
    "orgName": "Roscommon",
@@ -982,19 +944,18 @@
    "phones": [ "0872291931" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "8812063B-E122-476B-8369-331E2F60AFD7",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 53.973497,
-   "longitude": -8.303897,
-   "iso": "IRL"
+   "longitude": -8.303897
   },
   "properties": {
    "orgName": "Boyle",
@@ -1005,8 +966,8 @@
    "phones": [ "+353 85 855 1551" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1019,17 +980,17 @@
    "longitude": -8.459442
   },
   "properties": {
-   "orgName": "Sligo",
+   "orgName": "Sligo North",
    "orgType": "CONG",
    "address": "Kingdom Hall of Jehovah's Witnesses\nTonaphubble\nCleaveragh Road\nSLIGO\nF91 WY46\nREPUBLIC OF IRELAND",
    "languageCode": "E",
-   "schedule": "Sun 10:15 Thu 19:30",
+   "schedule": "Sun 10:15 Thu 19:00",
    "relatedLanguageCodes": [ "U" ],
    "phones": [ "0719150734" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1055,7 +1016,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-09-30"
+  "lastVisit": "2023-12-27"
  },
  {
   "geoId": "40880973-25A2-43C9-BFFF-6F8017AFAA4D",
@@ -1066,7 +1027,7 @@
    "longitude": -8.459442
   },
   "properties": {
-   "orgName": "Sligo North Russian Group - Sligo",
+   "orgName": "Sligo North Russian Group - Sligo North",
    "orgType": "GROUP",
    "address": "Kingdom Hall of Jehovah's Witnesses\nTonaphubble\nCleaveragh Road\nSLIGO\nF91 WY46\nREPUBLIC OF IRELAND",
    "languageCode": "U",
@@ -1075,10 +1036,32 @@
    "phones": [ "0719150734" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
+ },
+ {
+  "geoId": "F98C5369-CBBE-4603-948D-D47F61BE2EA3",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 54.260354,
+   "longitude": -8.459442
+  },
+  "properties": {
+   "orgName": "Sligo South",
+   "orgType": "CONG",
+   "address": "Kingdom Hall of Jehovah's Witnesses\nTonaphubble\nCleaveragh Road\nSLIGO\nF91 WY46\nREPUBLIC OF IRELAND",
+   "languageCode": "E",
+   "schedule": "Sun 13:00 Wed 19:00",
+   "phones": [ "085 283 4976" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
+  "active": 1,
+  "firstSeen": "2023-12-27"
  },
  {
   "geoId": "1CE43D1F-89EE-4252-B819-39C357A5291D",
@@ -1086,8 +1069,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 54.718144,
-   "longitude": -8.264754,
-   "iso": "IRL"
+   "longitude": -8.264754
   },
   "properties": {
    "orgName": "Donegal",
@@ -1098,8 +1080,8 @@
    "phones": [ "0873259906" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

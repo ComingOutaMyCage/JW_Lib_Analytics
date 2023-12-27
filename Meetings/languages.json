@@ -382,7 +382,7 @@
   "languageName": "German",
   "scriptDirection": "ltr",
   "isSignLanguage": false,
-  "writtenLanguageCode": [ "X" ]
+  "writtenLanguageCode": [ "XSW" ]
  },
  "GB": {
   "languageCode": "GB",
@@ -390,6 +390,13 @@
   "scriptDirection": "ltr",
   "isSignLanguage": false,
   "writtenLanguageCode": [ "GB" ]
+ },
+ "GO": {
+  "languageCode": "GO",
+  "languageName": "Gouro",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "GO" ]
  },
  "G": {
   "languageCode": "G",
@@ -1077,13 +1084,6 @@
   "isSignLanguage": false,
   "writtenLanguageCode": [ "N" ]
  },
- "KK": {
-  "languageCode": "KK",
-  "languageName": "Kinyakyusa",
-  "scriptDirection": "ltr",
-  "isSignLanguage": false,
-  "writtenLanguageCode": [ "KK" ]
- },
  "NZ": {
   "languageCode": "NZ",
   "languageName": "Nzema",
@@ -1167,13 +1167,6 @@
   "scriptDirection": "ltr",
   "isSignLanguage": false,
   "writtenLanguageCode": [ "PP" ]
- },
- "T": {
-  "languageCode": "T",
-  "languageName": "Portuguese (Brazil)",
-  "scriptDirection": "ltr",
-  "isSignLanguage": false,
-  "writtenLanguageCode": [ "T" ]
  },
  "PJ": {
   "languageCode": "PJ",
@@ -2431,13 +2424,6 @@
   "isSignLanguage": true,
   "writtenLanguageCode": [ "LSN" ]
  },
- "TPO": {
-  "languageCode": "TPO",
-  "languageName": "Portuguese (Portugal)",
-  "scriptDirection": "ltr",
-  "isSignLanguage": false,
-  "writtenLanguageCode": [ "TPO" ]
- },
  "RMS": {
   "languageCode": "RMS",
   "languageName": "Romany (Eastern Slovakia)",
@@ -3145,13 +3131,6 @@
   "isSignLanguage": false,
   "writtenLanguageCode": [ "ADH" ]
  },
- "ODW": {
-  "languageCode": "ODW",
-  "languageName": "Odawa",
-  "scriptDirection": "ltr",
-  "isSignLanguage": false,
-  "writtenLanguageCode": [ "ODW" ]
- },
  "NBZ": {
   "languageCode": "NBZ",
   "languageName": "Ndebele (Zimbabwe)",
@@ -3361,13 +3340,6 @@
   "scriptDirection": "ltr",
   "isSignLanguage": false,
   "writtenLanguageCode": [ "NEN" ]
- },
- "MJK": {
-  "languageCode": "MJK",
-  "languageName": "Mandjak",
-  "scriptDirection": "ltr",
-  "isSignLanguage": false,
-  "writtenLanguageCode": [ "MJK" ]
  },
  "QIC": {
   "languageCode": "QIC",
@@ -4307,13 +4279,6 @@
   "isSignLanguage": true,
   "writtenLanguageCode": [ "MNS" ]
  },
- "GG": {
-  "languageCode": "GG",
-  "languageName": "Gogo",
-  "scriptDirection": "ltr",
-  "isSignLanguage": false,
-  "writtenLanguageCode": [ "GG" ]
- },
  "AWA": {
   "languageCode": "AWA",
   "languageName": "Awapit",
@@ -4397,13 +4362,6 @@
   "scriptDirection": "ltr",
   "isSignLanguage": false,
   "writtenLanguageCode": [ "PHN" ]
- },
- "XSW": {
-  "languageCode": "XSW",
-  "languageName": "Swiss German",
-  "scriptDirection": "ltr",
-  "isSignLanguage": false,
-  "writtenLanguageCode": [ "XSW" ]
  },
  "LCE": {
   "languageCode": "LCE",
@@ -4772,13 +4730,6 @@
   "isSignLanguage": true,
   "writtenLanguageCode": [ "RWS" ]
  },
- "CGG": {
-  "languageCode": "CGG",
-  "languageName": "Chiga",
-  "scriptDirection": "ltr",
-  "isSignLanguage": false,
-  "writtenLanguageCode": [ "CGG" ]
- },
  "HVU": {
   "languageCode": "HVU",
   "languageName": "Havu",
@@ -4883,6 +4834,13 @@
   "scriptDirection": "ltr",
   "isSignLanguage": false,
   "writtenLanguageCode": [ "GBR" ]
+ },
+ "MLY": {
+  "languageCode": "MLY",
+  "languageName": "Malayo",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "MLY" ]
  },
  "BLL": {
   "languageCode": "BLL",
@@ -5211,7 +5169,10 @@
   "languageName": "Portuguese",
   "scriptDirection": "ltr",
   "isSignLanguage": false,
-  "writtenLanguageCode": [ "PTG" ]
+  "writtenLanguageCode": [
+   "T",
+   "TPO"
+  ]
  },
  "RVM": {
   "languageCode": "RVM",

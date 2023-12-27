@@ -2,7 +2,7 @@
  {
   "geoId": "02B5EE7B-C91C-45E7-802C-1770211FBB1D",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 8.230372,
    "longitude": 80.349408
@@ -14,19 +14,19 @@
    "address": "(behind the railway station)\nIhala Thalawa\nTalawa NCP 50230",
    "transliteratedAddress": "-\r\n-\r\n(behind the railway station)\r\nIhala Thalawa\r\nTalawa NCP 50230\r\n",
    "languageCode": "SN",
-   "schedule": "Sun 09:00 Wed 15:45",
+   "schedule": "Sun 09:00 Thu 15:00",
    "phones": [ "0767909605" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "B99B2D44-71DA-448F-93C6-09074EE0C43B",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 8.311223,
    "longitude": 80.416441
@@ -41,8 +41,8 @@
    "phones": [ "0252052143. /  0776007322" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -52,7 +52,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": 8.758234,
-   "longitude": 80.475054
+   "longitude": 80.475054,
+   "iso": "LKA"
   },
   "properties": {
    "orgName": "(Moved) Vavuniya West Congregation, Vavuniya",
@@ -68,7 +69,7 @@
   "active": 0,
   "firstSeen": "2022-12-02",
   "moved": "12A\nMaharambaikulam Road\nMatheena Nagar Junction\nPoonthoddam\nVavuniya NP 43000",
-  "lastVisit": "2023-09-30"
+  "lastVisit": "2023-12-27"
  },
  {
   "geoId": "1ECC988F-3A0D-43F0-A4DD-16C0813E0336",
@@ -88,8 +89,8 @@
    "phones": [ "077 301 7215" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -111,8 +112,8 @@
    "phones": [ "0770492700" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -134,8 +135,8 @@
    "phones": [ "0777458351" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -157,8 +158,8 @@
    "phones": [ "0776517464" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -180,19 +181,18 @@
    "phones": [ "0772424005" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "639F22B9-1A4C-4E20-9176-FD1E489E9D5F",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 8.573863,
-   "longitude": 81.215138,
-   "iso": "LKA"
+   "longitude": 81.215138
   },
   "properties": {
    "orgName": "Trincomalee Congregation, Trincomalee",
@@ -205,8 +205,8 @@
    "phones": [ "077 5257031" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -216,8 +216,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 8.573863,
-   "longitude": 81.215138,
-   "iso": "LKA"
+   "longitude": 81.215138
   },
   "properties": {
    "orgName": "Trincomalee Sinhala Group - Trincomalee Congregation, Trincomalee",
@@ -230,8 +229,8 @@
    "phones": [ "077 5257031" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -249,12 +248,12 @@
    "orgTransliteratedName": "கிளிநொச்சி சபை, கிளிநொச்சி (158)",
    "address": "Uruththirapuram Road\nKaradippokku Junction\nKilinochchi NP 42400",
    "languageCode": "TL",
-   "schedule": "Sun 15:30 Wed 17:00",
+   "schedule": "Sun 10:30 Wed 16:30",
    "phones": [ "0771576452" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -272,12 +271,12 @@
    "orgTransliteratedName": "வட்டகச்சி சபை, கிளிநொச்சி (4473)",
    "address": "Uruththirapuram Road\nKaradippokku Junction\nKilinochchi NP 42400",
    "languageCode": "TL",
-   "schedule": "Sun 08:15 Thu 15:30",
+   "schedule": "Sun 08:15 Thu 16:15",
    "phones": [ "0774089046" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -287,7 +286,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": 9.40865,
-   "longitude": 80.40628
+   "longitude": 80.40628,
+   "iso": "LKA"
   },
   "properties": {
    "orgName": "Skanthapuram Congregation, Kilinochchi",
@@ -299,7 +299,7 @@
    "phones": [ "0775999299" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-09-30",
   "active": 1,
   "firstSeen": "2023-05-29"
@@ -318,12 +318,12 @@
    "orgTransliteratedName": "சாவகச்சேரி சபை, யாழ்ப்பாணம் (42)",
    "address": "16 1/1,\nMarket Approach Road,\nOpposite Urban Council\nJaffna NP",
    "languageCode": "TL",
-   "schedule": "Sun 09:00 Thu 16:30",
-   "phones": [ "+94&nbsp;74 36 69 771" ],
+   "schedule": "Sun 09:00 Thu 16:00",
+   "phones": [ "+94&nbsp;776447382" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -343,11 +343,11 @@
    "transliteratedAddress": "191\r\nPuttur Road\r\nAchchelu\r\nChunnakam NP 40075\r\n",
    "languageCode": "TL",
    "schedule": "Sun 09:00 Thu 17:30",
-   "phones": [ "0773322437" ],
+   "phones": [ "0770327969" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -357,7 +357,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": 9.658875,
-   "longitude": 80.1737
+   "longitude": 80.1737,
+   "iso": "LKA"
   },
   "properties": {
    "orgName": "(Moved) Chavakachcheri Congregation, Jaffna",
@@ -374,7 +375,7 @@
   "active": 0,
   "firstSeen": "2022-12-02",
   "moved": "16 1/1,\nMarket Approach Road,\nOpposite Urban Council\nJaffna NP",
-  "lastVisit": "2023-09-30"
+  "lastVisit": "2023-12-27"
  },
  {
   "geoId": "C286B7B7-34AB-466F-8AA5-836144FFE73D",
@@ -391,11 +392,11 @@
    "address": "2nd Lane\nOddusuddan Road\nWard 10\nPuthukkudiyiruppu NP 42530",
    "languageCode": "TL",
    "schedule": "Sun 09:00 Thu 16:30",
-   "phones": [ "+94&nbsp;(0) 771517581 / +94 (0) 716835375" ],
+   "phones": [ "+94&nbsp;+94716512202/+94778512202" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -417,8 +418,8 @@
    "phones": [ "0778692102" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -440,8 +441,8 @@
    "phones": [ "+91&nbsp;8667351244 / +91 9962920943" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -462,8 +463,8 @@
    "phones": [ "95669 98147/ 9940042920" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -484,8 +485,8 @@
    "phones": [ "9003249195 / 9500045261" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -506,8 +507,8 @@
    "phones": [ "8248073762 / 7358815968" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -531,15 +532,15 @@
    ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CBD03182-8386-4691-A690-662D474ED722",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 12.915775,
    "longitude": 80.089679
@@ -553,8 +554,8 @@
    "phones": [ "8939063993" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -576,8 +577,8 @@
    "phones": [ "8608299110 / 8939444184" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -598,8 +599,8 @@
    "phones": [ "+91&nbsp;9342394083 / +91 9382730236" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -620,8 +621,8 @@
    "phones": [ "9444294952" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -636,14 +637,14 @@
   "properties": {
    "orgName": "Chennai Pammal",
    "orgType": "CONG",
-   "address": "Plot No 2\nSri Guruvayurappan Nagar Ex, Pallavaram Main\nMananchery, Kunrathur\nChennai  600069\nTN\nINDIA",
+   "address": "Door.No.2, Plot No 2\nSri Guruvayurappan Nagar Ex, Pallavaram Main\nMananchery, Kunrathur\nChennai  600069\nTN\nINDIA",
    "languageCode": "TL",
    "schedule": "Sun 17:30 Thu 18:30",
    "phones": [ "7550007553" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -664,8 +665,8 @@
    "phones": [ "09840328332" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -686,8 +687,8 @@
    "phones": [ "8807827903 / 9445368562" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -708,8 +709,8 @@
    "phones": [ "9940653564/9941949904/9952065304" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -719,8 +720,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 13.120492,
-   "longitude": 80.033748,
-   "iso": "IND"
+   "longitude": 80.033748
   },
   "properties": {
    "orgName": "Chennai Thirunindravur",
@@ -731,8 +731,8 @@
    "phones": [ "+91&nbsp;9994191955 / +91 8939171398" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -753,8 +753,8 @@
    "phones": [ "9841799251" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -772,18 +772,18 @@
    "address": "No. 4/111, East Coast Road\nChennai  600 115\nTN\nINDIA",
    "languageCode": "TL",
    "schedule": "Sun 09:15 Thu 18:45",
-   "phones": [ "+91&nbsp;9840744484 / 8248479651" ],
+   "phones": [ "+91&nbsp;9789895277 / 8248479651" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "E982C5D9-48E7-457E-A19C-90E601112153",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 12.94272,
    "longitude": 80.25287
@@ -797,8 +797,8 @@
    "phones": [ "+91&nbsp;9762505345 / +91 7200001914" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -819,8 +819,8 @@
    "phones": [ "9444963225" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -837,12 +837,12 @@
    "orgType": "CONG",
    "address": "No. 2/50, Mannadiamman Koil Street\nNear St.Thomas Railway Station and Metro Station\nNear Ambedkar Railway Station\nChennai  600088\nTN\nINDIA",
    "languageCode": "TL",
-   "schedule": "Sun 11:00 Wed 18:30",
+   "schedule": "Sun 11:00 Wed 18:45",
    "phones": [ "+91&nbsp;9884453460, 9841155132" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -863,8 +863,8 @@
    "phones": [ "9841364248 / 9176691688" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -885,8 +885,8 @@
    "phones": [ "+91&nbsp;9841869767" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -907,8 +907,8 @@
    "phones": [ "9952992446 / 7395930625" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -929,8 +929,8 @@
    "phones": [ "9444672635 / 9789801221" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -939,21 +939,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 13.097049,
-   "longitude": 80.133344,
-   "iso": "IND"
+   "latitude": 13.100908,
+   "longitude": 80.135864
   },
   "properties": {
    "orgName": "Chennai Ayyapakkam",
    "orgType": "CONG",
-   "address": "No. 21\nPound Street\nAyyapakkam, Chennai\nChennai  600077\nTN\nINDIA",
+   "address": "R97/3, 1st floor\nTNHB Phase -1\nAyapakkam\nTiruvallur  600077\nTN\nINDIA",
    "languageCode": "TL",
    "schedule": "Sun 09:30 Thu 18:30",
    "phones": [ "9962191410 / 9841542252" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-05-29"
  },
@@ -968,14 +967,14 @@
   "properties": {
    "orgName": "Chennai Mogappair",
    "orgType": "CONG",
-   "address": "No. 23\nVenugopal Street, Mogappair East\nPanneer Nagar, Landmark: 7H Bus Depot\nChennai  600037\nTN\nINDIA",
+   "address": "Door No. 23/2, 1st Floor, Blessing Tower\nVenugopal Street, Mogappair East\nChennai  600037\nTN\nINDIA",
    "languageCode": "TL",
    "schedule": "Sun 17:30 Thu 18:45",
    "phones": [ "+91&nbsp;9843237632/+91 9176469056" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -985,8 +984,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 13.127433,
-   "longitude": 80.14323,
-   "iso": "IND"
+   "longitude": 80.14323
   },
   "properties": {
    "orgName": "Oragadam",
@@ -997,8 +995,8 @@
    "phones": [ "+91&nbsp;9994225881 / +91 9710271710" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-05-29"
  },
@@ -1008,8 +1006,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 13.127433,
-   "longitude": 80.14323,
-   "iso": "IND"
+   "longitude": 80.14323
   },
   "properties": {
    "orgName": "Thirumulaivoyil",
@@ -1017,11 +1014,11 @@
    "address": "No. 9, Second Main Road, Kurinji Street,\nVivekananda Nagar,\nBehind Sir Ivan Stedford Hospital, Ambattur\nChennai  600053\nTN\nINDIA",
    "languageCode": "TL",
    "schedule": "Sun 08:30 Wed 18:30",
-   "phones": [ "9901374455 ,  9566836640" ],
+   "phones": [ "9901374455 ,  9080094690" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-05-29"
  },
@@ -1031,8 +1028,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 13.127433,
-   "longitude": 80.14323,
-   "iso": "IND"
+   "longitude": 80.14323
   },
   "properties": {
    "orgName": "Chennai Avadi",
@@ -1043,8 +1039,8 @@
    "phones": [ "+91&nbsp;8668048397/7829522288" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-05-29"
  },
@@ -1054,8 +1050,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 13.127433,
-   "longitude": 80.14323,
-   "iso": "IND"
+   "longitude": 80.14323
   },
   "properties": {
    "orgName": "Chennai Ambattur",
@@ -1067,8 +1062,8 @@
    "phones": [ "+91&nbsp;9283146575 / +91 9941464933" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-05-29"
  },
@@ -1089,8 +1084,8 @@
    "phones": [ "+91&nbsp;9840566437 / +91 9840770922" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1111,8 +1106,8 @@
    "phones": [ "7010941610, 8610859498, 9094043678" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1133,8 +1128,8 @@
    "phones": [ "9382141299 / 9382743903" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1155,19 +1150,18 @@
    "phones": [ "7200552288" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "918285D4-ADFD-4C19-B36E-1B440C3C4BC7",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 13.084022,
-   "longitude": 80.248938,
-   "iso": "IND"
+   "longitude": 80.248938
   },
   "properties": {
    "orgName": "Chennai North English",
@@ -1178,8 +1172,8 @@
    "phones": [ "+91&nbsp;9042001914 / +91 6385825801" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1200,8 +1194,8 @@
    "phones": [ "+91&nbsp;8217083549" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1222,19 +1216,18 @@
    "phones": [ "9841277667 / 9176777667" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7ECE8CAE-AA4E-4172-9CCD-DC1B74CD0678",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 13.084022,
-   "longitude": 80.248938,
-   "iso": "IND"
+   "longitude": 80.248938
   },
   "properties": {
    "orgName": "Chennai Sign-Language",
@@ -1245,15 +1238,15 @@
    "phones": [ "+91&nbsp;9176649522 / +91 9940301914" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9F0E1443-AB4E-428E-B76B-C2FE1A194EE6",
   "type": "weekly",
-  "isPrimary": 1,
+  "isPrimary": 0,
   "location": {
    "latitude": 13.084022,
    "longitude": 80.248938
@@ -1267,8 +1260,8 @@
    "phones": [ "9941255350" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1289,8 +1282,8 @@
    "phones": [ "+91&nbsp;8754454362" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1311,8 +1304,8 @@
    "phones": [ "+917907160779 / +919384553652" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1333,8 +1326,8 @@
    "phones": [ "8072991281/ 9943530206" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1355,15 +1348,15 @@
    "phones": [ "8754487932 / 8015338238" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3E7160BA-3346-4F3F-831B-4781A6E4D7AF",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 13.120639,
    "longitude": 80.228869
@@ -1377,8 +1370,8 @@
    "phones": [ "+91&nbsp;9791127985 , +91 8074284679" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1399,8 +1392,8 @@
    "phones": [ "+91&nbsp;9994216215" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-08-16"
  },
@@ -1421,8 +1414,8 @@
    "phones": [ "+91&nbsp;9841607475" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1443,8 +1436,8 @@
    "phones": [ "8939361931" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1466,8 +1459,8 @@
    "phones": [ "9176696060 / 9283747286" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1488,8 +1481,8 @@
    "phones": [ "+91&nbsp;9791084565 / +91 8190019954" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1510,8 +1503,8 @@
    "phones": [ "9444114124 / 8072885268" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1535,8 +1528,8 @@
    ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1557,8 +1550,8 @@
    "phones": [ "8925220169, 9283747282" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1579,8 +1572,8 @@
    "phones": [ "8678925256, 9486537015" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1601,8 +1594,8 @@
    "phones": [ "8610206245 / 9841890764" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1623,8 +1616,8 @@
    "phones": [ "+91&nbsp;8778559964 / +91 9080788768" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1645,8 +1638,8 @@
    "phones": [ "+91&nbsp;9003067481 / +91 9840503251" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1656,7 +1649,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": 13.11855,
-   "longitude": 80.27799
+   "longitude": 80.27799,
+   "iso": "IND"
   },
   "properties": {
    "orgName": "(Moved) Chennai Ezhil Nagar",
@@ -1671,7 +1665,7 @@
   "active": 0,
   "firstSeen": "2022-12-02",
   "moved": "Block No.21, Plot No.9, Subramaniam Street,\nKrishnamoorthi Nagar, Kodungaiyu\nChennai  600118\nTN\nINDIA",
-  "lastVisit": "2023-09-30"
+  "lastVisit": "2023-12-27"
  },
  {
   "geoId": "0E051029-1FC0-4707-BA0D-B4BDEA7CCD14",
@@ -1690,8 +1684,8 @@
    "phones": [ "+91&nbsp;9840576490 / +91 9962518330" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1712,8 +1706,8 @@
    "phones": [ "+91&nbsp;9080514912 / +91 6383855425" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1723,7 +1717,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": 13.160366,
-   "longitude": 80.25634
+   "longitude": 80.25634,
+   "iso": "IND"
   },
   "properties": {
    "orgName": "(Moved) Chennai Manali",
@@ -1734,7 +1729,7 @@
    "phones": [ "+91&nbsp;9840576490 / +91 9962518330" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -1746,7 +1741,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": 13.160366,
-   "longitude": 80.25634
+   "longitude": 80.25634,
+   "iso": "IND"
   },
   "properties": {
    "orgName": "(Moved) Mathur",
@@ -1757,7 +1753,7 @@
    "phones": [ "9080514912, 6383855425" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -1781,7 +1777,7 @@
    "phones": [ "9884323104 / 8870334448" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-08-16",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -1805,7 +1801,7 @@
    "phones": [ "+919884370404" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-08-16",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -1824,12 +1820,12 @@
    "orgType": "CONG",
    "address": "Old Door No. 85-A,\nNew Door No. 205 2nd floor,\nThiruvottiyur High Road, Kaladipet, Thiruvottiyur\nChennai  600019\nTN\nINDIA",
    "languageCode": "TL",
-   "schedule": "Sun 17:00 Thu 18:30",
+   "schedule": "Sun 18:30 Thu 18:30",
    "phones": [ "9884323104 / 8870334448" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1846,12 +1842,12 @@
    "orgType": "CONG",
    "address": "Old Door No. 85-A,\nNew Door No. 205 2nd floor,\nThiruvottiyur High Road, Kaladipet, Thiruvottiyur\nChennai  600019\nTN\nINDIA",
    "languageCode": "TL",
-   "schedule": "Sun 09:30 Wed 18:30",
+   "schedule": "Sun 16:00 Wed 18:30",
    "phones": [ "+919884370404" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1868,12 +1864,12 @@
    "orgType": "CONG",
    "address": "Old Door No. 85-A,\nNew Door No. 205 2nd floor,\nThiruvottiyur High Road, Kaladipet, Thiruvottiyur\nChennai  600019\nTN\nINDIA",
    "languageCode": "TL",
-   "schedule": "Sun 09:30 Wed 18:30",
+   "schedule": "Sun 09:30 Fri 18:30",
    "phones": [ "09940593112 / 09884832838" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1895,7 +1891,7 @@
    "phones": [ "09940593112 / 09884832838" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-08-16",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -1918,8 +1914,8 @@
    "phones": [ "9710430555, 9499014201" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1928,21 +1924,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 13.423274,
-   "longitude": 80.124646,
-   "iso": "IND"
+   "latitude": 13.437143,
+   "longitude": 80.118055
   },
   "properties": {
    "orgName": "Gummidipoondi",
    "orgType": "CONG",
-   "address": "No. 70, Pillaiyar Kovil Street,\nSP Munusamy Nagar, pethikuppam, Gummidipundi\nThiruvallur District\nTiruvallur  601201\nTN\nINDIA",
+   "address": "Door No. 62, Ground Floor\nBypass Road, Pethikuppam Gate\nGummidipoondi\nTiruvallur  601201\nTN\nINDIA",
    "languageCode": "TL",
    "schedule": "Sun 09:30 Thu 18:30",
-   "phones": [ "9043895474" ],
+   "phones": [ "9962682719" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1952,8 +1947,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 13.362477,
-   "longitude": 80.20519,
-   "iso": "IND"
+   "longitude": 80.20519
   },
   "properties": {
    "orgName": "Ponneri",
@@ -1964,8 +1958,8 @@
    "phones": [ "+91&nbsp;9597305976/+91 8072401620" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1975,8 +1969,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 14.462514,
-   "longitude": 80.008254,
-   "iso": "IND"
+   "longitude": 80.008254
   },
   "properties": {
    "orgName": "Nellore",
@@ -1984,11 +1977,11 @@
    "address": "C/o Dharmapuri Jagannadam, 1 - 771,\nYanamalapalem 2nd Street,\nNawabpet, Bangla Thota\nNellore  524 002\nAP\nINDIA",
    "languageCode": "TU",
    "schedule": "Sun 09:30 Thu 18:00",
-   "phones": [ "+91&nbsp;8667443039 / +91 9176054858" ],
+   "phones": [ "+91&nbsp;8358587788 / +91 9176054858" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2005,12 +1998,12 @@
    "orgType": "CONG",
    "address": "1st ward,16th Block,TS no. 729/4\nnearesr Dr no 1-3-13 (IH), Mamidipalem,Ongole\nOngole  523 002\nAP\nINDIA",
    "languageCode": "TU",
-   "schedule": "Sun 09:30 Thu 18:30",
+   "schedule": "Sun 10:00 Thu 18:30",
    "phones": [ "+91&nbsp;90000 25987" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2027,12 +2020,12 @@
    "orgType": "CONG",
    "address": "D. No. 18-336, 1st floor\nRamanagar Beside APSRTC Petrol Bunk\nDesayipeta, Vetapalem\nBapatla  523187\nAP\nINDIA",
    "languageCode": "TU",
-   "schedule": "Sun 17:00 Thu 18:00",
+   "schedule": "Sun 18:00 Thu 18:00",
    "phones": [ "7329994557 / 9014797431" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2054,7 +2047,7 @@
    "phones": [ "7329994557 / 9014797431" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-08-16",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -2077,8 +2070,8 @@
    "phones": [ "8096757322 / 9966641659" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2099,8 +2092,8 @@
    "phones": [ "9177659369 / 8008837006" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2125,6 +2118,6 @@
   "lastSeen": "2022-12-02",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-09-30"
+  "lastVisit": "2023-12-27"
  }
 ]

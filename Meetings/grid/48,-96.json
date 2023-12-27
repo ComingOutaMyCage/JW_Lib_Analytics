@@ -5,8 +5,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 48.839378,
-   "longitude": -95.770249,
-   "iso": "USA"
+   "longitude": -95.770249
   },
   "properties": {
    "orgName": "Roseau - MN (USA)",
@@ -17,8 +16,8 @@
    "phones": [ "218-463-3017" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -28,8 +27,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 48.710298,
-   "longitude": -94.590828,
-   "iso": "USA"
+   "longitude": -94.590828
   },
   "properties": {
    "orgName": "Baudette - MN (USA)",
@@ -40,30 +38,8 @@
    "phones": [ "(218) 202-0055" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "406FAA1A-413E-4F5C-8157-7D7EEA13E8D5",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 48.620222,
-   "longitude": -93.583938
-  },
-  "properties": {
-   "orgName": "International Falls - MN (USA)",
-   "orgType": "CONG",
-   "address": "15 Heward Road\nDevlin ON",
-   "languageCode": "E",
-   "schedule": "Sun 10:00 Tue 19:00",
-   "phones": [ "218 283-4684" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -84,8 +60,30 @@
    "phones": [ "(807) 276-1340" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "406FAA1A-413E-4F5C-8157-7D7EEA13E8D5",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 48.590606,
+   "longitude": -93.40455
+  },
+  "properties": {
+   "orgName": "International Falls - MN (USA)",
+   "orgType": "CONG",
+   "address": "1500 3rd Ave W\nInternational Falls MN  56649",
+   "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:00",
+   "phones": [ "218 283-4684" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -95,7 +93,8 @@
   "isPrimary": 1,
   "location": {
    "latitude": 48.590606,
-   "longitude": -93.40455
+   "longitude": -93.40455,
+   "iso": "CAN"
   },
   "properties": {
    "orgName": "(Moved) International Falls - MN (USA)",
@@ -106,7 +105,7 @@
    "phones": [ "218 283-4684" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-30",
+  "lastVisit": "2023-12-27",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -118,8 +117,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 49.783337,
-   "longitude": -94.438645,
-   "iso": "CAN"
+   "longitude": -94.438645
   },
   "properties": {
    "orgName": "Kenora, ON",
@@ -130,8 +128,8 @@
    "phones": [ "807-407-8360" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -141,8 +139,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 49.802653,
-   "longitude": -92.84472,
-   "iso": "CAN"
+   "longitude": -92.84472
   },
   "properties": {
    "orgName": "Dryden, ON",
@@ -153,8 +150,8 @@
    "phones": [ "(866) 399-7888" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -164,20 +161,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 48.753307,
-   "longitude": -91.59608,
-   "iso": "CAN"
+   "longitude": -91.59608
   },
   "properties": {
    "orgName": "Atikokan, ON",
    "orgType": "CONG",
    "address": "206 Dorothy Street\nAtikokan ON  P0T 1C0",
    "languageCode": "E",
-   "schedule": "Sun 10:00 Wed 19:00",
+   "schedule": "Sun 11:00 Wed 19:00",
    "phones": [ "(807) 276-7985" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -187,8 +183,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 51.017204,
-   "longitude": -93.811542,
-   "iso": "CAN"
+   "longitude": -93.811542
   },
   "properties": {
    "orgName": "Red Lake, ON",
@@ -196,11 +191,11 @@
    "address": "60 Young Street\nRed Lake ON  P0V 2M0",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
-   "phones": [ "807 727 1914" ],
+   "phones": [ "807-237-0102" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -210,8 +205,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 48.421257,
-   "longitude": -89.270551,
-   "iso": "CAN"
+   "longitude": -89.270551
   },
   "properties": {
    "orgName": "Lakeshore, Thunder Bay, ON",
@@ -222,8 +216,8 @@
    "phones": [ "807-697-3381" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -233,8 +227,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 48.421257,
-   "longitude": -89.270551,
-   "iso": "CAN"
+   "longitude": -89.270551
   },
   "properties": {
    "orgName": "Silver Falls, Thunder Bay, ON",
@@ -245,8 +238,8 @@
    "phones": [ "807-697-3380" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-09-28",
-  "lastSeen": "2023-09-28",
+  "lastVisit": "2023-12-27",
+  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

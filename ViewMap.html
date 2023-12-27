@@ -99,7 +99,7 @@
 </div>
 
 <div style="overflow: hidden;">
-    <small><b>Normal:</b> Zoom into the map, and locations will load. Red outlined markers contain deleted.<br/><b>Abandoned Locations</b> are Unique GPS Coordinates that have once hosted a congregation, but no longer do, at that location. (Rounded to nearest 50m)</small>
+    <small><b>Normal:</b> Zoom into the map, and locations will load. Red outlined markers contain deleted congs.<br/><b>Abandoned Locations</b> are Unique GPS Coordinates that have once hosted a congregation, but no longer do, at that location. (Rounded to nearest 50m)</small>
     <div style="display: flex; gap: 0.3rem; flex-flow: wrap;">
         <div id="stats" style="display: flex; align-items: center; gap: 1rem; flex: 1; flex-flow: wrap; min-width: 300px">
             <h3 style="background: darkgreen; border-radius: 0.2rem; padding:0.2rem; color: white;">Active <span id="total">...</span></h3>
@@ -146,7 +146,7 @@
             scaledSize: new google.maps.Size(27, 38), // scaled size
             anchor: new google.maps.Point(13, 30) // anchor
         };
-        
+
         $.getJSON('./Meetings/init_data.json', (data) => {
             init_data = data;
             available_grids = init_data.grids;
