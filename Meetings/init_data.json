@@ -1,31 +1,32 @@
 {
  "typeTotals": {
-  "CONG": 114745,
-  "GROUP": 7026,
-  "PREGROUP": 79
+  "CONG": 119090,
+  "GROUP": 8056,
+  "PREGROUP": 88
  },
- "total": 121850,
- "totalActive": 118372,
- "totalInactive": 3478,
- "totalLocations": 66771,
- "activeLocations": 63688,
- "totalOrphans": 3083,
- "totalWithSchedules": 121759,
+ "total": 127234,
+ "totalActive": 125876,
+ "totalInactive": 1358,
+ "totalMoved": 1900,
+ "totalLocations": 68034,
+ "activeLocations": 63918,
+ "totalOrphans": 4116,
+ "totalWithSchedules": 127149,
  "languages": {
   "A": {
-   "count": 228,
+   "count": 218,
    "name": "Arabic",
    "signLang": false,
    "writeLang": [ "A" ]
   },
   "AA": {
-   "count": 6,
+   "count": 7,
    "name": "Igala",
    "signLang": false,
    "writeLang": [ "AA" ]
   },
   "AB": {
-   "count": 52,
+   "count": 47,
    "name": "Lamba",
    "signLang": false,
    "writeLang": [ "AB" ]
@@ -35,12 +36,6 @@
    "name": "Abbey",
    "signLang": false,
    "writeLang": [ "ABB" ]
-  },
-  "ABJ": {
-   "count": 1,
-   "name": "Abidji",
-   "signLang": false,
-   "writeLang": [ "ABJ" ]
   },
   "ABR": {
    "count": 1,
@@ -66,14 +61,8 @@
    "signLang": false,
    "writeLang": [ "ACR" ]
   },
-  "ACS": {
-   "count": 1,
-   "name": "Assyro-Chaldean (Silopi)",
-   "signLang": false,
-   "writeLang": [ "ACS" ]
-  },
   "ADH": {
-   "count": 2,
+   "count": 3,
    "name": "Adhola",
    "signLang": false,
    "writeLang": [ "ADH" ]
@@ -85,13 +74,13 @@
    "writeLang": [ "AE" ]
   },
   "AF": {
-   "count": 158,
+   "count": 176,
    "name": "Afrikaans",
    "signLang": false,
    "writeLang": [ "AF" ]
   },
   "AGC": {
-   "count": 1,
+   "count": 2,
    "name": "Chalchitec",
    "signLang": false,
    "writeLang": [ "AGC" ]
@@ -103,13 +92,13 @@
    "writeLang": [ "AH" ]
   },
   "AHK": {
-   "count": 5,
+   "count": 4,
    "name": "Ashaninka",
    "signLang": false,
    "writeLang": [ "AHK" ]
   },
   "AHN": {
-   "count": 10,
+   "count": 11,
    "name": "Ahanta",
    "signLang": false,
    "writeLang": [ "AHN" ]
@@ -121,13 +110,13 @@
    "writeLang": [ "AI" ]
   },
   "AJG": {
-   "count": 41,
+   "count": 44,
    "name": "Aja",
    "signLang": false,
    "writeLang": [ "AJG" ]
   },
   "AJR": {
-   "count": 25,
+   "count": 24,
    "name": "Azerbaijani",
    "signLang": false,
    "writeLang": [ "AJR" ]
@@ -145,19 +134,19 @@
    "writeLang": [ "AKA" ]
   },
   "AKN": {
-   "count": 19,
+   "count": 23,
    "name": "Aukan",
    "signLang": false,
    "writeLang": [ "AKN" ]
   },
   "AL": {
-   "count": 260,
+   "count": 256,
    "name": "Albanian",
    "signLang": false,
    "writeLang": [ "AL" ]
   },
   "ALN": {
-   "count": 4,
+   "count": 2,
    "name": "Arabic (Lebanon)",
    "signLang": false,
    "writeLang": [ "ALN" ]
@@ -169,13 +158,13 @@
    "writeLang": [ "ALS" ]
   },
   "ALU": {
-   "count": 51,
+   "count": 60,
    "name": "Alur",
    "signLang": false,
    "writeLang": [ "ALU" ]
   },
   "AM": {
-   "count": 168,
+   "count": 173,
    "name": "Amharic",
    "signLang": false,
    "writeLang": [ "AM" ]
@@ -193,19 +182,19 @@
    "writeLang": [ "AN" ]
   },
   "AO": {
-   "count": 36,
+   "count": 34,
    "name": "Baoule",
    "signLang": false,
    "writeLang": [ "AO" ]
   },
   "AP": {
-   "count": 77,
+   "count": 84,
    "name": "Aymara",
    "signLang": false,
    "writeLang": [ "AP" ]
   },
   "AR": {
-   "count": 5,
+   "count": 7,
    "name": "Bambara",
    "signLang": false,
    "writeLang": [ "AR" ]
@@ -217,19 +206,19 @@
    "writeLang": [ "ARH" ]
   },
   "ASL": {
-   "count": 394,
+   "count": 387,
    "name": "American Sign Language",
    "signLang": true,
    "writeLang": [ "ASL" ]
   },
   "ASN": {
-   "count": 26,
+   "count": 31,
    "name": "Arabic (Sudanese)",
    "signLang": false,
    "writeLang": [ "ASN" ]
   },
   "ATI": {
-   "count": 7,
+   "count": 9,
    "name": "Attié",
    "signLang": false,
    "writeLang": [ "ATI" ]
@@ -241,19 +230,19 @@
    "writeLang": [ "AU" ]
   },
   "AUS": {
-   "count": 29,
+   "count": 28,
    "name": "Australian Sign Language",
    "signLang": true,
    "writeLang": [ "AUS" ]
   },
   "AW": {
-   "count": 52,
+   "count": 60,
    "name": "Tshwa",
    "signLang": false,
    "writeLang": [ "AW" ]
   },
   "AWA": {
-   "count": 1,
+   "count": 2,
    "name": "Awapit",
    "signLang": false,
    "writeLang": [ "AWA" ]
@@ -265,31 +254,31 @@
    "writeLang": [ "AWN" ]
   },
   "AYI": {
-   "count": 5,
+   "count": 4,
    "name": "Anyin (Indenie)",
    "signLang": false,
    "writeLang": [ "AYI" ]
   },
   "AYN": {
-   "count": 3,
+   "count": 5,
    "name": "Anyin (Sanvi)",
    "signLang": false,
    "writeLang": [ "AYN" ]
   },
   "AZ": {
-   "count": 61,
+   "count": 65,
    "name": "Kazakh",
    "signLang": false,
    "writeLang": [ "AZ" ]
   },
   "AZG": {
-   "count": 2,
+   "count": 1,
    "name": "Amuzgo (Oaxaca)",
    "signLang": false,
    "writeLang": [ "AZG" ]
   },
   "B": {
-   "count": 215,
+   "count": 218,
    "name": "Czech",
    "signLang": false,
    "writeLang": [ "B" ]
@@ -319,7 +308,7 @@
    "writeLang": [ "BE" ]
   },
   "BEL": {
-   "count": 2,
+   "count": 1,
    "name": "Belorussian",
    "signLang": false,
    "writeLang": [ "BEL" ]
@@ -331,19 +320,19 @@
    "writeLang": [ "BH" ]
   },
   "BHL": {
-   "count": 7,
-   "name": "Bashilele",
+   "count": 8,
+   "name": "Bushilele",
    "signLang": false,
    "writeLang": [ "BHL" ]
   },
   "BHM": {
-   "count": 4,
+   "count": 3,
    "name": "Bhojpuri (Mauritius)",
    "signLang": false,
    "writeLang": [ "BHM" ]
   },
   "BI": {
-   "count": 92,
+   "count": 109,
    "name": "Bicol",
    "signLang": false,
    "writeLang": [ "BI" ]
@@ -391,7 +380,7 @@
    "writeLang": [ "BLL" ]
   },
   "BLS": {
-   "count": 8,
+   "count": 7,
    "name": "Bulgarian Sign Language",
    "signLang": true,
    "writeLang": [ "BLS" ]
@@ -403,19 +392,19 @@
    "writeLang": [ "BMB" ]
   },
   "BNS": {
-   "count": 2,
+   "count": 3,
    "name": "Blaan (Sarangani)",
    "signLang": false,
    "writeLang": [ "BNS" ]
   },
   "BO": {
-   "count": 22,
+   "count": 25,
    "name": "Boulou",
    "signLang": false,
    "writeLang": [ "BO" ]
   },
   "BQ": {
-   "count": 11,
+   "count": 9,
    "name": "Basque",
    "signLang": false,
    "writeLang": [ "BQ" ]
@@ -426,8 +415,14 @@
    "signLang": true,
    "writeLang": [ "BRS" ]
   },
+  "BRW": {
+   "count": 6,
+   "name": "Barwe",
+   "signLang": false,
+   "writeLang": [ "BRW" ]
+  },
   "BS": {
-   "count": 32,
+   "count": 33,
    "name": "Bassa (Cameroon)",
    "signLang": false,
    "writeLang": [ "BS" ]
@@ -445,37 +440,49 @@
    "writeLang": [ "BSG" ]
   },
   "BSL": {
-   "count": 15,
+   "count": 16,
    "name": "British Sign Language",
    "signLang": true,
    "writeLang": [ "BSL" ]
   },
   "BT": {
-   "count": 10,
+   "count": 9,
    "name": "Batak (Toba)",
    "signLang": false,
    "writeLang": [ "BT" ]
   },
+  "BTA": {
+   "count": 13,
+   "name": "Betsimisaraka (Southern)",
+   "signLang": false,
+   "writeLang": [ "BTA" ]
+  },
+  "BTO": {
+   "count": 36,
+   "name": "Betsileo",
+   "signLang": false,
+   "writeLang": [ "BTO" ]
+  },
+  "BTS": {
+   "count": 40,
+   "name": "Betsimisaraka (Northern)",
+   "signLang": false,
+   "writeLang": [ "BTS" ]
+  },
   "BU": {
-   "count": 119,
+   "count": 154,
    "name": "Myanmar",
    "signLang": false,
    "writeLang": [ "BU" ]
   },
-  "BUR": {
-   "count": 1,
-   "name": "Bura",
-   "signLang": false,
-   "writeLang": [ "BUR" ]
-  },
   "BUS": {
-   "count": 6,
+   "count": 8,
    "name": "Myanmar Sign Language",
    "signLang": true,
    "writeLang": [ "BUS" ]
   },
   "BVL": {
-   "count": 27,
+   "count": 26,
    "name": "Bolivian Sign Language",
    "signLang": true,
    "writeLang": [ "BVL" ]
@@ -487,13 +494,13 @@
    "writeLang": [ "BZK" ]
   },
   "C": {
-   "count": 169,
+   "count": 172,
    "name": "Croatian",
    "signLang": false,
    "writeLang": [ "C" ]
   },
   "CA": {
-   "count": 1008,
+   "count": 1064,
    "name": "Shona",
    "signLang": false,
    "writeLang": [ "CA" ]
@@ -505,7 +512,7 @@
    "writeLang": [ "CAB" ]
   },
   "CB": {
-   "count": 68,
+   "count": 67,
    "name": "Cambodian",
    "signLang": false,
    "writeLang": [ "CB" ]
@@ -517,7 +524,7 @@
    "writeLang": [ "CBE" ]
   },
   "CBL": {
-   "count": 2,
+   "count": 3,
    "name": "Cambodian Sign Language",
    "signLang": true,
    "writeLang": [ "CBL" ]
@@ -528,38 +535,38 @@
    "signLang": false,
    "writeLang": [ "CC" ]
   },
+  "CDG": {
+   "count": 2,
+   "name": "Chedungun (Coast)",
+   "signLang": false,
+   "writeLang": [ "CDG" ]
+  },
   "CE": {
-   "count": 41,
+   "count": 40,
    "name": "Mauritian Creole",
    "signLang": false,
    "writeLang": [ "CE" ]
   },
   "CEC": {
-   "count": 6,
+   "count": 7,
    "name": "Central American English Creole",
    "signLang": false,
    "writeLang": [ "CEC" ]
   },
   "CG": {
-   "count": 113,
+   "count": 117,
    "name": "Chitonga",
    "signLang": false,
    "writeLang": [ "CG" ]
   },
-  "CGA": {
-   "count": 1,
-   "name": "Changana (Zimbabwe)",
-   "signLang": false,
-   "writeLang": [ "CGA" ]
-  },
   "CGM": {
-   "count": 168,
+   "count": 219,
    "name": "Changana (Mozambique)",
    "signLang": false,
    "writeLang": [ "CGM" ]
   },
   "CGS": {
-   "count": 103,
+   "count": 107,
    "name": "Congolese Sign Language",
    "signLang": true,
    "writeLang": [ "CGS" ]
@@ -571,25 +578,19 @@
    "writeLang": [ "CGW" ]
   },
   "CHD": {
-   "count": 2,
+   "count": 1,
    "name": "Teochew",
    "signLang": false,
    "writeLang": [ "CHD" ]
   },
   "CHE": {
-   "count": 105,
+   "count": 104,
    "name": "Chinese (Cantonese)",
    "signLang": false,
    "writeLang": [
     "CHC",
     "CNS"
    ]
-  },
-  "CHF": {
-   "count": 1,
-   "name": "Chinese (Fuzhounese)",
-   "signLang": false,
-   "writeLang": [ "CHF" ]
   },
   "CHJ": {
    "count": 5,
@@ -598,13 +599,13 @@
    "writeLang": [ "CHJ" ]
   },
   "CHL": {
-   "count": 25,
+   "count": 24,
    "name": "Chol",
    "signLang": false,
    "writeLang": [ "CHL" ]
   },
   "CHM": {
-   "count": 876,
+   "count": 904,
    "name": "Chinese (Mandarin)",
    "signLang": false,
    "writeLang": [
@@ -613,7 +614,7 @@
    ]
   },
   "CHN": {
-   "count": 1,
+   "count": 2,
    "name": "Min Nan (Quanzhou)",
    "signLang": false,
    "writeLang": [ "CHN" ]
@@ -625,19 +626,19 @@
    "writeLang": [ "CHW" ]
   },
   "CI": {
-   "count": 1,
+   "count": 2,
    "name": "Chin (Tiddim)",
    "signLang": false,
    "writeLang": [ "CI" ]
   },
   "CIN": {
-   "count": 604,
+   "count": 640,
    "name": "Cinyanja",
    "signLang": false,
    "writeLang": [ "CIN" ]
   },
   "CK": {
-   "count": 50,
+   "count": 51,
    "name": "Chokwe",
    "signLang": false,
    "writeLang": [ "CK" ]
@@ -648,12 +649,6 @@
    "signLang": false,
    "writeLang": [ "CKE" ]
   },
-  "CLC": {
-   "count": 2,
-   "name": "Chontal (Tabasco, Central)",
-   "signLang": false,
-   "writeLang": [ "CLC" ]
-  },
   "CLE": {
    "count": 1,
    "name": "Chontal (Tabasco, East)",
@@ -661,7 +656,7 @@
    "writeLang": [ "CLE" ]
   },
   "CLO": {
-   "count": 3,
+   "count": 2,
    "name": "Caló",
    "signLang": false,
    "writeLang": [ "CLO" ]
@@ -673,13 +668,13 @@
    "writeLang": [ "CLX" ]
   },
   "CML": {
-   "count": 10,
+   "count": 26,
    "name": "Cameroon Sign Language",
    "signLang": true,
    "writeLang": [ "CML" ]
   },
   "CN": {
-   "count": 2444,
+   "count": 2735,
    "name": "Chichewa",
    "signLang": false,
    "writeLang": [ "CN" ]
@@ -709,13 +704,13 @@
    "writeLang": [ "CNU" ]
   },
   "CNV": {
-   "count": 2,
+   "count": 1,
    "name": "Chinantec (Valle Nacional)",
    "signLang": false,
    "writeLang": [ "CNV" ]
   },
   "CO": {
-   "count": 20,
+   "count": 21,
    "name": "Chuabo",
    "signLang": false,
    "writeLang": [ "CO" ]
@@ -733,7 +728,7 @@
    "writeLang": [ "CPC" ]
   },
   "CPI": {
-   "count": 12,
+   "count": 16,
    "name": "Chopi",
    "signLang": false,
    "writeLang": [ "CPI" ]
@@ -751,7 +746,7 @@
    "writeLang": [ "CQ" ]
   },
   "CQC": {
-   "count": 5,
+   "count": 7,
    "name": "Cakchiquel (Central)",
    "signLang": false,
    "writeLang": [ "CQC" ]
@@ -763,22 +758,28 @@
    "writeLang": [ "CQE" ]
   },
   "CQS": {
-   "count": 1,
+   "count": 2,
    "name": "Cakchiquel (Santa María de Jesús)",
    "signLang": false,
    "writeLang": [ "CQS" ]
   },
   "CR": {
-   "count": 718,
+   "count": 738,
    "name": "Haitian Creole",
    "signLang": false,
    "writeLang": [ "CR" ]
   },
   "CRB": {
-   "count": 1,
+   "count": 2,
    "name": "Carib",
    "signLang": false,
    "writeLang": [ "CRB" ]
+  },
+  "CRE": {
+   "count": 2,
+   "name": "San Andrés Creole",
+   "signLang": false,
+   "writeLang": [ "CRE" ]
   },
   "CRS": {
    "count": 1,
@@ -787,13 +788,13 @@
    "writeLang": [ "CRS" ]
   },
   "CSC": {
-   "count": 3,
+   "count": 1,
    "name": "Corsican",
    "signLang": false,
    "writeLang": [ "CSC" ]
   },
   "CSE": {
-   "count": 11,
+   "count": 10,
    "name": "Czech Sign Language",
    "signLang": true,
    "writeLang": [ "CSE" ]
@@ -805,19 +806,19 @@
    "writeLang": [ "CSL" ]
   },
   "CT": {
-   "count": 68,
+   "count": 72,
    "name": "Chitonga (Malawi)",
    "signLang": false,
    "writeLang": [ "CT" ]
   },
   "CV": {
-   "count": 1199,
+   "count": 1268,
    "name": "Cebuano",
    "signLang": false,
    "writeLang": [ "CV" ]
   },
   "CW": {
-   "count": 1959,
+   "count": 2063,
    "name": "Cibemba",
    "signLang": false,
    "writeLang": [ "CW" ]
@@ -829,19 +830,25 @@
    "writeLang": [ "CYO" ]
   },
   "D": {
-   "count": 167,
+   "count": 171,
    "name": "Danish",
    "signLang": false,
    "writeLang": [ "D" ]
   },
   "DA": {
-   "count": 17,
+   "count": 18,
    "name": "Douala",
    "signLang": false,
    "writeLang": [ "DA" ]
   },
+  "DAR": {
+   "count": 1,
+   "name": "Dari",
+   "signLang": false,
+   "writeLang": [ "DAR" ]
+  },
   "DG": {
-   "count": 92,
+   "count": 97,
    "name": "Dangme",
    "signLang": false,
    "writeLang": [ "DG" ]
@@ -859,7 +866,7 @@
    "writeLang": [ "DGB" ]
   },
   "DGS": {
-   "count": 52,
+   "count": 51,
    "name": "German Sign Language",
    "signLang": true,
    "writeLang": [ "DGS" ]
@@ -871,7 +878,7 @@
    "writeLang": [ "DI" ]
   },
   "DM": {
-   "count": 9,
+   "count": 15,
    "name": "Sidama",
    "signLang": false,
    "writeLang": [ "DM" ]
@@ -907,7 +914,7 @@
    "writeLang": [ "DTM" ]
   },
   "E": {
-   "count": 16629,
+   "count": 17034,
    "name": "English",
    "signLang": false,
    "writeLang": [ "E" ]
@@ -918,20 +925,14 @@
    "signLang": false,
    "writeLang": [ "EBA" ]
   },
-  "EBR": {
-   "count": 1,
-   "name": "Ebrié",
-   "signLang": false,
-   "writeLang": [ "EBR" ]
-  },
   "ED": {
-   "count": 27,
+   "count": 26,
    "name": "Edo",
    "signLang": false,
    "writeLang": [ "ED" ]
   },
   "EF": {
-   "count": 479,
+   "count": 493,
    "name": "Efik",
    "signLang": false,
    "writeLang": [ "EF" ]
@@ -943,19 +944,19 @@
    "writeLang": [ "EG" ]
   },
   "ELI": {
-   "count": 112,
+   "count": 125,
    "name": "Liberian English",
    "signLang": false,
    "writeLang": [ "ELI" ]
   },
   "EMB": {
-   "count": 4,
+   "count": 5,
    "name": "Emberá (Catío)",
    "signLang": false,
    "writeLang": [ "EMB" ]
   },
   "EMC": {
-   "count": 5,
+   "count": 8,
    "name": "Emberá (Chamí)",
    "signLang": false,
    "writeLang": [ "EMC" ]
@@ -965,12 +966,6 @@
    "name": "Emberá (Northern)",
    "signLang": false,
    "writeLang": [ "EMP" ]
-  },
-  "ENG": {
-   "count": 1,
-   "name": "English (Nigeria)",
-   "signLang": false,
-   "writeLang": [ "ENG" ]
   },
   "ENW": {
    "count": 1,
@@ -991,31 +986,31 @@
    "writeLang": [ "ET" ]
   },
   "ETN": {
-   "count": 7,
+   "count": 9,
    "name": "Eton",
    "signLang": false,
    "writeLang": [ "ETN" ]
   },
   "EW": {
-   "count": 557,
+   "count": 589,
    "name": "Ewe",
    "signLang": false,
    "writeLang": [ "EW" ]
   },
   "EWN": {
-   "count": 6,
+   "count": 8,
    "name": "Ewondo",
    "signLang": false,
    "writeLang": [ "EWN" ]
   },
   "F": {
-   "count": 3945,
+   "count": 4181,
    "name": "French",
    "signLang": false,
    "writeLang": [ "F" ]
   },
   "FA": {
-   "count": 159,
+   "count": 171,
    "name": "Fante",
    "signLang": false,
    "writeLang": [ "FA" ]
@@ -1033,13 +1028,13 @@
    "writeLang": [ "FF" ]
   },
   "FGN": {
-   "count": 21,
+   "count": 22,
    "name": "Fang",
    "signLang": false,
    "writeLang": [ "FGN" ]
   },
   "FI": {
-   "count": 294,
+   "count": 300,
    "name": "Finnish",
    "signLang": false,
    "writeLang": [ "FI" ]
@@ -1057,13 +1052,13 @@
    "writeLang": [ "FJS" ]
   },
   "FN": {
-   "count": 51,
+   "count": 56,
    "name": "Fijian",
    "signLang": false,
    "writeLang": [ "FN" ]
   },
   "FO": {
-   "count": 74,
+   "count": 93,
    "name": "Fon",
    "signLang": false,
    "writeLang": [ "FO" ]
@@ -1075,13 +1070,13 @@
    "writeLang": [ "FR" ]
   },
   "FSL": {
-   "count": 136,
+   "count": 140,
    "name": "Filipino Sign Language",
    "signLang": true,
    "writeLang": [ "FSL" ]
   },
   "FT": {
-   "count": 2,
+   "count": 3,
    "name": "Futuna (East)",
    "signLang": false,
    "writeLang": [ "FT" ]
@@ -1093,13 +1088,13 @@
    "writeLang": [ "FTK" ]
   },
   "G": {
-   "count": 407,
+   "count": 415,
    "name": "Greek",
    "signLang": false,
    "writeLang": [ "G" ]
   },
   "GA": {
-   "count": 165,
+   "count": 170,
    "name": "Ga",
    "signLang": false,
    "writeLang": [ "GA" ]
@@ -1111,7 +1106,7 @@
    "writeLang": [ "GAA" ]
   },
   "GB": {
-   "count": 6,
+   "count": 10,
    "name": "Kiribati",
    "signLang": false,
    "writeLang": [ "GB" ]
@@ -1123,43 +1118,55 @@
    "writeLang": [ "GBA" ]
   },
   "GBM": {
-   "count": 3,
+   "count": 2,
    "name": "Guambiano",
    "signLang": false,
    "writeLang": [ "GBM" ]
   },
   "GBR": {
-   "count": 3,
+   "count": 2,
    "name": "Jiw",
    "signLang": false,
    "writeLang": [ "GBR" ]
   },
   "GC": {
-   "count": 10,
+   "count": 8,
    "name": "Irish",
    "signLang": false,
    "writeLang": [ "GC" ]
   },
+  "GCE": {
+   "count": 2,
+   "name": "Guyanese Creole English",
+   "signLang": false,
+   "writeLang": [ "GCE" ]
+  },
   "GCR": {
-   "count": 47,
+   "count": 49,
    "name": "Guadeloupean Creole",
    "signLang": false,
    "writeLang": [ "GCR" ]
   },
+  "GCS": {
+   "count": 1,
+   "name": "Scottish Gaelic",
+   "signLang": false,
+   "writeLang": [ "GCS" ]
+  },
   "GDE": {
-   "count": 2,
+   "count": 4,
    "name": "Gedeufa",
    "signLang": false,
    "writeLang": [ "GDE" ]
   },
   "GE": {
-   "count": 195,
+   "count": 207,
    "name": "Georgian",
    "signLang": false,
    "writeLang": [ "GE" ]
   },
   "GHB": {
-   "count": 8,
+   "count": 10,
    "name": "Guahibo",
    "signLang": false,
    "writeLang": [ "GHB" ]
@@ -1171,13 +1178,13 @@
    "writeLang": [ "GHM" ]
   },
   "GHS": {
-   "count": 102,
+   "count": 108,
    "name": "Ghanaian Sign Language",
    "signLang": true,
    "writeLang": [ "GHS" ]
   },
   "GI": {
-   "count": 181,
+   "count": 187,
    "name": "Guarani",
    "signLang": false,
    "writeLang": [ "GI" ]
@@ -1195,7 +1202,7 @@
    "writeLang": [ "GJJ" ]
   },
   "GK": {
-   "count": 26,
+   "count": 30,
    "name": "Kekchi",
    "signLang": false,
    "writeLang": [ "GK" ]
@@ -1225,13 +1232,13 @@
    "writeLang": [ "GNC" ]
   },
   "GO": {
-   "count": 2,
+   "count": 1,
    "name": "Gouro",
    "signLang": false,
    "writeLang": [ "GO" ]
   },
   "GRB": {
-   "count": 1,
+   "count": 2,
    "name": "Grebo",
    "signLang": false,
    "writeLang": [ "GRB" ]
@@ -1243,7 +1250,7 @@
    "writeLang": [ "GRC" ]
   },
   "GRF": {
-   "count": 16,
+   "count": 17,
    "name": "Garifuna",
    "signLang": false,
    "writeLang": [ "GRF" ]
@@ -1255,19 +1262,19 @@
    "writeLang": [ "GRZ" ]
   },
   "GSL": {
-   "count": 6,
+   "count": 7,
    "name": "Greek Sign Language",
    "signLang": true,
    "writeLang": [ "GSL" ]
   },
   "GTN": {
-   "count": 17,
+   "count": 20,
    "name": "Gitonga",
    "signLang": false,
    "writeLang": [ "GTN" ]
   },
   "GU": {
-   "count": 27,
+   "count": 24,
    "name": "Gujarati",
    "signLang": false,
    "writeLang": [ "GU" ]
@@ -1279,19 +1286,19 @@
    "writeLang": [ "GUR" ]
   },
   "H": {
-   "count": 484,
+   "count": 488,
    "name": "Hungarian",
    "signLang": false,
    "writeLang": [ "H" ]
   },
   "HA": {
-   "count": 33,
+   "count": 37,
    "name": "Hausa",
    "signLang": false,
    "writeLang": [ "HA" ]
   },
   "HCH": {
-   "count": 9,
+   "count": 11,
    "name": "Wixárika",
    "signLang": false,
    "writeLang": [ "HCH" ]
@@ -1303,19 +1310,19 @@
    "writeLang": [ "HDF" ]
   },
   "HI": {
-   "count": 262,
+   "count": 276,
    "name": "Hindi",
    "signLang": false,
    "writeLang": [ "HI" ]
   },
   "HK": {
-   "count": 8,
+   "count": 12,
    "name": "Chin (Hakha)",
    "signLang": false,
    "writeLang": [ "HK" ]
   },
   "HM": {
-   "count": 26,
+   "count": 23,
    "name": "Hmong (White)",
    "signLang": false,
    "writeLang": [ "HM" ]
@@ -1327,19 +1334,19 @@
    "writeLang": [ "HR" ]
   },
   "HSK": {
-   "count": 24,
+   "count": 18,
    "name": "Hunsrik",
    "signLang": false,
    "writeLang": [ "HSK" ]
   },
   "HST": {
-   "count": 15,
+   "count": 13,
    "name": "Huastec (San Luis Potosi)",
    "signLang": false,
    "writeLang": [ "HST" ]
   },
   "HSV": {
-   "count": 6,
+   "count": 7,
    "name": "Huastec (Veracruz)",
    "signLang": false,
    "writeLang": [ "HSV" ]
@@ -1351,19 +1358,19 @@
    "writeLang": [ "HUV" ]
   },
   "HV": {
-   "count": 208,
+   "count": 218,
    "name": "Hiligaynon",
    "signLang": false,
    "writeLang": [ "HV" ]
   },
   "HVU": {
-   "count": 9,
+   "count": 13,
    "name": "Havu",
    "signLang": false,
    "writeLang": [ "HVU" ]
   },
   "HW": {
-   "count": 1,
+   "count": 5,
    "name": "Hawaiian",
    "signLang": false,
    "writeLang": [ "HW" ]
@@ -1375,7 +1382,7 @@
    "writeLang": [ "HWI" ]
   },
   "HWP": {
-   "count": 33,
+   "count": 34,
    "name": "Hawai’i Pidgin",
    "signLang": false,
    "writeLang": [ "HWP" ]
@@ -1387,37 +1394,37 @@
    "writeLang": [ "HY" ]
   },
   "HZJ": {
-   "count": 10,
+   "count": 9,
    "name": "Croatian Sign Language",
    "signLang": true,
    "writeLang": [ "HZJ" ]
   },
   "I": {
-   "count": 3072,
+   "count": 3097,
    "name": "Italian",
    "signLang": false,
    "writeLang": [ "I" ]
   },
   "IA": {
-   "count": 13,
+   "count": 14,
    "name": "Iban",
    "signLang": false,
    "writeLang": [ "IA" ]
   },
   "IB": {
-   "count": 1104,
+   "count": 1115,
    "name": "Igbo",
    "signLang": false,
    "writeLang": [ "IB" ]
   },
   "IBI": {
-   "count": 18,
+   "count": 19,
    "name": "Ibinda",
    "signLang": false,
    "writeLang": [ "IBI" ]
   },
   "IBL": {
-   "count": 9,
+   "count": 13,
    "name": "Ibaloi",
    "signLang": false,
    "writeLang": [ "IBL" ]
@@ -1429,19 +1436,19 @@
    "writeLang": [ "IC" ]
   },
   "ID": {
-   "count": 10,
+   "count": 9,
    "name": "Idoma",
    "signLang": false,
    "writeLang": [ "ID" ]
   },
   "IE": {
-   "count": 5,
+   "count": 6,
    "name": "Ateso",
    "signLang": false,
    "writeLang": [ "IE" ]
   },
   "IG": {
-   "count": 15,
+   "count": 16,
    "name": "Ibanag",
    "signLang": false,
    "writeLang": [ "IG" ]
@@ -1459,31 +1466,31 @@
    "writeLang": [ "IH" ]
   },
   "II": {
-   "count": 4,
+   "count": 2,
    "name": "Kisii",
    "signLang": false,
    "writeLang": [ "II" ]
   },
   "IJ": {
-   "count": 39,
+   "count": 40,
    "name": "Ijaw",
    "signLang": false,
    "writeLang": [ "IJ" ]
   },
   "IK": {
-   "count": 2,
+   "count": 1,
    "name": "Biak",
    "signLang": false,
    "writeLang": [ "IK" ]
   },
   "IKN": {
-   "count": 22,
+   "count": 21,
    "name": "Inakeanon",
    "signLang": false,
    "writeLang": [ "IKN" ]
   },
   "IL": {
-   "count": 699,
+   "count": 712,
    "name": "Iloko",
    "signLang": false,
    "writeLang": [ "IL" ]
@@ -1495,7 +1502,7 @@
    "writeLang": [ "IMN" ]
   },
   "IN": {
-   "count": 571,
+   "count": 588,
    "name": "Indonesian",
    "signLang": false,
    "writeLang": [ "IN" ]
@@ -1507,13 +1514,13 @@
    "writeLang": [ "INI" ]
   },
   "INS": {
-   "count": 111,
+   "count": 110,
    "name": "Indian Sign Language",
    "signLang": true,
    "writeLang": [ "INS" ]
   },
   "IS": {
-   "count": 60,
+   "count": 62,
    "name": "Isoko",
    "signLang": false,
    "writeLang": [ "IS" ]
@@ -1525,19 +1532,19 @@
    "writeLang": [ "ISG" ]
   },
   "ISL": {
-   "count": 63,
+   "count": 58,
    "name": "Italian Sign Language",
    "signLang": true,
    "writeLang": [ "ISL" ]
   },
   "IT": {
-   "count": 5,
+   "count": 6,
    "name": "Itsekiri",
    "signLang": false,
    "writeLang": [ "IT" ]
   },
   "ITW": {
-   "count": 15,
+   "count": 18,
    "name": "Itawit",
    "signLang": false,
    "writeLang": [ "ITW" ]
@@ -1549,7 +1556,7 @@
    "writeLang": [ "IXL" ]
   },
   "J": {
-   "count": 3007,
+   "count": 3057,
    "name": "Japanese",
    "signLang": false,
    "writeLang": [ "J" ]
@@ -1573,25 +1580,25 @@
    "writeLang": [ "JC" ]
   },
   "JCR": {
-   "count": 65,
+   "count": 81,
    "name": "Jamaican Creole",
    "signLang": false,
    "writeLang": [ "JCR" ]
   },
   "JL": {
-   "count": 15,
+   "count": 13,
    "name": "Jula",
    "signLang": false,
    "writeLang": [ "JL" ]
   },
   "JML": {
-   "count": 14,
+   "count": 12,
    "name": "Jamaican Sign Language",
    "signLang": true,
    "writeLang": [ "JML" ]
   },
   "JSL": {
-   "count": 50,
+   "count": 76,
    "name": "Japanese Sign Language",
    "signLang": true,
    "writeLang": [ "JSL" ]
@@ -1603,13 +1610,13 @@
    "writeLang": [ "JWK" ]
   },
   "K": {
-   "count": 752,
+   "count": 819,
    "name": "Ukrainian",
    "signLang": false,
    "writeLang": [ "K" ]
   },
   "KA": {
-   "count": 61,
+   "count": 66,
    "name": "Kannada",
    "signLang": false,
    "writeLang": [ "KA" ]
@@ -1621,13 +1628,13 @@
    "writeLang": [ "KAA" ]
   },
   "KAB": {
-   "count": 26,
+   "count": 29,
    "name": "Kabiye",
    "signLang": false,
    "writeLang": [ "KAB" ]
   },
   "KAN": {
-   "count": 2,
+   "count": 1,
    "name": "Akateko",
    "signLang": false,
    "writeLang": [ "KAN" ]
@@ -1651,7 +1658,7 @@
    "writeLang": [ "KBL" ]
   },
   "KBV": {
-   "count": 70,
+   "count": 77,
    "name": "Kabuverdianu",
    "signLang": false,
    "writeLang": [ "KBV" ]
@@ -1663,37 +1670,37 @@
    "writeLang": [ "KBY" ]
   },
   "KD": {
-   "count": 139,
+   "count": 143,
    "name": "Kikaonde",
    "signLang": false,
    "writeLang": [ "KD" ]
   },
   "KDA": {
-   "count": 3,
+   "count": 5,
    "name": "Kunda",
    "signLang": false,
    "writeLang": [ "KDA" ]
   },
   "KFL": {
-   "count": 1,
+   "count": 4,
    "name": "Kifulero",
    "signLang": false,
    "writeLang": [ "KFL" ]
   },
   "KG": {
-   "count": 62,
+   "count": 63,
    "name": "Kikongo",
    "signLang": false,
    "writeLang": [ "KG" ]
   },
   "KGG": {
-   "count": 4,
+   "count": 5,
    "name": "Kaingang",
    "signLang": false,
    "writeLang": [ "KGG" ]
   },
   "KGL": {
-   "count": 17,
+   "count": 20,
    "name": "Kikongo ya Leta",
    "signLang": false,
    "writeLang": [ "KGL" ]
@@ -1711,7 +1718,7 @@
    "writeLang": [ "KHA" ]
   },
   "KHB": {
-   "count": 11,
+   "count": 10,
    "name": "Kihemba",
    "signLang": false,
    "writeLang": [ "KHB" ]
@@ -1723,31 +1730,31 @@
    "writeLang": [ "KHN" ]
   },
   "KI": {
-   "count": 26,
+   "count": 29,
    "name": "Kisi",
    "signLang": false,
    "writeLang": [ "KI" ]
   },
   "KIM": {
-   "count": 74,
+   "count": 76,
    "name": "Kimbundu",
    "signLang": false,
    "writeLang": [ "KIM" ]
   },
   "KIN": {
-   "count": 83,
+   "count": 100,
    "name": "Kinande",
    "signLang": false,
    "writeLang": [ "KIN" ]
   },
   "KIP": {
-   "count": 101,
+   "count": 100,
    "name": "Kipende",
    "signLang": false,
    "writeLang": [ "KIP" ]
   },
   "KIT": {
-   "count": 38,
+   "count": 44,
    "name": "Kituba",
    "signLang": false,
    "writeLang": [ "KIT" ]
@@ -1759,31 +1766,31 @@
    "writeLang": [ "KJ" ]
   },
   "KKB": {
-   "count": 2,
+   "count": 4,
    "name": "Konkomba",
    "signLang": false,
    "writeLang": [ "KKB" ]
   },
   "KKL": {
-   "count": 36,
+   "count": 43,
    "name": "Kokola",
    "signLang": false,
    "writeLang": [ "KKL" ]
   },
   "KL": {
-   "count": 3,
+   "count": 2,
    "name": "Kalanga (Botswana)",
    "signLang": false,
    "writeLang": [ "KL" ]
   },
   "KLG": {
-   "count": 3,
+   "count": 7,
    "name": "Kalanguya",
    "signLang": false,
    "writeLang": [ "KLG" ]
   },
   "KMR": {
-   "count": 2,
+   "count": 1,
    "name": "Kanamarí",
    "signLang": false,
    "writeLang": [ "KMR" ]
@@ -1795,16 +1802,10 @@
    "writeLang": [ "KMY" ]
   },
   "KN": {
-   "count": 1,
+   "count": 2,
    "name": "Konkani (Kannada)",
    "signLang": false,
    "writeLang": [ "KN" ]
-  },
-  "KND": {
-   "count": 1,
-   "name": "Konkani (Devanagari)",
-   "signLang": false,
-   "writeLang": [ "KND" ]
   },
   "KNR": {
    "count": 18,
@@ -1813,13 +1814,13 @@
    "writeLang": [ "KNR" ]
   },
   "KNY": {
-   "count": 22,
+   "count": 41,
    "name": "Kankanaey",
    "signLang": false,
    "writeLang": [ "KNY" ]
   },
   "KO": {
-   "count": 1407,
+   "count": 1417,
    "name": "Korean",
    "signLang": false,
    "writeLang": [ "KO" ]
@@ -1831,25 +1832,25 @@
    "writeLang": [ "KP" ]
   },
   "KQ": {
-   "count": 112,
+   "count": 115,
    "name": "Kikuyu",
    "signLang": false,
    "writeLang": [ "KQ" ]
   },
   "KR": {
-   "count": 36,
+   "count": 37,
    "name": "Karen (S'gaw)",
    "signLang": false,
    "writeLang": [ "KR" ]
   },
   "KRI": {
-   "count": 35,
+   "count": 41,
    "name": "Krio",
    "signLang": false,
    "writeLang": [ "KRI" ]
   },
   "KRJ": {
-   "count": 3,
+   "count": 2,
    "name": "Karajá",
    "signLang": false,
    "writeLang": [ "KRJ" ]
@@ -1861,13 +1862,13 @@
    "writeLang": [ "KS" ]
   },
   "KSI": {
-   "count": 12,
+   "count": 13,
    "name": "Kenyan Sign Language",
    "signLang": true,
    "writeLang": [ "KSI" ]
   },
   "KSL": {
-   "count": 40,
+   "count": 43,
    "name": "Korean Sign Language",
    "signLang": true,
    "writeLang": [ "KSL" ]
@@ -1879,7 +1880,7 @@
    "writeLang": [ "KSM" ]
   },
   "KSN": {
-   "count": 37,
+   "count": 39,
    "name": "Kisonge",
    "signLang": false,
    "writeLang": [ "KSN" ]
@@ -1891,7 +1892,7 @@
    "writeLang": [ "KT" ]
   },
   "KU": {
-   "count": 191,
+   "count": 199,
    "name": "Kiluba",
    "signLang": false,
    "writeLang": [ "KU" ]
@@ -1933,13 +1934,13 @@
    "writeLang": [ "KY" ]
   },
   "KYK": {
-   "count": 13,
+   "count": 16,
    "name": "Kanyok",
    "signLang": false,
    "writeLang": [ "KYK" ]
   },
   "KZ": {
-   "count": 39,
+   "count": 40,
    "name": "Kirghiz",
    "signLang": false,
    "writeLang": [ "KZ" ]
@@ -1951,7 +1952,7 @@
    "writeLang": [ "L" ]
   },
   "LA": {
-   "count": 4,
+   "count": 5,
    "name": "Laotian",
    "signLang": false,
    "writeLang": [ "LA" ]
@@ -1963,10 +1964,16 @@
    "writeLang": [ "LAH" ]
   },
   "LAS": {
-   "count": 55,
+   "count": 67,
    "name": "Angolan Sign Language",
    "signLang": true,
    "writeLang": [ "LAS" ]
+  },
+  "LC": {
+   "count": 2,
+   "name": "Luchazi",
+   "signLang": false,
+   "writeLang": [ "LC" ]
   },
   "LCE": {
    "count": 2,
@@ -1981,13 +1988,13 @@
    "writeLang": [ "LD" ]
   },
   "LE": {
-   "count": 79,
+   "count": 111,
    "name": "Lomwe",
    "signLang": false,
    "writeLang": [ "LE" ]
   },
   "LF": {
-   "count": 7,
+   "count": 8,
    "name": "Drehu",
    "signLang": false,
    "writeLang": [ "LF" ]
@@ -2005,34 +2012,40 @@
    "writeLang": [ "LGA" ]
   },
   "LGP": {
-   "count": 18,
+   "count": 17,
    "name": "Portuguese Sign Language",
    "signLang": true,
    "writeLang": [ "LGP" ]
   },
+  "LH": {
+   "count": 8,
+   "name": "Samia",
+   "signLang": false,
+   "writeLang": [ "LH" ]
+  },
   "LHK": {
-   "count": 9,
+   "count": 10,
    "name": "Lhukonzo",
    "signLang": false,
    "writeLang": [ "LHK" ]
   },
   "LI": {
-   "count": 1645,
+   "count": 1783,
    "name": "Lingala",
    "signLang": false,
    "writeLang": [ "LI" ]
   },
+  "LIN": {
+   "count": 3,
+   "name": "Lingombe",
+   "signLang": false,
+   "writeLang": [ "LIN" ]
+  },
   "LJ": {
-   "count": 32,
+   "count": 36,
    "name": "Lenje",
    "signLang": false,
    "writeLang": [ "LJ" ]
-  },
-  "LK": {
-   "count": 1,
-   "name": "Bukusu",
-   "signLang": false,
-   "writeLang": [ "LK" ]
   },
   "LL": {
    "count": 5,
@@ -2041,19 +2054,19 @@
    "writeLang": [ "LL" ]
   },
   "LLB": {
-   "count": 22,
+   "count": 21,
    "name": "Lala-Bisa",
    "signLang": false,
    "writeLang": [ "LLB" ]
   },
   "LLO": {
-   "count": 19,
+   "count": 22,
    "name": "Lolo",
    "signLang": false,
    "writeLang": [ "LLO" ]
   },
   "LM": {
-   "count": 19,
+   "count": 25,
    "name": "Bislama",
    "signLang": false,
    "writeLang": [ "LM" ]
@@ -2065,7 +2078,7 @@
    "writeLang": [ "LMB" ]
   },
   "LMG": {
-   "count": 19,
+   "count": 18,
    "name": "Romanian Sign Language",
    "signLang": true,
    "writeLang": [ "LMG" ]
@@ -2083,19 +2096,19 @@
    "writeLang": [ "LND" ]
   },
   "LO": {
-   "count": 59,
+   "count": 63,
    "name": "Luo",
    "signLang": false,
    "writeLang": [ "LO" ]
   },
   "LOM": {
-   "count": 2,
+   "count": 3,
    "name": "Lomongo",
    "signLang": false,
    "writeLang": [ "LOM" ]
   },
   "LR": {
-   "count": 8,
+   "count": 7,
    "name": "Lari",
    "signLang": false,
    "writeLang": [ "LR" ]
@@ -2107,19 +2120,19 @@
    "writeLang": [ "LS" ]
   },
   "LSA": {
-   "count": 124,
+   "count": 123,
    "name": "Argentinean Sign Language",
    "signLang": true,
    "writeLang": [ "LSA" ]
   },
   "LSB": {
-   "count": 910,
+   "count": 907,
    "name": "Brazilian Sign Language",
    "signLang": true,
    "writeLang": [ "LSB" ]
   },
   "LSC": {
-   "count": 55,
+   "count": 61,
    "name": "Colombian Sign Language",
    "signLang": true,
    "writeLang": [ "LSC" ]
@@ -2131,19 +2144,19 @@
    "writeLang": [ "LSE" ]
   },
   "LSF": {
-   "count": 78,
+   "count": 80,
    "name": "French Sign Language",
    "signLang": true,
    "writeLang": [ "LSF" ]
   },
   "LSG": {
-   "count": 44,
+   "count": 45,
    "name": "Guatemalan Sign Language",
    "signLang": true,
    "writeLang": [ "LSG" ]
   },
   "LSI": {
-   "count": 16,
+   "count": 21,
    "name": "Ivorian Sign Language",
    "signLang": true,
    "writeLang": [ "LSI" ]
@@ -2155,61 +2168,61 @@
    "writeLang": [ "LSL" ]
   },
   "LSM": {
-   "count": 414,
+   "count": 423,
    "name": "Mexican Sign Language",
    "signLang": true,
    "writeLang": [ "LSM" ]
   },
   "LSN": {
-   "count": 25,
+   "count": 24,
    "name": "Nicaraguan Sign Language",
    "signLang": true,
    "writeLang": [ "LSN" ]
   },
   "LSP": {
-   "count": 8,
+   "count": 7,
    "name": "Paraguayan Sign Language",
    "signLang": true,
    "writeLang": [ "LSP" ]
   },
   "LSQ": {
-   "count": 3,
+   "count": 5,
    "name": "Quebec Sign Language",
    "signLang": true,
    "writeLang": [ "LSQ" ]
   },
   "LSS": {
-   "count": 24,
+   "count": 26,
    "name": "Salvadoran Sign Language",
    "signLang": true,
    "writeLang": [ "LSS" ]
   },
   "LSU": {
-   "count": 13,
+   "count": 15,
    "name": "Uruguayan Sign Language",
    "signLang": true,
    "writeLang": [ "LSU" ]
   },
   "LSV": {
-   "count": 86,
+   "count": 90,
    "name": "Venezuelan Sign Language",
    "signLang": true,
    "writeLang": [ "LSV" ]
   },
   "LT": {
-   "count": 26,
+   "count": 28,
    "name": "Latvian",
    "signLang": false,
    "writeLang": [ "LT" ]
   },
   "LTS": {
-   "count": 6,
+   "count": 7,
    "name": "Lithuanian Sign Language",
    "signLang": true,
    "writeLang": [ "LTS" ]
   },
   "LU": {
-   "count": 66,
+   "count": 68,
    "name": "Luganda",
    "signLang": false,
    "writeLang": [ "LU" ]
@@ -2221,7 +2234,7 @@
    "writeLang": [ "LUC" ]
   },
   "LV": {
-   "count": 44,
+   "count": 45,
    "name": "Luvale",
    "signLang": false,
    "writeLang": [ "LV" ]
@@ -2233,25 +2246,25 @@
    "writeLang": [ "LVA" ]
   },
   "LWX": {
-   "count": 17,
+   "count": 16,
    "name": "Low German",
    "signLang": false,
    "writeLang": [ "LWX" ]
   },
   "M": {
-   "count": 1013,
+   "count": 1050,
    "name": "Romanian",
    "signLang": false,
    "writeLang": [ "M" ]
   },
   "MAC": {
-   "count": 51,
+   "count": 70,
    "name": "Macua",
    "signLang": false,
    "writeLang": [ "MAC" ]
   },
   "MAI": {
-   "count": 4,
+   "count": 1,
    "name": "Mazatec (Ixcatlán)",
    "signLang": false,
    "writeLang": [ "MAI" ]
@@ -2274,14 +2287,8 @@
    "signLang": false,
    "writeLang": [ "MAP" ]
   },
-  "MAS": {
-   "count": 3,
-   "name": "Mazatec (Soyaltepec)",
-   "signLang": false,
-   "writeLang": [ "MAS" ]
-  },
   "MAY": {
-   "count": 140,
+   "count": 135,
    "name": "Maya",
    "signLang": false,
    "writeLang": [ "MAY" ]
@@ -2299,13 +2306,13 @@
    "writeLang": [ "MBA" ]
   },
   "MBD": {
-   "count": 29,
+   "count": 32,
    "name": "Mbunda",
    "signLang": false,
    "writeLang": [ "MBD" ]
   },
   "MBL": {
-   "count": 12,
+   "count": 14,
    "name": "Mbala",
    "signLang": false,
    "writeLang": [ "MBL" ]
@@ -2335,37 +2342,37 @@
    "writeLang": [ "MDO" ]
   },
   "MG": {
-   "count": 606,
+   "count": 552,
    "name": "Malagasy",
    "signLang": false,
    "writeLang": [ "MG" ]
   },
   "MGB": {
-   "count": 3,
+   "count": 4,
    "name": "Mangbetu",
    "signLang": false,
    "writeLang": [ "MGB" ]
   },
   "MGL": {
-   "count": 6,
+   "count": 7,
    "name": "Mingrelian",
    "signLang": false,
    "writeLang": [ "MGL" ]
   },
   "MH": {
-   "count": 17,
+   "count": 19,
    "name": "Marshallese",
    "signLang": false,
    "writeLang": [ "MH" ]
   },
   "MHM": {
-   "count": 6,
+   "count": 9,
    "name": "Makhuwa-Marrevone",
    "signLang": false,
    "writeLang": [ "MHM" ]
   },
   "MHS": {
-   "count": 24,
+   "count": 19,
    "name": "Makhuwa-Shirima",
    "signLang": false,
    "writeLang": [ "MHS" ]
@@ -2377,13 +2384,13 @@
    "writeLang": [ "MI" ]
   },
   "MIS": {
-   "count": 21,
+   "count": 20,
    "name": "Miskito",
    "signLang": false,
    "writeLang": [ "MIS" ]
   },
   "MK": {
-   "count": 303,
+   "count": 317,
    "name": "Kongo",
    "signLang": false,
    "writeLang": [ "MK" ]
@@ -2401,19 +2408,19 @@
    "writeLang": [ "MKD" ]
   },
   "ML": {
-   "count": 56,
+   "count": 59,
    "name": "Malay",
    "signLang": false,
    "writeLang": [ "ML" ]
   },
   "MLY": {
-   "count": 1,
+   "count": 3,
    "name": "Malayo",
    "signLang": false,
    "writeLang": [ "MLY" ]
   },
   "MM": {
-   "count": 22,
+   "count": 24,
    "name": "Moore",
    "signLang": false,
    "writeLang": [ "MM" ]
@@ -2443,7 +2450,7 @@
    "writeLang": [ "MNN" ]
   },
   "MNO": {
-   "count": 3,
+   "count": 4,
    "name": "Mano",
    "signLang": false,
    "writeLang": [ "MNO" ]
@@ -2467,13 +2474,13 @@
    "writeLang": [ "MO" ]
   },
   "MOU": {
-   "count": 3,
+   "count": 5,
    "name": "Moussey",
    "signLang": false,
    "writeLang": [ "MOU" ]
   },
   "MP": {
-   "count": 82,
+   "count": 85,
    "name": "Tok Pisin",
    "signLang": false,
    "writeLang": [ "MP" ]
@@ -2485,7 +2492,7 @@
    "writeLang": [ "MPD" ]
   },
   "MQN": {
-   "count": 2,
+   "count": 1,
    "name": "Marquesian (Nuku Hiva)",
    "signLang": false,
    "writeLang": [ "MQN" ]
@@ -2497,13 +2504,13 @@
    "writeLang": [ "MQR" ]
   },
   "MR": {
-   "count": 46,
+   "count": 50,
    "name": "Marathi",
    "signLang": false,
    "writeLang": [ "MR" ]
   },
   "MRJ": {
-   "count": 7,
+   "count": 9,
    "name": "Marenje",
    "signLang": false,
    "writeLang": [ "MRJ" ]
@@ -2515,13 +2522,13 @@
    "writeLang": [ "MRU" ]
   },
   "MSH": {
-   "count": 22,
+   "count": 35,
    "name": "Mashi",
    "signLang": false,
    "writeLang": [ "MSH" ]
   },
   "MSL": {
-   "count": 33,
+   "count": 35,
    "name": "Malawi Sign Language",
    "signLang": true,
    "writeLang": [ "MSL" ]
@@ -2533,7 +2540,7 @@
    "writeLang": [ "MSR" ]
   },
   "MSS": {
-   "count": 1,
+   "count": 2,
    "name": "Matses",
    "signLang": false,
    "writeLang": [ "MSS" ]
@@ -2551,16 +2558,16 @@
    "writeLang": [ "MTA" ]
   },
   "MTC": {
-   "count": 30,
+   "count": 31,
    "name": "Martiniquan Creole",
    "signLang": false,
    "writeLang": [ "MTC" ]
   },
-  "MTI": {
+  "MTN": {
    "count": 1,
-   "name": "Matís",
+   "name": "Matengo",
    "signLang": false,
-   "writeLang": [ "MTI" ]
+   "writeLang": [ "MTN" ]
   },
   "MTS": {
    "count": 2,
@@ -2575,7 +2582,7 @@
    "writeLang": [ "MTU" ]
   },
   "MWL": {
-   "count": 58,
+   "count": 68,
    "name": "Mambwe-Lungu",
    "signLang": false,
    "writeLang": [ "MWL" ]
@@ -2599,7 +2606,7 @@
    "writeLang": [ "MXA" ]
   },
   "MXC": {
-   "count": 7,
+   "count": 6,
    "name": "Mixtec (Costa)",
    "signLang": false,
    "writeLang": [ "MXC" ]
@@ -2611,7 +2618,7 @@
    "writeLang": [ "MXE" ]
   },
   "MXG": {
-   "count": 21,
+   "count": 25,
    "name": "Mixtec (Guerrero)",
    "signLang": false,
    "writeLang": [ "MXG" ]
@@ -2635,13 +2642,13 @@
    "writeLang": [ "MXN" ]
   },
   "MXO": {
-   "count": 9,
+   "count": 10,
    "name": "Mixtec (Huajuapan)",
    "signLang": false,
    "writeLang": [ "MXO" ]
   },
   "MXP": {
-   "count": 4,
+   "count": 5,
    "name": "Mixtec (Peñoles)",
    "signLang": false,
    "writeLang": [ "MXP" ]
@@ -2653,7 +2660,7 @@
    "writeLang": [ "MXT" ]
   },
   "MY": {
-   "count": 234,
+   "count": 241,
    "name": "Malayalam",
    "signLang": false,
    "writeLang": [ "MY" ]
@@ -2665,25 +2672,25 @@
    "writeLang": [ "MYG" ]
   },
   "MYO": {
-   "count": 12,
+   "count": 10,
    "name": "Mayo",
    "signLang": false,
    "writeLang": [ "MYO" ]
   },
   "MYW": {
-   "count": 13,
+   "count": 16,
    "name": "Manyawa",
    "signLang": false,
    "writeLang": [ "MYW" ]
   },
   "MZ": {
-   "count": 21,
+   "count": 22,
    "name": "Mam",
    "signLang": false,
    "writeLang": [ "MZ" ]
   },
   "MZH": {
-   "count": 15,
+   "count": 16,
    "name": "Mazahua",
    "signLang": false,
    "writeLang": [ "MZH" ]
@@ -2707,7 +2714,7 @@
    "writeLang": [ "NBL" ]
   },
   "NBZ": {
-   "count": 152,
+   "count": 153,
    "name": "Ndebele (Zimbabwe)",
    "signLang": false,
    "writeLang": [ "NBZ" ]
@@ -2719,7 +2726,7 @@
    "writeLang": [ "NC" ]
   },
   "NDA": {
-   "count": 22,
+   "count": 28,
    "name": "Ndau",
    "signLang": false,
    "writeLang": [ "NDA" ]
@@ -2737,25 +2744,25 @@
    "writeLang": [ "NDV" ]
   },
   "NDW": {
-   "count": 20,
+   "count": 30,
    "name": "Ndau (Western)",
    "signLang": false,
    "writeLang": [ "NDW" ]
   },
   "NEN": {
-   "count": 150,
+   "count": 151,
    "name": "Nsenga (Zambia)",
    "signLang": false,
    "writeLang": [ "NEN" ]
   },
   "NG": {
-   "count": 7,
+   "count": 6,
    "name": "Ngambaye",
    "signLang": false,
    "writeLang": [ "NG" ]
   },
   "NGB": {
-   "count": 35,
+   "count": 33,
    "name": "Ngabere",
    "signLang": false,
    "writeLang": [ "NGB" ]
@@ -2803,7 +2810,7 @@
    "writeLang": [ "NGT" ]
   },
   "NHC": {
-   "count": 66,
+   "count": 67,
    "name": "Nahuatl (Central)",
    "signLang": false,
    "writeLang": [ "NHC" ]
@@ -2815,7 +2822,7 @@
    "writeLang": [ "NHG" ]
   },
   "NHH": {
-   "count": 90,
+   "count": 91,
    "name": "Nahuatl (Huasteca)",
    "signLang": false,
    "writeLang": [ "NHH" ]
@@ -2833,7 +2840,7 @@
    "writeLang": [ "NHV" ]
   },
   "NI": {
-   "count": 5,
+   "count": 7,
    "name": "Nias",
    "signLang": false,
    "writeLang": [ "NI" ]
@@ -2845,7 +2852,7 @@
    "writeLang": [ "NJB" ]
   },
   "NK": {
-   "count": 60,
+   "count": 63,
    "name": "Nyaneka",
    "signLang": false,
    "writeLang": [ "NK" ]
@@ -2868,6 +2875,18 @@
    "signLang": false,
    "writeLang": [ "NM" ]
   },
+  "NMB": {
+   "count": 1,
+   "name": "Ngiemboon",
+   "signLang": false,
+   "writeLang": [ "NMB" ]
+  },
+  "NML": {
+   "count": 2,
+   "name": "Ngombale",
+   "signLang": false,
+   "writeLang": [ "NML" ]
+  },
   "NN": {
    "count": 2,
    "name": "Niuean",
@@ -2875,13 +2894,13 @@
    "writeLang": [ "NN" ]
   },
   "NNS": {
-   "count": 121,
+   "count": 127,
    "name": "Nigerian Sign Language",
    "signLang": true,
    "writeLang": [ "NNS" ]
   },
   "NP": {
-   "count": 136,
+   "count": 153,
    "name": "Nepali",
    "signLang": false,
    "writeLang": [ "NP" ]
@@ -2899,13 +2918,13 @@
    "writeLang": [ "NSL" ]
   },
   "NSM": {
-   "count": 53,
+   "count": 61,
    "name": "Nsenga (Mozambique)",
    "signLang": false,
    "writeLang": [ "NSM" ]
   },
   "NV": {
-   "count": 13,
+   "count": 11,
    "name": "Navajo",
    "signLang": false,
    "writeLang": [ "NV" ]
@@ -2923,7 +2942,7 @@
    "writeLang": [ "NYG" ]
   },
   "NYU": {
-   "count": 66,
+   "count": 74,
    "name": "Nyungwe",
    "signLang": false,
    "writeLang": [ "NYU" ]
@@ -2947,7 +2966,7 @@
    "writeLang": [ "O" ]
   },
   "OA": {
-   "count": 35,
+   "count": 43,
    "name": "Afan Oromo",
    "signLang": false,
    "writeLang": [ "OA" ]
@@ -2959,13 +2978,13 @@
    "writeLang": [ "OB" ]
   },
   "OBL": {
-   "count": 2,
+   "count": 3,
    "name": "Obolo",
    "signLang": false,
    "writeLang": [ "OBL" ]
   },
   "OD": {
-   "count": 4,
+   "count": 5,
    "name": "Ndonga",
    "signLang": false,
    "writeLang": [ "OD" ]
@@ -2977,7 +2996,7 @@
    "writeLang": [ "OG" ]
   },
   "OGS": {
-   "count": 7,
+   "count": 6,
    "name": "Austrian Sign Language",
    "signLang": true,
    "writeLang": [ "OGS" ]
@@ -2989,7 +3008,7 @@
    "writeLang": [ "OI" ]
   },
   "OKP": {
-   "count": 21,
+   "count": 23,
    "name": "Okpe",
    "signLang": false,
    "writeLang": [ "OKP" ]
@@ -3007,19 +3026,19 @@
    "writeLang": [ "ORK" ]
   },
   "ORR": {
-   "count": 3,
+   "count": 1,
    "name": "Mahorian (Roman)",
    "signLang": false,
    "writeLang": [ "ORR" ]
   },
   "OS": {
-   "count": 2,
+   "count": 1,
    "name": "Kosraean",
    "signLang": false,
    "writeLang": [ "OS" ]
   },
   "OT": {
-   "count": 210,
+   "count": 221,
    "name": "Otetela",
    "signLang": false,
    "writeLang": [ "OT" ]
@@ -3049,13 +3068,13 @@
    "writeLang": [ "OU" ]
   },
   "P": {
-   "count": 1471,
+   "count": 1489,
    "name": "Polish",
    "signLang": false,
    "writeLang": [ "P" ]
   },
   "PA": {
-   "count": 42,
+   "count": 40,
    "name": "Papiamento (Curaçao)",
    "signLang": false,
    "writeLang": [ "PA" ]
@@ -3079,25 +3098,19 @@
    "writeLang": [ "PAZ" ]
   },
   "PDF": {
-   "count": 48,
+   "count": 46,
    "name": "Polish Sign Language",
    "signLang": true,
    "writeLang": [ "PDF" ]
   },
   "PGW": {
-   "count": 1565,
+   "count": 1708,
    "name": "Pidgin (West Africa)",
    "signLang": false,
    "writeLang": [ "PGW" ]
   },
-  "PH": {
-   "count": 1,
-   "name": "Pashto",
-   "signLang": false,
-   "writeLang": [ "PH" ]
-  },
   "PHM": {
-   "count": 21,
+   "count": 33,
    "name": "Phimbi",
    "signLang": false,
    "writeLang": [ "PHM" ]
@@ -3109,13 +3122,13 @@
    "writeLang": [ "PHN" ]
   },
   "PJ": {
-   "count": 98,
+   "count": 91,
    "name": "Punjabi",
    "signLang": false,
    "writeLang": [ "PJ" ]
   },
   "PJN": {
-   "count": 4,
+   "count": 10,
    "name": "Punjabi (Shahmukhi)",
    "signLang": false,
    "writeLang": [ "PJN" ]
@@ -3126,8 +3139,14 @@
    "signLang": false,
    "writeLang": [ "PLG" ]
   },
+  "PLK": {
+   "count": 1,
+   "name": "Palikúr",
+   "signLang": false,
+   "writeLang": [ "PLK" ]
+  },
   "PLR": {
-   "count": 4,
+   "count": 3,
    "name": "Pular",
    "signLang": false,
    "writeLang": [ "PLR" ]
@@ -3139,25 +3158,25 @@
    "writeLang": [ "PMN" ]
   },
   "PMR": {
-   "count": 10,
+   "count": 6,
    "name": "Pomeranian",
    "signLang": false,
    "writeLang": [ "PMR" ]
   },
   "PN": {
-   "count": 71,
+   "count": 73,
    "name": "Pangasinan",
    "signLang": false,
    "writeLang": [ "PN" ]
   },
   "PP": {
-   "count": 1,
-   "name": "Ponapean",
+   "count": 2,
+   "name": "Pohnpeian",
    "signLang": false,
    "writeLang": [ "PP" ]
   },
   "PPG": {
-   "count": 2,
+   "count": 1,
    "name": "O’odham (Tohono)",
    "signLang": false,
    "writeLang": [ "PPG" ]
@@ -3169,7 +3188,7 @@
    "writeLang": [ "PPS" ]
   },
   "PPU": {
-   "count": 8,
+   "count": 9,
    "name": "Popoluca (Highland)",
    "signLang": false,
    "writeLang": [ "PPU" ]
@@ -3181,25 +3200,25 @@
    "writeLang": [ "PQM" ]
   },
   "PR": {
-   "count": 118,
+   "count": 119,
    "name": "Persian",
    "signLang": false,
    "writeLang": [ "PR" ]
   },
   "PRA": {
-   "count": 4,
+   "count": 3,
    "name": "Piaroa",
    "signLang": false,
    "writeLang": [ "PRA" ]
   },
   "PSL": {
-   "count": 20,
+   "count": 19,
    "name": "Panamanian Sign Language",
    "signLang": true,
    "writeLang": [ "PSL" ]
   },
   "PTG": {
-   "count": 15662,
+   "count": 15864,
    "name": "Portuguese",
    "signLang": false,
    "writeLang": [
@@ -3220,13 +3239,13 @@
    "writeLang": [ "PUN" ]
   },
   "Q": {
-   "count": 11,
+   "count": 13,
    "name": "Hebrew",
    "signLang": false,
    "writeLang": [ "Q" ]
   },
   "QC": {
-   "count": 25,
+   "count": 24,
    "name": "Quiche",
    "signLang": false,
    "writeLang": [ "QC" ]
@@ -3244,7 +3263,7 @@
    "writeLang": [ "QIB" ]
   },
   "QIC": {
-   "count": 20,
+   "count": 23,
    "name": "Quichua (Chimborazo)",
    "signLang": false,
    "writeLang": [ "QIC" ]
@@ -3286,19 +3305,19 @@
    "writeLang": [ "QNJ" ]
   },
   "QSL": {
-   "count": 2,
+   "count": 3,
    "name": "Israeli Sign Language",
    "signLang": true,
    "writeLang": [ "QSL" ]
   },
   "QU": {
-   "count": 58,
+   "count": 59,
    "name": "Quechua (Cuzco)",
    "signLang": false,
    "writeLang": [ "QU" ]
   },
   "QUA": {
-   "count": 79,
+   "count": 77,
    "name": "Quechua (Ayacucho)",
    "signLang": false,
    "writeLang": [ "QUA" ]
@@ -3316,7 +3335,7 @@
    "writeLang": [ "QUH" ]
   },
   "QUL": {
-   "count": 11,
+   "count": 10,
    "name": "Quechua (Huallaga Huánuco)",
    "signLang": false,
    "writeLang": [ "QUL" ]
@@ -3328,7 +3347,7 @@
    "writeLang": [ "QUM" ]
   },
   "QUN": {
-   "count": 35,
+   "count": 34,
    "name": "Quechua (Ancash)",
    "signLang": false,
    "writeLang": [ "QUN" ]
@@ -3358,7 +3377,7 @@
    "writeLang": [ "RD" ]
   },
   "RDC": {
-   "count": 3,
+   "count": 2,
    "name": "Kurdish Kurmanji (Cyrillic)",
    "signLang": false,
    "writeLang": [ "RDC" ]
@@ -3369,33 +3388,27 @@
    "signLang": false,
    "writeLang": [ "RDU" ]
   },
-  "RE": {
-   "count": 1,
-   "name": "Nengone",
-   "signLang": false,
-   "writeLang": [ "RE" ]
-  },
   "REA": {
-   "count": 137,
+   "count": 148,
    "name": "Armenian",
    "signLang": false,
    "writeLang": [ "REA" ]
   },
   "RM": {
-   "count": 13,
+   "count": 10,
    "name": "Romany (Macedonia)",
    "signLang": false,
    "writeLang": [ "RM" ]
   },
   "RMA": {
-   "count": 13,
+   "count": 11,
    "name": "Romany (Argentina)",
    "signLang": false,
    "writeLang": [ "RMA" ]
   },
   "RMB": {
-   "count": 27,
-   "name": "Romany (Bulgaria)",
+   "count": 28,
+   "name": "Romany (Western Bulgaria)",
    "signLang": false,
    "writeLang": [ "RMB" ]
   },
@@ -3406,7 +3419,7 @@
    "writeLang": [ "RMC" ]
   },
   "RME": {
-   "count": 31,
+   "count": 37,
    "name": "Romany (Serbia)",
    "signLang": false,
    "writeLang": [ "RME" ]
@@ -3418,7 +3431,7 @@
    "writeLang": [ "RMF" ]
   },
   "RMG": {
-   "count": 27,
+   "count": 28,
    "name": "Romany (Southern Greece)",
    "signLang": false,
    "writeLang": [ "RMG" ]
@@ -3430,7 +3443,7 @@
    "writeLang": [ "RMH" ]
   },
   "RML": {
-   "count": 12,
+   "count": 9,
    "name": "Romany (Albania)",
    "signLang": false,
    "writeLang": [ "RML" ]
@@ -3442,7 +3455,7 @@
    "writeLang": [ "RMN" ]
   },
   "RMR": {
-   "count": 29,
+   "count": 71,
    "name": "Romany (Romania)",
    "signLang": false,
    "writeLang": [ "RMR" ]
@@ -3454,16 +3467,10 @@
    "writeLang": [ "RMS" ]
   },
   "RMT": {
-   "count": 7,
+   "count": 9,
    "name": "Romany (Poland)",
    "signLang": false,
    "writeLang": [ "RMT" ]
-  },
-  "RMU": {
-   "count": 2,
-   "name": "Romany (Ukraine)",
-   "signLang": false,
-   "writeLang": [ "RMU" ]
   },
   "RMX": {
    "count": 8,
@@ -3472,7 +3479,7 @@
    "writeLang": [ "RMX" ]
   },
   "RN": {
-   "count": 43,
+   "count": 53,
    "name": "Ronga",
    "signLang": false,
    "writeLang": [ "RN" ]
@@ -3496,7 +3503,7 @@
    "writeLang": [ "RPN" ]
   },
   "RR": {
-   "count": 6,
+   "count": 7,
    "name": "Runyankore",
    "signLang": false,
    "writeLang": [ "RR" ]
@@ -3508,19 +3515,19 @@
    "writeLang": [ "RSC" ]
   },
   "RSL": {
-   "count": 101,
+   "count": 104,
    "name": "Russian Sign Language",
    "signLang": true,
    "writeLang": [ "RSL" ]
   },
   "RT": {
-   "count": 12,
-   "name": "Rutoro",
+   "count": 14,
+   "name": "Runyoro-Rutooro",
    "signLang": false,
    "writeLang": [ "RT" ]
   },
   "RU": {
-   "count": 345,
+   "count": 383,
    "name": "Kirundi",
    "signLang": false,
    "writeLang": [ "RU" ]
@@ -3532,19 +3539,19 @@
    "writeLang": [ "RVM" ]
   },
   "RWS": {
-   "count": 12,
+   "count": 6,
    "name": "Rwandan Sign Language",
    "signLang": true,
    "writeLang": [ "RWS" ]
   },
   "S": {
-   "count": 31613,
+   "count": 32388,
    "name": "Spanish",
    "signLang": false,
    "writeLang": [ "S" ]
   },
   "SA": {
-   "count": 78,
+   "count": 79,
    "name": "Waray-Waray",
    "signLang": false,
    "writeLang": [ "SA" ]
@@ -3556,28 +3563,31 @@
    "writeLang": [ "SAR" ]
   },
   "SAS": {
-   "count": 39,
+   "count": 42,
    "name": "South African Sign Language",
    "signLang": true,
    "writeLang": [ "SAS" ]
   },
   "SB": {
-   "count": 11,
+   "count": 5,
    "name": "Serbian (Cyrillic)",
    "signLang": false,
    "writeLang": [ "SBO" ]
   },
   "SBF": {
-   "count": 9,
+   "count": 10,
    "name": "Belgian French Sign Language",
    "signLang": true,
    "writeLang": [ "SBF" ]
   },
   "SBN": {
-   "count": 53,
+   "count": 58,
    "name": "Serbian",
    "signLang": false,
-   "writeLang": [ "SBN" ]
+   "writeLang": [
+    "SB",
+    "SBO"
+   ]
   },
   "SBR": {
    "count": 1,
@@ -3586,7 +3596,7 @@
    "writeLang": [ "SBR" ]
   },
   "SBS": {
-   "count": 7,
+   "count": 5,
    "name": "Serbian Sign Language",
    "signLang": true,
    "writeLang": [ "SBS" ]
@@ -3598,37 +3608,37 @@
    "writeLang": [ "SC" ]
   },
   "SCH": {
-   "count": 76,
+   "count": 90,
    "name": "Chilean Sign Language",
    "signLang": true,
    "writeLang": [ "SCH" ]
   },
   "SCR": {
-   "count": 23,
+   "count": 24,
    "name": "Costa Rican Sign Language",
    "signLang": true,
    "writeLang": [ "SCR" ]
   },
   "SDR": {
-   "count": 5,
+   "count": 2,
    "name": "Sadri",
    "signLang": false,
    "writeLang": [ "SDR" ]
   },
   "SE": {
-   "count": 124,
+   "count": 127,
    "name": "Sepedi",
    "signLang": false,
    "writeLang": [ "SE" ]
   },
   "SEC": {
-   "count": 75,
+   "count": 74,
    "name": "Ecuadorian Sign Language",
    "signLang": true,
    "writeLang": [ "SEC" ]
   },
   "SEN": {
-   "count": 79,
+   "count": 103,
    "name": "Sena",
    "signLang": false,
    "writeLang": [ "SEN" ]
@@ -3640,25 +3650,25 @@
    "writeLang": [ "SFC" ]
   },
   "SG": {
-   "count": 70,
+   "count": 72,
    "name": "Sango",
    "signLang": false,
    "writeLang": [ "SG" ]
   },
   "SGA": {
-   "count": 1,
+   "count": 6,
    "name": "Sanga",
    "signLang": false,
    "writeLang": [ "SGA" ]
   },
   "SGM": {
-   "count": 25,
+   "count": 28,
    "name": "Songomeno",
    "signLang": false,
    "writeLang": [ "SGM" ]
   },
   "SGO": {
-   "count": 5,
+   "count": 7,
    "name": "Songo",
    "signLang": false,
    "writeLang": [ "SGO" ]
@@ -3670,7 +3680,7 @@
    "writeLang": [ "SGS" ]
   },
   "SH": {
-   "count": 749,
+   "count": 781,
    "name": "Tshiluba",
    "signLang": false,
    "writeLang": [ "SH" ]
@@ -3682,7 +3692,7 @@
    "writeLang": [ "SHD" ]
   },
   "SHO": {
-   "count": 40,
+   "count": 39,
    "name": "Honduras Sign Language",
    "signLang": true,
    "writeLang": [ "SHO" ]
@@ -3694,37 +3704,37 @@
    "writeLang": [ "SHU" ]
   },
   "SHW": {
-   "count": 10,
+   "count": 11,
    "name": "Sehwi",
    "signLang": false,
    "writeLang": [ "SHW" ]
   },
   "SI": {
-   "count": 164,
+   "count": 167,
    "name": "Thai",
    "signLang": false,
    "writeLang": [ "SI" ]
   },
   "SIL": {
-   "count": 11,
+   "count": 10,
    "name": "Thai Sign Language",
    "signLang": true,
    "writeLang": [ "SIL" ]
   },
   "SK": {
-   "count": 155,
+   "count": 160,
    "name": "Silozi",
    "signLang": false,
    "writeLang": [ "SK" ]
   },
   "SL": {
-   "count": 2,
+   "count": 1,
    "name": "Shilluk",
    "signLang": false,
    "writeLang": [ "SL" ]
   },
   "SLM": {
-   "count": 46,
+   "count": 54,
    "name": "Mozambican Sign Language",
    "signLang": true,
    "writeLang": [ "SLM" ]
@@ -3735,26 +3745,20 @@
    "signLang": true,
    "writeLang": [ "SLN" ]
   },
-  "SLP": {
-   "count": 1,
-   "name": "Palestinian Sign Language",
-   "signLang": true,
-   "writeLang": [ "SLP" ]
-  },
   "SLS": {
-   "count": 1,
+   "count": 3,
    "name": "Sri Lankan Sign Language",
    "signLang": true,
    "writeLang": [ "SLS" ]
   },
   "SLV": {
-   "count": 5,
+   "count": 8,
    "name": "Vietnamese Sign Language",
    "signLang": true,
    "writeLang": [ "SLV" ]
   },
   "SM": {
-   "count": 41,
+   "count": 40,
    "name": "Samoan",
    "signLang": false,
    "writeLang": [ "SM" ]
@@ -3766,13 +3770,13 @@
    "writeLang": [ "SMS" ]
   },
   "SN": {
-   "count": 100,
+   "count": 105,
    "name": "Sinhala",
    "signLang": false,
    "writeLang": [ "SN" ]
   },
   "SO": {
-   "count": 4,
+   "count": 3,
    "name": "Somali",
    "signLang": false,
    "writeLang": [ "SO" ]
@@ -3784,13 +3788,13 @@
    "writeLang": [ "SOL" ]
   },
   "SP": {
-   "count": 22,
+   "count": 23,
    "name": "Solomon Islands Pidgin",
    "signLang": false,
    "writeLang": [ "SP" ]
   },
   "SPE": {
-   "count": 67,
+   "count": 64,
    "name": "Peruvian Sign Language",
    "signLang": true,
    "writeLang": [ "SPE" ]
@@ -3802,7 +3806,7 @@
    "writeLang": [ "SPL" ]
   },
   "SR": {
-   "count": 16,
+   "count": 15,
    "name": "Sranantongo",
    "signLang": false,
    "writeLang": [ "SR" ]
@@ -3814,13 +3818,13 @@
    "writeLang": [ "SRM" ]
   },
   "SSA": {
-   "count": 251,
+   "count": 255,
    "name": "Sesotho (South Africa)",
    "signLang": false,
    "writeLang": [ "SSA" ]
   },
   "SSL": {
-   "count": 7,
+   "count": 6,
    "name": "Swedish Sign Language",
    "signLang": true,
    "writeLang": [ "SSL" ]
@@ -3832,7 +3836,7 @@
    "writeLang": [ "SSU" ]
   },
   "ST": {
-   "count": 35,
+   "count": 36,
    "name": "Estonian",
    "signLang": false,
    "writeLang": [ "ST" ]
@@ -3844,13 +3848,13 @@
    "writeLang": [ "STD" ]
   },
   "STM": {
-   "count": 1,
+   "count": 3,
    "name": "Sateré-Mawé",
    "signLang": false,
    "writeLang": [ "STM" ]
   },
   "STN": {
-   "count": 1,
+   "count": 2,
    "name": "Sãotomense",
    "signLang": false,
    "writeLang": [ "STN" ]
@@ -3868,16 +3872,22 @@
    "writeLang": [ "SV" ]
   },
   "SW": {
-   "count": 960,
+   "count": 1008,
    "name": "Swahili",
    "signLang": false,
    "writeLang": [ "SW" ]
   },
   "SWI": {
-   "count": 144,
+   "count": 145,
    "name": "Swati",
    "signLang": false,
    "writeLang": [ "SWI" ]
+  },
+  "SWK": {
+   "count": 184,
+   "name": "Swahili (Katanga)",
+   "signLang": false,
+   "writeLang": [ "SWK" ]
   },
   "SWS": {
    "count": 3,
@@ -3886,7 +3896,7 @@
    "writeLang": [ "SWS" ]
   },
   "SZJ": {
-   "count": 2,
+   "count": 1,
    "name": "Slovenian Sign Language",
    "signLang": true,
    "writeLang": [ "SZJ" ]
@@ -3898,19 +3908,19 @@
    "writeLang": [ "TAL" ]
   },
   "TB": {
-   "count": 163,
+   "count": 178,
    "name": "Chitumbuka",
    "signLang": false,
    "writeLang": [ "TB" ]
   },
   "TBW": {
-   "count": 33,
+   "count": 42,
    "name": "Taabwa",
    "signLang": false,
    "writeLang": [ "TBW" ]
   },
   "TCN": {
-   "count": 7,
+   "count": 9,
    "name": "Ticuna",
    "signLang": false,
    "writeLang": [ "TCN" ]
@@ -3922,25 +3932,31 @@
    "writeLang": [ "TCR" ]
   },
   "TE": {
-   "count": 12,
+   "count": 15,
    "name": "Chuukese",
    "signLang": false,
    "writeLang": [ "TE" ]
   },
   "TEW": {
-   "count": 17,
+   "count": 20,
    "name": "Tewe",
    "signLang": false,
    "writeLang": [ "TEW" ]
   },
+  "TFM": {
+   "count": 1,
+   "name": "Totonac (North Central)",
+   "signLang": false,
+   "writeLang": [ "TFM" ]
+  },
   "TG": {
-   "count": 1613,
+   "count": 1724,
    "name": "Tagalog",
    "signLang": false,
    "writeLang": [ "TG" ]
   },
   "TH": {
-   "count": 22,
+   "count": 21,
    "name": "Tahitian",
    "signLang": false,
    "writeLang": [ "TH" ]
@@ -3958,25 +3974,25 @@
    "writeLang": [ "TJO" ]
   },
   "TK": {
-   "count": 135,
+   "count": 145,
    "name": "Turkish",
    "signLang": false,
    "writeLang": [ "TK" ]
   },
   "TKL": {
-   "count": 3,
+   "count": 4,
    "name": "Turkish Sign Language",
    "signLang": true,
    "writeLang": [ "TKL" ]
   },
   "TKW": {
-   "count": 5,
+   "count": 6,
    "name": "Takwane",
    "signLang": false,
    "writeLang": [ "TKW" ]
   },
   "TL": {
-   "count": 432,
+   "count": 437,
    "name": "Tamil",
    "signLang": false,
    "writeLang": [ "TL" ]
@@ -3993,26 +4009,32 @@
    "signLang": false,
    "writeLang": [ "TLN" ]
   },
+  "TMM": {
+   "count": 279,
+   "name": "Portuguese (Mozambique)",
+   "signLang": false,
+   "writeLang": [ "TMM" ]
+  },
   "TMR": {
-   "count": 3,
+   "count": 2,
    "name": "Turkmen",
    "signLang": false,
    "writeLang": [ "TMR" ]
   },
   "TN": {
-   "count": 141,
+   "count": 144,
    "name": "Setswana",
    "signLang": false,
    "writeLang": [ "TN" ]
   },
   "TND": {
-   "count": 24,
+   "count": 26,
    "name": "Tandroy",
    "signLang": false,
    "writeLang": [ "TND" ]
   },
   "TNK": {
-   "count": 22,
+   "count": 24,
    "name": "Tankarana",
    "signLang": false,
    "writeLang": [ "TNK" ]
@@ -4024,13 +4046,13 @@
    "writeLang": [ "TO" ]
   },
   "TOB": {
-   "count": 13,
+   "count": 11,
    "name": "Toba",
    "signLang": false,
    "writeLang": [ "TOB" ]
   },
   "TOT": {
-   "count": 49,
+   "count": 57,
    "name": "Totonac",
    "signLang": false,
    "writeLang": [ "TOT" ]
@@ -4060,7 +4082,7 @@
    "writeLang": [ "TRH" ]
   },
   "TRS": {
-   "count": 37,
+   "count": 35,
    "name": "Tarascan",
    "signLang": false,
    "writeLang": [ "TRS" ]
@@ -4072,31 +4094,31 @@
    "writeLang": [ "TRW" ]
   },
   "TS": {
-   "count": 112,
+   "count": 94,
    "name": "Tsonga",
    "signLang": false,
    "writeLang": [ "TS" ]
   },
   "TSL": {
-   "count": 11,
+   "count": 12,
    "name": "Taiwanese Sign Language",
    "signLang": true,
    "writeLang": [ "TSL" ]
   },
   "TTM": {
-   "count": 42,
+   "count": 45,
    "name": "Madagascar Sign Language",
    "signLang": true,
    "writeLang": [ "TTM" ]
   },
   "TTP": {
-   "count": 11,
+   "count": 12,
    "name": "Tetun Dili",
    "signLang": false,
    "writeLang": [ "TTP" ]
   },
   "TU": {
-   "count": 148,
+   "count": 155,
    "name": "Telugu",
    "signLang": false,
    "writeLang": [ "TU" ]
@@ -4108,7 +4130,7 @@
    "writeLang": [ "TV" ]
   },
   "TW": {
-   "count": 1759,
+   "count": 1872,
    "name": "Twi",
    "signLang": false,
    "writeLang": [ "TW" ]
@@ -4126,55 +4148,55 @@
    "writeLang": [ "TZE" ]
   },
   "TZL": {
-   "count": 11,
+   "count": 15,
    "name": "Tanzanian Sign Language",
    "signLang": true,
    "writeLang": [ "TZL" ]
   },
   "TZO": {
-   "count": 80,
+   "count": 84,
    "name": "Tzotzil",
    "signLang": false,
    "writeLang": [ "TZO" ]
   },
   "U": {
-   "count": 1946,
+   "count": 2054,
    "name": "Russian",
    "signLang": false,
    "writeLang": [ "U" ]
   },
   "UB": {
-   "count": 172,
+   "count": 180,
    "name": "Umbundu",
    "signLang": false,
    "writeLang": [ "UB" ]
   },
   "UD": {
-   "count": 25,
+   "count": 19,
    "name": "Urdu",
    "signLang": false,
    "writeLang": [ "UD" ]
   },
   "UE": {
-   "count": 2,
+   "count": 4,
    "name": "Nuer",
    "signLang": false,
    "writeLang": [ "UE" ]
   },
   "UG": {
-   "count": 4,
+   "count": 5,
    "name": "Uighur (Cyrillic)",
    "signLang": false,
    "writeLang": [ "UG" ]
   },
   "UN": {
-   "count": 6,
+   "count": 5,
    "name": "Guna",
    "signLang": false,
    "writeLang": [ "UN" ]
   },
   "UR": {
-   "count": 118,
+   "count": 124,
    "name": "Urhobo",
    "signLang": false,
    "writeLang": [ "UR" ]
@@ -4186,19 +4208,19 @@
    "writeLang": [ "USL" ]
   },
   "UU": {
-   "count": 11,
+   "count": 13,
    "name": "Meru",
    "signLang": false,
    "writeLang": [ "UU" ]
   },
   "UZ": {
-   "count": 19,
+   "count": 20,
    "name": "Uzbek",
    "signLang": false,
    "writeLang": [ "UZ" ]
   },
   "V": {
-   "count": 128,
+   "count": 130,
    "name": "Slovak",
    "signLang": false,
    "writeLang": [ "V" ]
@@ -4210,7 +4232,7 @@
    "writeLang": [ "VCR" ]
   },
   "VE": {
-   "count": 35,
+   "count": 36,
    "name": "Venda",
    "signLang": false,
    "writeLang": [ "VE" ]
@@ -4220,12 +4242,6 @@
    "name": "Flemish Sign Language",
    "signLang": true,
    "writeLang": [ "VGT" ]
-  },
-  "VL": {
-   "count": 1,
-   "name": "Tuvaluan",
-   "signLang": false,
-   "writeLang": [ "VL" ]
   },
   "VLC": {
    "count": 15,
@@ -4240,19 +4256,19 @@
    "writeLang": [ "VSL" ]
   },
   "VT": {
-   "count": 176,
+   "count": 193,
    "name": "Vietnamese",
    "signLang": false,
    "writeLang": [ "VT" ]
   },
   "VZ": {
-   "count": 15,
+   "count": 21,
    "name": "Vezo",
    "signLang": false,
    "writeLang": [ "VZ" ]
   },
   "W": {
-   "count": 6,
+   "count": 8,
    "name": "Welsh",
    "signLang": false,
    "writeLang": [ "W" ]
@@ -4264,13 +4280,13 @@
    "writeLang": [ "WA" ]
   },
   "WCH": {
-   "count": 18,
+   "count": 17,
    "name": "Wichi",
    "signLang": false,
    "writeLang": [ "WCH" ]
   },
   "WG": {
-   "count": 9,
+   "count": 10,
    "name": "Kwangali",
    "signLang": false,
    "writeLang": [ "WG" ]
@@ -4318,31 +4334,31 @@
    "writeLang": [ "WSL" ]
   },
   "WY": {
-   "count": 24,
+   "count": 29,
    "name": "Wayuunaiki",
    "signLang": false,
    "writeLang": [ "WY" ]
   },
   "X": {
-   "count": 2120,
+   "count": 2157,
    "name": "German",
    "signLang": false,
    "writeLang": [ "XSW" ]
   },
   "XO": {
-   "count": 311,
+   "count": 318,
    "name": "Xhosa",
    "signLang": false,
    "writeLang": [ "XO" ]
   },
   "XPA": {
-   "count": 7,
+   "count": 8,
    "name": "Pennsylvania German",
    "signLang": false,
    "writeLang": [ "XPA" ]
   },
   "XV": {
-   "count": 7,
+   "count": 6,
    "name": "Xavante",
    "signLang": false,
    "writeLang": [ "XV" ]
@@ -4354,7 +4370,7 @@
    "writeLang": [ "YA" ]
   },
   "YAK": {
-   "count": 7,
+   "count": 11,
    "name": "Yaka",
    "signLang": false,
    "writeLang": [ "YAK" ]
@@ -4366,7 +4382,7 @@
    "writeLang": [ "YBS" ]
   },
   "YCB": {
-   "count": 9,
+   "count": 12,
    "name": "Yacouba",
    "signLang": false,
    "writeLang": [ "YCB" ]
@@ -4377,6 +4393,12 @@
    "signLang": false,
    "writeLang": [ "YG" ]
   },
+  "YKM": {
+   "count": 2,
+   "name": "Yakoma",
+   "signLang": false,
+   "writeLang": [ "YKM" ]
+  },
   "YKP": {
    "count": 2,
    "name": "Yukpa",
@@ -4384,7 +4406,7 @@
    "writeLang": [ "YKP" ]
   },
   "YMB": {
-   "count": 17,
+   "count": 22,
    "name": "Yombe",
    "signLang": false,
    "writeLang": [ "YMB" ]
@@ -4408,7 +4430,7 @@
    "writeLang": [ "YQ" ]
   },
   "YR": {
-   "count": 975,
+   "count": 1001,
    "name": "Yoruba",
    "signLang": false,
    "writeLang": [ "YR" ]
@@ -4420,37 +4442,37 @@
    "writeLang": [ "YU" ]
   },
   "YW": {
-   "count": 312,
+   "count": 688,
    "name": "Kinyarwanda",
    "signLang": false,
    "writeLang": [ "YW" ]
   },
   "Z": {
-   "count": 310,
+   "count": 313,
    "name": "Swedish",
    "signLang": false,
    "writeLang": [ "Z" ]
   },
   "ZAS": {
-   "count": 36,
+   "count": 38,
    "name": "Zambian Sign Language",
    "signLang": true,
    "writeLang": [ "ZAS" ]
   },
   "ZN": {
-   "count": 16,
+   "count": 17,
    "name": "Zande",
    "signLang": false,
    "writeLang": [ "ZN" ]
   },
   "ZO": {
-   "count": 3,
+   "count": 4,
    "name": "Chin (Zotung)",
    "signLang": false,
    "writeLang": [ "ZO" ]
   },
   "ZPA": {
-   "count": 1,
+   "count": 2,
    "name": "Zapotec (Amatlán)",
    "signLang": false,
    "writeLang": [ "ZPA" ]
@@ -4462,7 +4484,7 @@
    "writeLang": [ "ZPC" ]
   },
   "ZPD": {
-   "count": 10,
+   "count": 8,
    "name": "Zapotec (del Valle)",
    "signLang": false,
    "writeLang": [ "ZPD" ]
@@ -4504,7 +4526,7 @@
    "writeLang": [ "ZPT" ]
   },
   "ZPV": {
-   "count": 10,
+   "count": 9,
    "name": "Zapotec (Villa Alta)",
    "signLang": false,
    "writeLang": [ "ZPV" ]
@@ -4522,19 +4544,19 @@
    "writeLang": [ "ZR" ]
   },
   "ZS": {
-   "count": 981,
+   "count": 864,
    "name": "Swahili (Congo)",
    "signLang": false,
    "writeLang": [ "ZS" ]
   },
   "ZSL": {
-   "count": 36,
+   "count": 40,
    "name": "Zimbabwe Sign Language",
    "signLang": true,
    "writeLang": [ "ZSL" ]
   },
   "ZU": {
-   "count": 630,
+   "count": 634,
    "name": "Zulu",
    "signLang": false,
    "writeLang": [ "ZU" ]
@@ -4775,8 +4797,8 @@
   "-32,136",
   "-24,128",
   "-16,120",
-  "16,88",
   "40,64",
+  "16,88",
   "16,96",
   "-16,128",
   "40,72",

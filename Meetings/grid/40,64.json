@@ -1,24 +1,69 @@
 [
  {
+  "geoId": "A3E304B6-CC36-4868-9D80-DCD7B29CBDF4",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 44.799569,
+   "longitude": 65.527471
+  },
+  "properties": {
+   "orgName": "Русское, Кызылорда",
+   "orgType": "CONG",
+   "address": "КАЗАХСТАН\n(KYZ) Кызылординская область, Кызылорда\nг. Кызылорда, мкр. Саулет, ул. Мыркы Исаев, д. 37",
+   "transliteratedAddress": "(KYZ) Kyzylordinskaya oblast, Kyzylorda\r\nKyzylorda, md. Saulet, 37 Myrky Isaev str.\r\n",
+   "languageCode": "U",
+   "schedule": "Sat 10:00 Tue 18:30",
+   "phones": [ "87059520265" ],
+   "isPrivateMtgPlace": 0
+  },
+  "active": 1,
+  "firstSeen": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "lastVisit": "2025-07-24"
+ },
+ {
+  "geoId": "AD681576-2181-4CF8-ACEA-BE1CFA428C9A",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 44.799569,
+   "longitude": 65.527471
+  },
+  "properties": {
+   "orgName": "Кызылорда",
+   "orgType": "CONG",
+   "address": "КАЗАХСТАН\n(KYZ) Кызылординская область, Кызылорда\nг. Кызылорда, мкр. Саулет, ул. Мыркы Исаев, д. 37",
+   "transliteratedAddress": "(KYZ) Kyzylordinskaya oblast, Kyzylorda\r\nKyzylorda, md. Saulet, 37 Myrky Isaev str.\r\n",
+   "languageCode": "AZ",
+   "schedule": "Sun 10:00 Wed 18:30",
+   "phones": [ "87770270027" ],
+   "isPrivateMtgPlace": 0
+  },
+  "active": 1,
+  "firstSeen": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "lastVisit": "2025-07-24"
+ },
+ {
   "geoId": "846C41F0-AB0B-4501-ADFD-BB59357C1A0C",
   "type": "weekly",
   "isPrimary": 1,
   "location": {
    "latitude": 41.454211,
-   "longitude": 69.174196,
-   "iso": "KAZ"
+   "longitude": 69.174196
   },
   "properties": {
    "orgName": "Сарыагаш",
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 160900\n(TUR) Туркестанская область, Сарыагаш\nул. Шымкентбайулы д.23",
    "languageCode": "AZ",
-   "schedule": "Sun 10:00 Wed 19:00",
+   "schedule": "Sun 10:00 Wed 18:30",
    "phones": [ "+77057127208" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -28,31 +73,29 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.454211,
-   "longitude": 69.174196,
-   "iso": "KAZ"
+   "longitude": 69.174196
   },
   "properties": {
    "orgName": "Русское, Сарыагаш",
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 160900\n(TUR) Туркестанская область, Сарыагаш\nул. Шымкентбайулы д.23",
    "languageCode": "U",
-   "schedule": "Sat 10:00 Tue 18:00",
+   "schedule": "Sat 09:00 Tue 18:00",
    "phones": [ "87012427967" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CFCACDE1-6030-4B7A-A78B-530F348705FD",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Навои, Чирчик",
@@ -63,8 +106,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -74,8 +117,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Шаркий, Тошкент",
@@ -86,19 +128,18 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "A4CB4EA3-C798-4F7D-9497-9EB98DF94217",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Яккасарой, Тошкент",
@@ -109,8 +150,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -120,8 +161,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Северное Русское, Чирчик",
@@ -132,19 +172,18 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "CADA0764-A2D5-4B40-8CB1-A31F1E3F7326",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Чиланзар Русское, Ташкент",
@@ -155,19 +194,18 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "75BB500F-C079-49B6-84F7-395673559F13",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Восточное Русское, Ташкент",
@@ -178,8 +216,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -189,8 +227,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Центральное Русское, Ташкент",
@@ -201,8 +238,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -212,8 +249,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Южное Русское, Чирчик",
@@ -224,8 +260,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -235,8 +271,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Куйлюк Русское, Ташкент",
@@ -247,19 +282,18 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "3667298F-5719-44F4-95A4-70638ED1D9F7",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Салар Русское, Ташкент",
@@ -270,8 +304,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -281,8 +315,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Феруза Русское, Ташкент",
@@ -293,8 +326,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -304,21 +337,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Жанубий, Чирчик",
    "orgType": "CONG",
-   "address": "UZBEKISTAN\r\n(TASH) Ташкентская область, Чирчик [Чирчиқ]\r\nул. Юсупова, 50",
+   "address": "UZBEKISTAN\n(TASH) Ташкентская область, Чирчик [Чирчиқ]\nул. Юсупова, 50",
    "languageCode": "UZ",
    "schedule": "Sat 19:00 Wed 18:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
-  "active": 0,
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
@@ -327,8 +359,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Юнус-Абад Русское, Ташкент",
@@ -339,8 +370,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -350,8 +381,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Жестовый язык, Ташкент",
@@ -362,8 +392,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -373,8 +403,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Юнусобод, Тошкент",
@@ -385,8 +414,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -396,8 +425,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Северо-Западное Русское, Ташкент",
@@ -408,8 +436,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -419,8 +447,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Восточное Русское, Чирчик",
@@ -431,8 +458,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -442,8 +469,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Учтепа Русское, Ташкент",
@@ -454,8 +480,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -465,8 +491,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Азотчик Казахское, Чирчик",
@@ -477,8 +502,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -488,8 +513,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.442148,
-   "longitude": 69.544233,
-   "iso": "UZB"
+   "longitude": 69.544233
   },
   "properties": {
    "orgName": "Шарк Гули, Паркент",
@@ -500,10 +524,33 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "40487903-F93C-4CAA-A93C-0922CF30B314",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 41.442148,
+   "longitude": 69.544233
+  },
+  "properties": {
+   "orgName": "Узгариш, Тошкент",
+   "orgType": "CONG",
+   "address": "UZBEKISTAN\n(TASH) Ташкентская область, Чирчик [Чирчиқ]\nул. Юсупова, 50",
+   "languageCode": "UZ",
+   "schedule": "undefined null undefined null",
+   "relatedLanguageCodes": [ "E" ],
+   "phones": [],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "CF947BEF-D7B6-49E6-BEAB-C828E6EF5471",
@@ -511,21 +558,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.30855,
-   "longitude": 68.25282,
-   "iso": "KAZ"
+   "longitude": 68.25282
   },
   "properties": {
    "orgName": "Туркестан",
    "orgType": "CONG",
-   "address": "КАЗАХСТАН, 161200\n(TUR) Туркестанская область, Туркестан\nул. Ерубаева, д. 9, переулок 7",
+   "address": "КАЗАХСТАН, 161200\n(TUR) Туркестанская область, Туркестан\nул. Ерубаева, д. 9, проезд 3",
    "languageCode": "AZ",
-   "schedule": "Sat 18:00 Wed 18:00",
+   "schedule": "Sat 09:00 Wed 18:00",
    "relatedLanguageCodes": [ "UZ" ],
-   "phones": [ "+77023489108" ],
+   "phones": [ "+77781429723" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-12-27"
  },
@@ -535,21 +581,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.30855,
-   "longitude": 68.25282,
-   "iso": "KAZ"
+   "longitude": 68.25282
   },
   "properties": {
    "orgName": "Туркестан (узбекское) - Туркестан",
    "orgType": "GROUP",
-   "address": "КАЗАХСТАН, 161200\n(TUR) Туркестанская область, Туркестан\nул. Ерубаева, д. 9, переулок 7",
+   "address": "КАЗАХСТАН, 161200\n(TUR) Туркестанская область, Туркестан\nул. Ерубаева, д. 9, проезд 3",
    "languageCode": "UZ",
    "schedule": "undefined null Wed 18:00",
    "relatedLanguageCodes": [ "AZ" ],
-   "phones": [ "+77023489108" ],
+   "phones": [ "+77781429723" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-12-27"
  },
@@ -559,8 +604,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.308958,
-   "longitude": 69.562682,
-   "iso": "KAZ"
+   "longitude": 69.562682
   },
   "properties": {
    "orgName": "Западное Русское, Шымкент",
@@ -572,7 +616,7 @@
    "phones": [ "54-12-97" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -583,8 +627,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.308958,
-   "longitude": 69.562682,
-   "iso": "KAZ"
+   "longitude": 69.562682
   },
   "properties": {
    "orgName": "Казгурт Русское, Шымкент",
@@ -596,7 +639,7 @@
    "phones": [ "+77771652233 или +77770980657" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -607,8 +650,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.308958,
-   "longitude": 69.562682,
-   "iso": "KAZ"
+   "longitude": 69.562682
   },
   "properties": {
    "orgName": "Карасу Русское, Шымкент",
@@ -616,12 +658,12 @@
    "address": "КАЗАХСТАН\n(TUR) Туркестанская область, Шымкент\nпроезд Конституции, д. 11",
    "transliteratedAddress": "(TUR) Turkistanskaya oblast, Shymkent\r\n11 Konstitutsii Lane\r\n",
    "languageCode": "U",
-   "schedule": "Sun 14:30 Mon 19:00",
+   "schedule": "Sat 17:00 Tue 19:00",
    "phones": [ "87771322005" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -631,21 +673,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.308958,
-   "longitude": 69.562682,
-   "iso": "KAZ"
+   "longitude": 69.562682
   },
   "properties": {
-   "orgName": "Бадамское Русское, Шымкент",
+   "orgName": "Бадам Русское, Шымкент",
    "orgType": "CONG",
    "address": "КАЗАХСТАН\n(TUR) Туркестанская область, Шымкент\nпроезд Конституции, д. 11",
    "transliteratedAddress": "(TUR) Turkistanskaya oblast, Shymkent\r\n11 Konstitutsii Lane\r\n",
    "languageCode": "U",
-   "schedule": "Sat 17:30 Wed 19:00",
-   "phones": [ "+77051806226" ],
+   "schedule": "Sun 12:00 Thu 19:00",
+   "phones": [ "87475013696" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -655,8 +696,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.308958,
-   "longitude": 69.562682,
-   "iso": "KAZ"
+   "longitude": 69.562682
   },
   "properties": {
    "orgName": "Шанырак, Шымкент",
@@ -668,8 +708,8 @@
    "phones": [ "8(7252)-54-12-97" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -679,8 +719,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.308958,
-   "longitude": 69.562682,
-   "iso": "KAZ"
+   "longitude": 69.562682
   },
   "properties": {
    "orgName": "Кара-бастау, Шымкент",
@@ -688,12 +727,81 @@
    "address": "КАЗАХСТАН\n(TUR) Туркестанская область, Шымкент\nпроезд Конституции, д. 11",
    "transliteratedAddress": "(TUR) Turkistanskaya oblast, Shymkent\r\n11 Konstitutsii Lane\r\n",
    "languageCode": "AZ",
-   "schedule": "Sun 17:00 Sat 15:00",
-   "phones": [ "+7&nbsp;7054924430" ],
+   "schedule": "Sat 14:30 Mon 18:30",
+   "phones": [ "+7&nbsp;7073925040" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "9E45366B-174D-45C8-AE1A-9972046E1E5A",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 42.308958,
+   "longitude": 69.562682
+  },
+  "properties": {
+   "orgName": "Парковое Русское, Шымкент",
+   "orgType": "CONG",
+   "address": "КАЗАХСТАН\n(TUR) Туркестанская область, Шымкент\nпроезд Конституции, д. 11",
+   "transliteratedAddress": "(TUR) Turkistanskaya oblast, Shymkent\r\n11 Konstitutsii Lane\r\n",
+   "languageCode": "U",
+   "schedule": "Sat 09:30 Wed 19:00",
+   "phones": [ "87772404744" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "515CBD7E-1242-4E95-A95C-277487102932",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 42.308958,
+   "longitude": 69.562682
+  },
+  "properties": {
+   "orgName": "Жестовый язык, Шымкент",
+   "orgType": "CONG",
+   "address": "КАЗАХСТАН\n(TUR) Туркестанская область, Шымкент\nпроезд Конституции, д. 11",
+   "transliteratedAddress": "(TUR) Turkistanskaya oblast, Shymkent\r\n11 Konstitutsii Lane\r\n",
+   "languageCode": "RSL",
+   "schedule": "Sun 14:30 Thu 16:00",
+   "phones": [ "87252433020" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "A14BF3F4-3086-4A74-B377-FA49E5394C27",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 42.308958,
+   "longitude": 69.562682
+  },
+  "properties": {
+   "orgName": "Узбекское, Шымкент",
+   "orgType": "CONG",
+   "address": "КАЗАХСТАН\n(TUR) Туркестанская область, Шымкент\nпроезд Конституции, д. 11",
+   "transliteratedAddress": "(TUR) Turkistanskaya oblast, Shymkent\r\n11 Konstitutsii Lane\r\n",
+   "languageCode": "UZ",
+   "schedule": "Sat 12:00 Tue 16:30",
+   "phones": [ "87475211270 Муса. 87075275020 Шухрат" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -703,20 +811,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.323363,
-   "longitude": 69.615225,
-   "iso": "KAZ"
+   "longitude": 69.615225
   },
   "properties": {
-   "orgName": "Северное Русское, Шымкент",
+   "orgName": "Тастак Русское, Шымкент",
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 160000\n(TUR) Туркестанская область, Шымкент\nул. Н.Торекулова, д. 97",
    "languageCode": "U",
-   "schedule": "Sun 17:00 Mon 19:00",
+   "schedule": "Sun 14:00 Tue 19:00",
    "phones": [ "+77058446252" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -726,66 +833,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.323363,
-   "longitude": 69.615225,
-   "iso": "KAZ"
+   "longitude": 69.615225
   },
   "properties": {
-   "orgName": "Восточное Русское, Шымкент",
+   "orgName": "Сайрамское Русское, Шымкент",
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 160000\n(TUR) Туркестанская область, Шымкент\nул. Н.Торекулова, д. 97",
    "languageCode": "U",
-   "schedule": "Sat 14:30 Fri 19:00",
-   "phones": [ "+7777 977 09 19" ],
+   "schedule": "Sun 11:30 Fri 19:00",
+   "phones": [ "+77779770919" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "0257EC32-01F0-43DF-8031-C94C6305B404",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 42.323363,
-   "longitude": 69.615225,
-   "iso": "KAZ"
-  },
-  "properties": {
-   "orgName": "Шугула, Шымкент",
-   "orgType": "CONG",
-   "address": "КАЗАХСТАН, 160000\n(TUR) Туркестанская область, Шымкент\nул. Н.Торекулова, д. 97",
-   "languageCode": "AZ",
-   "schedule": "Sun 09:30 Thu 19:00",
-   "phones": [ "+7&nbsp;777 223 1989" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "26B0E2C9-2409-4164-BEEA-816E742D10FA",
-  "type": "weekly",
-  "isPrimary": 0,
-  "location": {
-   "latitude": 42.323363,
-   "longitude": 69.615225,
-   "iso": "KAZ"
-  },
-  "properties": {
-   "orgName": "Шаттык, Шымкент",
-   "orgType": "CONG",
-   "address": "КАЗАХСТАН, 160000\n(TUR) Туркестанская область, Шымкент\nул. Н.Торекулова, д. 97",
-   "languageCode": "AZ",
-   "schedule": "Sun 14:30 Tue 19:00",
-   "phones": [ "+77055013619" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -795,8 +855,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.323363,
-   "longitude": 69.615225,
-   "iso": "KAZ"
+   "longitude": 69.615225
   },
   "properties": {
    "orgName": "Северо-восточное Русское, Шымкент",
@@ -807,7 +866,7 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -815,45 +874,21 @@
  {
   "geoId": "B03E8EE0-270F-449D-BFDB-7D187DDDB00B",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.323363,
-   "longitude": 69.615225,
-   "iso": "KAZ"
+   "longitude": 69.615225
   },
   "properties": {
    "orgName": "Южное Русское, Шымкент",
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 160000\n(TUR) Туркестанская область, Шымкент\nул. Н.Торекулова, д. 97",
    "languageCode": "U",
-   "schedule": "Sat 17:00 Wed 19:00",
+   "schedule": "Sun 17:00 Wed 19:00",
    "phones": [ "8 705 107 51 02" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "9E45366B-174D-45C8-AE1A-9972046E1E5A",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 42.323363,
-   "longitude": 69.615225,
-   "iso": "KAZ"
-  },
-  "properties": {
-   "orgName": "Центральное Русское, Шымкент",
-   "orgType": "CONG",
-   "address": "КАЗАХСТАН, 160000\n(TUR) Туркестанская область, Шымкент\nул. Н.Торекулова, д. 97",
-   "languageCode": "U",
-   "schedule": "Sun 09:30 Thu 19:00",
-   "phones": [ "87772404744" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -864,8 +899,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.323363,
-   "longitude": 69.615225,
-   "iso": "KAZ"
+   "longitude": 69.615225
   },
   "properties": {
    "orgName": "Самал Русское, Шымкент",
@@ -876,7 +910,7 @@
    "phones": [ "+77059019653" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -884,69 +918,22 @@
  {
   "geoId": "99B96806-F195-437A-A1AD-56F6E5901D78",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.323363,
-   "longitude": 69.615225,
-   "iso": "KAZ"
+   "longitude": 69.615225
   },
   "properties": {
    "orgName": "Шапагат Русское, Шымкент",
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 160000\n(TUR) Туркестанская область, Шымкент\nул. Н.Торекулова, д. 97",
    "languageCode": "U",
-   "schedule": "Sun 17:00 Thu 19:00",
+   "schedule": "Sun 16:30 Thu 19:00",
    "phones": [ "87019154934" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "515CBD7E-1242-4E95-A95C-277487102932",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 42.323363,
-   "longitude": 69.615225,
-   "iso": "KAZ"
-  },
-  "properties": {
-   "orgName": "Жестовый язык, Шымкент",
-   "orgType": "CONG",
-   "address": "КАЗАХСТАН, 160000\n(TUR) Туркестанская область, Шымкент\nул. Н.Торекулова, д. 97",
-   "languageCode": "RSL",
-   "schedule": "Sun 12:00 Fri 16:00",
-   "phones": [ "87252433020" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "A14BF3F4-3086-4A74-B377-FA49E5394C27",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 42.323363,
-   "longitude": 69.615225,
-   "iso": "KAZ"
-  },
-  "properties": {
-   "orgName": "Узбекское, Шымкент",
-   "orgType": "CONG",
-   "address": "КАЗАХСТАН, 160000\n(TUR) Туркестанская область, Шымкент\nул. Н.Торекулова, д. 97",
-   "languageCode": "UZ",
-   "schedule": "Sat 14:00 Tue 17:30",
-   "phones": [ "87713882182 Атабек. 8708 478 52 95 Талгат" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -956,20 +943,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.323363,
-   "longitude": 69.615225,
-   "iso": "KAZ"
+   "longitude": 69.615225
   },
   "properties": {
    "orgName": "Нурсат, Шымкент",
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 160000\n(TUR) Туркестанская область, Шымкент\nул. Н.Торекулова, д. 97",
    "languageCode": "AZ",
-   "schedule": "Sat 18:00 Mon 19:00",
-   "phones": [ "+7&nbsp;705 357-14-57" ],
+   "schedule": "Sat 11:00 Tue 18:30",
+   "phones": [ "+7&nbsp;705 357-14-56" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -979,20 +965,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.444652,
-   "longitude": 69.541034,
-   "iso": "KAZ"
+   "longitude": 69.541034
   },
   "properties": {
    "orgName": "Кайнар-Булак Русское, Шымкент",
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 160021\n(TUR) Туркестанская область, Шымкент\nд/пос Кайнар-булак, м-в Курылыс",
    "languageCode": "U",
-   "schedule": "Sun 10:00 Thu 18:00",
-   "phones": [ "+7 705 603 7829" ],
+   "schedule": "Sun 10:00 Thu 19:00",
+   "phones": [ "(7252) 27-47-23 (З.Ц.)" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1002,20 +987,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.444652,
-   "longitude": 69.541034,
-   "iso": "KAZ"
+   "longitude": 69.541034
   },
   "properties": {
    "orgName": "Кайнар-Булак, Шымкент",
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 160021\n(TUR) Туркестанская область, Шымкент\nд/пос Кайнар-булак, м-в Курылыс",
    "languageCode": "AZ",
-   "schedule": "Sat 19:00 Wed 19:00",
+   "schedule": "Sat 18:00 Wed 19:00",
    "phones": [ "87763075562" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1025,21 +1009,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.51413,
-   "longitude": 68.518,
-   "iso": "KAZ"
+   "longitude": 68.518
   },
   "properties": {
    "orgName": "Кентау (русский) - Кентау",
    "orgType": "GROUP",
    "address": "КАЗАХСТАН\n(TUR) Туркестанская область, Кентау\nул. Ерназарова, 56А",
    "languageCode": "U",
-   "schedule": "Sun 12:30 undefined null",
+   "schedule": "Sun 12:15 undefined null",
    "relatedLanguageCodes": [ "AZ" ],
-   "phones": [ "+7&nbsp;771 562 64 98" ],
+   "phones": [ "+7&nbsp;771 198 5112" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1049,32 +1032,76 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.51413,
-   "longitude": 68.518,
-   "iso": "KAZ"
+   "longitude": 68.518
   },
   "properties": {
    "orgName": "Кентау",
    "orgType": "CONG",
    "address": "КАЗАХСТАН\n(TUR) Туркестанская область, Кентау\nул. Ерназарова, 56А",
    "languageCode": "AZ",
-   "schedule": "Sun 10:00 Wed 18:00",
+   "schedule": "Sun 10:00 Wed 17:00",
    "relatedLanguageCodes": [ "U" ],
-   "phones": [ "+7&nbsp;771 562 64 98" ],
+   "phones": [ "+7&nbsp;771 198 5112" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "0257EC32-01F0-43DF-8031-C94C6305B404",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 42.41561,
+   "longitude": 69.81637
+  },
+  "properties": {
+   "orgName": "Шугула, Шымкент",
+   "orgType": "CONG",
+   "address": "КАЗАХСТАН, 160800\n(TUR) Туркестанская область, Аксукент (село)\nул. Конаева, д.67 А",
+   "transliteratedAddress": "160800\r\n(TUR) Turkistanskaya oblast, Aksukent (Sayramskiy rayon) (selo)\r\n67A Konayev Str.\r\n",
+   "languageCode": "AZ",
+   "schedule": "Sat 10:00 Mon 19:00",
+   "phones": [ "+7&nbsp;(72531) 7-27-90 ЗЦ." ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "26B0E2C9-2409-4164-BEEA-816E742D10FA",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 42.41561,
+   "longitude": 69.81637
+  },
+  "properties": {
+   "orgName": "Шаттык, Шымкент",
+   "orgType": "CONG",
+   "address": "КАЗАХСТАН, 160800\n(TUR) Туркестанская область, Аксукент (село)\nул. Конаева, д.67 А",
+   "transliteratedAddress": "160800\r\n(TUR) Turkistanskaya oblast, Aksukent (Sayramskiy rayon) (selo)\r\n67A Konayev Str.\r\n",
+   "languageCode": "AZ",
+   "schedule": "Sun 14:00 Wed 19:00",
+   "phones": [ "+77054024719" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "1233716A-155B-468C-85A5-D6B20885A1F2",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.41561,
-   "longitude": 69.81637,
-   "iso": "KAZ"
+   "longitude": 69.81637
   },
   "properties": {
    "orgName": "Белые воды Русское, Аксу",
@@ -1086,19 +1113,18 @@
    "phones": [ "87472173884" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "D2A62A7E-CC64-435D-9DF4-2104FFE6972A",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 42.41561,
-   "longitude": 69.81637,
-   "iso": "KAZ"
+   "longitude": 69.81637
   },
   "properties": {
    "orgName": "Аксукент",
@@ -1106,12 +1132,12 @@
    "address": "КАЗАХСТАН, 160800\n(TUR) Туркестанская область, Аксукент (село)\nул. Конаева, д.67 А",
    "transliteratedAddress": "160800\r\n(TUR) Turkistanskaya oblast, Aksukent (Sayramskiy rayon) (selo)\r\n67A Konayev Str.\r\n",
    "languageCode": "AZ",
-   "schedule": "Sat 15:00 Thu 18:30",
-   "phones": [ "+77771906277" ],
+   "schedule": "Sat 10:30 Wed 18:30",
+   "phones": [ "+77475230344" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1121,8 +1147,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.41561,
-   "longitude": 69.81637,
-   "iso": "KAZ"
+   "longitude": 69.81637
   },
   "properties": {
    "orgName": "Узбекское, Аксукент",
@@ -1130,12 +1155,12 @@
    "address": "КАЗАХСТАН, 160800\n(TUR) Туркестанская область, Аксукент (село)\nул. Конаева, д.67 А",
    "transliteratedAddress": "160800\r\n(TUR) Turkistanskaya oblast, Aksukent (Sayramskiy rayon) (selo)\r\n67A Konayev Str.\r\n",
    "languageCode": "UZ",
-   "schedule": "Sat 10:00 Wed 18:00",
-   "phones": [ "+7&nbsp;(747) 61-77-666" ],
+   "schedule": "Sat 08:00 Mon 18:00",
+   "phones": [ "+7&nbsp;(747)4220289" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1145,20 +1170,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.550262,
-   "longitude": 69.724428,
-   "iso": "KAZ"
+   "longitude": 69.724428
   },
   "properties": {
    "orgName": "Жанатас",
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 080700\n(ZHA) Жамбылская область, Жанатас\n2 мкр-н (без номера)",
    "languageCode": "AZ",
-   "schedule": "Sun 12:00 Thu 19:00",
+   "schedule": "Sun 13:00 Thu 19:00",
    "phones": [ "6-44-39" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1168,20 +1192,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.189347,
-   "longitude": 70.456106,
-   "iso": "KAZ"
+   "longitude": 70.456106
   },
   "properties": {
    "orgName": "Русское, Каратау",
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 080800\n(ZHA) Жамбылская область, Каратау\nул. А. Байкожаева, д. 1",
    "languageCode": "U",
-   "schedule": "Sun 11:00 Tue 19:00",
+   "schedule": "Sun 10:30 Tue 19:30",
    "phones": [ "+7&nbsp;708 488 45 32" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1191,20 +1214,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.189347,
-   "longitude": 70.456106,
-   "iso": "KAZ"
+   "longitude": 70.456106
   },
   "properties": {
    "orgName": "Каратау",
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 080800\n(ZHA) Жамбылская область, Каратау\nул. А. Байкожаева, д. 1",
    "languageCode": "AZ",
-   "schedule": "Sun 14:00 Wed 19:00",
+   "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "87002426615.  87058702296" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1214,8 +1236,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.890516,
-   "longitude": 71.332405,
-   "iso": "KAZ"
+   "longitude": 71.332405
   },
   "properties": {
    "orgName": "Жестовый язык, Тараз",
@@ -1223,12 +1244,12 @@
    "address": "КАЗАХСТАН, 080006\n(ZHA) Жамбылская область, Тараз\nЖазылбека Куанышбаева, д. 4",
    "transliteratedAddress": "080006\r\n(ZHA) Zhambylskaya oblast, Taraz\r\nZhazylbek Kuanyshbaeva, 4\r\n",
    "languageCode": "RSL",
-   "schedule": "Sat 15:00 Tue 18:30",
-   "phones": [ "(7262) 46-02-67" ],
+   "schedule": "Sun 12:30 Tue 18:00",
+   "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1238,8 +1259,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.890516,
-   "longitude": 71.332405,
-   "iso": "KAZ"
+   "longitude": 71.332405
   },
   "properties": {
    "orgName": "Юго-западное Русское, Тараз",
@@ -1247,12 +1267,12 @@
    "address": "КАЗАХСТАН, 080006\n(ZHA) Жамбылская область, Тараз\nЖазылбека Куанышбаева, д. 4",
    "transliteratedAddress": "080006\r\n(ZHA) Zhambylskaya oblast, Taraz\r\nZhazylbek Kuanyshbaeva, 4\r\n",
    "languageCode": "U",
-   "schedule": "Sun 17:00 Fri 19:45",
-   "phones": [ "±77072776340" ],
+   "schedule": "Sun 15:00 Mon 20:00",
+   "phones": [ "+77479984971" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1262,8 +1282,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.890516,
-   "longitude": 71.332405,
-   "iso": "KAZ"
+   "longitude": 71.332405
   },
   "properties": {
    "orgName": "Алатау Русское, Тараз",
@@ -1271,12 +1290,12 @@
    "address": "КАЗАХСТАН, 080006\n(ZHA) Жамбылская область, Тараз\nЖазылбека Куанышбаева, д. 4",
    "transliteratedAddress": "080006\r\n(ZHA) Zhambylskaya oblast, Taraz\r\nZhazylbek Kuanyshbaeva, 4\r\n",
    "languageCode": "U",
-   "schedule": "Sun 14:30 Thu 19:45",
-   "phones": [ "+77779751870" ],
+   "schedule": "Sun 10:00 Fri 19:45",
+   "phones": [ "+77075764398" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1286,8 +1305,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.890516,
-   "longitude": 71.332405,
-   "iso": "KAZ"
+   "longitude": 71.332405
   },
   "properties": {
    "orgName": "Коктем, Тараз",
@@ -1295,12 +1313,12 @@
    "address": "КАЗАХСТАН, 080006\n(ZHA) Жамбылская область, Тараз\nЖазылбека Куанышбаева, д. 4",
    "transliteratedAddress": "080006\r\n(ZHA) Zhambylskaya oblast, Taraz\r\nZhazylbek Kuanyshbaeva, 4\r\n",
    "languageCode": "AZ",
-   "schedule": "Sun 09:30 Mon 19:30",
+   "schedule": "Sat 18:00 Wed 19:30",
    "phones": [ "87077201846" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1310,8 +1328,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.890516,
-   "longitude": 71.332405,
-   "iso": "KAZ"
+   "longitude": 71.332405
   },
   "properties": {
    "orgName": "Жайлау, Тараз",
@@ -1319,12 +1336,12 @@
    "address": "КАЗАХСТАН, 080006\n(ZHA) Жамбылская область, Тараз\nЖазылбека Куанышбаева, д. 4",
    "transliteratedAddress": "080006\r\n(ZHA) Zhambylskaya oblast, Taraz\r\nZhazylbek Kuanyshbaeva, 4\r\n",
    "languageCode": "AZ",
-   "schedule": "Sun 12:00 Wed 19:30",
+   "schedule": "Sun 17:30 Thu 19:30",
    "phones": [ "+77712890912" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1334,8 +1351,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.87775,
-   "longitude": 71.375479,
-   "iso": "KAZ"
+   "longitude": 71.375479
   },
   "properties": {
    "orgName": "Западное Русское, Тараз",
@@ -1343,13 +1359,13 @@
    "address": "КАЗАХСТАН, 080001\n(ZHA) Жамбылская область, Тараз\nул. Петрова 1",
    "transliteratedAddress": "080001\r\n(ZHA) Zhambylskaya oblast, Taraz\r\n1, Petrov street\r\n",
    "languageCode": "U",
-   "schedule": "Sun 13:00 Fri 20:00",
+   "schedule": "Sat 18:30 Fri 20:00",
    "relatedLanguageCodes": [ "UZ" ],
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1359,8 +1375,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.87775,
-   "longitude": 71.375479,
-   "iso": "KAZ"
+   "longitude": 71.375479
   },
   "properties": {
    "orgName": "Центральное Русское, Тараз",
@@ -1368,12 +1383,12 @@
    "address": "КАЗАХСТАН, 080001\n(ZHA) Жамбылская область, Тараз\nул. Петрова 1",
    "transliteratedAddress": "080001\r\n(ZHA) Zhambylskaya oblast, Taraz\r\n1, Petrov street\r\n",
    "languageCode": "U",
-   "schedule": "Sat 11:00 Tue 20:00",
-   "phones": [ "8 708 754 63 64" ],
+   "schedule": "Sat 13:30 Thu 20:00",
+   "phones": [ "8 705 543 07 73" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1383,8 +1398,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.87775,
-   "longitude": 71.375479,
-   "iso": "KAZ"
+   "longitude": 71.375479
   },
   "properties": {
    "orgName": "Парковое Русское, Тараз",
@@ -1392,12 +1406,12 @@
    "address": "КАЗАХСТАН, 080001\n(ZHA) Жамбылская область, Тараз\nул. Петрова 1",
    "transliteratedAddress": "080001\r\n(ZHA) Zhambylskaya oblast, Taraz\r\n1, Petrov street\r\n",
    "languageCode": "U",
-   "schedule": "Sat 16:30 Thu 20:00",
+   "schedule": "Sat 16:00 Tue 20:00",
    "phones": [ "87760554406;" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1407,8 +1421,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.87775,
-   "longitude": 71.375479,
-   "iso": "KAZ"
+   "longitude": 71.375479
   },
   "properties": {
    "orgName": "Самал Русское, Тараз",
@@ -1416,12 +1429,12 @@
    "address": "КАЗАХСТАН, 080001\n(ZHA) Жамбылская область, Тараз\nул. Петрова 1",
    "transliteratedAddress": "080001\r\n(ZHA) Zhambylskaya oblast, Taraz\r\n1, Petrov street\r\n",
    "languageCode": "U",
-   "schedule": "Sun 10:30 Wed 20:00",
-   "phones": [ "8 777 092 2466" ],
+   "schedule": "Sun 10:00 Mon 20:00",
+   "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1431,8 +1444,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.87775,
-   "longitude": 71.375479,
-   "iso": "KAZ"
+   "longitude": 71.375479
   },
   "properties": {
    "orgName": "Ак ниет, Тараз",
@@ -1440,12 +1452,12 @@
    "address": "КАЗАХСТАН, 080001\n(ZHA) Жамбылская область, Тараз\nул. Петрова 1",
    "transliteratedAddress": "080001\r\n(ZHA) Zhambylskaya oblast, Taraz\r\n1, Petrov street\r\n",
    "languageCode": "AZ",
-   "schedule": "Sun 10:30 Thu 19:30",
+   "schedule": "Sun 13:30 Wed 20:00",
    "phones": [ "(7262) 46-02-67" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1455,8 +1467,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.87775,
-   "longitude": 71.375479,
-   "iso": "KAZ"
+   "longitude": 71.375479
   },
   "properties": {
    "orgName": "Восточное Русское, Тараз",
@@ -1464,11 +1475,11 @@
    "address": "КАЗАХСТАН, 080001\n(ZHA) Жамбылская область, Тараз\nул. Петрова 1",
    "transliteratedAddress": "080001\r\n(ZHA) Zhambylskaya oblast, Taraz\r\n1, Petrov street\r\n",
    "languageCode": "U",
-   "schedule": "Sat 16:30 Wed 20:00",
+   "schedule": "Sat 11:00 Wed 20:00",
    "phones": [ "87072731811" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -1479,8 +1490,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.855705,
-   "longitude": 71.399072,
-   "iso": "KAZ"
+   "longitude": 71.399072
   },
   "properties": {
    "orgName": "Южное Русское, Тараз",
@@ -1488,12 +1498,12 @@
    "address": "КАЗАХСТАН, 080016\n(ZHA) Жамбылская область, Тараз\nул. Сыздыкова, д. 118",
    "transliteratedAddress": "080016\r\n(ZHA) Zhambylskaya oblast, Taraz\r\n118, Syzdykov street\r\n",
    "languageCode": "U",
-   "schedule": "Sat 11:00 Tue 20:00",
-   "phones": [ "87079073284" ],
+   "schedule": "Sat 10:00 Wed 20:00",
+   "phones": [ "87766660005" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1503,8 +1513,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.855705,
-   "longitude": 71.399072,
-   "iso": "KAZ"
+   "longitude": 71.399072
   },
   "properties": {
    "orgName": "Солнечное Русское, Тараз",
@@ -1512,12 +1521,12 @@
    "address": "КАЗАХСТАН, 080016\n(ZHA) Жамбылская область, Тараз\nул. Сыздыкова, д. 118",
    "transliteratedAddress": "080016\r\n(ZHA) Zhambylskaya oblast, Taraz\r\n118, Syzdykov street\r\n",
    "languageCode": "U",
-   "schedule": "Sun 13:00 Wed 20:00",
+   "schedule": "Sat 17:00 Thu 20:00",
    "phones": [ "+77059041374" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1527,8 +1536,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.855705,
-   "longitude": 71.399072,
-   "iso": "KAZ"
+   "longitude": 71.399072
   },
   "properties": {
    "orgName": "Жибек Жолы, Тараз",
@@ -1536,12 +1544,12 @@
    "address": "КАЗАХСТАН, 080016\n(ZHA) Жамбылская область, Тараз\nул. Сыздыкова, д. 118",
    "transliteratedAddress": "080016\r\n(ZHA) Zhambylskaya oblast, Taraz\r\n118, Syzdykov street\r\n",
    "languageCode": "AZ",
-   "schedule": "Sun 10:00 Fri 19:30",
+   "schedule": "Sun 10:00 Fri 20:00",
    "phones": [ "+77072700522" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1551,8 +1559,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.855705,
-   "longitude": 71.399072,
-   "iso": "KAZ"
+   "longitude": 71.399072
   },
   "properties": {
    "orgName": "Карасу Русское, Тараз",
@@ -1564,7 +1571,7 @@
    "phones": [ "(7262) 46-32-48" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -1575,8 +1582,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.906215,
-   "longitude": 71.355708,
-   "iso": "KAZ"
+   "longitude": 71.355708
   },
   "properties": {
    "orgName": "Жаналык Русское, Тараз",
@@ -1588,7 +1594,7 @@
    "phones": [ "+77055440773" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -1599,8 +1605,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.906215,
-   "longitude": 71.355708,
-   "iso": "KAZ"
+   "longitude": 71.355708
   },
   "properties": {
    "orgName": "Северо-западное Русское, Тараз",
@@ -1608,12 +1613,12 @@
    "address": "КАЗАХСТАН\n(ZHA) Жамбылская область, Тараз\nул. Ниеткалиева, дом 37",
    "transliteratedAddress": "(ZHA) Zhambylskaya oblast, Taraz\r\n37, Nietkaliyeva Str.\r\n",
    "languageCode": "U",
-   "schedule": "Sun 13:00 Tue 20:00",
-   "phones": [ "+77075764398" ],
+   "schedule": "Sun 12:30 Fri 20:00",
+   "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1623,8 +1628,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.906215,
-   "longitude": 71.355708,
-   "iso": "KAZ"
+   "longitude": 71.355708
   },
   "properties": {
    "orgName": "Северное Русское, Тараз",
@@ -1632,12 +1636,12 @@
    "address": "КАЗАХСТАН\n(ZHA) Жамбылская область, Тараз\nул. Ниеткалиева, дом 37",
    "transliteratedAddress": "(ZHA) Zhambylskaya oblast, Taraz\r\n37, Nietkaliyeva Str.\r\n",
    "languageCode": "U",
-   "schedule": "Sat 20:15 Thu 19:00",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "8 705 610 3165" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1647,8 +1651,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.906215,
-   "longitude": 71.355708,
-   "iso": "KAZ"
+   "longitude": 71.355708
   },
   "properties": {
    "orgName": "Айнабулак, Тараз",
@@ -1656,12 +1659,12 @@
    "address": "КАЗАХСТАН\n(ZHA) Жамбылская область, Тараз\nул. Ниеткалиева, дом 37",
    "transliteratedAddress": "(ZHA) Zhambylskaya oblast, Taraz\r\n37, Nietkaliyeva Str.\r\n",
    "languageCode": "AZ",
-   "schedule": "Sat 18:00 Mon 20:00",
-   "phones": [ "87073392060" ],
+   "schedule": "Sat 18:00 Thu 19:00",
+   "phones": [ "87751001767" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1671,8 +1674,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.896684,
-   "longitude": 67.543883,
-   "iso": "KAZ"
+   "longitude": 67.543883
   },
   "properties": {
    "orgName": "Восточное Русское, Сатпаев",
@@ -1683,7 +1685,7 @@
    "phones": [ "8 747 176 03 20" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -1694,20 +1696,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.896684,
-   "longitude": 67.543883,
-   "iso": "KAZ"
+   "longitude": 67.543883
   },
   "properties": {
-   "orgName": "Западное Русское, Сатпаев",
+   "orgName": "Русское, Сатпаев",
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 101301\n(KAR) Карагандинская область, Сатпаев\nул.Жастар, 7а",
    "languageCode": "U",
-   "schedule": "Sun 13:00 Thu 18:30",
+   "schedule": "Sun 11:00 Wed 18:30",
    "phones": [ "+77775728537" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1717,20 +1718,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.896684,
-   "longitude": 67.543883,
-   "iso": "KAZ"
+   "longitude": 67.543883
   },
   "properties": {
    "orgName": "Сатпаев",
    "orgType": "CONG",
    "address": "КАЗАХСТАН, 101301\n(KAR) Карагандинская область, Сатпаев\nул.Жастар, 7а",
    "languageCode": "AZ",
-   "schedule": "Sun 16:00 Tue 19:00",
+   "schedule": "Sun 16:00 Thu 19:00",
    "phones": [ "+77078660300" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1740,8 +1740,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.795252,
-   "longitude": 67.698195,
-   "iso": "KAZ"
+   "longitude": 67.698195
   },
   "properties": {
    "orgName": "Русское, Жезказган",
@@ -1753,8 +1752,8 @@
    "phones": [ "+7&nbsp;707 708 1660" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1764,8 +1763,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.795252,
-   "longitude": 67.698195,
-   "iso": "KAZ"
+   "longitude": 67.698195
   },
   "properties": {
    "orgName": "Жезказган",
@@ -1773,12 +1771,12 @@
    "address": "КАЗАХСТАН\n(KAR) Карагандинская область, Жезказган\nул.Курмангазы, д. 36",
    "transliteratedAddress": "(KAR) Karagandinskaya oblast, Zhezkazgan\r\n36, Kurmangazy street\r\n",
    "languageCode": "AZ",
-   "schedule": "Sun 14:00 Thu 19:00",
+   "schedule": "Sun 13:30 Thu 19:00",
    "phones": [ "+77070606059" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

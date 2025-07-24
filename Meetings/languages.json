@@ -1163,7 +1163,7 @@
  },
  "PP": {
   "languageCode": "PP",
-  "languageName": "Ponapean",
+  "languageName": "Pohnpeian",
   "scriptDirection": "ltr",
   "isSignLanguage": false,
   "writtenLanguageCode": [ "PP" ]
@@ -1233,7 +1233,7 @@
  },
  "RT": {
   "languageCode": "RT",
-  "languageName": "Rutoro",
+  "languageName": "Runyoro-Rutooro",
   "scriptDirection": "ltr",
   "isSignLanguage": false,
   "writtenLanguageCode": [ "RT" ]
@@ -3259,7 +3259,7 @@
  },
  "RMB": {
   "languageCode": "RMB",
-  "languageName": "Romany (Bulgaria)",
+  "languageName": "Romany (Western Bulgaria)",
   "scriptDirection": "ltr",
   "isSignLanguage": false,
   "writtenLanguageCode": [ "RMB" ]
@@ -5186,7 +5186,10 @@
   "languageName": "Serbian",
   "scriptDirection": "ltr",
   "isSignLanguage": false,
-  "writtenLanguageCode": [ "SBN" ]
+  "writtenLanguageCode": [
+   "SB",
+   "SBO"
+  ]
  },
  "ACC": {
   "languageCode": "ACC",
@@ -5212,7 +5215,7 @@
  "ASN": {
   "languageCode": "ASN",
   "languageName": "Arabic (Sudanese)",
-  "scriptDirection": "ltr",
+  "scriptDirection": "rtl",
   "isSignLanguage": false,
   "writtenLanguageCode": [ "ASN" ]
  },
@@ -5267,7 +5270,7 @@
  },
  "BHL": {
   "languageCode": "BHL",
-  "languageName": "Bashilele",
+  "languageName": "Bushilele",
   "scriptDirection": "ltr",
   "isSignLanguage": false,
   "writtenLanguageCode": [ "BHL" ]
@@ -5313,5 +5316,131 @@
   "scriptDirection": "ltr",
   "isSignLanguage": false,
   "writtenLanguageCode": [ "KFL" ]
+ },
+ "LC": {
+  "languageCode": "LC",
+  "languageName": "Luchazi",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "LC" ]
+ },
+ "LH": {
+  "languageCode": "LH",
+  "languageName": "Samia",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "LH" ]
+ },
+ "BTS": {
+  "languageCode": "BTS",
+  "languageName": "Betsimisaraka (Northern)",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "BTS" ]
+ },
+ "GCS": {
+  "languageCode": "GCS",
+  "languageName": "Scottish Gaelic",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "GCS" ]
+ },
+ "LIN": {
+  "languageCode": "LIN",
+  "languageName": "Lingombe",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "LIN" ]
+ },
+ "DAR": {
+  "languageCode": "DAR",
+  "languageName": "Dari",
+  "scriptDirection": "rtl",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "DAR" ]
+ },
+ "BTA": {
+  "languageCode": "BTA",
+  "languageName": "Betsimisaraka (Southern)",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "BTA" ]
+ },
+ "NMB": {
+  "languageCode": "NMB",
+  "languageName": "Ngiemboon",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "NMB" ]
+ },
+ "NML": {
+  "languageCode": "NML",
+  "languageName": "Ngombale",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "NML" ]
+ },
+ "CRE": {
+  "languageCode": "CRE",
+  "languageName": "San Andrés Creole",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "CRE" ]
+ },
+ "CDG": {
+  "languageCode": "CDG",
+  "languageName": "Chedungun (Coast)",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "CDG" ]
+ },
+ "GCE": {
+  "languageCode": "GCE",
+  "languageName": "Guyanese Creole English",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "GCE" ]
+ },
+ "TFM": {
+  "languageCode": "TFM",
+  "languageName": "Totonac (North Central)",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "TFM" ]
+ },
+ "YKM": {
+  "languageCode": "YKM",
+  "languageName": "Yakoma",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "YKM" ]
+ },
+ "TMM": {
+  "languageCode": "TMM",
+  "languageName": "Portuguese (Mozambique)",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "TMM" ]
+ },
+ "SWK": {
+  "languageCode": "SWK",
+  "languageName": "Swahili (Katanga)",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "SWK" ]
+ },
+ "HGM": {
+  "languageCode": "HGM",
+  "languageName": "Manobo (Higaonon)",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "HGM" ]
+ },
+ "BTO": {
+  "languageCode": "BTO",
+  "languageName": "Betsileo",
+  "scriptDirection": "ltr",
+  "isSignLanguage": false,
+  "writtenLanguageCode": [ "BTO" ]
  }
 }

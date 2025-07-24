@@ -1,6 +1,7 @@
 import fetch from 'node-fetch';
 import fs from 'fs';
-import readline from 'readline';
+import * as readline from 'node:readline/promises';
+import { stdin as input, stdout as output } from 'node:process';
 import ProgressTracker from './js/ProgressTracker.js';
 import { LoadJSON, SaveFile, _SaveAllMeetings, cleanMeeting, replaceBooleansWithIntegers, ISODateString, isObject, isString, isEmpty } from './Meetings/Functions.js';
 
@@ -68,11 +69,21 @@ const retryFetch = (
 
         const wrapper = (n) => {
             fetch(url, fetchOptions)
-                .then((res) => {
+                .then(async (res) => {
                     if (res.ok) {
                         resolve(res)
-                    } else {
-                        throw new Error('Response not OK');
+                    }
+                    else if( res.status === 429) {
+                        // Too many requests, retry after delay
+                        if (n > 0) {
+                            await delay(retryDelay);
+                            wrapper(--n);
+                        } else {
+                            reject('error: too many requests');
+                        }
+                    } 
+                    else {
+                        resolve(res)
                     }
                 })
                 .catch(async (err) => {
@@ -185,10 +196,10 @@ async function getMeetings(lowerLat, lowerLon, upperLat, upperLon) {
 }
 
 //var orphanHalls = null;
-var orphanLocations = orphanLocations = LoadJSON(`${mainDir}/grid/orphanLocations.json`) ?? [];
+var orphanLocations = orphanLocations = LoadJSON(`${mainDir}grid/orphanLocations.json`) ?? [];
 async function FindOrphans(locations){
     if(orphanLocations == null){
-        orphanLocations = LoadJSON(`${mainDir}/grid/orphanLocations.json`) ?? [];
+        orphanLocations = LoadJSON(`${mainDir}grid/orphanLocations.json`) ?? [];
     }
     for(const [key, meetings] of locations){
         initialLocations.set(key, meetings);
@@ -224,15 +235,15 @@ async function SaveOrphans(){
     for(const meetings of Object.values(orphanLocations)){
         orphans.push(...meetings);
     }
-    await SaveFile(`${mainDir}/grid/orphanLocations.json`, JSON.stringify(orphanLocations, null, 1));
-    await SaveFile(`${mainDir}/grid/orphans.json`, JSON.stringify(orphans, null, 1));
+    await SaveFile(`${mainDir}grid/orphanLocations.json`, JSON.stringify(orphanLocations, null, 1));
+    await SaveFile(`${mainDir}grid/orphans.json`, JSON.stringify(orphans, null, 1));
     //console.log(`Saved ${orphanCount} orphan halls`);
 
     return orphans;
 }
 function DeleteOrphan(meeting){
     if(orphanLocations == null){
-        orphanLocations = LoadJSON(`${mainDir}/grid/orphanLocations.json`) ?? [];
+        orphanLocations = LoadJSON(`${mainDir}grid/orphanLocations.json`) ?? [];
     }
     const key = getMeetingLocationKey(meeting);
     if(!orphanLocations[key]) return;
@@ -490,8 +501,9 @@ async function ProcessGrid(country, forCountry, sw, ne, step = null, recursivePe
             //     expectation = null;
             //     cache[key] = null;
             // }
-            if(expectation === 0) continue;
             let km = step * 111;
+            if(expectation === 0 && km < 230) continue;
+            if(country == "CHN" && km < 100 && !(expectation > 0)) continue;
             let percent = recursivePercent + " " + Math.round(km) + "km " + zeroPad(Math.round(((percentLon + percentLat) / 2.0) * 100), 2) + "%";
             if(km <= 0.05 && expectation == '+')
                 expectation = null;
@@ -565,10 +577,13 @@ function LoadExpectations(){
 }
 async function GetAllMeetings(countries){
 
-    await fs.mkdir(mainDir + "progress", (err)=>{
-        if (err) { console.error(err); return; };
-        console.log("Meetings/progress dir has been created");
-    });
+    //check dir exists
+    if (!fs.existsSync(mainDir + "progress/")){
+        await fs.mkdir(mainDir + "progress/", (err)=>{
+            if (err) { console.error(err); return; };
+            console.log("Meetings/progress dir has been created");
+        });
+    }
 
     let promises = [];
     for(const [countryCode, country] of Object.entries(countries)) {
@@ -582,7 +597,7 @@ async function GetAllMeetings(countries){
         lonMax = roundUpToNearest(lonMax, defaultStep);
 
         var crossesZero = (latMin < 0 && latMax > 0) || (lonMin < 0 && lonMax > 0);
-        let progressPath = `${mainDir}/progress/${countryCode}.json`;
+        let progressPath = `${mainDir}progress/${countryCode}.json`;
         if(fs.existsSync(progressPath)/* && !crossesZero*/) {
             console.log("Already processed " + countryCode);
             let forCountry = LoadJSON(progressPath);
@@ -657,28 +672,53 @@ function UpdateMeeting(meeting){
     }
     allMeetings[key] = meeting;
 }
-async function FetchLanguages(){
-    //check if file exists and is less than 30 day old
-    if(fs.existsSync(languagesFile) && fs.statSync(languagesFile).mtimeMs > Date.now() - (86400000 * 30)) {
-        console.log("Using cached languages");
-        return LoadJSON(languagesFile);
+async function FetchLanguages() {
+    const FIVE_DAYS = 86400000 * 5;
+    const now = Date.now();
+
+    let existingData = {};
+    if (fs.existsSync(languagesFile)) {
+        try {
+            existingData = LoadJSON(languagesFile) || {};
+        } catch (err) {
+            console.warn("Failed to parse existing languages file, starting fresh.", err);
+            existingData = {};
+        }
+
+        // Return cache if it's still fresh
+        const mtime = fs.statSync(languagesFile).mtimeMs;
+        if (mtime > now - FIVE_DAYS) {
+            console.log("Using cached languages");
+            return existingData;
+        }
     }
-    //const url = "https://www.jw.org/en/languages/";
+
     const url = "https://apps.jw.org/api/public/meeting-search/languages?UILanguageCode=E";
-    return await retryFetch(url, fetchOptions,
-        3, 1000).then((response) => response.json()).then((data) => {
 
-        if(data && data.length > 100) {
-            let dict = {};
+    try {
+        const data = await retryFetch(url, fetchOptions, 3, 1000)
+            .then(res => res.json());
+
+        if (Array.isArray(data) && data.length > 100) {
+            // Convert array to dictionary
+            const fetchedDict = {};
             data.forEach(item => {
-                dict[item.languageCode.toUpperCase()] = item;
+                fetchedDict[item.languageCode.toUpperCase()] = item;
             });
-            data = dict;
 
-            SaveFile(languagesFile, JSON.stringify(data, null, 1));
-        }else data = null;
-        return data;
-    });
+            // Merge: overwrite old keys with new values, keep others
+            const merged = { ...existingData, ...fetchedDict };
+
+            SaveFile(languagesFile, JSON.stringify(merged, null, 1));
+            return merged;
+        } else {
+            console.warn("Fetched language data is too small or invalid, keeping existing cache.");
+            return existingData;
+        }
+    } catch (err) {
+        console.error("FetchLanguages failed, falling back to existing cache.", err);
+        return existingData;
+    }
 }
 
 
@@ -693,6 +733,7 @@ async function SaveAllMeetings(allMeetings){
     let available_grids = {};
     let totalActive = 0;
     let totalInactive = 0;
+    let totalMoved = 0;
     let totalSchedules = 0;
     let locations = GroupByLocation(allMeetings);
     let totalLocations = locations.size;
@@ -720,7 +761,7 @@ async function SaveAllMeetings(allMeetings){
                 totalSchedules++;
         }
         if(meeting.moved){
-
+            totalMoved++;
         } else if(meeting.active)
             totalActive++;
         else {
@@ -742,6 +783,7 @@ async function SaveAllMeetings(allMeetings){
         total: totalActive + totalInactive,
         totalActive: totalActive,
         totalInactive: totalInactive,
+        totalMoved: totalMoved,
         totalLocations: totalLocations,
         activeLocations: activeLocations,
         totalOrphans: orphanCount,
@@ -752,7 +794,7 @@ async function SaveAllMeetings(allMeetings){
     SaveFile(statsFile, JSON.stringify(stats, null, 1));
     let savePromises = [];
     for(const [key, meetings] of Object.entries(grids)){
-        savePromises.push(SaveFile(`${mainDir}/grid/${key}.json`, JSON.stringify(meetings, null, 1)));
+        savePromises.push(SaveFile(`${mainDir}grid/${key}.json`, JSON.stringify(meetings, null, 1)));
     }
 
     await _SaveAllMeetings(meetingsFile, allMeetings);
@@ -813,17 +855,10 @@ loadAllmeetings();
 var cachedExpectation = LoadExpectations();
 var cache = LoadCache();
 
-const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout
-});
+const rl = readline.createInterface({ input, output });
+
 const askQuestion = (question) => {
-    return new Promise((resolve) => {
-        rl.question(question, (answer) => {
-            resolve(answer);
-            rl.close();
-        });
-    });
+    return rl.question(question);
 };
 
 const get_all = async function(args){
@@ -1032,23 +1067,35 @@ async function doOption(args){
 async function promptUser() {
     let prompt = `Which function do you want to initiate?`;
     let index = 1;
-    for (const [key, value] of Object.entries(actions)) {
+    for (const key of Object.keys(actions)) {
         prompt += `\n${index}. ${key}`;
         index++;
     }
     prompt += `\n> `;
 
-    rl.question(prompt, (answer) => {
-        let option =
-        doOption(answer.split(' '));
-        rl.close();
-    });
+    // Await the answer directly
+    const answer = await rl.question(prompt);
+    // Await the action to ensure it completes
+    await doOption(answer.split(' '));
 }
 
-//check args
-if (process.argv.length > 2) {
-    const args = process.argv.slice(2);
-    doOption(args);
-}else {
-    promptUser();
+async function main() {
+    // Wait for initial meetings to load
+    while(allMeetings == null){
+        console.log("Waiting for meetings to load...");
+        await delay(100);
+    }
+
+    if (process.argv.length > 2) {
+        const args = process.argv.slice(2);
+        await doOption(args);
+    } else {
+        await promptUser();
+    }
+
+    // Close the readline interface so the program can exit cleanly
+    rl.close();
 }
+
+// Start the main execution
+main().catch(console.error);

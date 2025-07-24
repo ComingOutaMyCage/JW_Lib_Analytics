@@ -5,23 +5,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": -34.031805,
-   "longitude": 24.757087,
-   "iso": "ZAF"
+   "longitude": 24.757087
   },
   "properties": {
    "orgName": "Humansdorp Congregation",
    "orgType": "CONG",
    "address": "487 Koerat Street\nHUMANSDORP\n6300\nSOUTH AFRICA",
    "languageCode": "E",
-   "schedule": "Sun 09:00 Thu 19:00",
-   "phones": [
-    "+27&nbsp;082 391 0032",
-    "+27&nbsp;0823910032"
-   ],
+   "schedule": "Sun 11:00 Thu 19:00",
+   "relatedLanguageCodes": [ "AF" ],
+   "phones": [ "0823910032" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -31,22 +28,44 @@
   "isPrimary": 1,
   "location": {
    "latitude": -34.031805,
-   "longitude": 24.757087,
-   "iso": "ZAF"
+   "longitude": 24.757087
   },
   "properties": {
    "orgName": "Humansdorp South Congregation",
    "orgType": "CONG",
    "address": "487 Koerat Street\nHUMANSDORP\n6300\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 11:30 Wed 18:00",
-   "phones": [ "+27&nbsp;0835463318 / +27 0714115538" ],
+   "schedule": "Sun 08:30 Wed 18:00",
+   "phones": [ "+27&nbsp;835463318 / +27 0714115538" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "4BA41FCD-5E14-4A5B-BA12-01EA41309C6D",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -34.031805,
+   "longitude": 24.757087
+  },
+  "properties": {
+   "orgName": "Humansdorp Afrikaans Group - Humansdorp Congregation",
+   "orgType": "GROUP",
+   "address": "487 Koerat Street\nHUMANSDORP\n6300\nSOUTH AFRICA",
+   "languageCode": "AF",
+   "schedule": "Sun 11:00 Thu 19:00",
+   "relatedLanguageCodes": [ "E" ],
+   "phones": [ "0823910032" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "68D9EAAD-96CB-4373-8BE4-E753FD5E8195",
@@ -54,21 +73,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": -34.045116,
-   "longitude": 24.912315,
-   "iso": "ZAF"
+   "longitude": 24.912315
   },
   "properties": {
    "orgName": "Jeffreys Bay Congregation",
    "orgType": "CONG",
    "address": "Dolly Varden Street\nJeffreys Bay\nHUMANSDORP\n6300\nSOUTH AFRICA",
    "languageCode": "E",
-   "schedule": "Sun 11:30 Tue 19:00",
-   "relatedLanguageCodes": [ "AF" ],
-   "phones": [ "0834098751" ],
+   "schedule": "Sun 09:00 Tue 19:00",
+   "relatedLanguageCodes": [ "CA" ],
+   "phones": [ "072 557 4989 / 072 357 0844" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -78,8 +96,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -34.045116,
-   "longitude": 24.912315,
-   "iso": "ZAF"
+   "longitude": 24.912315
   },
   "properties": {
    "orgName": "Jeffreys Bay Afrikaans Group - Jeffreys Bay Congregation",
@@ -91,10 +108,55 @@
    "phones": [ "0834098751" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "A2D49B7C-A422-4B4A-B53A-8104BE075925",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -34.045116,
+   "longitude": 24.912315
+  },
+  "properties": {
+   "orgName": "Jeffreysbaai Sentraal Congregation",
+   "orgType": "CONG",
+   "address": "Dolly Varden Street\nJeffreys Bay\nHUMANSDORP\n6300\nSOUTH AFRICA",
+   "languageCode": "AF",
+   "schedule": "Sun 11:30 Wed 19:00",
+   "phones": [ "083 409 8751 / 072 735 6940" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
+ },
+ {
+  "geoId": "77F4DD97-A546-4B0A-8706-02471D667815",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -34.045116,
+   "longitude": 24.912315
+  },
+  "properties": {
+   "orgName": "Jeffreys Bay Shona Pregroup - Jeffreys Bay Congregation",
+   "orgType": "PREGROUP",
+   "address": "Dolly Varden Street\nJeffreys Bay\nHUMANSDORP\n6300\nSOUTH AFRICA",
+   "languageCode": "CA",
+   "schedule": "Sun 09:00 Tue 19:00",
+   "relatedLanguageCodes": [ "E" ],
+   "phones": [ "072 557 4989 / 072 357 0844" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "7C87174C-7DAA-4606-84FE-2626AFEB0130",
@@ -102,8 +164,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.3333,
-   "longitude": 24.3434,
-   "iso": "ZAF"
+   "longitude": 24.3434
   },
   "properties": {
    "orgName": "Steytlerville Congregation",
@@ -114,8 +175,8 @@
    "phones": [ "+2 0748873466" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -125,8 +186,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.897361,
-   "longitude": 25.14126,
-   "iso": "ZAF"
+   "longitude": 25.14126
   },
   "properties": {
    "orgName": "Gamtoos Congregation",
@@ -137,8 +197,8 @@
    "phones": [ "0727405114 / +27 0826517990" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -148,8 +208,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.897361,
-   "longitude": 25.14126,
-   "iso": "ZAF"
+   "longitude": 25.14126
   },
   "properties": {
    "orgName": "Hankey Congregation",
@@ -160,7 +219,7 @@
    "phones": [ "+27&nbsp;0782630966 / +27 79 092 4700" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-02-20"
@@ -171,8 +230,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -34.005707,
-   "longitude": 25.362392,
-   "iso": "ZAF"
+   "longitude": 25.362392
   },
   "properties": {
    "orgName": "Seaview Congregation",
@@ -183,8 +241,8 @@
    "phones": [ "083 295 2928" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -194,8 +252,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.945002,
-   "longitude": 25.482974,
-   "iso": "ZAF"
+   "longitude": 25.482974
   },
   "properties": {
    "orgName": "Westering Congregation",
@@ -203,11 +260,11 @@
    "address": "263 Great West Way (North)\nKabega Park\nPORT ELIZABETH\n6055\nSOUTH AFRICA",
    "languageCode": "E",
    "schedule": "Sun 11:45 Thu 19:00",
-   "phones": [ "082 588 6146 / 081 406 9824" ],
+   "phones": [ "073 290 2830 / 081 406 9824" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -217,8 +274,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.945002,
-   "longitude": 25.482974,
-   "iso": "ZAF"
+   "longitude": 25.482974
   },
   "properties": {
    "orgName": "Kabega Park Congregation",
@@ -226,11 +282,11 @@
    "address": "263 Great West Way (North)\nKabega Park\nPORT ELIZABETH\n6055\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 09:00 Wed 19:00",
-   "phones": [ "0823147788 / 063 838 4171" ],
+   "phones": [ "0795849883/ 063 838 4171" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -240,20 +296,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.816301,
-   "longitude": 25.377996,
-   "iso": "ZAF"
+   "longitude": 25.377996
   },
   "properties": {
    "orgName": "KwaNobuhle Central Congregation",
    "orgType": "CONG",
    "address": "16 Hopa Street\nKWANOBUHLE\n6242\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 10:00 Thu 18:00",
-   "phones": [ "+27738395850/ +27 662519008" ],
+   "schedule": "Sun 10:00 Wed 18:00",
+   "phones": [ "+27738395850/" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -263,8 +318,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.816301,
-   "longitude": 25.377996,
-   "iso": "ZAF"
+   "longitude": 25.377996
   },
   "properties": {
    "orgName": "KwaNobuhle South Congregation",
@@ -280,7 +334,7 @@
    ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -291,8 +345,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.981059,
-   "longitude": 25.547006,
-   "iso": "ZAF"
+   "longitude": 25.547006
   },
   "properties": {
    "orgName": "Lorraine Congregation",
@@ -300,12 +353,11 @@
    "address": "Cnr Luke & Main Street\nCharlo\nSpringfield\nPORT ELIZABETH\n6011\nSOUTH AFRICA",
    "languageCode": "E",
    "schedule": "Sat 09:00 Wed 19:00",
-   "relatedLanguageCodes": [ "AF" ],
    "phones": [ "0844888949 / 0829213007" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -315,20 +367,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.981059,
-   "longitude": 25.547006,
-   "iso": "ZAF"
+   "longitude": 25.547006
   },
   "properties": {
    "orgName": "Overbaakens Congregation",
    "orgType": "CONG",
    "address": "Cnr Luke & Main Street\nCharlo\nSpringfield\nPORT ELIZABETH\n6011\nSOUTH AFRICA",
    "languageCode": "E",
-   "schedule": "Sun 11:30 Thu 19:00",
+   "schedule": "Sun 09:00 Thu 19:00",
    "phones": [ "0826510274" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -338,20 +389,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.981059,
-   "longitude": 25.547006,
-   "iso": "ZAF"
+   "longitude": 25.547006
   },
   "properties": {
    "orgName": "Charlo Congregation",
    "orgType": "CONG",
    "address": "Cnr Luke & Main Street\nCharlo\nSpringfield\nPORT ELIZABETH\n6011\nSOUTH AFRICA",
    "languageCode": "E",
-   "schedule": "Sun 09:00 Tue 19:00",
+   "schedule": "Sat 11:30 Tue 19:00",
    "phones": [ "+27&nbsp;82 711 1781 / +27 83 299 8213" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -374,10 +424,33 @@
    "phones": [ "0844888949 / 0829213007" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-12-27"
+ },
+ {
+  "geoId": "F8867211-D458-463D-9A12-1B062DCC63B1",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -33.981059,
+   "longitude": 25.547006
+  },
+  "properties": {
+   "orgName": "Springfield Congregation",
+   "orgType": "CONG",
+   "orgTransliteratedName": "Springfield Congregation",
+   "address": "Cnr Luke & Main Street\nCharlo\nSpringfield\nPORT ELIZABETH\n6011\nSOUTH AFRICA",
+   "languageCode": "AF",
+   "schedule": "Sun 11:30 Mon 19:00",
+   "phones": [ "072 373 2884 / 081 401 2389" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "0B5EFA8C-2C7A-455C-A3E2-73A54941D28E",
@@ -385,8 +458,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.8201,
-   "longitude": 25.4021,
-   "iso": "ZAF"
+   "longitude": 25.4021
   },
   "properties": {
    "orgName": "KwaNobuhle West Congregation",
@@ -394,11 +466,11 @@
    "address": "59 A Jayiya Street\nKwaNobuhle\nUITENHAGE\n6230\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 10:00 Wed 18:00",
-   "phones": [ "+27&nbsp;0835210857 / +27 0781280814" ],
+   "phones": [ "+27&nbsp;686121594/ +27 0781280814" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -408,8 +480,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.756542,
-   "longitude": 25.377926,
-   "iso": "ZAF"
+   "longitude": 25.377926
   },
   "properties": {
    "orgName": "McNaughton Congregation",
@@ -418,13 +489,13 @@
    "languageCode": "XO",
    "schedule": "Sun 10:00 Wed 18:00",
    "phones": [
-    "+27&nbsp;0788319287",
-    "+27&nbsp;0788319287"
+    "+27&nbsp;788319287",
+    "+27&nbsp;788319287"
    ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -434,8 +505,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.756542,
-   "longitude": 25.377926,
-   "iso": "ZAF"
+   "longitude": 25.377926
   },
   "properties": {
    "orgName": "Uitenhage-Noord Congregation",
@@ -443,11 +513,11 @@
    "address": "23 Abbot Road\nGerald Smith\nUITENHAGE\n6230\nSOUTH AFRICA",
    "languageCode": "AF",
    "schedule": "Sun 09:00 Thu 18:30",
-   "phones": [ "0837085455 / 0837606516" ],
+   "phones": [ "0837085455" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -457,8 +527,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.918259,
-   "longitude": 25.546708,
-   "iso": "ZAF"
+   "longitude": 25.546708
   },
   "properties": {
    "orgName": "Gelvandale Congregation",
@@ -466,11 +535,11 @@
    "address": "Cnr Jooste, Grimsell & Calvert Strs.\nGelvandale\nPORT ELIZABETH\nSOUTH AFRICA",
    "languageCode": "AF",
    "schedule": "Sun 09:00 Wed 19:00",
-   "phones": [ "+27&nbsp;084 995 0808  /  +27 71 130 4365" ],
+   "phones": [ "+27&nbsp;84 995 0808  /  071 130 4365" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -480,8 +549,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.942031,
-   "longitude": 25.578383,
-   "iso": "ZAF"
+   "longitude": 25.578383
   },
   "properties": {
    "orgName": "Newton Park Congregation",
@@ -489,12 +557,11 @@
    "address": "Aragon Street\nOpposite Andrew Rabie School\nPerridgevale\nPORT ELIZABETH\n6001\nSOUTH AFRICA",
    "languageCode": "E",
    "schedule": "Sun 11:30 Tue 19:00",
-   "relatedLanguageCodes": [ "CN" ],
-   "phones": [ "+27&nbsp;082-321-4752 / +27 062-533-2691" ],
+   "phones": [ "+27&nbsp;83 469 5392 / 062 533 2691" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -504,8 +571,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.942031,
-   "longitude": 25.578383,
-   "iso": "ZAF"
+   "longitude": 25.578383
   },
   "properties": {
    "orgName": "North End Congregation",
@@ -516,8 +582,8 @@
    "phones": [ "063 656 3964 / 084 506 0142" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -527,8 +593,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.942031,
-   "longitude": 25.578383,
-   "iso": "ZAF"
+   "longitude": 25.578383
   },
   "properties": {
    "orgName": "Newton Park Chichewa Group - Newton Park Congregation",
@@ -537,10 +602,10 @@
    "languageCode": "CN",
    "schedule": "Sun 11:30 undefined null",
    "relatedLanguageCodes": [ "E" ],
-   "phones": [ "+27&nbsp;082-321-4752 / +27 062-533-2691" ],
+   "phones": [ "+27&nbsp;082-321-4752 / +27 071-292-4383" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -563,7 +628,7 @@
    "phones": [ "+27&nbsp;082 261 9477 / +27 738880528" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -575,8 +640,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.891938,
-   "longitude": 25.529902,
-   "iso": "ZAF"
+   "longitude": 25.529902
   },
   "properties": {
    "orgName": "Saltville Congregation",
@@ -587,8 +651,8 @@
    "phones": [ "072 588 4920/ 060 974 7058" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -598,8 +662,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.891938,
-   "longitude": 25.529902,
-   "iso": "ZAF"
+   "longitude": 25.529902
   },
   "properties": {
    "orgName": "Cleary Park Congregation",
@@ -611,8 +674,8 @@
    "phones": [ "083 566 4935" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -622,8 +685,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.891938,
-   "longitude": 25.529902,
-   "iso": "ZAF"
+   "longitude": 25.529902
   },
   "properties": {
    "orgName": "Cleary Park Sign Language Group - Cleary Park Congregation",
@@ -635,8 +697,8 @@
    "phones": [ "083 566 4935" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -645,9 +707,8 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": -33.823022,
-   "longitude": 25.461006,
-   "iso": "ZAF"
+   "latitude": -33.822963,
+   "longitude": 25.461094
   },
   "properties": {
    "orgName": "Despatch Congregation",
@@ -655,11 +716,11 @@
    "address": "47 Hobe Street, Khaya Mnandi\nDESPATCH\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 10:00 Thu 05:30",
-   "phones": [ "+27&nbsp;082 261 9477 / +27 738880528" ],
+   "phones": [ "+27&nbsp;82 261 9477 / +27 731012772" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -669,8 +730,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.867505,
-   "longitude": 25.512012,
-   "iso": "ZAF"
+   "longitude": 25.512012
   },
   "properties": {
    "orgName": "Bethelsdorp Congregation",
@@ -678,11 +738,11 @@
    "address": "Cnr Acceur Crescent &\nLawrence Erasmus Drive\nChatty\nPORT ELIZABETH\n6059\nSOUTH AFRICA",
    "languageCode": "AF",
    "schedule": "Sun 09:00 Thu 19:00",
-   "phones": [ "+27&nbsp;0730270947 / +27 082 658 5843" ],
+   "phones": [ "+27&nbsp;730270947 / +27 082 658 5843" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -692,8 +752,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.777582,
-   "longitude": 25.422259,
-   "iso": "ZAF"
+   "longitude": 25.422259
   },
   "properties": {
    "orgName": "Uitenhage Central Congregation",
@@ -701,11 +760,11 @@
    "address": "2 Aaron Street\nValeisig\nUITENHAGE\n6229\nSOUTH AFRICA",
    "languageCode": "E",
    "schedule": "Sun 09:00 Thu 19:00",
-   "phones": [ "+27784426577/+27716277384" ],
+   "phones": [ "+27784426577/+27607337990" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -715,8 +774,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.970065,
-   "longitude": 25.622336,
-   "iso": "ZAF"
+   "longitude": 25.622336
   },
   "properties": {
    "orgName": "South End Congregation",
@@ -727,8 +785,8 @@
    "phones": [ "+27&nbsp;762414514 / +27 720567939" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -738,22 +796,45 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.970065,
-   "longitude": 25.622336,
-   "iso": "ZAF"
+   "longitude": 25.622336
   },
   "properties": {
    "orgName": "Walmer Congregation",
    "orgType": "CONG",
    "address": "13 Pier Street\nOff Walmer Blvd.\nSouth End\nPORT ELIZABETH\n6065\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 12:30 Wed 18:30",
+   "schedule": "Sun 11:30 Wed 18:30",
+   "relatedLanguageCodes": [ "CA" ],
    "phones": [ "0644546474 / 0732251413" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "84EE1C01-9FCF-40CA-A016-A68384607012",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -33.970065,
+   "longitude": 25.622336
+  },
+  "properties": {
+   "orgName": "Walmer Shona Pregroup - Walmer Congregation",
+   "orgType": "PREGROUP",
+   "address": "13 Pier Street\nOff Walmer Blvd.\nSouth End\nPORT ELIZABETH\n6065\nSOUTH AFRICA",
+   "languageCode": "CA",
+   "schedule": "Sun 14:00 Wed 18:30",
+   "relatedLanguageCodes": [ "XO" ],
+   "phones": [ "0644546474 / 0732251413" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "08D8A963-6F2C-4DC3-8B9E-001281AC7AA6",
@@ -761,8 +842,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.841281,
-   "longitude": 25.517644,
-   "iso": "ZAF"
+   "longitude": 25.517644
   },
   "properties": {
    "orgName": "Kwa-Dwesi Congregation",
@@ -770,34 +850,11 @@
    "address": "2 Mngampunzi Street\nCorner of Qumza and Mngampunzi\nKwa-Dwesi\nPORT ELIZABETH\n6201\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 10:00 Wed 18:00",
-   "phones": [ "+27&nbsp;0822298788 / 082 301 0012" ],
+   "phones": [ "+27&nbsp;822298788 / 081 888 0773" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "1C4A2A43-2593-4975-9CE9-C8E18558FF0C",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -33.861327,
-   "longitude": 25.550858,
-   "iso": "ZAF"
-  },
-  "properties": {
-   "orgName": "Zwide Congregation",
-   "orgType": "CONG",
-   "address": "65 Bukani Street\nZwide\nPORT ELIZABETH\n6201\nSOUTH AFRICA",
-   "languageCode": "XO",
-   "schedule": "Sun 10:00 Thu 18:00",
-   "phones": [ "0710718422/ 0718960893" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -807,8 +864,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.891664,
-   "longitude": 25.592498,
-   "iso": "ZAF"
+   "longitude": 25.592498
   },
   "properties": {
    "orgName": "New Brighton Congregation",
@@ -816,11 +872,33 @@
    "address": "Jawa Street\nNew Brighton\nPORT ELIZABETH\n6200\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 10:00 Thu 18:00",
-   "phones": [ "+27&nbsp;0847721683 / 0664838822" ],
+   "phones": [ "+27&nbsp;847721683 / 0664838822" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "1C4A2A43-2593-4975-9CE9-C8E18558FF0C",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -33.875481,
+   "longitude": 25.587164
+  },
+  "properties": {
+   "orgName": "Zwide Congregation",
+   "orgType": "CONG",
+   "address": "Cnr Stofile & Seyisi Street\nDaku\nKwasekhele\nPORT ELIZABETH\n6001\nSOUTH AFRICA",
+   "languageCode": "XO",
+   "schedule": "Sun 10:00 Thu 18:00",
+   "phones": [ "0710718422/ 0718960893" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -830,21 +908,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.875481,
-   "longitude": 25.587164,
-   "iso": "ZAF"
+   "longitude": 25.587164
   },
   "properties": {
    "orgName": "Daku Congregation",
    "orgType": "CONG",
    "address": "Cnr Stofile & Seyisi Street\nDaku\nKwasekhele\nPORT ELIZABETH\n6001\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 12:30 Thu 18:00",
+   "schedule": "Sun 10:00 Wed 18:00",
    "relatedLanguageCodes": [ "SAS" ],
-   "phones": [ "0642664393" ],
+   "phones": [ "0784046060/0784374639" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -854,8 +931,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.875481,
-   "longitude": 25.587164,
-   "iso": "ZAF"
+   "longitude": 25.587164
   },
   "properties": {
    "orgName": "Seyisi Congregation",
@@ -866,7 +942,7 @@
    "phones": [ "0784046060 / 0817810422" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-09-30",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -877,21 +953,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.875481,
-   "longitude": 25.587164,
-   "iso": "ZAF"
+   "longitude": 25.587164
   },
   "properties": {
    "orgName": "Daku Sign Language Group - Daku Congregation",
    "orgType": "GROUP",
    "address": "Cnr Stofile & Seyisi Street\nDaku\nKwasekhele\nPORT ELIZABETH\n6001\nSOUTH AFRICA",
    "languageCode": "SAS",
-   "schedule": "Sun 12:30 Thu 18:00",
+   "schedule": "Sun 10:00 Wed 18:00",
    "relatedLanguageCodes": [ "XO" ],
-   "phones": [ "0642664393" ],
+   "phones": [ "0784046060/0784374639" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -901,8 +976,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.941436,
-   "longitude": 24.676943,
-   "iso": "ZAF"
+   "longitude": 24.676943
   },
   "properties": {
    "orgName": "Jansenville Isolated Group - Steytlerville Congregation",
@@ -913,10 +987,33 @@
    "phones": [ "+2 0748873466" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-09-28",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "06C0FFC2-57E6-4C77-ABA3-8E7C71F07E01",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -32.941436,
+   "longitude": 24.676943
+  },
+  "properties": {
+   "orgName": "Jansenville Congregation",
+   "orgType": "CONG",
+   "orgTransliteratedName": "Jansenville Congregation",
+   "address": "548 New Ext Borgess\nnext to Jansenvill Primary School\nNuwe Uitbreiding\nJANSENVILLE\n6265\nSOUTH AFRICA",
+   "languageCode": "AF",
+   "schedule": "Sun 09:00 Tue 18:00",
+   "phones": [ "076 500 3372" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "E2B94DB7-7653-474C-88A5-8923978E1519",
@@ -924,20 +1021,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.82073,
-   "longitude": 25.594843,
-   "iso": "ZAF"
+   "longitude": 25.594843
   },
   "properties": {
    "orgName": "Motherwell South Congregation",
    "orgType": "CONG",
    "address": "50 Gugura Street\nN.U. 5, Motherwell\nSwartkops Valley\nPORT ELIZABETH\n6211\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 11:30 Thu 18:30",
+   "schedule": "Sun 12:00 Thu 18:30",
    "phones": [ "+27&nbsp;715841026 / +27 0761837260" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -947,8 +1043,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.82073,
-   "longitude": 25.594843,
-   "iso": "ZAF"
+   "longitude": 25.594843
   },
   "properties": {
    "orgName": "Motherwell Central Congregation",
@@ -959,8 +1054,8 @@
    "phones": [ "0735291463" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -970,20 +1065,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.828598,
-   "longitude": 25.628946,
-   "iso": "ZAF"
+   "longitude": 25.628946
   },
   "properties": {
    "orgName": "Wells Estate Congregation",
    "orgType": "CONG",
    "address": "61 Leta STR\nPhase 3\nWell Estate\nPORT ELIZABETH\n6710\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 11:15 Sun 09:00",
+   "schedule": "Sun 09:00 Wed 18:15",
    "phones": [ "078 216 8627 / 072 097 4245" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -993,8 +1087,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.788481,
-   "longitude": 25.59073,
-   "iso": "ZAF"
+   "longitude": 25.59073
   },
   "properties": {
    "orgName": "Motherwell North Congregation",
@@ -1005,8 +1098,8 @@
    "phones": [ "+27&nbsp;0731135385 / +27 0731559431" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1016,8 +1109,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.394,
-   "longitude": 25.4818,
-   "iso": "ZAF"
+   "longitude": 25.4818
   },
   "properties": {
    "orgName": "Kirkwood Congregation",
@@ -1028,8 +1120,8 @@
    "phones": [ "0729464242" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1039,8 +1131,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.253788,
-   "longitude": 24.536061,
-   "iso": "ZAF"
+   "longitude": 24.536061
   },
   "properties": {
    "orgName": "Graaff-Reinet Congregation",
@@ -1051,8 +1142,8 @@
    "phones": [ "0716789162" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1062,22 +1153,43 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.253788,
-   "longitude": 24.536061,
-   "iso": "ZAF"
+   "longitude": 24.536061
   },
   "properties": {
    "orgName": "Masizakhe Congregation",
    "orgType": "CONG",
    "address": "2 Caroline Street\nGRAAFF-REINET\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 12:00 Thu 18:30",
+   "schedule": "Sun 13:30 Thu 18:30",
    "phones": [ "0825840821 / 063913437" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "FBC73432-122F-423E-8E61-60DCA9A60CC0",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -32.721329,
+   "longitude": 25.585717
+  },
+  "properties": {
+   "orgName": "Somerset East Afrikaans Group - Adelaide Congregation",
+   "orgType": "GROUP",
+   "address": "31 Nuwe Rd, Somerset East\nSOMERSET EAST\n5850\nSOUTH AFRICA",
+   "languageCode": "AF",
+   "schedule": "Sun 09:30 undefined null",
+   "phones": [ "0799980442" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2023-12-27"
  },
  {
   "geoId": "8C2716C6-DBB0-458C-BCF9-545F4CB1430F",
@@ -1085,8 +1197,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.717576,
-   "longitude": 25.594568,
-   "iso": "ZAF"
+   "longitude": 25.594568
   },
   "properties": {
    "orgName": "Kwanojoli Congregation",
@@ -1094,11 +1205,11 @@
    "address": "No 43 2nd Avenue\nold Location\nNew Brighton Location\nSOMERSET EAST\n5850\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 11:55 Sun 10:00",
-   "phones": [ "0834376271" ],
+   "phones": [ "0679618809" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1108,20 +1219,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.314022,
-   "longitude": 26.536467,
-   "iso": "ZAF"
+   "longitude": 26.536467
   },
   "properties": {
    "orgName": "Grahamstown East Congregation",
    "orgType": "CONG",
    "address": "1b York Street\n(2nd block behind police station)\nGRAHAMSTOWN\n6140\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 12:00 Wed 18:00",
-   "phones": [ "0711396963" ],
+   "schedule": "Sun 10:00 Wed 18:00",
+   "phones": [ "076 888 5551" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1131,20 +1241,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.314022,
-   "longitude": 26.536467,
-   "iso": "ZAF"
+   "longitude": 26.536467
   },
   "properties": {
    "orgName": "Grahamstown Congregation",
    "orgType": "CONG",
    "address": "1b York Street\n(2nd block behind police station)\nGRAHAMSTOWN\n6140\nSOUTH AFRICA",
    "languageCode": "E",
-   "schedule": "Sun 09:00 Thu 18:30",
+   "schedule": "Sat 09:00 Thu 18:30",
+   "relatedLanguageCodes": [ "AF" ],
    "phones": [ "+27&nbsp;76 936 3388" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1153,21 +1263,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": -33.314022,
-   "longitude": 26.536467,
-   "iso": "ZAF"
+   "latitude": -33.287792,
+   "longitude": 26.573763
   },
   "properties": {
    "orgName": "Rhini Congregation",
    "orgType": "CONG",
-   "address": "1b York Street\n(2nd block behind police station)\nGRAHAMSTOWN\n6140\nSOUTH AFRICA",
+   "address": "No 936 Ext 6\nJoza Location\nGRAHAMSTOWN\n6140\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 15:00 Sat 14:00",
+   "schedule": "Sun 10:00 Thu 18:00",
    "phones": [ "+27&nbsp;734475743 /+27788158431" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1189,7 +1298,7 @@
    "phones": [ "+27&nbsp;734475743 /+27788158431" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
   "active": 0,
   "firstSeen": "2023-06-02",
@@ -1201,8 +1310,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.591306,
-   "longitude": 26.884575,
-   "iso": "ZAF"
+   "longitude": 26.884575
   },
   "properties": {
    "orgName": "Port Alfred Congregation",
@@ -1213,8 +1321,8 @@
    "phones": [ "+27&nbsp;83 626 4471 / +27 84 584 7754" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1223,9 +1331,8 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": -33.580647,
-   "longitude": 26.888094,
-   "iso": "ZAF"
+   "latitude": -33.580583,
+   "longitude": 26.887974
   },
   "properties": {
    "orgName": "Makhamangeni Congregation",
@@ -1233,11 +1340,11 @@
    "address": "46 Gwente Street\nBeletyu Nkwenkwezi Location\nMakhamangeni\nPORT ALFRED\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 10:00 Thu 18:30",
-   "phones": [ "0829568215 / 0837002967" ],
+   "phones": [ "0829568215" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1262,7 +1369,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "53C16E29-A7D8-4633-B5DE-674040967A1E",
@@ -1270,31 +1377,29 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.67846,
-   "longitude": 26.092332,
-   "iso": "ZAF"
+   "longitude": 26.092332
   },
   "properties": {
    "orgName": "Nyarha Congregation",
    "orgType": "CONG",
    "address": "28 Van Riebeck\nBEDFORD\n5780\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 13:00 Sun 10:00",
+   "schedule": "Sun 10:00 Fri 15:30",
    "phones": [ "0780130957/0711727593" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "27A01DEC-690B-4984-A89C-D0033EDC7B8C",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.67846,
-   "longitude": 26.092332,
-   "iso": "ZAF"
+   "longitude": 26.092332
   },
   "properties": {
    "orgName": "Somerset East Isolated Group - Adelaide Congregation",
@@ -1305,33 +1410,10 @@
    "phones": [ "0827879986" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-06-14",
-  "active": 0,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "FBC73432-122F-423E-8E61-60DCA9A60CC0",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -32.67846,
-   "longitude": 26.092332,
-   "iso": "ZAF"
-  },
-  "properties": {
-   "orgName": "Somerset East Afrikaans Group - Adelaide Congregation",
-   "orgType": "GROUP",
-   "address": "28 Van Riebeck\nBEDFORD\n5780\nSOUTH AFRICA",
-   "languageCode": "AF",
-   "schedule": "Sun 09:30 undefined null",
-   "phones": [ "0827879986" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
   "active": 1,
-  "firstSeen": "2023-12-27"
+  "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AEAD261E-3998-4CCB-95EC-4677B6A60394",
@@ -1339,8 +1421,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.1756,
-   "longitude": 25.6332,
-   "iso": "ZAF"
+   "longitude": 25.6332
   },
   "properties": {
    "orgName": "Cradock Congregation",
@@ -1351,7 +1432,7 @@
    "phones": [ "+27&nbsp;787976982 / +27 083-2504962" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -1362,8 +1443,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.1756,
-   "longitude": 25.6332,
-   "iso": "ZAF"
+   "longitude": 25.6332
   },
   "properties": {
    "orgName": "Lingelihle Congregation",
@@ -1371,11 +1451,11 @@
    "address": "185 James Xhallie Street\nLingelihle\nCradock\nCRADOCK\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 09:00 Wed 17:00",
-   "phones": [ "0731717869" ],
+   "phones": [ "076 331 6411" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1394,35 +1474,59 @@
    "address": "Haddon Farm + 2km South\nEast from Addelaide\nADELAIDE\nSOUTH AFRICA",
    "languageCode": "E",
    "schedule": "Sun 09:30 Thu 17:30",
-   "phones": [ "0827879986" ],
+   "relatedLanguageCodes": [ "AF" ],
+   "phones": [ "0799980442" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
-  "geoId": "59D9C33A-728F-4381-A952-45CF87AC9925",
+  "geoId": "2CE67F96-F921-4E26-B2F1-47D0D4644533",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
-   "latitude": -32.78354,
-   "longitude": 26.629146,
+   "latitude": -32.715947,
+   "longitude": 26.299351,
    "iso": "ZAF"
   },
   "properties": {
-   "orgName": "Fort Beaufort Isolated Group - Adelaide Congregation",
+   "orgName": "Adelaide Afrikaans Pregroup - Adelaide Congregation",
+   "orgType": "PREGROUP",
+   "address": "Haddon Farm + 2km South\nEast from Addelaide\nADELAIDE\nSOUTH AFRICA",
+   "languageCode": "AF",
+   "schedule": "Sat 09:30 undefined null",
+   "relatedLanguageCodes": [ "E" ],
+   "phones": [ "0799980442" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
+ },
+ {
+  "geoId": "59D9C33A-728F-4381-A952-45CF87AC9925",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -32.78354,
+   "longitude": 26.629146
+  },
+  "properties": {
+   "orgName": "Fort Beaufort Isolated Group - Grahamstown Congregation",
    "orgType": "GROUP",
    "address": "2 Laurie Street\nFORT BEAUFORT\n5720\nSOUTH AFRICA",
    "languageCode": "E",
-   "schedule": "Sun 09:30 Thu 18:30",
-   "phones": [ "0827879986" ],
+   "schedule": "Sun 09:00 Thu 18:30",
+   "phones": [ "+27&nbsp;76 936 3388" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
-  "active": 0,
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -1431,20 +1535,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.765477,
-   "longitude": 26.650704,
-   "iso": "ZAF"
+   "longitude": 26.650704
   },
   "properties": {
    "orgName": "Kwa-Tinidubu Congregation",
    "orgType": "CONG",
    "address": "Future Road\nErf2951\nKwatinidubu\nFORT BEAUFORT\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 10:00 Thu 17:00",
+   "schedule": "Sun 10:00 Fri 17:00",
    "phones": [ "0727407537" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1454,8 +1557,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.202164,
-   "longitude": 27.106561,
-   "iso": "ZAF"
+   "longitude": 27.106561
   },
   "properties": {
    "orgName": "Peddie Congregation",
@@ -1466,7 +1568,7 @@
    "phones": [ "0731568275" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
@@ -1476,21 +1578,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": -32.800915,
-   "longitude": 26.789727,
-   "iso": "ZAF"
+   "latitude": -32.7912,
+   "longitude": 26.8281
   },
   "properties": {
    "orgName": "Alice Congregation",
    "orgType": "CONG",
-   "address": "Phumlani Location\nOn main road to Fort Beaufort from\nAlice\nALICE\nSOUTH AFRICA",
+   "address": "ERF 980\nMcCallum Street\nALICE\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 10:00 Fri 15:00",
-   "phones": [ "+27&nbsp;0730086191" ],
+   "phones": [ "+27&nbsp;73 008 6191 / 078 864 9217" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1500,8 +1601,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.553567,
-   "longitude": 26.759566,
-   "iso": "ZAF"
+   "longitude": 26.759566
   },
   "properties": {
    "orgName": "Balfour Congregation",
@@ -1512,8 +1612,8 @@
    "phones": [ "0843381348" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1523,8 +1623,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.893775,
-   "longitude": 27.099938,
-   "iso": "ZAF"
+   "longitude": 27.099938
   },
   "properties": {
    "orgName": "Gobozana Congregation",
@@ -1535,8 +1634,8 @@
    "phones": [ "0765589772" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1546,20 +1645,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.809549,
-   "longitude": 27.021746,
-   "iso": "ZAF"
+   "longitude": 27.021746
   },
   "properties": {
    "orgName": "Middledrift Congregation",
    "orgType": "CONG",
    "address": "Cwaru Rural Village\nMIDDLEDRIFT\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 10:30 Wed 17:30",
+   "schedule": "Sun 12:30 Sun 10:30",
    "phones": [ "+0810891377 / +27 0789752807" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1569,8 +1667,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.991332,
-   "longitude": 27.27402,
-   "iso": "ZAF"
+   "longitude": 27.27402
   },
   "properties": {
    "orgName": "Nonibe Congregation",
@@ -1581,8 +1678,8 @@
    "phones": [ "0780377615" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1607,7 +1704,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "8F231467-E499-4EA7-AFA4-0C52C6044B9C",
@@ -1630,7 +1727,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-03",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "BE42B0B0-8ADA-4963-B14B-A8909EE2CF4C",
@@ -1638,20 +1735,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.90588,
-   "longitude": 27.295829,
-   "iso": "ZAF"
+   "longitude": 27.295829
   },
   "properties": {
    "orgName": "Noncampa Congregation",
    "orgType": "CONG",
    "address": "Noncamapa Location\nNear Toise High School\nZwelitsha\nKING WILLIAM'S TOWN\n5600\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 10:00 Sat 15:00",
-   "phones": [ "0839300255 / +27 0766623595" ],
+   "schedule": "Sun 12:15 Sun 10:00",
+   "phones": [ "0839300255 / 0839585661" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1661,8 +1757,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.96307,
-   "longitude": 27.354086,
-   "iso": "ZAF"
+   "longitude": 27.354086
   },
   "properties": {
    "orgName": "Zimbaba Congregation",
@@ -1670,11 +1765,11 @@
    "address": "20415 Main Road\nNear Mbilase's home\nZimbaba Location\nKING WILLIAM'S TOWN\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 10:00 Sun 10:00",
-   "phones": [ "0604291153 / 0787590509" ],
+   "phones": [ "0787590509/0671578914" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1684,8 +1779,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.833817,
-   "longitude": 27.229927,
-   "iso": "ZAF"
+   "longitude": 27.229927
   },
   "properties": {
    "orgName": "Dimbaza Congregation",
@@ -1693,11 +1787,11 @@
    "address": "3164 Dimbaza\nNext to taxi rank\nKING WILLIAM'S TOWN\n5600\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 10:00 Thu 16:30",
-   "phones": [ "0732224355" ],
+   "phones": [ "0835299640" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1706,21 +1800,21 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": -33.152683,
-   "longitude": 27.600733,
-   "iso": "ZAF"
+   "latitude": -33.152803,
+   "longitude": 27.600708
   },
   "properties": {
    "orgName": "Ncera Congregation",
    "orgType": "CONG",
-   "address": "Ncera Village 3, Kidds Beach.\nNcera\nEAST LONDON\n5265\nSOUTH AFRICA",
+   "address": "30115 Ncera Village 3\nKidds Beach\nEast London, Eastern Cape 5201\nEAST LONDON\n5201\nSOUTH AFRICA",
+   "transliteratedAddress": "30115 Ncera Village 3\r\nKidds Beach\r\nEast London, Eastern Cape 5201\r\nEAST LONDON\r\n5201\r\n\r\n",
    "languageCode": "XO",
-   "schedule": "Sun 11:00 Sun 09:00",
-   "phones": [ "0817319887" ],
+   "schedule": "Sun 10:00 Fri 17:00",
+   "phones": [ "0813561716" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1730,8 +1824,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.69034,
-   "longitude": 27.152471,
-   "iso": "ZAF"
+   "longitude": 27.152471
   },
   "properties": {
    "orgName": "Keiskammahoek Isolated Group - Ginsberg Congregation",
@@ -1742,10 +1835,32 @@
    "phones": [ "+27&nbsp;0837198731 / 270846111998" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-09-30",
   "active": 1,
   "firstSeen": "2023-06-02"
+ },
+ {
+  "geoId": "67826346-C19C-47D6-9DAC-CCE9B164C910",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -32.69034,
+   "longitude": 27.152471
+  },
+  "properties": {
+   "orgName": "Keiskammahoek Central Congregation",
+   "orgType": "CONG",
+   "address": "Road to Middledrift\nTshoxa Village entrance\nTshoxa Location\nKEISKAMMAHOEK\n5670\nSOUTH AFRICA",
+   "languageCode": "XO",
+   "schedule": "Sun 12:00 Sun 10:00",
+   "phones": [ "076 967 6634 / 076 640 9359" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "9B6A6EFE-D4E4-422C-B8E0-4B8AB8EB0EBD",
@@ -1753,20 +1868,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.865403,
-   "longitude": 27.340398,
-   "iso": "ZAF"
+   "longitude": 27.340398
   },
   "properties": {
    "orgName": "Tolofiyeni Congregation",
    "orgType": "CONG",
    "address": "Chemist Kondleka's place\nTolofiyeni Location\nKING WILLIAM'S TOWN\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 10:00 Thu 17:00",
-   "phones": [ "+27&nbsp;0631551375" ],
+   "schedule": "Sun 10:00 Wed 18:00",
+   "phones": [ "+27&nbsp;631551375" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1776,8 +1890,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.201999,
-   "longitude": 26.690624,
-   "iso": "ZAF"
+   "longitude": 26.690624
   },
   "properties": {
    "orgName": "Lower Lahlangubo Congregation",
@@ -1785,11 +1898,11 @@
    "address": "Near Vukukhanye Primary School,\nKwaMdingi,\nWhittlesea\nWHITTLESEA\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 12:30 Sun 10:30",
-   "phones": [ "+27&nbsp;0737952535 / +27 655024046/+27814617031" ],
+   "phones": [ "+27&nbsp;737952535 / +27 655024046/+27814617031" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1799,8 +1912,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.891734,
-   "longitude": 27.38739,
-   "iso": "ZAF"
+   "longitude": 27.38739
   },
   "properties": {
    "orgName": "Ginsberg Congregation",
@@ -1808,11 +1920,11 @@
    "address": "Erf 5450 Ginsberg King William's Town\nGinsberg\nKING WILLIAM'S TOWN\n5600\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 10:30 Thu 18:00",
-   "phones": [ "+27&nbsp;0837198731 / 270846111998" ],
+   "phones": [ "+27&nbsp;837198731 / 270846111998" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1837,7 +1949,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "10DA0EE0-F181-46AB-99D7-FA74786E0E0D",
@@ -1845,8 +1957,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.881845,
-   "longitude": 27.390198,
-   "iso": "ZAF"
+   "longitude": 27.390198
   },
   "properties": {
    "orgName": "King William's Town Congregation",
@@ -1857,8 +1968,8 @@
    "phones": [ "060 982 6446 / 083 401 7680" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1884,7 +1995,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-03",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "967933F8-0098-4E8F-8F7A-26BA40ABCB0F",
@@ -1892,8 +2003,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.91778,
-   "longitude": 27.42697,
-   "iso": "ZAF"
+   "longitude": 27.42697
   },
   "properties": {
    "orgName": "Zwelitsha Central Congregation",
@@ -1901,11 +2011,11 @@
    "address": "456 Portion No 2\nZWELITSHA\n5608\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 10:00 Thu 17:00",
-   "phones": [ "+27&nbsp;076 348 1131 / +27 0790661000" ],
+   "phones": [ "+27&nbsp;76 348 1131 / +27 0790661000" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1915,8 +2025,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.902445,
-   "longitude": 27.418245,
-   "iso": "ZAF"
+   "longitude": 27.418245
   },
   "properties": {
    "orgName": "Sweet-Valley Congregation",
@@ -1927,8 +2036,8 @@
    "phones": [ "0737269085" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1938,20 +2047,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.934298,
-   "longitude": 27.452089,
-   "iso": "ZAF"
+   "longitude": 27.452089
   },
   "properties": {
    "orgName": "Phakamisa Congregation",
    "orgType": "CONG",
    "address": "4979 Phakamisa Phase 1\nPhakamisa Main Road\nPhakamisa Location\nKING WILLIAM'S TOWN\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 12:00 Sun 10:00",
+   "schedule": "Sun 10:30 Tue 18:00",
    "phones": [ "083 779 3524" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1961,8 +2069,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.917044,
-   "longitude": 27.44842,
-   "iso": "ZAF"
+   "longitude": 27.44842
   },
   "properties": {
    "orgName": "Tshatshu Congregation",
@@ -1970,11 +2077,11 @@
    "address": "Tshatshu Location\nOn main road from Zwelitsha,\nfirst turn to the right, 3rd building\nZWELITSHA\n5600\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 10:30 Fri 18:30",
-   "phones": [ "+27&nbsp;083 687 6437 / 081 858 6292" ],
+   "phones": [ "+27&nbsp;83 687 6437 / 081 858 6292" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1984,8 +2091,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.82792,
-   "longitude": 27.374195,
-   "iso": "ZAF"
+   "longitude": 27.374195
   },
   "properties": {
    "orgName": "Quzini Congregation",
@@ -1996,8 +2102,8 @@
    "phones": [ "076 448 2465/061 452 1263" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2007,8 +2113,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.840581,
-   "longitude": 27.439774,
-   "iso": "ZAF"
+   "longitude": 27.439774
   },
   "properties": {
    "orgName": "Peelton Congregation",
@@ -2019,8 +2124,8 @@
    "phones": [ "0833541568" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2030,8 +2135,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.204178,
-   "longitude": 26.817015,
-   "iso": "ZAF"
+   "longitude": 26.817015
   },
   "properties": {
    "orgName": "Whittlesea Congregation",
@@ -2039,15 +2143,11 @@
    "address": "Jinja Street\nNdlambe Location\nWHITTLESEA\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 10:00 Thu 18:00",
-   "phones": [
-    "+27&nbsp;0833488466",
-    "+27&nbsp;066 358 2598",
-    "+27&nbsp;066 358 2598"
-   ],
+   "phones": [ "0772986173" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2057,25 +2157,24 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.891567,
-   "longitude": 27.535558,
-   "iso": "ZAF"
+   "longitude": 27.535558
   },
   "properties": {
    "orgName": "Ilitha Congregation",
    "orgType": "CONG",
    "address": "Site No. 1094\nNear the police quarters, Ilitha\nBerlin\nKING WILLIAM'S TOWN\n5600\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 09:30 Thu 17:30",
+   "schedule": "Sun 09:30 Fri 18:00",
    "phones": [
-    "+27&nbsp;0670261140",
-    "+27&nbsp;068 074 3999",
-    "+27&nbsp;0670261140",
-    "+27&nbsp;0680743999"
+    "+27&nbsp;670261140",
+    "+27&nbsp;68 074 3999",
+    "+27&nbsp;670261140",
+    "+27&nbsp;680743999"
    ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2085,8 +2184,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.067189,
-   "longitude": 26.775067,
-   "iso": "ZAF"
+   "longitude": 26.775067
   },
   "properties": {
    "orgName": "MacBride Congregation",
@@ -2097,8 +2195,8 @@
    "phones": [ "0632186410" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2108,20 +2206,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.954824,
-   "longitude": 27.692867,
-   "iso": "ZAF"
+   "longitude": 27.692867
   },
   "properties": {
    "orgName": "Mdantsane South Congregation",
    "orgType": "CONG",
    "address": "969 NU 17\nMdantsane South\nMdantsane\nEAST LONDON\n5219\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 12:00 Thu 17:45",
-   "phones": [ "+2768 0480 829 + 078 7645 982" ],
+   "schedule": "Sun 10:30 Thu 17:45",
+   "phones": [ "0637686205" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2131,8 +2228,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.929041,
-   "longitude": 27.6671,
-   "iso": "ZAF"
+   "longitude": 27.6671
   },
   "properties": {
    "orgName": "Potsdam South Congregation",
@@ -2143,8 +2239,8 @@
    "phones": [ "792237301 / +27 083 318 1024" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2154,8 +2250,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.040181,
-   "longitude": 27.816228,
-   "iso": "ZAF"
+   "longitude": 27.816228
   },
   "properties": {
    "orgName": "Cove Ridge Congregation",
@@ -2163,11 +2258,11 @@
    "address": "3 Tulip Avenue\nWillow Park\nGreen Fields\nGreen Fields\nEAST LONDON\n5201\nSOUTH AFRICA",
    "languageCode": "E",
    "schedule": "Sun 09:00 Thu 19:00",
-   "phones": [ "+27&nbsp;0836064655/ +27 0834556076" ],
+   "phones": [ "+27&nbsp;836064655/ +27 0834556076" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2177,8 +2272,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.040181,
-   "longitude": 27.816228,
-   "iso": "ZAF"
+   "longitude": 27.816228
   },
   "properties": {
    "orgName": "Fort Grey Congregation",
@@ -2189,8 +2283,8 @@
    "phones": [ "0731883718" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2200,20 +2294,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.9311,
-   "longitude": 27.724694,
-   "iso": "ZAF"
+   "longitude": 27.724694
   },
   "properties": {
    "orgName": "Mdantsane North Congregation",
    "orgType": "CONG",
    "address": "3788 N U  11B\nNext to the Creche\nMdantsane Township\nMDANTSANE\n5219\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 09:00 Thu 17:30",
-   "phones": [ "+27&nbsp;0726687071 / +27 734791543" ],
+   "schedule": "Sun 09:00 Thu 18:00",
+   "phones": [ "+27&nbsp;788871285/0685985024" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2223,8 +2316,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.9311,
-   "longitude": 27.724694,
-   "iso": "ZAF"
+   "longitude": 27.724694
   },
   "properties": {
    "orgName": "Mdantsane West Congregation",
@@ -2232,11 +2324,11 @@
    "address": "3788 N U  11B\nNext to the Creche\nMdantsane Township\nMDANTSANE\n5219\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 12:00 Wed 18:00",
-   "phones": [ "0834213528" ],
+   "phones": [ "0691147335" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2246,8 +2338,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.946361,
-   "longitude": 27.755473,
-   "iso": "ZAF"
+   "longitude": 27.755473
   },
   "properties": {
    "orgName": "Mdantsane Central Congregation",
@@ -2258,8 +2349,8 @@
    "phones": [ "063 081 6544" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2269,8 +2360,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.946361,
-   "longitude": 27.755473,
-   "iso": "ZAF"
+   "longitude": 27.755473
   },
   "properties": {
    "orgName": "Mdantsane East Congregation",
@@ -2279,11 +2369,11 @@
    "languageCode": "XO",
    "schedule": "Sun 12:00 Wed 17:30",
    "relatedLanguageCodes": [ "SAS" ],
-   "phones": [ "+27&nbsp;767885697 / +27 073 757 2768" ],
+   "phones": [ "+27&nbsp;767885697 / +27 079 4742 027" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2293,8 +2383,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.946361,
-   "longitude": 27.755473,
-   "iso": "ZAF"
+   "longitude": 27.755473
   },
   "properties": {
    "orgName": "Mdantsane East Sign Language Group - Mdantsane East Congregation",
@@ -2303,11 +2392,11 @@
    "languageCode": "SAS",
    "schedule": "Sun 12:00 Wed 17:30",
    "relatedLanguageCodes": [ "XO" ],
-   "phones": [ "+27&nbsp;767885697 / +27 073 757 2768" ],
+   "phones": [ "+27&nbsp;767885697 / +27 079 4742 027" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2317,8 +2406,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.990554,
-   "longitude": 27.822332,
-   "iso": "ZAF"
+   "longitude": 27.822332
   },
   "properties": {
    "orgName": "Scenery Park Congregation",
@@ -2329,54 +2417,8 @@
    "phones": [ "0723632393" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2023-06-02"
- },
- {
-  "geoId": "3BBCBC93-7530-483D-9464-81DF1498ECA9",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -33.017449,
-   "longitude": 27.878988,
-   "iso": "ZAF"
-  },
-  "properties": {
-   "orgName": "Parkside Congregation",
-   "orgType": "CONG",
-   "address": "74 Marigold Street\nParkridge\nEAST LONDON\nSOUTH AFRICA",
-   "languageCode": "E",
-   "schedule": "Sun 11:15 Thu 18:30",
-   "phones": [ "+27&nbsp;0614501646" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "72D9E3BE-D264-4117-A762-894C5F125488",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -33.017449,
-   "longitude": 27.878988,
-   "iso": "ZAF"
-  },
-  "properties": {
-   "orgName": "Ziphunzana Congregation",
-   "orgType": "CONG",
-   "address": "74 Marigold Street\nParkridge\nEAST LONDON\nSOUTH AFRICA",
-   "languageCode": "XO",
-   "schedule": "Sun 13:30 Tue 18:00",
-   "phones": [ "0735146488 / +27 0833114256" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2386,8 +2428,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.017449,
-   "longitude": 27.878988,
-   "iso": "ZAF"
+   "longitude": 27.878988
   },
   "properties": {
    "orgName": "Parkside Noord Congregation",
@@ -2398,10 +2439,55 @@
    "phones": [ "0825587360" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "3BBCBC93-7530-483D-9464-81DF1498ECA9",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -33.017322,
+   "longitude": 27.879023
+  },
+  "properties": {
+   "orgName": "Parkside Congregation",
+   "orgType": "CONG",
+   "address": "74 Marigold Street\nParkridge\nEAST LONDON\nSOUTH AFRICA",
+   "languageCode": "E",
+   "schedule": "Sun 09:00 Tue 18:45",
+   "relatedLanguageCodes": [ "AF" ],
+   "phones": [ "+27&nbsp;781185767" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "72D9E3BE-D264-4117-A762-894C5F125488",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -33.017322,
+   "longitude": 27.879023
+  },
+  "properties": {
+   "orgName": "Ziphunzana Congregation",
+   "orgType": "CONG",
+   "address": "74 Marigold Street\nParkridge\nEAST LONDON\nSOUTH AFRICA",
+   "languageCode": "XO",
+   "schedule": "Sun 11:30 Wed 18:00",
+   "phones": [ "0735146488 / +27 0833114256" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "active": 1,
+  "firstSeen": "2023-06-02"
  },
  {
   "geoId": "9675C809-998D-4138-934B-DC198DFF7E95",
@@ -2409,20 +2495,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.5675,
-   "longitude": 27.4306,
-   "iso": "ZAF"
+   "longitude": 27.4306
   },
   "properties": {
    "orgName": "Mlungisi Congregation",
    "orgType": "CONG",
    "address": "25 Garden Street\nSTUTTERHEIM\n4930\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 11:00 Wed 15:00",
-   "phones": [ "+27&nbsp;0732403640 / 0829748979" ],
+   "schedule": "Sun 01:00 Sun 11:00",
+   "phones": [ "+27&nbsp;732403640 / 0829748979" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2432,8 +2517,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.5675,
-   "longitude": 27.4306,
-   "iso": "ZAF"
+   "longitude": 27.4306
   },
   "properties": {
    "orgName": "Stutterheim Congregation",
@@ -2444,8 +2528,8 @@
    "phones": [ "0840703222 /  0826334706" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2455,8 +2539,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.884456,
-   "longitude": 27.756868,
-   "iso": "ZAF"
+   "longitude": 27.756868
   },
   "properties": {
    "orgName": "Nxaruni Congregation",
@@ -2464,45 +2547,43 @@
    "address": "11224 Gwiqi Section\nNewlands\nEAST LONDON\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 09:30 Wed 17:00",
-   "phones": [ "0660542123" ],
+   "phones": [ "0724740534" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "903EFB4E-4A1F-48F0-BCE7-11D0AEFB9B0A",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -33.00201,
-   "longitude": 27.90223,
-   "iso": "ZAF"
+   "longitude": 27.90223
   },
   "properties": {
    "orgName": "Southernwood Congregation",
    "orgType": "CONG",
    "address": "5 Garden Street\nSouthernwood\nEAST LONDON\n5201\nSOUTH AFRICA",
    "languageCode": "E",
-   "schedule": "Sun 11:15 Tue 19:00",
-   "phones": [ "+27&nbsp;78 143 2842 / +27 72 564 3520" ],
+   "schedule": "Sun 11:00 Tue 19:00",
+   "phones": [ "+27&nbsp;78 143 2842 / +27 82 920 4450" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "01C3F0C8-A0EC-42F5-92E2-553ABF849107",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -33.00201,
-   "longitude": 27.90223,
-   "iso": "ZAF"
+   "longitude": 27.90223
   },
   "properties": {
    "orgName": "Southernwood South Congregation",
@@ -2510,11 +2591,11 @@
    "address": "5 Garden Street\nSouthernwood\nEAST LONDON\n5201\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 08:30 Thu 18:15",
-   "phones": [ "083 500 8809 / 073 361 1713" ],
+   "phones": [ "071 082 9023 / 073 361 1713" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2524,8 +2605,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -33.00201,
-   "longitude": 27.90223,
-   "iso": "ZAF"
+   "longitude": 27.90223
   },
   "properties": {
    "orgName": "Braelynn Congregation",
@@ -2536,7 +2616,7 @@
    "phones": [ "067 837 8429 / 081 090 3633" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -2544,11 +2624,10 @@
  {
   "geoId": "13C4600C-D31D-411C-BA08-ECB288CACB6A",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -33.00201,
-   "longitude": 27.90223,
-   "iso": "ZAF"
+   "longitude": 27.90223
   },
   "properties": {
    "orgName": "Southenwood Sign Language Group - Southernwood Congregation",
@@ -2560,9 +2639,9 @@
    "phones": [ "+27&nbsp;78 143 2842 / +27 72 564 3520" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-06-14",
-  "active": 0,
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -2571,20 +2650,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.981085,
-   "longitude": 27.885047,
-   "iso": "ZAF"
+   "longitude": 27.885047
   },
   "properties": {
    "orgName": "Cambridge Congregation",
    "orgType": "CONG",
    "address": "Cnr Garcia Street & Croyden Road\nNext to Cambridge High School\nCambridge\nEAST LONDON\n5247\nSOUTH AFRICA",
    "languageCode": "E",
-   "schedule": "Sun 08:30 Thu 19:00",
+   "schedule": "Sat 11:00 Thu 19:00",
    "phones": [ "+27&nbsp;76 260 9302 / +27 83 751 2785" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2594,20 +2672,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.981085,
-   "longitude": 27.885047,
-   "iso": "ZAF"
+   "longitude": 27.885047
   },
   "properties": {
    "orgName": "Cambridge West Congregation",
    "orgType": "CONG",
    "address": "Cnr Garcia Street & Croyden Road\nNext to Cambridge High School\nCambridge\nEAST LONDON\n5247\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 11:00 Tue 18:00",
+   "schedule": "Sun 08:30 Tue 18:00",
    "phones": [ "0835106742" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2617,43 +2694,41 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.981085,
-   "longitude": 27.885047,
-   "iso": "ZAF"
+   "longitude": 27.885047
   },
   "properties": {
    "orgName": "Amalinda Congregation",
    "orgType": "CONG",
    "address": "Cnr Garcia Street & Croyden Road\nNext to Cambridge High School\nCambridge\nEAST LONDON\n5247\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 13:30 Wed 18:30",
-   "phones": [ "073 649 0228" ],
+   "schedule": "Sun 11:00 Wed 18:30",
+   "phones": [ "0828340760" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "60227D1D-A518-4004-850C-8D0E3DAC5640",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.94506,
-   "longitude": 27.932167,
-   "iso": "ZAF"
+   "longitude": 27.932167
   },
   "properties": {
    "orgName": "East London Central Congregation",
    "orgType": "CONG",
    "address": "Ptn 141 Farm 817\nQuenera North\nEAST LONDON\n5205\nSOUTH AFRICA",
    "languageCode": "E",
-   "schedule": "Sun 08:30 Wed 19:00",
-   "phones": [ "+27&nbsp;083 267 2848 / +27 082 332 6277" ],
+   "schedule": "Sat 08:30 Wed 19:00",
+   "phones": [ "+27&nbsp;83 267 2848 / +27 082 332 6277" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2663,69 +2738,44 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.94506,
-   "longitude": 27.932167,
-   "iso": "ZAF"
+   "longitude": 27.932167
   },
   "properties": {
    "orgName": "Nompumelelo Congregation",
    "orgType": "CONG",
    "address": "Ptn 141 Farm 817\nQuenera North\nEAST LONDON\n5205\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sat 08:30 Mon 18:30",
-   "phones": [ "0789494665" ],
+   "schedule": "Sun 11:00 Tue 18:30",
+   "phones": [ "078 949 4665 / 060 371 6900" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "FA212160-57A3-4453-AF05-EBCB11ABAC28",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -32.94506,
-   "longitude": 27.932167,
-   "iso": "ZAF"
+   "longitude": 27.932167
   },
   "properties": {
    "orgName": "Nompumelelo Shona Group - Nompumelelo Congregation",
    "orgType": "GROUP",
-   "address": "Ptn 141 Farm 817\nQuenera North\nEAST LONDON\n5205\nSOUTH AFRICA",
+   "address": "Ptn 141 Farm 817\nEAST LONDON\nSOUTH AFRICA",
    "languageCode": "CA",
    "schedule": "Sun 02:00 Mon 18:30",
    "relatedLanguageCodes": [ "XO" ],
    "phones": [ "0823416372" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-09-30",
-  "active": 0,
-  "firstSeen": "2022-12-03"
- },
- {
-  "geoId": "07B39754-FE2B-4B98-92A9-7A04A921E48C",
-  "type": "weekly",
-  "isPrimary": 0,
-  "location": {
-   "latitude": -32.94506,
-   "longitude": 27.932167,
-   "iso": "ZAF"
-  },
-  "properties": {
-   "orgName": "Beacon Baai Congregation",
-   "orgType": "CONG",
-   "address": "Ptn 141 Farm 817\nQuenera North\nEAST LONDON\n5205\nSOUTH AFRICA",
-   "languageCode": "AF",
-   "schedule": "Sun 11:00 Thu 19:00",
-   "phones": [ "065 916 1789" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
   "active": 1,
-  "firstSeen": "2023-06-02"
+  "firstSeen": "2022-12-03"
  },
  {
   "geoId": "CCF4F343-EFCF-4975-BA08-A642169BAD05",
@@ -2733,22 +2783,43 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.94506,
-   "longitude": 27.932167,
-   "iso": "ZAF"
+   "longitude": 27.932167
   },
   "properties": {
    "orgName": "East London North Congregation",
    "orgType": "CONG",
    "address": "Ptn 141 Farm 817\nQuenera North\nEAST LONDON\n5205\nSOUTH AFRICA",
    "languageCode": "CA",
-   "schedule": "Sun 14:00 Tue 18:30",
-   "phones": [ "072 684 3475 / 076 856 7340" ],
+   "schedule": "Sun 08:30 Thu 18:30",
+   "phones": [ "0799603000 / 0783364350" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-12-27"
+ },
+ {
+  "geoId": "07B39754-FE2B-4B98-92A9-7A04A921E48C",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -32.950112,
+   "longitude": 27.996888
+  },
+  "properties": {
+   "orgName": "Beacon Baai Congregation",
+   "orgType": "CONG",
+   "address": "Cnr Gullsway & Arum Roads\nGonubie\nEAST LONDON\n5257\nSOUTH AFRICA",
+   "languageCode": "AF",
+   "schedule": "Sun 11:00 Thu 19:00",
+   "phones": [ "065 916 1789" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2023-12-27",
+  "active": 1,
+  "firstSeen": "2023-06-02"
  },
  {
   "geoId": "6161BD6E-FFFC-4D57-870F-EAC668DEBE33",
@@ -2756,20 +2827,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.950112,
-   "longitude": 27.996888,
-   "iso": "ZAF"
+   "longitude": 27.996888
   },
   "properties": {
    "orgName": "Gonubie West Congregation",
    "orgType": "CONG",
    "address": "Cnr Gullsway & Arum Roads\nGonubie\nEAST LONDON\n5257\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 11:30 Wed 18:30",
-   "phones": [ "+27&nbsp;0823416372/ +27 0732634702" ],
+   "schedule": "Sun 09:00 Wed 18:30",
+   "phones": [ "+27728716427 or +27 0732634702" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2779,20 +2849,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.950112,
-   "longitude": 27.996888,
-   "iso": "ZAF"
+   "longitude": 27.996888
   },
   "properties": {
    "orgName": "Gonubie Congregation",
    "orgType": "CONG",
    "address": "Cnr Gullsway & Arum Roads\nGonubie\nEAST LONDON\n5257\nSOUTH AFRICA",
    "languageCode": "E",
-   "schedule": "Sun 09:00 Tue 19:00",
-   "phones": [ "+27&nbsp;0727986255 / +27  0743327973" ],
+   "schedule": "Sun 11:30 Tue 19:00",
+   "phones": [ "+27&nbsp;727986255 / +27  0743327973" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2817,7 +2886,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "1BE23911-0073-469D-88E1-D910FDEC92AC",
@@ -2825,8 +2894,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.589471,
-   "longitude": 27.875396,
-   "iso": "ZAF"
+   "longitude": 27.875396
   },
   "properties": {
    "orgName": "Komga Congregation",
@@ -2837,9 +2905,9 @@
    "phones": [ "0603716900" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
-  "active": 0,
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -2860,7 +2928,7 @@
    "phones": [ "+27&nbsp;73 5196 723 / 0609175536" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
   "active": 0,
   "firstSeen": "2023-06-02",
@@ -2871,44 +2939,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": -32.00085,
-   "longitude": 27.553,
-   "iso": "ZAF"
+   "latitude": -32.153048,
+   "longitude": 27.688713
   },
   "properties": {
    "orgName": "Middle Xolobe Isolated Group - Cofimvaba Congregation",
    "orgType": "GROUP",
-   "address": "Magwala Location\n5 meters from the Queenstown road\nNear the bridge.\nCOFIMVABA\nSOUTH AFRICA",
+   "address": "Home of Mr Thomas Sinyanya\nCenya A/A Xolobe\njojweni\nTSOMO\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 10:00 Fri 17:00",
    "phones": [ "+27&nbsp;73 5196 723 / 0609175536" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-09-30",
-  "active": 1,
-  "firstSeen": "2023-06-02"
- },
- {
-  "geoId": "5A9219D3-65AA-45FC-8027-1BEFEC5D200A",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -32.00085,
-   "longitude": 27.553,
-   "iso": "ZAF"
-  },
-  "properties": {
-   "orgName": "Cofimvaba Congregation",
-   "orgType": "CONG",
-   "address": "Magwala Location\n5 meters from the Queenstown road\nNear the bridge.\nCOFIMVABA\nSOUTH AFRICA",
-   "languageCode": "XO",
-   "schedule": "Sun 10:00 Fri 17:00",
-   "phones": [ "+27&nbsp;73 5196 723 / 0609175536" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2918,22 +2962,43 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.467562,
-   "longitude": 28.090609,
-   "iso": "ZAF"
+   "longitude": 28.090609
   },
   "properties": {
    "orgName": "Kwa-Dyosini Isolated Group - Cegcuwana Congregation",
    "orgType": "GROUP",
    "address": "Kwa-Ngcwama/Ngcwama's Place\nDyosini Location\nKwa-Dyosini\nBUTTERWORTH\n4960\nSOUTH AFRICA",
    "languageCode": "XO",
+   "schedule": "Sun 12:00 Wed 18:00",
+   "phones": [ "0787585822" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2023-09-30",
+  "active": 1,
+  "firstSeen": "2023-06-02"
+ },
+ {
+  "geoId": "7C670AC1-3C7A-4342-950E-2C9D0AF06B8D",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -32.345881,
+   "longitude": 28.035217
+  },
+  "properties": {
+   "orgName": "Cegcuwana Congregation",
+   "orgType": "CONG",
+   "address": "Ndabakizi Junction\nBUTTERWORTH\nSOUTH AFRICA",
+   "languageCode": "XO",
    "schedule": "Sun 12:00 Sun 10:00",
    "phones": [ "078 758 5822" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-09-30",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
-  "firstSeen": "2023-06-02"
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "0A9B7D77-7B41-47F0-89FA-8C4D9BE8D56B",
@@ -2956,7 +3021,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "EFD5EC91-4FC9-440A-AA24-2A14D5BA74D1",
@@ -2964,20 +3029,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.195901,
-   "longitude": 27.934919,
-   "iso": "ZAF"
+   "longitude": 27.934919
   },
   "properties": {
    "orgName": "Nqamakwe Congregation",
    "orgType": "CONG",
    "address": "Showgrounds Plots\nUpper Ngculu Location\nNQAMAKWE\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 10:00 Sat 13:30",
+   "schedule": "Sun 13:15 Sun 10:00",
    "phones": [ "+27 66 121 9463 / +27 71 250 2848" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2987,8 +3051,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.326398,
-   "longitude": 28.153365,
-   "iso": "ZAF"
+   "longitude": 28.153365
   },
   "properties": {
    "orgName": "Zagwityi Isolated Group - Butterworth Central Congregation",
@@ -2999,9 +3062,9 @@
    "phones": [ "+27&nbsp;0731054291 / +27 0834102241" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
-  "active": 0,
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -3010,20 +3073,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.326398,
-   "longitude": 28.153365,
-   "iso": "ZAF"
+   "longitude": 28.153365
   },
   "properties": {
    "orgName": "Butterworth Central Congregation",
    "orgType": "CONG",
    "address": "Erf 113\nButterworth\nBUTTERWORTH\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 10:00 Thu 18:00",
-   "phones": [ "+27&nbsp;0731054291 / +27 0834102241" ],
+   "schedule": "Sun 10:00 Thu 17:00",
+   "phones": [ "+27&nbsp;73 009 9483 / 072 581 8865" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -3048,7 +3110,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "25720919-C481-40FD-AE1C-3ABD8D60C11A",
@@ -3056,23 +3118,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.317013,
-   "longitude": 28.206088,
-   "iso": "ZAF"
+   "longitude": 28.206088
   },
   "properties": {
    "orgName": "Butterworth Congregation",
    "orgType": "CONG",
    "address": "Next to Cuba Flats\nCuba Location\nBUTTERWORTH\n4960\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 10:00 Fri 16:00",
-   "phones": [
-    "+27&nbsp;0765412774",
-    "+27&nbsp;076 541 2774"
-   ],
+   "schedule": "Sun 15:00 Sun 13:00",
+   "phones": [ "0824348697" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -3082,8 +3140,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.300459,
-   "longitude": 28.211099,
-   "iso": "ZAF"
+   "longitude": 28.211099
   },
   "properties": {
    "orgName": "Ibika Congregation",
@@ -3091,11 +3148,11 @@
    "address": "ERF 4265\nIbika Location\n9.5 km NE of Butterworth\nBUTTERWORTH\n4960\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 10:00 Thu 16:00",
-   "phones": [ "+27&nbsp;0676013817/ 0839742071" ],
+   "phones": [ "+27&nbsp;676013817/ 0839742071" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -3120,7 +3177,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "564BB6B1-FDA2-41D0-A746-DE7D92E54817",
@@ -3128,20 +3185,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.33913,
-   "longitude": 28.27876,
-   "iso": "ZAF"
+   "longitude": 28.27876
   },
   "properties": {
    "orgName": "Holela Congregation",
    "orgType": "CONG",
    "address": "Holela\nNtabezulu Location\nCentane\nHolela\nBUTTERWORTH\n5100\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 11:00 Sun 11:00",
-   "phones": [ "+27&nbsp;0737243168 / +27 0839238534" ],
+   "schedule": "Sun 13:00 Fri 15:00",
+   "phones": [ "+27&nbsp;737243168 / +27 0839238534" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -3166,7 +3222,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-04",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "B3925E99-F109-42F2-8A21-A186F10FDE75",
@@ -3174,20 +3230,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.195685,
-   "longitude": 28.420243,
-   "iso": "ZAF"
+   "longitude": 28.420243
   },
   "properties": {
    "orgName": "Ntlabane Congregation",
    "orgType": "CONG",
    "address": "Vunda's home, near Ntlabane JSS\n15 km from Idutywa\nNdelane Location\nWILLOWVALE\n5000\nSOUTH AFRICA",
    "languageCode": "XO",
-   "schedule": "Sun 22:00 Fri 16:30",
+   "schedule": "Sun 12:00 Sun 10:00",
    "phones": [ "0603142154" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -3197,8 +3252,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.195685,
-   "longitude": 28.420243,
-   "iso": "ZAF"
+   "longitude": 28.420243
   },
   "properties": {
    "orgName": "Willowvale Isolated Group - Ntlabane Congregation",
@@ -3209,9 +3263,9 @@
    "phones": [ "0603142154" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
-  "active": 0,
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -3220,8 +3274,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.0843,
-   "longitude": 28.321104,
-   "iso": "ZAF"
+   "longitude": 28.321104
   },
   "properties": {
    "orgName": "Idutywa Congregation",
@@ -3229,11 +3282,11 @@
    "address": "Doti Location\nIDUTYWA\n5000\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 10:00 Thu 16:00",
-   "phones": [ "0829714789 / 0780355290  / 0787442546" ],
+   "phones": [ "082 971 4789 / 068 051 8405" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -3258,7 +3311,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "4EFF88DB-24FF-4A75-88B5-15412E4807C7",
@@ -3281,7 +3334,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "6E58C549-9632-410E-8423-88AC5AFB8992",
@@ -3289,8 +3342,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.11988,
-   "longitude": 28.61723,
-   "iso": "ZAF"
+   "longitude": 28.61723
   },
   "properties": {
    "orgName": "Ramra Isolated Group - Idutywa Congregation",
@@ -3301,9 +3353,9 @@
    "phones": [ "0829714789 / 0825094851 / 0787442546" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
-  "active": 0,
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -3312,8 +3364,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.071725,
-   "longitude": 28.802113,
-   "iso": "ZAF"
+   "longitude": 28.802113
   },
   "properties": {
    "orgName": "Miller Congregation",
@@ -3321,11 +3372,15 @@
    "address": "Miller Congregation\nHlonyana\nHlonyana\nELLIOTDALE\nSOUTH AFRICA",
    "languageCode": "XO",
    "schedule": "Sun 13:00 Fri 15:00",
-   "phones": [ "+27826107133" ],
+   "phones": [
+    "+27&nbsp;826107133",
+    "+27&nbsp;826107133",
+    "+27&nbsp;732107689"
+   ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -3335,8 +3390,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -32.024216,
-   "longitude": 28.947964,
-   "iso": "ZAF"
+   "longitude": 28.947964
   },
   "properties": {
    "orgName": "Tafalehashe Congregation",
@@ -3347,8 +3401,8 @@
    "phones": [ "068 188 1416" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  }

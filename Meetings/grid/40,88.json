@@ -4,22 +4,67 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 47.997244,
-   "longitude": 91.635006,
-   "iso": "MNG"
+   "latitude": 47.996277,
+   "longitude": 91.638386
   },
   "properties": {
    "orgName": "Khovd Group, Bayanzurkh Congregation, Ulaanbaatar - Bayanzurkh",
    "orgType": "GROUP",
-   "address": "Khovd aimag,\nJargalant sum, Magsarjav bag,\nDulguun tuv, No5",
-   "transliteratedAddress": "Khovd aimag,\r\nJargalant sum, Magsarjav bag,\r\nDulguun tuv, No5\r\n\r\n",
+   "address": "Ховд аймаг,\nЖаргалант сум, Магсаржав баг,\nХурд авто плазагийн 2 давхар 3 тоот",
+   "transliteratedAddress": "Khovd aimag,\r\nJargalant sum, Magsarjav bag,\r\nKhurd auto plaza's 2nd floor, room 3\r\n\r\n",
    "languageCode": "KHA",
-   "schedule": "Sun 14:00 Thu 18:30",
+   "schedule": "Sun 09:30 Thu 17:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "A251F530-3007-4F9A-ADCD-9A03D6C856B8",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 47.996277,
+   "longitude": 91.638386
+  },
+  "properties": {
+   "orgName": "Talbai",
+   "orgType": "CONG",
+   "address": "Ховд аймаг,\nЖаргалант сум, Магсаржав баг,\nХурд авто плазагийн 2 давхар 3 тоот",
+   "transliteratedAddress": "Khovd aimag,\r\nJargalant sum, Magsarjav bag,\r\nKhurd auto plaza's 2nd floor, room 3\r\n\r\n",
+   "languageCode": "KHA",
+   "schedule": "Sat 10:30 Wed 18:30",
+   "phones": [ "80243376" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "F554CCE9-08DA-4C2D-BCA8-B8B71E64FCC2",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 47.996277,
+   "longitude": 91.638386
+  },
+  "properties": {
+   "orgName": "Bayanzurkh",
+   "orgType": "CONG",
+   "address": "Ховд аймаг,\nЖаргалант сум, Магсаржав баг,\nХурд авто плазагийн 2 давхар 3 тоот",
+   "transliteratedAddress": "Khovd aimag,\r\nJargalant sum, Magsarjav bag,\r\nKhurd auto plaza's 2nd floor, room 3\r\n\r\n",
+   "languageCode": "KHA",
+   "schedule": "Sun 10:30 Thu 18:30",
+   "phones": [],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

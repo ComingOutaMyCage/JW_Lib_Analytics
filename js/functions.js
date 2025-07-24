@@ -82,43 +82,88 @@ const bibleBooks = ["Genesis",
     "Jude",
     "Revelation"]
 
-function InsertNav(translate = false){
-    $('body').prepend(`
-<nav class="navbar navbar-expand-lg navbar-dark bg-light mb-1 d-print-none">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="index.html">JW Lib Analytics</a>
-        <div id="google_translate_element"></div>
-        <div class="navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0 flex-row gap-1">
-                <li class="nav-item d-block d-none d-xl-block"><a class="nav-link active" aria-current="page" href="index.html">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="HeatmapWords.html"><img src="images/heatmap.png"> Search Words</a></li>
-                <li class="nav-item"><a class="nav-link" href="HeatmapBibleVerses.html"><img src="images/heatmap.png"> Bible Book Heatmap</a></li>
-                <li class="nav-item"><a class="nav-link" href="HeatmapBibleBooks.html"><img src="images/heatmap.png"> Bible Heatmap</a></li>
-                <li class="nav-item"><a class="nav-link" href="ViewWordPopularity.html"><img src="images/sort.png"> Word Trends</a></li>
-                <li class="nav-item"><a class="nav-link" href="ViewTopWords.html"><img src="images/sort.png"> Most Common Words</a></li>
-                <li class="nav-item"><a class="nav-link" href="ViewTopScriptures.html"><img src="images/sort.png"> Most Common Scriptures</a></li>
-                <li class="nav-item"><a class="nav-link" href="ViewWordsPerYear.html"><img src="images/sort.png"> Words Per Year</a></li>
-                <li class="nav-item"><a class="nav-link" href="ViewReleaseDates.html"><img src="images/sort.png"> Publications Released</a></li>
-                <li class="nav-item"><a class="nav-link" href="VODSearch.html"><img src="images/cc.png"> Search Video Subtitles</a></li>
-                <li class="nav-item"><a class="nav-link" href="ViewMap.html"><img src="images/map.png"> All Congregation</a></li>
-            </ul>
-            <div class="d-flex">
-                <a href="https://s.reddit.com/c/198w7ck0xmo8u" target="_blank" style="height: 36px; padding:1px 9px 2px 0; border-radius: 30px; white-space: nowrap" class="btn btn-dark"><img src="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-60x60.png" style="height: 32px;"/> Chat</a>
-                <!--<a href="https://www.paypal.com/donate/?hosted_button_id=KEKGVKFPPV3RQ" target="_blank" style="height: 36px; padding:1px 9px 2px 0; border-radius: 30px; white-space: nowrap" class="btn btn-dark">
-                    <img src="images/beer.png" style="height: 32px;"/> Support Projects</a>
-                </a>-->
+function InsertNav(translate = false) {
+    const navItems = {
+        'Heatmaps': {
+            icon: 'images/heatmap.png',
+            pages: {
+                'Search Word Popularity': 'HeatmapWords.html',
+                'Bible Verse Heatmap': 'HeatmapBibleVerses.html',
+                'Bible Book Heatmap': 'HeatmapBibleBooks.html',
+                'Bible Chapters': 'HeatmapBibleChapters.html',
+            }
+        },
+        'Trends & Stats': {
+            icon: 'images/sort.png',
+            pages: {
+                'Word Trends': 'ViewWordPopularity.html',
+                'Most Common Words': 'ViewTopWords.html',
+                'Most Common Scriptures': 'ViewTopScriptures.html',
+                'Words Per Year': 'ViewWordsPerYear.html',
+                'Publications Released': 'ViewReleaseDates.html',
+            }
+        },
+        'Search': {
+            icon: 'images/cc.png',
+            pages: {
+                'Search Video Subtitles': 'VODSearch.html',
+            }
+        },
+        'Congregations': {
+            icon: 'images/map.png',
+            pages: {
+                'Congregation Map': 'ViewMap.html',
+                'Congregation Deletions': 'ViewCongChanges.html',
+                'Hall Closures': 'ViewHallClosures.html',
+            }
+        }
+    };
+
+    let navbarHtml = `
+    <nav class="navbar navbar-expand-lg navbar-dark bg-light mb-1 d-print-none">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">JW Lib Analytics</a>
+            <div id="google_translate_element"></div>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item"><a class="nav-link" aria-current="page" href="index.html">Home</a></li>`;
+
+    for (const category in navItems) {
+        navbarHtml += `
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown${category.replace(/\s/g, '')}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <img src="${navItems[category].icon}"> ${category}
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown${category.replace(/\s/g, '')}">`;
+        for (const pageName in navItems[category].pages) {
+            const pageUrl = navItems[category].pages[pageName];
+            navbarHtml += `<li><a class="dropdown-item" href="${pageUrl}">${pageName}</a></li>`;
+        }
+        navbarHtml += `</ul></li>`;
+    }
+
+    navbarHtml += `
+                </ul>
+                <div class="d-flex">
+                    <a href="https://www.reddit.com/user/ComingOutaMyCage/" target="_blank" style="height: 36px; padding:1px 9px 2px 0; border-radius: 30px; white-space: nowrap" class="btn btn-dark"><img src="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-60x60.png" style="height: 32px;"/> Chat</a>
+                </div>
             </div>
-            
         </div>
-    </div>
-</nav>`);
-    $('.nav-link').each(function(){
-        //console.log(location.href.indexOf($(this).attr('href')));
-       if(location.href.indexOf($(this).attr('href')) >= 0) {
-           $(this).addClass('active');
-       }
+    </nav>`;
+
+    $('body').prepend(navbarHtml);
+
+    $('.nav-link, .dropdown-item').each(function () {
+        if (location.href.includes($(this).attr('href'))) {
+            $(this).addClass('active');
+            $(this).closest('.dropdown').find('.nav-link').addClass('active');
+        }
     });
-    if(translate) {
+
+    if (translate) {
         $('body').prepend('<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>');
     }
 }

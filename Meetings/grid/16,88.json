@@ -1,35 +1,11 @@
 [
  {
-  "geoId": "453D25C2-22D1-4DC9-A3DD-A43F3EF13E67",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 22.315563,
-   "longitude": 88.153006,
-   "iso": "IND"
-  },
-  "properties": {
-   "orgName": "Kolkata Santoshpur Station",
-   "orgType": "CONG",
-   "address": "2nd - FR, FL-D/2,\nB-52 Rabindra Nagar,\nSantoshpur\nKolkata  700018\nWB\nINDIA",
-   "languageCode": "BE",
-   "schedule": "Sun 18:00 Wed 18:00",
-   "phones": [ "9339097057 / 8420054689" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
   "geoId": "ABF67CD2-8454-41A1-A9CE-CA0735567C20",
   "type": "weekly",
   "isPrimary": 1,
   "location": {
    "latitude": 22.448276,
-   "longitude": 88.337009,
-   "iso": "IND"
+   "longitude": 88.337009
   },
   "properties": {
    "orgName": "Kolkata Jaidercote North",
@@ -40,8 +16,8 @@
    "phones": [ "+91&nbsp;9836041883 / 09477234809" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -51,8 +27,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 22.448276,
-   "longitude": 88.337009,
-   "iso": "IND"
+   "longitude": 88.337009
   },
   "properties": {
    "orgName": "Kolkata Jaidercote South",
@@ -60,11 +35,11 @@
    "address": "Kingdom Hall of Jehovah's Witnessees\nVillage- Jaidercote, R.C. Thakurani PO,\n24 Parganas,\nKolkata  700 104\nWB\nINDIA",
    "languageCode": "BE",
    "schedule": "Sat 18:00 Tue 18:30",
-   "phones": [ "7605809762" ],
+   "phones": [ "9036915113" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -73,21 +48,65 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 22.416874,
-   "longitude": 88.409399,
-   "iso": "IND"
+   "latitude": 22.448276,
+   "longitude": 88.337009
   },
   "properties": {
    "orgName": "Harinavi Bengali",
    "orgType": "CONG",
-   "address": "Lokenath Garden Co-operative Society,\nBlk -B, Flat no-2B, 278, Bidhan Blk, Dwarir Rd,\nChowhati, Rajpur Sonepur\nKolkata  700149\nWB\nINDIA",
+   "address": "Kingdom Hall of Jehovah's Witnessees\nVillage- Jaidercote, R.C. Thakurani PO,\n24 Parganas,\nKolkata  700 104\nWB\nINDIA",
    "languageCode": "BE",
-   "schedule": "Sun 17:00 Thu 18:00",
+   "schedule": "Sun 11:00 Wed 18:00",
    "phones": [ "8240351422 / 9831835938" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "411FEA78-39BB-491F-A465-30D3724935A4",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 16.535398,
+   "longitude": 94.254502
+  },
+  "properties": {
+   "orgName": "Gawyangyi - Pathein",
+   "orgType": "GROUP",
+   "orgTransliteratedName": "ပုသိမ်",
+   "address": "ဂျိုင်ကလေးကျေးရွာ၊ ဂေါ်ရန်ဂျီကျွန်း",
+   "languageCode": "BU",
+   "schedule": "Sun 09:00 Thu 18:00",
+   "phones": [ "09740913769" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
+ },
+ {
+  "geoId": "453D25C2-22D1-4DC9-A3DD-A43F3EF13E67",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 22.52066,
+   "longitude": 88.371714
+  },
+  "properties": {
+   "orgName": "Kolkata Santoshpur Station",
+   "orgType": "CONG",
+   "address": "No. 70D, First Floor\nPC Sorcar Sarani\nPolice Station-Gariahat\nKolkata  700019\nWB\nINDIA",
+   "languageCode": "BE",
+   "schedule": "Sun 17:30 Tue 17:30",
+   "phones": [ "9339097057" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -96,21 +115,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 22.53928,
-   "longitude": 88.36485,
-   "iso": "IND"
+   "latitude": 22.52066,
+   "longitude": 88.371714
   },
   "properties": {
    "orgName": "Kolkata Park Circus",
    "orgType": "CONG",
-   "address": "5/1, 2nd floor,Dr. AMO Ghani Road,\nBesides Our Lady Queen of the Mission School,\nPearl Road, Beck Bagan, Park Circus,\nKolkata  700 019\nWB\nINDIA",
+   "address": "No. 70D, First Floor\nPC Sorcar Sarani\nPolice Station-Gariahat\nKolkata  700019\nWB\nINDIA",
    "languageCode": "BE",
    "schedule": "Sun 09:00 Wed 18:00",
    "phones": [ "91 8336859767" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -119,21 +137,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 22.53928,
-   "longitude": 88.36485,
-   "iso": "IND"
+   "latitude": 22.52066,
+   "longitude": 88.371714
   },
   "properties": {
    "orgName": "Kolkata Sign-Language",
    "orgType": "CONG",
-   "address": "5/1, 2nd floor,Dr. AMO Ghani Road,\nBesides Our Lady Queen of the Mission School,\nPearl Road, Beck Bagan, Park Circus,\nKolkata  700 019\nWB\nINDIA",
+   "address": "No. 70D, First Floor\nPC Sorcar Sarani\nPolice Station-Gariahat\nKolkata  700019\nWB\nINDIA",
    "languageCode": "INS",
-   "schedule": "Sun 11:00 Fri 17:30",
-   "phones": [ "+91&nbsp;9972921983, +91 8240259283" ],
+   "schedule": "Sun 15:00 Fri 18:00",
+   "phones": [ "+91&nbsp;9038541218, +91 8240259283" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -142,23 +159,46 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 22.53928,
-   "longitude": 88.36485,
-   "iso": "IND"
+   "latitude": 22.52066,
+   "longitude": 88.371714
   },
   "properties": {
    "orgName": "Kolkata English",
    "orgType": "CONG",
-   "address": "5/1, 2nd floor,Dr. AMO Ghani Road,\nBesides Our Lady Queen of the Mission School,\nPearl Road, Beck Bagan, Park Circus,\nKolkata  700 019\nWB\nINDIA",
+   "address": "No. 70D, First Floor\nPC Sorcar Sarani\nPolice Station-Gariahat\nKolkata  700019\nWB\nINDIA",
    "languageCode": "E",
    "schedule": "Sun 11:30 Thu 18:30",
-   "phones": [ "+91&nbsp;7044344723 /9830109982" ],
+   "phones": [ "+91&nbsp;7044344723 / +91 9830109982" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "953A77F7-F1C6-4759-BAF8-3BB3EDF78DFB",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 16.151033,
+   "longitude": 94.754274
+  },
+  "properties": {
+   "orgName": "Labutta - Bothingone",
+   "orgType": "GROUP",
+   "orgTransliteratedName": "ဘိုသင်ကုန်း",
+   "address": "စိန်ရတုလမ်း၊ ရပ်ကွက် ၃၊\nအမှတ် - ၁/၃ ဘီ။\nLabutta  Ayeyarwady Division",
+   "transliteratedAddress": "Sein Ya Tu Road\r\n(3) quarter\r\nNo 1/3 B\r\nLabutta  Ayeyarwady Division\r\n",
+   "languageCode": "BU",
+   "schedule": "Sun 12:00 Sat 12:00",
+   "phones": [ "09972127465,09683343098" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "ED7265D8-B5BB-401B-A0A7-FC71DA94A2AD",
@@ -166,20 +206,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 22.598829,
-   "longitude": 88.340106,
-   "iso": "IND"
+   "longitude": 88.340106
   },
   "properties": {
    "orgName": "Howrah Hindi",
    "orgType": "CONG",
    "address": "2/1 Bhairab Dutta Lane, P.O. Salkia,\nP.S. Golabari Near Mother Dairy,\nJust behind Mother Teresa (Children's) Park\nHowrah  711106\nWB\nINDIA",
    "languageCode": "HI",
-   "schedule": "Sun 11:00 Wed 18:30",
+   "schedule": "Sun 11:30 Wed 18:30",
    "phones": [ "+91&nbsp;+918100196111/ 7980248104" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -189,22 +228,44 @@
   "isPrimary": 1,
   "location": {
    "latitude": 22.587571,
-   "longitude": 88.434427,
-   "iso": "IND"
+   "longitude": 88.434427
   },
   "properties": {
    "orgName": "Kolkata Kestopur",
    "orgType": "CONG",
    "address": "Kestopur Canal Side Road\nNear Krishna Heights Apartments\nChristian Para, Kestopur\nKolkata  700102\nWB\nINDIA",
    "languageCode": "BE",
-   "schedule": "Sun 17:00 Thu 18:00",
-   "phones": [ "89102 85269" ],
+   "schedule": "Sun 10:00 Thu 18:00",
+   "phones": [ "+91&nbsp;84207 35269" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "A55B33B4-CF4F-4C8E-825F-AF00C2B1F870",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 16.501068,
+   "longitude": 94.533034
+  },
+  "properties": {
+   "orgName": "Taw Gyi Anouk - Kyauktalone",
+   "orgType": "GROUP",
+   "orgTransliteratedName": "ကျောက်တစ်လုံး",
+   "address": "တော်ကြီးအနောက်ရွာ။ ငပုတောမြို့နယ်။",
+   "languageCode": "BU",
+   "schedule": "Sun 09:00 Sat 14:00",
+   "phones": [ "09699695722" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "CBA50739-BF67-4955-B995-6617920376C0",
@@ -212,8 +273,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 16.483689,
-   "longitude": 94.64493,
-   "iso": "MMR"
+   "longitude": 94.64493
   },
   "properties": {
    "orgName": "Kyauktalone Karen (S'gaw) - Pathein",
@@ -222,14 +282,37 @@
    "address": "House No. 132, Ngapudaw Township,\nAyeyarwady Division.\nNgapudaw  Ayeyarwady Division",
    "transliteratedAddress": "အိမ်အမှတ် -၁၃၂၊ ငပုတော မြို့နယ်၊\r\nဧရာဝတီတိုင်း\r\nNgapudaw  Ayeyarwady Division\r\n",
    "languageCode": "KR",
-   "schedule": "Sun 09:00 Sat 14:00",
+   "schedule": "Sun 09:00 Thu 16:30",
    "phones": [ "09740913769" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "28DA4DA9-133E-42F8-BC61-6BA199C76C5E",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 16.483689,
+   "longitude": 94.64493
+  },
+  "properties": {
+   "orgName": "Kyauktalone",
+   "orgType": "CONG",
+   "orgTransliteratedName": "ကျောက်တစ်လုံး",
+   "address": "အမှတ် ၁၃၂၊ ကျောက်တစ်လုံး ကျေးရွာ။\nNgapudaw  Ayeyarwady Division",
+   "languageCode": "BU",
+   "schedule": "Sun 09:00 Sat 14:00",
+   "phones": [ "09699695722" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "96B23FD3-4B12-43D8-B08A-FA8C2558636C",
@@ -237,8 +320,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 16.401351,
-   "longitude": 94.788364,
-   "iso": "MMR"
+   "longitude": 94.788364
   },
   "properties": {
    "orgName": "Nanattoung",
@@ -248,11 +330,14 @@
    "transliteratedAddress": "Jehovalh Witnesses (Watchtower)\r\nPyine Dwin Chaung village,\r\nNanaattoung\r\nMyaungmya  Ayeyarwady Division\r\n",
    "languageCode": "BU",
    "schedule": "Sun 00:00 Thu 00:00",
-   "phones": [ "09250234338" ],
+   "phones": [
+    "+95&nbsp;9250234338",
+    "+95&nbsp;9 42990 1411"
+   ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -275,7 +360,7 @@
    "phones": [ "8371898959 / 9933971100" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -300,7 +385,7 @@
    "phones": [ "8371898959 / 9933971100" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -312,8 +397,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 22.943598,
-   "longitude": 88.463239,
-   "iso": "IND"
+   "longitude": 88.463239
   },
   "properties": {
    "orgName": "Kanchrapara",
@@ -321,38 +405,61 @@
    "address": "Kantaganj Post,\nDist: 24 Parganas North\nJonepur\nKanchrapara  741250\nWB\nINDIA",
    "languageCode": "BE",
    "schedule": "Sun 17:00 Thu 18:00",
-   "phones": [ "7908068331" ],
+   "phones": [ "7003766314" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "EF846D02-9108-47DB-A651-3234E3A88979",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 16.584525,
-   "longitude": 94.917266,
-   "iso": "MMR"
+   "longitude": 94.917266
   },
   "properties": {
    "orgName": "Myaungmya - Pathein",
    "orgType": "GROUP",
    "orgTransliteratedName": "ပုသိမ်",
-   "address": "အမှတ်-၄၊ မြကန်သာ ရပ်ကွက်\r\nကျိုက်ညီနောင်၊ မြောင်းမြ\r\nMyaungmya  Ayeyarwady Division",
-   "transliteratedAddress": "No.4 Myakantha block,\r\nKyait Ngi Naung Myaungmya\r\nMyaungmya  Ayeyarwady Division\r\n",
+   "address": "အမှတ်-၃၊ မြကန်သာ ရပ်ကွက်\nကျိုက်ညီနောင်၊ မြောင်းမြ\nMyaungmya  Ayeyarwady Division",
+   "transliteratedAddress": "No.3 Myakantha block,\r\nKyait Ngi Naung Myaungmya\r\nMyaungmya  Ayeyarwady Division\r\n",
    "languageCode": "BU",
    "schedule": "Sun 09:00 Thu 16:30",
    "phones": [ "09740913769" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
-  "active": 0,
+  "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "B869E3CE-64D0-4142-92FC-950485081A8C",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 16.584525,
+   "longitude": 94.917266
+  },
+  "properties": {
+   "orgName": "Myaungmya",
+   "orgType": "CONG",
+   "orgTransliteratedName": "မြောင်းမြ",
+   "address": "အမှတ်-၃-၄၊ မြကန်သာ ရပ်ကွက်\nကျိုက်ညီနောင်၊ မြောင်းမြ\nMyaungmya  Ayeyarwady Division",
+   "transliteratedAddress": "No.3-4 Myakantha block,\r\nKyait Ngi Naung Myaungmya\r\nMyaungmya  Ayeyarwady Division\r\n",
+   "languageCode": "BU",
+   "schedule": "Sun 10:00 Thu 15:00",
+   "phones": [ "09254615402" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "700709F8-7F6B-44F4-9A1B-D83B3A24C6DE",
@@ -360,8 +467,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 16.780986,
-   "longitude": 94.744977,
-   "iso": "MMR"
+   "longitude": 94.744977
   },
   "properties": {
    "orgName": "Pathein",
@@ -370,14 +476,38 @@
    "address": "အမှတ်-၄၉, ရေခဲစက်ဟောင်းလမ်း\nမရမ်းချို၊ ရပ်ကွက်-၅၊ ပုသိမ်မြို့\nPathein  Ayeyarwady Division",
    "transliteratedAddress": "No. 49, Ye Chae Set Hong street\r\nMa Yan Cho, Block 5\r\nPathein  Ayeyarwady Division\r\n",
    "languageCode": "BU",
-   "schedule": "Sun 09:00 Sat 14:00",
+   "schedule": "Sun 09:00 Thu 18:00",
    "phones": [ "09740913769" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "77A47022-243B-47A8-85E7-A6C2CC116209",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 16.605059,
+   "longitude": 95.17311,
+   "iso": "MMR"
+  },
+  "properties": {
+   "orgName": "Wakema - Myaungmya",
+   "orgType": "GROUP",
+   "orgTransliteratedName": "မြောင်းမြ",
+   "address": "Wakema\nWakema  Ayeyarwady Division",
+   "languageCode": "BU",
+   "schedule": "Sun 10:00 Thu 15:00",
+   "phones": [ "09254615402" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "F156F258-6F91-4571-9C65-740BDA027F8D",
@@ -385,8 +515,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 16.981481,
-   "longitude": 94.956992,
-   "iso": "MMR"
+   "longitude": 94.956992
   },
   "properties": {
    "orgName": "Thabawngu",
@@ -399,8 +528,8 @@
    "phones": [ "+95&nbsp;9792181496" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -409,22 +538,21 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 16.297605,
-   "longitude": 95.677404,
-   "iso": "MMR"
+   "latitude": 16.298187,
+   "longitude": 95.676813
   },
   "properties": {
    "orgName": "Pyapon",
    "orgType": "CONG",
    "orgTransliteratedName": "ဖျာပုံ",
-   "address": "No. 246 Aung Tessa 4th Street, 3rd Area\nPyapon  Ayeyarwady Division",
+   "address": "အမှတ် (၃၁၂)၊ အောင်သစ္စာ (၅) လမ်း၊ (၃) ရပ်ကွက်\nPyapon  Ayeyarwady Division",
    "languageCode": "BU",
    "schedule": "Sun 13:00 Thu 17:00",
    "phones": [ "094 5344 7665" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -434,8 +562,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 17.044277,
-   "longitude": 94.936773,
-   "iso": "MMR"
+   "longitude": 94.936773
   },
   "properties": {
    "orgName": "Kyaye",
@@ -448,8 +575,8 @@
    "phones": [ "+95&nbsp;9422561968" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -459,8 +586,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 16.647785,
-   "longitude": 95.384661,
-   "iso": "MMR"
+   "longitude": 95.384661
   },
   "properties": {
    "orgName": "Myagogyi",
@@ -473,8 +599,8 @@
    "phones": [ "U Khin Maung Swe" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -484,11 +610,10 @@
   "isPrimary": 1,
   "location": {
    "latitude": 23.526299,
-   "longitude": 88.560288,
-   "iso": "IND"
+   "longitude": 88.560288
   },
   "properties": {
-   "orgName": "Banghalji Bengali",
+   "orgName": "Chapra Bengali",
    "orgType": "CONG",
    "address": "Chapra ChristianPara(East), Malam Gachha\nBangaljhi, Nadia\nChapra\nNadia  741123\nWB\nINDIA",
    "languageCode": "BE",
@@ -496,8 +621,8 @@
    "phones": [ "+917718744846" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -507,8 +632,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 16.656966,
-   "longitude": 95.684759,
-   "iso": "MMR"
+   "longitude": 95.684759
   },
   "properties": {
    "orgName": "Thanpyusu",
@@ -517,14 +641,37 @@
    "address": "ယေဟောဝါသက်သေ (ကင်းမျှော်စင်) အသင်း\nသံဖြုစုကျေးရွာ၊ မင်းဘောအုပ်စု\nမအူပင်မြို့နယ်\nThanpyusu  Ayeyarwady Division",
    "transliteratedAddress": "Jehovah Witnesses (Watchtower)\r\nThanpyusu Village, Minbaw Group,\r\nMaubin Tsp.\r\nThanpyusu  Ayeyarwady Division\r\n",
    "languageCode": "BU",
-   "schedule": "Sun 13:05 Sat 13:05",
+   "schedule": "Sun 13:00 Sat 13:00",
    "phones": [ "+95&nbsp;9740914771" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "FD08BCCE-6641-4F86-8AE1-CADF0AB9C3DE",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 22.807639,
+   "longitude": 89.555833
+  },
+  "properties": {
+   "orgName": "Khulna",
+   "orgType": "CONG",
+   "address": "298, Sher-E Bangla Road,Amtola Moor,Khulna",
+   "transliteratedAddress": "298, Sher-E Bangla Road,Amtola Moor,Khulna\r\n\r\n",
+   "languageCode": "BE",
+   "schedule": "Fri 16:30 Tue 18:00",
+   "phones": [ "8801613070300" ],
+   "isPrivateMtgPlace": 0
+  },
+  "active": 1,
+  "firstSeen": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "lastVisit": "2025-07-24"
  },
  {
   "geoId": "1E448D6B-26FE-454E-8B60-BE626FFC8AA5",
@@ -532,8 +679,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 16.721153,
-   "longitude": 95.653625,
-   "iso": "MMR"
+   "longitude": 95.653625
   },
   "properties": {
    "orgName": "Maubin",
@@ -542,14 +688,37 @@
    "address": "အမှတ်-၂၅၇၊ မင်းလမ်း၊\nမအူပင်မြို့\nMaubin  Ayeyarwady Division",
    "transliteratedAddress": "No. 257 Min Road,\r\n11 Block, Maubin\r\nMaubin  Ayeyarwady Division\r\n",
    "languageCode": "BU",
-   "schedule": "Sun 09:00 Thu 15:00",
+   "schedule": "Sun 14:00 Sat 14:00",
    "phones": [ "+95&nbsp;9960745481" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "7AD62DAD-213D-4F93-8F48-207DD4911DF5",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 16.991863,
+   "longitude": 95.457752
+  },
+  "properties": {
+   "orgName": "Pantanaw - Thaung Su",
+   "orgType": "GROUP",
+   "orgTransliteratedName": "သောင်စု",
+   "address": "မြို့ကွက်သစ် (၃)\nဗောဓိ (၁) လမ်း\nPantanaw  Ayeyarwady Division",
+   "languageCode": "BU",
+   "schedule": "Sun 10:00 Thu 16:00",
+   "phones": [ "09444929467" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "B6D97967-5A23-4E7E-A89E-6BBDBB90E31C",
@@ -557,8 +726,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 16.694731,
-   "longitude": 95.777985,
-   "iso": "MMR"
+   "longitude": 95.777985
   },
   "properties": {
    "orgName": "Layeinsu - Maubin",
@@ -567,12 +735,12 @@
    "address": "အမှတ်-၇၊ လေးအိမ်စုရွာ\nမအူပင်မြို့နယ်\nMaubin  Ayeyarwady Division",
    "transliteratedAddress": "No. 7 block\r\nLayeinsu village\r\nMaubin  Ayeyarwady Division\r\n",
    "languageCode": "BU",
-   "schedule": "Sun 09:00 Thu 15:00",
+   "schedule": "Sun 14:00 Sat 14:00",
    "phones": [ "+95&nbsp;9960745481" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -582,8 +750,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 17.25109,
-   "longitude": 95.227582,
-   "iso": "MMR"
+   "longitude": 95.227582
   },
   "properties": {
    "orgName": "Inyekyun",
@@ -592,12 +759,12 @@
    "address": "အင်းရဲကျွန်းကျေးရွာ(ယေဟောဝါသက်သေခန်းမ)\nဧရာဝတီတိုင်း၊ ကျုံပျော်မြို့နယ်၊\nKyonpyaw  Ayeyarwady Division",
    "transliteratedAddress": "Jehovah's Witnesses\r\nInyekyun village\r\nKyonpyaw  Ayeyarwady Division\r\n",
    "languageCode": "BU",
-   "schedule": "Sun 15:00 Thu 16:00",
+   "schedule": "Sun 09:30 Sat 16:30",
    "phones": [ "+95&nbsp;9740930090" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -606,34 +773,56 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 17.303453,
-   "longitude": 95.186299,
-   "iso": "MMR"
+   "latitude": 17.305333,
+   "longitude": 95.194166
   },
   "properties": {
    "orgName": "Kyonpyaw",
    "orgType": "CONG",
    "orgTransliteratedName": "ကျုံပျော်",
-   "address": "အမှတ် (၅၀)၊ တာသစ်လမ်း၊\nအောင်ဆန်းရပ်ကွက်၊ ကျုံပျော်မြို့၊\nKyonpyaw  Ayeyarwady Division",
-   "transliteratedAddress": "No. (51), Tathit street\r\nAung San quarter, Kyonpyaw\r\nKyonpyaw  Ayeyarwady Division\r\n",
+   "address": "အမှတ် (၂၆)၊ တေဇ-၂လမ်း၊\nတေဇရပ်ကွက်၊ ကျုံပျော်မြို့၊\nKyonpyaw  Ayeyarwady Division",
+   "transliteratedAddress": "26 Teyza 2 street\r\nTeyza block\r\nKyonpyaw\r\nKyonpyaw  Ayeyarwady Division\r\n",
    "languageCode": "BU",
    "schedule": "Sun 09:00 Thu 09:00",
-   "phones": [ "+95&nbsp;9254208612" ],
+   "phones": [ "+95&nbsp;9765404243" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "F2DCD514-565B-4392-9F9E-AD235AE87F70",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 16.709529,
+   "longitude": 95.929791
+  },
+  "properties": {
+   "orgName": "Twantay - Botahtaung",
+   "orgType": "GROUP",
+   "orgTransliteratedName": "ဗိုလ်တထောင်",
+   "address": "အိမ် အမှတ်  ၁၃၂၊ မဗေဒါ (၁) လမ်း၊\nမင်းမိုင်ရပ်ကွက်\nTwante  Yangon Division",
+   "transliteratedAddress": "No.132, Ma Baydar (1) Road, Min Mai Block.\r\nTwante  Yangon Division\r\n",
+   "languageCode": "BU",
+   "schedule": "Sat 09:00 Mon 17:30",
+   "phones": [ "+95&nbsp;9 972476750" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "F7A7E2E5-BB95-4D60-908E-C00BD5C7831F",
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 16.977769,
-   "longitude": 95.746466,
-   "iso": "MMR"
+   "latitude": 16.97475,
+   "longitude": 95.755639
   },
   "properties": {
    "orgName": "Thaung Su",
@@ -642,12 +831,12 @@
    "address": "ယေဟောဝါသက်သေ (ကင်းမျှော်စင်) အသင်း\nသောင်စုကျေးရွာ၊\nညောင်တုန်းမြို့နယ်\nNyaungdon  Ayeyarwady Division",
    "transliteratedAddress": "Jehovah's Witnesses\r\nTaung Su village,\r\nNyaung Done Tsp.\r\nNyaungdon  Ayeyarwady Division\r\n",
    "languageCode": "BU",
-   "schedule": "Sun 09:30 Thu 17:30",
+   "schedule": "Sun 09:30 Thu 16:00",
    "phones": [ "09444929467" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -656,24 +845,69 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 17.406759,
-   "longitude": 95.411146,
-   "iso": "MMR"
+   "latitude": 17.396567,
+   "longitude": 95.416801
   },
   "properties": {
    "orgName": "Sharke - Hinthada",
    "orgType": "GROUP",
    "orgTransliteratedName": "ဟင်္သာတ",
-   "address": "Jehovah's Witnesses\nSharke village\nHinthada  Ayeyarwady Division",
+   "address": "ဖန်ခါးကွင်းရွာ၊ ဇလွန်မြို့နယ်။",
    "languageCode": "BU",
-   "schedule": "Sun 14:00 Thu 14:00",
+   "schedule": "Sun 14:00 Thu 16:30",
    "phones": [ "+95&nbsp;9262258585" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "F7DB0F81-FC41-4239-8D28-AEA305B70948",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 17.526688,
+   "longitude": 95.301891
+  },
+  "properties": {
+   "orgName": "Yonthalin - Hinthada",
+   "orgType": "GROUP",
+   "orgTransliteratedName": "ဟင်္သာတ",
+   "address": "ဇေလမ်း၊ အရှေ့ရပ်၊ ယုန်သလင်းကျေးရွာ။",
+   "languageCode": "BU",
+   "schedule": "Sun 14:00 Thu 16:30",
+   "phones": [ "+95&nbsp;9262258585" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
+ },
+ {
+  "geoId": "A9152511-4410-4D40-AAA5-07766B1EA019",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 16.989873,
+   "longitude": 95.973548
+  },
+  "properties": {
+   "orgName": "Htantabin - Gyogone",
+   "orgType": "GROUP",
+   "orgTransliteratedName": "ကြို့ကုန်း",
+   "address": "ကျောင်းကုန်းကျေးရွာ၊ ရေအိုးစင်၊\nထန်းတပင်မြို့။",
+   "languageCode": "BU",
+   "schedule": "Sun 09:30 Wed 17:30",
+   "phones": [ "09254407957" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "4F28A310-82D7-407D-9FB4-D50B9D1C2135",
@@ -681,8 +915,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 17.379253,
-   "longitude": 95.595796,
-   "iso": "MMR"
+   "longitude": 95.595796
   },
   "properties": {
    "orgName": "Kyonsha",
@@ -691,14 +924,37 @@
    "address": "ယေဟောဝါသက်သေတို့၏ နိုင်င့တော်ခန်းမ\nဆေးရုံအနီး၊ ကျုံရှကျေးရွာ၊ ဇလွန်မြို့နယ်\nZalun  Ayeyarwady Division",
    "transliteratedAddress": "Near hospital, Kyonsha villiage,\r\nZalun Tsp.\r\nZalun  Ayeyarwady Division\r\n",
    "languageCode": "BU",
-   "schedule": "Sun 09:00 Thu 15:30",
+   "schedule": "Sun 09:00 Thu 15:00",
    "phones": [ "+95&nbsp;9796323087" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "87F53885-8BF3-4313-B336-02F4E7F4CC38",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 17.540773,
+   "longitude": 95.484551
+  },
+  "properties": {
+   "orgName": "Tagway",
+   "orgType": "CONG",
+   "orgTransliteratedName": "တာကွေ့",
+   "address": "Jehovah's Witnesses\nTagway village\nHinthada  Ayeyarwady Division",
+   "languageCode": "BU",
+   "schedule": "Sun 02:00 Thu 02:00",
+   "phones": [ "09400007332/09740930783" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "15C36716-DCBA-4EB8-8855-66166B54B16E",
@@ -706,8 +962,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 17.636748,
-   "longitude": 95.455554,
-   "iso": "MMR"
+   "longitude": 95.455554
   },
   "properties": {
    "orgName": "Hinthada",
@@ -716,12 +971,12 @@
    "address": "အမှတ် ၄၂၁ ပိုစတောလမ်း၊\nပန်းဘဲတန်းရပ်ကွက်\nဟင်္သာတမြို့၊\nHinthada  Ayeyarwady Division",
    "transliteratedAddress": "No. 42 Postaw Street\r\nPanbedan Block\r\nHinthada  Ayeyarwady Division\r\n",
    "languageCode": "BU",
-   "schedule": "Sun 14:00 Thu 14:00",
+   "schedule": "Sun 14:00 Thu 16:30",
    "phones": [ "+95&nbsp;9262258585" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -731,8 +986,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 18.825141,
-   "longitude": 95.24008,
-   "iso": "MMR"
+   "longitude": 95.24008
   },
   "properties": {
    "orgName": "Pyay",
@@ -741,12 +995,12 @@
    "address": "အမှတ် ၁၀၈၊ ၂ လမ်း၊\nကိုးသောင်းတိုးချဲ့ ရပ်ကွက်၊ ပြည်မြို့\nPyay  Bago Division",
    "transliteratedAddress": "အမှတ်-၁၀၀၊ဆေးရုံလမ်းမကြီးလမ်းသွယ်၂၊\r\nအေလမ်းနဲ့ဘီလမ်းကြား၊ ကိုးသောင်းတိုချဲ့ရပ်ကွက်\r\nPyay  Bago Division\r\n",
    "languageCode": "BU",
-   "schedule": "Sun 09:30 Thu 16:30",
+   "schedule": "Sun 10:00 Thu 16:30",
    "phones": [ "09765650466" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -755,21 +1009,21 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 23.849056,
-   "longitude": 90.26375,
-   "iso": "BGD"
+   "latitude": 23.849151,
+   "longitude": 90.277512
   },
   "properties": {
    "orgName": "Savar",
    "orgType": "CONG",
-   "address": "35 Aichanoadda, Shahibag, Savar-1340 (4th floor)\nSavar, Dhaka 1340",
+   "address": "4th floor, 124/2 Moddho Rajashon\nBirulia Road, Savar\nDakka",
+   "transliteratedAddress": "4th floor, 124/2 Moddho Rajashon\r\nBirulia Road, Savar\r\nDakka\r\n\r\n",
    "languageCode": "BE",
-   "schedule": "Fri 09:30 Tue 19:00",
-   "phones": [ "01755-710093" ],
+   "schedule": "Fri 09:30 Tue 18:30",
+   "phones": [ "01754828499" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -779,8 +1033,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 23.762368,
-   "longitude": 90.389343,
-   "iso": "BGD"
+   "longitude": 90.389343
   },
   "properties": {
    "orgName": "Farmgate",
@@ -788,11 +1041,11 @@
    "address": "AIRPORT ROAD 81 (2nd Floor)\nTEJKUNIPARA,TEJGAON\nDHAKA-1215",
    "languageCode": "BE",
    "schedule": "Fri 09:30 Tue 18:30",
-   "phones": [ "01715880020" ],
+   "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -802,20 +1055,22 @@
   "isPrimary": 1,
   "location": {
    "latitude": 22.330876,
-   "longitude": 91.831685,
-   "iso": "BGD"
+   "longitude": 91.831685
   },
   "properties": {
    "orgName": "Chittagong",
    "orgType": "CONG",
    "address": "86/87 Sadarghat Road, Alkaron\nM.Rahaman Center 6F\nChittagong, Sadarghat GPO-4000",
    "languageCode": "BE",
-   "schedule": "Fri 09:00 Tue 18:00",
-   "phones": [ "01557-687269" ],
+   "schedule": "Fri 10:00 Tue 18:00",
+   "phones": [
+    "01557-687269",
+    "01935-364430"
+   ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -825,20 +1080,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 23.802306,
-   "longitude": 90.3705,
-   "iso": "BGD"
+   "longitude": 90.3705
   },
   "properties": {
    "orgName": "Mirpur",
    "orgType": "CONG",
    "address": "M.Azaz Tower (5th Floor) 145,BEGUM ROKIYA SHORONI,\nSENPARA,\nMIRPUR,DHAKA-1216",
    "languageCode": "BE",
-   "schedule": "Fri 10:00 Tue 18:30",
+   "schedule": "Fri 10:00 Tue 19:00",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -848,8 +1102,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 23.817014,
-   "longitude": 90.420916,
-   "iso": "BGD"
+   "longitude": 90.420916
   },
   "properties": {
    "orgName": "Shahjadpur",
@@ -861,8 +1114,8 @@
    "phones": [ "+880&nbsp;1732424288" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -872,8 +1125,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 23.817014,
-   "longitude": 90.420916,
-   "iso": "BGD"
+   "longitude": 90.420916
   },
   "properties": {
    "orgName": "Kalachandpur",
@@ -885,10 +1137,33 @@
    "phones": [ "+880 18 8867 9902" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "D429D33F-2AE6-4AC6-A1E5-0DDBA5282B60",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 23.92999,
+   "longitude": 90.45296
+  },
+  "properties": {
+   "orgName": "Pubail",
+   "orgType": "CONG",
+   "address": "Salam Complex (3rd Floor),\nMirer Bazar Chowrasta,Tongi-Kaliganj Road,\nPubail, Gazipur,North of Mirer Bazar",
+   "transliteratedAddress": "Salam Complex (3rd Floor),\r\nMirer Bazar Chowrasta,Tongi-Kaliganj Road,\r\nPubail, Gazipur,North of Mirer Bazar\r\n\r\n",
+   "languageCode": "BE",
+   "schedule": "Fri 09:00 Tue 17:00",
+   "phones": [ "+880 1715-895290" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "A56562E7-0406-4689-B7AD-581105E8D5BE",
@@ -896,21 +1171,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": 21.64431,
-   "longitude": 93.2306,
-   "iso": "MMR"
+   "longitude": 93.2306
   },
   "properties": {
-   "orgName": "Daihnam-Vaikai - Matupi",
+   "orgName": "Daihnan - Rezua Zotung",
    "orgType": "GROUP",
-   "orgTransliteratedName": "မတူပီ",
+   "orgTransliteratedName": "ရေဇွာဇိုးတုန်",
    "address": "Jehovah's Witnesses\nDaihnam village\nMatupi  Chin State",
    "languageCode": "BU",
    "schedule": "Sun 09:00 Sat 16:00",
-   "phones": [ "+95&nbsp;9264635290" ],
+   "phones": [ "+95&nbsp;9428139868" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -920,8 +1194,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 21.644306,
-   "longitude": 93.230611,
-   "iso": "MMR"
+   "longitude": 93.230611
   },
   "properties": {
    "orgName": "Sami",
@@ -933,7 +1206,7 @@
    "phones": [ "+95&nbsp;943087641" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -944,8 +1217,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 21.614674,
-   "longitude": 93.43815,
-   "iso": "MMR"
+   "longitude": 93.43815
   },
   "properties": {
    "orgName": "Matupi",
@@ -954,11 +1226,11 @@
    "address": "စဘ- ၂၄၅၊ ကားကြီးကွင်းလမ်း၊\nစမ်းဘောင်ရပ်ကွက်၊\nမတူပီမြို့\nMatupi  Chin State",
    "transliteratedAddress": "No. 245 Cargyi Kwin Road\r\nSan Bawn Block,\r\nMatupi\r\nMatupi  Chin State\r\n",
    "languageCode": "BU",
-   "schedule": "Sun 10:00 Sat 15:00",
-   "phones": [ "+95&nbsp;9264635290" ],
+   "schedule": "Sun 10:00 Thu 17:00",
+   "phones": [ "+95&nbsp;930692753" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
@@ -968,22 +1240,21 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 23.83748,
-   "longitude": 91.294256,
-   "iso": "BGD"
+   "latitude": 23.844833,
+   "longitude": 91.298528
   },
   "properties": {
    "orgName": "Agartala",
    "orgType": "CONG",
-   "address": "House of Mrs. Prabha Sarkar\nRoad No. 5, Dhaleswar\nNear Prachoya Bharati HS School\nAgartala  799007\nTR\nINDIA",
+   "address": "House No. 105371, Holding Number: 00038-A/EZ\nPartha Welding House, 1st Floor\nIndranagar, Near Kailbari, G.B. Road\nAgartala  799007\nTR\nINDIA",
    "languageCode": "BE",
    "schedule": "Sun 10:00 Thu 17:30",
    "relatedLanguageCodes": [ "KBK" ],
-   "phones": [ "7908406239" ],
+   "phones": [ "9612332876" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -992,27 +1263,26 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 23.83748,
-   "longitude": 91.294256,
-   "iso": "BGD"
+   "latitude": 23.844833,
+   "longitude": 91.298528
   },
   "properties": {
    "orgName": "Agartala Kokborok - Agartala",
    "orgType": "GROUP",
-   "address": "House of Mrs. Prabha Sarkar\nRoad No. 5, Dhaleswar\nNear Prachoya Bharati HS School\nAgartala  799007\nTR\nINDIA",
+   "address": "House No. 105371, Holding Number: 00038-A/EZ\nPartha Welding House, 1st Floor\nIndranagar, Near Kailbari, G.B. Road\nAgartala  799007\nTR\nINDIA",
    "languageCode": "KBK",
    "schedule": "Sun 10:00 Thu 17:30",
    "relatedLanguageCodes": [ "BE" ],
-   "phones": [ "7908406239" ],
+   "phones": [ "9612332876" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
-  "geoId": "16733C6F-9C22-4184-9CD0-2F4DC5E8B967",
+  "geoId": "884E37AC-45C8-4C4F-9E53-8BAF4983D4E5",
   "type": "weekly",
   "isPrimary": 1,
   "location": {
@@ -1024,17 +1294,41 @@
    "orgName": "Rezua Zotung",
    "orgType": "CONG",
    "orgTransliteratedName": "ရေဇွာဇိုးတုန်",
-   "address": "ယေဟောဝါသက်သေကင်းမျှော်စင်အသင်း၊\r\nအမှတ်-၁၁၆၊ ဗိုလ်ချုပ်လမ်း၊\r\nရေဇွာမြို့၊မတူပီမြို့နယ်၊ချင်းပြည်နယ်။\r\nMatupi  Chin State",
+   "address": "ယေဟောဝါသက်သေကင်းမျှော်စင်အသင်း၊\nအမှတ်-၁၁၆၊ ဗိုလ်ချုပ်လမ်း၊\nရေဇွာမြို့၊မတူပီမြို့နယ်၊ချင်းပြည်နယ်။\nMatupi  Chin State",
    "transliteratedAddress": "No. 116, Bogoke Street\r\nRezua village\r\nMatupi  Chin State\r\n",
    "languageCode": "ZO",
-   "schedule": "Sun 10:00 Thu 18:30",
+   "schedule": "undefined null undefined null",
+   "relatedLanguageCodes": [ "BU" ],
    "phones": [ "+95&nbsp;9428139868" ],
    "isPrivateMtgPlace": 0
   },
-  "lastSeen": "2023-02-20",
-  "active": 0,
-  "firstSeen": "2022-12-02",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "96B41409-A928-492D-B5E7-CEEA62708BD0",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 21.958867,
+   "longitude": 93.631701
+  },
+  "properties": {
+   "orgName": "Sempi - Lotaw Zotung",
+   "orgType": "GROUP",
+   "orgTransliteratedName": "လိုတော် ဇိုတုန်",
+   "address": "Matupi  Chin State",
+   "languageCode": "ZO",
+   "schedule": "Sun 10:00 Sat 18:00",
+   "phones": [ "+95&nbsp;9258337631" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "917ADF92-053C-483D-A059-6B3476FF9260",
@@ -1042,8 +1336,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 20.86044,
-   "longitude": 94.825129,
-   "iso": "MMR"
+   "longitude": 94.825129
   },
   "properties": {
    "orgName": "Chauk",
@@ -1052,12 +1345,12 @@
    "address": "တမာလမ်း၊ အမှတ် (၁၅) တိုးချဲ့ရပ်ကွက်၊\nChauk  Magway Division",
    "transliteratedAddress": "Ta Mar Road, No. 15\r\nChauk  Magway Division\r\n",
    "languageCode": "BU",
-   "schedule": "Sun 09:30 Sat 09:30",
-   "phones": [ "09250046353" ],
+   "schedule": "Sun 10:30 Sat 10:30",
+   "phones": [ "09264863091" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1085,7 +1378,7 @@
   "active": 0,
   "firstSeen": "2022-12-02",
   "moved": "Ta Mar Road, No. 15\nChauk  Magway Division",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "3CD3FD73-5EFF-4FA3-BBE5-ED15933CBE32",
@@ -1093,8 +1386,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 22.09584,
-   "longitude": 93.647105,
-   "iso": "MMR"
+   "longitude": 93.647105
   },
   "properties": {
    "orgName": "Lotaw Zotung",
@@ -1103,12 +1395,12 @@
    "address": "ယေဟောဝါသက်သေ(ကင်းမျှော်စင်) အသင်း\nရပ်ကွက်-၄၊ လိုတော်ရွာ\nမတူပီမြို့နယ်\nMatupi  Chin State",
    "transliteratedAddress": "Jehovah's Witnesses\r\nBlock-4,\r\nLotaw village\r\nMatupi  Chin State\r\n",
    "languageCode": "ZO",
-   "schedule": "Sun 10:00 Sat 06:00",
+   "schedule": "Sun 10:00 Sat 18:00",
    "phones": [ "+95&nbsp;9258337631" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1118,8 +1410,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 22.184535,
-   "longitude": 93.614399,
-   "iso": "MMR"
+   "longitude": 93.614399
   },
   "properties": {
    "orgName": "Aika Zotung",
@@ -1132,8 +1423,8 @@
    "phones": [ "U Kyaw Lin" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1143,8 +1434,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 22.259682,
-   "longitude": 93.631558,
-   "iso": "MMR"
+   "longitude": 93.631558
   },
   "properties": {
    "orgName": "Surkhua Hakha",
@@ -1157,10 +1447,33 @@
    "phones": [ "+95&nbsp;95943087641" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
+ },
+ {
+  "geoId": "F0583077-2AED-4ECF-A050-63AB2D40D50D",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 22.316816,
+   "longitude": 93.587922
+  },
+  "properties": {
+   "orgName": "Phaipha - Hakha",
+   "orgType": "GROUP",
+   "orgTransliteratedName": "ဟားခါး",
+   "address": "Phaipha.",
+   "languageCode": "HK",
+   "schedule": "Sun 10:00 Sat 15:00",
+   "phones": [ "+959252120131" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "06926A7F-5A5C-49E5-A1A1-E830E02E2DBA",
@@ -1168,8 +1481,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 22.639987,
-   "longitude": 93.605723,
-   "iso": "MMR"
+   "longitude": 93.605723
   },
   "properties": {
    "orgName": "Hakha",
@@ -1179,11 +1491,11 @@
    "transliteratedAddress": "No.51 Between the Satta Road and Taungzalet Road,\r\nZaythit Block Hakha, Chin State.\r\nHakha  Chin State\r\n",
    "languageCode": "HK",
    "schedule": "Sun 10:00 Sat 15:00",
-   "phones": [ "+959765404799" ],
+   "phones": [ "+959252120131" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1193,8 +1505,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 22.176541,
-   "longitude": 94.133061,
-   "iso": "MMR"
+   "longitude": 94.133061
   },
   "properties": {
    "orgName": "Gangaw",
@@ -1203,14 +1514,37 @@
    "address": "မ/၃၉၇ ၊ မြောက်ကုန်းရပ်ကွက် ၊\nဂန့်ဂေါမြို့ ၊ မကွေးတိုင်း ။\nGangaw  Magway Division",
    "transliteratedAddress": "No.397, Block (1), Myaukgone Area,\r\nGangaw Magway Division.\r\nGangaw  Magway Division\r\n",
    "languageCode": "BU",
-   "schedule": "Sun 10:00 Thu 15:00",
-   "phones": [ "949266754" ],
+   "schedule": "Sun 10:00 Sat 14:00",
+   "phones": [ "9264635290" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "E5A7874A-85C8-4163-A566-AD51528851B6",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 22.93092,
+   "longitude": 93.438908
+  },
+  "properties": {
+   "orgName": "Tlangkhua - Hakha",
+   "orgType": "GROUP",
+   "orgTransliteratedName": "ဟားခါး",
+   "address": "Jehovah's Witnesses\nTlankhua village\nHakha  Chin State",
+   "languageCode": "HK",
+   "schedule": "Sun 10:00 Sat 15:00",
+   "phones": [ "+959252120131" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "61BA77A3-0386-4CD4-ADBF-2313C52AD857",
@@ -1218,22 +1552,46 @@
   "isPrimary": 1,
   "location": {
    "latitude": 23.721873,
-   "longitude": 92.720033,
-   "iso": "IND"
+   "longitude": 92.720033
   },
   "properties": {
    "orgName": "Aizawl",
    "orgType": "CONG",
-   "address": "House K-2/8, Mualpui Road, Near ZPM Office\nRepublic Veng\nAizawl  796001\nMZ\nINDIA",
+   "address": "House K-2/8, 2nd Floor, F. Zothanbuanga Building\nMualpui Road, Near ZPM Office\nRepublic Veng\nAizawl  796001\nMZ\nINDIA",
    "languageCode": "LS",
    "schedule": "Sun 10:30 Thu 18:00",
+   "relatedLanguageCodes": [ "BU" ],
    "phones": [ "9856657820 / 9845407331" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
+ },
+ {
+  "geoId": "5B2ABECA-B017-4FE7-8420-AD84477F5221",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 22.650997,
+   "longitude": 93.825247,
+   "iso": "MMR"
+  },
+  "properties": {
+   "orgName": "Vanhna - Hakha",
+   "orgType": "GROUP",
+   "orgTransliteratedName": "ဟားခါး",
+   "address": "Jehovah's Witnesses\nVanhna village\nHakha  Chin State",
+   "languageCode": "HK",
+   "schedule": "Sun 10:00 Sat 15:00",
+   "phones": [ "+959252120131" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "BDF36E21-4A7C-418B-8052-8074B2C946B2",
@@ -1241,20 +1599,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 23.751619,
-   "longitude": 92.85345,
-   "iso": "IND"
+   "longitude": 92.85345
   },
   "properties": {
    "orgName": "Sesawng Mizo",
    "orgType": "CONG",
    "address": "House No K-40,\nKhuangchera Section, Near Community Hall,\nSesawng, Mizoram\nAizawl  796017\nMZ\nINDIA",
    "languageCode": "LS",
-   "schedule": "Sun 10:30 Sat 18:00",
+   "schedule": "Sun 10:30 Thu 18:30",
    "phones": [ "+91&nbsp;8918810305 / +91 9366189119" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1264,24 +1621,46 @@
   "isPrimary": 1,
   "location": {
    "latitude": 22.606263,
-   "longitude": 94.090928,
-   "iso": "MMR"
+   "longitude": 94.090928
   },
   "properties": {
-   "orgName": "Taungkayan - Gangaw",
+   "orgName": "Taungkayan - Hanthawady Hakha",
    "orgType": "GROUP",
-   "orgTransliteratedName": "ဂန့်ဂေါ",
+   "orgTransliteratedName": "ဟံသာဝတီ ဟားခါး",
    "address": "ယေဟောဝါသက်သေ (ကင်းမျှော်စင်) အသင်း၊\nတောင်ခင်ရန်းကျေးရွာ၊ဂန့်ဂေါမြို့နယ်၊\nGangaw  Magway Division",
    "transliteratedAddress": "Jehovah's Witnesses\r\nTaungkayan village, Gangaw T.sp\r\nGangaw  Magway Division\r\n",
    "languageCode": "HK",
    "schedule": "Sun 10:00 undefined null",
-   "phones": [ "949266754" ],
+   "phones": [ "09765488027" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "322BD317-DD2A-406D-9694-32694693BF29",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 20.897963,
+   "longitude": 95.857384
+  },
+  "properties": {
+   "orgName": "Meiktila - Pyinmana",
+   "orgType": "GROUP",
+   "orgTransliteratedName": "ပျဥ်းမနား",
+   "address": "Wa Za 0814 Wunzin, Mingalar street.\nMeiktila  Mandalay Division",
+   "languageCode": "BU",
+   "schedule": "Sun 10:00 Sat 10:00",
+   "phones": [ "+95&nbsp;9428090165" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "58F74A3F-CCF2-4E99-94E5-5DF107AE236A",
@@ -1289,8 +1668,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 22.722702,
-   "longitude": 94.067131,
-   "iso": "MMR"
+   "longitude": 94.067131
   },
   "properties": {
    "orgName": "Hanthawady Hakha",
@@ -1303,7 +1681,7 @@
    "phones": [ "09765488027" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -1311,25 +1689,48 @@
  {
   "geoId": "91E4BF89-C210-43F4-BBE3-69A7912F22A6",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 23.477982,
-   "longitude": 93.325564,
-   "iso": "MMR"
+   "longitude": 93.325564
   },
   "properties": {
    "orgName": "Champhai",
    "orgType": "CONG",
-   "address": "Opposite A-One Shop,\r\n2nd Floor, Aizwal Road,\r\nVengthlang\r\nChamphai  796321\r\nMZ\r\nINDIA",
+   "address": "Opposite A-One Shop,\n2nd Floor, Aizwal Road,\nVengthlang\nChamphai  796321\nMZ\nINDIA",
    "languageCode": "LS",
    "schedule": "Sun 10:30 Fri 18:30",
    "phones": [ "+91&nbsp;9612574982" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
-  "active": 0,
+  "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "14C0DA04-E75B-473F-B868-5114F226DEB8",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 23.368141,
+   "longitude": 93.651645,
+   "iso": "MMR"
+  },
+  "properties": {
+   "orgName": "Tiddim - Kalay Tiddim",
+   "orgType": "GROUP",
+   "orgTransliteratedName": "ကလေးတီးတိန်",
+   "address": "13/B Lawi Bual Qrt.\nKam Hau Rd,\nTedim\nTiddim  Chin State",
+   "languageCode": "CI",
+   "schedule": "Sun 09:00 Sat 09:00",
+   "phones": [ "09265191109" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "632980A9-C0E3-49A1-AFDB-F278C3CBFA61",
@@ -1337,8 +1738,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 23.099567,
-   "longitude": 94.018939,
-   "iso": "MMR"
+   "longitude": 94.018939
   },
   "properties": {
    "orgName": "Thayagone Hakha",
@@ -1348,22 +1748,24 @@
    "transliteratedAddress": "N0. 11/6, Thayagone Vilage\r\nKalaymyto Tsp.\r\nKalay  Sagaing Division\r\n",
    "languageCode": "HK",
    "schedule": "Sun 10:00 Sat 14:00",
-   "phones": [ "+95&nbsp;9442001311" ],
+   "phones": [
+    "+95&nbsp;9428139868",
+    "+95&nbsp;9780563023"
+   ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "8DE41442-EE87-4028-984A-81E3F3B16BC6",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 23.199219,
-   "longitude": 94.017528,
-   "iso": "MMR"
+   "longitude": 94.017528
   },
   "properties": {
    "orgName": "Kalay Mizo",
@@ -1372,12 +1774,12 @@
    "address": "အမှတ် (၁) ၊ ယုဇနလမ်း၊\nစမ်းမြို့ရက်ကွက် ၊ ကလေးမြို့ ၊\nKalay  Sagaing Division",
    "transliteratedAddress": "No. 1 San Myo\r\nYuzana Street\r\nKalay  Sagaing Division\r\n",
    "languageCode": "LS",
-   "schedule": "Sun 09:00 Sat 14:00",
-   "phones": [ "09253051350" ],
+   "schedule": "Sun 13:45 Sat 13:45",
+   "phones": [ "09940083004" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1387,8 +1789,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 23.199219,
-   "longitude": 94.017528,
-   "iso": "MMR"
+   "longitude": 94.017528
   },
   "properties": {
    "orgName": "Kalay",
@@ -1397,23 +1798,23 @@
    "address": "အမှတ် (၁) ၊ ယုဇနလမ်း၊\nစမ်းမြို့ရက်ကွက် ၊ ကလေးမြို့ ၊\nKalay  Sagaing Division",
    "transliteratedAddress": "No. 1 San Myo\r\nYuzana Street\r\nKalay  Sagaing Division\r\n",
    "languageCode": "BU",
-   "schedule": "Sun 13:30 Sat 11:30",
-   "phones": [ "+959258337631" ],
+   "schedule": "Sun 11:15 Sat 11:15",
+   "relatedLanguageCodes": [ "BUS" ],
+   "phones": [ "+959975127883" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "6021E453-9FB4-4D65-AD7C-E5CDBB104B11",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 23.199219,
-   "longitude": 94.017528,
-   "iso": "MMR"
+   "longitude": 94.017528
   },
   "properties": {
    "orgName": "Kalay Hakha",
@@ -1422,12 +1823,12 @@
    "address": "အမှတ် (၁) ၊ ယုဇနလမ်း၊\nစမ်းမြို့ရက်ကွက် ၊ ကလေးမြို့ ၊\nKalay  Sagaing Division",
    "transliteratedAddress": "No. 1 San Myo\r\nYuzana Street\r\nKalay  Sagaing Division\r\n",
    "languageCode": "HK",
-   "schedule": "Sun 11:15 Sat 09:00",
-   "phones": [ "09958363098" ],
+   "schedule": "Sun 08:45 Sat 08:45",
+   "phones": [ "09442001311" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-02-20"
  },
@@ -1437,8 +1838,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 23.193587,
-   "longitude": 94.052504,
-   "iso": "MMR"
+   "longitude": 94.052504
   },
   "properties": {
    "orgName": "Kalay Tiddim",
@@ -1451,8 +1851,8 @@
    "phones": [ "09265191109" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1462,8 +1862,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 23.329514,
-   "longitude": 94.02457,
-   "iso": "MMR"
+   "longitude": 94.02457
   },
   "properties": {
    "orgName": "Letpanchaung Mizo",
@@ -1473,11 +1872,11 @@
    "transliteratedAddress": "Jehovah's Witnesses\r\nE- block, Letpanchaung\r\nKalaymyo\r\nKalay  Sagaing Division\r\n",
    "languageCode": "LS",
    "schedule": "Sun 11:00 Thu 15:30",
-   "phones": [],
+   "phones": [ "09 43087641" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1487,8 +1886,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 21.894523,
-   "longitude": 95.978256,
-   "iso": "MMR"
+   "longitude": 95.978256
   },
   "properties": {
    "orgName": "Sagaing",
@@ -1497,12 +1895,12 @@
    "address": "က/၆၁ ဓမ္မရောင်ခြည်လမ်၊\nပါရမီရပ်၊ စစ်ကိုင်းမြို့\nSagaing  Sagaing Division",
    "transliteratedAddress": "Ka (61) Damayaungchi Rd,\r\nParami Block\r\nSagaing  Sagaing Division\r\n",
    "languageCode": "BU",
-   "schedule": "Sun 09:00 Thu 16:30",
-   "phones": [ "09978546544 / 09974505784" ],
+   "schedule": "Sun 09:00 Thu 16:00",
+   "phones": [ "09978546544" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1512,8 +1910,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 23.783249,
-   "longitude": 94.142564,
-   "iso": "MMR"
+   "longitude": 94.142564
   },
   "properties": {
    "orgName": "Khampat",
@@ -1522,12 +1919,12 @@
    "address": "အမှတ် (၂) ၊\nခမ်းပါတ်မြို့ ၊ စစ်ကိုင်းတိုင်း ။\nKhampat  Sagaing Division",
    "transliteratedAddress": "No. (2), Khampat City,\r\nSagaing Division.\r\nKhampat  Sagaing Division\r\n",
    "languageCode": "BU",
-   "schedule": "Sun 11:00 Sat 11:00",
+   "schedule": "Sun 12:00 Sat 12:00",
    "phones": [ "+95&nbsp;9456748441" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

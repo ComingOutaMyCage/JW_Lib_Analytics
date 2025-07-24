@@ -1,0 +1,275 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>JW Lib Analytics - Bible Books and Chapters Heatmap</title>
+    <meta property='og:title' content='JW Lib Analytics - Bible Books and Chapters Heatmap'/>
+    <meta property='og:image' content='https://comingoutamycage.github.io/JW_Lib_Analytics/examples/SiteExample.png'/>
+    <meta property='og:description' content='Examine the scriptures and their usage within JW publications from 1950-2022'/>
+    <meta property='og:url' content='https://comingoutamycage.github.io/JW_Lib_Analytics'/>
+    <meta property='og:image:width' content='1215' />
+    <meta property='og:image:height' content='1148' />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="js/pace.min.js"></script>
+    <link rel="stylesheet" href="js/pace.css">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/heatmap.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/data.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
+    <script src="js/highcharts.boost-canvas.fix.js"></script>
+    <script src="js/highcharts.boost.fix.js"></script>
+
+    <script src="js/pako_deflate.js"></script><script src="js/pako_inflate.js"></script>
+    <script src="js/bible_nwt.js"></script><script src="js/functions.js"></script>
+    <link href="style.css" rel="stylesheet" >
+</head>
+<body>
+<script>InsertNav(true);</script>
+<div class="card d-print-none" style="max-width: 600px;">
+    <div class="card-body">
+        <h6>This page shows the relative popularity of each bible book and chapter, to see which chapters got used most throughout time. Lighter is less used, darker is more popular. Vertical is each bible book. Sideways is the chapter. Clicking a square will show the first verse.</h6>
+        <form>
+            <div class="row">
+                <div class="col-12 col-md-4">
+                    <label>Publication</label>
+                    <select name="publication" id="publication" class="form-control">
+                    </select>
+                    <script>
+                        let selectPublications = $('#publication');
+                        publications.forEach((pub)=>{
+                            selectPublications.append(`<option value="${pub}">${pub}</option>`)
+                        });
+                    </script>
+                </div>
+                <div class="col-12 col-md-4">
+                    <label>Min Year</label>
+                    <select name="minYear" id="minYear" class="form-control">
+                        <option value="1880">1880</option>
+                        <option value="1950">1950 (WT only pre-1950)</option>
+                        <option value="1970">1970</option>
+                    </select>
+                </div>
+                <div class="col-12 col-md-4">
+                    <label>Max Year</label>
+                    <select name="maxYear" id="maxYear" class="form-control">
+                        <option value="2022">2022</option>
+                        <option value="2020">2020</option>
+                        <option value="2010">2010</option>
+                        <option value="2000">2000</option>
+                    </select>
+                </div>
+                <div class="col-12 col-md-4">
+                    <button type="submit" class="btn btn-primary mt-3">Load Data</button>
+                </div>
+                <div class="col-12 col-md-4 d-none" id="btnDownload">
+                    <button type="button" class="btn btn-primary mt-3" onclick="chart.downloadCSV()">Export CSV</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="highcharts-div">
+    <figure class="highcharts-figure">
+        <div class="highcharts-container" id="container"></div>
+    </figure>
+</div>
+
+<script>
+
+    const urlParams = new URLSearchParams(window.location.search);
+    let publication = urlParams.get('publication') ?? 'All';
+    let minYear = parseInt(urlParams.get('minYear') ?? 1950);
+    let maxYear = parseInt(urlParams.get('maxYear') ?? 2022);
+    $('#publication').val(publication);
+    $('#minYear').val(minYear);
+    $('#maxYear').val(maxYear);
+
+    let dir = 'Data/ScripturesByYear/';
+
+    if (publication)
+        AjaxJsonGzip(dir + `${publication}.json`, function (json) {
+
+            console.log('Loaded data for:', publication);
+
+            let booksAndChapters = {};
+            let maxChapter = 0;
+
+            // Process the data to extract book and chapter information
+            Object.keys(json).forEach((verse) => {
+                // Parse verse like "Genesis 1:1" or "1 Kings 2:3"
+                let match = verse.match(/^((?:\d+\s+)?\w+)\s+(\d+):(\d+)/);
+                if (match) {
+                    let book = match[1];
+                    let chapter = parseInt(match[2]);
+                    
+                    if (!booksAndChapters[book]) {
+                        booksAndChapters[book] = {};
+                    }
+                    
+                    if (!booksAndChapters[book][chapter]) {
+                        booksAndChapters[book][chapter] = 0;
+                    }
+                    
+                    // Sum up all occurrences across the specified year range
+                    Object.keys(json[verse]).forEach((year) => {
+                        let yearNum = parseInt(year);
+                        if (yearNum >= minYear && yearNum <= maxYear) {
+                            booksAndChapters[book][chapter] += json[verse][year];
+                        }
+                    });
+                    
+                    maxChapter = Math.max(maxChapter, chapter);
+                }
+            });
+
+            // Create series data for heatmap
+            let seriesData = [];
+            let seriesY = Object.keys(booksAndChapters).sort((a, b) => {
+                // Sort books in biblical order
+                let aIndex = bibleBooks.indexOf(a);
+                let bIndex = bibleBooks.indexOf(b);
+                if (aIndex === -1) aIndex = 999;
+                if (bIndex === -1) bIndex = 999;
+                return aIndex - bIndex;
+            });
+            let seriesX = range(1, maxChapter);
+
+            let y = 0;
+            seriesY.forEach(function (book) {
+                let x = 0;
+                seriesX.forEach(function (chapter) {
+                    let data = booksAndChapters[book] ? (booksAndChapters[book][chapter] || 0) : 0;
+                    seriesData.push([x, y, data]);
+                    x++;
+                });
+                y++;
+            });
+
+            let publicationDisplay = publication + " Publications";
+            if(publication === "Watchtower")
+                publicationDisplay = "The Watchtower";
+
+            $("#btnDownload").removeClass('d-none');
+            chart = Highcharts.chart('container', {
+
+                chart: {
+                    type: 'heatmap',
+                    marginTop: 160,
+                    marginBottom: 80,
+                    marginRight: 20,
+                    plotBorderWidth: 1,
+                    height: (seriesY.length * 15) + 250,
+                    width: !isTouchDevice() ? undefined : Math.min(1500, Math.max(window.innerWidth, (seriesX.length * 10) + 150)),
+                    scrollablePlotArea: isTouchDevice() ? {} : {
+                        minWidth: (seriesX.length * 8) + 100,
+                        scrollPositionX: 1,
+                    }
+                },
+
+                boost: {
+                    useGPUTranslations: true,
+                },
+
+                title: {
+                    text: `<h1>Usage of Bible Books and Chapters in ${publicationDisplay} (${minYear}-${maxYear})</h1>`
+                },
+
+                xAxis: {
+                    categories: seriesX,
+                    opposite: true,
+                    title: {
+                        text: 'Chapter'
+                    }
+                },
+
+                yAxis: {
+                    categories: seriesY,
+                    title: {
+                        text: 'Bible Book'
+                    },
+                    reversed: true,
+                    labels: {
+                        step: 1,
+                    }
+                },
+
+                legend: {
+                    align: 'center',
+                    layout: 'horizontal',
+                    margin: 0,
+                    verticalAlign: 'top',
+                    y: -20,
+                    symbolHeight: 20
+                },
+
+                tooltip: {
+                    formatter: function () {
+                        let chapter = seriesX[this.point.x];
+                        let book = seriesY[this.point.y];
+                        let value = this.point.value;
+                        let result = `<b>${book} ${chapter}</b><br>`;
+                        result += `<b>Total mentions:</b> ${value}`;
+                        
+                        // Try to get scripture text if available
+                        try {
+                            let scripture = GetScripture(`${book} ${chapter}:1`);
+                            if (scripture && scripture !== "COULD NOT FIND " + `${book} ${chapter}:1`) {
+                                scripture = wrap(scripture, 30).replaceAll("\n", "<br/>");
+                                result = "<span style='font-size:80%; line-height:80%;'>" + scripture + "</span><br/><br/>" + result;
+                            }
+                        } catch (e) {
+                            // If scripture lookup fails, just show the basic info
+                        }
+                        
+                        return result;
+                    }
+                },
+
+                series: [{
+                    name: 'Bible Chapters',
+                    data: seriesData,
+
+                    boostThreshold: 100,
+                    borderWidth: 1,
+                    borderColor: 'white',
+                    nullColor: '#EFEFEF',
+                    tooltip: {
+                        headerFormat: 'Chapter Usage<br/>',
+                        pointFormat: '{point.x} <b>{point.value}</b>'
+                    },
+                    turboThreshold: Number.MAX_VALUE
+                }],
+
+                colorAxis: {
+                    min: 0,
+                    stops: [
+                        [0, '#f1f4ff'],
+                        [0.001, '#d0e0ff'],
+                        [0.33, '#0000ff'],
+                        [0.66, '#ff0000'],
+                        [1, '#000000'],
+                    ],
+                },
+
+            });
+            OnResize();
+
+        });
+
+</script>
+
+<script async src="//static.getclicky.com/101371960.js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101371960ns.gif" /></p></noscript>
+</body>
+</html>

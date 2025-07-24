@@ -17,7 +17,9 @@ function SaveFile(filename, contents, retriesAvailable = 3){
     if (contents[0] === '{' || contents[0] === '[') {
         contents = contents.replace(/\[\n\s*("[^"]+")\s*]/g, '[ $1 ]');
     }
-    return fs.writeFile(filename + ".new", contents, (err) => {
+    const newName = filename + ".new";
+    const oldName = filename + ".old";
+    return fs.writeFile(newName, contents, (err) => {
         if (err) {
             if (retriesAvailable <= 0) {
                 console.error(err);
@@ -26,13 +28,17 @@ function SaveFile(filename, contents, retriesAvailable = 3){
         }
         try
         {
-            if (fs.existsSync(filename + ".old"))
-                fs.unlinkSync(filename + ".old");
+            if (!fs.existsSync(newName)){
+                console.error(`File ${newName} does not exist after SaveFile.`);
+                throw new Error(`File ${newName} does not exist after SaveFile.`);
+            }
+            if (fs.existsSync(oldName))
+                fs.unlinkSync(oldName);
             if (fs.existsSync(filename))
-                fs.renameSync(filename, filename + ".old");
-            fs.renameSync(filename + ".new", filename);
-            if (fs.existsSync(filename + ".old"))
-                fs.unlinkSync(filename + ".old");
+                fs.renameSync(filename, oldName);
+            fs.renameSync(newName, filename);
+            if (fs.existsSync(oldName))
+                fs.unlinkSync(oldName);
             console.log(`${filename} has been created`);
             return true;
         } catch (ex) { console.error(ex); }

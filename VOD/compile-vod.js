@@ -7,6 +7,7 @@ import axios from 'axios';
 import { fileURLToPath } from 'url';
 import https from 'https';
 
+const DOWNLOAD_VIDEOS = false;
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const videoDir = "D:/MyDev/VOD";
 
@@ -164,7 +165,7 @@ async function DownloadAll() {
             let mp4Path = viddir + path.basename(videoURL);
 
             fs.mkdirSync(viddir, {recursive: true});
-            if(!isMP4Valid(mp4Path, video.filesize)){
+            if(DOWNLOAD_VIDEOS && !isMP4Valid(mp4Path, video.filesize)){
                 console.log("Downloading " + videoURL);
                 let startTime = new Date();
                 let downloadPromise = downloadFile(videoURL, mp4Path + ".tmp").then(() => {

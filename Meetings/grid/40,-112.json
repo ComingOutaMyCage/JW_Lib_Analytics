@@ -1,51 +1,5 @@
 [
  {
-  "geoId": "721A7D6F-0B19-4DDF-99E6-76BDD25E1B4F",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 40.076591,
-   "longitude": -111.659955,
-   "iso": "USA"
-  },
-  "properties": {
-   "orgName": "English - Spanish Fork UT (USA)",
-   "orgType": "CONG",
-   "address": "8497 S State Rd\nSpanish Fork UT  84660-9434",
-   "languageCode": "E",
-   "schedule": "Sun 10:00 Tue 19:00",
-   "phones": [ "801-885-3370" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-03"
- },
- {
-  "geoId": "F2D02F22-E938-4343-BA84-A093844FBC5C",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 40.076591,
-   "longitude": -111.659955,
-   "iso": "USA"
-  },
-  "properties": {
-   "orgName": "Spanish - Spanish Fork UT (USA)",
-   "orgType": "CONG",
-   "address": "8497 S State Rd\nSpanish Fork UT  84660-9434",
-   "languageCode": "S",
-   "schedule": "Sun 13:00 Wed 19:30",
-   "phones": [ "801-798-3273" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2023-06-02"
- },
- {
   "geoId": "721A7D6F-0B19-4DDF-99E6-76BDD25E1B4F(Moved)",
   "type": "weekly",
   "isPrimary": 1,
@@ -67,7 +21,7 @@
   "active": 0,
   "firstSeen": "2022-12-03",
   "moved": "8497 S State Rd\nSpanish Fork UT  84660-9434",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "F2D02F22-E938-4343-BA84-A093844FBC5C(Moved)",
@@ -91,7 +45,51 @@
   "active": 0,
   "firstSeen": "2022-12-03",
   "moved": "8497 S State Rd\nSpanish Fork UT  84660-9434",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
+ },
+ {
+  "geoId": "721A7D6F-0B19-4DDF-99E6-76BDD25E1B4F",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 40.076591,
+   "longitude": -111.659955
+  },
+  "properties": {
+   "orgName": "English - Spanish Fork UT (USA)",
+   "orgType": "CONG",
+   "address": "8497 S State Rd\nSpanish Fork UT  84660-9434",
+   "languageCode": "E",
+   "schedule": "Sun 10:00 Tue 19:00",
+   "phones": [ "801-885-3370" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2022-12-03"
+ },
+ {
+  "geoId": "F2D02F22-E938-4343-BA84-A093844FBC5C",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 40.076591,
+   "longitude": -111.659955
+  },
+  "properties": {
+   "orgName": "Spanish - Spanish Fork UT (USA)",
+   "orgType": "CONG",
+   "address": "8497 S State Rd\nSpanish Fork UT  84660-9434",
+   "languageCode": "S",
+   "schedule": "Sun 13:00 Wed 19:30",
+   "phones": [ "801-798-3273" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2023-06-02"
  },
  {
   "geoId": "86B77A06-8B2D-4404-B283-0DFE4DFA4E91",
@@ -99,20 +97,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.240331,
-   "longitude": -111.681645,
-   "iso": "USA"
+   "longitude": -111.681645
   },
   "properties": {
    "orgName": "English - Provo UT (USA)",
    "orgType": "CONG",
    "address": "491 N 1280 W\nProvo UT  84601-2438",
    "languageCode": "E",
-   "schedule": "Sun 15:30 Wed 19:00",
+   "schedule": "Sat 13:30 Wed 19:00",
    "phones": [ "(801) 374-9015" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -122,20 +119,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.240331,
-   "longitude": -111.681645,
-   "iso": "USA"
+   "longitude": -111.681645
   },
   "properties": {
    "orgName": "Spanish - Provo UT (USA)",
    "orgType": "CONG",
    "address": "491 N 1280 W\nProvo UT  84601-2438",
    "languageCode": "S",
-   "schedule": "Sun 12:30 Tue 19:30",
+   "schedule": "Sun 10:00 Tue 19:30",
    "phones": [ "8013749015" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -145,20 +141,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.240331,
-   "longitude": -111.681645,
-   "iso": "USA"
+   "longitude": -111.681645
   },
   "properties": {
    "orgName": "South Freedom Spanish - Provo UT (USA)",
    "orgType": "CONG",
    "address": "491 N 1280 W\nProvo UT  84601-2438",
    "languageCode": "S",
-   "schedule": "Sun 09:30 Thu 19:00",
+   "schedule": "Sun 12:30 Thu 19:30",
    "phones": [ "801-374-9015" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -168,8 +163,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.374855,
-   "longitude": -111.785061,
-   "iso": "USA"
+   "longitude": -111.785061
   },
   "properties": {
    "orgName": "English - American Fork UT (USA)",
@@ -180,8 +174,8 @@
    "phones": [ "801.756.3084" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -191,8 +185,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.374855,
-   "longitude": -111.785061,
-   "iso": "USA"
+   "longitude": -111.785061
   },
   "properties": {
    "orgName": "Spanish - American Fork UT (USA)",
@@ -203,8 +196,8 @@
    "phones": [ "801-756-3084" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -214,8 +207,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.374855,
-   "longitude": -111.785061,
-   "iso": "USA"
+   "longitude": -111.785061
   },
   "properties": {
    "orgName": "Spanish - Orem UT (USA)",
@@ -226,8 +218,8 @@
    "phones": [ "(801)471-3175" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -237,8 +229,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.589621,
-   "longitude": -111.967008,
-   "iso": "USA"
+   "longitude": -111.967008
   },
   "properties": {
    "orgName": "English - West Jordan UT (USA)",
@@ -246,11 +237,11 @@
    "address": "8887 S 3200 W\nWest Jordan UT  84088-9661",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
-   "phones": [ "(801) 613-7642" ],
+   "phones": [ "(801) 566-2327" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -260,8 +251,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.589621,
-   "longitude": -111.967008,
-   "iso": "USA"
+   "longitude": -111.967008
   },
   "properties": {
    "orgName": "Jordan River Spanish - South Jordan UT (USA)",
@@ -269,11 +259,11 @@
    "address": "8887 S 3200 W\nWest Jordan UT  84088-9661",
    "languageCode": "S",
    "schedule": "Sun 13:00 Wed 19:00",
-   "phones": [ "801-566-2327" ],
+   "phones": [ "(801) 915-8894" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -283,8 +273,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.570763,
-   "longitude": -111.88214,
-   "iso": "USA"
+   "longitude": -111.88214
   },
   "properties": {
    "orgName": "Midvale - UT (USA)",
@@ -295,8 +284,8 @@
    "phones": [ "801-571-9494" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -306,8 +295,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.570763,
-   "longitude": -111.88214,
-   "iso": "USA"
+   "longitude": -111.88214
   },
   "properties": {
    "orgName": "English - Sandy UT (USA)",
@@ -319,8 +307,8 @@
    "phones": [ "801-571-9494" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -330,20 +318,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.570763,
-   "longitude": -111.88214,
-   "iso": "USA"
+   "longitude": -111.88214
   },
   "properties": {
    "orgName": "Lone Peak Portuguese - Salt Lake City UT (USA)",
    "orgType": "CONG",
    "address": "9936 S 300 E\nSandy UT  84070-3848",
    "languageCode": "PTG",
-   "schedule": "Sun 14:00 Wed 19:30",
-   "phones": [ "8015719494" ],
+   "schedule": "Sun 16:30 Wed 19:30",
+   "phones": [ "5089331357" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -353,8 +340,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.570763,
-   "longitude": -111.88214,
-   "iso": "USA"
+   "longitude": -111.88214
   },
   "properties": {
    "orgName": "Russian - English - Sandy UT (USA)",
@@ -366,8 +352,8 @@
    "phones": [ "801-571-9494" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-05-29"
  },
@@ -377,8 +363,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.693445,
-   "longitude": -111.968211,
-   "iso": "USA"
+   "longitude": -111.968211
   },
   "properties": {
    "orgName": "English - West Valley City UT (USA)",
@@ -390,8 +375,8 @@
    "phones": [ "801-969-4343" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -401,20 +386,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.693445,
-   "longitude": -111.968211,
-   "iso": "USA"
+   "longitude": -111.968211
   },
   "properties": {
    "orgName": "Central Spanish - West Valley City UT (USA)",
    "orgType": "CONG",
    "address": "3636 S 3200 W\nWest Valley City UT  84119-3534",
    "languageCode": "S",
-   "schedule": "Sun 15:30 Thu 19:00",
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "801-969-4343" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -424,20 +408,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.693445,
-   "longitude": -111.968211,
-   "iso": "USA"
+   "longitude": -111.968211
   },
   "properties": {
-   "orgName": "East Spanish - West Valley City UT (USA)",
+   "orgName": "Decker Lake Spanish - West Valley City UT (USA)",
    "orgType": "CONG",
    "address": "3636 S 3200 W\nWest Valley City UT  84119-3534",
    "languageCode": "S",
-   "schedule": "Sun 10:00 Wed 19:00",
+   "schedule": "Sun 16:00 Wed 19:00",
    "phones": [ "801-969-4343" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -447,21 +430,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.693445,
-   "longitude": -111.968211,
-   "iso": "USA"
+   "longitude": -111.968211
   },
   "properties": {
    "orgName": "Chinese (Mandarin) - English - West Valley City UT (USA)",
    "orgType": "GROUP",
    "address": "3636 S 3200 W\nWest Valley City UT  84119-3534",
    "languageCode": "CHM",
-   "schedule": "Sun 13:00 Tue 19:00",
+   "schedule": "Sat 10:30 Tue 19:00",
    "relatedLanguageCodes": [ "E" ],
    "phones": [ "801-969-4343" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-05-29"
  },
@@ -471,8 +453,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.649505,
-   "longitude": -111.88549,
-   "iso": "USA"
+   "longitude": -111.88549
   },
   "properties": {
    "orgName": "South Sign Language - Salt Lake City UT (USA)",
@@ -483,8 +464,8 @@
    "phones": [ "801-792-2209" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -494,8 +475,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.649505,
-   "longitude": -111.88549,
-   "iso": "USA"
+   "longitude": -111.88549
   },
   "properties": {
    "orgName": "Holladay - Salt Lake City UT (USA)",
@@ -506,8 +486,8 @@
    "phones": [ "(801) 262-3871" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -517,8 +497,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.649505,
-   "longitude": -111.88549,
-   "iso": "USA"
+   "longitude": -111.88549
   },
   "properties": {
    "orgName": "Spanish - Sandy UT (USA)",
@@ -529,19 +508,18 @@
    "phones": [ "801-262-3871" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "382B4A77-E918-4CC3-B5B5-05A41C7356B2",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.71466,
-   "longitude": -111.927487,
-   "iso": "USA"
+   "longitude": -111.927487
   },
   "properties": {
    "orgName": "Jordan River North - Salt Lake City UT (USA)",
@@ -549,11 +527,11 @@
    "address": "2577 Hempstead St\nWest Valley UT  84119-2125",
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:00",
-   "phones": [ "801-613-1149" ],
+   "phones": [ "385-443-4300" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -563,8 +541,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.71466,
-   "longitude": -111.927487,
-   "iso": "USA"
+   "longitude": -111.927487
   },
   "properties": {
    "orgName": "Glendale Spanish - Salt Lake City UT (USA)",
@@ -575,8 +552,8 @@
    "phones": [ "4694501135" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -601,16 +578,15 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-03",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-24"
  },
  {
   "geoId": "8F973945-28F8-4E2D-A52A-024283D5C48D",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.71466,
-   "longitude": -111.927487,
-   "iso": "USA"
+   "longitude": -111.927487
   },
   "properties": {
    "orgName": "Jordan River Swahili - Salt Lake City UT (USA)",
@@ -618,11 +594,11 @@
    "address": "2577 Hempstead St\nWest Valley UT  84119-2125",
    "languageCode": "SW",
    "schedule": "Sat 10:30 Mon 19:00",
-   "phones": [ "801-505-4657" ],
+   "phones": [ "385-443-4300" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -632,31 +608,29 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.722054,
-   "longitude": -111.874419,
-   "iso": "USA"
+   "longitude": -111.874419
   },
   "properties": {
    "orgName": "Sugarhouse - Salt Lake City UT (USA)",
    "orgType": "CONG",
    "address": "2240 S 600 E\nSalt Lake City UT  84106-1430",
    "languageCode": "E",
-   "schedule": "Sun 16:00 Thu 19:00",
+   "schedule": "Sat 13:30 Thu 19:00",
    "phones": [ "801-487-9456" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
   "geoId": "7273AD27-D59A-4720-BDF5-E77B7AE28A1E",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.722054,
-   "longitude": -111.874419,
-   "iso": "USA"
+   "longitude": -111.874419
   },
   "properties": {
    "orgName": "Liberty Park Spanish - Salt Lake City UT (USA)",
@@ -667,19 +641,18 @@
    "phones": [ "801-487-9456" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "39B3D82A-5460-4118-B02E-7CE9764BB237",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 40.722054,
-   "longitude": -111.874419,
-   "iso": "USA"
+   "longitude": -111.874419
   },
   "properties": {
    "orgName": "Central City - Salt Lake City UT (USA)",
@@ -690,8 +663,8 @@
    "phones": [ "801-487-9456" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -701,8 +674,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.722054,
-   "longitude": -111.874419,
-   "iso": "USA"
+   "longitude": -111.874419
   },
   "properties": {
    "orgName": "French - Sugarhouse - Salt Lake City UT (USA)",
@@ -714,9 +686,9 @@
    "phones": [ "801-487-9456" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-06-14",
-  "active": 0,
+  "active": 1,
   "firstSeen": "2022-12-03"
  },
  {
@@ -725,8 +697,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.898985,
-   "longitude": -111.873266,
-   "iso": "USA"
+   "longitude": -111.873266
   },
   "properties": {
    "orgName": "Bountiful - UT (USA)",
@@ -737,8 +708,8 @@
    "phones": [ "801-292-3731" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -748,8 +719,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.898985,
-   "longitude": -111.873266,
-   "iso": "USA"
+   "longitude": -111.873266
   },
   "properties": {
    "orgName": "Rose Park Spanish - Salt Lake City UT (USA)",
@@ -760,8 +730,8 @@
    "phones": [ "801-292-3731" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -770,21 +740,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 41.062614,
-   "longitude": -111.941876,
-   "iso": "USA"
+   "latitude": 40.898985,
+   "longitude": -111.873266
   },
   "properties": {
    "orgName": "English - Layton UT (USA)",
    "orgType": "CONG",
-   "address": "1323 E Gentile St\nLayton UT  84040-4068",
+   "address": "355 E 900 N\nBountiful UT  84010-4633",
    "languageCode": "E",
-   "schedule": "Sun 10:00 Thu 19:00",
+   "schedule": "Sat 11:00 Thu 19:00",
    "phones": [ "801-544-1419" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -793,21 +762,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 41.062614,
-   "longitude": -111.941876,
-   "iso": "USA"
+   "latitude": 40.898985,
+   "longitude": -111.873266
   },
   "properties": {
    "orgName": "Spanish - Layton UT (USA)",
    "orgType": "CONG",
-   "address": "1323 E Gentile St\nLayton UT  84040-4068",
+   "address": "355 E 900 N\nBountiful UT  84010-4633",
    "languageCode": "S",
    "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "(801) 528-1719" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -817,8 +785,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.544386,
-   "longitude": -111.416245,
-   "iso": "USA"
+   "longitude": -111.416245
   },
   "properties": {
    "orgName": "English - Heber City UT (USA)",
@@ -829,8 +796,8 @@
    "phones": [ "435-222-9150" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -840,8 +807,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.544386,
-   "longitude": -111.416245,
-   "iso": "USA"
+   "longitude": -111.416245
   },
   "properties": {
    "orgName": "Spanish - Heber City UT (USA)",
@@ -852,8 +818,8 @@
    "phones": [ "(435) 222-9150" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -863,20 +829,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.251433,
-   "longitude": -111.984547,
-   "iso": "USA"
+   "longitude": -111.984547
   },
   "properties": {
    "orgName": "North - Ogden UT (USA)",
    "orgType": "CONG",
    "address": "351 W 7th St\nOgden UT  84404",
    "languageCode": "E",
-   "schedule": "Sun 10:00 Tue 19:00",
+   "schedule": "Sun 12:30 Tue 19:00",
    "phones": [ "801-627-4128" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -901,7 +866,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "1F118EF0-C2DF-4207-8A54-1C54E3FA52D9",
@@ -909,20 +874,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.251433,
-   "longitude": -111.984547,
-   "iso": "USA"
+   "longitude": -111.984547
   },
   "properties": {
    "orgName": "Central - Ogden UT (USA)",
    "orgType": "CONG",
    "address": "351 W 7th St\nOgden UT  84404",
    "languageCode": "E",
-   "schedule": "Sun 12:30 Thu 19:00",
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "801-627-4128" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -932,20 +896,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.251433,
-   "longitude": -111.984547,
-   "iso": "USA"
+   "longitude": -111.984547
   },
   "properties": {
    "orgName": "Wall Spanish - North Ogden UT (USA)",
    "orgType": "CONG",
    "address": "351 W 7th St\nOgden UT  84404",
    "languageCode": "S",
-   "schedule": "Sun 12:30 Wed 19:00",
-   "phones": [ "801-627-4128" ],
+   "schedule": "Sun 15:00 Wed 19:00",
+   "phones": [ "801-782-4889" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -955,20 +918,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.681677,
-   "longitude": -111.834322,
-   "iso": "USA"
+   "longitude": -111.834322
   },
   "properties": {
    "orgName": "English - Logan UT (USA)",
    "orgType": "CONG",
    "address": "2813 S Main St\nNibley UT  84321-8541",
    "languageCode": "E",
-   "schedule": "Sun 13:00 Wed 19:00",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "435-752-6843" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -978,20 +940,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.681677,
-   "longitude": -111.834322,
-   "iso": "USA"
+   "longitude": -111.834322
   },
   "properties": {
    "orgName": "South Spanish - Logan UT (USA)",
    "orgType": "CONG",
    "address": "2813 S Main St\nNibley UT  84321-8541",
    "languageCode": "S",
-   "schedule": "Sun 10:00 Thu 19:00",
+   "schedule": "Sun 16:00 Thu 19:00",
    "phones": [ "1 435 512 8746" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1001,20 +962,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.681677,
-   "longitude": -111.834322,
-   "iso": "USA"
+   "longitude": -111.834322
   },
   "properties": {
    "orgName": "North Spanish - Logan UT (USA)",
    "orgType": "CONG",
    "address": "2813 S Main St\nNibley UT  84321-8541",
    "languageCode": "S",
-   "schedule": "Sun 16:00 Tue 19:30",
+   "schedule": "Sun 13:00 Tue 19:00",
    "phones": [ "818-590-7400" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1024,8 +984,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.111156,
-   "longitude": -111.876468,
-   "iso": "USA"
+   "longitude": -111.876468
   },
   "properties": {
    "orgName": "Preston - ID (USA)",
@@ -1036,8 +995,8 @@
    "phones": [ "1(208) 852-3536" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1047,8 +1006,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.29694,
-   "longitude": -109.995561,
-   "iso": "USA"
+   "longitude": -109.995561
   },
   "properties": {
    "orgName": "Roosevelt - UT (USA)",
@@ -1056,11 +1014,11 @@
    "address": "168 S 200 W\nRoosevelt UT  84066-2955",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
-   "phones": [ "435-219-7062" ],
+   "phones": [ "435-823-3056" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1070,8 +1028,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.29694,
-   "longitude": -109.995561,
-   "iso": "USA"
+   "longitude": -109.995561
   },
   "properties": {
    "orgName": "Uinta River Spanish - Roosevelt UT (USA)",
@@ -1082,8 +1039,8 @@
    "phones": [ "(435) 722-9444" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1093,8 +1050,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.243486,
-   "longitude": -110.933686,
-   "iso": "USA"
+   "longitude": -110.933686
   },
   "properties": {
    "orgName": "Evanston - WY (USA)",
@@ -1105,8 +1061,8 @@
    "phones": [ "307-444-9019" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1116,8 +1072,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.477288,
-   "longitude": -109.524439,
-   "iso": "USA"
+   "longitude": -109.524439
   },
   "properties": {
    "orgName": "English - Vernal UT (USA)",
@@ -1128,8 +1083,8 @@
    "phones": [ "435-789-6620" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1139,20 +1094,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.454435,
-   "longitude": -111.958536,
-   "iso": "USA"
+   "longitude": -111.958536
   },
   "properties": {
    "orgName": "Ammon - ID (USA)",
    "orgType": "CONG",
    "address": "4805 Sweetwater Way\nAmmon ID  83406",
    "languageCode": "E",
-   "schedule": "Sun 10:00 Tue 19:30",
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "208-524-4266" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1162,8 +1116,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.801015,
-   "longitude": -110.94049,
-   "iso": "USA"
+   "longitude": -110.94049
   },
   "properties": {
    "orgName": "Afton - WY (USA)",
@@ -1174,8 +1127,8 @@
    "phones": [ "307-886-3727" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1185,20 +1138,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.037892,
-   "longitude": -107.921816,
-   "iso": "USA"
+   "longitude": -107.921816
   },
   "properties": {
    "orgName": "Meeker - CO (USA)",
    "orgType": "CONG",
    "address": "1122 Garfield St\nMeeker CO  81641-3208",
    "languageCode": "E",
-   "schedule": "Sun 10:00 Thu 19:30",
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "970-878-9830" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1208,8 +1160,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.972044,
-   "longitude": -111.674355,
-   "iso": "USA"
+   "longitude": -111.674355
   },
   "properties": {
    "orgName": "Saint Anthony - ID (USA)",
@@ -1217,11 +1168,14 @@
    "address": "545 E Yellowstone St\nSaint Anthony ID  83445",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
-   "phones": [ "208-251-3589" ],
+   "phones": [
+    "208-684-7550",
+    "208-684-7551"
+   ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1231,8 +1185,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.643548,
-   "longitude": -109.259601,
-   "iso": "USA"
+   "longitude": -109.259601
   },
   "properties": {
    "orgName": "Rock Springs - WY (USA)",
@@ -1244,8 +1197,8 @@
    "phones": [ "307 389-5828 - Please leave message" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1255,8 +1208,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.643548,
-   "longitude": -109.259601,
-   "iso": "USA"
+   "longitude": -109.259601
   },
   "properties": {
    "orgName": "Spanish - Rock Springs - WY (USA)",
@@ -1268,8 +1220,8 @@
    "phones": [ "307 389-5828 - Please leave message" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1279,8 +1231,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.470806,
-   "longitude": -110.788451,
-   "iso": "USA"
+   "longitude": -110.788451
   },
   "properties": {
    "orgName": "English - Jackson WY (USA)",
@@ -1291,8 +1242,8 @@
    "phones": [ "307-733-9314" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1302,8 +1253,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.470806,
-   "longitude": -110.788451,
-   "iso": "USA"
+   "longitude": -110.788451
   },
   "properties": {
    "orgName": "Spanish - Jackson WY (USA)",
@@ -1314,8 +1264,8 @@
    "phones": [ "307-733-9314" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1325,8 +1275,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.880646,
-   "longitude": -109.969748,
-   "iso": "USA"
+   "longitude": -109.969748
   },
   "properties": {
    "orgName": "Pinedale - WY (USA)",
@@ -1337,8 +1286,8 @@
    "phones": [ "307-367-2690" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1348,8 +1297,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.517137,
-   "longitude": -107.590683,
-   "iso": "USA"
+   "longitude": -107.590683
   },
   "properties": {
    "orgName": "Craig - CO (USA)",
@@ -1357,11 +1305,11 @@
    "address": "665 Westridge Rd\nCraig CO  81625-3803",
    "languageCode": "E",
    "schedule": "Sun 10:00 Thu 19:00",
-   "phones": [ "970-824-2101" ],
+   "phones": [ "7152712521" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1383,7 +1331,7 @@
    "phones": [ "307-367-2690" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -1395,8 +1343,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.512149,
-   "longitude": -106.856918,
-   "iso": "USA"
+   "longitude": -106.856918
   },
   "properties": {
    "orgName": "English - Steamboat Springs CO (USA)",
@@ -1407,8 +1354,8 @@
    "phones": [ "970-879-4075" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1418,20 +1365,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.512149,
-   "longitude": -106.856918,
-   "iso": "USA"
+   "longitude": -106.856918
   },
   "properties": {
    "orgName": "Spanish - Steamboat Springs CO (USA)",
    "orgType": "CONG",
    "address": "3000 Elk River Rd\nSteamboat Springs CO  80477",
    "languageCode": "S",
-   "schedule": "Sun 13:00 Wed 19:00",
+   "schedule": "Sat 10:00 Wed 19:00",
    "phones": [ "9708192998" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1441,8 +1387,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.075283,
-   "longitude": -106.09572,
-   "iso": "USA"
+   "longitude": -106.09572
   },
   "properties": {
    "orgName": "Hot Sulphur Springs - CO (USA)",
@@ -1453,8 +1398,8 @@
    "phones": [ "Dave - (970) 389-0367" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1464,8 +1409,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.075283,
-   "longitude": -106.09572,
-   "iso": "USA"
+   "longitude": -106.09572
   },
   "properties": {
    "orgName": "Spanish - Hot Sulphur Springs CO (USA)",
@@ -1473,11 +1417,11 @@
    "address": "401 E Nevava St\nHot Sulphur Springs CO  80451",
    "languageCode": "S",
    "schedule": "Sun 10:00 Wed 19:00",
-   "phones": [ "970-509-0037" ],
+   "phones": [ "9707253323" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1487,8 +1431,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.823521,
-   "longitude": -108.718318,
-   "iso": "USA"
+   "longitude": -108.718318
   },
   "properties": {
    "orgName": "Lander - WY (USA)",
@@ -1499,8 +1442,8 @@
    "phones": [ "307 332 2057" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1510,8 +1453,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.784775,
-   "longitude": -107.268576,
-   "iso": "USA"
+   "longitude": -107.268576
   },
   "properties": {
    "orgName": "Rawlins - WY (USA)",
@@ -1522,8 +1464,8 @@
    "phones": [ "307-320-8532" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1533,8 +1475,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.75181,
-   "longitude": -111.18453,
-   "iso": "USA"
+   "longitude": -111.18453
   },
   "properties": {
    "orgName": "Belgrade - MT (USA)",
@@ -1545,8 +1486,8 @@
    "phones": [ "406-388-1444" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1556,8 +1497,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.75181,
-   "longitude": -111.18453,
-   "iso": "USA"
+   "longitude": -111.18453
   },
   "properties": {
    "orgName": "Manhattan - MT (USA)",
@@ -1565,11 +1505,11 @@
    "address": "5590 Jackrabbit Ln\nBelgrade MT  59714",
    "languageCode": "E",
    "schedule": "Sun 13:00 Wed 19:00",
-   "phones": [ "(406)388-1444" ],
+   "phones": [ "406-388-1444" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1579,8 +1519,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.027358,
-   "longitude": -108.456589,
-   "iso": "USA"
+   "longitude": -108.456589
   },
   "properties": {
    "orgName": "English - Riverton WY (USA)",
@@ -1591,8 +1530,8 @@
    "phones": [ "307-240-1621" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1602,8 +1541,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.567343,
-   "longitude": -111.967165,
-   "iso": "USA"
+   "longitude": -111.967165
   },
   "properties": {
    "orgName": "Canyon Ferry - Helena MT (USA)",
@@ -1614,8 +1552,8 @@
    "phones": [ "406-201-9386" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1625,8 +1563,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.567343,
-   "longitude": -111.967165,
-   "iso": "USA"
+   "longitude": -111.967165
   },
   "properties": {
    "orgName": "Elkhorn - Helena MT (USA)",
@@ -1637,8 +1574,8 @@
    "phones": [ "(406) 443-3641" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1648,20 +1585,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.700605,
-   "longitude": -111.073075,
-   "iso": "USA"
+   "longitude": -111.073075
   },
   "properties": {
    "orgName": "Bozeman - MT (USA)",
    "orgType": "CONG",
    "address": "1367 Thomas Dr\nBozeman MT  59718",
    "languageCode": "E",
-   "schedule": "Sun 10:00 Tue 19:30",
-   "phones": [ "(406) 587-7852" ],
+   "schedule": "Sun 10:00 Tue 19:00",
+   "phones": [ "406-587-7852" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1671,20 +1607,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.700605,
-   "longitude": -111.073075,
-   "iso": "USA"
+   "longitude": -111.073075
   },
   "properties": {
    "orgName": "Bridger Peaks Spanish - Bozeman MT (USA)",
    "orgType": "CONG",
    "address": "1367 Thomas Dr\nBozeman MT  59718",
    "languageCode": "S",
-   "schedule": "Sun 14:00 Wed 19:00",
-   "phones": [ "(406)284-5599" ],
+   "schedule": "Sun 13:00 Wed 19:00",
+   "phones": [ "(406)451-2318" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1694,20 +1629,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.051673,
-   "longitude": -105.217002,
-   "iso": "USA"
+   "longitude": -105.217002
   },
   "properties": {
    "orgName": "Foothills - Boulder CO (USA)",
    "orgType": "CONG",
    "address": "5885 Jay Rd\nBoulder CO  80301-3044",
    "languageCode": "E",
-   "schedule": "Sat 10:00 Tue 19:00",
+   "schedule": "Sat 13:00 Tue 19:00",
    "phones": [ "(303) 581-9829" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1717,8 +1651,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.051673,
-   "longitude": -105.217002,
-   "iso": "USA"
+   "longitude": -105.217002
   },
   "properties": {
    "orgName": "South - Boulder CO (USA)",
@@ -1729,8 +1662,8 @@
    "phones": [ "303-581-9829" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1740,8 +1673,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.051673,
-   "longitude": -105.217002,
-   "iso": "USA"
+   "longitude": -105.217002
   },
   "properties": {
    "orgName": "Spanish - Boulder CO (USA)",
@@ -1752,8 +1684,8 @@
    "phones": [ "303-581-9829" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -1763,20 +1695,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.188897,
-   "longitude": -105.128477,
-   "iso": "USA"
+   "longitude": -105.128477
   },
   "properties": {
    "orgName": "Longs Peak - Longmont CO (USA)",
    "orgType": "CONG",
    "address": "2218 17th Ave\nLongmont CO  80501-9762",
    "languageCode": "E",
-   "schedule": "Sun 12:00 Thu 19:00",
+   "schedule": "Sun 09:30 Thu 19:00",
    "phones": [ "303-772-1442" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1786,20 +1717,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.188897,
-   "longitude": -105.128477,
-   "iso": "USA"
+   "longitude": -105.128477
   },
   "properties": {
    "orgName": "North Spanish - Longmont CO (USA)",
    "orgType": "CONG",
    "address": "2218 17th Ave\nLongmont CO  80501-9762",
    "languageCode": "S",
-   "schedule": "Sun 14:30 Wed 19:30",
+   "schedule": "Sun 12:00 Wed 19:30",
    "phones": [ "303-772-1442" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1809,20 +1739,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.188897,
-   "longitude": -105.128477,
-   "iso": "USA"
+   "longitude": -105.128477
   },
   "properties": {
    "orgName": "Westview Spanish - Longmont CO (USA)",
    "orgType": "CONG",
    "address": "2218 17th Ave\nLongmont CO  80501-9762",
    "languageCode": "S",
-   "schedule": "Sun 09:30 Tue 19:00",
+   "schedule": "Sun 14:30 Tue 19:00",
    "phones": [ "303-772-1442" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1832,8 +1761,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.675215,
-   "longitude": -110.546605,
-   "iso": "USA"
+   "longitude": -110.546605
   },
   "properties": {
    "orgName": "Livingston - MT (USA)",
@@ -1844,8 +1772,8 @@
    "phones": [ "1-406-222-2012" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1855,20 +1783,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.159985,
-   "longitude": -105.026312,
-   "iso": "USA"
+   "longitude": -105.026312
   },
   "properties": {
    "orgName": "Sunset Park - Longmont CO (USA)",
    "orgType": "CONG",
    "address": "1531 Vista View Dr\nLongmont CO  80504-5241",
    "languageCode": "E",
-   "schedule": "Sun 12:00 Tue 19:00",
-   "phones": [ "(303) 651-9220" ],
+   "schedule": "Sun 10:00 Thu 19:00",
+   "phones": [ "303-651-9220" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1878,20 +1805,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.159985,
-   "longitude": -105.026312,
-   "iso": "USA"
+   "longitude": -105.026312
   },
   "properties": {
    "orgName": "South Spanish - Longmont CO (USA)",
    "orgType": "CONG",
    "address": "1531 Vista View Dr\nLongmont CO  80504-5241",
    "languageCode": "S",
-   "schedule": "Sun 14:30 Wed 19:30",
+   "schedule": "Sun 13:00 Wed 19:00",
    "phones": [ "303-651-9220" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1901,8 +1827,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.159985,
-   "longitude": -105.026312,
-   "iso": "USA"
+   "longitude": -105.026312
   },
   "properties": {
    "orgName": "Mountain View - Longmont CO (USA)",
@@ -1913,7 +1838,7 @@
    "phones": [ "303-651-9220" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -1924,20 +1849,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.302559,
-   "longitude": -105.132161,
-   "iso": "USA"
+   "longitude": -105.132161
   },
   "properties": {
    "orgName": "Berthoud - CO (USA)",
    "orgType": "CONG",
    "address": "309 N County Rd 21\nBerthoud CO  80513-9430",
    "languageCode": "E",
-   "schedule": "Sun 10:00 Tue 19:30",
-   "phones": [ "970-599-1843" ],
+   "schedule": "Sun 10:00 Tue 19:00",
+   "phones": [ "970-532-4643" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1947,20 +1871,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.447445,
-   "longitude": -105.067249,
-   "iso": "USA"
+   "longitude": -105.067249
   },
   "properties": {
    "orgName": "Silver Lake - Loveland CO (USA)",
    "orgType": "CONG",
    "address": "628 Ptarmigan Run\nLoveland CO  80538-1830",
    "languageCode": "E",
-   "schedule": "Sun 10:00 Wed 19:00",
+   "schedule": "Sat 13:00 Wed 19:00",
    "phones": [ "970-669-9071" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1970,8 +1893,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.447445,
-   "longitude": -105.067249,
-   "iso": "USA"
+   "longitude": -105.067249
   },
   "properties": {
    "orgName": "Westlake - Loveland CO (USA)",
@@ -1982,8 +1904,8 @@
    "phones": [ "970-669-9071" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1993,8 +1915,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.447445,
-   "longitude": -105.067249,
-   "iso": "USA"
+   "longitude": -105.067249
   },
   "properties": {
    "orgName": "Central - Loveland CO (USA)",
@@ -2005,8 +1926,8 @@
    "phones": [ "970 669-9071" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2016,8 +1937,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.447445,
-   "longitude": -105.067249,
-   "iso": "USA"
+   "longitude": -105.067249
   },
   "properties": {
    "orgName": "Longview - Loveland CO (USA)",
@@ -2028,9 +1948,9 @@
    "phones": [ "970-669-9071" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-06-14",
-  "active": 0,
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
@@ -2039,8 +1959,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.509672,
-   "longitude": -105.038757,
-   "iso": "USA"
+   "longitude": -105.038757
   },
   "properties": {
    "orgName": "Poudre Valley - Fort Collins CO (USA)",
@@ -2051,8 +1970,8 @@
    "phones": [ "970-206-1023" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2062,8 +1981,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.509672,
-   "longitude": -105.038757,
-   "iso": "USA"
+   "longitude": -105.038757
   },
   "properties": {
    "orgName": "Warren Lake - Fort Collins CO (USA)",
@@ -2074,8 +1992,8 @@
    "phones": [ "970-206-1023" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2085,20 +2003,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.509672,
-   "longitude": -105.038757,
-   "iso": "USA"
+   "longitude": -105.038757
   },
   "properties": {
    "orgName": "Spanish - Fort Collins CO (USA)",
    "orgType": "CONG",
    "address": "2104 Kechter Rd\nFort Collins CO  80528-9531",
    "languageCode": "S",
-   "schedule": "Sun 10:00 Wed 19:30",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "970-206-1023" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2108,8 +2025,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.509672,
-   "longitude": -105.038757,
-   "iso": "USA"
+   "longitude": -105.038757
   },
   "properties": {
    "orgName": "Sign Language - Fort Collins CO (USA)",
@@ -2120,8 +2036,8 @@
    "phones": [ "970-206-1023" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2131,8 +2047,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.596171,
-   "longitude": -105.117386,
-   "iso": "USA"
+   "longitude": -105.117386
   },
   "properties": {
    "orgName": "Terry Lake - Fort Collins CO (USA)",
@@ -2143,8 +2058,8 @@
    "phones": [ "970-484-9719" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2154,8 +2069,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.596171,
-   "longitude": -105.117386,
-   "iso": "USA"
+   "longitude": -105.117386
   },
   "properties": {
    "orgName": "City Park - Fort Collins CO (USA)",
@@ -2166,8 +2080,8 @@
    "phones": [ "(970) 484-9719" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2177,20 +2091,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.529386,
-   "longitude": -109.038155,
-   "iso": "USA"
+   "longitude": -109.038155
   },
   "properties": {
    "orgName": "Cody - WY (USA)",
    "orgType": "CONG",
    "address": "2702 Cougar Ave\nCody WY  82414-8400",
    "languageCode": "E",
-   "schedule": "Sun 10:00 Thu 19:00",
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "307-587-4931" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2200,8 +2113,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.381934,
-   "longitude": -104.734366,
-   "iso": "USA"
+   "longitude": -104.734366
   },
   "properties": {
    "orgName": "South English - Greeley CO (USA)",
@@ -2212,8 +2124,8 @@
    "phones": [ "1-970-330-6294" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2223,20 +2135,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.381934,
-   "longitude": -104.734366,
-   "iso": "USA"
+   "longitude": -104.734366
   },
   "properties": {
    "orgName": "South Spanish - Greeley CO (USA)",
    "orgType": "CONG",
    "address": "3408 W 34th St Rd\nGreeley CO  80634-9424",
    "languageCode": "S",
-   "schedule": "Sat 13:30 Thu 19:00",
-   "phones": [ "720-233-0386" ],
+   "schedule": "Sat 14:00 Thu 19:00",
+   "phones": [ "9705818148" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2246,20 +2157,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.381934,
-   "longitude": -104.734366,
-   "iso": "USA"
+   "longitude": -104.734366
   },
   "properties": {
    "orgName": "East Spanish - Greeley CO (USA)",
    "orgType": "CONG",
    "address": "3408 W 34th St Rd\nGreeley CO  80634-9424",
    "languageCode": "S",
-   "schedule": "Sun 09:30 Tue 19:30",
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "(970) 330-6294" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2269,20 +2179,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.430186,
-   "longitude": -104.755836,
-   "iso": "USA"
+   "longitude": -104.755836
   },
   "properties": {
    "orgName": "Pheasant Run - Greeley CO (USA)",
    "orgType": "CONG",
    "address": "4702 W 3rd St\nGreeley CO  80634-4320",
    "languageCode": "E",
-   "schedule": "Sun 09:30 Tue 19:00",
+   "schedule": "Sat 12:30 Tue 19:00",
    "phones": [ "970-231-5172" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2292,20 +2201,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.430186,
-   "longitude": -104.755836,
-   "iso": "USA"
+   "longitude": -104.755836
   },
   "properties": {
    "orgName": "North Spanish - Greeley CO (USA)",
    "orgType": "CONG",
    "address": "4702 W 3rd St\nGreeley CO  80634-4320",
    "languageCode": "S",
-   "schedule": "Sun 16:00 Thu 19:30",
+   "schedule": "Sun 13:00 Thu 19:00",
    "phones": [ "970-590-0449" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2315,20 +2223,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.430186,
-   "longitude": -104.755836,
-   "iso": "USA"
+   "longitude": -104.755836
   },
   "properties": {
    "orgName": "Union Colony - Greeley CO (USA)",
    "orgType": "CONG",
    "address": "4702 W 3rd St\nGreeley CO  80634-4320",
    "languageCode": "E",
-   "schedule": "Sun 13:00 Wed 19:30",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "970-356-1207" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2338,8 +2245,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.323584,
-   "longitude": -105.609432,
-   "iso": "USA"
+   "longitude": -105.609432
   },
   "properties": {
    "orgName": "Laramie - WY (USA)",
@@ -2347,11 +2253,11 @@
    "address": "1363 N McCue St\nLaramie WY  82072-2090",
    "languageCode": "E",
    "schedule": "Sun 10:00 Wed 19:00",
-   "phones": [ "307-223-5766" ],
+   "phones": [ "307-460-3098" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2361,8 +2267,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 40.580098,
-   "longitude": -104.728529,
-   "iso": "USA"
+   "longitude": -104.728529
   },
   "properties": {
    "orgName": "Ault - CO (USA)",
@@ -2373,8 +2278,8 @@
    "phones": [ "970-584-4265" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2384,8 +2289,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.015458,
-   "longitude": -107.927974,
-   "iso": "USA"
+   "longitude": -107.927974
   },
   "properties": {
    "orgName": "Worland - WY (USA)",
@@ -2396,8 +2300,8 @@
    "phones": [ "307-921-9023" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2407,8 +2311,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.512506,
-   "longitude": -111.240574,
-   "iso": "USA"
+   "longitude": -111.240574
   },
   "properties": {
    "orgName": "Mountain View - Great Falls MT (USA)",
@@ -2419,8 +2322,8 @@
    "phones": [ "406-761-2967" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2430,8 +2333,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.512506,
-   "longitude": -111.240574,
-   "iso": "USA"
+   "longitude": -111.240574
   },
   "properties": {
    "orgName": "Giant Springs - Great Falls MT (USA)",
@@ -2442,8 +2344,8 @@
    "phones": [ "(406) 231-2106" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2453,20 +2355,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.512506,
-   "longitude": -111.240574,
-   "iso": "USA"
+   "longitude": -111.240574
   },
   "properties": {
    "orgName": "Crown Butte - Great Falls MT (USA)",
    "orgType": "CONG",
    "address": "3826 7th Ave N\nGreat Falls MT  59405-1116",
    "languageCode": "E",
-   "schedule": "Sat 11:00 Mon 19:00",
-   "phones": [ "406-761-2967" ],
+   "schedule": "Sat 11:00 Thu 19:00",
+   "phones": [ "406-781-7029" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2476,8 +2377,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.646322,
-   "longitude": -109.265406,
-   "iso": "USA"
+   "longitude": -109.265406
   },
   "properties": {
    "orgName": "Columbus - MT (USA)",
@@ -2488,8 +2388,8 @@
    "phones": [ "1-406-322-4222" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2499,20 +2399,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.147701,
-   "longitude": -104.761502,
-   "iso": "USA"
+   "longitude": -104.761502
   },
   "properties": {
    "orgName": "Prairie Winds - Cheyenne WY (USA)",
    "orgType": "CONG",
    "address": "3422 N College Dr\nCheyenne WY  82001-1966",
    "languageCode": "E",
-   "schedule": "Sun 15:30 Wed 19:00",
+   "schedule": "Sun 12:30 Wed 19:00",
    "phones": [ "307-638-8682" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2522,20 +2421,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.147701,
-   "longitude": -104.761502,
-   "iso": "USA"
+   "longitude": -104.761502
   },
   "properties": {
    "orgName": "Skyline - Cheyenne WY (USA)",
    "orgType": "CONG",
    "address": "3422 N College Dr\nCheyenne WY  82001-1966",
    "languageCode": "E",
-   "schedule": "Sun 09:30 Thu 19:00",
-   "phones": [ "307-421-5556" ],
+   "schedule": "Sat 13:00 Thu 19:00",
+   "phones": [ "307-638-8682" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2545,20 +2443,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 41.147701,
-   "longitude": -104.761502,
-   "iso": "USA"
+   "longitude": -104.761502
   },
   "properties": {
    "orgName": "Frontier Spanish - Cheyenne WY (USA)",
    "orgType": "CONG",
    "address": "3422 N College Dr\nCheyenne WY  82001-1966",
    "languageCode": "S",
-   "schedule": "Sun 12:30 Tue 19:00",
-   "phones": [ "(307) 757-6483" ],
+   "schedule": "Sun 10:00 Tue 19:00",
+   "phones": [ "307-638-8682" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2568,8 +2465,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.862149,
-   "longitude": -106.336542,
-   "iso": "USA"
+   "longitude": -106.336542
   },
   "properties": {
    "orgName": "Hilltop - Casper WY (USA)",
@@ -2580,8 +2476,8 @@
    "phones": [ "(307) 237-7457" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2591,8 +2487,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.862149,
-   "longitude": -106.336542,
-   "iso": "USA"
+   "longitude": -106.336542
   },
   "properties": {
    "orgName": "Bar-Nunn - Casper WY (USA)",
@@ -2603,8 +2498,8 @@
    "phones": [ "1-307-237-7457" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2614,8 +2509,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.862149,
-   "longitude": -106.336542,
-   "iso": "USA"
+   "longitude": -106.336542
   },
   "properties": {
    "orgName": "Spanish - Casper WY (USA)",
@@ -2626,8 +2520,8 @@
    "phones": [ "307-237-7457" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2637,8 +2531,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.67276,
-   "longitude": -108.785594,
-   "iso": "USA"
+   "longitude": -108.785594
   },
   "properties": {
    "orgName": "West - Laurel MT (USA)",
@@ -2649,8 +2542,8 @@
    "phones": [ "406-628-7248" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2660,8 +2553,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.052615,
-   "longitude": -104.966651,
-   "iso": "USA"
+   "longitude": -104.966651
   },
   "properties": {
    "orgName": "Wheatland - WY (USA)",
@@ -2669,11 +2561,11 @@
    "address": "1855 Center Rd\nWheatland WY  82201-3058",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
-   "phones": [ "(970) 371-6415" ],
+   "phones": [ "(307) 763-1753" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2683,20 +2575,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.761754,
-   "longitude": -108.606978,
-   "iso": "USA"
+   "longitude": -108.606978
   },
   "properties": {
    "orgName": "Harvest Park - Billings MT (USA)",
    "orgType": "CONG",
    "address": "405 S 36th St W\nBillings MT  59102-7065",
    "languageCode": "E",
-   "schedule": "Sun 10:00 Thu 19:00",
+   "schedule": "Sat 10:00 Thu 19:00",
    "phones": [ "406-652-3416" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2706,8 +2597,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.761754,
-   "longitude": -108.606978,
-   "iso": "USA"
+   "longitude": -108.606978
   },
   "properties": {
    "orgName": "Rimrock - Billings MT (USA)",
@@ -2718,8 +2608,8 @@
    "phones": [ "406-652-3416" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2729,20 +2619,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.761754,
-   "longitude": -108.606978,
-   "iso": "USA"
+   "longitude": -108.606978
   },
   "properties": {
    "orgName": "Spanish - Billings Heights MT (USA)",
    "orgType": "CONG",
    "address": "405 S 36th St W\nBillings MT  59102-7065",
    "languageCode": "S",
-   "schedule": "Sat 16:00 Wed 19:00",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "(406) 652-3416" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2752,8 +2641,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.827736,
-   "longitude": -108.482688,
-   "iso": "USA"
+   "longitude": -108.482688
   },
   "properties": {
    "orgName": "Billings Heights - Billings MT (USA)",
@@ -2764,8 +2652,8 @@
    "phones": [ "(406) 248-4550" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2775,8 +2663,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.827736,
-   "longitude": -108.482688,
-   "iso": "USA"
+   "longitude": -108.482688
   },
   "properties": {
    "orgName": "Riverview - Billings MT (USA)",
@@ -2787,8 +2674,8 @@
    "phones": [ "406-248-4550" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2798,8 +2685,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.748876,
-   "longitude": -105.390102,
-   "iso": "USA"
+   "longitude": -105.390102
   },
   "properties": {
    "orgName": "Douglas - WY (USA)",
@@ -2810,8 +2696,8 @@
    "phones": [ "307-358-6472" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2821,8 +2707,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.070064,
-   "longitude": -109.443126,
-   "iso": "USA"
+   "longitude": -109.443126
   },
   "properties": {
    "orgName": "Lewistown - MT (USA)",
@@ -2833,8 +2718,8 @@
    "phones": [ "406-538-3255" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2844,8 +2729,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.348726,
-   "longitude": -106.709882,
-   "iso": "USA"
+   "longitude": -106.709882
   },
   "properties": {
    "orgName": "Buffalo - WY (USA)",
@@ -2856,8 +2740,8 @@
    "phones": [ "307-684-7653" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2867,8 +2751,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.773192,
-   "longitude": -106.958329,
-   "iso": "USA"
+   "longitude": -106.958329
   },
   "properties": {
    "orgName": "Sheridan - WY (USA)",
@@ -2879,8 +2762,8 @@
    "phones": [ "307-672-2271" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2890,20 +2773,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 42.061058,
-   "longitude": -104.190729,
-   "iso": "USA"
+   "longitude": -104.190729
   },
   "properties": {
    "orgName": "Torrington - WY (USA)",
    "orgType": "CONG",
    "address": "1557 W E St\nTorrington WY  82240",
    "languageCode": "E",
-   "schedule": "Sun 10:00 Tue 19:30",
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "307-532-7863" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2913,8 +2795,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.455153,
-   "longitude": -108.547425,
-   "iso": "USA"
+   "longitude": -108.547425
   },
   "properties": {
    "orgName": "Roundup - MT (USA)",
@@ -2925,8 +2806,8 @@
    "phones": [ "406-323-4008" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2936,8 +2817,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 45.73201,
-   "longitude": -107.617974,
-   "iso": "USA"
+   "longitude": -107.617974
   },
   "properties": {
    "orgName": "Hardin - MT (USA)",
@@ -2948,8 +2828,8 @@
    "phones": [ "14066653644" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2959,20 +2839,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.278582,
-   "longitude": -105.477745,
-   "iso": "USA"
+   "longitude": -105.477745
   },
   "properties": {
    "orgName": "English - Gillette WY (USA)",
    "orgType": "CONG",
    "address": "1601 Shalom Ave\nGillette WY  82718-5629",
    "languageCode": "E",
-   "schedule": "Sun 13:00 Wed 19:00",
+   "schedule": "Sun 10:00 Wed 19:00",
    "phones": [ "307-680-8647" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2982,20 +2861,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 44.278582,
-   "longitude": -105.477745,
-   "iso": "USA"
+   "longitude": -105.477745
   },
   "properties": {
    "orgName": "Spanish - Gillette WY (USA)",
    "orgType": "CONG",
    "address": "1601 Shalom Ave\nGillette WY  82718-5629",
    "languageCode": "S",
-   "schedule": "Sun 10:00 Thu 19:00",
+   "schedule": "Sun 13:00 Thu 19:00",
    "phones": [ "307-670-8004" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3005,8 +2883,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.264551,
-   "longitude": -106.681966,
-   "iso": "USA"
+   "longitude": -106.681966
   },
   "properties": {
    "orgName": "Forsyth - MT (USA)",
@@ -3017,8 +2894,8 @@
    "phones": [ "406-351-1607" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3028,8 +2905,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 43.847569,
-   "longitude": -104.178025,
-   "iso": "USA"
+   "longitude": -104.178025
   },
   "properties": {
    "orgName": "Newcastle - WY (USA)",
@@ -3037,11 +2913,11 @@
    "address": "5018 US Highway 16\nNewcastle WY  82701",
    "languageCode": "E",
    "schedule": "Sun 10:00 Tue 19:00",
-   "phones": [ "307-746-2319" ],
+   "phones": [ "307-318-1100" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3051,8 +2927,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 46.409485,
-   "longitude": -105.83331,
-   "iso": "USA"
+   "longitude": -105.83331
   },
   "properties": {
    "orgName": "Miles City - MT (USA)",
@@ -3063,8 +2938,8 @@
    "phones": [ "406 951 1730" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3074,8 +2949,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 47.102244,
-   "longitude": -104.756313,
-   "iso": "USA"
+   "longitude": -104.756313
   },
   "properties": {
    "orgName": "Glendive - MT (USA)",
@@ -3086,8 +2960,8 @@
    "phones": [ "406-377-8869" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  }

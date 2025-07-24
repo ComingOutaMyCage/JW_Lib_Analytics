@@ -5,20 +5,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.778032,
-   "longitude": -51.949693,
-   "iso": "BRA"
+   "longitude": -51.949693
   },
   "properties": {
    "orgName": "Pedra Branca do Amapari - AP",
    "orgType": "CONG",
    "address": "R. do Progresso, s/n\n(lote 2225, setor 25, quadra 19)\nCentro\nPedra Branca do Amapari, AP\n68945-000",
    "languageCode": "PTG",
-   "schedule": "Sat 19:00 Thu 19:30",
+   "schedule": "Sat 19:00 Wed 19:30",
    "phones": [ "(96) 984025227" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -28,8 +27,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.023426,
-   "longitude": -51.175662,
-   "iso": "BRA"
+   "longitude": -51.175662
   },
   "properties": {
    "orgName": "Coração - Macapá AP",
@@ -40,8 +38,8 @@
    "phones": [ "096999725274" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -51,22 +49,43 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.905965,
-   "longitude": -52.002564,
-   "iso": "BRA"
+   "longitude": -52.002564
   },
   "properties": {
    "orgName": "Serra do Navio - AP",
    "orgType": "CONG",
    "address": "Travessa BC-12, 235\nExpansão\nSerra do Navio, AP\n68948-000",
-   "languageCode": "PTG",
+   "languageCode": "T",
    "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "96 98413-5883" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "5301FC7C-C7E4-49C1-8B09-7BBCA132AB6A",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 0.905965,
+   "longitude": -52.002564
+  },
+  "properties": {
+   "orgName": "Serra do Navio - AP - Pedra Branca do Amapari - AP",
+   "orgType": "GROUP",
+   "address": "Travessa BC-12, 235\nExpansão\nSerra do Navio, AP\n68948-000",
+   "languageCode": "PTG",
+   "schedule": "Sat 19:30 Wed 19:30",
+   "phones": [ "(96) 984025227" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "61F0ED79-C652-490B-8F02-54B8AB29E5DF",
@@ -74,66 +93,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.029294,
-   "longitude": -51.111291,
-   "iso": "BRA"
+   "longitude": -51.111291
   },
   "properties": {
    "orgName": "Lagoa dos Indios - Macapá AP",
    "orgType": "CONG",
    "address": "Rodovia Duca Serra, KM 3\nCabralzinho\nMacapá, AP\n68906-330",
    "languageCode": "PTG",
-   "schedule": "Sun 09:00 Thu 19:30",
+   "schedule": "Sun 09:00 Wed 19:30",
    "phones": [ "(96) 99118-7799 ou (96) 98101-0634" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "094988B3-F6C8-4E1A-8127-8D6A2E240687",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 0.045862,
-   "longitude": -51.123653,
-   "iso": "BRA"
-  },
-  "properties": {
-   "orgName": "Jardim América - Macapá AP",
-   "orgType": "CONG",
-   "address": "R. Sétima, 1103\nMarabaixo Três\nMacapá, AP\n68909-845",
-   "languageCode": "PTG",
-   "schedule": "Sat 19:30 Wed 19:30",
-   "phones": [ "(96)98137-0070" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "B34C756B-ED70-4DDC-9C01-C17956D1CE33",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 0.045862,
-   "longitude": -51.123653,
-   "iso": "BRA"
-  },
-  "properties": {
-   "orgName": "Oeste - Macapá AP",
-   "orgType": "CONG",
-   "address": "R. Sétima, 1103\nMarabaixo Três\nMacapá, AP\n68909-845",
-   "languageCode": "PTG",
-   "schedule": "Sun 09:00 Thu 19:30",
-   "phones": [ "(96) 99128-1920" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -143,20 +115,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.010245,
-   "longitude": -51.087465,
-   "iso": "BRA"
+   "longitude": -51.087465
   },
   "properties": {
    "orgName": "Congós - Macapá AP",
    "orgType": "CONG",
    "address": "Av. Telêmaco Mira Martins, 1290\n(5.ª avenida)\nCongós\nMacapá, AP\n68904-365",
    "languageCode": "PTG",
-   "schedule": "Sat 19:30 Wed 19:30",
-   "phones": [ "(96) 98111-7630" ],
+   "schedule": "Sat 19:00 Thu 19:30",
+   "phones": [ "96-99109-7900" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -166,20 +137,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.010245,
-   "longitude": -51.087465,
-   "iso": "BRA"
+   "longitude": -51.087465
   },
   "properties": {
    "orgName": "Zerão - Macapá AP",
    "orgType": "CONG",
    "address": "Av. Telêmaco Mira Martins, 1290\n(5.ª avenida)\nCongós\nMacapá, AP\n68904-365",
    "languageCode": "PTG",
-   "schedule": "Sun 18:00 Thu 19:30",
-   "phones": [ "(28) 99979-1589" ],
+   "schedule": "Sun 18:00 Wed 19:30",
+   "phones": [ "(11) 95481-1583" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -189,8 +159,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.015891,
-   "longitude": -51.067802,
-   "iso": "BRA"
+   "longitude": -51.067802
   },
   "properties": {
    "orgName": "Buritizal - Macapá AP",
@@ -198,11 +167,11 @@
    "address": "R. Manoel Eudóxio Pereira, 3706\nBuritizal\nMacapá, AP\n68902-000",
    "languageCode": "PTG",
    "schedule": "Sun 09:00 Wed 19:30",
-   "phones": [ "(96) 9 9175-9038" ],
+   "phones": [ "(96) 9 8106-6817" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -224,7 +193,7 @@
    "phones": [ "(96) 99914-3382" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -235,21 +204,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 0.036635,
-   "longitude": -51.063796,
-   "iso": "BRA"
+   "latitude": 0.032663,
+   "longitude": -51.078589
   },
   "properties": {
    "orgName": "Alvorada - Macapá AP",
    "orgType": "CONG",
-   "address": "Av. Almirante Barroso, 737\nSanta Rita\nMacapá, AP\n68900-041",
+   "address": "Av. Henrique Galúcio, 3088\nSanta Rita\nMacapá, AP\n68901-255",
    "languageCode": "PTG",
-   "schedule": "Sat 20:00 Tue 19:30",
+   "schedule": "Sat 19:30 Wed 19:30",
    "phones": [ "(96) 99914-3382" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -259,20 +227,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.036635,
-   "longitude": -51.063796,
-   "iso": "BRA"
+   "longitude": -51.063796
   },
   "properties": {
    "orgName": "Central - Macapá AP",
    "orgType": "CONG",
    "address": "Av. Almirante Barroso, 737\nSanta Rita\nMacapá, AP\n68900-041",
    "languageCode": "PTG",
-   "schedule": "Sun 09:30 Thu 19:30",
-   "phones": [ "96981377547" ],
+   "schedule": "Sat 19:30 Wed 19:30",
+   "phones": [ "15 99654-5006" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -282,20 +249,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.036635,
-   "longitude": -51.063796,
-   "iso": "BRA"
+   "longitude": -51.063796
   },
   "properties": {
    "orgName": "LS - Macapá AP",
    "orgType": "CONG",
    "address": "Av. Almirante Barroso, 737\nSanta Rita\nMacapá, AP\n68900-041",
    "languageCode": "LSB",
-   "schedule": "Sat 17:30 Wed 19:30",
+   "schedule": "Sat 17:00 Tue 19:30",
    "phones": [ "9699121-8738" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -305,20 +271,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.036635,
-   "longitude": -51.063796,
-   "iso": "BRA"
+   "longitude": -51.063796
   },
   "properties": {
    "orgName": "Pacoval - Macapá AP",
    "orgType": "CONG",
    "address": "Av. Almirante Barroso, 737\nSanta Rita\nMacapá, AP\n68900-041",
    "languageCode": "PTG",
-   "schedule": "Sun 17:30 Fri 19:30",
+   "schedule": "Sun 17:30 Thu 19:30",
    "phones": [ "(96) 99121-3391" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -340,7 +305,7 @@
    "phones": [ "(96) 99121-3391" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-06-14",
   "active": 0,
   "firstSeen": "2022-12-02",
@@ -352,43 +317,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.073674,
-   "longitude": -51.064926,
-   "iso": "BRA"
+   "longitude": -51.064926
   },
   "properties": {
    "orgName": "Infraero - Macapá AP",
    "orgType": "CONG",
    "address": "R. Janary Nunes, 1105\nInfraero\nMacapá, AP\n68908-876",
    "languageCode": "PTG",
-   "schedule": "Sun 19:30 Thu 19:30",
-   "phones": [ "(96) 99111-9210" ],
+   "schedule": "Sun 18:00 Thu 19:30",
+   "phones": [ "(91) 98288-0124" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "19EBEA39-89FD-451A-8F2E-C6C4C14A2731",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 0.073674,
-   "longitude": -51.064926,
-   "iso": "BRA"
-  },
-  "properties": {
-   "orgName": "Novo Horizonte - Macapá AP",
-   "orgType": "CONG",
-   "address": "R. Janary Nunes, 1105\nInfraero\nMacapá, AP\n68908-876",
-   "languageCode": "PTG",
-   "schedule": "Sun 17:00 Fri 19:30",
-   "phones": [ "(096) 96 98120-2793" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -398,8 +339,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.073674,
-   "longitude": -51.064926,
-   "iso": "BRA"
+   "longitude": -51.064926
   },
   "properties": {
    "orgName": "Açaí - Macapá AP",
@@ -407,34 +347,11 @@
    "address": "R. Janary Nunes, 1105\nInfraero\nMacapá, AP\n68908-876",
    "languageCode": "PTG",
    "schedule": "Sat 19:00 Wed 19:30",
-   "phones": [ "96 99149-6904" ],
+   "phones": [ "96 991496904" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "572171BC-CADE-4F74-BE87-3FF1113AB71C",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 0.073674,
-   "longitude": -51.064926,
-   "iso": "BRA"
-  },
-  "properties": {
-   "orgName": "Jardim Felicidade - Macapá AP",
-   "orgType": "CONG",
-   "address": "R. Janary Nunes, 1105\nInfraero\nMacapá, AP\n68908-876",
-   "languageCode": "PTG",
-   "schedule": "Sun 09:00 Tue 19:30",
-   "phones": [ "(96) 98106-8060" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -444,8 +361,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.091604,
-   "longitude": -51.081695,
-   "iso": "BRA"
+   "longitude": -51.081695
   },
   "properties": {
    "orgName": "Brasil Novo - Macapá AP",
@@ -453,11 +369,11 @@
    "address": "Av. Caneleiras, 676\nBrasil Novo\nMacapá, AP\n68909-313",
    "languageCode": "PTG",
    "schedule": "Sat 19:30 Wed 19:30",
-   "phones": [ "(96) 99170-4561" ],
+   "phones": [ "(96) 991428124" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -467,8 +383,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.091604,
-   "longitude": -51.081695,
-   "iso": "BRA"
+   "longitude": -51.081695
   },
   "properties": {
    "orgName": "Liberdade - Macapá AP",
@@ -479,8 +394,52 @@
    "phones": [ "(96) 98100-8441" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "19EBEA39-89FD-451A-8F2E-C6C4C14A2731",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 0.09035,
+   "longitude": -51.052595
+  },
+  "properties": {
+   "orgName": "Novo Horizonte - Macapá AP",
+   "orgType": "CONG",
+   "address": "Av. Severino Gomes de Almeida, 2329\nNovo Horizonte\nMacapá, AP\n68909-012",
+   "languageCode": "PTG",
+   "schedule": "Sun 18:00 Thu 19:30",
+   "phones": [ "(096) 96 98120-2793" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "572171BC-CADE-4F74-BE87-3FF1113AB71C",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 0.09035,
+   "longitude": -51.052595
+  },
+  "properties": {
+   "orgName": "Jardim Felicidade - Macapá AP",
+   "orgType": "CONG",
+   "address": "Av. Severino Gomes de Almeida, 2329\nNovo Horizonte\nMacapá, AP\n68909-012",
+   "languageCode": "PTG",
+   "schedule": "Sat 19:30 Wed 19:30",
+   "phones": [ "(96) 98106-8060" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -490,8 +449,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.060894,
-   "longitude": -54.786811,
-   "iso": "SUR"
+   "longitude": -54.786811
   },
   "properties": {
    "orgName": "Godo-Holo - District Sipaliwini SUR",
@@ -502,8 +460,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -513,8 +471,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.706326,
-   "longitude": -51.409688,
-   "iso": "BRA"
+   "longitude": -51.409688
   },
   "properties": {
    "orgName": "Porto Grande - AP",
@@ -525,8 +482,8 @@
    "phones": [ "96 991432042" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -536,8 +493,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 3.63752,
-   "longitude": -54.03046,
-   "iso": "SUR"
+   "longitude": -54.03046
   },
   "properties": {
    "orgName": "MARIPASOULA OKANISI TONGO",
@@ -545,12 +501,11 @@
    "address": "Chemin Bon Accueil\n97370 MARIPASOULA\nGUYANE",
    "languageCode": "AKN",
    "schedule": "Sun 09:30 Fri 18:30",
-   "relatedLanguageCodes": [ "PTG" ],
    "phones": [ "0694003744" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -560,20 +515,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 0.850819,
-   "longitude": -51.183554,
-   "iso": "BRA"
+   "longitude": -51.183554
   },
   "properties": {
    "orgName": "Ferreira Gomes - AP",
    "orgType": "CONG",
    "address": "Av. Costa e Silva, 667\nCentro\nFerreira Gomes, AP\n68915-000",
    "languageCode": "PTG",
-   "schedule": "Sat 18:30 Wed 19:00",
+   "schedule": "Sat 19:00 Wed 19:00",
    "phones": [ "96 9123-4974" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -583,21 +537,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.017603,
-   "longitude": -55.16285,
-   "iso": "SUR"
+   "longitude": -55.16285
   },
   "properties": {
-   "orgName": "Bronsweg - District Brokopondo SUR",
+   "orgName": "Brownsweg - Saramaccaans - District Brokopondo SUR",
    "orgType": "CONG",
    "address": "Bronsweg No 264\nBronsweg\nDISTRICT BROKOPONDO\nSuriname\nSURINAME",
-   "transliteratedAddress": "Bronsweg No 264\nDISTRICT BROKOPONDO\nSuriname\n\n",
+   "transliteratedAddress": "Bronsweg No 264\r\nDISTRICT BROKOPONDO\r\nSuriname\r\n\r\n",
    "languageCode": "SRM",
    "schedule": "Sun 10:00 Thu 18:30",
-   "phones": [ "8592693" ],
+   "phones": [ "8541774" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -607,20 +560,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.279334,
-   "longitude": -54.381266,
-   "iso": "GUF"
+   "longitude": -54.381266
   },
   "properties": {
    "orgName": "GRAND SANTI OKANISI TONGO",
    "orgType": "CONG",
    "address": "Route de l'Aéroport\nRue René Dada\n97340",
    "languageCode": "AKN",
-   "schedule": "Sat 17:00 Tue 18:30",
-   "phones": [ "+594&nbsp;694 21 48 00" ],
+   "schedule": "Sun 09:00 Thu 18:30",
+   "phones": [ "+594&nbsp;694 921539" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -630,8 +582,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.363224,
-   "longitude": -54.427833,
-   "iso": "SUR"
+   "longitude": -54.427833
   },
   "properties": {
    "orgName": "Pulugudu - District Sipaliwini SUR",
@@ -639,11 +590,11 @@
    "address": "Poeloe-Goedoe\nMarowijnerivier\nDISTRICT SIPALIWINI\nSuriname\nSURINAME",
    "languageCode": "AKN",
    "schedule": "Sun 10:00 Wed 16:00",
-   "phones": [ "8527794 / 8631674 / 8674184" ],
+   "phones": [ "8631674 /8248372 / 8674184" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -653,20 +604,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.465646,
-   "longitude": -54.434745,
-   "iso": "SUR"
+   "longitude": -54.434745
   },
   "properties": {
    "orgName": "Gakaba - District Sipaliwini SUR",
    "orgType": "CONG",
    "address": "Weminakampoe\nMarowijne Rivier\nDISTRICT SIPALIWINI\nSuriname\nSURINAME",
    "languageCode": "AKN",
-   "schedule": "Sun 09:00 Thu 16:00",
+   "schedule": "Sun 10:00 Thu 16:00",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -676,8 +626,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.484239,
-   "longitude": -55.185182,
-   "iso": "SUR"
+   "longitude": -55.185182
   },
   "properties": {
    "orgName": "Zanderij - District Para SUR",
@@ -685,11 +634,11 @@
    "address": "Kennedyweg 639\nDISTRICT PARA\nSuriname\nSURINAME",
    "languageCode": "SR",
    "schedule": "Sun 10:00 Wed 18:30",
-   "phones": [ "+5977453648" ],
+   "phones": [ "+5978113619" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -699,8 +648,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.80112,
-   "longitude": -55.500991,
-   "iso": "SUR"
+   "longitude": -55.500991
   },
   "properties": {
    "orgName": "Saramacca - District Saramacca SUR",
@@ -708,11 +656,11 @@
    "address": "Damboentong BR 20\nDISTRICT SARAMACCA\nSuriname\nSURINAME",
    "languageCode": "O",
    "schedule": "Sun 10:00 Thu 18:30",
-   "phones": [],
+   "phones": [ "00597 8710123" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -722,8 +670,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.612572,
-   "longitude": -55.151644,
-   "iso": "SUR"
+   "longitude": -55.151644
   },
   "properties": {
    "orgName": "Onverdacht - District Para SUR",
@@ -734,8 +681,8 @@
    "phones": [ "0352375" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -745,20 +692,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.694422,
-   "longitude": -55.218171,
-   "iso": "SUR"
+   "longitude": -55.218171
   },
   "properties": {
    "orgName": "Lelydorp - District Wanica SUR",
    "orgType": "CONG",
    "address": "Van Drimmelenweg nr. 31\nDISTRICT WANICA\nSuriname\nSURINAME",
    "languageCode": "O",
-   "schedule": "Sat 19:15 Thu 18:30",
-   "phones": [ "597-8689363" ],
+   "schedule": "Sat 16:45 Thu 18:30",
+   "phones": [ "597-8856409" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -768,20 +714,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.694422,
-   "longitude": -55.218171,
-   "iso": "SUR"
+   "longitude": -55.218171
   },
   "properties": {
    "orgName": "Wanica-Nederlands - District Wanica SUR",
    "orgType": "CONG",
    "address": "Van Drimmelenweg nr. 31\nDISTRICT WANICA\nSuriname\nSURINAME",
    "languageCode": "O",
-   "schedule": "Sat 16:45 Wed 18:30",
-   "phones": [ "8649173" ],
+   "schedule": "Sat 19:15 Wed 18:30",
+   "phones": [ "8403838" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -791,8 +736,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.694422,
-   "longitude": -55.218171,
-   "iso": "SUR"
+   "longitude": -55.218171
   },
   "properties": {
    "orgName": "Tuinstad - District Wanica SUR",
@@ -803,8 +747,8 @@
    "phones": [ "XXXXXXX" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -814,8 +758,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.797138,
-   "longitude": -55.254537,
-   "iso": "SUR"
+   "longitude": -55.254537
   },
   "properties": {
    "orgName": "Sunny Point-Saramaccaans - District Wanica SUR",
@@ -826,8 +769,8 @@
    "phones": [ "86 84 959" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -837,8 +780,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.797138,
-   "longitude": -55.254537,
-   "iso": "SUR"
+   "longitude": -55.254537
   },
   "properties": {
    "orgName": "Sunny Point-Aukaans - District Wanica SUR",
@@ -849,8 +791,8 @@
    "phones": [ "+5978855327" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -860,8 +802,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.850186,
-   "longitude": -55.297788,
-   "iso": "SUR"
+   "longitude": -55.297788
   },
   "properties": {
    "orgName": "Garnizoenspad - District Wanica SUR",
@@ -869,11 +810,11 @@
    "address": "Garnizoenspad 245\nDISTRICT WANICA\nSuriname\nSURINAME",
    "languageCode": "O",
    "schedule": "Sat 16:30 Tue 18:30",
-   "phones": [],
+   "phones": [ "+ 597 8854433" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -883,8 +824,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.850186,
-   "longitude": -55.297788,
-   "iso": "SUR"
+   "longitude": -55.297788
   },
   "properties": {
    "orgName": "Pomona Kreyol Ayisyen - District Wanica SUR",
@@ -895,8 +835,8 @@
    "phones": [ "005978892964." ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -906,8 +846,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.781173,
-   "longitude": -55.196275,
-   "iso": "SUR"
+   "longitude": -55.196275
   },
   "properties": {
    "orgName": "Pontbuiten Sranantongo - District Wanica SUR",
@@ -918,8 +857,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -929,20 +868,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.781173,
-   "longitude": -55.196275,
-   "iso": "SUR"
+   "longitude": -55.196275
   },
   "properties": {
-   "orgName": "Wintiwai-Sranantongo - District Wanica SUR",
+   "orgName": "Wintiwai - Aukaans - District Wanica SUR",
    "orgType": "CONG",
    "address": "Frederikshoopweg nr. 11\nDISTRICT WANICA\nSuriname\nSURINAME",
-   "languageCode": "SR",
+   "languageCode": "AKN",
    "schedule": "Sat 10:00 Mon 18:30",
    "phones": [ "8541500/8621305" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -952,8 +890,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.781173,
-   "longitude": -55.196275,
-   "iso": "SUR"
+   "longitude": -55.196275
   },
   "properties": {
    "orgName": "Wintiwai-Saramaccaans - District Wanica SUR",
@@ -964,7 +901,7 @@
    "phones": [ "±5978759663 of +5978949267" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -975,8 +912,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.781173,
-   "longitude": -55.196275,
-   "iso": "SUR"
+   "longitude": -55.196275
   },
   "properties": {
    "orgName": "Ephraïmszegen-Aukaans - District Wanica SUR",
@@ -987,8 +923,8 @@
    "phones": [ "8923738 / 8172045" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -998,20 +934,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.781173,
-   "longitude": -55.196275,
-   "iso": "SUR"
+   "longitude": -55.196275
   },
   "properties": {
    "orgName": "Pontbuiten English - District Wanica SUR",
    "orgType": "CONG",
    "address": "Frederikshoopweg nr. 11\nPontbuiten\nDISTRICT WANICA\nSuriname\nSURINAME",
    "languageCode": "E",
-   "schedule": "Sun 12:00 Fri 18:30",
+   "schedule": "Sun 10:00 Wed 18:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1021,8 +956,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.781173,
-   "longitude": -55.196275,
-   "iso": "SUR"
+   "longitude": -55.196275
   },
   "properties": {
    "orgName": "Pontbuiten Nederlands - District Wanica SUR",
@@ -1030,11 +964,11 @@
    "address": "Frederikshoopweg nr. 11\nDISTRICT WANICA\nSuriname\nSURINAME",
    "languageCode": "O",
    "schedule": "Sat 18:30 Tue 18:30",
-   "phones": [ "8627951  /  8909213" ],
+   "phones": [ "8909213" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1044,8 +978,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.781173,
-   "longitude": -55.196275,
-   "iso": "SUR"
+   "longitude": -55.196275
   },
   "properties": {
    "orgName": "Ephraïmszegen-Saramaccaans - District Wanica SUR",
@@ -1056,8 +989,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1067,20 +1000,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.781173,
-   "longitude": -55.196275,
-   "iso": "SUR"
+   "longitude": -55.196275
   },
   "properties": {
    "orgName": "Pontbuiten-Aukaans - District Paramaribo SUR",
    "orgType": "CONG",
    "address": "Frederikshoopweg nr. 11\nPontbuiten\nDISTRICT WANICA\nSuriname\nSURINAME",
    "languageCode": "AKN",
-   "schedule": "Sun 09:30 Thu 18:30",
+   "schedule": "Sun 10:00 Thu 18:30",
    "phones": [ "+5978904730" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1089,21 +1021,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 1.508889,
-   "longitude": -50.912152,
-   "iso": "BRA"
+   "latitude": 1.50604,
+   "longitude": -50.90899
   },
   "properties": {
    "orgName": "Tartarugalzinho - AP",
    "orgType": "CONG",
-   "address": "R. Perpétuo Socorro, S/N.\nCentro\nTartarugalzinho, AP\n68990-970",
+   "address": "Av. Edivaldo Nunes, 644\n(esquina com R. São Luiz)\nLotes 690 e 691\nBairro Novo I\nTartarugalzinho, AP\n68990-000",
    "languageCode": "PTG",
-   "schedule": "Sun 18:00 Thu 19:30",
-   "phones": [ "96 988057387" ],
+   "schedule": "Sat 19:00 Wed 19:00",
+   "phones": [ "96 984122435" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1113,20 +1044,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.788388,
-   "longitude": -55.182331,
-   "iso": "SUR"
+   "longitude": -55.182331
   },
   "properties": {
    "orgName": "Saron - District Wanica SUR",
    "orgType": "CONG",
    "address": "Latourweg 59\nLatour\nDISTRICT WANICA\nSuriname\nSURINAME",
    "languageCode": "O",
-   "schedule": "Sat 16:30 Tue 18:30",
+   "schedule": "Sat 19:00 Tue 18:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1136,20 +1066,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.788388,
-   "longitude": -55.182331,
-   "iso": "SUR"
+   "longitude": -55.182331
   },
   "properties": {
    "orgName": "Highway - District Wanica SUR",
    "orgType": "CONG",
    "address": "Latourweg 59\nLatour\nDISTRICT WANICA\nSuriname\nSURINAME",
    "languageCode": "O",
-   "schedule": "Sat 19:00 Wed 18:30",
+   "schedule": "Sat 16:30 Wed 18:30",
    "phones": [ "8295657" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1159,8 +1088,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.788388,
-   "longitude": -55.182331,
-   "iso": "SUR"
+   "longitude": -55.182331
   },
   "properties": {
    "orgName": "Latour - District Wanica SUR",
@@ -1171,8 +1099,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1182,20 +1110,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.809832,
-   "longitude": -55.200203,
-   "iso": "SUR"
+   "longitude": -55.200203
   },
   "properties": {
    "orgName": "West - District Paramaribo SUR",
    "orgType": "CONG",
    "address": "Oeroewastraat 1\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
    "languageCode": "O",
-   "schedule": "Sun 09:30 Thu 18:30",
+   "schedule": "Sat 19:00 Thu 18:30",
    "phones": [ "8222671" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1205,8 +1132,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.809832,
-   "longitude": -55.200203,
-   "iso": "SUR"
+   "longitude": -55.200203
   },
   "properties": {
    "orgName": "Flora - District Paramaribo SUR",
@@ -1217,8 +1143,8 @@
    "phones": [ "8800354" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1228,8 +1154,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.809832,
-   "longitude": -55.200203,
-   "iso": "SUR"
+   "longitude": -55.200203
   },
   "properties": {
    "orgName": "Surinaamse Gebarentaal - District Paramaribo SUR",
@@ -1240,8 +1165,8 @@
    "phones": [ "+597 8416214" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1251,20 +1176,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.809832,
-   "longitude": -55.200203,
-   "iso": "SUR"
+   "longitude": -55.200203
   },
   "properties": {
    "orgName": "Kasabaholo - District Paramaribo SUR",
    "orgType": "CONG",
    "address": "Oeroewastraat 1\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
    "languageCode": "O",
-   "schedule": "Sat 19:00 Tue 18:30",
+   "schedule": "Sun 10:00 Fri 18:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1273,21 +1197,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 5.8394,
-   "longitude": -55.2013,
-   "iso": "SUR"
+   "latitude": 5.809832,
+   "longitude": -55.200203
   },
   "properties": {
    "orgName": "Tweede Rijweg - District Paramaribo SUR",
    "orgType": "CONG",
-   "address": "Tweederijweg no 30-32\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
+   "address": "Oeroewastraat 1\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
    "languageCode": "O",
    "schedule": "Sat 16:45 Wed 18:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1296,21 +1219,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 5.8394,
-   "longitude": -55.2013,
-   "iso": "SUR"
+   "latitude": 5.809832,
+   "longitude": -55.200203
   },
   "properties": {
    "orgName": "Uitvlugt - District Paramaribo SUR",
    "orgType": "CONG",
-   "address": "Tweederijweg no 30-32\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
+   "address": "Oeroewastraat 1\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
    "languageCode": "O",
    "schedule": "Sun 10:00 Thu 18:30",
    "phones": [ "+597 886-2184/ +597 8621852" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1319,21 +1241,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 5.819289,
-   "longitude": -55.169818,
-   "iso": "SUR"
+   "latitude": 5.809832,
+   "longitude": -55.200203
   },
   "properties": {
-   "orgName": "Centrum-Sranantongo - District Paramaribo SUR",
+   "orgName": "Centrum-Sranantongo - Centrum Paramaribo",
    "orgType": "CONG",
-   "address": "Hofstraat 120\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
+   "address": "Oeroewastraat 1\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
    "languageCode": "SR",
-   "schedule": "Sat 17:30 Wed 18:30",
+   "schedule": "Sat 10:00 Tue 18:30",
    "phones": [ "8860098" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1343,11 +1264,10 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.819289,
-   "longitude": -55.169818,
-   "iso": "SUR"
+   "longitude": -55.169818
   },
   "properties": {
-   "orgName": "Centrum-Engels - District Paramaribo SUR",
+   "orgName": "Centrum-Engels - Centrum Paramaribo",
    "orgType": "CONG",
    "address": "Hofstraat 120\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
    "languageCode": "E",
@@ -1355,8 +1275,8 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1366,20 +1286,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.821183,
-   "longitude": -55.170002,
-   "iso": "SUR"
+   "longitude": -55.170002
   },
   "properties": {
-   "orgName": "Centrum-Nederlands - District Paramaribo SUR",
+   "orgName": "Centrum-Nederlands - Centrum Paramaribo",
    "orgType": "CONG",
    "address": "Gemenelandsweg 82 A\nCentrum\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
    "languageCode": "O",
-   "schedule": "Sat 16:30 Tue 18:30",
+   "schedule": "Sun 10:00 Tue 18:30",
+   "relatedLanguageCodes": [ "CHM" ],
    "phones": [ "+5978632333" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1389,20 +1309,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.821183,
-   "longitude": -55.170002,
-   "iso": "SUR"
+   "longitude": -55.170002
   },
   "properties": {
    "orgName": "Zorg en Hoop - District Paramaribo SUR",
    "orgType": "CONG",
    "address": "Gemenelandsweg 82 A\nCentrum\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
    "languageCode": "O",
-   "schedule": "Sat 18:45 Thu 18:30",
+   "schedule": "Sat 18:00 Thu 18:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1412,8 +1331,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.821183,
-   "longitude": -55.170002,
-   "iso": "SUR"
+   "longitude": -55.170002
   },
   "properties": {
    "orgName": "Centrum-Chinees - District Paramaribo SUR",
@@ -1421,10 +1339,10 @@
    "address": "Gemenelandsweg 82 A\nCentrum\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
    "languageCode": "CHM",
    "schedule": "Sun 10:00 Wed 18:30",
-   "phones": [],
+   "phones": [ "8511227" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
@@ -1435,8 +1353,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.83868,
-   "longitude": -55.181658,
-   "iso": "SUR"
+   "longitude": -55.181658
   },
   "properties": {
    "orgName": "Kwatta - District Paramaribo SUR",
@@ -1447,8 +1364,8 @@
    "phones": [ "geen" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1458,8 +1375,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.83868,
-   "longitude": -55.181658,
-   "iso": "SUR"
+   "longitude": -55.181658
   },
   "properties": {
    "orgName": "North - District Paramaribo SUR",
@@ -1470,8 +1386,8 @@
    "phones": [ "8659229" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1481,8 +1397,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.83868,
-   "longitude": -55.181658,
-   "iso": "SUR"
+   "longitude": -55.181658
   },
   "properties": {
    "orgName": "Charlesburg - District Paramaribo SUR",
@@ -1493,8 +1408,8 @@
    "phones": [ "+597&nbsp;8804794" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1504,19 +1419,18 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.83868,
-   "longitude": -55.181658,
-   "iso": "SUR"
+   "longitude": -55.181658
   },
   "properties": {
    "orgName": "Kwatta Spaans - Geyersvlijt Portugees - District Paramaribo SUR",
    "orgType": "GROUP",
    "address": "Flustraat 1A\nKwatta\nKwatta\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
    "languageCode": "S",
-   "schedule": "Sun 12:30 Wed 18:45",
+   "schedule": "Sun 13:00 Fri 18:30",
    "phones": [ "+597 8901782" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
@@ -1527,20 +1441,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.80794,
-   "longitude": -55.146714,
-   "iso": "SUR"
+   "longitude": -55.146714
   },
   "properties": {
    "orgName": "Meerzorg - District Commewijne SUR",
    "orgType": "CONG",
    "address": "Pandit Murliweg 41\nDISTRICT COMMEWIJNE\nSuriname\nSURINAME",
    "languageCode": "O",
-   "schedule": "Sat 18:15 Wed 18:15",
+   "schedule": "Sat 18:15 Wed 18:30",
    "phones": [ "+597&nbsp;8581044" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1550,20 +1463,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.80794,
-   "longitude": -55.146714,
-   "iso": "SUR"
+   "longitude": -55.146714
   },
   "properties": {
    "orgName": "Commewijne - District Commewijne SUR",
    "orgType": "CONG",
    "address": "Pandit Murliweg 41\nDISTRICT COMMEWIJNE\nSuriname\nSURINAME",
    "languageCode": "SR",
-   "schedule": "Sun 10:30 Thu 18:30",
+   "schedule": "Sat 11:15 Tue 18:30",
    "phones": [ "8694592" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1573,8 +1485,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.856707,
-   "longitude": -55.124575,
-   "iso": "SUR"
+   "longitude": -55.124575
   },
   "properties": {
    "orgName": "Combe - District Paramaribo SUR",
@@ -1585,8 +1496,8 @@
    "phones": [ "+5978667577" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1596,8 +1507,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.856707,
-   "longitude": -55.124575,
-   "iso": "SUR"
+   "longitude": -55.124575
   },
   "properties": {
    "orgName": "Geyersvlijt Nederlands - District Paramaribo SUR",
@@ -1605,11 +1515,11 @@
    "address": "Abonestraat 60-64\nGeyersvlijt\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
    "languageCode": "O",
    "schedule": "Sat 16:30 Thu 18:30",
-   "phones": [ "8686954" ],
+   "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1619,20 +1529,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.856707,
-   "longitude": -55.124575,
-   "iso": "SUR"
+   "longitude": -55.124575
   },
   "properties": {
    "orgName": "Geyersvlijt Sranantongo - District Paramaribo SUR",
    "orgType": "CONG",
    "address": "Abonestraat 60-64\nGeyersvlijt\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
    "languageCode": "SR",
-   "schedule": "Sat 18:45 Wed 18:30",
+   "schedule": "Sat 18:45 Tue 18:30",
    "phones": [ "8928659" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1642,8 +1551,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.856707,
-   "longitude": -55.124575,
-   "iso": "SUR"
+   "longitude": -55.124575
   },
   "properties": {
    "orgName": "Tourtonne - District Paramaribo SUR",
@@ -1654,8 +1562,8 @@
    "phones": [ "453817 Max Kranthoven - 7254985 Dwight Van Hetten" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1665,22 +1573,66 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.856707,
-   "longitude": -55.124575,
-   "iso": "SUR"
+   "longitude": -55.124575
   },
   "properties": {
    "orgName": "Geyersvlijt Portugees - District Paramaribo SUR",
    "orgType": "CONG",
    "address": "Abonestraat 60-64\nGeyersvlijt\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
-   "languageCode": "PTG",
+   "languageCode": "T",
    "schedule": "Sun 10:00 Tue 18:30",
    "phones": [ "+597 8901782" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-03"
+ },
+ {
+  "geoId": "2B4D090D-9D0C-4C63-8379-66B333A12549",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 5.856707,
+   "longitude": -55.124575
+  },
+  "properties": {
+   "orgName": "Geyersvlijt-Spanish - District Paramaribo SUR",
+   "orgType": "CONG",
+   "address": "Abonestraat 60-64\nGeyersvlijt\nDISTRICT PARAMARIBO\nSuriname\nSURINAME",
+   "languageCode": "S",
+   "schedule": "Sun 10:00 Wed 18:45",
+   "relatedLanguageCodes": [ "PTG" ],
+   "phones": [ "8892088" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "active": 1,
+  "firstSeen": "2025-07-23"
+ },
+ {
+  "geoId": "48472467-E5D2-452E-AC42-00743BF44D1E",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 5.160699,
+   "longitude": -54.34
+  },
+  "properties": {
+   "orgName": "APATOU OKANISI TONGO",
+   "orgType": "CONG",
+   "address": "67Bis Rue Préfet Vignon\nex Bourg Chez Victor Wens Route de Maïman\n97317 APATOU\nGUYANE",
+   "languageCode": "AKN",
+   "schedule": "Sat 17:00 Wed 18:30",
+   "phones": [ "+594&nbsp;(0)5.94.34.99.81" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2022-12-04"
  },
  {
   "geoId": "A812D93D-5C1D-412D-AFBF-3F15B4E094DE",
@@ -1688,22 +1640,21 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.160699,
-   "longitude": -54.34,
-   "iso": "SUR"
+   "longitude": -54.34
   },
   "properties": {
    "orgName": "APATOU OKANISI TONGO",
    "orgType": "CONG",
-   "address": "67Bis Rue Préfet Vignon\r\nex Bourg Chez Victor Wens Route de Maïman\r\n97317 APATOU\r\nGUYANE",
+   "address": "67Bis Rue Préfet Vignon\nex Bourg Chez Victor Wens Route de Maïman\n97317 APATOU\nGUYANE",
    "languageCode": "AKN",
    "schedule": "Sat 17:00 Wed 18:30",
    "phones": [ "+594&nbsp;(0)5.94.34.99.81" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-06-14",
-  "active": 0,
-  "firstSeen": "2022-12-04"
+  "active": 1,
+  "firstSeen": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "lastVisit": "2025-07-24"
  },
  {
   "geoId": "F9AFF1F5-DCB1-4A1F-A014-9361567864F0",
@@ -1711,8 +1662,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.87588,
-   "longitude": -55.044817,
-   "iso": "SUR"
+   "longitude": -55.044817
   },
   "properties": {
    "orgName": "Mariënburg Nederlands - District Commewijne SUR",
@@ -1723,8 +1673,8 @@
    "phones": [ "305131" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1734,20 +1684,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.87588,
-   "longitude": -55.044817,
-   "iso": "SUR"
+   "longitude": -55.044817
   },
   "properties": {
    "orgName": "Mariënburg  Engels - District Commewijne SUR",
    "orgType": "CONG",
    "address": "Julianaweg 47\nMarienburg\nDISTRICT COMMEWIJNE\nSuriname\nSURINAME",
    "languageCode": "E",
-   "schedule": "Sun 10:00 Thu 19:00",
-   "phones": [ "+5978269230" ],
+   "schedule": "Sat 16:00 Tue 18:00",
+   "phones": [ "+5978770746" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -1757,21 +1706,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.617419,
-   "longitude": -54.394209,
-   "iso": "SUR"
+   "longitude": -54.394209
   },
   "properties": {
    "orgName": "Moengo - District Marowijne SUR",
    "orgType": "CONG",
    "address": "Lijnweg nr. 12\nDISTRICT MAROWIJNE\nSuriname\nSURINAME",
-   "transliteratedAddress": "Lijnweg nr. 12\nDISTRICT MAROWIJNE\nSuriname\n\n",
+   "transliteratedAddress": "Lijnweg nr. 12\r\nDISTRICT MAROWIJNE\r\nSuriname\r\n\r\n",
    "languageCode": "SR",
    "schedule": "Sun 10:00 Thu 18:00",
-   "phones": [ "8141811  -   8569179" ],
+   "phones": [ "8924393 - 8917017" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1781,20 +1729,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.61759,
-   "longitude": -54.39438,
-   "iso": "SUR"
+   "longitude": -54.39438
   },
   "properties": {
    "orgName": "Paranam - District Brokopondo SUR",
    "orgType": "CONG",
    "address": "Phedra / Victoria\nDISTRICT BROKOPONDO\nSuriname\nSURINAME",
    "languageCode": "SRM",
-   "schedule": "Sun 10:00 Thu 17:30",
+   "schedule": "Sat 16:30 Wed 17:30",
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1804,20 +1751,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 2.053752,
-   "longitude": -50.791409,
-   "iso": "BRA"
+   "longitude": -50.791409
   },
   "properties": {
    "orgName": "Amapá - AP",
    "orgType": "CONG",
-   "address": "R. Juscelino Kubitschek, 435\nVila Nova\nAmapá, AP\n68950-000",
+   "address": "R. Juscelino Kubitschek, 345\nVila Nova\nAmapá, AP\n68950-000",
    "languageCode": "PTG",
    "schedule": "Sat 19:00 Tue 19:00",
-   "phones": [ "+55&nbsp;(96) 988060781" ],
+   "phones": [ "+55&nbsp;(96) 98418-5882" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -1827,8 +1773,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.500935,
-   "longitude": -54.064858,
-   "iso": "GUF"
+   "longitude": -54.064858
   },
   "properties": {
    "orgName": "Albina - District Marowijne SUR",
@@ -1836,120 +1781,21 @@
    "address": "Luitenant Weyneweg nr. 168\nDISTRICT MAROWIJNE\nSuriname\nSURINAME",
    "languageCode": "SR",
    "schedule": "Sun 10:00 Fri 18:00",
-   "phones": [],
+   "phones": [ "+5978918507" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-04"
- },
- {
-  "geoId": "FE81AC2D-1A32-4590-838A-9D5449BE7DC1",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 5.489862,
-   "longitude": -54.032945,
-   "iso": "GUF"
-  },
-  "properties": {
-   "orgName": "ST LAURENT DU MARONI",
-   "orgType": "CONG",
-   "address": "Auditorium A\n406 Avenue Christophe Colomb\n97320 ST LAURENT DU MARONI\nGUYANE",
-   "languageCode": "F",
-   "schedule": "Sat 16:00 Mon 19:15",
-   "relatedLanguageCodes": [
-    "HM",
-    "SR",
-    "TYW"
-   ],
-   "phones": [ "+594&nbsp;694 47 47 50" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-04"
- },
- {
-  "geoId": "88863EEF-D90D-4837-BE4A-A670FFDD534E",
-  "type": "weekly",
-  "isPrimary": 0,
-  "location": {
-   "latitude": 5.489862,
-   "longitude": -54.032945,
-   "iso": "GUF"
-  },
-  "properties": {
-   "orgName": "ST LAURENT OKANISI TONGO CENTRE",
-   "orgType": "CONG",
-   "address": "Auditorium A\n406 Avenue Christophe Colomb\n97320 ST LAURENT DU MARONI\nGUYANE",
-   "languageCode": "AKN",
-   "schedule": "Sun 17:00 Fri 19:00",
-   "relatedLanguageCodes": [ "E" ],
-   "phones": [ "+594&nbsp;(0)5.94.34.29.02" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-04"
- },
- {
-  "geoId": "AFD96FA1-8339-4318-9ACB-B709FD508737",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 5.489862,
-   "longitude": -54.032945,
-   "iso": "GUF"
-  },
-  "properties": {
-   "orgName": "ST LAURENT OKANISI TONGO CHARBONNIERE",
-   "orgType": "CONG",
-   "address": "Auditorium A\n406 Avenue Christophe Colomb\n97320 ST LAURENT DU MARONI\nGUYANE",
-   "languageCode": "AKN",
-   "schedule": "Sat 19:00 Tue 19:00",
-   "phones": [ "0694093729" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-04"
- },
- {
-  "geoId": "E168947C-EC1F-403D-9671-E04721A451ED",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 5.489862,
-   "longitude": -54.032945,
-   "iso": "GUF"
-  },
-  "properties": {
-   "orgName": "ST LAURENT DU MARONI CREOLE D’HAITI",
-   "orgType": "CONG",
-   "address": "Auditorium A\n406 Avenue Christophe Colomb\n97320 ST LAURENT DU MARONI\nGUYANE",
-   "languageCode": "CR",
-   "schedule": "Sun 08:30 Wed 19:00",
-   "phones": [ "+594&nbsp;(0)5.94.34.29.02" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "CB97C7BD-53CA-46EE-9773-8E02A2B806AE",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
-   "latitude": 5.489862,
-   "longitude": -54.032945,
-   "iso": "GUF"
+   "latitude": 5.48884,
+   "longitude": -54.03289
   },
   "properties": {
    "orgName": "ST LAURENT DU MARONI ANGLAISE",
@@ -1960,9 +1806,102 @@
    "phones": [ "+594&nbsp;(0)5.94.34.29.02" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-08-16",
-  "active": 0,
+  "active": 1,
+  "firstSeen": "2022-12-04"
+ },
+ {
+  "geoId": "FE81AC2D-1A32-4590-838A-9D5449BE7DC1",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 5.489862,
+   "longitude": -54.032945
+  },
+  "properties": {
+   "orgName": "ST LAURENT DU MARONI",
+   "orgType": "CONG",
+   "address": "Auditorium A\n406 Avenue Christophe Colomb\n97320 ST LAURENT DU MARONI\nGUYANE",
+   "languageCode": "F",
+   "schedule": "Sun 11:00 Thu 19:00",
+   "relatedLanguageCodes": [
+    "SR",
+    "TYW"
+   ],
+   "phones": [ "+594&nbsp;694 47 47 50" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "active": 1,
+  "firstSeen": "2022-12-04"
+ },
+ {
+  "geoId": "88863EEF-D90D-4837-BE4A-A670FFDD534E",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 5.489862,
+   "longitude": -54.032945
+  },
+  "properties": {
+   "orgName": "ST LAURENT OKANISI TONGO CENTRE",
+   "orgType": "CONG",
+   "address": "Auditorium A\n406 Avenue Christophe Colomb\n97320 ST LAURENT DU MARONI\nGUYANE",
+   "languageCode": "AKN",
+   "schedule": "Sun 08:30 Wed 19:00",
+   "relatedLanguageCodes": [ "E" ],
+   "phones": [ "+594&nbsp;(0)5.94.34.29.02" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "active": 1,
+  "firstSeen": "2022-12-04"
+ },
+ {
+  "geoId": "AFD96FA1-8339-4318-9ACB-B709FD508737",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 5.489862,
+   "longitude": -54.032945
+  },
+  "properties": {
+   "orgName": "ST LAURENT OKANISI TONGO CHARBONNIERE",
+   "orgType": "CONG",
+   "address": "Auditorium A\n406 Avenue Christophe Colomb\n97320 ST LAURENT DU MARONI\nGUYANE",
+   "languageCode": "AKN",
+   "schedule": "Sat 16:00 Mon 19:00",
+   "phones": [ "0694093729" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2022-12-04"
+ },
+ {
+  "geoId": "E168947C-EC1F-403D-9671-E04721A451ED",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 5.489862,
+   "longitude": -54.032945
+  },
+  "properties": {
+   "orgName": "ST LAURENT DU MARONI CREOLE D’HAITI",
+   "orgType": "CONG",
+   "address": "Auditorium A\n406 Avenue Christophe Colomb\n97320 ST LAURENT DU MARONI\nGUYANE",
+   "languageCode": "CR",
+   "schedule": "Sun 15:30 Fri 19:00",
+   "phones": [ "+594&nbsp;(0)5.94.34.29.02" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
@@ -1971,43 +1910,41 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.489862,
-   "longitude": -54.032945,
-   "iso": "GUF"
+   "longitude": -54.032945
   },
   "properties": {
    "orgName": "ST LAURENT DU MARONI SARAMACCA",
    "orgType": "CONG",
-   "address": "Auditorium A\n406 Avenue Christophe Colomb\n97320 ST LAURENT DU MARONI\nGUYANE",
+   "address": "Auditorium B\n406 Avenue Christophe Colomb\n97320 ST LAURENT DU MARONI\nGUYANE",
    "languageCode": "SRM",
-   "schedule": "Sat 10:00 Thu 19:00",
+   "schedule": "Sun 17:00 Tue 19:00",
    "phones": [ "+594&nbsp;(0)5.94.34.29.02" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
  {
   "geoId": "6F54ED68-225E-4346-8A3F-B03A356B7986",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 5.489862,
-   "longitude": -54.032945,
-   "iso": "GUF"
+   "longitude": -54.032945
   },
   "properties": {
    "orgName": "ST LAURENT OKANISI TONGO SABLES BLANCS",
    "orgType": "CONG",
    "address": "Auditorium A\n406 Avenue Christophe Colomb\n97320 ST LAURENT DU MARONI\nGUYANE",
    "languageCode": "AKN",
-   "schedule": "Sun 11:00 Thu 19:00",
+   "schedule": "Sat 18:30 Tue 19:00",
    "phones": [ "0694139957" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-04"
  },
@@ -2017,8 +1954,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 2.496447,
-   "longitude": -50.951782,
-   "iso": "BRA"
+   "longitude": -50.951782
   },
   "properties": {
    "orgName": "Calçoene - AP",
@@ -2026,22 +1962,43 @@
    "address": "R. Fab, 586\nEm frente unidade mista de saúde\nCentro\nCalçoene, AP\n68960-000",
    "languageCode": "PTG",
    "schedule": "Sat 19:00 Thu 19:30",
-   "phones": [ "96 984240666" ],
+   "phones": [ "74999679231" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
+  "geoId": "215630AD-69F7-4609-8586-E2A54E46ECB8",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 5.576885,
+   "longitude": -53.893893
+  },
+  "properties": {
+   "orgName": "MANA CHARVEIN OKANISI TONGO",
+   "orgType": "CONG",
+   "address": "1849 Avenue Eugène Lespérant\n97360 MANA\nGUYANE",
+   "languageCode": "AKN",
+   "schedule": "Sun 10:00 Tue 18:00",
+   "phones": [ "0694093548" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
+ },
+ {
   "geoId": "B8D88EED-62A5-4FCC-9034-BE82FEC9A13D",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 5.669811,
-   "longitude": -53.778841,
-   "iso": "GUF"
+   "longitude": -53.778841
   },
   "properties": {
    "orgName": "MANA",
@@ -2049,12 +2006,11 @@
    "address": "10 Rue Maître Thamar\n97360 MANA\nGUYANE",
    "languageCode": "F",
    "schedule": "Sun 10:00 Tue 19:00",
-   "relatedLanguageCodes": [ "E" ],
    "phones": [ "0594276142" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2064,8 +2020,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.669811,
-   "longitude": -53.778841,
-   "iso": "GUF"
+   "longitude": -53.778841
   },
   "properties": {
    "orgName": "Mana Créole d'Haïti - MANA",
@@ -2077,9 +2032,9 @@
    "phones": [ "0594276142" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
-  "active": 0,
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
@@ -2088,8 +2043,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.669811,
-   "longitude": -53.778841,
-   "iso": "GUF"
+   "longitude": -53.778841
   },
   "properties": {
    "orgName": "Mana Anglais - MANA",
@@ -2101,7 +2055,7 @@
    "phones": [ "0594276142" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -2112,8 +2066,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.669811,
-   "longitude": -53.778841,
-   "iso": "GUF"
+   "longitude": -53.778841
   },
   "properties": {
    "orgName": "MANA CRÉOLE D'HAITI",
@@ -2124,8 +2077,8 @@
    "phones": [ "+594&nbsp;(0)5.94.27.61.42" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2134,21 +2087,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": 5.545784,
-   "longitude": -53.587638,
-   "iso": "GUF"
+   "latitude": 5.546772,
+   "longitude": -53.58901
   },
   "properties": {
    "orgName": "MANA OKANISI TONGO",
    "orgType": "CONG",
-   "address": "2644 Avenue Paule Berthelot\nPK 8 CD 9 Route de Mana\n97360 MANA\nGUYANE",
+   "address": "2644 Avenue Paule Berthelot\nPK 7 CD 8 Route de Mana\n97360 MANA\nGUYANE",
    "languageCode": "AKN",
    "schedule": "Sun 10:00 Wed 17:00",
-   "phones": [],
+   "phones": [ "+33643922241" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2158,8 +2110,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 3.845681,
-   "longitude": -51.831306,
-   "iso": "BRA"
+   "longitude": -51.831306
   },
   "properties": {
    "orgName": "Oiapoque - AP",
@@ -2170,8 +2121,8 @@
    "phones": [ "96 999702908" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2181,8 +2132,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 3.891438,
-   "longitude": -51.801692,
-   "iso": "BRA"
+   "longitude": -51.801692
   },
   "properties": {
    "orgName": "ST GEORGES DE L’OYAPOCK PORTUGAISE",
@@ -2193,8 +2143,31 @@
    "phones": [ "06 94 38 50 89" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2022-12-03"
+ },
+ {
+  "geoId": "4E29057F-7999-4A6D-8EAE-1D2B3A070A0B",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 3.891438,
+   "longitude": -51.801692
+  },
+  "properties": {
+   "orgName": "ST GEORGES DE L'OYAPOCK CREOLE DE LA GUYANE",
+   "orgType": "CONG",
+   "address": "Lotissement Émilio Pascal\n70 Rue Eleuthère Carême\n97313 ST GEORGES DE L'OYAPOCK\nGUYANE",
+   "languageCode": "GNC",
+   "schedule": "Sat 16:00 Tue 19:00",
+   "relatedLanguageCodes": [ "PLK" ],
+   "phones": [ "0694213820" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -2204,8 +2177,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.377508,
-   "longitude": -52.954317,
-   "iso": "GUF"
+   "longitude": -52.954317
   },
   "properties": {
    "orgName": "SINNAMARY CREOLE DE LA GUYANE",
@@ -2213,12 +2185,11 @@
    "address": "32 Rue Inkermann\n97315 SINNAMARY\nGUYANE",
    "languageCode": "GNC",
    "schedule": "Sat 17:00 Tue 19:00",
-   "relatedLanguageCodes": [ "CR" ],
    "phones": [ "+594&nbsp;(0)5.94.34.52.99" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2244,7 +2215,7 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2023-02-20",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-23"
  },
  {
   "geoId": "230114C1-27DC-4DD6-8621-D3B9FB086185",
@@ -2252,21 +2223,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.153026,
-   "longitude": -52.647426,
-   "iso": "GUF"
+   "longitude": -52.647426
   },
   "properties": {
    "orgName": "KOUROU PORTUGAISE",
    "orgType": "CONG",
    "address": "23 Rue Raymond Cresson\nCabalou\n97310 KOUROU\nGUYANE",
    "languageCode": "PTG",
-   "schedule": "Sun 10:00 Thu 19:00",
-   "relatedLanguageCodes": [ "S" ],
+   "schedule": "Sat 16:00 Tue 19:00",
    "phones": [ "0594326296" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2276,20 +2245,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.153026,
-   "longitude": -52.647426,
-   "iso": "GUF"
+   "longitude": -52.647426
   },
   "properties": {
    "orgName": "KOUROU CREOLE DE LA GUYANE",
    "orgType": "CONG",
    "address": "23 Rue Raymond Cresson\nCabalou\n97310 KOUROU\nGUYANE",
    "languageCode": "GNC",
-   "schedule": "Sat 16:00 Tue 19:00",
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "+594&nbsp;594 32 62 96" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2299,8 +2267,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.153026,
-   "longitude": -52.647426,
-   "iso": "GUF"
+   "longitude": -52.647426
   },
   "properties": {
    "orgName": "KOUROU SARAMACCA",
@@ -2308,11 +2275,12 @@
    "address": "23 Rue Raymond Cresson\nCabalou\n97310 KOUROU\nGUYANE",
    "languageCode": "SRM",
    "schedule": "Sat 18:30 Wed 19:00",
+   "relatedLanguageCodes": [ "AKN" ],
    "phones": [ "0594 32 62 96" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2322,31 +2290,29 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.16,
-   "longitude": -52.64394,
-   "iso": "GUF"
+   "longitude": -52.64394
   },
   "properties": {
    "orgName": "KOUROU NORD",
    "orgType": "CONG",
    "address": "Auditorium A\n14 Rue des Artisans\n97310 KOUROU\nGUYANE",
    "languageCode": "F",
-   "schedule": "Sat 19:00 Wed 19:00",
+   "schedule": "Sat 16:00 Tue 19:00",
    "phones": [ "+594&nbsp;594 32 15 42" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "A28FBBE7-1FE5-4584-AA1F-48DD25410748",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 5.16,
-   "longitude": -52.64394,
-   "iso": "GUF"
+   "longitude": -52.64394
   },
   "properties": {
    "orgName": "KOUROU OKANISI TONGO",
@@ -2357,7 +2323,7 @@
    "phones": [ "0594321542" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
@@ -2365,23 +2331,22 @@
  {
   "geoId": "CFE6C63E-7D1C-4DC8-9FA0-549C47F5ED9E",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 5.16,
-   "longitude": -52.64394,
-   "iso": "GUF"
+   "longitude": -52.64394
   },
   "properties": {
    "orgName": "KOUROU CREOLE D’HAITI",
    "orgType": "CONG",
    "address": "Auditorium A\n14 Rue des Artisans\n97310 KOUROU\nGUYANE",
    "languageCode": "CR",
-   "schedule": "Sun 09:00 Thu 19:00",
+   "schedule": "Sat 18:45 Wed 19:00",
    "phones": [ "0633529810" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2407,7 +2372,29 @@
   "lastSeen": "2023-02-20",
   "active": 0,
   "firstSeen": "2022-12-02",
-  "lastVisit": "2023-12-27"
+  "lastVisit": "2025-07-24"
+ },
+ {
+  "geoId": "2A0DA177-6DC9-4857-843E-92E81E9AF355",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 4.939994,
+   "longitude": -52.403633
+  },
+  "properties": {
+   "orgName": "SOULA CREOLE D'HAÏTI",
+   "orgType": "CONG",
+   "address": "Chez M. PIERRE Luxi\nLieu-dit Sablance PK 16, impasse 11\n97355 MACOURIA\nGUYANE",
+   "languageCode": "CR",
+   "schedule": "Sun 10:00 Thu 19:00",
+   "phones": [],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "3F0DBC7F-7D5B-4A10-8C0F-07E7C69B8145",
@@ -2415,20 +2402,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.010483,
-   "longitude": -52.472297,
-   "iso": "GUF"
+   "longitude": -52.472297
   },
   "properties": {
    "orgName": "MACOURIA TONATE",
    "orgType": "CONG",
    "address": "1 Rue Victor Ibris\n97355 MACOURIA\nGUYANE",
    "languageCode": "F",
-   "schedule": "Sat 17:00 Tue 18:45",
+   "schedule": "Sat 18:30 Tue 19:00",
+   "relatedLanguageCodes": [ "E" ],
    "phones": [ "0594 29 21 65" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2438,22 +2425,43 @@
   "isPrimary": 1,
   "location": {
    "latitude": 5.010483,
-   "longitude": -52.472297,
-   "iso": "GUF"
+   "longitude": -52.472297
   },
   "properties": {
-   "orgName": "MACOURIA CREOLE D’HAITI",
+   "orgName": "TONATE CREOLE D’HAITI",
    "orgType": "CONG",
    "address": "1 Rue Victor Ibris\n97355 MACOURIA\nGUYANE",
    "languageCode": "CR",
-   "schedule": "Sun 09:30 Thu 19:00",
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "+594694137888" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
+ },
+ {
+  "geoId": "C39D09BA-39B4-41E4-A921-AB119C27DC8E",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 5.010483,
+   "longitude": -52.472297
+  },
+  "properties": {
+   "orgName": "SOULA",
+   "orgType": "CONG",
+   "address": "1 Rue Victor Ibris\n97355 MACOURIA\nGUYANE",
+   "languageCode": "F",
+   "schedule": "Sat 16:00 Wed 19:00",
+   "phones": [],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "394BBCD9-8D66-4778-B867-68B8B6BD608E",
@@ -2461,20 +2469,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.888034,
-   "longitude": -52.340122,
-   "iso": "GUF"
+   "longitude": -52.340122
   },
   "properties": {
    "orgName": "BALATA CREOLE D’HAITI",
    "orgType": "CONG",
    "address": "3 Rue Gonfolo\nBalata\n97351 MATOURY\nGUYANE",
    "languageCode": "CR",
-   "schedule": "Sat 18:30 Tue 19:00",
+   "schedule": "Sat 16:00 Tue 19:00",
    "phones": [ "+594&nbsp;(0)5.94.35.34.95" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2484,20 +2491,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.888034,
-   "longitude": -52.340122,
-   "iso": "GUF"
+   "longitude": -52.340122
   },
   "properties": {
    "orgName": "COGNEAU LAMIRANDE CREOLE D’HAITI",
    "orgType": "CONG",
    "address": "3 Rue Gonfolo\nBalata\n97351 MATOURY\nGUYANE",
    "languageCode": "CR",
-   "schedule": "Sun 08:30 Fri 19:00",
+   "schedule": "Sun 09:30 Thu 19:00",
    "phones": [ "+594&nbsp;(0)5.94.35.34.95" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2507,8 +2513,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.888034,
-   "longitude": -52.340122,
-   "iso": "GUF"
+   "longitude": -52.340122
   },
   "properties": {
    "orgName": "BALATA ANGLAISE",
@@ -2519,7 +2524,7 @@
    "phones": [ "0694951996" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
@@ -2530,20 +2535,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.888034,
-   "longitude": -52.340122,
-   "iso": "GUF"
+   "longitude": -52.340122
   },
   "properties": {
    "orgName": "BALATA SARAMACCA",
    "orgType": "CONG",
    "address": "3 Rue Gonfolo\nBalata\n97351 MATOURY\nGUYANE",
    "languageCode": "SRM",
-   "schedule": "Sun 10:45 Thu 19:00",
-   "phones": [ "0694219806" ],
+   "schedule": "Sat 18:30 Wed 19:00",
+   "phones": [ "0694955300" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2553,20 +2557,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.894484,
-   "longitude": -52.337381,
-   "iso": "GUF"
+   "longitude": -52.337381
   },
   "properties": {
    "orgName": "MATOURY CREOLE DE LA GUYANE",
    "orgType": "CONG",
    "address": "15 Rue Chawari\nZI Cogneau Larivot\n97351 MATOURY\nGUYANE",
    "languageCode": "GNC",
-   "schedule": "Sun 11:30 Fri 19:00",
+   "schedule": "Sat 16:00 Thu 19:00",
    "phones": [ "+594 694 97 12 52" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2576,20 +2579,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.894484,
-   "longitude": -52.337381,
-   "iso": "GUF"
+   "longitude": -52.337381
   },
   "properties": {
    "orgName": "REMIRE PORTUGAISE",
    "orgType": "CONG",
    "address": "15 Rue Chawari\nZI Cogneau Larivot\n97351 MATOURY\nGUYANE",
    "languageCode": "PTG",
-   "schedule": "Sun 09:00 Wed 19:00",
+   "schedule": "Sun 11:30 Fri 19:00",
    "phones": [ "0766018028" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2599,20 +2601,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.894484,
-   "longitude": -52.337381,
-   "iso": "GUF"
+   "longitude": -52.337381
   },
   "properties": {
    "orgName": "MATOURY CREOLE D’HAITI",
    "orgType": "CONG",
    "address": "15 Rue Chawari\nZI Cogneau Larivot\n97351 MATOURY\nGUYANE",
    "languageCode": "CR",
-   "schedule": "Sat 16:00 Thu 19:00",
+   "schedule": "Sun 08:45 Tue 19:00",
    "phones": [ "+596696276786" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2622,44 +2623,66 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.894484,
-   "longitude": -52.337381,
-   "iso": "GUF"
+   "longitude": -52.337381
   },
   "properties": {
    "orgName": "COGNEAU LARIVOT",
    "orgType": "CONG",
    "address": "15 Rue Chawari\nZI Cogneau Larivot\n97351 MATOURY\nGUYANE",
    "languageCode": "F",
-   "schedule": "Sat 18:30 Tue 19:00",
-   "phones": [ "+594 694 23 75 14" ],
+   "schedule": "Sat 18:30 Wed 19:00",
+   "relatedLanguageCodes": [ "E" ],
+   "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
+  "geoId": "A985FA62-C613-424A-8C7A-8E3B1993C3A7",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 4.894484,
+   "longitude": -52.337381
+  },
+  "properties": {
+   "orgName": "Cogneau-Larivot anglais - COGNEAU LARIVOT",
+   "orgType": "GROUP",
+   "address": "15 Rue Chawari\nZI Cogneau Larivot\n97351 MATOURY\nGUYANE",
+   "languageCode": "E",
+   "schedule": "Sat 18:30 Wed 19:00",
+   "relatedLanguageCodes": [ "F" ],
+   "phones": [],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "active": 1,
+  "firstSeen": "2025-07-23"
+ },
+ {
   "geoId": "ED9D2766-1D5D-4C37-A325-6BA7C46FA6AC",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 4.919559,
-   "longitude": -52.319014,
-   "iso": "GUF"
+   "longitude": -52.319014
   },
   "properties": {
    "orgName": "CAYENNE OKANISI TONGO",
    "orgType": "CONG",
-   "address": "328 CD2 Route du Tigre\r\n328 Route de Cabassou\r\n97300 CAYENNE\r\nGUYANE",
+   "address": "328 CD2 Route du Tigre\n328 Route de Cabassou\n97300 CAYENNE\nGUYANE",
    "languageCode": "AKN",
    "schedule": "Sun 10:45 Fri 19:00",
    "phones": [ "+594&nbsp;(0)5.94.29.11.54" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
-  "active": 0,
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
@@ -2668,20 +2691,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.919559,
-   "longitude": -52.319014,
-   "iso": "GUF"
+   "longitude": -52.319014
   },
   "properties": {
-   "orgName": "CAYENNE CREOLE D’HAITI",
+   "orgName": "CAYENNE OUEST CREOLE D’HAITI",
    "orgType": "CONG",
    "address": "328 CD2 Route du Tigre\n328 Route de Cabassou\n97300 CAYENNE\nGUYANE",
    "languageCode": "CR",
-   "schedule": "Sun 08:30 Thu 18:45",
+   "schedule": "Sun 08:30 Wed 19:00",
    "phones": [ "0594291154" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2691,20 +2713,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.919559,
-   "longitude": -52.319014,
-   "iso": "GUF"
+   "longitude": -52.319014
   },
   "properties": {
-   "orgName": "BADUEL CREOLE D’HAITI",
+   "orgName": "CAYENNE EST CREOLE D’HAITI",
    "orgType": "CONG",
    "address": "328 CD2 Route du Tigre\n328 Route de Cabassou\n97300 CAYENNE\nGUYANE",
    "languageCode": "CR",
-   "schedule": "Sat 19:00 Wed 18:45",
+   "schedule": "Sun 11:00 Fri 19:00",
    "phones": [ "+594&nbsp;(0)5.94.29.11.54" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  },
@@ -2714,8 +2735,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.919559,
-   "longitude": -52.319014,
-   "iso": "GUF"
+   "longitude": -52.319014
   },
   "properties": {
    "orgName": "CAYENNE CREOLE DE LA GUYANE",
@@ -2727,8 +2747,8 @@
    "phones": [ "+594&nbsp;(0)5.94.29.11.54" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2738,8 +2758,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.919559,
-   "longitude": -52.319014,
-   "iso": "GUF"
+   "longitude": -52.319014
   },
   "properties": {
    "orgName": "Cayenne Chinois - CAYENNE CREOLE DE LA GUYANE",
@@ -2751,35 +2770,8 @@
    "phones": [ "+594&nbsp;(0)5.94.29.11.54" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "4BCF744F-8CFF-4628-BF2A-7B7F6BE707DA",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": 4.919559,
-   "longitude": -52.319014,
-   "iso": "GUF"
-  },
-  "properties": {
-   "orgName": "CAYENNE OUEST",
-   "orgType": "CONG",
-   "address": "328 CD2 Route du Tigre\n328 Route de Cabassou\n97300 CAYENNE\nGUYANE",
-   "languageCode": "F",
-   "schedule": "Sun 10:45 Fri 19:00",
-   "relatedLanguageCodes": [
-    "E",
-    "AKN"
-   ],
-   "phones": [ "+594694213145" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -2802,34 +2794,56 @@
    "phones": [ "+594694213145" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
-  "active": 1,
+  "active": 0,
   "firstSeen": "2023-09-28"
  },
  {
   "geoId": "673286EB-9A10-4F36-B924-281F732D63D8",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 4.919559,
-   "longitude": -52.319014,
-   "iso": "GUF"
+   "longitude": -52.319014
   },
   "properties": {
    "orgName": "Cayenne Okanisi Tongo - CAYENNE OUEST",
    "orgType": "GROUP",
    "address": "328 CD2 Route du Tigre\n328 Route de Cabassou\n97300 CAYENNE\nGUYANE",
    "languageCode": "AKN",
-   "schedule": "Sun 10:45 Fri 19:00",
+   "schedule": "Sat 18:30 Thu 19:00",
    "relatedLanguageCodes": [ "F" ],
    "phones": [ "+594694213145" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-12-27"
+ },
+ {
+  "geoId": "4BCF744F-8CFF-4628-BF2A-7B7F6BE707DA",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 4.919559,
+   "longitude": -52.319014
+  },
+  "properties": {
+   "orgName": "CAYENNE OUEST",
+   "orgType": "CONG",
+   "address": "328 CD2 Route du Tigre\n328 Route de Cabassou\n97300 CAYENNE\nGUYANE",
+   "languageCode": "F",
+   "schedule": "Sat 18:30 Thu 19:00",
+   "relatedLanguageCodes": [ "AKN" ],
+   "phones": [ "+594694213145" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "active": 1,
+  "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F39E9A10-5E39-48C5-884A-F1A845F49F3A",
@@ -2837,8 +2851,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.934482,
-   "longitude": -52.330975,
-   "iso": "GUF"
+   "longitude": -52.330975
   },
   "properties": {
    "orgName": "CAYENNE ANGLAISE",
@@ -2849,30 +2862,29 @@
    "phones": [ "0694382930" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
-  "active": 0,
+  "active": 1,
   "firstSeen": "2023-06-02"
  },
  {
   "geoId": "A6AF504E-F270-4946-98DD-62351307DA86",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
-   "latitude": 4.934128,
-   "longitude": -52.324145,
-   "iso": "GUF"
+   "latitude": 4.934482,
+   "longitude": -52.330975
   },
   "properties": {
    "orgName": "CAYENNE ESPAGNOLE",
    "orgType": "CONG",
-   "address": "45 Rue des Mangues\n7C Rue des Zagrinettes\n97300 CAYENNE\nGUYANE",
+   "address": "42 Rue Réne Jadfard\n97300 CAYENNE\nGUYANE",
    "languageCode": "S",
-   "schedule": "Sat 17:00 Tue 19:00",
+   "schedule": "Sun 10:00 Thu 19:00",
    "phones": [ "+594694417520" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -2880,80 +2892,102 @@
  {
   "geoId": "41CE335E-0D65-4524-B263-77BDF8ABAD19",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 4.934128,
-   "longitude": -52.324145,
-   "iso": "GUF"
+   "longitude": -52.324145
   },
   "properties": {
    "orgName": "CAYENNE PORTUGAISE",
    "orgType": "CONG",
    "address": "45 Rue des Mangues\n7C Rue des Zagrinettes\n97300 CAYENNE\nGUYANE",
    "languageCode": "PTG",
-   "schedule": "Sat 19:30 Thu 19:00",
+   "schedule": "Sat 19:00 Thu 19:00",
+   "relatedLanguageCodes": [ "S" ],
    "phones": [ "+594&nbsp;6 94 45 48 92" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
-  "geoId": "86EAF08D-DBAC-47AD-B5CF-E0D3720CA88F",
+  "geoId": "98C71FAF-120A-488D-84ED-B3D3C82951F1",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 4.934128,
-   "longitude": -52.324145,
-   "iso": "GUF"
+   "longitude": -52.324145
   },
   "properties": {
-   "orgName": "Cayenne LSF - CAYENNE OUEST",
+   "orgName": "Cayenne espagnol - CAYENNE PORTUGAISE",
    "orgType": "GROUP",
    "address": "45 Rue des Mangues\n7C Rue des Zagrinettes\n97300 CAYENNE\nGUYANE",
-   "languageCode": "LSF",
-   "schedule": "Sun 10:45 Fri 19:00",
-   "phones": [ "+594694213145" ],
+   "languageCode": "S",
+   "schedule": "Sat 16:30 undefined null",
+   "relatedLanguageCodes": [ "PTG" ],
+   "phones": [ "+594&nbsp;6 94 45 48 92" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
+ },
+ {
+  "geoId": "86EAF08D-DBAC-47AD-B5CF-E0D3720CA88F",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": 4.935317,
+   "longitude": -52.3144
+  },
+  "properties": {
+   "orgName": "Cayenne LSF - CAYENNE EST",
+   "orgType": "GROUP",
+   "address": "316 Route de Raban\n97300 CAYENNE\nGUYANE",
+   "languageCode": "LSF",
+   "schedule": "Sat 17:00 Wed 19:00",
+   "relatedLanguageCodes": [ "F" ],
+   "phones": [ "0694 206790" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "26151765-6CB3-40FD-8989-2BF8535416CC",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 4.935317,
-   "longitude": -52.3144,
-   "iso": "GUF"
+   "longitude": -52.3144
   },
   "properties": {
    "orgName": "CAYENNE EST",
    "orgType": "CONG",
    "address": "316 Route de Raban\n97300 CAYENNE\nGUYANE",
    "languageCode": "F",
-   "schedule": "Sat 18:30 Wed 19:00",
+   "schedule": "Sat 17:00 Wed 19:00",
+   "relatedLanguageCodes": [ "LSF" ],
    "phones": [ "0694 206790" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "AA34C6EB-C8E5-4B50-88B5-B66A20D48529",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 4.935317,
-   "longitude": -52.3144,
-   "iso": "GUF"
+   "longitude": -52.3144
   },
   "properties": {
    "orgName": "RABAN CREOLE D’HAITI",
@@ -2964,7 +2998,7 @@
    "phones": [ "0694957882" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-06-02"
@@ -2975,43 +3009,41 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.935317,
-   "longitude": -52.3144,
-   "iso": "GUF"
+   "longitude": -52.3144
   },
   "properties": {
    "orgName": "RABAN CREOLE DE LA GUYANE",
    "orgType": "CONG",
    "address": "316 Route de Raban\n97300 CAYENNE\nGUYANE",
    "languageCode": "GNC",
-   "schedule": "Sat 16:00 Tue 19:00",
+   "schedule": "Sun 10:00 Tue 19:00",
    "phones": [ "+594&nbsp;(0)5.94.30.31.18" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7008C6B5-BCF2-48F4-8140-F9161A68D176",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 4.908116,
-   "longitude": -52.273841,
-   "iso": "GUF"
+   "longitude": -52.273841
   },
   "properties": {
    "orgName": "MATOURY CENTRE",
    "orgType": "CONG",
    "address": "120 Avenue St Ange Méthon\n97354 REMIRE MONTJOLY\nGUYANE",
    "languageCode": "F",
-   "schedule": "Sun 11:00 Fri 19:00",
+   "schedule": "Sun 11:00 Tue 19:00",
    "phones": [ "0607294980" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3021,20 +3053,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.908116,
-   "longitude": -52.273841,
-   "iso": "GUF"
+   "longitude": -52.273841
   },
   "properties": {
    "orgName": "REMIRE",
    "orgType": "CONG",
    "address": "120 Avenue St Ange Méthon\n97354 REMIRE MONTJOLY\nGUYANE",
    "languageCode": "F",
-   "schedule": "Sat 16:00 Wed 19:00",
+   "schedule": "Sun 08:30 Wed 19:00",
    "phones": [ "+594&nbsp;(0)5.94.38.30.94" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -3044,43 +3075,41 @@
   "isPrimary": 1,
   "location": {
    "latitude": 4.908116,
-   "longitude": -52.273841,
-   "iso": "GUF"
+   "longitude": -52.273841
   },
   "properties": {
    "orgName": "MONTJOLY CREOLE DE LA GUYANE",
    "orgType": "CONG",
    "address": "120 Avenue St Ange Méthon\n97354 REMIRE MONTJOLY\nGUYANE",
    "languageCode": "GNC",
-   "schedule": "Sat 18:30 Tue 19:00",
+   "schedule": "Sat 16:00 Thu 19:00",
    "phones": [ "+594&nbsp;(0)5.94.38.30.94" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "755C2489-AC53-40EB-B82E-5D6C13469C25",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": 4.908116,
-   "longitude": -52.273841,
-   "iso": "GUF"
+   "longitude": -52.273841
   },
   "properties": {
    "orgName": "MONTJOLY CREOLE D’HAITI",
    "orgType": "CONG",
    "address": "120 Avenue St Ange Méthon\n97354 REMIRE MONTJOLY\nGUYANE",
    "languageCode": "CR",
-   "schedule": "Sun 09:00 Thu 19:00",
+   "schedule": "Sat 18:30 Mon 19:00",
    "phones": [ "+594&nbsp;(0)5.94.38.30.94" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2023-06-02"
  }

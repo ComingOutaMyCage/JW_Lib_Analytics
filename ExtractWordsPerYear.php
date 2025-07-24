@@ -1,4 +1,5 @@
 <?php
+ini_set('memory_limit','2048M');
 include (__DIR__.'/functions.php');
 $dirs = glob('./Data/WordsByYear/*', GLOB_ONLYDIR);
 

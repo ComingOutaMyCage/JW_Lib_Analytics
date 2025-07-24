@@ -5,11 +5,10 @@
   "isPrimary": 1,
   "location": {
    "latitude": -14.920957,
-   "longitude": 40.292104,
-   "iso": "MOZ"
+   "longitude": 40.292104
   },
   "properties": {
-   "orgName": "Monapo Macua, Monapo, NA",
+   "orgName": "Thopelani Macua, Monapo, NA",
    "orgType": "CONG",
    "address": "Monapo,NAMPULA\nAvenida Principal, Depois do Hospital\nC/P 2600",
    "languageCode": "MAC",
@@ -17,8 +16,8 @@
    "phones": [ "842692441" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -28,20 +27,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -15.020308,
-   "longitude": 40.669965,
-   "iso": "MOZ"
+   "longitude": 40.669965
   },
   "properties": {
-   "orgName": "Ilha de Moçambique Macua, Nampula, NA",
+   "orgName": "Lumbo Macua, Ilha de Moçambique, NA",
    "orgType": "CONG",
    "address": "Ilha de Moçambique,NAMPULA",
    "languageCode": "MAC",
-   "schedule": "Sat 08:00 Thu 15:00",
+   "schedule": "Sat 08:00 Wed 03:30",
    "phones": [ "872048884" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -51,20 +49,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -14.55567,
-   "longitude": 40.617401,
-   "iso": "MOZ"
+   "longitude": 40.617401
   },
   "properties": {
    "orgName": "Naphela Portuguesa, Nacala-A-Velha, NA",
    "orgType": "CONG",
    "address": "Nacala-A-Velha,NAMPULA",
-   "languageCode": "PTG",
+   "languageCode": "TMM",
    "schedule": "Sun 08:00 Thu 18:00",
-   "phones": [ "867712813" ],
+   "phones": [ "86/846622878" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -73,21 +70,20 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": -14.548861,
-   "longitude": 40.677824,
-   "iso": "MOZ"
+   "latitude": -14.558912,
+   "longitude": 40.688942
   },
   "properties": {
-   "orgName": "Triângulo Macua, Nacala, NA",
+   "orgName": "Triângulo Macua, Nacala Porto, NA",
    "orgType": "CONG",
-   "address": "Nacala Porto,NAMPULA\nNacala\nC/P 2600",
+   "address": "Nacala Porto,NAMPULA\nBairro Mutiva Bloco",
    "languageCode": "MAC",
    "schedule": "Sun 10:30 Thu 18:00",
-   "phones": [ "845737703" ],
+   "phones": [ "850410767" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -96,23 +92,46 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": -14.548861,
-   "longitude": 40.677824,
-   "iso": "MOZ"
+   "latitude": -14.558912,
+   "longitude": 40.688942
   },
   "properties": {
-   "orgName": "Maiaia Portuguesa, Nacala, NA",
+   "orgName": "Maiaia Portuguesa, Nacala Porto, NA",
    "orgType": "CONG",
-   "address": "Nacala Porto,NAMPULA\nNacala\nC/P 2600",
-   "languageCode": "PTG",
+   "address": "Nacala Porto,NAMPULA\nBairro Mutiva Bloco",
+   "languageCode": "TMM",
    "schedule": "Sun 08:00 Wed 18:00",
+   "relatedLanguageCodes": [ "SLM" ],
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "D9B1C19B-2653-4C1C-8EF4-5855BFF4E9E1",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -14.558912,
+   "longitude": 40.688942
+  },
+  "properties": {
+   "orgName": "(G) Maiaia Lingua de Sinais, NA - Maiaia Portuguesa, Nacala Porto, NA",
+   "orgType": "GROUP",
+   "address": "Nacala Porto,NAMPULA\nBairro Mutiva Bloco",
+   "languageCode": "SLM",
+   "schedule": "Sun 08:00 Wed 18:00",
+   "relatedLanguageCodes": [ "TMM" ],
+   "phones": [],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "3AAC947D-1C0E-4663-B51A-76959EA57A93",
@@ -120,20 +139,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -14.191342,
-   "longitude": 40.522239,
-   "iso": "MOZ"
+   "longitude": 40.522239
   },
   "properties": {
-   "orgName": "Memba Macua, Memba, NA",
+   "orgName": "Muaco Macua, Memba, NA",
    "orgType": "CONG",
    "address": "Memba,NAMPULA",
    "languageCode": "MAC",
-   "schedule": "Sun 08:00 Wed 16:00",
-   "phones": [ "844365198" ],
+   "schedule": "Sun 08:00 Fri 15:00",
+   "phones": [ "868425972" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -143,8 +161,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -14.191342,
-   "longitude": 40.522239,
-   "iso": "MOZ"
+   "longitude": 40.522239
   },
   "properties": {
    "orgName": "(G) Nanrepo Macua, NA - Memba Macua, Memba, NA",
@@ -155,7 +172,7 @@
    "phones": [ "844365198" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -166,8 +183,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -12.95607,
-   "longitude": 40.31257,
-   "iso": "MOZ"
+   "longitude": 40.31257
   },
   "properties": {
    "orgName": "Metuge Makhuwa-Meetto, Metuge, CD",
@@ -178,9 +194,9 @@
    "phones": [],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-08-16",
-  "active": 0,
+  "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
@@ -189,20 +205,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -13.001872,
-   "longitude": 40.55285,
-   "iso": "MOZ"
+   "longitude": 40.55285
   },
   "properties": {
    "orgName": "Wimbe Portuguesa, Pemba, CD",
    "orgType": "CONG",
    "address": "Pemba,CABO DELGADO\nWimbe\nC/P 2600",
-   "languageCode": "PTG",
+   "languageCode": "TMM",
    "schedule": "Sun 08:00 Thu 17:00",
    "phones": [ "872660826" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -212,25 +227,24 @@
   "isPrimary": 1,
   "location": {
    "latitude": -12.96123,
-   "longitude": 40.520167,
-   "iso": "MOZ"
+   "longitude": 40.520167
   },
   "properties": {
    "orgName": "Cariacó Portuguesa, Pemba, CD",
    "orgType": "CONG",
    "address": "Pemba,CABO DELGADO\nRua Cá 096, Quarteirão 8, Marginal, Cariacó, Pemba\nC/P 2600",
-   "languageCode": "PTG",
+   "languageCode": "TMM",
    "schedule": "Sun 08:00 Thu 17:00",
    "relatedLanguageCodes": [
     "SLM",
     "MWM",
     "MKD"
    ],
-   "phones": [],
+   "phones": [ "862061835///840700813" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -240,21 +254,20 @@
   "isPrimary": 1,
   "location": {
    "latitude": -12.96123,
-   "longitude": 40.520167,
-   "iso": "MOZ"
+   "longitude": 40.520167
   },
   "properties": {
-   "orgName": "(G) Pemba Makhuwa-Meetto, CD - Cariacó Portuguesa, Pemba, CD",
+   "orgName": "(G) Cariacó Makhuwa-Meetto, CD - Cariacó Portuguesa, Pemba, CD",
    "orgType": "GROUP",
    "address": "Pemba,CABO DELGADO\nRua Cá 096, Quarteirão 8, Marginal, Cariacó, Pemba\nC/P 2600",
    "languageCode": "MWM",
-   "schedule": "Sun 08:00 undefined null",
-   "relatedLanguageCodes": [ "PTG" ],
-   "phones": [],
+   "schedule": "Sun 10:00 undefined null",
+   "relatedLanguageCodes": [ "TMM" ],
+   "phones": [ "862061835///840700813" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -264,8 +277,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -12.96123,
-   "longitude": 40.520167,
-   "iso": "MOZ"
+   "longitude": 40.520167
   },
   "properties": {
    "orgName": "(G) Pemba Língua de Sinais, CD - Cariacó Portuguesa, Pemba, CD",
@@ -273,12 +285,12 @@
    "address": "Pemba,CABO DELGADO\nRua Cá 096, Quarteirão 8, Marginal, Cariacó, Pemba\nC/P 2600",
    "languageCode": "SLM",
    "schedule": "Sun 08:00 Thu 17:00",
-   "relatedLanguageCodes": [ "PTG" ],
-   "phones": [],
+   "relatedLanguageCodes": [ "TMM" ],
+   "phones": [ "862061835///840700813" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -288,20 +300,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -10.268585,
-   "longitude": 40.167073,
-   "iso": "TZA"
+   "longitude": 40.167073
   },
   "properties": {
    "orgName": "Shangani - Mtwara MTR",
    "orgType": "CONG",
-   "address": "Mtwara\nTanzania, United Republic of",
+   "address": "Shangani Plot No. 900/1\nMtwara\nTanzania, United Republic of",
    "languageCode": "SW",
-   "schedule": "Sun 10:00 Fri 16:00",
-   "phones": [ "0713312872 , 0714552758" ],
+   "schedule": "Sun 10:00 Wed 16:00",
+   "phones": [ "0653400342, 0755199947" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -311,20 +322,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -15.918358,
-   "longitude": 45.837087,
-   "iso": "MDG"
+   "longitude": 45.837087
   },
   "properties": {
    "orgName": "Namakia",
    "orgType": "CONG",
    "address": "Namakia\nSection 240 (Dessinateur)\nOuest Source\n417 NAMAKIA",
    "languageCode": "MG",
-   "schedule": "Sun 09:00 Wed 17:30",
+   "schedule": "Sun 08:00 Wed 17:00",
    "phones": [ "0327069344" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -334,46 +344,41 @@
   "isPrimary": 1,
   "location": {
    "latitude": -15.708981,
-   "longitude": 46.316831,
-   "iso": "MDG"
+   "longitude": 46.316831
   },
   "properties": {
    "orgName": "Mahajanga Tsaramandroso",
    "orgType": "CONG",
    "address": "80 Parcelle\nTsaramandroso\nMahajanga\nMAHAJANGA",
    "languageCode": "MG",
-   "schedule": "Sun 07:30 Thu 18:15",
-   "phones": [ "032 02 833 29, 033 21 274 19" ],
+   "schedule": "Sat 16:00 Thu 18:15",
+   "phones": [ "0374081278" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "17F7F767-C9CB-4C9F-BEFB-121C80BE1E7D",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.708981,
-   "longitude": 46.316831,
-   "iso": "MDG"
+   "longitude": 46.316831
   },
   "properties": {
    "orgName": "Mahajanga Andrefana",
    "orgType": "CONG",
    "address": "80 Parcelle\nTsaramandroso\nMahajanga\nMAHAJANGA",
    "languageCode": "MG",
-   "schedule": "Sun 16:00 Tue 18:30",
-   "phones": [
-    "+261&nbsp;32 56 773 23",
-    "+261&nbsp;34 88 840 85"
-   ],
+   "schedule": "Sun 07:30 Tue 18:30",
+   "phones": [ "0331383725" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -383,8 +388,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -15.708981,
-   "longitude": 46.316831,
-   "iso": "MDG"
+   "longitude": 46.316831
   },
   "properties": {
    "orgName": "Mahajanga Tenin'ny Tanana",
@@ -395,19 +399,18 @@
    "phones": [ "0337692893" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "F5287D8B-E537-4409-AEB5-A7DCDAD564E6",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.708981,
-   "longitude": 46.316831,
-   "iso": "MDG"
+   "longitude": 46.316831
   },
   "properties": {
    "orgName": "Mahajanga Afovoany",
@@ -418,7 +421,7 @@
    "phones": [ "034.62.254.99" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -426,11 +429,10 @@
  {
   "geoId": "5EBDAD47-3424-4282-8A3A-C469216B0B75",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -15.708981,
-   "longitude": 46.316831,
-   "iso": "MDG"
+   "longitude": 46.316831
   },
   "properties": {
    "orgName": "Mahajanga Frantsay",
@@ -441,30 +443,7 @@
    "phones": [ "0388432877 /  0326242305" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "37A55226-072A-4F2A-A153-F83CA9154580",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -15.713598,
-   "longitude": 46.345856,
-   "iso": "MDG"
-  },
-  "properties": {
-   "orgName": "Mahajanga Avaratra",
-   "orgType": "CONG",
-   "address": "FKT Ambohimandamina\nAntanimasaja\n401 MAHAJANGA",
-   "languageCode": "MG",
-   "schedule": "Sun 15:30 Wed 18:00",
-   "phones": [ "+261&nbsp;32 62 769 98" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -474,20 +453,48 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": -15.713598,
-   "longitude": 46.345856,
-   "iso": "MDG"
+   "latitude": -15.708981,
+   "longitude": 46.316831
   },
   "properties": {
    "orgName": "Mahajanga Atsimo",
    "orgType": "CONG",
-   "address": "FKT Ambohimandamina\nAntanimasaja\n401 MAHAJANGA",
+   "address": "80 Parcelle\nTsaramandroso\nMahajanga\nMAHAJANGA",
    "languageCode": "MG",
-   "schedule": "Sun 07:30 Thu 18:30",
-   "phones": [ "0330906800" ],
+   "schedule": "Sun 15:00 Wed 18:30",
+   "phones": [ "032 43 086 06" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "37A55226-072A-4F2A-A153-F83CA9154580",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -15.713598,
+   "longitude": 46.345856
+  },
+  "properties": {
+   "orgName": "Mahajanga Avaratra",
+   "orgType": "CONG",
+   "address": "FKT Ambohimandamina\nAntanimasaja\n401 MAHAJANGA",
+   "languageCode": "MG",
+   "schedule": "Sun 15:30 Wed 18:00",
+   "phones": [
+    "+261&nbsp;321568710",
+    "+261&nbsp;33 01 239 39",
+    "+261&nbsp;32 15 68710",
+    "+261&nbsp;33 01 239 39",
+    "+261&nbsp;33 25 683 40",
+    "+261&nbsp;33 01 239 39"
+   ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -498,20 +505,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -15.713598,
-   "longitude": 46.345856,
-   "iso": "MDG"
+   "longitude": 46.345856
   },
   "properties": {
    "orgName": "Mahajanga Antanimasaja",
    "orgType": "CONG",
    "address": "FKT Ambohimandamina\nAntanimasaja\n401 MAHAJANGA",
    "languageCode": "MG",
-   "schedule": "Sat 15:30 Tue 18:30",
-   "phones": [ "0331853314" ],
+   "schedule": "Sun 09:45 Tue 18:30",
+   "phones": [ "0324896794" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -521,8 +527,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -15.713598,
-   "longitude": 46.345856,
-   "iso": "MDG"
+   "longitude": 46.345856
   },
   "properties": {
    "orgName": "Mahajanga Teny Tandroy",
@@ -530,33 +535,10 @@
    "address": "FKT Ambohimandamina\nAntanimasaja\n401 MAHAJANGA",
    "languageCode": "TND",
    "schedule": "Sun 09:45 Fri 18:00",
-   "phones": [ "+261345600233 /+261330381517 /+261332301615" ],
+   "phones": [ "+261345600233" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
-  "active": 1,
-  "firstSeen": "2022-12-02"
- },
- {
-  "geoId": "634F0982-97A8-4E37-B0D6-FAD77E6A3377",
-  "type": "weekly",
-  "isPrimary": 1,
-  "location": {
-   "latitude": -15.717806,
-   "longitude": 46.363785,
-   "iso": "MDG"
-  },
-  "properties": {
-   "orgName": "Mahajanga Atsinanana",
-   "orgType": "CONG",
-   "address": "Antanimalandy\n401 MAHAJANGA",
-   "languageCode": "MG",
-   "schedule": "Sun 09:45 Wed 18:30",
-   "phones": [ "0320283115" ],
-   "isPrivateMtgPlace": 0
-  },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-23",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -566,21 +548,42 @@
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": -15.717806,
-   "longitude": 46.363785,
-   "iso": "MDG"
+   "latitude": -15.713598,
+   "longitude": 46.345856
   },
   "properties": {
    "orgName": "Mahajanga Tanambao",
    "orgType": "CONG",
-   "address": "Antanimalandy\n401 MAHAJANGA",
+   "address": "FKT Ambohimandamina\nAntanimasaja\n401 MAHAJANGA",
    "languageCode": "MG",
-   "schedule": "Sun 07:30 Tue 18:30",
-   "phones": [ "0326559907 / 0330984825 / 0334245284" ],
+   "schedule": "Sun 16:00 Wed 18:30",
+   "phones": [ "0326559907 / 0330984825 / 0320298266" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "active": 1,
+  "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "634F0982-97A8-4E37-B0D6-FAD77E6A3377",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -15.717806,
+   "longitude": 46.363785
+  },
+  "properties": {
+   "orgName": "Mahajanga Atsinanana",
+   "orgType": "CONG",
+   "address": "Antanimalandy\n401 MAHAJANGA",
+   "languageCode": "MG",
+   "schedule": "Sun 07:30 Wed 18:15",
+   "phones": [ "0320283115" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -590,20 +593,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -15.717806,
-   "longitude": 46.363785,
-   "iso": "MDG"
+   "longitude": 46.363785
   },
   "properties": {
    "orgName": "Mahajanga SOTEMA",
    "orgType": "CONG",
    "address": "Antanimalandy\n401 MAHAJANGA",
    "languageCode": "MG",
-   "schedule": "Sun 16:00 Thu 18:30",
+   "schedule": "Sun 10:00 Thu 18:30",
    "phones": [ "0331462494" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -613,8 +615,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -15.708476,
-   "longitude": 46.370751,
-   "iso": "MDG"
+   "longitude": 46.370751
   },
   "properties": {
    "orgName": "Mahajanga Antanimalandy Avaratra",
@@ -625,8 +626,8 @@
    "phones": [ "0324813306; 0344157031" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -636,22 +637,43 @@
   "isPrimary": 1,
   "location": {
    "latitude": -15.674058,
-   "longitude": 46.344651,
-   "iso": "MDG"
+   "longitude": 46.344651
   },
   "properties": {
    "orgName": "Amborovy",
    "orgType": "CONG",
    "address": "Amborovy Tsararivotra\nMAHAJANGA",
    "languageCode": "MG",
-   "schedule": "Sun 08:30 Wed 04:00",
+   "schedule": "Sun 07:30 Wed 04:00",
    "phones": [ "0324689891" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
+ },
+ {
+  "geoId": "918EDE81-3E41-4372-AA04-F5C2E0814BC8",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -15.636519,
+   "longitude": 46.407584
+  },
+  "properties": {
+   "orgName": "Mangatsa",
+   "orgType": "CONG",
+   "address": "Mangatsa\nMahajanga\n401 MAHAJANGA I",
+   "languageCode": "MG",
+   "schedule": "Sun 09:00 Wed 15:30",
+   "phones": [ "0329738274" ],
+   "isPrivateMtgPlace": 1
+  },
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "FF3218BA-47C3-43FF-8AB4-E84DCB60FEB7",
@@ -659,20 +681,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -15.633207,
-   "longitude": 46.506757,
-   "iso": "MDG"
+   "longitude": 46.506757
   },
   "properties": {
    "orgName": "Betsako",
    "orgType": "CONG",
    "address": "Antampon'ny Tanana Betsako\nMahajanga MAHAJANGA II",
    "languageCode": "MG",
-   "schedule": "Sun 08:30 Fri 02:30",
-   "phones": [ "0344929505" ],
+   "schedule": "Sun 09:00 Fri 02:30",
+   "phones": [ "038 65 003 03" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
@@ -682,8 +703,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -15.712509,
-   "longitude": 47.114272,
-   "iso": "MDG"
+   "longitude": 47.114272
   },
   "properties": {
    "orgName": "Mahajamba",
@@ -694,8 +714,8 @@
    "phones": [ "0346518582; 0388962158" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -705,8 +725,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -15.936722,
-   "longitude": 47.731823,
-   "iso": "MDG"
+   "longitude": 47.731823
   },
   "properties": {
    "orgName": "Ampasimatera",
@@ -717,8 +736,8 @@
    "phones": [ "0349076171" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -728,8 +747,7 @@
   "isPrimary": 1,
   "location": {
    "latitude": -15.766191,
-   "longitude": 47.578577,
-   "iso": "MDG"
+   "longitude": 47.578577
   },
   "properties": {
    "orgName": "Tsarahasina",
@@ -737,11 +755,11 @@
    "address": "Ampitan'i Arnausse\n407",
    "languageCode": "MG",
    "schedule": "Sun 08:30 Wed 15:00",
-   "phones": [ "0322700908" ],
+   "phones": [ "0334766265" ],
    "isPrivateMtgPlace": 1
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -751,25 +769,51 @@
   "isPrimary": 1,
   "location": {
    "latitude": -15.569007,
-   "longitude": 47.622117,
-   "iso": "MDG"
+   "longitude": 47.622117
   },
   "properties": {
-   "orgName": "Port-Bergé",
+   "orgName": "Port-Bergé Antsinanana",
    "orgType": "CONG",
    "address": "Lot 20 Bis Ankirovaka\nPort-Bergé\n419 PORT-BERGER(BORIZINY-VAOVAO)",
    "languageCode": "MG",
-   "schedule": "Sun 08:30 Wed 17:00",
+   "schedule": "Sun 07:30 Wed 17:00",
    "phones": [
     "+261&nbsp;325988892",
     "+261&nbsp;347223358"
    ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
+ },
+ {
+  "geoId": "DE45791F-DC5C-4997-9927-359154D125FD",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -15.569007,
+   "longitude": 47.622117
+  },
+  "properties": {
+   "orgName": "Port-bergé Andrefana",
+   "orgType": "CONG",
+   "address": "Lot 20 Bis Ankirovaka\nPort-Bergé\n419 PORT-BERGER(BORIZINY-VAOVAO)",
+   "languageCode": "MG",
+   "schedule": "Sun 10:00 Fri 17:00",
+   "phones": [
+    "+261&nbsp;348464878",
+    "+261&nbsp;337995631",
+    "+261&nbsp;34 84 648 78",
+    "+261&nbsp;321777087"
+   ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "FE102CB0-A9E1-43F8-AED3-601DEEB443A8",
@@ -777,58 +821,53 @@
   "isPrimary": 1,
   "location": {
    "latitude": -12.823915,
-   "longitude": 45.107696,
-   "iso": "MDG"
+   "longitude": 45.107696
   },
   "properties": {
    "orgName": "CHICONI",
    "orgType": "CONG",
    "address": "31 Rue Mattoir Adballah\nQuartier Ampadza Sohoa\n97670 Chiconi\nMAYOTTE",
    "languageCode": "F",
-   "schedule": "Sat 16:00 Tue 18:30",
+   "schedule": "Sat 16:00 Tue 18:00",
+   "relatedLanguageCodes": [ "MG" ],
    "phones": [ "+262&nbsp;269 66 48 78" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "7D62EE25-149B-43B4-85D4-F2571F504AD7",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.778813,
-   "longitude": 45.223598,
-   "iso": "MDG"
+   "longitude": 45.223598
   },
   "properties": {
    "orgName": "MAMOUDZOU",
    "orgType": "CONG",
    "address": "150 Route de la Convalescence\n97600 MAMOUDZOU\nMAYOTTE",
    "languageCode": "F",
-   "schedule": "Sun 10:00 Wed 18:15",
-   "relatedLanguageCodes": [
-    "SW",
-    "ORR"
-   ],
+   "schedule": "Sat 16:00 Wed 18:15",
+   "relatedLanguageCodes": [ "MG" ],
    "phones": [ "+262&nbsp;269 61 12 35" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
   "active": 1,
   "firstSeen": "2022-12-02"
  },
  {
   "geoId": "9E53496F-53F0-4837-BA2A-3DBC652518E6",
   "type": "weekly",
-  "isPrimary": 0,
+  "isPrimary": 1,
   "location": {
    "latitude": -12.778813,
-   "longitude": 45.223598,
-   "iso": "MDG"
+   "longitude": 45.223598
   },
   "properties": {
    "orgName": "MAMOUDZOU MALGACHE",
@@ -839,7 +878,7 @@
    "phones": [ "+262 (0)2.69.61.12.35" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2022-12-02"
@@ -850,20 +889,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -12.778813,
-   "longitude": 45.223598,
-   "iso": "MDG"
+   "longitude": 45.223598
   },
   "properties": {
    "orgName": "Mamoudzou Swahili - MAMOUDZOU",
    "orgType": "GROUP",
    "address": "150 Route de la Convalescence\n97600 MAMOUDZOU\nMAYOTTE",
    "languageCode": "SW",
-   "schedule": "Sat 17:30 undefined null",
+   "schedule": "Sun 10:00 undefined null",
    "relatedLanguageCodes": [ "F" ],
    "phones": [ "+262&nbsp;269 61 12 35" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-02-20"
@@ -874,44 +912,68 @@
   "isPrimary": 1,
   "location": {
    "latitude": -12.778813,
-   "longitude": 45.223598,
-   "iso": "MDG"
+   "longitude": 45.223598
   },
   "properties": {
    "orgName": "Mamoudzou mahorais - MAMOUDZOU",
    "orgType": "GROUP",
    "address": "150 Route de la Convalescence\n97600 MAMOUDZOU\nMAYOTTE",
    "languageCode": "ORR",
-   "schedule": "Sun 10:00 undefined null",
+   "schedule": "Sat 17:30 undefined null",
    "relatedLanguageCodes": [ "F" ],
    "phones": [ "+262&nbsp;269 61 12 35" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
+  "lastVisit": "2025-07-24",
   "lastSeen": "2023-12-27",
   "active": 1,
   "firstSeen": "2023-02-20"
+ },
+ {
+  "geoId": "025AB711-1295-4404-A97F-33F8925EAFF5",
+  "type": "weekly",
+  "isPrimary": 1,
+  "location": {
+   "latitude": -12.778813,
+   "longitude": 45.223598
+  },
+  "properties": {
+   "orgName": "Mamoudzou malgache - MAMOUDZOU",
+   "orgType": "GROUP",
+   "address": "150 Route de la Convalescence\n97600 MAMOUDZOU\nMAYOTTE",
+   "languageCode": "MG",
+   "schedule": "Sat 16:00 undefined null",
+   "relatedLanguageCodes": [ "F" ],
+   "phones": [ "+262&nbsp;269 61 12 35" ],
+   "isPrivateMtgPlace": 0
+  },
+  "lastVisit": "2025-07-24",
+  "lastSeen": "2025-07-24",
+  "active": 1,
+  "firstSeen": "2025-07-23"
  },
  {
   "geoId": "0F462E65-E08E-4BCB-AD79-5B55E24E1399",
   "type": "weekly",
   "isPrimary": 1,
   "location": {
-   "latitude": -15.020707,
-   "longitude": 47.891026,
-   "iso": "MDG"
+   "latitude": -15.021736,
+   "longitude": 47.889225
   },
   "properties": {
    "orgName": "Anahidrano",
    "orgType": "CONG",
-   "address": "Avaratry ny  Paositra\nAnahidrano\n407 ANTSOHIHY",
+   "address": "MANAKANA (Secteur I) andrefan'ny Trano Mavo\n407 ANTSOHIHY",
    "languageCode": "MG",
-   "schedule": "Sun 08:30 Fri 15:00",
-   "phones": [ "0345699698" ],
-   "isPrivateMtgPlace": 1
+   "schedule": "Sun 08:30 Wed 15:00",
+   "phones": [
+    "+261&nbsp;344228867",
+    "+261&nbsp;34 50 741 57"
+   ],
+   "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -921,20 +983,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -14.883021,
-   "longitude": 47.988231,
-   "iso": "MDG"
+   "longitude": 47.988231
   },
   "properties": {
-   "orgName": "Antsohihy",
+   "orgName": "Antsohihy Atsimo",
    "orgType": "CONG",
    "address": "Andrafan'ny SE.VI.RA\nANTSOHIHY",
    "languageCode": "MG",
-   "schedule": "Sun 09:00 Wed 17:30",
-   "phones": [ "+261&nbsp;32 42 517 14" ],
+   "schedule": "Sun 07:30 Wed 17:30",
+   "phones": [ "0344897800" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  },
@@ -944,20 +1005,19 @@
   "isPrimary": 1,
   "location": {
    "latitude": -14.883021,
-   "longitude": 47.988231,
-   "iso": "MDG"
+   "longitude": 47.988231
   },
   "properties": {
-   "orgName": "Antsohihy Tsimihety",
+   "orgName": "Antsohihy Avaratra",
    "orgType": "CONG",
    "address": "Andrafan'ny SE.VI.RA\nANTSOHIHY",
    "languageCode": "MG",
-   "schedule": "Sun 08:30 Wed 17:30",
+   "schedule": "Sun 07:30 Wed 17:30",
    "phones": [ "0344010804" ],
    "isPrivateMtgPlace": 0
   },
-  "lastVisit": "2023-12-27",
-  "lastSeen": "2023-12-27",
+  "lastVisit": "2025-07-23",
+  "lastSeen": "2025-07-23",
   "active": 1,
   "firstSeen": "2022-12-03"
  }
